@@ -1,0 +1,177 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+July (
+*)
+(Reference for a preliminary ruling — Consumer protection — Directive 2011/83/EU — Article 6(1)(c) — Information requirements for distance and off‑premises contracts — Obligation, for a trader, to indicate its telephone number and its fax number ‘where they are available’ — Scope)
+In Case C‑649/17,
+REQUEST for a preliminary ruling under Article TFEU from the Bundesgerichtshof (Federal Court of Justice, Germany), made by decision of October 2017, received at the Court on November 2017, in the proceedings
+Bundesverband der Verbraucherzentralen und Verbraucherverbände — Verbraucherzentrale Bundesverband eV
+v
+Amazon EU Sàrl,
+THE COURT (First Chamber),
+composed of J.-C. Bonichot, President of the Chamber, K. Lenaerts, President of the Court, acting as Judge of the First Chamber, C. Toader, L. Bay Larsen and M. Safjan (Rapporteur), Judges,
+Advocate General: G. Pitruzzella,
+Registrar: R. Şereş, administratrice,
+having regard to the written procedure and further to the hearing on November 2018,
+after considering the observations submitted on behalf of:
+–
+the Bundesverband der Verbraucherzentralen und Verbraucherverbände — Verbraucherzentrale Bundesverband eV, by J. Kummer and P. Wassermann, Rechtsanwälte,
+–
+Amazon EU Sàrl, by C. Rohnke, Rechtsanwalt,
+–
+the German Government, initially by T. Henze and M. Hellmann, and subsequently by M. Hellmann and U. Bartl, acting as Agents,
+–
+the French Government, by J. Traband and A.-L. Desjonquères, acting as Agents,
+–
+the European Commission, by C. Hödlmayr and N. Ruiz García and by C. Valero, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on February 2019,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 6(1)(c) of Directive 2011/83/EU of the European Parliament and of the Council of October on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council (OJ L 304, p. 64).
+The request has been made in the context of proceedings between the Bundesverband der Verbraucherzentralen und Verbraucherverbände — Verbraucherzentrale Bundesverband eV (Federal Union of Consumer Organisations and Associations, Germany) (‘the Federal Union’) and Amazon EU Sàrl concerning an application for an injunction brought by the Federal Union, relating to Amazon EU practices for the display of information allowing consumers to contact that company.
+Legal context
+European Union law
+Recitals 4, 5, 7, 12, and of Directive 2011/state:
+‘(4)
+… The harmonisation of certain aspects of consumer distance and off-premises contracts is necessary for the promotion of a real consumer internal market striking the right balance between a high level of consumer protection and the competitiveness of enterprises …
+(5)
+… The full harmonisation of consumer information and the right of withdrawal in distance and off-premises contracts will contribute to a high level of consumer protection and a better functioning of the business-to-consumer internal market.
+…
+(7)
+Full harmonisation of some key regulatory aspects should considerably increase legal certainty for both consumers and traders. Both consumers and traders should be able to rely on a single regulatory framework based on clearly defined legal concepts regulating certain aspects of business-to-consumer contracts across the Union. The effect of such harmonisation should be to eliminate the barriers stemming from the fragmentation of the rules and to complete the internal market in this area. Those barriers can only be eliminated by establishing uniform rules at Union level. Furthermore consumers should enjoy a high common level of protection across the Union.
+…
+(12)
+The information requirements provided for in this Directive should complete the information requirements of Directive 2006/123/EC of the European Parliament and of the Council of December on services in the internal market [(OJ L 376, p. 36)] and Directive 2000/31/EC of the European Parliament and of the Council of June on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (‘Directive on electronic commerce’) [(OJ L 178, p. 1)]. Member States should retain the possibility to impose additional information requirements applicable to service providers established in their territory.
+…
+(21)
+… In an off-premises context, the consumer may be under potential psychological pressure or may be confronted with an element of surprise, irrespective of whether or not the consumer has solicited the trader’s visit. …
+…
+(34)
+The trader should give the consumer clear and comprehensible information before the consumer is bound by a distance or off-premises contract, a contract other than a distance or an off-premises contract, or any corresponding offer. In providing that information, the trader should take into account the specific needs of consumers who are particularly vulnerable because of their mental, physical or psychological infirmity, age or credulity in a way which the trader could reasonably be expected to foresee. However, taking into account such specific needs should not lead to different levels of consumer protection.’
+According to Article of Directive 2011/83, entitled ‘Subject matter’:
+‘The purpose of this Directive is, through the achievement of a high level of consumer protection, to contribute to the proper functioning of the internal market by approximating certain aspects of the laws, regulations and administrative provisions of the Member States concerning contracts concluded between consumers and traders.’
+Article of that directive, entitled ‘Definitions’, provides:
+‘For the purpose of this Directive, the following definitions shall apply:
+…
+(7)
+“distance contract” means any contract concluded between the trader and the consumer under an organised distance sales or service-provision scheme without the simultaneous physical presence of the trader and the consumer, with the exclusive use of one or more means of distance communication up to and including the time at which the contract is concluded;
+(8)
+“off-premises contract” means any contract between the trader and the consumer:
+(a)
+concluded in the simultaneous physical presence of the trader and the consumer, in a place which is not the business premises of the trader;
+(b)
+for which an offer was made by the consumer in the same circumstances as referred to in point (a);
+(c)
+concluded on the business premises of the trader or through any means of distance communication immediately after the consumer was personally and individually addressed in a place which is not the business premises of the trader in the simultaneous physical presence of the trader and the consumer; or
+(d)
+concluded during an excursion organised by the trader with the aim or effect of promoting and selling goods or services to the consumer;
+…’
+Article of that directive, entitled ‘Level of harmonisation’, provides:
+‘Member States may decide not to apply this Directive or not to maintain or introduce corresponding national provisions to off-premises contracts for which the payment to be made by the consumer does not exceed EUR 50. Member States may define a lower value in their national legislation.’
+Chapter II of Directive 2011/83, entitled ‘Consumer information for contracts other than distance or off-premises contracts’, contains Article thereof.
+Under Article 5, entitled ‘Information requirements for contracts other than distance or off-premises contracts’:
+‘1.   Before the consumer is bound by a contract other than a distance or an off-premises contract, or any corresponding offer, the trader shall provide the consumer with the following information in a clear and comprehensible manner, if that information is not already apparent from the context:
+…
+(b)
+the identity of the trader, such as his trading name, the geographical address at which he is established and his telephone number;
+…
+4.   Member States may adopt or maintain additional pre-contractual information requirements for contracts to which this Article applies.’
+Chapter III of Directive 2011/83, entitled ‘Consumer information and right of withdrawal for distance and off-premises contracts’, contains Articles to thereof.
+Article of that directive, entitled ‘Information requirements for distance and off-premises contracts’, provides:
+‘1.   Before the consumer is bound by a distance or off-premises contract, or any corresponding offer, the trader shall provide the consumer with the following information in a clear and comprehensible manner:
+…
+(c)
+the geographical address at which the trader is established and the trader’s telephone number, fax number and e-mail address, where available, to enable the consumer to contact the trader quickly and communicate with him efficiently and, where applicable, the geographical address and identity of the trader on whose behalf he is acting;
+…
+4.   The information referred to in points (h), (i) and (j) of paragraph may be provided by means of the model instructions on withdrawal set out in Annex I(A). The trader shall have fulfilled the information requirements laid down in points (h), (i) and (j) of paragraph if he has supplied these instructions to the consumer, correctly filled in.
+5.   The information referred to in paragraph shall form an integral part of the distance or off-premises contract and shall not be altered unless the contracting parties expressly agree otherwise.
+…
+8.   The information requirements laid down in this Directive are in addition to information requirements contained in [Directive 2006/123] and [Directive 2000/31] and do not prevent Member States from imposing additional information requirements in accordance with those Directives.
+Without prejudice to the first subparagraph, if a provision of [Directive 2006/123] or [Directive 2000/31] on the content and the manner in which the information is to be provided conflicts with a provision of this Directive, the provision of this Directive shall prevail.
+…’
+Article of Directive 2011/83, entitled ‘Communication by telephone’, provides, in paragraph thereof:
+‘Member States shall ensure that where the trader operates a telephone line for the purpose of contacting him by telephone in relation to the contract concluded, the consumer, when contacting the trader is not bound to pay more than the basic rate.’
+Annex I to that directive, entitled ‘Information concerning the exercise of the right of withdrawal’, includes a part A, entitled ‘Model instructions on withdrawal’ and a part B, entitled ‘Model withdrawal form’.
+Part A of that annex provides in particular the instructions which must be followed by traders in order to communicate to consumers standard information relating to its right of withdrawal and, more particularly, the following instruction:
+‘Insert your name, geographical address and, where available, your telephone number, fax number and e-mail address.’
+Part B of that annex contains an entry worded as follows:
+‘To [here the trader’s name, geographical address and, where available, his fax number and e-mail address are to be inserted by the trader].’
+German law
+Paragraph 312d(1) of the Bürgerliches Gesetzbuch (German Civil Code), entitled ‘Information requirements’, provides:
+‘Under off-premises and distance contracts, traders shall be required to provide information to consumers in accordance with the provisions of Paragraph 246a of the Einführungsgesetz zum Bürgerlichen Gesetzbuch (Introductory Law to the Civil Code) (‘the EGBGB’). The information provided by traders in fulfilment of that obligation constitutes an integral part of the contract, except where otherwise expressly agreed by the parties.’
+Article 246a of the EGBGB, entitled ‘Information requirements for off-premises contracts and distance contracts, with the exception of contracts relating to financial services’, provides, in point of the first sentence of paragraph 1(1) thereof:
+‘The trader shall, pursuant to Paragraph 312d(1) of the [Civil Code], provide the consumer with the following information:
+…
+2.
+his identity, such as his trading name, the geographical address at which he is established and his telephone number and, where available, his fax number and email address and, where applicable, the geographical address and identity of the trader on whose behalf he is acting.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Amazon EU operates in particular the website www.amazon.de, offering the online sale of various products.
+By making an order on that website, consumers had the possibility, in August 2014, before completing their order, to click on an electronic link marked ‘Contact us’. Consumers thus reached a web page where, under the heading ‘Contact us’, was a link ‘How would you like to contact us?’, they had the choice between three options: namely, to send an email, to make contact by telephone or to start an online conversation by way of chat. By contrast, that page did not provide a fax number. If the consumer chose the option of making contact by telephone, another web page opened, on which he had the possibility to provide his telephone number and to be called back. The same page also contained the information: ‘If you prefer, you can also call our general helpline’. The link ‘general helpline’ opened a window showing Amazon EU’s telephone numbers and containing the following text:
+‘General helpline
+Please note: We instead recommend using the function “Call me now” to obtain assistance quickly. Based on the information you have already provided, we will be able to help you straightaway.
+Should you prefer to call the general helpline, please bear in mind that you will have to answer a series of questions to confirm your identity.
+Should you wish to contact us via conventional means, you can also reach us at the following telephone numbers: …’
+Under the heading ‘Imprint’, included on the www.amazon.de website, consumers could also reach the page with the option to have someone call them back by clicking on the ‘Contact us’ icon.
+The Federal Union considered that Amazon EU did not respect its legal obligation to provide consumers with effective means to enter into contact with it, in so far as it did not inform consumers to the requisite legal standard of its telephone and fax numbers. Moreover, the Federal Union considered that Amazon EU did not indicate a telephone number in a clear and comprehensible manner and that the callback service did not fulfil the information requirements, since consumers have to undertake a number of steps to make contact with that company.
+The Federal Union brought an application for an injunction before the Landgericht Köln (Regional Court, Cologne, Germany) relating to Amazon EU practices for the display of information on its website.
+Since that court dismissed that application for an injunction by a judgment of October 2015, the Federal Union lodged an appeal against that decision before the Oberlandesgericht Köln (Higher Regional Court, Cologne, Germany).
+By judgment of July 2016, the Oberlandesgericht Köln (Higher Regional Court, Cologne) dismissed the appeal brought by the Federal Union. To that end, that court considered that Amazon EU fulfilled the pre-contractual information requirements by offering consumers sufficient possibilities for communication, as a result of its callback system and the possibility to contact it by chat or by email.
+In those circumstances, the Federal Union brought an appeal on a point of law (Revision) before the referring court, the Bundesgerichtshof (Federal Court of Justice, Germany).
+The referring court considers that, in order to resolve the dispute before it, it is necessary inter alia to specify the scope of the expression ‘lorsqu’ils sont disponibles’, ‘gegebenfalls’ or ‘where available’, included in Article 6(1)(c) of Directive 2011/83, respectively in the French, German and English versions of that provision.
+In that regard, it is apparent from a European Commission guidance document, published in June 2014, concerning Directive 2011/83, that that expression applies to the three means of distance communication referred to in Article 6(1)(c) of that directive, namely the telephone, fax and email.
+Therefore, according to the referring court, the information which traders must provide is that in relation only to means of communication already existing within their undertaking. By contrast, they are not required to establish a new telephone or fax line, or to create a new email address, where they decide also to conclude distance contracts.
+In that context, the question is raised whether traders who, while having means of communication such as the telephone, fax and an email address, use them however only for communication with other traders or the authorities, are required, under Article 6(1)(c) of Directive 2011/83, to provide information about those communication methods when entering into distance contracts with consumers.
+If that is so, traders who begin a new activity consisting in concluding distance contracts with consumers would be required to change their business organisation and to employ new employees, which would be likely to undermine their freedom to conduct a business, enshrined in Article and Article 17(1) of the Charter of Fundamental Rights of the European Union (‘the Charter’).
+Moreover, such an interpretation would conflict with the objective of Directive 2011/83, stated in recital thereof, which consists in striking the right balance between a high level of consumer protection and the competitiveness of enterprises.
+In those circumstances the Bundesgerichtshof (Federal Court of Justice) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+May Member States enact a provision that — like the provision in Article 246a(1)(1), first sentence, No 2, of the EGBGB (Introductory Law to the Civil Code) — obliges a trader to make his telephone number available to the consumer (not just where available but) always when entering into distance contracts prior to acceptance of the contract?
+(2)
+Does the expression “gegebenenfalls” (meaning “where available”) used in the German language-version of Article 6(1)(c) of Directive 2011/mean that traders must, if they decide to enter into distance contracts, provide information solely about the means of communication that are already actually available within their business, and that they are therefore not required to set up a new telephone or fax connection or email account?
+(3)
+If the second question is answered in the affirmative:
+Does the expression “gegebenenfalls” (meaning “where available”) used in the German language-version of Article 6(1)(c) of Directive 2011/refer solely to the means of communication that are already available in the business and are actually used by the trader for communication with consumers when entering into distance contracts, or does it also refer to means of communication that are available in the business but have hitherto been used by the trader exclusively for other purposes, such as to communicate with other traders or authorities?
+(4)
+Is the list of means of communication (telephone, fax and email) set out in Article 6(1)(c) of [that] directive …, [namely the] telephone, fax and [the] email address, exhaustive, or may traders also use other means of communication not mentioned in that list, such as online chat services or call-back facilities, provided that they ensure rapid contact and efficient communication?
+(5)
+Does the application of the transparency requirement of Article 6(1) of [that] directive …, according to which the trader must inform the consumer of the communication methods set out in Article 6(1)(c) of Directive 2011/in a clear and comprehensible manner, depend on the information being supplied quickly and efficiently?’
+Consideration of the questions referred
+By its questions, which should be examined together, the referring court asks, in essence, whether Article 6(1)(c) of Directive 2011/must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which requires traders, before concluding distance and off-premises contracts with consumers covered by Article 2(7) and (8) of that directive, to provide, in all circumstances, their telephone number, and whether that provision obliges traders to establish a telephone or fax line, or to create a new email address to allow consumers to contact them. The referring court also wishes to know whether those traders may, in circumstances such as those in the main proceedings, make use of means of communication which are not mentioned in that provision, such as instant messaging or a telephone callback system.
+First of all, it should be noted that, according to Article 6(1)(c) of Directive 2011/83, before the consumer is bound by a distance or off-premises contract or any corresponding offer, the trader is to provide him, in a clear and comprehensible manner, with information about the geographical address where the trader is established and the latter’s telephone number, fax number and email address, where they are available, in order to allow the consumer to contact it quickly and communicate with it efficiently and, where appropriate, the geographical address and identity of the trader on whose behalf he is acting.
+It is apparent in particular from the request for a preliminary ruling and from the comments presented by the parties to the main proceedings and the other interested parties in the present case, that two interpretations of the wording of Article 6(1)(c) of Directive 2011/are possible. Firstly, that provision could be read as providing for an obligation, for traders, to inform consumers of their telephone number and fax number in the event that those numbers are available to those traders. Secondly, that provision imposes such an obligation on traders solely if the latter uses the telephone or fax in its contacts with consumers.
+It must be noted that the wording of that provision and, more particularly, the expression ‘where available’ contained in it, does not, in itself, allow the exact scope of that provision to be determined.
+That issue is not resolved by the analysis of different language versions of Article 6(1)(c) of Directive 2011/83. Although the majority of those versions, in particular the versions in English (‘where available’), French (‘lorsqu’ils sont disponibles’), Dutch (‘indien beschikbaar’), Italian (‘ove disponibili’), Polish (‘o ile jest dostępny’) and Finnish (‘jos nämä ovat käytettävissä’) suggest that, under that provision, the obligation imposed on traders to inform consumers of their telephone and fax numbers applies only where those traders have such means of communication, the fact remains that other versions of that provision, in particular those in Spanish (‘cuando proceda’) and German (‘gegebenenfalls’), do not allow the circumstances to be determined in which that obligation does not apply.
+It is therefore necessary to interpret that provision by reference to the context in which it occurs and the objectives pursued by the rules of which it is part (see, by analogy, judgments of January 2019, Balandin and Others, C‑477/17, EU:C:2019:60, paragraph 31, and of February 2019, Rimšēvičs and ECB v Latvia, C‑202/and C‑238/18, EU:C:2019:139, paragraph 45).
+As regards, in the first place, the context of Article 6(1)(c) of Directive 2011/and the general scheme of that directive, it should be noted that that provision provides for an obligation to provide pre-contractual information in relation to distance and off-premises contracts referred to in Article 2(7) and (8) of that directive.
+As regards, secondly, the objective of Directive 2011/83, as follows from Article thereof, read in conjunction with recitals 4, and 7, that directive seeks to provide a high level of consumer protection by ensuring that consumers are informed and secure in transactions with traders. Moreover, the protection of consumers within EU policies is set out in Article TFEU and in Article of the Charter.
+Directive 2011/seeks to afford consumers extensive protection by conferring on them a number of rights in relation to, inter alia, distance and off-premises contracts (see, to that effect, judgment of January 2019, Walbusch Walter Busch, C‑430/17, EU:C:2019:47, paragraph 35).
+In particular, it should be noted that the possibility, for consumers, to contact traders quickly and to communicate with them efficiently, as provided for in Article 6(1)(c) of Directive 2011/83, is of fundamental importance for ensuring and effectively implementing consumer rights and, in particular, the right of withdrawal, the detailed arrangements and conditions for the exercise of which are set out in Articles to of that directive.
+That is moreover the reason why part A, entitled ‘Model instructions on withdrawal’, partly reproduced in part B, entitled ‘Model withdrawal form’, which is included in Annex I to Directive 2011/83, provides for the indication of the geographical address of the trader and, where they are available, his telephone and fax numbers and his email address.
+With this in mind, Article 6(1) of Directive 2011/seeks to ensure the communication to consumers, before the conclusion of a contract, both of information concerning the contractual terms and the consequences of that conclusion, allowing consumers to decide whether they wish to be contractually bound to a trader (see, to that effect, judgment of January 2019, Walbusch Walter Busch, C‑430/17, EU:C:2019:47, paragraph 36), and of information necessary for proper performance of that contract and, in particular, for the exercise of their rights, in particular the right of withdrawal (see, by analogy, judgment of July 2012, Content Services, C‑49/11, EU:C:2012:419, paragraph 34).
+In that regard, although it is true that the possibility for consumers to contact traders quickly and to communicate efficiently with them, as provided for by Article 6(1)(c) of Directive 2011/83, is of crucial importance for protecting their rights, as has been noted in paragraph of the present judgment, the fact remains that, in interpreting that provision, it is necessary to ensure the right balance between a high level of consumer protection and the competitiveness of undertakings, as is stated in recital of that directive, while respecting the undertaking’s freedom to conduct a business, as set out in Article of the Charter (see, by analogy, judgment of January 2019, Walbusch Walter Busch, C‑430/17, EU:C:2019:47, paragraphs and 42).
+It should be noted in that context that, by adopting the provisions of Directive 2011/and in particular Article 6(1)(c) thereof, the Union legislature considered, as is stated in recital of that directive, that where traders provide pre-contractual information, they should take account of the specific needs of consumers who are particularly vulnerable because of their mental, physical or psychological infirmity, age or credulity in a way which the trader could reasonably be expected to foresee.
+It follows from the foregoing that although Article 6(1)(c) of Directive 2011/does not determine the precise nature of the means of communication which must be established by traders, that provision necessarily requires traders to put at the disposal of all consumers a means of communication which allows the latter to contact them quickly and to communicate with them efficiently.
+It is for the referring court to assess whether, in the light of all the circumstances in which consumers make contact with traders through a website and in particular of the presentation and functionality of that site, the means of communication made available to those consumers by those traders allow consumers to contact traders quickly and to communicate with them efficiently, in accordance with Article 6(1)(c) of Directive 2011/83.
+Moreover, an unconditional obligation to provide consumers, in all circumstances, with a telephone number, or even to put in place a telephone or fax line, or to create a new email address in order to allow consumers to contact traders seems to be disproportionate, in particular in the economic context of the functioning of certain undertakings, in particular small undertakings, which might seek to reduce their operating costs by organising sales or the provision of services at a distance or off-premises.
+Furthermore, Article 5(1)(b) of Directive 2011/on information obligations imposed on traders in the context of the conclusion of distance or off-premises contracts, unequivocally provides that traders must provide consumers, before the latter are bound by such a contract or any corresponding offer, ‘the following information in a clear and comprehensible manner, if that information is not already apparent from the context: … the identity of the trader, such as his trading name, the geographical address at which he is established and his telephone number’. It follows therefrom that if the intention of the EU legislature had been to confer on the obligation to provide details of their telephone numbers, imposed on traders by Article 6(1)(c) of that directive, the same scope as that unequivocally imposed on those traders under Article 5(1)(b) of that directive, it seems plausible that it would have adopted the same wording.
+Finally, as is stated by the Advocate General in point of his Opinion, Article of Directive 2011/83, which requires Member States not to allow traders who operate a telephone line for the purpose of contacting consumers to charge more than the basic call rate when consumers contact them in relation to a concluded contract, also supports an interpretation of Article 6(1)(c) of Directive 2011/according to which the use, by traders, of the telephone as a means of communicating with consumers in the context of distance contracts is also not imposed in the context of a pre-contractual relationship.
+In the light of the foregoing considerations, it is necessary to interpret the words ‘where available’ provided for in Article 6(1)(c) of Directive 2011/as covering cases where traders have a telephone or fax number and do not use them solely for purposes other than contacting consumers. In the absence thereof, that provision does not impose on traders the obligation to inform consumers of that telephone number, to provide a telephone or fax line, or to create a new email address to allow consumers to contact them.
+Furthermore, it must be noted that that provision does not preclude traders from providing other means of communication than by telephone, fax or email in order to satisfy the criteria of direct and effective communication, such as, in particular, an electronic enquiry template, by means of which consumers can contact traders by means of a website and receive a written response or can be quickly called back. More particularly, it does not preclude traders offering goods or services online and which have a telephone number available in a few clicks from encouraging the use, by consumers, of other means of communication which are not mentioned in that provision, such as instant messaging or a telephone callback system, to allow consumers to contact them quickly and to communicate with them efficiently, in so far as the information that traders are obliged to provide under Article 6(1)(c) of Directive 2011/83, and in particular that telephone number, is made accessible in a clear and comprehensible manner, which it is for the referring court to verify. In that regard, the fact that the telephone number is available only following a series of clicks does not, in itself, mean that the manner used is not clear and comprehensible, regarding a situation such as that in the dispute in the main proceedings, which concerns a trader offering the online sale of various goods, exclusively by means of a website.
+Having regard to all the foregoing considerations, the answer to the questions referred is that:
+–
+Article 6(1)(c) of Directive 2011/must be interpreted as, firstly, precluding national legislation, such as that at issue in the main proceedings, which imposes on traders, before concluding a distance or off-premises contract referred to in Article 2(7) and (8) of that directive, to provide, in all circumstances, their telephone number. Secondly, that provision does not imply an obligation for traders to establish a telephone or fax line, or to create a new email address to allow consumers to contact them and requires that number, the fax number or their email address to be communicated only where those traders already have those means of communication with consumers;
+–
+Article 6(1)(c) of Directive 2011/must be interpreted as meaning that, although that provision requires traders to make available to consumers a means of communication capable of satisfying the criteria of direct and effective communication, it does not preclude those traders from providing other means of communication than those listed in that provision in order to satisfy those criteria.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+Article 6(1)(c) of Directive 2011/83/EU of the European Parliament and of the Council of October on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council must be interpreted as, firstly, precluding national legislation, such as that at issue in the main proceedings, which imposes on traders, before concluding a distance or off-premises contract referred to in Article 2(7) and (8) of that directive, to provide, in all circumstances, their telephone number. Secondly, that provision does not imply an obligation for traders to establish a telephone or fax line, or to create a new email address to allow consumers to contact them and requires that number, the fax number or their email address to be communicated only where those traders already have those means of communication with consumers;
+ 
+Article 6(1)(c) of Directive 2011/must be interpreted as meaning that, although that provision requires traders to make available to consumers a means of communication capable of satisfying the criteria of direct and effective communication, it does not preclude those traders from providing other means of communication than those listed in that provision in order to satisfy those criteria.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

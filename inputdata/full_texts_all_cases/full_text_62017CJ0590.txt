@@ -1,0 +1,115 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+March (
+*)
+(Reference for a preliminary ruling — Directive 93/13/EEC — Scope — Article 2(b) and (c) — Concepts of ‘consumer’ and of ‘seller or supplier’ — Finance for the purchase of a home — Mortgage loan granted by an employer to its employee and to his spouse, the jointly and severally liable co-borrower)
+In Case C‑590/17,
+REQUEST for a preliminary ruling under Article TFEU from the Cour de cassation (Court of Cassation, France), made by decision of October 2017, received at the Court on October 2017, in the proceedings
+Henri Pouvin,
+Marie Dijoux, the spouse of Henri Pouvin
+v
+Électricité de France (EDF),
+THE COURT (Third Chamber),
+composed of M. Vilaras, President of the Fourth Chamber, acting as President of the Third Chamber, J. Malenovský, L. Bay Larsen, M. Safjan (Rapporteur) and D. Šváby, Judges,
+Advocate General: M. Bobek,
+Registrar: R. Şereş, administrator,
+having regard to the written procedure and further to the hearing on September 2018,
+after considering the observations submitted on behalf of:
+–
+Mr Pouvin and Ms Dijoux, spouse of Pouvin, by J. Buk Lament, avocate,
+–
+Électricité de France (EDF), by E. Piwnica, avocat,
+–
+the French Government, by D. Colas and J. Traband and by A.‑L. Desjonquères, acting as Agents,
+–
+the Greek Government, by M. Tassopoulou, D. Tsagkaraki and C. Fatourou and by K. Georgiadis, acting as Agents,
+–
+the European Commission, by N. Ruiz García and C. Valero, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on November 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 2(b) and (c) of Council Directive 93/13/EEC of April on unfair terms in consumer contracts (OJ L 95, p. 29).
+The request has been made in the context of proceedings between Mr Henri Pouvain and Ms Marie Dijoux, the spouse of Henri Pouvain, on the one hand, and Électricité de France (EDF), on the other hand, concerning a request for payment of outstanding sums owed in the context of a mortgage loan granted by that company to those parties.
+Legal context
+European Union law
+The 9th, 10th and 14th recitals of Directive 93/state:
+‘Whereas … acquirers of goods and services should be protected against the abuse of power by the seller or supplier, in particular against one-sided standard contracts and the unfair exclusion of essential rights in contracts;
+Whereas more effective protection of the consumer can be achieved by adopting uniform rules of law in the matter of unfair terms; whereas those rules should apply to all contracts concluded between sellers or suppliers and consumers; whereas as a result inter alia contracts relating to employment, contracts relating to succession rights, contracts relating to rights under family law and contracts relating to the incorporation and organisation of companies or partnership agreements must be excluded from this Directive;
+…
+Whereas … this Directive also applies to trades, business or professions of a public nature.’
+Under Article 1(1) of that directive:
+‘The purpose of this Directive is to approximate the laws, regulations and administrative provisions of the Member States relating to unfair terms in contracts concluded between a seller or supplier and a consumer.’
+Article of that directive provides:
+‘For the purposes of this Directive:
+…
+(b)
+“consumer” means any natural person who, in contracts covered by this Directive, is acting for purposes which are outside his trade, business or profession;
+(c)
+“seller or supplier” means any natural or legal person who, in contracts covered by this Directive, is acting for purposes relating to his trade, business or profession, whether publicly owned or privately owned.’
+French law
+Article L.132-of the code de la consommation (Consumer Code), in the version applicable to the dispute in the main proceedings, transposed Directive 93/into French law.
+According to the first paragraph of that article:
+‘In contracts concluded between sellers and suppliers and persons who are not sellers or suppliers or who are consumers, terms the purpose or effect of which is to cause a significant imbalance in the rights and obligations of the parties to the contract, to the detriment of the person who is not a seller or supplier or who is a consumer, are unfair.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+On April 1995, EDF granted Mr Pouvin, an employee of that company, and to his spouse (‘the borrowers’) a loan under the scheme providing assistance for the purchase of a home, in order to finance the purchase of their main residence, amounting to EUR 625.73, to be repaid in monthly instalments over two 10-year amortisation periods, at the respective interest rates of 4.75% and 8.75% (‘the loan contract’).
+According to Article of the loan contract, the latter was to be automatically terminated where, for whatever reason, the borrower ceased to be a member of EDF staff. The effect of that term is that, where the employment contract is terminated, the capital becomes repayable immediately, even if the borrowers have not failed to comply with their obligations.
+Since Mr Pouvin resigned from EDF on January 2002, the borrowers stopped paying the loan instalments.
+On April 2012, after having applied the term providing for automatic termination of the loan contract where the borrower ceased to be a member of EDF staff, the latter issued a summons against the borrowers for payment of the sum of EUR 238.37, remaining payable in respect of capital, together with interest from January 2002, and the sum of EUR pursuant to the penalty clause.
+By judgment of March 2013, the tribunal de grande instance de Saint-Pierre (Regional Court, Saint-Pierre, France) declared the term providing for automatic termination of the loan contract where the borrower ceased to be a member of EDF staff to be unfair. Therefore, that court dismissed EDF’s application for a declaration that that contract be automatically terminated. At the same time, that court ordered the cancellation of that contract on account of the default relating to the payment of the loan instalments and ordered the borrowers, jointly and severally, to pay EDF the sum of EUR 551.84, together with interest at a rate of 6% from April 2012, and the sum of EUR 118.63, together with interest at a rate of 6% from the delivery of the judgment, in relation to damage suffered by EDF as a result of the borrowers’ failures.
+By judgment of September 2014, the cour d’appel de Saint-Denis (Court of Appeal, Saint-Denis, France) set aside the judgment of March and held that the automatic termination of the contract at issue had taken place on January 2002. Consequently, it ordered the borrowers to pay to EDF the sum of EUR 238.37, together with interest at a rate of 6% from January 2002, it being necessary to deduct the sums paid after that date. Moreover, that court ordered the borrowers to pay EDF the sum of EUR 3517, together with statutory interest from January 2002, pursuant to the contractual penalty term.
+That court considered that Article L.132-of the Consumer Code was not applicable in the present case, since EDF had concluded the loan contract in its capacity as employer and could not, consequently, be regarded as a ‘seller of supplier’, for the purposes of that article.
+The borrowers brought an appeal in cassation against that judgment, claiming to have acted as consumers and invoking the case-law of the Cour de cassation (Court of Cassation, France) according to which a term which provides for the termination of the loan on the occurrence of an event that is external to the agreement is unfair.
+The Cour de cassation (Court of Cassation) considers that the questions raised by the ground of appeal, on which the outcome of the appeal depends, require a uniform interpretation of Article of Directive 93/13.
+In those circumstances, the Cour de cassation (Court of Cassation) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is Article of … Directive 93/… to be interpreted as meaning that a company such as EDF, where it grants an employee a mortgage loan covered by the scheme providing assistance for the purchase of a home, for which only members of the staff of that company are eligible, is acting as a seller or supplier?
+(2)
+Is Article of Directive 93/… to be interpreted as meaning that a company such as EDF, where it grants such a mortgage loan to the spouse of an employee who is not a member of the staff of that company but is jointly and severally liable as co-borrower, is acting as a seller or supplier?
+(3)
+Is Article of Directive 93/… to be interpreted as meaning that an employee of a company such as EDF who enters into an agreement with the company for such a loan is acting as a consumer?
+(4)
+Is Article of Directive 93/… to be interpreted as meaning that the spouse of such an employee who enters into the same loan, not as an employee of the company but as a jointly and severally liable co-borrower, is acting as a consumer?’
+Consideration of the questions referred
+By its questions, which should be examined together, the referring court asks, in essence, whether Article 2(b) and (c) of Directive 93/must be interpreted as meaning that, first, the employee of an undertaking and his spouse, who conclude a loan contract with that undertaking, reserved, principally, to members of staff of that undertaking, with a view to financing the purchase of real estate for private purposes, must be regarded as ‘consumers’, within the meaning of Article 2(b) of that directive, and, secondly, as regards the grant of that loan, that undertaking must be regarded as a ‘seller or supplier’ within the meaning of Article 2(c) of that directive.
+First of all, it should be noted that, as the 10th recital of Directive 93/states, the uniform rules of law in the matter of unfair terms should apply to ‘all contracts’ concluded between ‘sellers or suppliers’ and ‘consumers’, as defined in Article 2(b) and (c) of that directive (judgment of May 2018, Karel de Grote — Hogeschool Katholieke Hogeschool Antwerpen, C‑147/16, EU:C:2018:320, paragraph 46).
+At the same time, the 10th recital of Directive 93/states that ‘inter alia contracts relating to employment … must be excluded from this directive’.
+In those circumstances, it is necessary to determine whether the fact that the parties to a loan contract such as that at issue in the main proceedings are also bound by an employment contract has an impact on their respective statuses as ‘consumer’ and ‘seller or supplier’, for the purposes of Article 2(b) and (c) of Directive 93/13, with regard to that loan contract.
+In that regard, in accordance with that provision, a ‘consumer’ is any natural person who, in contracts covered by that directive, is acting for purposes which are outside his trade, business or profession. Likewise, a ‘seller or supplier’ is any natural or legal person who, in contracts covered by Directive 93/13, is acting for purposes relating to his trade, business or profession, whether publicly owned or privately owned.
+As is apparent from the Court’s settled case-law, it is by reference to the capacity of the contracting parties, according to whether or not they are acting for purposes relating to their trade, business or profession, that the directive defines the contracts to which it applies (judgment of May 2018, Karel de Grote — Hogeschool Katholieke Hogeschool Antwerpen, C‑147/16, EU:C:2018:320, paragraph and the case-law cited).
+As regards, in the first place, the concept of ‘consumer’, within the meaning of Article 2(b) of Directive 93/13, it is objective in nature and is distinct from the concrete knowledge the person in question may have, or from the information that person actually has (judgment of September 2015, Costea, C‑110/14, EU:C:2015:538, paragraph 21).
+In that regard, it should be noted that the consumer is in a weaker position vis-à-vis the seller or supplier, as regards both his bargaining power and his level of knowledge. This leads to the consumer agreeing to terms drawn up in advance by the seller or supplier without being able to influence the content of those terms (judgment of September 2015, Costea, C‑110/14, EU:C:2015:538, paragraph and the case-law cited).
+A national court before which an action relating to a contract which may be covered by that directive has been brought is required to determine, taking into account all the evidence and in particular the terms of that contract, whether the person concerned who is a party to the contract may be categorised as a ‘consumer’ within the meaning of Directive 93/13. In order to do that, the national court must take into account all the circumstances of the case, particularly the nature of the goods or service covered by the contract in question, capable of showing the purpose for which those goods or that service is being acquired (judgment of September 2015, Costea, C‑110/14, EU:C:2015:538, paragraphs and 23).
+That Court has already held that even a lawyer, if he were considered to display a high level of technical knowledge, may be considered to be a ‘consumer’ for the purposes of Article 2(b) of Directive 93/13, where he concludes a contract which does not relate to his professional activity (see, to that effect, judgment of September 2015, Costea, C‑110/14, EU:C:2015:538, paragraphs and 27).
+That broad definition of the concept of ‘consumer’, for the purposes of Article 2(b) of the Directive 93/13, allows the protection granted by that directive to all natural persons finding themselves in the weaker position referred to in paragraph of the present judgment.
+It follows from the foregoing considerations that the fact that a natural person concludes a contract, other than an employment contract, with his employer, does not, in itself, prevent that person from being classified as a ‘consumer’ for the purposes of Article 2(b) of Directive 93/13.
+Moreover, as the Advocate General noted, in point of his Opinion, the fact that certain types of contract concluded by consumers are reserved for certain groups of consumers does not deprive the latter of their status as ‘consumer’ for the purposes of Article 2(b) of Directive 93/13.
+The exclusion from the scope of that directive of many contracts concluded by consumers with their employers would deprive all of those consumers of the protection granted by that directive (see, by analogy, judgment of January 2015, Šiba, C‑537/13, EU:C:2015:14, paragraph 29).
+As regards the exclusion of employment contracts from the scope of Directive 93/13, it should be noted that, as the Advocate General stated, in point of his Opinion, a loan contract such as that at issue in the main proceedings does not regulate an employment relationship or employment conditions and, consequently, cannot be classified as an ‘employment contract’.
+As regards, in the second place, the concept of ‘sellers or supplier’, for the purposes of Article 2(c) of Directive 93/13, it should be noted that the EU legislature intended a broad definition of that concept (judgment of May 2018, Karel de Grote — Hogeschool Katholieke Hogeschool Antwerpen, C‑147/16, EU:C:2018:320, paragraph and the case-law cited).
+First, the use of the term ‘any’ in that provision shows that every natural or legal person must be regarded as a ‘seller or supplier’, within the meaning of Directive 93/13, when performing a professional activity (judgment of May 2018, Karel de Grote — Hogeschool Katholieke Hogeschool Antwerpen, C‑147/16, EU:C:2018:320, paragraph 49).
+Secondly, that concept covers all professional activity, whether it is ‘publicly owned or privately owned’. Therefore, Article 2(c) of Directive 93/is capable of applying to bodies whether run for profit or not, without excluding entities that pursue a task in the public interest (see, to that effect, judgment of May 2018, Karel de Grote — Hogeschool Katholieke Hogeschool Antwerpen, C‑147/16, EU:C:2018:320, paragraphs and 51).
+The concept of ‘seller or supplier’, within the meaning of Article 2(c) of Directive 93/13, is a functional concept, requiring determination of whether the specific contractual relationship is amongst the activities that a person provides in the course of his trade (see, to that effect, judgment of May 2018, Karel de Grote — Hogeschool Katholieke Hogeschool Antwerpen, C‑147/16, EU:C:2018:320, paragraph 55).
+The Court has already held that an educational establishment, which provides a service to a student which is complementary and ancillary to its main activity consisting, fundamentally, in a loan contract, may be regarded as a ‘seller or supplier’ for the purposes of Article 2(c) of Directive 93/(see, to that effect, judgment of May 2018, Karel de Grote — Hogeschool Katholieke Hogeschool Antwerpen, C‑147/16, EU:C:2018:320, paragraphs and 58).
+In such a case, there is, in principle, an inequality between the educational establishment and the student, owing to the asymmetry of information and expertise between the parties, since such an establishment has at its disposal a permanent organisation and an expertise that the student, acting on a private basis, does not necessarily have available to him when faced incidentally with such a contract (judgment of May 2018, Karel de Grote — Hogeschool Katholieke Hogeschool Antwerpen, C‑147/16, EU:C:2018:320, paragraph 59).
+Those considerations are applicable in a case such as that at issue in the main proceedings, in which an employer, a legal person, concludes with one of its employees, a natural person, and, as the case may be, with the spouse of that employee, a loan contract with a view to financing the purchase of real estate for private purposes.
+Even if the main activity of an employer such as EDF consists not in offering financial instruments, but in supplying energy, that employer has technical information and expertise, and human and material resources that a natural person, namely the other party to the contract, is not deemed to have.
+As with the concept of ‘consumer’, within the meaning of Article 2(b) of Directive 93/13, that of ‘seller or supplier’, within the meaning of Article 2(c) of that directive is objective in nature and does not depend on whether the professional decides to act in the context of its main activity or a secondary and ancillary one.
+Moreover, as the Advocate General stated in essence in points to of his Opinion, first, offering such a loan contract to its employees, thus offering them the possibility of being able to buy property, serves to attract and maintain a qualified and skilled workforce facilitating the exercise of the employer’s professional activity. In that context, the existence or otherwise of a potential direct income for that employer provided for by that contract, has no bearing on the recognition of that employer as a ‘seller or supplier’ for the purposes of Article 2(c) of Directive 93/13. Secondly, the broad interpretation of the concept of ‘seller or supplier’, for the purposes of that provision, serves to achieve the objective of that directive consisting in protecting the consumer as the weaker party to the contract concluded with a seller or supplier and to restore the balance between the parties (see, to that effect, judgment of May 2018, Sziber, C‑483/16, EU:C:2018:367, paragraph 32).
+In the light of all the foregoing considerations, the answer to the questions referred is that:
+–
+Article 2(b) of Directive 93/must be interpreted as meaning that the employee of an undertaking and his spouse, who conclude a loan contract with that undertaking, reserved, principally, to members of staff of that undertaking, with a view to financing the purchase of real estate for private purposes, must be regarded as ‘consumers’, within the meaning of that provision;
+–
+Article 2(c) of Directive 93/must be interpreted as meaning that that undertaking must be regarded as a ‘seller or supplier’, within the meaning of that provision, where it concludes such a loan contract in the context of its professional activity, even if granting loans does not constitute its main activity.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+Article 2(b) of Council Directive 93/13/EEC of April on unfair terms in consumer contracts must be interpreted as meaning that the employee of an undertaking and his spouse, who conclude a loan contract with that undertaking, reserved, principally, to members of staff of that undertaking, with a view to financing the purchase of real estate for private purposes, must be regarded as ‘consumers’, within the meaning of that provision;
+ 
+Article 2(c) of Directive 93/must be interpreted as meaning that that undertaking must be regarded as a ‘seller or supplier’, within the meaning of that provision, where it concludes such a loan contract in the context of its professional activity, even if granting loans does not constitute its main activity.
+ 
+[Signatures]
+(
+*)	Language of the case: French.
+Top  

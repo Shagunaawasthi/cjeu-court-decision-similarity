@@ -1,0 +1,398 @@
+
+Case C-14/Roda Golf & Beach Resort SL
+(Reference for a preliminary ruling from the Juzgado de Primera Instancia e Instrucción nº de San Javier)
+(Judicial cooperation in civil matters – Preliminary reference – Jurisdiction of the Court – Definition of ‘dispute’ – Regulation (EC) No 1348/– Service of extrajudicial documents in the absence of legal proceedings – Notarial act)
+Summary of the Judgment
+1.        Preliminary rulings – Jurisdiction of the Court – Act adopted on the basis of Title IV of Part Three of the Treaty – Regulation
+            No 1348/on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters
+(Art. EC)
+2.        Preliminary rulings – Jurisdiction of the Court – Act adopted on the basis of Title IV of Part Three of the Treaty – Regulation
+            No 1348/on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters
+(Art. EC; Council Regulation No 1348/2000)
+3.        Judicial cooperation in civil matters – Service of judicial and extra judicial documents – Regulation No 1348/– Extrajudicial
+            documents
+(Council Regulation No 1348/2000, Art. 16)
+4.        Judicial cooperation in civil matters – Service of judicial and extra judicial documents – Regulation No 1348/– Scope
+(Art. EC; Council Regulation No 1348/2000, Arts 2(1) and (2) and 14)
+1.        Where a reference for a preliminary ruling is brought before the Court pursuant to Article EC, it is not for the Court
+         to give a ruling whether or not it is possible to bring an action against the decision that the referring court will deliver
+         in the main proceedings, since the referring court has indicated in its reference for a preliminary ruling that the decision
+         it will deliver in the main proceedings will be final.
+      
+(see paras 24, 28-29)
+2.        Although a court clerk of the court of a Member State dealing with an application for service of judicial or extrajudicial
+         documents under Regulation No 1348/may be regarded as acting as an administrative authority which is not at the same
+         time called upon to decide a dispute, that is not the case with respect to the court called upon to adjudicate on an appeal
+         against a court clerk’s refusal to effect the service of the documents requested. The purpose of such an appeal is to have
+         set aside that refusal, which allegedly adversely affects a right of the applicant, namely, his right to have certain documents
+         served through the means provided for by Regulation No 1348/2000. Consequently, the referring court is called on to adjudicate
+         on a dispute and therefore exercises judicial functions.
+      
+The fact that the court clerk is part of the organisational structure of the referring court cannot call that conclusion into
+         question. That fact has no effect on the judicial nature of the function exercised by the referring court in the main proceedings,
+         given that the purpose of those proceedings is to have set aside an act which allegedly adversely affects the applicant’s
+         rights. 
+      
+(see paras 37-40)
+3.        The concept of ‘extrajudicial document’ within the meaning of Article of Regulation No 1348/on the service in the
+         Member States of judicial and extrajudicial documents in civil and commercial matters is a Community law concept. The objective
+         pursued by the Treaty of Amsterdam of creating an area of freedom, security and justice and the transfer, from the EU Treaty
+         to the EC Treaty, of the body of rules enabling measures in the field of judicial cooperation in civil matters having cross-border
+         implications to be adopted testify to the will of the Member States to anchor such measures firmly in the Community legal
+         order and thus to lay down the principle that they are to be interpreted autonomously.
+      
+(see paras 48, 50)
+4.        The service of a notarial act in the absence of legal proceedings falls within the scope of Regulation No 1348/on the
+         service in the Member State of judicial and extrajudicial documents in civil and commercial matters.  In that connection,
+         given that the purpose of the system for intra-Community service is the proper functioning of the internal market, the judicial
+         cooperation referred to by Article EC and Regulation No 1348/cannot be limited to legal proceedings alone, but may
+         manifest itself even in the absence of such proceedings if that cooperation has cross-border implications and is necessary
+         for the proper functioning of the internal market. 
+      
+The broad definition of the concept of extrajudicial document is unlikely to place an excessive burden on the resources of
+         the national courts since under Article 2(1) and (2) of Regulation No 1348/the Member States may also designate as transmitting
+         agencies and receiving agencies for the purpose of service bodies other than those courts, and Article of that regulation
+         also authorises the Member States to provide for the option of effecting service of judicial documents directly by post to
+         persons residing in another Member State. In accordance with Article of that regulation, those two provisions are applicable
+         to the service of extrajudicial documents. 
+      
+(see paras 55-56, 59-61)
+  
+  
+JUDGMENT OF THE COURT (Third Chamber)
+June (*)
+      
+(Judicial cooperation in civil matters – Preliminary references – Jurisdiction of the Court – Definition of ‘dispute’ – Regulation (EC) No 1348/– Service of extrajudicial documents in the absence of legal proceedings – Notarial act)
+In Case C‑14/08,
+REFERENCE for a preliminary ruling under Article EC, from the Juzgado de Primera Instancia e Instrucción No 5, San Javier
+         (Spain), made by decision of January 2008, received at the Court on January 2008, in the proceedings
+      
+ Roda Golf & Beach Resort SL,
+THE COURT (Third Chamber),
+composed of A. Rosas, President of the Chamber, J. Klučka, U. Lõhmus, P. Lindh and A. Arabadjiev (Rapporteur), Judges,
+Advocate General: D. Ruiz-Jarabo Colomer, 
+Registrar: R. Grass, 
+after considering the observations submitted on behalf of:
+–        Roda Golf & Beach Resort SL, by E. López Ayuso, abogada,
+–        the Spanish Government, by J. López-Medel Bascones, acting as Agent,
+–        the Czech Government, by M. Smolek, acting as Agent,
+–        the German Government, by M. Lumma and J. Kemper, acting as Agents,
+–        the Greek Government, by S. Khala, acting as Agent,
+–        the Italian Government, by R. Adam, acting as Agent, and W. Ferrante, avvocato dello Stato,
+–        the Latvian Government, by E. Balode-Buraka and E Eihmane, acting as Agents,
+–        the Hungarian Government, by G. Iván, acting as Agent,
+–        the Polish Government, by M. Dowgielewicz, acting as Agent,
+–        the Slovak Government, by J. Čorba, acting as Agent,
+–        the Commission of the European Communities, by V. Joris and F. Jimeno Fernández, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on March 2009,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article of Council Regulation (EC) No 1348/of May on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters
+         (OJ L 160, p. 37).
+      
+The application was made in the course of proceedings before the Juzgado de Primera Instancia e Instrucción No de San Javier
+         (Court of First Instance and Preliminary Investigations, San Javier) brought by Roda Golf & Beach Resort SL (‘Roda Golf’)
+         against the refusal of the clerk of that court to serve, in the absence of legal proceedings, addressees established in the
+         United Kingdom and Ireland with a notarial act by which Roda Golf unilaterally terminated contracts for the sale of immovable
+         property concluded between it and each of the addressees.
+      
+ Legal background
+ Community law and international law
+By act of May 1997, the Council of the European Union established on the basis of Article K.of the Treaty on the European
+         Union (Articles K to K.of the Treaty on the European Union were replaced by Articles EU to EU), the Convention on
+         the service in the Member States of the European Union of judicial and extrajudicial documents in civil or commercial matters
+         (OJ C 261, p. 1) (‘the Convention established on the basis of Article K.of the EU Treaty’).
+      
+That convention has not entered into force. Since its wording inspired that of Regulation No 1348/the explanatory report
+         on that convention (OJ C 261, p. 26) was mentioned in the preamble to that regulation.
+      
+Regulation No 1348/governs the service between the Member States of judicial and extrajudicial documents in civil and
+         commercial matters. 
+      
+Recital in the preamble to that regulation states:
+      
+‘The proper functioning of the internal market entails the need to improve and expedite the transmission of judicial and extrajudicial
+         documents in civil or commercial matters for service between the Member States.’
+      
+According to recital of Regulation No 1348/2000:
+      
+‘Efficiency and speed in judicial procedures in civil matters means that the transmission of judicial and extrajudicial documents
+         is to be made direct and by rapid means between local bodies designated by the Member States. …’
+      
+Article 2(1) of Regulation No 1348/provides that ‘[e]ach Member State is to designate the public officers, authorities
+         or other persons, hereinafter referred to as “receiving agencies”, competent for the receipt of judicial or extrajudicial
+         documents from another Member State’. Under Article 23(1) of that regulation, the Member States are to communicate that information
+         to the Commission of the European Communities which will publish it in the Official Journal.
+      
+It is clear from the information communicated by the Kingdom of Spain in accordance with Article (OJ C 151, p. and
+         OJ C 202, p. 10) that, in Spain, the transmitting agencies are the Secretarios Judiciales (clerks) of the various Juzgados
+         (single-judge courts) and Tribunales (collegiate courts).
+      
+Article of Regulation No 1348/2000, in Chapter III thereof, entitled ‘Extrajudicial Documents’, provides:
+      
+‘Extrajudicial documents may be transmitted for service in another Member State in accordance with the provisions of this
+         Regulation.’
+      
+Article 17(b) of Regulation No 1348/provides for the drawing-up of a glossary of documents which may be served under
+         that regulation. 
+      
+The glossary is contained in Annex II of Commission Decision 2001/781/EC of September adopting a manual of receiving
+         agencies and a glossary of documents that may be served under Council Regulation (EC) No 1348/(OJ L 298, p. 1, and
+         corrigenda OJ L 31, p. 88, and OJ L 60, p. 3), as amended by Commission Decision 2007/500/EC of July (OJ
+         L 185, p. 24). It contains the information communicated by the Member States in accordance with Article 17(b) of Regulation
+         No 1348/2000. In relation to Spain, it is stated that ‘[a]s regards the extrajudicial documents which may be served, these
+         are non-judicial documents issued by public authorities that are competent to effect service under Spanish law’.
+      
+Regulation No 1348/was replaced by Regulation (EC) No 1393/of the European Parliament and of the Council of November
+         on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of
+         documents), and repealing Council Regulation (EC) No 1348/(OJ L 324, p. 79), applicable in its entirety from November
+         2008.
+      
+The Hague Convention of November on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial
+         Matters (‘the Hague Convention of November 1965’) establishes an administrative cooperation mechanism enabling the service
+         of documents through a central authority. Article of that convention concerns service of extrajudicial documents.
+      
+In accordance with Article 20(1) of Regulation No 1348/2000, Article thereof prevails over the provisions contained in
+         the Hague Convention of November 1965.
+      
+ National law
+Law 1/on civil procedure (Ley 1/2000, de Enjuiciamiento Civil) of January (BOE No of January 2000, p. 575)
+         (‘the LEC’) lays down, in Articles and 224, the regime applicable to decisions issued by court clerks in civil matters
+         as follows:
+      
+‘Article 223. Measures of organisation
+1.      Court clerks shall be responsible for adopting measures of organisation by means of which orders shall be executed in accordance
+         with the law.
+      
+2.      Measures of organisation shall include a statement of the decision issued together with the name of the clerk adopting the
+         measure, the date and the signature of the clerk.
+      
+Article 224. Revision of measures of organisation
+1.       Measures of organisation determining matters which, by law, must be resolved by an interim decision, an order or a judgment,
+         are automatically void.
+      
+2.       Other than in cases referred to in the previous paragraph, a measure of organisation may also be set aside, at the request
+         of the party to whom it is detrimental, where it infringes any legal provisions or resolves matters which, under this Law,
+         must be determined by an interim decision made by a judge.
+      
+3.      The challenge referred to in the previous paragraph shall be heard and resolved in accordance with the provisions applicable
+         to actions for review.’
+      
+As regards the action for review referred to in Article of the LEC, Article thereof provides:
+      
+‘Article 454. The order resolving the action for review is not subject to appeal
+Except for cases where there is a right to appeal against a refusal of leave to appeal, no action may be brought against an
+         order resolving an action for review, without prejudice to the right to raise again the subject-matter of the review where,
+         if appropriate, an appeal is brought against the final decision.’
+      
+According to Article of the LEC, an appeal may be brought against an interim order of a court of first instance provided
+         that they have become ‘final’ or if ‘the law expressly provides [for it]’.
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+On November 2007, Roda Golf, a company incorporated under Spanish law, requested the clerk of the referring court, pursuant
+         to Regulation No 1348/2000, to send to the competent receiving agencies in the United Kingdom of Great Britain and Northern
+         Ireland and of Ireland letters addressed to recipients established in those two Member States. The purpose of the letters
+         was unilaterally to terminate contracts for the sale of immovable property which had been concluded between that company and
+         those recipients. The content of those letters does not reveal any connection with legal proceedings in progress.
+      
+As it is clear from the file submitted to the Court of Justice by the referring court, and as the applicant in the main proceedings
+         argued in its observations, Roda Golf had executed, before a notary in San Javier, an instrument of notification and request,
+         registered under No in the notary’s record, requesting the latter to serve that instrument through the intermediary of
+         the court clerk, the competent authority according to the information communicated by the Kingdom of Spain in accordance with
+         Article of Regulation No 1348/2000.
+      
+The clerk of the referring court refused to transmit the instrument at issue in the main proceedings on the ground that its
+         service would not take place in the course of legal proceedings and therefore did not fall within the scope of Regulation
+         No 1348/2000.
+      
+Roda Golf brought an appeal against that decision before the referring court. It claimed, in particular, that extrajudicial
+         documents may, in accordance with Regulation No 1348/2000, be served in the absence of legal proceedings.
+      
+In those circumstances the Juzgado de Primera Instancia e Instrucción No de San Javier decided to stay its proceedings and
+         to refer the following questions to the Court for a preliminary ruling:
+      
+‘(1)      Does the scope of Regulation … No 1348/… extend to the service of extrajudicial documents exclusively by and on private
+         persons using the physical and personal resources of the courts and tribunals of the European Union and the regulatory framework
+         of European law even when no court proceedings have been commenced?
+      
+(2)      Does Regulation No 1348/on the contrary apply exclusively in the context of judicial cooperation between Member States
+         and court proceedings in progress (Articles 61(c), 67(1) and EC and recital in the preamble to Regulation No 1348/2000?’
+      
+ The jurisdiction of the Court
+The Commission of the European Communities raises two objections that the Court lacks jurisdiction with regard to the questions
+         referred. First, it argues that the decision that the referring court will deliver in the case in the main proceedings will
+         be a final judgment against which it is possible to appeal in accordance with Article of the LEC. Accordingly, the reference
+         is inadmissible on the ground that, according to Article EC only the national courts and tribunals against whose decisions
+         there is no judicial remedy under national law may refer questions to the Court for a preliminary ruling under Title IV of
+         Part Three of the EC Treaty.
+      
+It must be recalled that, according to Article EC, where a question on the interpretation of acts of the institutions of
+         the European Community on the basis of Title IV is raised in a case pending before a national court or a tribunal against
+         whose decisions there is no judicial remedy under national law, that court or tribunal must, if it considers that a decision
+         on the question is necessary to enable it to give judgment, request the Court of Justice to give a ruling.
+      
+The questions referred in these proceedings concern the interpretation of Regulation No 1348/2000. Since that regulation was
+         adopted by the Council on the basis of Articles 61(c) EC and 67(1) EC which appear in Part Three, Title IV, of the EC Treaty,
+         Article EC is therefore applicable in this case.
+      
+In those circumstances, only a national court or tribunal against whose decisions there is no judicial remedy under national
+         law may ask the Court to adjudicate on a question of interpretation of that regulation.
+      
+In that connection, the Advocate General stated, in point of his Opinion, that there is some disagreement in Spanish case-law
+         as to whether it is possible to bring an action against a decision like the one that the referring court will deliver in the
+         main proceedings. Although the Commission cites in that regard a number of national interim decisions giving leave to appeal
+         against such orders, the fact remains that not only is there conflicting case-law, but there is also a certain amount of academic
+         disagreement in that regard with some commentators taking the view that no  appeal can lie in such proceedings. 
+      
+It is not for the Court to give a ruling on that issue. In this case, the referring court has indicated in its reference for
+         a preliminary ruling that the decision it will deliver in the main proceedings will be final.
+      
+Therefore the first objection raised by the Commission based on lack of jurisdiction must be dismissed.
+      
+Second, the Commission takes the view that the referring court is not seised of a dispute but ‘an extrajudicial dossier’.
+         The Court therefore lacks jurisdiction to give a ruling on the questions referred since they arise in a case in which the
+         national court acts as an administrative authority and does not exercise judicial functions. 
+      
+It is clear from the file submitted to the Court that the questions were referred in an action for review against the refusal
+         of a court clerk to serve the document at issue in the main proceedings. In the course of that appeal the only party to the
+         proceedings is the applicant in the main proceedings.
+      
+It must be recalled that Article EC, which is applicable in accordance with Title IV of Part Three of the EC Treaty pursuant
+         to Article EC, does not make the reference to the Court subject to there having been an inter partes hearing in the proceedings in the course of which the national court refers the questions for a preliminary ruling (Case
+         C‑18/Corsica Ferries [1994] ECR I‑1783, paragraph 12). 
+      
+However, it is clear from Article EC that a national court may refer a question to the Court only if there is a case pending
+         before it and if it is called upon to give judgment in proceedings intended to lead to a decision of a judicial nature (see,
+         orders in Case 138/Borker [1980] ECR 1975, paragraph 4; Case 318/Greis Unterweger [1986] ECR 955, paragraph 4; and judgments in Case C‑111/Job Centre [1995] ECR I‑3361, paragraph 9, and Case C‑178/Salzmann [2001] ECR I‑4421, paragraph 14). 
+      
+Thus, when it makes an administrative decision without being required to decide a legal dispute, the referring body cannot
+         be regarded as exercising a judicial function. Such is the case, for example, when it determines an application for registration
+         of a company according to a procedure, the object of which is not the annulment of a measure adversely affecting the applicant
+         (see, Job Centre, paragraph 11, Salzmann, paragraph 15, and Case C‑182/Lutzand Others [2002] ECR I‑547, paragraph 14; see, also, to that effect, Case C‑210/Cartesio [2008] ECR I‑0000, paragraph 57).
+      
+In contrast, a court hearing an appeal which has been brought against a decision of a lower court responsible for maintaining
+         a register, rejecting such an application, and which seeks the setting‑aside of that decision, which allegedly adversely affects
+         the rights of the applicant, is called upon to give judgment in a dispute and is exercising a judicial function (Cartesio, paragraph 58). Accordingly, in such a case, the appellate court must, in principle, be regarded as a court or tribunal within
+         the meaning of Article EC (see for similar situations, inter alia, Case C-300/Salzmann [2003] ECR I‑4899; Case C‑411/SEVIC Systems [2005] ECR I‑10805; Case C‑117/Möllendorf and Others [2007] ECR I‑8361; and Cartesio).
+      
+That case-law can be transposed to this case. Although a court clerk dealing with an application for service of judicial or
+         extrajudicial documents under Regulation No 1348/may be regarded as acting as an administrative authority which is not
+         at the same time called on to decide a dispute, that is not the case with respect to the court called upon to adjudicate on
+         an appeal against a court clerk’s refusal to effect the service of documents requested.
+      
+The purpose of such an appeal is to have that refusal set aside, which allegedly adversely affects the rights of the applicant,
+         namely, the applicant’s right to have certain documents served through the means provided for by Regulation No 1348/2000.
+      
+Consequently, the referring court is called on to adjudicate on a dispute and therefore exercises judicial functions.
+      
+The fact that the court clerk is part of the organisational structure of the referring court cannot call into question that
+         conclusion. That fact has no effect on the judicial nature of the function exercised by the referring court in the main proceedings
+         since the purpose of those proceedings is to set aside an act which allegedly adversely affects the applicant’s rights.
+      
+It follows that the second objection based on lack of jurisdiction raised by the Commission must also be dismissed.
+      
+The Court therefore has jurisdiction to answer the questions referred.
+      
+ The questions referred for a preliminary ruling
+By its two questions, which it is appropriate to examine together, the referring court asks essentially whether the service
+         of extrajudicial documents in the absence of legal proceedings, where that service is effected between private individuals,
+         falls within the scope of the regulation. 
+      
+ Preliminary observation
+As a preliminary point, it must be determined whether the definition of ‘extrajudicial document’, within the meaning of Article
+         of Regulation No 1348/2000, is a Community law concept or whether, to the contrary, it is a national law concept. 
+      
+The Spanish, Czech, German, Greek, Latvian, Hungarian and Polish Governments take the view that the content of the definition
+         of extrajudicial document must be determined according to the law of each Member State. They argue that Regulation No 1348/leaves it to the Member States to decide whether extrajudicial documents may be served and if so, which. They refer, in that
+         regard, to Article 17(b) of that regulation which provides, as an implementing rule for the latter, for the drawing-up of
+         a glossary in the official languages of the European Union of documents which may be served, stating that that glossary contains
+         lists of such documents, the content of which varies according to the Member States.
+      
+It must be recalled that the purpose of Regulation No 1348/is to improve and expedite the transmission of judicial and
+         extrajudicial documents in civil or commercial matters for service between the Member States. However, that regulation does
+         not go so far as to define in a precise and uniform manner the notion of extrajudicial documents.
+      
+Under Article 17(b) of that regulation the Commission is responsible for drawing up, in concert with the Member States, a
+         glossary mentioning the acts which may be served. That glossary states, in its introduction, that the information thereby
+         communicated by the Member States is for reference only. Its content shows however that the Member States, under the supervision
+         of the Commission, have defined in different ways the documents which they consider may be served under that regulation. However,
+         in spite of the existence of the glossary, the fact remains that the concept of ‘extrajudicial document’, within the meaning
+         of Article of Regulation No 1348/2000, must be regarded as a Community law concept.
+      
+The objective pursued by the Treaty of Amsterdam of creating an area of freedom, security and justice, thereby giving the
+         Community a new dimension, and the transfer, from the EU Treaty to the EC Treaty, of the body of rules enabling measures in
+         the field of judicial cooperation in civil matters having cross-border implications to be adopted testify to the will of the
+         Member States to anchor such measures firmly in the Community legal order and thus to lay down the principle that they are
+         to be interpreted autonomously (Case C‑443/Leffler [2005] ECR I‑9611, paragraph 45).
+      
+Furthermore, the choice of the form of a regulation, rather than that of a directive initially proposed by the Commission
+         (see, OJ C E, p. 11), shows the importance which the Community legislature attaches to the direct applicability of
+         the regulation’s provisions and their uniform application (Leffler, paragraph 46). 
+      
+It follows that the concept of ‘extrajudicial document’ within the meaning of Article of Regulation No 1348/is a Community
+         law concept.
+      
+ The scope of Regulation No 1348/As regards the question whether the service of extrajudicial documents in the absence of legal proceedings falls within the
+         scope of Regulation No 1348/2000, the Spanish and Slovak Governments submit that, in order for a document to be regarded as
+         an extrajudicial document, there must be an actual connection either with legal proceedings in progress or with the commencement
+         of such proceedings. 
+      
+Roda Golf, the German, Greek, Italian, Latvian, Hungarian and Polish Governments and the Commission take the contrary view.
+      
+It must be borne in mind that Article 61(c) EC is the legal basis for Regulation No 1348/2000. That provision enables the
+         measures mentioned in Article EC to be adopted in order to establish progressively an area of freedom, security and justice.
+         Those measures, which fall within the area of judicial cooperation in civil matters having cross-border implications, are
+         intended, inter alia, in accordance with Article EC, to improve and simplify the system for cross-border service of judicial
+         and extrajudicial documents in so far as necessary for the proper functioning of the internal market.
+      
+Similarly, recital of the preamble to Regulation No 1348/states that the proper functioning of the internal market
+         entails the need to improve and expedite the transmission of judicial and extrajudicial documents in civil or commercial matters
+         for service between the Member States.
+      
+Article EC and Regulation No 1348/thus intend to establish a system for intra-Community service the purpose of which
+         is the proper functioning of the internal market.
+      
+Taking account of that purpose, the judicial cooperation referred to by that article and the regulation cannot be limited
+         to legal proceedings alone. That cooperation may manifest itself both in the context of and in the absence of legal proceedings
+         if that cooperation has cross-border implications and is necessary for the proper functioning of the internal market. 
+      
+Contrary to the submissions of the Spanish, Polish and Slovak Governments, the fact that recital of Regulation No 1348/mentions only the efficiency and rapidity of legal proceedings is not sufficient to remove from the scope of that regulation
+         all documents which are unconnected to legal proceedings. That recital refers only to one of the corollaries of the main purpose
+         of the regulation. The mention, in that recital, of extrajudicial documents in the context of legal proceedings must therefore
+         be understood as meaning that the service of such a document may be required in the course of legal proceedings.
+      
+Furthermore, the document concerned in the main proceedings, transmitted to the clerk of the referring court in order to be
+         served, was drawn up by a notary, as appears in paragraph of this judgment, and constitutes as such an extrajudicial document
+         within the meaning of Article of Regulation No 1348/2000. 
+      
+As regards the concerns expressed by the Spanish and Polish Governments, that a broad definition of the concept of extrajudicial
+         document would place an excessive burden on the resources of the national courts, it must be stated that the obligations with
+         regard to service which derive from Regulation No 1348/are not necessarily the responsibility of the national courts.
+         The designation of the transmitting agencies and the receiving agencies which, under Article 2(1) and (2) of that regulation
+         may be ‘public officers, authorities or other persons’ is a matter for the Member States. Accordingly, the latter are free
+         to designate as transmitting or receiving agencies for the purpose of serving judicial and extrajudicial documents bodies
+         other than the national courts.
+      
+Furthermore, the service through transmitting and receiving agencies is not the only means of service provided for by Regulation
+         No 1348/2000. Thus Article thereof authorises the Member States to provide for the option of effecting service of judicial
+         documents directly by post to persons residing in another Member State. Most of the Member States accept such a means of service.
+         Moreover, in accordance with Article 15, the regulation does not prevent direct service by public officers, civil servants
+         or other competent persons in the Member State addressed. In accordance with Article of that regulation, those two provisions
+         are applicable to the service of extrajudicial documents. 
+      
+Therefore the answer to the questions referred is that the service of a notarial act, in the absence of legal proceedings,
+         such as that at issue in the main proceedings, falls within the scope of Regulation No 1348/2000.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Third Chamber) hereby rules:
+The service of a notarial act, in the absence of legal proceedings, such as that at issue in the main proceedings, falls within
+            the scope of Council Regulation (EC) No 1348/of May on the service in the Member States of judicial and extrajudicial
+            documents in civil or commercial matters.
+[Signatures]
+* Language of the case: Spanish.
+      
+Top  

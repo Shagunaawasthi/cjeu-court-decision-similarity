@@ -1,0 +1,165 @@
+
+JUDGMENT OF THE COURT (Ninth Chamber)
+October (
+*)
+(Reference for a preliminary ruling — Intellectual and industrial property — Supplementary protection certificate for medicinal products — Regulation (EC) No 469/— Scope — Medical device incorporating as an integral part a substance which, used separately, may be considered to be a medicinal product — Directive 93/42/EEC — Article 1(4) — Concept of ‘administrative authorisation procedure’)
+In Case C‑527/17,
+REQUEST for a preliminary ruling under Article TFEU from the Bundespatentgericht (Federal Patents Court, Germany), made by decision of July 2017, received at the Court on September 2017, in the proceedings brought by
+Boston Scientific Ltd,
+intervener:
+Deutsches Patent- und Markenamt,
+THE COURT (Ninth Chamber),
+composed of K. Jürimäe (Rapporteur), President of the Chamber, C. Lycourgos and C. Vajda, Judges,
+Advocate General: M. Campos Sánchez-Bordona,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Boston Scientific Ltd, by M. Coehn,
+–
+the Greek Government, by M. Tassopoulou, A. Dimitrakopoulou and D. Tsagkaraki, acting as Agents,
+–
+the French Government, by D. Colas, S. Horrenberger and E. de Moustier, acting as Agents,
+–
+the Polish Government, by B. Majczyna, acting as Agent,
+–
+the United Kingdom Government, by D. Robertson, acting as Agent, and by N. Saunders, Barrister,
+–
+the European Commission, by J. Samnadda, T. Scharf and F. Thiran, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article of Regulation (EC) No 469/of the European Parliament and of the Council of May concerning the supplementary protection certificate for medicinal products (OJ L 152, p. 1).
+The request has been made in proceedings brought by Boston Scientific Ltd concerning the refusal by the Deutsches Patent- und Markenamt (German Patent and Trade Mark Office, Germany) (‘the DPMA’) to issue a supplementary protection certificate (‘the SPC’).
+Legal context
+Directive 2001/83/EC
+Article of Directive 2001/83/EC of the European Parliament and of the Council of November on the Community code relating to medicinal products for human use (OJ L 311, p. 67), as amended by Directive 2004/27/EC of the European Parliament and of the Council of March (OJ L 136, p. 34) (‘Directive 2001/83’), provides:
+‘For the purposes of this Directive, the following terms shall bear the following meanings:
+…
+(2)
+Medicinal product:
+(a)
+Any substance or combination of substances presented as having properties for treating or preventing disease in human beings; or
+(b)
+Any substance or combination of substances which may be used in or administered to human beings either with a view to restoring, correcting or modifying physiological functions by exerting a pharmacological, immunological or metabolic action, or to making a medical diagnosis.
+…’
+According to Article 2(1) and (2) of Directive 2001/83:
+‘1.   This Directive shall apply to medicinal products for human use intended to be placed on the market in Member States and either prepared industrially or manufactured by a method involving an industrial process.
+2.   In cases of doubt, where, taking into account all its characteristics, a product may fall within the definition of a “medicinal product” and within the definition of a product covered by other Community legislation the provisions of this Directive shall apply.’
+Annex I to that directive establishes analytical, pharmaco-toxicological and clinical standards and protocols in respect of the testing of medicinal products.
+Directive 93/42/EEC
+Article of Council Directive 93/42/EEC of June concerning medical devices (OJ L 169, p. 1), as amended by Directive 2007/47/EC of the European Parliament and of the Council of September (OJ L 247, p. 21) (‘Directive 93/42’), provides:
+‘1.   This Directive shall apply to medical devices and their accessories. For the purposes of this Directive, accessories shall be treated as medical devices in their own right. Both medical devices and accessories shall hereinafter be termed devices.
+2.   For the purposes of this Directive, the following definitions shall apply:
+(a)
+“medical device” means any instrument, apparatus, appliance, software, material or other article, whether used alone or in combination, including the software intended by its manufacturer to be used specifically for diagnostic and/or therapeutic purposes and necessary for its proper application, intended by the manufacturer to be used for human beings for the purpose of:
+–
+diagnosis, prevention, monitoring, treatment or alleviation of disease,
+…
+and which does not achieve its principal intended action in or on the human body by pharmacological, immunological or metabolic means, but which may be assisted in its function by such means;
+…
+3.   Where a device is intended to administer a medicinal product within the meaning of Article of Directive [2001/83], that device shall be governed by this Directive, without prejudice to the provisions of Directive [2001/83] with regard to the medicinal product.
+If, however, such a device is placed on the market in such a way that the device and the medicinal product form a single integral product which is intended exclusively for use in the given combination and which is not reusable, that single product shall be governed by Directive [2001/83]. The relevant essential requirements of Annex I to this Directive shall apply as far as safety and performance-related device features are concerned.
+4.   Where a device incorporates, as an integral part, a substance which, if used separately, may be considered to be a medicinal product within the meaning of Article of Directive [2001/83] and which is liable to act upon the body with action ancillary to that of the device, that device shall be assessed and authorized in accordance with this Directive.’
+…
+5.   This Directive shall not apply to:
+…
+(c)
+medicinal products covered by Directive [2001/83]. In deciding whether a product falls under that Directive or this Directive, particular account shall be taken of the principal mode of action of the product;
+…’
+Under the first paragraph of Article of Directive 93/42:
+‘The devices must meet the essential requirements set out in Annex I which apply to them, taking account of the intended purpose of the devices concerned.’
+The first paragraph of Article 16(1) of that directive states:
+‘The Member States shall notify the Commission and other Member States of the bodies which they have designated for carrying out the tasks pertaining to the procedures referred to in Article and the specific tasks for which the bodies have been designated. The Commission shall assign identification numbers to these bodies, hereinafter referred to as “notified bodies”.’
+Article 17(1) of that directive provides:
+‘Devices, other than devices which are custom-made or intended for clinical investigations, considered to meet the essential requirements referred to in Article must bear the CE marking of conformity when they are placed on the market.’
+Section 7.of Annex I to that directive provides:
+‘Where a device incorporates, as an integral part, a substance which, if used separately, may be considered to be a medicinal product as defined in Article of Directive [2001/83] and which is liable to act upon the body with action ancillary to that of the device, the quality, safety and usefulness of the substance must be verified by analogy with the methods specified in Annex I to Directive [2001/83].
+For the substances referred to in the first paragraph, the notified body shall, having verified the usefulness of the substance as part of the medical device and taking account of the intended purpose of the device, seek a scientific opinion from one of the competent authorities designated by the Member States or the European Medicines Agency (EMEA) acting particularly through its committee in accordance with Regulation (EC) No 726/of the European Parliament and of the Council [of March laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency (OJ L 136, p. 1)] on the quality and safety of the substance including the clinical benefit/risk profile of the incorporation of the substance into the device. When issuing its opinion, the competent authority or the EMEA shall take into account the manufacturing process and the data related to the usefulness of incorporation of the substance into the device as determined by the notified body.
+…’
+Regulation No 469/Recitals 3, and to of Regulation No 469/state as follows:
+‘(3)
+Medicinal products, especially those that are the result of long, costly research will not continue to be developed in the [European Union] and in Europe unless they are covered by favourable rules that provide for sufficient protection to encourage such research.
+(4)
+At the moment, the period that elapses between the filing of an application for a patent for a new medicinal product and authorisation to place the medicinal product on the market makes the period of effective protection under the patent insufficient to cover the investment put into the research.
+…
+(8)
+Therefore, the provision of a[n] [SPC] granted, under the same conditions, by each of the Member States at the request of the holder of a national or European patent relating to a medicinal product for which marketing authorisation has been granted is necessary. A regulation is therefore the most appropriate legal instrument.
+(9)
+The duration of the protection granted by the certificate should be such as to provide adequate effective protection. For this purpose, the holder of both a patent and a certificate should be able to enjoy an overall maximum of years of exclusivity from the time the medicinal product in question first obtains authorisation to be placed on the market in the [Union].
+(10)
+All the interests at stake, including those of public health, in a sector as complex and sensitive as the pharmaceutical sector should nevertheless be taken into account. For this purpose, the certificate cannot be granted for a period exceeding five years. The protection granted should furthermore be strictly confined to the product which obtained authorisation to be placed on the market as a medicinal product.’
+Article of that regulation provides:
+‘For the purposes of this Regulation, the following definitions shall apply:
+(a)
+“medicinal product” means any substance or combination of substances presented for treating or preventing disease in human beings or animals and any substance or combination of substances which may be administered to human beings or animals with a view to making a medical diagnosis or to restoring, correcting or modifying physiological functions in humans or in animals;
+(b)
+“product” means the active ingredient or combination of active ingredients of a medicinal product;
+(c)
+“basic patent” means a patent which protects a product as such, a process to obtain a product or an application of a product, and which is designated by its holder for the purpose of the procedure for grant of a certificate;
+…’
+Article of that regulation provides:
+‘Any product protected by a patent in the territory of a Member State and subject, prior to being placed on the market as a medicinal product, to an administrative authorisation procedure as laid down in Directive [2001/83] or Directive 2001/82/EC of the European Parliament and of the Council of November on the Community code relating to veterinary medicinal products [(OJ L 311, p. 1),] may, under the terms and conditions provided for in this Regulation, be the subject of a certificate.’
+According to Article of that regulation:
+‘A certificate shall be granted if, in the Member State in which the application referred to in Article is submitted and at the date of that application:
+(a)
+the product is protected by a basic patent in force;
+(b)
+a valid authorisation to place the product on the market as a medicinal product has been granted in accordance with Directive [2001/83] or Directive 2001/82/EC, as appropriate;
+(c)
+the product has not already been the subject of a certificate;
+(d)
+the authorisation referred to in point (b) is the first authorisation to place the product on the market as a medicinal product.’
+Article of Regulation No 469/provides:
+‘Within the limits of the protection conferred by the basic patent, the protection conferred by a certificate shall extend only to the product covered by the authorisation to place the corresponding medicinal product on the market and for any use of the product as a medicinal product that has been authorised before the expiry of the certificate.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Boston Scientific is the holder of European patent (DE) EP 475, which was filed on January 1994. The patent relates to the use of medicinal substances designed to reduce restenosis following angioplasty. That patent discloses in particular that Paclitaxel, the principal active ingredient known for treating certain cancers and marketed under the name of Taxol, inhibits or reduces the proliferation and migration of cells in the blood vessel wall and thus counteracts the risk of restenosis. Claim of that patent is worded as follows:
+‘Use of taxol for the preparation of a medicament to maintain an expanded vessel luminal area.’
+On January 2003, Boston Scientific obtained a CE certificate of conformity in relation to the medical device TAXUS™ ExpressPaclitaxel-Eluting Coronary Stent System (‘the TAXUS medical device’), a Paclitaxel-coated stent. In the context of the mandatory certification procedure carried out by the Technischer Überwachungsverein Rheinland (‘the TÜV Rheinland’), Paclitaxel, an adjuvant product of that medical device, was the subject of a prior assessment, in accordance with the first and second paragraphs of section 7.of Annex I to Directive 93/42, by the College Ter Beoordeling van Geneesmiddelen-Medicines Evaluation Board in the Netherlands (‘the CBG-MEB’).
+On March 2011, Boston Scientific filed with the German Patent Office an SPC application in relation to Paclitaxel on the basis of the patent (DE) EP and of the CE conformity certificate issued for the TAXUS medical device during 2007. The DPMA rejected that application by decision of February 2016, on the ground, in particular, that the product forming the subject of that application did not have marketing authorisation (‘MA’), for the purposes of Regulation No 469/2009.
+Boston Scientific brought an action against that decision before the Bundespatentgericht (German Federal Patents Court, Germany), the referring court, claiming that Paclitaxel had undergone an administrative authorisation procedure in accordance with Directive 2001/83/EC. It is claimed that, during the CE conformity certification procedure, the CBG-MEB, as the consulted medicinal products authority under the second paragraph of section 7.of Annex I to Directive 93/42, carried out an in-depth review of the safety and usefulness of Paclitaxel in relation to its use in the TAXUS medical device. Thus, that mandatory certification procedure should be regarded as an authorisation procedure equivalent to the MA procedure laid down in Directive 2001/for medicinal products.
+The referring court observes that, although the product in question in the main proceedings has already been the subject, as a medicinal product, of an MA for the treatment of certain cancers, it was not subject, as a medicinal product intended for the claimed use in the basic patent at issue, to any formal authorisation procedure under that directive. That court observes however that that product was subject, in respect of that use, to an evaluation as a substance forming an integral part of the TAXUS medical device, in accordance with Directive 93/42.
+Despite the procedural differences present, it would appear that that evaluation relates to the safety, quality and usefulness of the substance incorporated into that medical device according to methods similar to those which are indicated in Annex I to Directive 2001/83.
+The referring court concludes that a substance incorporated as an integral part into a medical device, such as Paclitaxel, is mandatorily subject, in the obligatory certification procedure for the medical device, to an equivalent evaluation, from the point of view of the material criteria for its assessment, to that which is laid down in Directive 2001/for the evaluation of medicinal products. The certification procedure for medical devices incorporating a medicinal substance and the MA procedure for a medicinal product should therefore both be regarded as administrative authorisation procedures within the meaning of Article of Regulation No 469/2009.
+Such an interpretation would be consistent with both the spirit and purpose of that regulation inasmuch as the regulation seeks to reward holders of pharmaceutical patents for the time invested in the studies and authorisation procedures required for the marketing of a product, while taking into account all the interests involved, so as to incentivise pharmaceutical research and development.
+Nevertheless, in the light of the Member States’ inconsistent decision-making practice in the interpretation of Article of Regulation No 469/2009, the Bundespatentgericht (Federal Patents Court) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Must Article of Regulation [No 469/2009] be interpreted as meaning that, for the purposes of that regulation, an authorisation under Directive [93/42] for a combined medical device and medicinal product within the meaning of Article 1(4) of [that directive] is to be treated as a valid [MA] under Directive [2001/83], where, as part of the authorisation procedure laid down in Annex I, Section 7.4, first paragraph, to Directive [93/42], the quality, safety and usefulness of the medicinal product component has been verified by the medicinal products authority of a Member State in accordance with Directive [2001/83]?’
+Consideration of the question referred
+By its question, the referring court asks, in essence, whether Article of Regulation No 469/must be interpreted as meaning that a prior authorisation procedure, under Directive 93/42, for a medical device incorporating as an integral part a substance, within the meaning of Article 1(4) of that directive, must be treated in the same way, for the purposes of applying that regulation, as an MA procedure for that substance under Directive 2001/where that substance has been the subject of an assessment provided for in the first and second paragraphs of section 7.of Annex I to Directive 93/42.
+Article of Regulation No 469/2009, which defines the scope of that regulation, provides that any product protected by a patent in the territory of a Member State and subject, prior to being placed on the market as a medicinal product, to an administrative authorisation procedure as laid down in Directive 2001/if it is a medicinal product for human use may, under the terms and conditions provided for in that regulation, be the subject of an SPC.
+It is thus clear from the actual wording of that Article that a product may be the subject of an SPC only if it has been subject, as a medicinal product, to an MA procedure as laid down in Directive 2001/83.
+It should be pointed out, in the first place, that a substance which, like that at issue in the main proceedings, forms an integral part of a medical device and acts upon the body in a manner ancillary to that device, for the purposes of Article 1(4) of Directive 93/42, may not be regarded as a medicinal product capable of being the subject of an MA procedure as laid down in Directive 2001/83.
+Article 1(2)(b) of Directive 2001/defines the term ‘medicinal product’ as covering any substance or combination of substances which may be used in or administered to human beings either with a view to restoring, correcting or modifying physiological functions by exerting a pharmacological, immunological or metabolic action, or to making a medical diagnosis.
+The term medicinal product’ must thus be distinguished from the term ‘medical device’. The latter term is defined in Article 1(2)(a) of Directive 93/as referring to any instrument, apparatus, appliance, software, material or other article, whether used alone or in combination, intended by the manufacturer to be used for human beings for the purpose, inter alia, of diagnosis, prevention, monitoring, treatment or alleviation of disease, injury or handicap, and which does not achieve its principal intended action in or on the human body by pharmacological, immunological or metabolic means, but which may be assisted in its function by such means.
+Thus, the terms ‘medicinal product’ and ‘medical device’ are mutually exclusive in such a way that a product that falls within the definition of a ‘medicinal product’ within the meaning of Directive 2001/may not be classified as a medical device within the meaning of Directive 93/(see, to that effect, judgment of October 2013, Laboratoires Lyocentre, C‑109/12, EU:C:2013:626, paragraph 41).
+In that regard, it should be made clear that, in order to determine whether a product falls under one or other of those definitions, Article 1(5)(c) of Directive 93/requires the competent authorities to take particular account of the principal mode of action of the product.
+A product which does not achieve its principal mode of action by pharmacological, immunological or metabolic means therefore falls under the definition of a ‘medical device’. Conversely, a product which achieves its principal intended action in the human body by such means may be classified as a medicinal product within the meaning of Directive 2001/(see, to that effect, judgment of October 2013, Laboratoires Lyocentre, C‑109/12, EU:C:2013:626, paragraph 44).
+In that regard, it should be pointed out that a substance, such as that at issue in the main proceedings, acts upon the body with action ancillary to that of the device that it incorporates and whose principal mode of action is not that of a medicinal product, within the meaning of Article 1(2) of Directive 2001/83. In so far that substance performs only an action ancillary to that of the medical device into which it is incorporated, it cannot be classified independently from that device.
+It follows that a substance which, as in this case, forms an integral part of a medical device, within the meaning of Article 1(4) Directive 93/42, and performs on the body an action ancillary to that of the device into which it is incorporated cannot be classified, in respect of that use, as a medicinal product, within the meaning of Directive 2001/83, even if it could be classified as such if it were used separately. Such a substance cannot therefore fall within the scope of Regulation No 469/2009.
+In the second place and contrary to the view of the referring court, it cannot be considered that a substance, such as that at issue in the main proceedings, which forms an integral part of a medical device, within the meaning of Article 1(4) of Directive 93/42, is subject, in the context of the prior authorisation procedure of the medical device incorporating that substance, to an administrative procedure equivalent or comparable to the procedure provided for under Directive 2001/83.
+In that regard, it should be noted that a medical device, such as that at issue in the main proceedings, incorporating as an integral part a substance which, if used separately, may be considered to be a medicinal product within the meaning of Article of Directive 2001/83, and which is liable to act upon the body with action ancillary to that of the device must be assessed and authorised, under Article 1(4) of Directive 93/42, in accordance with that directive.
+The first and second paragraphs of section 7.of Annex I to Directive 93/state in this respect that, where a medical device incorporates, as an integral part, such a substance, the quality, safety and usefulness of the substance must be verified by analogy with the methods specified in Annex I to Directive 2001/and that those verifications must be carried out not in relation to a use of the substance independent of the device, but taking into account the intended purpose of the medical device and of the incorporation of the substance into that device.
+Accordingly, if that substance is the subject of an assessment according to methods similar to those which are laid down in Annex I to Directive 2001/83, the usefulness, quality and safety of such a substance are assessed, in accordance with section 7.of Annex I to Directive 93/42, not in relation to a use of that substance as a medicinal product, as would have been the case in the context of the administrative procedure laid down in Directive 2001/83, but by taking account of the intended purpose of the medical device and of the incorporation of the substance into that device.
+It follows from the foregoing that such a substance does not fulfil any of the conditions laid down in Article of Regulation No 469/in order to be eligible for an SPC, even if the quality, safety and usefulness of that substance are verified by analogy with the methods specified in Annex I to Directive 2001/83.
+Such an interpretation of Article of that regulation is borne out by both the context of that article and the objective pursued by that regulation.
+As regards the context of which that article forms part, it should be noted that Article 3(b) of Regulation No 469/provides that an SPC may be granted only on condition, inter alia, that the relevant product has been granted, as a medicinal product, a valid MA in accordance with Directive 2001/83. An SPC cannot therefore be granted for a product which has been the subject of prior authorisation not as a medicinal product, but as a substance forming an integral part of a medical device.
+Similarly, it is apparent from Article of Regulation No 469/that an SPC can only protect a product which is used as a medicinal product. An SPC granted under that regulation cannot therefore protect a substance, such as that at issue in the main proceedings, which is used as an adjuvant of a medical device and which performs an action ancillary to that which is performed by that device.
+As regards the objectives pursued by Regulation No 469/2009, it is apparent from the title of that regulation and from recitals 3, and to thereof that the EU legislature intended to reserve the grant of SPCs to medicinal products alone, to the exclusion of both medical devices and substances used as adjuvant products of a medical device.
+In this respect, it should be observed that the extension of the scope of that regulation to such substances would have the practical effect of enabling SPCs covering medical devices which incorporate those substances to be granted. Such a consequence would be contrary to the objective, referred to in recital of Regulation No 469/2009, that the protection granted by an SPC must be strictly confined to the product which obtained MA as a medicinal product.
+In any event, no argument can be derived from the judgments of November 2010, Hogan Lovells International (C‑229/09, EU:C:2010:673), and of October 2013, Sumitomo Chemical (C‑210/12, EU:C:2013:665), to which the referring court refers, to infer from a possible link of functional equivalence between (i) the criteria for assessing a substance referred to in the first paragraph of section 7.of Annex I to Directive 93/and (ii) the criteria laid down in Directive 2001/for the assessment of medicinal products, the need to include within the scope of Regulation No 469/substances which have not been authorised to be placed on the market as medicinal products.
+In both cases which gave rise to those judgments, the questions referred related to the interpretation of Regulation (EC) No 1610/of the European Parliament and of the Council of July concerning the creation of a supplementary protection certificate for plant protection products (OJ L 198, p. 30), and concerned products which had been granted, as plant protection products, either provisional or emergency MAs.
+Thus, in those two cases, the assessment of the link of functional equivalence between the various criteria for assessing the products with a view to placing them on the market presupposed, at the outset, that the products in question had been assessed as plant protection products in respect of which Regulation No 1610/provided for the possibility of obtaining an SPC.
+However, it is clearly apparent from the information provided by the referring court that the substance at issue in the main proceedings was not assessed as a medicinal product, but was assessed, for intended use as an accessory of the TAXUS medical device, in the context of the certification procedure for that device, in respect of which no specific provision of EU law provides for the possibility of obtaining an SPC.
+Accordingly, the case-law arising from the judgments cited in paragraph of this judgment relating to assessment of the link of functional equivalence of the various assessment criteria used during the authorisation procedure cannot be transposed to circumstances such as those at issue in the main proceedings, in which the relevant substance does not fall within the scope of Regulation No 469/2009.
+In the light of all the foregoing considerations, the answer to the question referred is that Article of Regulation No 469/must be interpreted as meaning that a prior authorisation procedure, under Directive 93/42, for a device incorporating as an integral part a substance, within the meaning of Article 1(4) of that directive, cannot be treated in the same way, for the purposes of applying that regulation, as an MA procedure for that substance under Directive 2001/83, even if that substance was the subject of the assessment provided for in the first and second paragraphs of section 7.of Annex I to Directive 93/42.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Ninth Chamber) hereby rules:
+ 
+Article of Regulation (EC) No 469/of the European Parliament and of the Council of May concerning the supplementary protection certificate for medicinal products must be interpreted as meaning that a prior authorisation procedure, under Council Directive 93/42/EEC of June concerning medical devices, as amended by Directive 2007/47/EC of the European Parliament and of the Council of September 2007, for a device incorporating as an integral part a substance, within the meaning of Article 1(4) of that directive as amended, cannot be treated in the same way, for the purposes of applying that regulation, as a marketing authorisation procedure for that substance under Directive 2001/83/EC of the European Parliament and of the Council of November on the Community code relating to medicinal products for human use, as amended by Directive 2004/27/EC of the European Parliament and of the Council of March 2004, even if that substance was the subject of the assessment provided for in the first and second paragraphs of section 7.of Annex I to Directive 93/42, as amended by Directive 2007/47.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

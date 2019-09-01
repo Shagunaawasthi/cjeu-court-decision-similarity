@@ -1,0 +1,107 @@
+
+ARRÊT DE LA COUR (quatrième chambre)
+juillet (
+*)
+« Renvoi préjudiciel – Libre circulation des travailleurs – Restrictions – Ouverture d’une procédure d’effacement de créances – Condition de résidence – Admissibilité – Article TFUE – Effet direct »
+Dans l’affaire C‑716/17,
+ayant pour objet une demande de décision préjudicielle au titre de l’article TFUE, introduite par l’Østre Landsret (cour d’appel de la région Est, Danemark), par décision du décembre 2017, parvenue à la Cour le décembre 2017, dans la procédure engagée par
+A
+LA COUR (quatrième chambre),
+composée de M. M. Vilaras, président de chambre, Mme K. Jürimäe, MM. D. Šváby, S. Rodin (rapporteur) et N. Piçarra, juges,
+avocat général : M. M. Szpunar,
+greffier : Mme C. Strömholm, administratrice,
+vu la procédure écrite et à la suite de l’audience du janvier 2019,
+considérant les observations présentées :
+–
+pour A, par Me C. T. Hermann, advokat,
+–
+pour le gouvernement danois, par M. J. Nymann-Lindegren ainsi que par Mmes M. S. Wolff et P. Z. L. Ngo, en qualité d’agents,
+–
+pour la Commission européenne, par MM. H. Støvlbæk et M. Kellerbauer, en qualité d’agents,
+ayant entendu l’avocat général en ses conclusions à l’audience du mars 2019,
+rend le présent
+Arrêt
+La demande de décision préjudicielle porte sur l’interprétation de l’article TFUE.
+Cette demande a été présentée dans le cadre d’une procédure engagée par A visant à obtenir un effacement de créances.
+Le cadre juridique
+Le droit de l’Union
+L’article 84, paragraphe 1, du règlement (UE) 2015/du Parlement européen et du Conseil, du mai 2015, relatif aux procédures d’insolvabilité (JO 2015, L 141, p. 19, et rectificatif JO 2016, L 349, p. 9), prévoit :
+« Les dispositions du présent règlement ne sont applicables qu’aux procédures d’insolvabilité ouvertes à compter du juin 2017. Les actes accomplis par le débiteur avant cette date continuent d’être régis par la loi qui leur était applicable au moment où ils ont été accomplis. »
+Le droit danois
+Aux termes de l’article de la konkursloven (loi sur la faillite) :
+« 1.   Toute requête ayant pour objet un redressement, une faillite ou un effacement de créances est adressée au tribunal liquidateur du lieu où est exercée l’activité économique du débiteur.
+2.   Si le débiteur n’exerce pas d’activité économique [au Danemark], la requête est adressée au tribunal liquidateur de la circonscription judiciaire où il a son for général.
+[...] »
+L’article 197, paragraphe 2, point 1, de loi sur la faillite dispose :
+« 2.   Aucune ordonnance d’effacement de créances ne peut être rendue si :
+1)
+la situation économique du débiteur n’a pas été clarifiée,
+[...] »
+Aux termes de l’article 229, paragraphe 1, de la loi sur la faillite :
+« L’ordonnance d’effacement de créances peut, sur requête d’un créancier, être révoquée par le tribunal liquidateur :
+1)
+s’il est établi que le débiteur a agi frauduleusement au cours de la procédure d’effacement de créances, ou
+2)
+si le débiteur commet un manquement grave aux obligations qui lui ont été faites dans l’ordonnance d’effacement de créances. »
+L’article de la retsplejeloven (loi relative à l’administration de la justice) se lit comme suit :
+« 1.   Tout recours est intenté devant le for général de la partie défenderesse, à moins que la loi n’en dispose autrement.
+2.   Le for général se trouve dans la circonscription judiciaire où la partie défenderesse a son domicile. Si la partie défenderesse est domiciliée dans plusieurs circonscriptions judiciaires, le for général se trouve dans l’une quelconque d’entre elles.
+3.   Si la partie défenderesse n’a pas de domicile, le for général se trouve dans la circonscription judiciaire où elle réside.
+4.   Si la partie défenderesse n’a pas de domicile ni de lieu de résidence connu, le for général se trouve dans la circonscription judiciaire où se trouvait son domicile ou sa résidence en dernier lieu. »
+Le litige au principal et les questions préjudicielles
+A est un citoyen danois domicilié en Suède, qui travaille comme salarié au Danemark, pays dans lequel il est assujetti, selon la réglementation danoise, à l’impôt de manière illimitée.
+Le février 2017, A a introduit une demande d’effacement de créances auprès du Sø-og Handelsretten (tribunal des affaires maritimes et commerciales, Danemark).
+Sa demande concernait des dettes contractées depuis l’année auprès de créanciers danois, l’un étant une personne morale de droit public et les autres des particuliers.
+Par une ordonnance du avril 2017, le Sø-og Handelsretten (tribunal des affaires maritimes et commerciales) a rejeté cette demande au motif que les tribunaux danois n’étaient pas compétents pour connaître d’une procédure d’effacement de créances introduite par A, qui n’exerce pas, au sens du droit danois, une activité économique au Danemark et qui n’y a pas davantage son for général. Partant, ce tribunal n’a pas examiné si les conditions matérielles auxquelles la loi sur la faillite subordonne un effacement de créances étaient réunies.
+L’Østre Landsret (cour d’appel de la région Est, Danemark), qui statue comme juridiction de deuxième instance dans l’affaire au principal, estime qu’un tribunal danois pourrait être compétent pour connaître de la demande de A visant à obtenir un effacement de créances si les règles danoises de compétence des tribunaux en matière d’effacement de créances étaient contraires au droit de l’Union, notamment à l’article TFUE.
+À cet égard, la juridiction de renvoi indique que, conformément à la réglementation danoise applicable, la procédure d’effacement de créances suppose un examen approfondi de la situation économique et du train de vie du demandeur. Ladite réglementation prévoirait que cette appréciation devrait être guidée par des règles précises, élaborées en tenant compte des circonstances socio-économiques qui prévalent au Danemark et destinées à garantir un train de vie modeste acceptable pendant la durée de la mesure d’effacement. Or, ces règles pourraient s’avérer inadéquates dans le cas d’un demandeur qui réside dans un autre État membre, dont la situation sociale et pécuniaire serait différente et inconnue des juridictions danoises compétentes, qui n’auraient aucune possibilité de vérifier les informations communiquées à cet égard par le demandeur lui-même.
+Dans ces conditions, l’Østre Landsret (cour d’appel de la région Est) a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :
+« 1)
+L’article TFUE, tel qu’interprété dans l’arrêt du novembre 2012, Radziejewski (C‑461/11, EU:C:2012:704), s’oppose-t-il à une règle de compétence judiciaire qui, à l’instar de ce que prévoit le droit danois, a pour objectif de garantir que le tribunal qui statue sur la demande d’effacement de créances a une connaissance et peut tenir compte, dans son appréciation, de la situation sociale et pécuniaire dans laquelle le débiteur et sa famille vivent concrètement et pourraient vivre à l’avenir, et que ladite appréciation pourra être effectuée selon des critères préétablis qui déterminent ce qui peut être considéré comme un train de vie modeste acceptable pendant la durée de la mesure d’effacement ?
+[...]
+2)
+[Pour le cas où la Cour répondrait à la première question que la restriction ne peut être considérée comme justifiée, l]’article TFUE doit-il être interprété en ce sens qu’il jouit, dans une situation comparable au cas d’espèce également, d’un effet direct dans les rapports entre particuliers en sorte que les créanciers privés doivent supporter la réduction ou l’extinction des dettes à leur égard d’un débiteur qui s’est établi à l’étranger ? »
+Sur les questions préjudicielles
+Sur la première question
+Par sa première question, la juridiction de renvoi demande, en substance, si l’article TFUE doit être interprété en ce sens qu’il s’oppose à une règle de compétence judiciaire prévue par la réglementation d’un État membre, telle que celle en cause au principal, qui subordonne l’octroi d’une mesure d’effacement de créances à la condition que le débiteur ait son domicile ou sa résidence dans cet État membre (ci- après la « condition de résidence »).
+À cet égard, il convient de rappeler que l’ensemble des dispositions du traité FUE relatives à la libre circulation des personnes visent à faciliter, pour les ressortissants des États membres, l’exercice d’activités professionnelles de toute nature sur le territoire de l’Union et s’opposent aux mesures qui pourraient défavoriser ces ressortissants lorsqu’ils souhaitent exercer une activité économique sur le territoire d’un autre État membre (arrêt du novembre 2012, Radziejewski, C‑461/11, EU:C:2012:704, point et jurisprudence citée).
+Par ailleurs, des dispositions nationales qui empêchent ou dissuadent un travailleur ressortissant d’un État membre de quitter son État d’origine pour exercer son droit à la libre circulation constituent, dès lors, des restrictions à cette liberté, même si elles s’appliquent indépendamment de la nationalité des travailleurs concernés (arrêt du novembre 2012, Radziejewski, C‑461/11, EU:C:2012:704, point et jurisprudence citée).
+Une réglementation nationale, telle que celle en cause au principal, qui subordonne l’octroi d’une mesure d’effacement de créances à une condition de résidence est susceptible de dissuader un travailleur insolvable d’exercer son droit à la libre circulation (voir, en ce sens, arrêt du novembre 2012, Radziejewski, C‑461/11, EU:C:2012:704, point 31).
+Partant, il y a lieu de considérer, ainsi que le relèvent la juridiction de renvoi, A, le gouvernement danois et la Commission européenne, que la réglementation en cause au principal, pour autant qu’elle subordonne l’introduction d’une demande d’effacement de créances à une condition de résidence, constitue une restriction à la libre circulation des travailleurs interdite, en principe, par l’article TFUE.
+Une telle réglementation ne saurait être admise que si elle poursuit un objectif légitime compatible avec le traité FUE et est justifiée par des raisons impérieuses d’intérêt général. Encore faut-il, en pareil cas, que son application soit propre à garantir la réalisation de l’objectif ainsi poursuivi et n’aille pas au-delà de ce qui est nécessaire pour atteindre celui-ci (voir, en ce sens, arrêt du mars 2019, Jacob et Lennertz, C‑174/18, EU:C:2019:205, point 44).
+À cet égard, il y a lieu de rappeler qu’il est légitime pour un État membre de vouloir contrôler la situation financière et personnelle du débiteur avant de lui accorder une mesure qui vise à effacer toutes ou une partie de ses dettes (arrêt du novembre 2012, Radziejewski, C‑461/11, EU:C:2012:704, point 46).
+Cet objectif légitime peut impliquer qu’une juridiction nationale saisie d’une telle demande effectue une appréciation, telle que celle prévue par la réglementation applicable et décrite au point du présent arrêt, sur la base de critères préétablis élaborés au regard des circonstances qui prévalent dans l’État membre de l’introduction de ladite demande.
+Toutefois, si le moyen d’atteindre cet objectif consiste en la fixation d’une condition de résidence rapportée exclusivement à la date de l’introduction de la demande d’effacement de créances, une telle condition ne saurait être considérée comme étant propre à garantir la réalisation de cet objectif (voir, en ce sens, arrêt du novembre 2012, Radziejewski, C‑461/11, EU:C:2012:704, point 47).
+En effet, conformément à une jurisprudence constante de la Cour, une législation nationale n’est propre à garantir la réalisation de l’objectif recherché que si elle répond véritablement au souci d’atteindre celui-ci d’une manière cohérente et systématique (voir, en ce sens, arrêts du mars 2009, Hartlauer, C‑169/07, EU:C:2009:141, point 55, et du octobre 2015, Grupo Itevelesa e.a., C‑168/14, EU:C:2015:685, point 76, ainsi que ordonnance du juin 2016, Sokoll-Seebacher et Naderhirn, C‑634/15, EU:C:2016:510, point 27).
+Or, dans une situation telle que celle en cause au principal, dans laquelle l’appréciation de la juridiction nationale compétente se fonde sur des critères qui tiennent compte de la situation sociale et pécuniaire du débiteur et de sa famille non seulement au moment de l’introduction de la demande d’effacement de créances, mais également à un stade postérieur, jusqu’à ce que cette juridiction arrête sa décision, une approche cohérente impliquerait le rejet obligatoire de la demande d’ajustement de dettes en cas de transfert de la résidence du demandeur du Royaume de Danemark vers un autre État membre en cours d’instance, avant que la juridiction compétente ne statue définitivement sur cette demande.
+Toutefois, sous réserve de vérification par la juridiction de renvoi, il apparaît que le transfert du domicile du débiteur du Royaume de Danemark vers un autre État membre, au cours de la procédure d’effacement de créances ou à sa suite, n’a pas pour effet immédiat de priver ce débiteur du droit de bénéficier d’une mesure d’effacement de créances.
+Par ailleurs, il découle de la demande de décision préjudicielle que cette réglementation ne prévoit la révocation de l’ordonnance d’effacement de créances que lorsque le débiteur a agi frauduleusement ou a manqué gravement aux obligations qui lui avaient été imposées dans cette ordonnance et non lorsqu’il a seulement transféré sa résidence à l’étranger.
+En outre, il convient de relever que la réglementation en cause au principal prévoit qu’une personne exerçant, au sens du droit danois, une activité économique sur le territoire danois peut introduire une demande d’effacement de créances devant le tribunal liquidateur dans le ressort duquel il exerce cette activité sans, pourtant, remplir la condition de résidence.
+Dans ces circonstances, il y a lieu de constater que la condition de résidence au Danemark prévue par la réglementation en cause au principal ne saurait, en tant que telle, être considérée comme répondant d’une manière cohérente et systématique au souci d’atteindre l’objectif mentionné au point du présent arrêt.
+Par ailleurs, subordonner l’effacement de dettes à la communication par le débiteur, domicilié dans un État membre autre que l’État membre de l’introduction de la demande d’effacement de dettes, d’informations crédibles relatives à sa propre situation sociale et pécuniaire et à celle de sa famille, ainsi qu’aux circonstances sociales dans l’État membre de leur domicile, représenterait, si ces informations étaient requises par la juridiction nationale, une mesure moins restrictive que l’interdiction absolue d’introduire cette demande.
+En outre, il y a lieu de noter que, ainsi que le gouvernement danois l’a confirmé lors de l’audience, la réglementation danoise prévoit que la juridiction danoise peut refuser de rendre une ordonnance d’effacement de créances si elle considère que la situation socio-économique du débiteur ne peut plus être déterminée avec suffisamment de précision, ce qui pourrait survenir en cas de transfert de la résidence de ce débiteur du Royaume de Danemark vers un autre État membre.
+Ainsi, cette réglementation permet de rejeter une telle demande lorsque l’appréciation décrite au point du présent arrêt s’avère impossible, en raison du transfert de la résidence du demandeur en dehors du Royaume de Danemark avant l’introduction de sa demande ou en cours d’instance. Il n’est, dès lors, pas nécessaire de prévoir une impossibilité absolue d’introduire une telle demande, pour un demandeur qui ne réside pas, au moment de son introduction, au Danemark.
+Par conséquent, la fixation d’une condition de résidence, telle que celle prévue dans la réglementation en cause au principal, va au-delà de ce qui est nécessaire pour atteindre l’objectif mentionné au point du présent arrêt.
+S’agissant de l’argument du gouvernement danois, invoqué dans ses observations écrites, tiré de ce que la mise en œuvre effective du règlement 2015/serait entravée si l’article TFUE devait être interprété en ce sens qu’il s’oppose à une réglementation nationale telle que celle en cause au principal, il est inopérant dans le cadre de l’affaire au principal dès lors que, selon l’article 84, paragraphe 1, de ce règlement, ses dispositions ne sont applicables qu’aux procédures d’insolvabilité ouvertes à compter du juin 2017, c’est-à-dire postérieurement à l’introduction de la demande d’effacement de créances par A.
+Il résulte de tout ce qui précède que l’article TFUE doit être interprété en ce sens qu’il s’oppose à une règle de compétence judiciaire prévue par la réglementation d’un État membre, telle que celle en cause au principal, qui subordonne l’octroi d’une mesure d’effacement de créances à la condition que le débiteur ait son domicile ou sa résidence dans cet État membre.
+Sur la seconde question
+Par sa seconde question, la juridiction de renvoi demande, en substance, si l’article TFUE doit être interprété en ce sens qu’il exige de la juridiction nationale de laisser inappliquée la condition de résidence prévue par une règle nationale de compétence judiciaire, telle que celle en cause au principal, indépendamment du point de savoir si la procédure d’effacement de créances, également prévue par cette réglementation, conduit éventuellement à affecter les créances détenues par des particuliers en vertu de ladite réglementation.
+À cet égard, il y a lieu de rappeler, à titre liminaire, que l’article TFUE confère aux particuliers des droits qu’ils peuvent faire valoir en justice et que les juridictions nationales doivent sauvegarder (arrêt du janvier 2007, ITC, C‑208/05, EU:C:2007:16, point 67).
+En vertu du principe de primauté, à défaut de pouvoir procéder à une interprétation de la réglementation nationale conforme aux exigences du droit de l’Union, tout juge national, saisi dans le cadre de sa compétence, a, en tant qu’organe d’un État membre, l’obligation de laisser inappliquée toute disposition nationale contraire à une disposition de droit de l’Union qui est d’effet direct dans le litige dont il est saisi (voir, en ce sens, arrêt du juin 2019, Popławski, C‑573/17, EU:C:2019:530, points et 61).
+Cette obligation n’est pas conditionnée par la circonstance qu’une réglementation nationale, telle que celle en cause au principal, peut éventuellement modifier la situation juridique des particuliers une fois que la juridiction de renvoi laisse inappliquée une disposition nationale de compétence judiciaire et statue sur la demande d’effacement de dettes introduite par un débiteur.
+Partant, l’article TFUE doit être interprété en ce sens qu’il exige de la juridiction nationale de laisser inappliquée la condition de résidence prévue par une règle nationale de compétence judiciaire, telle que celle en cause au principal, indépendamment du point de savoir si la procédure d’effacement de créances, également prévue par cette réglementation, conduit éventuellement à affecter les créances détenues par des particuliers en vertu de ladite réglementation.
+Sur les dépens
+La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.
+ 
+Par ces motifs, la Cour (quatrième chambre) dit pour droit :
+ 
+1)
+L’article TFUE doit être interprété en ce sens qu’il s’oppose à une règle de compétence judiciaire prévue par la réglementation d’un État membre, telle que celle en cause au principal, qui subordonne l’octroi d’une mesure d’effacement de créances à la condition que le débiteur ait son domicile ou sa résidence dans cet État membre.
+ 
+2)
+L’article TFUE doit être interprété en ce sens qu’il exige de la juridiction nationale de laisser inappliquée la condition de résidence prévue par une règle nationale de compétence judiciaire, telle que celle en cause au principal, indépendamment du point de savoir si la procédure d’effacement de créances, également prévue par cette réglementation, conduit éventuellement à affecter les créances détenues par des particuliers en vertu de ladite réglementation.
+ 
+Signatures
+(
+*)	Langue de procédure : le danois.
+Top  

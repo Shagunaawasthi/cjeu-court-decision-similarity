@@ -1,0 +1,131 @@
+
+JUDGMENT OF THE COURT (Eighth Chamber)
+August (
+*)
+(Reference for a preliminary ruling — Environment — Directive 2011/92/EU — Assessment of the effects of certain projects on the environment — Annex II — Point 1(d) — Concept of ‘deforestation for the purposes of conversion to another type of land use’ — Clearance of a path in a forest in connection with the construction and operation of an overhead electrical power line)
+In Case C‑329/17,
+REQUEST for a preliminary ruling under Article TFEU from the Verwaltungsgerichtshof (Supreme Administrative Court, Austria), made by decision of May 2017, received at the Court on June 2017, in the proceedings
+Gerhard Prenninger,
+Karl Helmberger,
+Franziska Zimmer,
+Franz Scharinger,
+Norbert Pühringer,
+Agrargemeinschaft Pettenbach,
+Marktgemeinde Vorchdorf,
+Marktgemeinde Pettenbach,
+Gemeinde Steinbach am Ziehberg
+v
+Oberösterreichische Landesregierung,
+intervener:
+Netz Oberösterreich GmbH,
+THE COURT (Eighth Chamber),
+composed of J. Malenovský, President of the Chamber, M. Safjan and D. Šváby (Rapporteur), Judges,
+Advocate General: P. Mengozzi,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Mr Prenninger and Others, by W. List, Rechtsanwalt,
+–
+Netz Oberösterreich GmbH, by H. Kraemmer and M. Mendel, Rechtsanwälte,
+–
+the Austrian Government, by G. Eberhard, acting as Agent,
+–
+the European Commission, by A.C. Becker and C. Zadra, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 4(2) of and Annex II to Directive 2011/92/EU of the European Parliament and of the Council of December on the assessment of the effects of certain public and private projects on the environment (OJ L 26, p. 1) (‘the EIA Directive’).
+The request has been made in proceedings between Mr Gerhard Prenninger and eight other applicants, on the one hand, and the Oberösterreichische Landesregierung (Government of the Province of Upper Austria), on the other, concerning the question whether the project for the construction of the ‘kV‑Leitung Vorchdorf-Steinfeld-Kirchdorf’ overhead electrical power line should be subject to a prior assessment of its effects on the environment.
+Legal context
+EU law
+Recitals 3, 7, and of the EIA Directive are worded as follows:
+‘(3)
+The principles of the assessment of environmental effects should be harmonised, in particular with reference to the projects which should be subject to assessment, the main obligations of the developers and the content of the assessment. The Member States may lay down stricter rules to protect the environment.
+…
+(7)
+Development consent for public and private projects which are likely to have significant effects on the environment should be granted only after an assessment of the likely significant environmental effects of those projects has been carried out. That assessment should be conducted on the basis of the appropriate information supplied by the developer, which may be supplemented by the authorities and by the public likely to be concerned by the project in question.
+…
+(9)
+Projects of other types may not have significant effects on the environment in every case and those projects should be assessed where the Member States consider that they are likely to have significant effects on the environment.
+…
+(11)
+When setting such thresholds or criteria or examining projects on a case-by-case basis, for the purpose of determining which projects should be subject to assessment on the basis of their significant environmental effects, Member States should take account of the relevant selection criteria set out in this Directive. In accordance with the subsidiarity principle, the Member States are in the best position to apply those criteria in specific instances.’
+Article 1(1) of the EIA Directive provides:
+‘This Directive shall apply to the assessment of the environmental effects of those public and private projects which are likely to have significant effects on the environment.’
+Article 2(1) of the EIA Directive states:
+‘Member States shall adopt all measures necessary to ensure that, before consent is given, projects likely to have significant effects on the environment by virtue, inter alia, of their nature, size or location are made subject to a requirement for development consent and an assessment with regard to their effects. These projects are defined in Article 4.’
+Article 4(2) of the EIA Directive provides:
+‘Subject to Article 2(4), for projects listed in Annex II, Member States shall determine whether the project shall be made subject to an assessment in accordance with Articles to 10. Member States shall make that determination through:
+(a)
+a case-by-case examination;
+or
+(b)
+thresholds or criteria set by the Member State.
+Member States may decide to apply both procedures referred to in (a) and (b).’
+Annex II to the directive lists the ‘Projects subject to Article 4(2)’. Point of that annex, which relates to projects in the field of agriculture, silviculture and aquaculture, includes under subheading (d) projects concerning ‘Initial afforestation and deforestation for the purposes of conversion to another type of land use’.
+National law
+Paragraph of the Umweltverträglichkeitsprüfungsgesetz — UVP-G (Federal Law on environmental impact assessments — UPV-G 2000) (BGBl. 697/1993), as published in BGBl. I, 4/concerns the subject matter of the environmental impact assessment. It establishes the principle that the projects listed in Annex to that law are to be made subject to that assessment and sets out the procedure and the conditions to be complied with in that regard.
+Annex to that law is worded as follows:
+‘This Annex contains the projects which, pursuant to Paragraph 3, shall be subject to an [environmental impact assessment].
+Columns and show projects which shall be subject in all cases to an [environmental impact assessment] and in respect of which [such an assessment procedure] (column 1) or a simplified procedure (column 2) must be carried out. …
+Column contains those projects that must be subject to an [environmental impact assessment] only if certain specific conditions are met. Above the minimum threshold indicated, those projects must be subject to a case-by-case examination. If that examination gives rise to an obligation [to carry out an environmental impact assessment], the simplified procedure should then be carried out.
+Point (a)
+conversion to arable land l4a) over an area of at least ha;
+…
+…
+The Forstgesetz (Federal Law on forestry) of July (BGBl. 440/1975), as published in BGBl. I, 56/2016, includes Paragraph 13, entitled ‘Reforestation’, which provides:
+‘…
+(10)   In so far as the existence of a power line precludes along its route the full development of height growth and in so far as an exceptional authorisation has been granted pursuant to Paragraph 81(1)(b), the proprietor of the power line must ensure the reforestation of the area of the route in good time after each felling.’
+Paragraph of that law, entitled ‘Conversion to arable land’, states:
+‘(1)   Use of the forest floor for purposes other than forestry (conversion to arable land) is prohibited.
+…’
+Section VI of that law, relating to ‘use of forests’, contains Paragraph 81, entitled ‘Exceptional authorisation’, which provides:
+‘(1)   Upon request, the authority shall grant derogations from the prohibition referred to in Paragraph 80(1), where
+…
+(b)
+the clearance of a path is necessary for the purpose of the construction of a power supply system and for the duration of its lawful existence,
+…’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+By letter of March 2016, the electricity grid operator Netz Oberösterreich GmbH requested the Government of the Province of Upper Austria to determine whether the project for the construction of the ‘kV-Leitung Vorchdorf-Steinfeld-Kirchdorf’ overhead electrical power line presented by it should be subject to an environmental impact assessment.
+By decision of June 2016, that government decided that there was no need to carry out an environmental impact assessment for that project.
+Mr Prenninger and eight other applicants appealed against that decision to the Bundesverwaltungsgericht (Federal Administrative Court, Austria), which dismissed that appeal as unfounded.
+That court found, first, that the project at issue consisted in the construction of an electrical power line with a total length of 23.km, the construction of a new electrical substation and the expansion of an existing electrical substation.
+Secondly, it distinguished the area of the forest to be ‘converted to arable land’ covering an area of 0.ha from the area in which the clearance of the path should take place — that is to say, the area on which trees that lie beneath power lines would have to be felled in order to guarantee a minimum safe distance from electrical cables — covering an area of 17.ha.
+Thirdly, the Bundesverwaltungsgericht (Federal Administrative Court) considered that such a clearance could not be classified as ‘conversion to arable land’ within the meaning of national law, on the ground that that classification presupposes that the forest floor concerned ceases to be used for the purposes of forestry. It is apparent from the project at issue that the felling area concerned will continue to be subject to normal forest management, in so far as it remains possible to carry out regular cutting, logging and replanting of trees.
+According to that court, such an interpretation is confirmed by point 1(d) of Annex II to Directive 2011/92. It considers that the concept of ‘deforestation for the purposes of conversion to another type of land use’ within the meaning of that provision must be interpreted as meaning that it also requires the conversion of forested areas for the purpose of another use of the forest floor.
+Mr Prenninger and eight other applicants brought an appeal on a point of law (Revision) against that judgment before the referring court, which is the Verwaltungsgerichtshof (Supreme Administrative Court, Austria).
+The referring court considers, as did the Bundesverwaltungsgericht (Federal Administrative Court), that the clearance of a path in a forest is not a use of the forest floor for purposes other than forestry and, therefore, is not to be viewed as a conversion to arable land within the meaning of national law.
+Nevertheless, the referring court seeks to ascertain whether such an interpretation of the concept of ‘conversion to arable land’ is in conformity with Directive 2011/92. According to the wording of point 1(d) of Annex II to the directive, it is only deforestation where a conversion to another type of land use is intended which is covered. Consequently, it may be considered that the clearance of a path in a forest which does not result in such a conversion, but follows the expressed intention to protect forests, would not be classified as ‘deforestation for the purposes of conversion to another type of land use’ within the meaning of that provision.
+However, in the judgment of July 2008, Commission v Ireland (C‑215/06, EU:C:2008:380), the Court of Justice held that Ireland, by authorising deforestation without a prior environmental impact assessment, had failed to fulfil its obligations under EU law. The referring court notes that, in paragraph of that judgment, the Court of Justice referred to the environmental sensitivity of the geographical area concerned, which is one of the relevant selection criteria in Annex III to Directive 2011/and which must be considered having regard, inter alia, to ‘the absorption capacity of the natural environment’, paying particular attention to mountain and forest areas. The referring court takes the view that such considerations could be understood as a broadening of the concept of ‘deforestation for the purposes of conversion to another type of land use’ within the meaning of point 1(d) of Annex II to Directive 2011/92, or even as an indication that another interpretation of that concept which differs from that set out in paragraph of the present judgment must be envisaged.
+In those circumstances, the Verwaltungsgerichtshof (Supreme Administrative Court) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Must [the EIA Directive] be interpreted as meaning that the “clearance of a path in a forest” for the purpose of the construction of a power supply system and for the duration of its lawful existence constitutes “deforestation for the purposes of conversion to another type of land use” within the meaning of point 1(d) of Annex II to the EIA Directive?’
+Consideration of the question referred
+By its question, the referring court asks, in essence, whether point 1(d) of Annex II to the EIA Directive must be interpreted as meaning that the clearance of a path in a forest for the purpose of the construction and operation of an overhead electrical power line, such as that at issue in the main proceedings, and for the duration of its lawful existence is covered by the concept of ‘deforestation for the purposes of conversion to another type of land use’ within the meaning of that provision.
+As a preliminary point, it must be noted that, in their observations submitted to the Court, the applicants in the main proceedings dispute the extent of the areas concerned by the clearance of the path at issue in the main proceedings. They submit that the area affected by that clearance is ha and not 17.ha, as established by the referring court.
+It should be recalled, in that regard, that, in proceedings under Article TFEU, which are based on a clear separation of functions between the national courts and tribunals and the Court of Justice, any assessment of the facts in the case is a matter for the national court or tribunal. In particular, the Court is empowered to rule only on the interpretation or the validity of EU acts on the basis of the facts placed before it by the national court or tribunal. It is for the national court or tribunal to ascertain the facts which have given rise to the dispute and to establish the consequences which they have for the judgment which it is required to deliver (judgment of May 2008, Danske Svineproducenter, C‑491/06, EU:C:2008:263, paragraph 23).
+It should be recalled that, under Article 4(2) of the EIA Directive, the Member States are to determine either through a case-by-case examination or through thresholds or criteria set by them whether projects listed in Annex II to that directive are to be made subject to an environmental impact assessment.
+Those projects include, in point 1(d) of Annex II to the directive, deforestation for the purposes of conversion to another type of land use.
+In that regard, the Court has already held that the concepts in that annex are EU law concepts which must be interpreted independently (see, to that effect, judgment of July 2008, Ecologistas en Acción-CODA, C‑142/07, EU:C:2008:445, paragraph 29).
+Furthermore, according to settled case-law, in interpreting a provision of EU law it is necessary to consider not only its wording, but also the context in which it occurs and the objective pursued by the rules of which it is part.
+It follows from the wording of point 1(d) of Annex II to the directive that it does not cover any deforestation, but only deforestation operations carried out for the purpose of conferring a new use on the land concerned.
+It must be stated that, in so far as the clearance of a path in a forest, such as that at issue in the main proceedings, is planned for the purpose of the construction and operation of an overhead electrical power line, the land concerned is put to new use. Consequently, a clearance, such as that at issue in the main proceedings, is covered by point 1(d) of Annex II to the EIA Directive.
+That interpretation is, moreover, borne out by the objective pursued by the EIA Directive.
+The Court has held that the EIA Directive’s fundamental objective, as follows from Article 2(1) thereof, is that, before consent is given, projects likely to have significant effects on the environment by virtue, inter alia, of their nature, size or location should be made subject to a prior assessment with regard to their effects (judgment of September 2000, Linster, C‑287/98, EU:C:2000:468, paragraph 52).
+Moreover, the Court has pointed out on a number of occasions that the scope of the EIA Directive is wide and its purpose very broad (judgments of October 1996, Kraaijeveld and Others, C‑72/95, EU:C:1996:404, paragraph 31, and of February 2008, Abraham and Others, C‑2/07, EU:C:2008:133, paragraph 32).
+It would run counter to the fundamental objective of the EIA Directive, and the wide scope which must be attributed to it, to exclude from the scope of Annex II thereto works consisting in the clearance of paths in forests, on the ground that such works are not expressly set out therein. Such an interpretation would effectively enable the Member States to circumvent the obligations imposed on them by the EIA Directive when they consent to a clearance of a path in a forest, regardless of its scale.
+It follows that path clearance operations in a forest for the purpose of the construction and operation of an overhead electrical power line are covered by point 1(d) of Annex II to the EIA Directive.
+That interpretation is not in any way called into question by the fact that the Austrian legislature’s aim, in authorising the practice of such clearances of paths, was allegedly to protect forests. First, the Court has held that the pursuit of beneficial effects on the environment was irrelevant in determining whether it was necessary to make a project subject to an assessment of its environmental effects (see, to that effect, judgment of July 2008, Ecologistas en Acción-CODA, C‑142/07, EU:C:2008:445, paragraph 41).
+Secondly, the fact that the trees felled are immediately replaced by other forest vegetation, either naturally or artificially, has no bearing on the fact that the land affected by the clearance of a path has gained a new use, namely that of supporting the transportation of electrical energy.
+In the light of all the foregoing considerations, the answer to the question referred is that point 1(d) of Annex II to the EIA Directive must be interpreted as meaning that the clearance of a path in a forest for the purpose of the construction and operation of an overhead electrical power line, such as that at issue in the main proceedings, and for the duration of its lawful existence is covered by the concept of ‘deforestation for the purposes of conversion to another type of land use’ within the meaning of that provision.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Eighth Chamber) hereby rules:
+ 
+Point 1(d) of Annex II to Directive 2011/92/EU of the European Parliament and of the Council of December on the assessment of the effects of certain public and private projects on the environment must be interpreted as meaning that the clearance of a path in a forest for the purpose of the construction and operation of an overhead electrical power line, such as that at issue in the main proceedings, and for the duration of its lawful existence is covered by the concept of ‘deforestation for the purposes of conversion to another type of land use’ within the meaning of that provision.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

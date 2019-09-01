@@ -1,0 +1,255 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+May (
+*)
+(Reference for a preliminary ruling — Environment — Shipments of waste within the European Union — Regulation (EC) No 1013/— Article 1(3)(d) — Scope — Regulation (EC) No 1069/— Shipments of animal by-products)
+In Case C‑634/17,
+REQUEST for a preliminary ruling under Article TFEU from the Verwaltungsgericht Oldenburg (Administrative Court of Oldenburg, Germany), made by decision of November 2017, received at the Court on November 2017, in the proceedings
+ReFood GmbH & Co. KG
+v
+Landwirtschaftskammer Niedersachsen,
+THE COURT (Fifth Chamber),
+composed of E. Regan, President of the Chamber, C. Lycourgos (Rapporteur), E. Juhász, M. Ilešič and I. Jarukaitis, Judges,
+Advocate General: H. Saugmandsgaard Øe,
+Registrar: R. Schiano, Administrator,
+having regard to the written procedure and further to the hearing on October 2018,
+after considering the observations submitted on behalf of
+–
+ReFood GmbH & Co. KG, by J.T. Gruber, Rechtsanwalt,
+–
+the Netherlands Government, by M.H.S. Gijzen and M.K. Bulterman, acting as Agents,
+–
+the Austrian Government, by G. Hesse, acting as Agent,
+–
+the European Commission, by W. Farrell and M. Noll-Ehlers and by E. Sanfrutos Cano and L. Haasbeek, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on January 2019,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles 1(3)(d) of Regulation (EC) No 1013/of the European Parliament and of the Council of June on shipments of waste (OJ L 190, p. 1, with corrigenda OJ L 318, p. and OJ L 334, p. 46).
+The request has been made in proceedings between ReFood GmbH & Co. KG (‘ReFood’) and the Landwirtschaftskammer Niedersachsen (Lower Saxony Chamber of Agriculture, Germany) concerning the legality of a transfer of animal by-products from the Netherlands to Germany.
+Legal context
+European Union law
+Regulation No 1013/Recital of Regulation No 1013/states:
+‘It is necessary to avoid duplication with Regulation (EC) No 1774/of the European Parliament and of the Council of October laying down health rules concerning animal by-products not intended for human consumption [(OJ L 273, p. 1)], which already contains provisions covering the overall consignment, channelling and movement (collection, transport, handling, processing, use, recovery or disposal, record keeping, accompanying documents and traceability) of animal by-products within, into and out of the Community.’
+According to Article 1(1) to (3) of Regulation No 1013/2006:
+‘1.   This Regulation establishes procedures and control regimes for the shipment of waste, depending on the origin, destination and route of the shipment, the type of waste shipped and the type of treatment to be applied to the waste at its destination.
+2.   This Regulation shall apply to shipments of waste:
+(a)
+between Member States, within the Community …
+…
+3.   The following shall be excluded from the scope of this Regulation:
+…
+(d)
+shipments which are subject to the approval requirements of Regulation … No 1774/2002;
+…’
+Article of Regulation No 1013/provides:
+‘For the purposes of this Regulation:
+1.
+‘‘waste” is as defined in Article 1(1)(a) of Directive 2006/12/EC [of the European Parliament and of the Council of April on waste (OJ L 114, p. 9)];
+…’
+Article of that regulation, headed ‘Overall procedural framework’, provides:
+‘1.   Shipments of the following wastes shall be subject to the procedure of prior written notification and consent as laid down in the provisions of [Title II of the present regulation]:
+(a)
+if destined for disposal operations:
+all wastes;
+(b)
+if destined for recovery operations:
+(i)
+wastes listed in Annex IV, which include, inter alia, wastes listed in Annexes II and VIII to the Basel Convention,
+(ii)
+wastes listed in Annex IVA,
+(iii)
+wastes not classified under one single entry in either Annex III, IIIB, IV or IVA,
+(iv)
+mixtures of wastes not classified under one single entry in either Annex III, IIIB, IV or IVA unless listed in Annex IIIA.
+2.   Shipments of the following wastes destined for recovery shall be subject to the general information requirements laid down in Article 18, if the amount of waste shipped exceeds kg:
+(a)
+waste listed in Annex III or IIIB;
+(b)
+mixtures, not classified under one single entry in Annex III, of two or more wastes listed in Annex III, provided that the composition of these mixtures does not impair their environmentally sound recovery and provided that such mixtures are listed in Annex IIIA, in accordance with Article 58,
+…’
+Directive 2008/98/EC
+Recitals and of Directive 2008/98/EC of the European Parliament and of the Council of November on waste and repealing certain Directives (OJ L 312, p. 3), which repealed, inter alia, Directive 2006/12, provide:
+‘(12)
+Regulation [No 1774/2002] provides, inter alia, for proportionate controls as regards the collection, transport, processing, use and disposal of all animal by-products including waste of animal origin, preventing it from presenting a risk to animal and public health. It is therefore necessary to clarify the link with that Regulation, avoiding duplication of rules by excluding from the scope of this Directive animal by-products where they are intended for uses that are not considered waste operations.
+(13)
+In the light of the experience gained in applying Regulation … No 1774/2002, it is appropriate to clarify the scope of waste legislation and of its provisions on hazardous waste as regards animal by-products regulated by Regulation … No 1774/2002. Where animal by-products pose potential health risks, the appropriate legal instrument to address these risks is Regulation … No 1774/and unnecessary overlaps with waste legislation should be avoided.’
+Article 2(2) of Directive 2008/provides:
+‘The following shall be excluded from the scope of this Directive to the extent that they are covered by other Community legislation:
+…
+(b)
+animal by-products including processed products covered by Regulation … No 1774/2002, except those which are destined for incineration, landfilling or use in a biogas or composting plant;
+…’
+Under Article of that directive, entitled ‘Protection of human health and the environment’:
+‘Member States shall take the necessary measures to ensure that waste management is carried out without endangering human health, without harming the environment and, in particular:
+(a)
+without risk to water, air, soil, plants or animals;
+(b)
+without causing a nuisance through noise or odours; and
+(c)
+without adversely affecting the countryside or places of special interest.’
+Legislation on animal by-products
+– Regulation No 1774/Article 8(2) of Regulation No 1774/2002, entitled ‘Dispatch of animal by-products and processed products to other Member States’, provided that receipt of category and materials, of processed products derived from those categories and processed animal protein had to be authorised by the Member State of destination.
+Articles to 15, and of that regulation provided for an approval procedure for category 1, and intermediate plants, storage plants, incineration and co-incineration plants, category and processing plants, category and oleochemical plants, biogas plants and composting plants, category processing plants, and petfood plants and technical plants.
+– Regulation (EC) No 1069/Recitals 5, 29, and of Regulation (EC) No 1069/of the European Parliament and of the Council of October laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/(Animal by-products Regulation) (OJ L 300, p. 1), state:
+‘(5)
+Community health rules for collection, transport, handling, treatment, transformation, processing, storage, placing on the market, distribution, use or disposal of animal by-products should be laid down in a coherent and comprehensive framework.
+(6)
+Those general rules should be proportionate to the risk to public and animal health which animal by-products pose when they are dealt with by operators at different stages of the chain from collection to their use or disposal. The rules should also take into account the risks for the environment posed during those operations. The Community framework should include health rules on the placing on the market, including intra-Community trade and import, of animal by-products, where appropriate.
+…
+(29)
+Animal by-products and derived products should be classified into three categories which reflect the degree of risk that they pose to public and animal health, on the basis of risk assessments. While animal by-products and derived products posing a high risk should only be used for purposes outside the feed chain, their use posing a lower risk should be permitted under safe conditions.
+…
+(57)
+For the sake of coherence of Community legislation, it is necessary to clarify the relationship between the rules laid down in this Regulation and Community legislation on waste. …
+(58)
+In addition, it should be ensured that animal by-products mixed or contaminated with hazardous waste, as listed in Commission Decision 2000/532/EC of May replacing Decision 94/3/EC establishing a list of wastes pursuant to Article 1(a) of Council Directive 75/442/EEC on waste and Council Decision 94/904/EC establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive 91/689/EEC on hazardous waste [(OJ L 226, p. 3)] are only … dispatched between Member States in accordance with Regulation … No 1013/2006. ...’
+Article of Regulation No 1069/states:
+‘This Regulation lays down public health and animal health rules for animal by-products and derived products, in order to prevent and minimise risks to public and animal health arising from those products, and in particular to protect the safety of the food and feed chain.’
+Article 2(2) of that regulation provides that:
+‘This Regulation shall not apply to the following animal by-products:
+…
+(g)
+catering waste, except if it:
+…
+(iii)
+is destined for processing by pressure sterilisation or for processing by methods referred to in point (b) of the first subparagraph of Article 15(1) or for transformation into biogas or for composting;
+…’
+Article of that regulation provides:
+‘For the purposes of this Regulation:
+…
+11.
+“operator” means the natural or legal persons having an animal by-product or derived product under their actual control, including carriers, traders and users;
+…’
+Article of Regulation No 1069/2009, entitled ‘Category material’, provides:
+‘Category material shall comprise the following animal by-products:
+…
+(f)
+catering waste from means of transport operating internationally;
+…’
+Article of Regulation No 1069/2009, entitled ‘Category material’, states:
+‘Category material shall comprise the following animal by-products:
+…
+(p)
+catering waste other than as referred to in Article 8(f).’
+Article of Regulation No 1069/2009, entitled ‘Collection, transport and traceability’, provides:
+‘1.   Operators shall collect, identify and transport animal by-products without undue delay under conditions which prevent risks arising to public and animal health.
+2.   Operators shall ensure that animal by-products and derived products are accompanied during transport by a commercial document or, when required by this Regulation or by a measure adopted in accordance with paragraph 6, by a health certificate.
+…
+3.   Commercial documents and health certificates accompanying animal by-products or derived products during transport shall at least include information on the origin, the destination and the quantity of such products, and a description of the animal by-products or derived products and their marking, when such marking is required by this Regulation.
+…
+4.   Operators shall collect, transport and dispose of Category catering waste, in accordance with national measures foreseen in Article of Directive [2008/98].
+…’
+Article of that regulation, entitled ‘Traceability’, provides:
+‘1.   Operators consigning, transporting or receiving animal by-products or derived products shall keep a record of consignments and related commercial documents or health certificates.
+…
+2.   The operators referred to in paragraph shall have in place systems and procedures to identify:
+(a)
+the other operators to which their animal by-products or derived products have been supplied; and
+(b)
+the operators from whom they have been supplied.
+…’
+Article of that regulation, entitled ‘Registration of operators, establishments or plants’, provides, in paragraphs and 2:
+‘1.   With a view to registration, operators shall:
+(a)
+before commencing operations, notify the competent authority of any establishments or plants under their control which are active at any stage of the generation, transport, handling, processing, storage, placing on the market, distribution, use or disposal of animal by-products and derived products;
+(b)
+provide the competent authority with information on:
+(i)
+the category of animal by-products or derived products under their control;
+(ii)
+the nature of the operations performed using animal by-products or derived products as starting material.
+2.   Operators shall provide the competent authority with up-to-date information on any establishments or plants under their control as referred to in point (a) of paragraph 1, including any significant change in activities such as any closure of an existing establishment or plant.’
+Article of that regulation, headed ‘Approval of establishments or plants’, provides in paragraph 1:
+‘Operators shall ensure that establishments or plants under their control are approved by the competent authority, where such establishments or plants carry out one or more of the following activities:
+…’
+Article of Regulation No 1069/2009, entitled ‘Import and transit’, provides, in paragraph 2:
+‘By way of derogation from paragraph 1, the import and transit of:
+…
+(b)
+animal by-products or derived products mixed or contaminated with any waste listed as hazardous in Decision [2000/532] shall take place only subject to the requirements of Regulation … No 1013/2006;
+…’
+Article 43(5) of Regulation No 1069/2009, entitled ‘Export’, provides, in paragraph 5:
+‘By way of derogation from paragraphs and 4, the export of:
+…
+(b)
+animal by-products or derived products mixed or contaminated with any waste listed as hazardous in Decision [2000/532] shall take place only subject to the requirements of Regulation … No 1013/2006.’
+Under Article of Regulation No 1069/2009, entitled ‘Controls for dispatch to other Member States’:
+‘1.   Where an operator intends to dispatch Category material, Category material and meat-and-bone meal or animal fat derived from Category and Category materials to another Member State, it shall inform the competent authority of the Member State of origin and the competent authority of the Member State of destination.
+The competent authority of the Member State of destination shall decide upon application by the operator, within a specified time period:
+(a)
+to refuse receipt of the consignment;
+(b)
+to accept the consignment unconditionally; or
+(c)
+to make receipt of the consignment subject to the following conditions:
+(i)
+if the derived products have not undergone pressure sterilisation, it must undergo such treatment; or
+(ii)
+the animal by-products or derived products must comply with any conditions for the dispatch of the consignment which are justified for the protection of public and animal health in order to ensure that animal by-products and derived products are handled in accordance with this Regulation.
+2.   Formats for applications by operators referred to in paragraph may be adopted in accordance with the regulatory procedure referred to in Article 52(3).
+…
+6.   By way of derogation from paragraphs to 5, animal by-products or derived products referred to therein which have been mixed or contaminated with any waste listed as hazardous in Decision [2000/532] shall be sent to other Member States only subject to the requirements of Regulation … No 1013/2006.
+…’
+Article of Regulation No 1069/reads as follows:
+‘Regulation … No 1774/shall be repealed with effect from March 2011.
+References to Regulation … No 1774/shall be construed as references to this Regulation ...’
+– Regulation (EU) No 142/Commission Regulation (EU) No 142/of February implementing Regulation (EC) No 1069/of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive 97/78/EC as regards certain samples and items exempt from veterinary checks at the border under that Directive (OJ L 54, p. 1) lays down detailed rules governing, inter alia, the use and disposal of animal by-products and derived products, the collection, transport, identification and traceability of such by-products and products, registration and approval of establishments and plants, the placing on the market, import, transit and export of such by-products and products and official control procedures.
+German law
+The Gesetz zur Ausführung der Verordnung (EG) Nr. 1013/des Europäischen Parlaments und des Rates vom 14. Juni über die Verbringung von Abfällen und des Basler Übereinkommens (Law implementing Regulation No 1013/and the Basel Convention on the Transboundary Movements of Hazardous Wastes and their disposal) of July (BGBl. I, p. 1462), provides, in Article 13, that the competent authority may, in the event of an illegal shipment of waste for which no notification has been submitted in accordance with Regulation No 1013/2006, issue the necessary instructions so that the obligation to take back waste laid down in subparagraph (b) of the first paragraph of Article 24(2) of that regulation is met, in order to ensure that the waste in question is taken back by the person obliged to submit the notification under Article 2(15) of that regulation.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+ReFood carries out shipment of catering waste in Germany, including animal by-products.
+On April 2014, a heavy goods vehicle, driven by a member of staff of ReFood, and carrying category animal by-products within the meaning of Regulation No 1069/2009, which had been collected in the Netherlands, was stopped by German police while the products were being transported to ReFood’s establishment in Germany for further processing before being used in a biogas plant, also in Germany.
+The Lower Saxony Chamber of Agriculture ordered ReFood to refer the consignment in question to the Netherlands on the ground that that company had not complied with the notification procedure provided for in Article 3(1)(b) of Regulation No 1013/2006.
+On July 2014, ReFood brought an action before the referring court, challenging the lawfulness of the instruction issued by the Chamber of Agriculture of Lower Saxony. According to ReFood, the shipment of the animal by-products carried out was not covered by the scope of Regulation No 1013/2006, so that the notification requirement under that regulation was not applicable to it.
+The referring court wonders whether that transfer falls within that scope or is excluded under Article 1(3)(d) of that regulation. Neither the Court of Justice’s case-law nor the preparatory work for that regulation answers that question. Thus, several interpretations of that provision are possible.
+First, Article 1(3)(d) of Regulation No 1013/could, as ReFood claims, and notwithstanding what the wording of that provision implies, be construed as excluding, unconditionally, from the scope of that regulation any shipment covered by Regulation No 1069/2009, which repealed and replaced Regulation No 1774/2002. However, according to the referring court, if such an interpretation were to be followed, uniform treatment and disposal of animal by-products and harmonisation of controls within the European Union would not be guaranteed, Member States being, in accordance with Regulation No 1069/2009, subject solely to the obligation to avoid risks to public and animal health and to ensure a system for the efficient collection and disposal of animal by-products.
+Secondly, Article 1(3)(d) of Regulation No 1013/could be interpreted as meaning that solely shipments of animal by-products falling within equivalent or stricter procedural provisions than those provided for in Regulation No 1013/would be excluded from the scope of that regulation under that article. According to the referring court, that exclusion could accordingly benefit shipments of category catering waste, taking into account the requirements of Regulation No 142/2011.
+Thirdly, Article 1(3)(d) of Regulation No 1013/could, as the Lower Saxony Chamber of Agriculture supports, be interpreted as meaning that solely shipments of animal by-products requiring consent under Article 48(1) of Regulation No 1069/are excluded from the scope of Regulation No 1013/under Article 1(3)(d) of that regulation. The referring court notes that such an interpretation could, however, lead to an insurmountable contradiction. The requirements laid down in Article 48, in essence, concern solely category and materials, so that the exclusion from the scope of Regulation No 1013/2006, provided for in Article 1(3)(d) thereof, does not apply to category animal by-products. It follows that the cross-border shipment of those by-products, which are the least hazardous, would remain subject to the — generally — stricter requirements of Regulation No 1013/2006, whereas the shipment of category and animal by-products, which are more hazardous, solely fall, save as an exception, within the terms of Regulation No 1069/2009.
+The referring court states, in that regard, that Article 48(6) of Regulation No 1069/expressly makes subject to compliance with Regulation No 1013/2006, that is the highest level of requirement, solely the shipment of category and animal by-products and certain derived products that have been mixed with waste classified as hazardous or that have been contaminated by such waste. Thus, it may be unjustified to apply the scheme provided for by the latter regulation also to the cross-border transport of category animal by-products which have not been contaminated by hazardous waste.
+In those circumstances, the Verwaltungsgericht Oldenburg (the Administrative Court of Oldenburg, Germany) has decided to stay proceedings and refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is [Article 1(3)(d) of Regulation No 1013/2006] to be [interpreted] as an exemption which applies to all shipments which, pursuant to Article of Regulation [No 1069/2009], come within the scope of that latter Regulation?
+(2)
+If the answer to Question is in the negative:
+Is the provision to be interpreted as an exemption which applies to shipments which are subject to rules regarding collection, transport, identification and traceability pursuant to Regulation No 1069/2009, read also in conjunction with Implementing Regulation [No 142/2011]?
+(3)
+If Question is answered in the negative:
+Is the provision to be interpreted as an exemption which applies only to those shipments which are consignments requiring consent pursuant to Article 48(1) of Regulation (EC) No 1069/2009?’
+Consideration of the questions referred
+By its three questions, which should be examined together, the referring court asks, in essence, whether Article 1(3)(d) of Regulation No 1013/must be interpreted as meaning that all shipments of animal by-products covered by Regulation No 1069/or only certain of those shipments, which satisfy specific conditions imposed by Regulation No 1069/2009, are excluded from the scope of Regulation No 1013/2006, under Article 1(3)(d) of that regulation.
+As a preliminary point, it should be pointed out that the animal by-products at issue in the main proceedings are culinary waste from the Netherlands, intended to be further processed in Germany for use in a biogas plant. In accordance with Article 2(2)(g)(iii) of Regulation No 1069/2009, those by-products fall within the scope of that regulation. They constitute, under Article 10(p) of that regulation, category materials, being specified that, as is apparent from recital and an overall reading of that regulation, the animal by-products falling within that category are considered to be the least hazardous. Moreover, it may be inferred from the order for reference that the animal by-products at issue in the main proceedings also constitute waste within the meaning of Article 2(1) of Regulation No 1013/— which refers to the definition given in Article 1(1)(a) of Directive 2006/12, now Article 3(1) of Directive 2008/— which, if covered by the scope of that regulation, would fall within the categories of waste subject to the prior notification and consent procedure provided for in Article 3(1) of that regulation and not those referred to in Article 3(2) of that regulation for which solely a prior information procedure is required. In that regard, it is still necessary to note that, except in respect of the categories of waste referred to in the latter provision, which are not relevant in the present case, Regulation No 1013/makes the shipments of waste from one Member State to another Member State subject to requirements, as a general rule, which are more stringent than Regulation No 1069/2009, as the Advocate General stated in point of his opinion.
+In order to determine whether the shipment from the Netherlands to Germany of the animal by-products at issue in the main proceedings is excluded from the scope of Regulation No 1013/2006, in accordance with Article 1(3)(d) thereof, it should be recalled that the exclusion provided for in that provision applies to ‘shipments which are subject to the approval requirements of Regulation … No 1774/2002’, it being clarified that the reference thus made to Regulation No 1774/must, under Article of Regulation No 1069/2009, be understood as being made to the latter regulation, which repealed Regulation No 1774/2002.
+In order to interpret Article 1(3)(d) of Regulation No 1013/2006, it is necessary, in the first place, to note that, despite its wording, no provision of Regulation No 1774/made the transport or shipment of animal by-products subject to ‘approval’. Thus, on the one hand, Article of Regulation No 1774/made the dispatch from one Member State to another of category and animal by-products, processed products derived from those categories and processed animal protein to ‘authorisation’ by the Member State of destination, such authorisation, however, not being required for the transport of category animal by-products. On the other hand, the obligation to obtain ‘approval’ provided for in Articles to 15, and of Regulation No 1774/concerned intermediate plants, storage plants, incineration and co-incineration plants, processing plants, oleochemical plants, biogas and composting plants, petfood plants and technical plants.
+Likewise, although Articles to of Regulation No 1069/provide for a series of specific obligations with regard to animal by-products shippers, in particular a registration obligation with the competent authority, the shipment activity is not subject to an approval procedure. Accordingly, Article of that regulation, which requires operators of establishments or plants carrying out one of the activities which it covers to have an approval, does not apply to the shipment activity. Moreover, although Article 48(1) of that regulation makes the dispatch from a Member State to another of category and materials and certain products derived from those materials subject to the acceptance by the competent authority of the Member State of destination, that provision does not provide for an ‘approval’ procedure.
+In the latter regard, Article 48(2) of that regulation makes reference, in its German language version, to applications for ‘approval’ referred to in paragraph of that article (Anträgen auf Zulassung). However, other language versions of Article 48(2), in particular the Greek, English, French, Italian and Dutch versions, refer only to ‘formats for applications’ referred to in paragraph of that article. According to settled case-law of the Court of Justice, in the case of disparities between the various language versions of a provision of EU law, the wording used in one of those versions cannot serve as the sole basis for the interpretation of that provision or be made to override the other language versions (see, to that effect, judgment of January 2019, Balandin and Others, C‑477/17, EU:C:2019:60, paragraph and the case-law cited).
+In the second place, it should be emphasised that recital of Regulation No 1013/shows that the exclusion from the scope of that regulation laid down in Article 1(3)(d) thereof is intended to avoid duplication with Regulation No 1774/2002, which already contained provisions concerning the overall consignment, channelling and movement, including transport, of animal by-products within, into and out of the Union (see, to that effect, judgment of March 2007, KVZ retec, C‑176/05, EU:C:2007:123, paragraph 47).
+That recital must be read taking into account the changes in EU legislation on waste and those relating to animal by-products since the adoption of Regulation No 1013/2006, which have been accompanied by greater coherence between those different pieces of legislation.
+In that regard, it is necessary to note, firstly, that Directive 2006/12, which was in force on the date of adoption of Regulation No 1013/2006, has been repealed and replaced by Directive 2008/98. However, as is apparent in essence from recitals and of the latter directive, the EU legislature considered that Regulation No 1774/provided for proportionate rules, in particular, for the carriage of all animal by-products, including waste of animal origin, in order to prevent such waste from presenting a risk to animal and public health, and, in the light of the experience gained in the application of that regulation, considered that, in cases where such by-products pose potential health risks, that appropriate legal instrument for this type of risk was, in principle, that very regulation, so that duplication of rules and unnecessary overlaps with the legislation on waste should be avoided, by excluding from the scope of Directive 2008/animal by-products where they are intended for uses that are not considered waste operations.
+Accordingly, Article 2(2)(b) of Directive 2008/excludes animal by-products, including processed products covered by Regulation No 1774/2002, from the scope of that directive, with the sole exception of those which are destined for incineration, landfilling or use in a biogas or composting plant, thus highlighting the intention of the EU legislature to separate, in principle, animal by-products from the scope of legislation on waste.
+Secondly, as stated in paragraph of the present judgment, Regulation No 1774/has been repealed and replaced by Regulation No 1069/2009.
+As recitals and of Regulation No 1069/indicate, that regulation tends, on the one hand, to establish a coherent and comprehensive framework of health rules applicable in particular to the transport of animal by-products, which are proportionate to the risk to public and animal health which animal by-products pose when they are dealt with by operators at different stages of the chain, from collection to their use or disposal, and which take account of the risks for the environment posed during those operations. On the other hand, as is apparent from recitals and of Regulation No 1069/2009, it also aims, for the sake of the coherence of EU legislation, to clarify the relationship between the rules laid down in that regulation and EU legislation on waste, in particular Regulation No 1013/2006, as regards the export, import and shipment between two Member States of animal by-products.
+For the sake of proportionality and consistency, Regulation No 1069/established rules proportionate to the risk posed by the transport of different categories of animal by-products according to their hazardousness, by regulating the transport of category animal by-products with less stringent rules in view of them being less hazardous, and reserved the application of the stricter rules laid down in Regulation No 1013/to the most hazardous shipments of waste.
+Thus, as regards the transport of category animal by-products from one Member State to another, in addition to the general obligations concerning the traceability of animal by-products and the registration of operators provided for in Articles and 23, Regulation No 1069/is, in essence, limited to providing, in Article 21(2), that operators shall ensure that a commercial document or, in certain cases, a health certificate accompanies such by-products during their transport. It adds, in Article 21(4), that operators shall carry out the transport of category culinary waste in accordance with the national measures provided for in Article of Directive 2008/98, which provides that Member States shall take the necessary measures to ensure that waste management is carried out without endangering human health and harming the environment.
+In contrast, as regards category or materials and certain products derived from those materials, Article 48(1) of Regulation No 1069/provides that the dispatch from one Member State to another is subject to consent by competent authority of the Member State of destination.
+Article 48(6) of that regulation adds that, by way of derogation from paragraphs to of that article, animal by-products or derived products referred to therein, namely in essence category and materials and certain products derived from those materials, which have been mixed or contaminated with any waste listed as hazardous in Decision 2000/532, shall be sent to other Member States only subject to the requirements of Regulation No 1013/2006.
+Likewise, Article 41(2)(b) and Article 43(5)(b) of Regulation No 1069/provide, respectively, that the import and transit, first, and the export, second, of animal by-products or derived products mixed, or contaminated with, any waste listed as hazardous shall, by derogation, take place only subject to the requirements of Regulation No 1013/2006.
+It follows from a contrary interpretation of Article 41(2)(b), Article 43(5)(b) and Article 48(6) of Regulation No 1069/that, apart from the situations expressly referred to in those provisions, the shipment of animal by-products is outside the scope of Regulation No 1013/2006. That is, in particular, the case of the transport from one Member State to another of category culinary waste.
+It follows from the considerations set out in paragraphs to of the present judgment that the EU legislature intended, by Regulation No 1069/2009, adopted subsequent to Regulation No 1013/2006, to establish a comprehensive framework of rules applicable to the transport of animal by-products and remove, other than by specific derogation, the transfer of animal by-products covered by it from the application of Regulation No 1013/2006.
+In contrast, Article 1(3)(d) of Regulation No 1013/cannot be interpreted as meaning, firstly, that shipments of animal by-products are excluded from the scope of that regulation only to the extent that they are subject to equivalent or stricter procedural provisions than those provided for by that regulation.
+In addition to the fact that such an interpretation could be a source of legal uncertainty for operators, given the difficulty of determining with certainty whether the shipment of animal by-products concerned are subject to such provisions, it would result in making the transport of all animal by-products subject to rules at least as strict as those laid down in Regulation No 1013/2006. That interpretation accordingly disregards the system established by Regulation No 1069/2009, consisting, as is apparent from paragraphs to of the present judgment, of establishing rules proportionate to the risks presented by the transport of different categories of animal by-products according to their hazardousness, which, except for the most hazardous waste, do not correspond to those contained in Regulation No 1013/and are not as strict as those.
+Moreover, although that interpretation corresponds to the original text of Article 1(3)(d) of Regulation No 1013/2006, as formulated in the proposal for a regulation of the European Parliament and of the Council on the transfer of waste submitted by the Commission [COM(2003) final], which provided that shipments of waste covered by Regulation No 1774/were excluded from the scope of that proposal only to the extent that they were subject to similar or stricter procedural provisions, it must be stated that this wording was not adopted in the final text of that provision.
+On the other hand, Article 1(3)(d) of Regulation No 1013/can also not be interpreted as meaning that solely shipments of animal by-products which are subject to the procedure provided for in Article 48(1) of Regulation No 1069/2009, namely category and materials and certain products derived from those materials, are excluded from the scope of Regulation No 1013/2006, other than category animal by-products which would remain subject to that regulation.
+In addition to the considerations set out in paragraphs 43, and of the present judgment concerning Article 48, it should be emphasised that such an interpretation would also undermine the scheme of Regulation No 1069/which establishes rules proportionate to the hazardousness presented by the transport of different categories of animal by-products and would lead, as stated by the referring court and the Advocate General in paragraphs and of his Opinion, to a paradoxical result. That interpretation would lead to applying to the transport between two Member States of category animal by-products, which are the least hazardous, the requirements of Regulation No 1013/2006, which are stricter than those applicable, in accordance with in Article 48(1) of Regulation No 1069/2009, to the dispatch from one Member State to another of category and animal by-products. Thus, the transfer between two Member States of category animal by-products would be subject to rules as strict as those applicable, pursuant to Article 48(6) of the latter regulation, to the transfer of category and materials which have been mixed with waste classified as hazardous in Decision 2000/or which have been contaminated by such waste.
+Having regard to all of the foregoing considerations, the answer to the questions referred is that Article 1(3)(d) of Regulation No 1013/must be interpreted as meaning that shipments of animal by-products falling within Regulation No 1069/are excluded from the scope of Regulation No 1013/2006, except in cases where Regulation No 1069/expressly provides for the application of Regulation No 1013/2006.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+Article 1(3)(d) of Regulation (EC) No 1013/of the European Parliament and of the Council of June on shipments of waste, must be interpreted as meaning that shipments of animal by-products falling within the scope of Regulation (EC) No 1069/of the European Parliament and of the Council of October laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/(Animal by-products Regulation), are excluded from the scope of Regulation No 1013/2006, unless Regulation No 1069/expressly provides for the application of Regulation No 1013/2006.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

@@ -1,0 +1,84 @@
+
+JUDGMENT OF THE COURT (Eighth Chamber)
+May (
+*)
+(Reference for a preliminary ruling — Area of freedom, security and justice — Judicial cooperation in civil matters — Regulation (EU) No 1215/— Jurisdiction — Special jurisdiction — Article 8(3) — Counterclaim arising or not arising from the same contract or facts on which the original claim was based)
+In Case C‑306/17,
+REQUEST for a preliminary ruling under Article TFEU from the Tatabányai Törvényszék (Tatabánya Court, Hungary), made by decision of May 2017, received at the Court on May 2017, in the proceedings
+Éva Nothartová
+v
+Sámson József Boldizsár,
+THE COURT (Eighth Chamber),
+composed of J. Malenovský, President of the Chamber, M. Safjan (Rapporteur) and D. Šváby, Judges,
+Advocate General: H. Saugmandsgaard Øe,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of
+–
+the Portuguese Government, by L. Inez Fernandes, M. Figueiredo and P. Lacerda, acting as Agents,
+–
+the European Commission, by K. Talabér-Ritz and M. Heller, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+The request for a preliminary ruling concerns the interpretation of Article 8(3) of Regulation (EU) No 1215/of the European Parliament and of the Council of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 351, p. 1).
+This request has been made in proceedings between Ms Éva Nothartová and Mr Sámson József Boldizsár, concerning an alleged infringement of Ms Nothartová’s image and phonogram rights, in response to which Mr Boldizsár submitted a counterclaim.
+Legal context
+European Union law
+According to recital of Regulation No 1215/2012, the regulation aims, in the interests of the sound operation of the internal market, to introduce ‘provisions to unify the rules of conflict of jurisdiction in civil and commercial matters, and to ensure rapid and simple recognition and enforcement of judgments given in a Member State’.
+Recitals and of that regulation state:
+‘(15)
+The rules of jurisdiction should be highly predictable and founded on the principle that jurisdiction is generally based on the defendant’s domicile. Jurisdiction should always be available on this ground save in a few well-defined situations in which the subject-matter of the dispute or the autonomy of the parties warrants a different connecting factor. The domicile of a legal person must be defined autonomously so as to make the common rules more transparent and avoid conflicts of jurisdiction.
+(16)
+In addition to the defendant’s domicile, there should be alternative grounds of jurisdiction based on a close connection between the court and the action or in order to facilitate the sound administration of justice. The existence of a close connection should ensure legal certainty and avoid the possibility of the defendant being sued in a court of a Member State which he could not reasonably have foreseen. This is important, particularly in disputes concerning non-contractual obligations arising out of violations of privacy and rights relating to personality, including defamation.’
+The rules of jurisdiction are set out in Chapter II of that regulation.
+Article 4(1) in Section 1, headed ‘General provisions’, of Chapter II of that regulation is worded as follows:
+‘Subject to this Regulation, persons domiciled in a Member State shall, whatever their nationality, be sued in the courts of that Member State.’
+Article 5(1) of Regulation No 1215/2012, which is in Section 1, provides:
+‘Persons domiciled in a Member State may be sued in the courts of another Member State only by virtue of the rules set out in Sections to of this Chapter.’
+Article 7(2) of that regulation, which forms part of Section 2, headed ‘Special jurisdiction’, of Chapter II, provides:
+‘A person domiciled in a Member State may be sued in another Member State:
+…
+(2)
+in matters relating to tort, delict or quasi-delict, in the courts for the place where the harmful event occurred or may occur’.
+In accordance with Article 8(3) of that regulation, also in Section 2, ‘a person domiciled in a Member State may also be sued … on a counterclaim arising from the same contract or facts on which the original claim was based, in the court in which the original claim is pending’.
+Hungarian law
+Paragraph 147(1) of the polgári perrendtartásról szóló 1952. évi III. törvény (Law No III of establishing the Code of Civil Procedure) provides:
+‘Until the end of the hearing preceding the delivery of judgment at first instance the defendant may counterclaim against the applicant provided that the right which he seeks to assert through the counterclaim arises from the same legal relationship as that on which the applicant’s claim is based, or is linked to that relationship, or it is possible to set off the claim in the counterclaim against the claim in the application … ’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+In accordance with Article 4(1) of Regulation No 1215/2012, Ms Nothartová, a Slovak national domiciled in Slovakia, brought an action before the referring court, the Tatabányai Törvényszék (Tatabánya Court, Hungary), against Mr Boldizsár, a Hungarian national domiciled in Hungary, seeking to establish infringement of her image and phonogram rights. The applicant in the main proceedings submits that Mr Boldizsár took photographs and recorded videos without her knowledge, which he then included, inter alia, in videos published on the internet, particularly on the website YouTube.
+The defendant in the main proceedings brought a counterclaim for damages before the referring court, on the grounds that, first, the original application had the effect of restricting the publication of intellectual creations on the website YouTube, second, the applicant in the main proceedings referred to him incorrectly using the name of his father, infringing his right to a name and the right to respect for the deceased and, third, the applicant in the main proceedings referred to his vehicle’s registration number, infringing the ‘vehicle’s personality right’.
+According to the referring court, the counterclaim brought by the defendant in the main proceedings does not arise from the same facts on which the original claim was based, within the meaning of Article 8(3) of Regulation No 1215/2012.
+Consequently, the referring court considers that if Article 8(3) of Regulation No 1215/is the only provision applicable to counterclaims, it does not have jurisdiction to hear and determine the counterclaim brought by the defendant in the main proceedings as that action does not arise from the same facts on which the original claim is based.
+If, on the other hand, Article 8(3) of Regulation No 1215/applies only to counterclaims arising from the same contract or facts on which the original claim was based, the referring court takes the view that it would nevertheless have jurisdiction, pursuant to Article 7(2) of that regulation, to adjudicate on the counterclaim brought by the defendant in the main proceedings.
+In those circumstances, the Tatabányai Törvényszék (Tatabánya Court) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Where there is a counterclaim arising from a contract or facts different from those on which the original claim is based, for the purposes of determining jurisdiction to hear and determine the counterclaim:
+(a)
+Does only Article 8(3) of Regulation [No 1215/2012] apply because only that provision concerns the counterclaim, or
+(b)
+Does Article 8(3) of [Regulation No 1215/2012] refer solely to a counterclaim arising from the same contract or facts on which the original claim is based, so that that regulation does not apply to a counterclaim which does not arise from the same contract or facts on which the original claim is based, and it may therefore be established, in relation to such counterclaims, in accordance with the other rules of jurisdiction under [Regulation No 1215/2012], that the court with jurisdiction to hear and determine the original claim also has jurisdiction to hear and determine the counterclaim?’
+Consideration of the question referred
+By its question, divided into two parts, which it is appropriate to examine together, the referring court wishes to know, in essence, whether Article 8(3) of Regulation No 1215/must be interpreted as applying, to the exclusion of all other rules of special jurisdiction laid down by that regulation, in a situation in which the court with jurisdiction to hear and determine a claim alleging infringement of the applicant’s personality rights, on the ground that photographs were taken and videos recorded without his knowledge, is seised by the defendant bringing a counterclaim for compensation on the ground that the applicant is liable in tort, delict or quasi-delict for, inter alia, restrictions on his intellectual creations, which are the subject of the original application.
+As a starting point, it must be noted that, since Articles 7(2) and 8(3) of Regulation No 1215/repeat, in essence, the wording of Articles 5(3) and 6(3) respectively of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 12, p. 1), the interpretation provided by the Court regarding the provisions of the latter regulation and, before that, the Convention of September on jurisdiction and the enforcement of judgments in civil and commercial matters (OJ L 299, p. 32), as amended by subsequent accession conventions for the new Member States, remains valid for the equivalent provisions of Regulation No 1215/(see, by analogy, judgments of June 2017, Kareda, C‑249/16, EU:C:2017:472, paragraph 27; of October 2017, Bolagsupplysningen and Ilsjan, C‑194/16, EU:C:2017:766, paragraph 24, and of January 2018, Hofsoe, C‑106/17, EU:C:2018:50, paragraph 36).
+In accordance with Article 4(1) of Regulation No 1215/2012, persons domiciled in a Member State are to be sued in the courts of that Member State. Article 5(1) of that regulation provides derogations from that general rule on jurisdiction, set out in Sections to of Chapter II of the regulation.
+In that regard, it follows from recital of Regulation No 1215/that, in addition to the defendant’s domicile, there are alternative grounds of jurisdiction based on a close link between the court and the action or in order to facilitate the sound administration of justice.
+Therefore, with a view to avoiding the adoption of contradictory judicial decisions, Article 8(3) of Regulation 1215/grants the defendant the possibility of bringing a counterclaim arising from the same contract or facts on which the original claim was based, in the court in which the original claim is pending.
+It is in the interests of the sound administration of justice that the special jurisdiction for counterclaims enables the parties, in the same proceedings and before the same court, to litigate all their claims against each other that have a common origin. Unnecessary multiple proceedings are thus avoided (judgment of October 2016, Kostanjevec, C‑185/15, EU:C:2016:763, paragraph 37).
+In line with that objective, in a situation where one or more counterclaims are brought before a court, it is for that court to assess to what extent those claims have a common origin with the original claim and therefore fall under Article 8(3) of Regulation No 1215/2012.
+To that end, in circumstances such as those in the main proceedings, that court must, inter alia, determine whether, when examining a counterclaim seeking the payment of damages, on the ground that the applicant in the main proceedings is restricting the intellectual creation of the defendant in the main proceedings, it is not required to assess the lawfulness of the actions on which the applicant in the main proceedings bases his claims, as the intellectual creation the use of which is, according to the defendant, being disrupted is the creation which the applicant in the main proceedings considers to form the basis of the infringement of his right to his own image.
+If it is necessary to make such an assessment, Article 8(3) of Regulation No 1215/must be interpreted as conferring jurisdiction on that court to adjudicate on the counterclaim brought by the defendant in the main proceedings.
+That said, it must be noted that the special jurisdiction referred to in Article 8(3) of Regulation No 1215/does not exclude the other rules of jurisdiction laid down by the regulation. Its use is discretionary, not only in relation to the general rule of jurisdiction laid down in Article 4(1) of that regulation, as applied in the main proceedings, but also in relation to the other rules of special jurisdiction laid down by that regulation.
+As the European Commission stated in its written observations, the non-exclusive and discretionary nature of the rules of special jurisdiction flows not only from the objectives and scheme of Regulation No 1215/2012, but also from the wording of Article 8(3) of that regulation itself, which specifies that a person ‘may also’ be sued pursuant to that provision, but not that he must be sued there only.
+Further, it follows from the settled case-law relating to the Convention of September on jurisdiction and the enforcement of judgments in civil and commercial matters, as amended, and Regulation No 44/2001, which is also relevant in the context of Regulation No 1215/2012, that the purpose of the latter is not to unify the procedural rules of the Member States, but to determine which court has jurisdiction in disputes concerning civil and commercial matters in relations between Member States and to facilitate the enforcement of judgments (judgment of November 2011, Hypoteční banka, C‑327/10, EU:C:2011:745, paragraph 37). As that regulation does not determine the conditions in which, after having established its international jurisdiction pursuant to that regulation, a court may or must examine together a number of claims involving the same parties, those conditions fall, in theory, within the procedural autonomy of the Member States (see, by analogy, judgment of March 2012, G, C‑292/10, EU:C:2012:142, paragraph 45).
+In the light of the foregoing, the answer to the question referred is that Article 8(3) of Regulation No 1215/must be interpreted as applying, not exclusively, in a situation in which the court with jurisdiction to hear and determine a claim alleging infringement of the applicant’s personality rights, on the ground that photographs were taken and videos recorded without his knowledge, is seised by the defendant bringing a counterclaim for compensation on the ground that the applicant is liable in tort, delict or quasi-delict for, inter alia, restrictions on his intellectual creations, which are the subject of the original application, where, when examining the counterclaim, that court is required to assess the lawfulness of the actions on which the applicant bases its own claims.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Eighth Chamber) hereby rules:
+ 
+Article 8(3) of Regulation (EU) No 1215/of the European Parliament and of the Council of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters must be interpreted as applying, not exclusively, in a situation in which the court with jurisdiction to hear and determine a claim alleging infringement of the applicant’s personality rights, on the ground that photographs were taken and videos recorded without his knowledge, is seised by the defendant bringing a counterclaim for compensation on the ground that the applicant is liable in tort, delict or quasi-delict for, inter alia, restrictions on his intellectual creations, which are the subject of the original application, where, when examining the counterclaim, that court is required to assess the lawfulness of the actions on which the applicant bases its own claims.
+ 
+[Signatures]
+(
+*)	Language of the case: Hungarian.
+Top  

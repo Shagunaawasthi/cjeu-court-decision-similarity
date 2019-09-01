@@ -1,0 +1,105 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+November (
+*)
+(Reference for a preliminary ruling — Regulation (EC) No 1008/— Article 2(18) — Article 23(1) — Transport — Common rules for the operation of air services in the European Union — Information — Indication of the final price to be paid — Inclusion of the air fare in the final price to be paid — Obligation to indicate air fares in euros or local currency — Choice of the relevant local currency — Connecting factors)
+In Case C‑330/17,
+REQUEST for a preliminary ruling under Article TFEU from the Bundesgerichtshof (Federal Court of Justice, Germany), made by decision of April 2017, received at the Court on June 2017, in the proceedings
+Verbraucherzentrale Baden-Württemberg eV
+v
+Germanwings GmbH,
+THE COURT (Fifth Chamber),
+composed of K. Lenaerts, President of the Court, acting as President of the Fifth Chamber, F. Biltgen (Rapporteur) and E. Levits, Judges,
+Advocate General: H. Saugmandsgaard Øe,
+Registrar: C. Strömholm, Administrator,
+having regard to the written procedure and further to the hearing on April 2018,
+after considering the observations submitted on behalf of:
+–
+Verbraucherzentrale Baden-Württemberg eV, by B. Stillner, Rechtsanwalt,
+–
+Germanwings GmbH, by P. Baukelmann and N. Tretter, Rechtsanwälte,
+–
+the European Commission, by W. Mölls and F. Wilman, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on June 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 2(18) and Article 23(1) of Regulation (EC) No 1008/of the European Parliament and of the Council of September on common rules for the operation of air services in the Community (OJ L 293, p. 3).
+The request has been made in proceedings between Germanwings GmbH and Verbraucherzentrale Baden-Württemberg eV (consumers’ association of the Land of Baden-Württemberg, Germany) (‘the Verbraucherzentrale’) concerning the indication by Germanwings of air fares in pounds sterling for a flight from London (United Kingdom) to Stuttgart (Germany).
+Legal context
+Recital of Regulation No 1008/reads as follows:
+‘Customers should be able to compare effectively the prices for air services of different airlines. Therefore the final price to be paid by the customer for air services originating in the Community should at all times be indicated, inclusive of all taxes, charges and fees. Community air carriers are also encouraged to indicate the final price for their air services from third countries to the Community.’
+Article of that regulation, ‘Subject matter’, provides in paragraph 1:
+‘This Regulation regulates the licensing of Community air carriers, the right of Community air carriers to operate intra-Community air services and the pricing of intra-Community air services.’
+Article of the regulation, ‘Definitions’, states inter alia:
+‘For the purposes of this Regulation:
+…
+18.
+“air fares” means the prices expressed in euro or in local currency to be paid to air carriers or their agents or other ticket sellers for the carriage of passengers on air services and any conditions under which those prices apply, including remuneration and conditions offered to agency and other auxiliary services’.
+Article of the regulation, ‘Pricing freedom’, provides in paragraph 1:
+‘Without prejudice to Article 16(1), Community air carriers and, on the basis of reciprocity, air carriers of third countries shall freely set air fares and air rates for intra-Community air services.’
+Article of the regulation, ‘Information and non-discrimination’, provides in paragraph 1:
+‘Air fares and air rates available to the general public shall include the applicable conditions when offered or published in any form, including on the Internet, for air services from an airport located in the territory of a Member State to which the Treaty applies. The final price to be paid shall at all times be indicated and shall include the applicable air fare or air rate as well as all applicable taxes, and charges, surcharges and fees which are unavoidable and foreseeable at the time of publication. In addition to the indication of the final price, at least the following shall be specified:
+(a)
+air fare or air rate;
+(b)
+taxes;
+(c)
+airport charges; and
+(d)
+other charges, surcharges or fees, such as those related to security or fuel;
+where the items listed under (b), (c) and (d) have been added to the air fare or air rate. Optional price supplements shall be communicated in a clear, transparent and unambiguous way at the start of any booking process and their acceptance by the customer shall be on an “opt-in” basis.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Germanwings is an air carrier established in Germany.
+In early September a customer in Germany booked a flight from London to Stuttgart on the website www.germanwings.de operated by Germanwings.
+On that website the fare for the flight was indicated in pounds sterling only. After booking the flight, the customer received an invoice also showing the fare and other charges in pounds sterling.
+Taking the view that that practice was unfair conduct and that the fares had to be shown in euros, the Verbraucherzentrale, which had been notified by the customer, brought proceedings for a prohibitory order against Germanwings before the Landgericht Köln (Regional Court, Cologne, Germany), which that court granted.
+Germanwings appealed against that court’s decision to the Oberlandesgericht Köln (Higher Regional Court, Cologne, Germany), which allowed the appeal on the ground that Regulation No 1008/does not prohibit air carriers from indicating air fares in a currency other than the euro.
+The Bundesgerichtshof (Federal Court of Justice, Germany), which is hearing the appeal on a point of law against the appellate court’s judgment, considers that the outcome of the dispute in the main proceedings depends on the interpretation of Article 23(1) and Article 2(18) of Regulation No 1008/2008.
+The referring court is uncertain, in the first place, whether Article 23(1) of that regulation must be interpreted as meaning that, for intra-Community flights, air fares must, if not indicated in euros, be expressed in a particular local currency, or whether air carriers are free to choose the relevant local currency in this respect.
+The referring court observes that the theory that air carriers are free to indicate air fares in the local currency of their choice is supported a priori by the lack of an obligation to indicate air fares in a specific currency, which follows expressly from Article 23(1) of Regulation No 1008/2008, and by the wording of Article 22(1) of the regulation, which provides that air carriers are in principle to set their fares freely for intra-Community air services. However, the referring court considers that the objective of Regulation No 1008/2008, which, according to recital 16, is to make it possible for customers to compare effectively the prices for air services of different airlines, would be compromised if air carriers were given such a margin of discretion.
+In the second place, should the Court take the view that air fares, if not expressed in euros, should be indicated in a predetermined local currency, the referring court is uncertain essentially as to the interpretation of the term ‘local currency’ in Article 2(18) of that regulation, in particular where an air carrier whose seat is in one Member State offers a flight to a customer on the internet and the place of departure of the flight is in the territory of another Member State whose currency is not the euro.
+According to the referring court, there are several local currencies that might be relevant in this respect, namely the currency which is legal tender in the Member State in whose territory the air carrier is established, the one which is legal tender in the Member State where the customer is present, the one to which the ‘top-level domain of the air carrier’s website’ refers, or the one which is legal tender in the Member State of the place of departure of the flight concerned.
+The referring court considers that the choice of the currency which is legal tender in the Member State of the place of departure of the flight would comply best with the objective of Regulation No 1008/2008. It notes, moreover, that it is the practice of air carriers to use that currency. Nevertheless, the Court has not yet ruled on the point.
+In those circumstances the Bundesgerichtshof (Federal Court of Justice) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Must air fares for intra-Community air services, to be indicated under the second and third sentences of Article 23(1) of Regulation No 1008/2008, be indicated in a particular currency, in so far as they are not expressed in euros?
+(2)
+If Question is answered in the affirmative:
+In which local currency may the fares referred to in Article 2(18) and the second and third sentences of Article 23(1) of Regulation No 1008/be indicated, where an air carrier established in one Member State (in this case Germany) advertises and offers an air service with a place of departure in another Member State (in this case the United Kingdom) to a consumer on the internet?
+In this connection, is it decisive that an internet address is used with a country-specific top-level domain (in this case www.germanwings.de) that refers to the Member State in which the air carrier is established, and the consumer is present in that Member State?
+Is it relevant that all or the overwhelming majority of air carriers indicate the fares in question in the local currency used at the place of departure?’
+Consideration of the questions referred
+By its questions, which should be considered together, the referring court essentially asks whether Article 23(1) in conjunction with Article 2(18) of Regulation No 1008/must be interpreted as meaning that, when indicating air fares for intra-Community air services, air carriers who do not express those fares in euros may indicate them in any local currency of their choice. If not, the referring court wishes to know whether, in a situation such as that at issue in the main proceedings, in which an air carrier established in one Member State whose currency is the euro offers on the internet an air service for which the place of departure of the flight is in another Member State whose currency is not the euro, the air fares may, if they are not expressed in euros, be indicated in the currency which is legal tender in that other Member State.
+To answer those questions, it must be recalled, first, that Article 23(1) of Regulation No 1008/provides that, when offering air services from an airport located in the territory of a Member State, air carriers are required to indicate at all times the final price to be paid, including in particular the air fare. Second, Article 2(18) of that regulation, which defines ‘air fares’ as the prices to be paid to air carriers or their agents or other ticket sellers for the carriage of passengers on air services and any conditions under which those prices apply, including remuneration and conditions offered to agency and other auxiliary services, specifies that those prices are ‘expressed in euro or in local currency’.
+However, the wording of those provisions does not contain any specification as to the local currency in which air fares must be indicated by air carriers, where those carriers do not express them in euros.
+In this context, it should be recalled that, according to settled case-law of the Court, in interpreting a provision of EU law it is necessary to consider not only its wording but also the objectives of the legislation of which it forms part and the origin of that legislation (see, to that effect, judgment of July 2018, E LATS, C‑154/17, EU:C:2018:560, paragraph and the case-law cited).
+As regards the objectives of Article 23(1) in conjunction with Article 2(18) of Regulation No 1008/2008, it is clear from both the heading and the content of Article 23(1) that it seeks to ensure in particular that there is information and transparency with regard to prices for air services from an airport located in a Member State, and thereby contributes to safeguarding protection of customers who use those services (judgment of July 2017, Air Berlin, C‑290/16, EU:C:2017:523, paragraph and the case-law cited).
+As the Advocate General observes in point of his Opinion, that price transparency makes it possible to ensure healthier competition between air carriers, since it avoids in particular certain air carriers offering an incomplete price at the start of the transaction and adding various price supplements before the end of the transaction.
+Moreover, recital of Regulation No 1008/states that customers should be able to compare effectively the prices for air services of different airlines, and that the final price to be paid by the customer for air services originating at an airport located in the territory of the European Union should, therefore, at all times be indicated, inclusive of all taxes, charges and fees.
+It follows that the purpose of Article 23(1) of Regulation No 1008/2008, read in conjunction with Article 2(18) and in the light of recital of that regulation, is to ensure transparency of prices, consisting in all the elements of the final price to be paid, including the air fare, being indicated, so as not only to ensure healthier competition between air carriers but also to enable the customer at any time to compare, effectively and in their entirety, the prices offered by the various air carriers for the same service. Regulation No 1008/is thus intended to ensure that the customer is in a position to evaluate the higher or lower nature of the final price to be paid offered by the various air carriers for the same service.
+It is clear that that objective of effective comparability of prices would be compromised if Article 23(1) in conjunction with Article 2(18) of Regulation No 1008/were to be interpreted as meaning that the choice available to air carriers for determining the currency in which they indicate air fares for intra-Community air services is not circumscribed in any way.
+The consequence of that interpretation would be to allow different air carriers to indicate air fares for the same service in different currencies, without those currencies having any connection with the service offered or with the customer. Such a situation would not only be liable to lead the customer astray as to the prices actually applied, but would also make it more difficult for him to compare effectively the prices offered by different air carriers.
+As regards the origin of the provisions in question, it should be recalled that Article 2(18) of Regulation No 1008/replaced Article 2(a) of Council Regulation (EEC) No 2409/of July on fares and rates for air services (OJ L 240, p. 15), which referred to ‘the prices expressed in ecus or in local currency’.
+It should be noted that the ecu was not a local currency but a common standard that was used only to allow, generally, better price comparability, so that the indication by air carriers of air fares in ecus made it easier for the customers concerned to compare prices.
+Although the EU legislature replaced the term ‘ecus’ by the term ‘euros’, so that Article 2(18) of Regulation No 1008/now gives air carriers the choice of indicating air fares for intra-Community air services ‘in euro or in local currency’, the fact remains that the reasoning underlying that provision has not changed.
+As the Advocate General essentially states in point of his Opinion, it follows expressly, first, from recitals and and Article of Council Regulation (EC) No 1103/of June on certain provisions relating to the introduction of the euro (OJ L 162, p. 1) and, second, from recital and Article of Council Regulation (EC) No 974/of May on the introduction of the euro (OJ L 139, p. 1) that, as from January 1999, the ecu ceased to designate the European monetary unit and was replaced by the euro.
+The euro must therefore be regarded as a reference currency, the use of which by air carriers for indicating air fares is, in the same way as the ecu, such as to ensure better comparability of prices, all the more so as it is the currency in force in of the Member States and is therefore likely to be familiar to a large number of persons.
+In this context, it cannot be accepted that, by choosing to express air fares for intra-Community air services in a currency other than the euro, air carriers can make the comparison of prices by the customers concerned more difficult or even impossible in practice, without fundamentally calling into question the objective of price comparability pursued by Article 23(1) of Regulation No 1008/and consequently depriving that provision of a great part of its effectiveness.
+It should be added that, as the Advocate General essentially observes in point of his Opinion, effective comparability of prices would be facilitated if air carriers indicated air fares in a local currency objectively linked to the service offered.
+According to the Court’s case-law, the places of departure and arrival of the flight concerned must be regarded, equally, as the places of main provision of the air services (see, to that effect, judgment of March 2018, flightright and Others, C‑274/16, C‑447/and C‑448/16, EU:C:2018:160, paragraph 68), since those are the places where the performance of those services respectively starts and finishes.
+The local currency which is legal tender in the Member State in which the place of departure or arrival of the flight is located must therefore be regarded as closely linked to the service offered.
+It follows from all the above considerations that Article 23(1) in conjunction with Article 2(18) of Regulation No 1008/must be interpreted as meaning that, when indicating air fares for intra-Community air services, air carriers who do not express those fares in euros are required to choose a local currency that is objectively linked to the service offered. That is the case in particular of the currency which is legal tender in the Member State in which the place of departure or arrival of the flight is located.
+Thus, in a situation such as that at issue in the main proceedings, in which an air carrier established in a Member State in which the euro is legal tender offers on the internet an air service for which the place of departure of the flight is located in another Member State in which a currency other than the euro is legal tender, the air fares may, if they are not expressed in euros, be indicated in the currency which is legal tender in that other Member State.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+Article 23(1) in conjunction with Article 2(18) of Regulation (EC) No 1008/of the European Parliament and of the Council of September on common rules for the operation of air services in the Community must be interpreted as meaning that, when indicating air fares for intra-Community air services, air carriers who do not express those fares in euros are required to choose a local currency that is objectively linked to the service offered. That is the case in particular of the currency which is legal tender in the Member State in which the place of departure or arrival of the flight is located.
+ 
+Thus, in a situation such as that at issue in the main proceedings, in which an air carrier established in a Member State in which the euro is legal tender offers on the internet an air service for which the place of departure of the flight is located in another Member State in which a currency other than the euro is legal tender, the air fares may, if they are not expressed in euros, be indicated in the currency which is legal tender in that other Member State.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

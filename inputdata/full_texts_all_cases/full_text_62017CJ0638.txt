@@ -1,0 +1,135 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+April (
+*)
+(Reference for a preliminary ruling — Structure and rates of excise duty applied to manufactured tobacco — Directive 2011/64/EU — Article 4(1)(a) — Concept of ‘cigars or cigarillos’ — Rolls of tobacco with an outer wrapper of natural tobacco which is partially covered by an additional paper layer)
+In Case C‑638/17,
+REQUEST for a preliminary ruling under Article TFEU from the Lietuvos vyriausiasis administracinis teismas (Supreme Administrative Court of Lithuania), made by decision of November 2017, received at the Court on November 2017, in the proceedings brought by
+Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos,
+other party:
+‘Skonis ir kvapas’ UAB,
+THE COURT (Fifth Chamber),
+composed of E. Regan (Rapporteur), President of the Chamber, C. Lycourgos, E. Juhász, M. Ilešič and I. Jarukaitis, Judges,
+Advocate General: H. Saugmandsgaard Øe,
+Registrar: M. Aleksejev, Head of Unit,
+having regard to the written procedure and further to the hearing on November 2018,
+after considering the observations submitted on behalf of:
+–
+‘Skonis ir kvapas’ UAB, by P. Markovas and R. Daugėla, advokatai,
+–
+the Lithuanian Government, by D. Stepanienė, R. Krasuckaitė and D. Kriaučiūnas, acting as Agents,
+–
+the German Government, by T. Henze and S. Eisenberg, acting as Agents,
+–
+the Italian Government, by G. Palmieri, acting as Agent, and P.G. Marrone, avvocato dello Stato,
+–
+the Hungarian Government, by G. Koós and Z. Fehér, acting as Agents,
+–
+the European Commission, by C. Perrin and J. Jokubauskaitė, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 4(1) of Council Directive 2011/64/EU of June on the structure and rates of excise duty applied to manufactured tobacco (OJ L 176, p. 24).
+The request has been made in proceedings brought by the Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (State Tax Inspectorate under the Ministry of Finance of the Republic of Lithuania; ‘the State Tax Inspectorate’) concerning a revised tax assessment imposed on ‘Skonis ir kvapas’ UAB relating to the taxation of tobacco products imported by it into Lithuania.
+Legal context
+EU law
+Directive 2011/Recitals and of Directive 2011/state:
+‘(4)
+The various types of manufactured tobacco, distinguished by their characteristics and by the way in which they are used, should be defined.
+…
+(8)
+In the interests of uniform and fair taxation, a definition of cigarettes, cigars and cigarillos and of other smoking tobacco should be laid down so that, respectively, rolls of tobacco which according to their length can be considered as two cigarettes or more are treated as two cigarettes or more for excise purposes, a type of cigar which is similar in many respects to a cigarette is treated as a cigarette for excise purposes, smoking tobacco which is similar in many respects to fine-cut tobacco intended for the rolling of cigarettes is treated as fine-cut tobacco for excise purposes, and tobacco refuse is clearly defined. ...’
+Article of the directive states:
+‘This Directive lays down general principles for the harmonisation of the structure and rates of the excise duty to which the Member States subject manufactured tobacco.’
+Article 2(1) of the directive provides:
+‘For the purposes of this Directive manufactured tobacco shall mean:
+(a)
+cigarettes;
+(b)
+cigars and cigarillos;
+(c)
+smoking tobacco:
+(i)
+fine-cut tobacco for the rolling of cigarettes;
+(ii)
+other smoking tobacco.’
+Article 3(1) of the directive states:
+‘For the purposes of this Directive cigarettes shall mean:
+(a)
+rolls of tobacco capable of being smoked as they are and which are not cigars or cigarillos within the meaning of Article 4(1);
+…’
+Article 4(1) of the directive is worded as follows:
+‘For the purposes of this Directive the following shall be deemed to be cigars or cigarillos if they can be and, given their properties and normal consumer expectations, are exclusively intended to be smoked as they are:
+(a)
+rolls of tobacco with an outer wrapper of natural tobacco;
+(b)
+rolls of tobacco with a threshed blend filler and with an outer wrapper of the normal colour of a cigar, of reconstituted tobacco, covering the product in full, including, where appropriate, the filter but not, in the case of tipped cigars, the tip, where the unit weight, not including filter or mouthpiece, is not less than 2.g and not more than g, and the circumference over at least one third of the length is not less than mm.
+…’
+Explanatory Notes to the CN
+The Explanatory Notes to the Combined Nomenclature of the European Union, as amended (OJ C 210, p. 3) (‘the Explanatory Notes to the CN’), relating to subheading 24021000, entitled ‘Cigars, cheroots and cigarillos, containing tobacco’, state:
+‘Cigars, cheroots and cigarillos are rolls of tobacco, which can be smoked and, given their properties, are exclusively intended to be smoked as they are, having:
+(a)
+an outer wrapper of natural tobacco covering the product in full including, where appropriate, the filter (but without any further layer partially covering the outer wrapper), but not, in the case of tipped cigars, the tip; …’
+Lithuanian law
+Under Article 3(10) of the Lietuvos Respublikos akcizų įstatymas (Lithuanian law on excise duty), in the version applicable to the dispute in the main proceedings (‘the Law on excise duty’):
+‘The following products shall be considered to be cigars or cigarillos:
+(1)
+rolls of tobacco intended for smoking, with an outer wrapper of natural tobacco;
+(2)
+rolls of tobacco intended for smoking with a threshed blend filler and with an outer wrapper of the normal colour of a cigar, of reconstituted tobacco, covering the product in full and the filter, if any, but not the mouthpiece (if a cigar has a mouthpiece), where the unit weight (without filter or mouthpiece) is not less than 2.grams but not more than grams, and the circumference over at least one third of the length of the roll is not less than mm.’
+Article 3(11) of the Law on excise duty provides:
+‘The following products shall be considered to be cigarettes:
+(1)
+rolls of tobacco intended for smoking, other than cigars or cigarillos under paragraph of this article;
+…’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+From September to April 2015, Skonis ir kvapas imported into Lithuania tobacco products which it declared in the Excise Movement and Control System as falling within the category of cigars or cigarillos.
+Following a tax inspection of Skonis ir kvapas, the State Tax Inspectorate took the view, on the basis of the findings of the customs laboratory, that those products did not correspond to the definition of cigars or cigarillos, as laid down in Article 3(10) of the Law on excise duty, and that they had, on the contrary, to be regarded as cigarettes, within the meaning of Article 3(11) of that law. According to the laboratory’s findings, the products, which consisted of rolls of fine-cut tobacco mm in length and mm in width with a filter and a wrapper of natural tobacco, were also covered, at the filter, by an additional paper layer.
+Therefore, by a decision of September 2015, the State Tax Inspectorate imposed on Skonis ir kvapas additional excise duty together with default interest, and an excise fine.
+Skonis ir kvapas lodged a complaint challenging that decision before the Mokestinių ginčų komisija prie Lietuvos Respublikos Vyriausybės (Tax Disputes Commission under the Government of the Republic of Lithuania; ‘the Tax Disputes Commission’). The Tax Disputes Commission upheld the complaint and annulled the decision.
+The action brought by the State Tax Inspectorate against the decision of the Tax Disputes Commission was dismissed by a judgment of the Vilniaus apygardos administracinis teismas (Regional Administrative Court, Vilnius, Lithuania) of June 2016.
+The referring court, before which the State Tax Inspectorate brought an appeal, considers that the outcome of the dispute turns on the interpretation of Article 4(1) of Directive 2011/64. It is uncertain, in particular, whether the fact that the outer wrapper of natural or reconstituted tobacco which rolls of tobacco have is partially covered by an additional paper layer is relevant as regards the classification of those rolls in the category of cigars or cigarillos, within the meaning of that provision.
+It observes that, on the one hand, since that provision states that rolls of tobacco fall within the category of cigars or cigarillos when they have an outer wrapper of natural or reconstituted tobacco, the view could be taken that the presence, on part of that wrapper, of an additional paper layer has no bearing on that classification.
+On the other hand, however, the word ‘outer’ used to describe the wrapper referred to in Article 4(1) of Directive 2011/highlights the fundamental importance of that wrapper on the outside of the tobacco product in that it is visible to the consumer. This finding is borne out by the words ‘wrapper of the normal colour of a cigar’ in Article 4(1)(b) of the directive. Therefore, the fact that part of the outer wrapper is covered by an additional paper layer may take the products concerned outside the category of cigars or cigarillos, in that they do not possess one of the characteristics prescribed by the directive.
+The referring court further states that, in accordance with recital 4, Directive 2011/distinguishes various types of manufactured tobacco which differ from each other by the way in which they are used. In addition, recital of the directive envisages, inter alia, that a cigar which is similar in many respects to a cigarette should be treated as a cigarette. The use of a paper layer covering the wrapper of natural tobacco at the filter has the effect of making the products at issue in the main proceedings visually similar to ordinary cigarettes with a filter.
+The referring court also observes that the Explanatory Notes to the CN explicitly state that products recognised as being cigars must have an outer wrapper of natural tobacco covering the product in full including, where appropriate, the filter, but without any further layer partially covering the outer wrapper.
+In those circumstances, the Lietuvos vyriausiasis administracinis teismas (Supreme Administrative Court of Lithuania) decided to stay proceedings and refer the following question to the Court for a preliminary ruling:
+‘Must Article 4(1) of [Directive 2011/64] be interpreted as meaning that the term “cigars or cigarillos” covers (or does not cover) cases where part of the wrapper of natural or reconstituted tobacco is additionally covered by another outer (paper) layer, as in the case at issue? Is it relevant to the answer to that question that the use of paper as an additional layer in the outer wrapper of the tobacco product (where the filter is) means that it is visually similar to a cigarette?’
+Consideration of the question referred
+First of all, it should be recalled that it is for the Court to extract from all the information provided by the referring court, in particular from the grounds of the order for reference, the points of EU law which require interpretation in view of the subject matter of the dispute in the main proceedings (judgment of December 2018, AREX CZ, C‑414/17, EU:C:2018:1027, paragraph and the case-law cited).
+In the present instance, it is to be noted that, in Article 4(1)(a) and (b), Directive 2011/distinguishes, respectively, rolls of tobacco with an outer wrapper of natural tobacco and those with an outer wrapper of reconstituted tobacco. It is apparent from the information provided by the referring court that the products at issue in the main proceedings are covered in full, including at the filter, by a wrapper of natural tobacco.
+Accordingly, the view must be taken that, by its question, the referring court asks, in essence, whether Article 4(1)(a) of Directive 2011/must be interpreted as meaning that tobacco products, such as those at issue in the main proceedings, part of whose outer wrapper of natural tobacco is covered, at the filter, by an additional paper layer, liable to make those products visually similar to cigarettes, fall within the category of cigars or cigarillos, within the meaning of that provision.
+In order to ensure that Directive 2011/is applied in a uniform fashion, the terms in it must be interpreted independently, on the basis of the wording of the provisions in question and the scheme and aims of the directive (see, by analogy, judgment of March 2006, Smits-Koolhoven, C‑495/04, EU:C:2006:218, paragraph and the case-law cited).
+In the first place, as regards the wording of Article 4(1)(a) of Directive 2011/64, that provision simply states that rolls of tobacco with an outer wrapper of natural tobacco are to be deemed to be cigars or cigarillos if they can be and, given their properties and normal consumer expectations, are exclusively intended to be smoked as they are. Accordingly, it follows from the wording of that provision that rolls of tobacco which are covered by such an outer wrapper of natural tobacco fall, in principle, within the category of cigars or cigarillos, within the meaning of that provision.
+In the second place, regarding the scheme of Directive 2011/64, Article 3(1)(a) thereof classifies rolls of tobacco as cigarettes where they are capable of being smoked as they are and they are not cigars or cigarillos within the meaning of Article 4(1). As has been noted in paragraph above, Article 4(1) covers both rolls of tobacco with an outer wrapper of natural tobacco and those with an outer wrapper of reconstituted tobacco.
+It follows, first of all, that the material from which that outer wrapper is made constitutes the fundamental criterion on the basis of which Directive 2011/differentiates between the category of cigars or cigarillos and that of cigarettes.
+Next, it is to be pointed out that, for the purpose of classification in the category of cigars or cigarillos, Article 4(1)(a) of Directive 2011/refers only to an outer wrapper of natural tobacco, whereas Article 4(1)(b) not only refers to an outer wrapper of reconstituted tobacco but also prescribes additional characteristics relating, in particular, to the weight and the size of the rolls of tobacco and to the colour of that wrapper.
+As the Lithuanian Government and the European Commission submitted in their written observations and at the hearing, the greater propensity of products with a wrapper of reconstituted tobacco to be visually similar to cigarettes explains the additional characteristics prescribed in Article 4(1)(b) of Directive 2011/64, which have the objective of ensuring that products falling within that provision for the purpose of their taxation are sufficiently different from cigarettes.
+It follows that Article 4(1)(a) of Directive 2011/64, read in the light of the directive’s scheme, must be understood as meaning that, in principle, by virtue of the presence of an outer wrapper of natural tobacco, the products concerned fall within the category of cigars or cigarillos.
+It should, however, be determined whether the fact that there is an additional paper layer at the filter is capable of calling into question such a classification for the purposes of that directive.
+It is to be noted, in that regard, that the definition of the category of cigars or cigarillos which is laid down in Article 4(1) of Directive 2011/also specifies that the products concerned are capable of falling within that category if they can be and, given their properties and normal consumer expectations, are exclusively intended to be smoked as they are.
+Thus, products such as those at issue in the main proceedings would not be able to fall within the category of cigars or cigarillos, within the meaning of Directive 2011/64, where, even though they consist of rolls of tobacco with an outer wrapper of natural tobacco, they are, on account of their properties and normal consumer expectations, not intended to be smoked as they are.
+In that regard, it is apparent from the written observations submitted to the Court and the arguments presented at the hearing that, for consumers, an outer wrapper of natural tobacco gives the rolls of tobacco having such a wrapper a visual aspect, a burning rate and a taste upon smoking that distinguish them from cigarettes.
+Where, as in the case of the products at issue in the main proceedings, the additional paper layer covers only the filter and does not extend to the part of the products which is consumed, that additional layer cannot be regarded as calling into question the fact that such products are intended to be smoked as they are.
+The fact that there is such an additional paper layer therefore does not justify calling into question the classification in the category of cigars or cigarillos of products such as those at issue in the main proceedings, given that they satisfy the criteria prescribed in Article 4(1)(a) of Directive 2011/64.
+In the third place, such an interpretation is confirmed by the aims of Directive 2011/64. As is apparent from Article 1, the directive is intended to lay down general principles for the harmonisation of the structure and rates of the excise duty to which the Member States subject manufactured tobacco. To that end, recital of the directive states that the various types of manufactured tobacco, distinguished by their characteristics and by the way in which they are used, should be defined.
+In addition, as is stated, in essence, in recital of Directive 2011/64, in the interests of uniform and fair taxation a definition of cigarettes, cigars and cigarillos and of other smoking tobacco should be laid down so that products which are similar in many respects to products falling within the directive are treated as the latter products.
+In order to achieve those objectives, Directive 2011/(i) places, in Article 2(1), the manufactured tobacco subject to the harmonisation sought by the directive in three categories, the first concerning cigarettes, the second, cigars and cigarillos, and the third, smoking tobacco, and (ii) defines, in Articles to 5, the products covered by each of those categories on the basis of their individual characteristics.
+In the present instance, it is apparent from the information provided by the referring court that the additional paper layer which covers products such as those at issue in the main proceedings might make them visually similar to cigarettes. The Lithuanian, German and Italian Governments infer from this that, in order to achieve the objective referred to in recital of Directive 2011/64, such products should be regarded as cigarettes for the purposes of that directive. However, such an interpretation cannot be upheld.
+First of all, whilst recital of Directive 2011/64, in that it states that a type of cigar which is similar in many respects to a cigarette must be treated as a cigarette, serves to clarify the criteria laid down in Articles 3(1) and 4(1) of the directive in order to distinguish cigarettes from cigars or cigarillos, that recital cannot justify abandoning the definitions adopted by the EU legislature for the purpose of classifying products such as those at issue in the main proceedings.
+Next, as is apparent from recitals and of Directive 2011/64, the aims pursued by the directive require the various categories of manufactured tobacco to be defined according to criteria relating to their characteristics and the way in which they are used, such as those noted, as regards cigars or cigarillos, in paragraphs and above.
+Thus, if an assessment relating solely to the visual similarity of products such as those at issue in the main proceedings with cigarettes were given precedence, on the basis of recital of Directive 2011/64, over the criteria expressly set out in Article 4(1)(a) of the directive, that would necessarily be detrimental to attainment of the objectives which the directive seeks to achieve.
+Furthermore, classification of products such as those at issue in the main proceedings in the category of cigars or cigarillos, for the purposes of Directive 2011/64, cannot be called into question by the Explanatory Notes to the CN, which provide expressly that cigars and cigarillos are rolls of tobacco having an outer wrapper of natural tobacco covering the product in full (but without any further layer partially covering the outer wrapper).
+As the Commission pointed out in its written observations, those explanatory notes cannot have any effect on the definition of cigars or cigarillos within the meaning of Directive 2011/since, unlike other directives relating to certain products subject to excise duty, such as Council Directive 2003/96/EC of October restructuring the Community framework for the taxation of energy products and electricity (OJ L 283, p. 51), Directive 2011/does not refer to codes of the Combined Nomenclature in order to define the manufactured tobacco falling within its scope.
+In the light of all the foregoing considerations, the answer to the question referred is that Article 4(1)(a) of Directive 2011/must be interpreted as meaning that tobacco products, such as those at issue in the main proceedings, part of whose outer wrapper of natural tobacco is covered, at the filter, by an additional paper layer, liable to make those products visually similar to cigarettes, fall within the category of cigars or cigarillos, within the meaning of that provision.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+Article 4(1)(a) of Council Directive 2011/64/EU of June on the structure and rates of excise duty applied to manufactured tobacco must be interpreted as meaning that tobacco products, such as those at issue in the main proceedings, part of whose outer wrapper of natural tobacco is covered, at the filter, by an additional paper layer, liable to make those products visually similar to cigarettes, fall within the category of cigars or cigarillos, within the meaning of that provision.
+ 
+[Signatures]
+(
+*)	Language of the case: Lithuanian.
+Top  

@@ -1,0 +1,261 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+January (
+*)
+‛Failure of a Member State to fulfil obligations — Article TFEU — Protocol on the privileges and immunities of the European Union — Article — Tax exemptions — Brussels-Capital Region — Contributions in respect of the supply of electricity and gas’
+In Case C‑163/14,
+ACTION under Article TFEU for failure to fulfil obligations, brought on April 2014,
+European Commission, represented by F. Clotuche-Duvieusart and I. Martínez del Peral, acting as Agents, with an address for service in Luxembourg,
+applicant,
+v
+Kingdom of Belgium, represented by J.-C Halleux, S. Vanrie and T. Materne, acting as Agents, assisted by G. Block, D. Remy and H. Delahaije, avocats,
+defendant,
+THE COURT (Fifth Chamber),
+composed of T. von Danwitz, President of the Fourth Chamber, acting as President of the Fifth Chamber, D. Šváby, A. Rosas, E. Juhász (Rapporteur) and C. Vajda, Judges,
+Advocate General: P. Cruz Villalón,
+Registrar: C. Strömholm, Administrator,
+having regard to the written procedure and further to the hearing on April 2015,
+after hearing the Opinion of the Advocate General at the sitting on July 2015,
+gives the following
+Judgment
+By its application the European Commission asks the Court to declare that, by not exempting the EU institutions from the contributions laid down by Article of the Order concerning the organisation of the electricity market in the Brussels-Capital Region (ordonnance relative à l’organisation du marché de l’électricité en Région de Bruxelles-Capitale) and by Article of the Order concerning the organisation of the gas market in the Brussels-Capital Region (ordonnance relative à l’organisation du marché du gaz en Région de Bruxelles-Capitale), as amended, and by objecting to the refund of the contributions thereby collected by the Brussels-Capital Region (‘the contested contributions’), the Kingdom of Belgium has failed to fulfil its obligations under the second paragraph of Article of the Protocol of April on the Privileges and Immunities of the European Union, originally annexed to the Treaty establishing a Single Council and a Single Commission of the European Communities (OJ 152, p. 13), and subsequently under the Treaty of Lisbon, as Protocol No 7, annexed to the TEU, the TFEU and the Euratom Treaty (‘the Protocol’).
+Legal context
+EU law
+Under the first paragraph of Article of the Treaty establishing a Single Council and a Single Commission of the European Communities, then, following the entry into force of the Treaty of Lisbon, under Article TFEU, the Union is to enjoy in the territories of the Member States such privileges and immunities as are necessary for the performance of its tasks, under the conditions laid down in the Protocol.
+Article of the Protocol states:
+‘The Union, its assets, revenues and other property shall be exempt from all direct taxes.
+The governments of the Member States shall, wherever possible, take the appropriate measures to remit or refund the amount of indirect taxes or sales taxes included in the price of movable or immovable property, where the Union makes, for its official use, substantial purchases the price of which includes taxes of this kind. These provisions shall not be applied, however, so as to have the effect of distorting competition within the Union.
+No exemption shall be granted in respect of taxes and dues which amount merely to charges for public utility services.’
+Belgian Law
+The initial wording of Article of the Order of the Brussels-Capital Region of July concerning the organisation of the electricity market in the Brussels-Capital Region, which entered into force on January (Moniteur belge, November 2001, p. 39135) (‘the “Electricity” Order’) provided:
+‘Paragraph The holding of a supply licence issued on the basis of Article shall entail the monthly payment of a charge by the natural or legal person holding the licence, hereinafter “the person liable”.
+Paragraph The charge shall be due on January of the financial year. It shall be payable by March of the financial year.
+Paragraph The charge shall be calculated on the basis of the power made available to eligible end customers by means of networks, service connections and direct lines of kV or less at consumption sites located in the Brussels-Capital Region. For high-voltage customers, the power made available shall be the power of the connection. The power of connection shall be equal to the maximum power, expressed in kVa, made available under the connection contract. Where the connection contract does not refer to a maximum power or in the event that the power used is greater than the maximum power made available as stated in the connection contract, the connection power shall be equal to the maximum power, expressed in kVa, used during the previous 36-month period, multiplied by 1.2.
+For low-voltage customers, the power made available is the power determined by the capacity of the circuit breaking system, expressed in kVa. A table of equivalences between the nominal current intensity of the circuit breaking systems and power is annexed to the present order.
+Paragraph The monthly charge shall be set at EUR 0.per kVa for high-voltage.
+The monthly charge for low-voltage shall be set according to the following scale:
+1°
+Power made available lower or equal to 1.kVa: EUR 0.00;
+2°
+Power made available between:
+1.and 6.kVa: EUR 0.6.and 9.kVa: EUR 0.9.and 12.kVa: EUR 1.12.and 36.kVa: EUR 2.36.and 56.kVa: EUR 4.56.and 100.kVa: EUR 7.80.
+The amount is adjusted annually in accordance with the consumer price index of the Kingdom. ...
+Paragraph The Government shall lay down measures implementing the present Article. It may, inter alia, require the operator of the distribution network, the operator of the regional transport network and the users of direct lines to provide it with data for the collection of the charge.
+The Government may entrust the operator of the distribution network with contacting taxpayers by post to require them to pay the charge. Such letters shall, inter alia, state the financial year, the basis for calculating the charge, the rate, the date for payment and the means of paying the charge. The sending or failure to send such a letter shall not, however, prejudice the rights and obligations of persons liable.
+Paragraph The charge shall be collected and sought according to the rules laid down in Chapter of the Order of July concerning the regional tax on occupiers of buildings and persons holding real rights in certain immovable property. The deadline for the payment of the charge shall be set in accordance with Paragraph of the present Article.
+Paragraph The charge collected shall be allocated to the operator of the distribution network for the purpose of covering the costs of the public service tasks referred to in Article 24. [This provision was subsequently amended, increasing the number of persons to whom the charge collected is allocated and apportioning the charge.]
+Paragraph The charge shall be due with effect from January 2004.
+Paragraph Costs relating to the public service tasks referred to in Article exceeding the amount of charges collected under the present article shall be borne by the operator of the distribution network as operating costs. The passing on of those costs in tariffs shall be governed by federal law.
+...’
+Article of the ‘Electricity’ Order has been amended several times, most recently by the Order of July (Moniteur belge, August 2011) and by the Order of December laying down tax procedure in the Brussels-Capital Region (ordonnance du décembre établissant la procédure fiscale en Région de Bruxelles-Capitale) (Moniteur belge, February 2013). Currently, Paragraph of that article is worded as follows:
+‘The charge shall be due on the first day of each month. It shall be payable by the 15th of the following month. The person liable shall be exempted from the charge for power made available to customers for their rail, tram or metro networks ...’
+Following those amendments, the charges scale set out in Article 26(4) of the ‘Electricity’ Order was slightly adjusted.
+Article of the ‘Electricity’ Order, to which Article 26(7) of that order refers, sets out the public service tasks for which the operator of the network is to be responsible, according to which:
+‘The operator of the distribution network shall be responsible for the public service tasks defined below in subparagraphs to 5:
+1°
+The provision of an uninterrupted minimum supply of electricity for household consumption in accordance with the conditions laid down by the Order of July 1991.
+2°
+The supply of electricity at a special social tariff to the persons referred to in federal law and subject to the conditions set out in that law.
+3°
+Information, demonstration, provision of equipment, services and financial assistance programmes for the purposes of promoting reasonable electricity use for the benefit of all types of eligible and non-eligible end customers. The operator of the distribution network shall, to that end and in collaboration with the service, draw up a triennial programme promoting reasonable electricity use.
+4°
+Where relevant, the purchase of electricity produced by quality cogeneration which is neither used by the producer nor supplied to third parties, within the limits of its own needs.
+5°
+(a)
+The construction, maintenance and renewal of public lighting installations on highways and in public green spaces subject to the prerogatives of the local authority laid down in Article of the New local authority law, in accordance with a triennial programme set out in a common agreement between each local authority and the operator of the distribution network;
+(b)
+the supply of electricity to such installations.
+6°
+the organisation of an ombudsman service and information programme for residential customers on prices and electricity supply conditions.’
+The tasks reproduced above have subsequently been amended, the last amendment being introduced by the Order of July (Moniteur belge, August 2011). Those tasks are currently laid down as follows:
+‘Article Paragraph The operator of the distribution network and the suppliers shall, each in so far as they are concerned, be responsible for the public service obligations set out in subparagraphs and below:
+1°
+the provision of an uninterrupted minimum supply of electricity for household consumption in accordance with the conditions set out in Chapter IV bis;
+2°
+the supply of electricity at a special social tariff to the persons referred to in federal law and in Chapter IV bis and subject to the conditions set out therein;
+Paragraph The Institute shall be responsible for the public service obligations relating to the promotion of reasonable electricity use by means of information, demonstrations and the provision of equipment, services and financial assistance for the benefit of all types of customers and local suppliers who, in whole or in part, meet the needs of their customers through electricity producing installations located within the geographically limited area and well-delineated and connected after the meter of the common connection and/or of the private network in which they supply …
+Article bis
+The operator of the distribution network shall also be responsible for the following public service tasks:
+1°
+the purchase of any green electricity produced that is neither consumed by the producer nor supplied to third parties, within the limits of its own needs;
+2°
+the exclusive task of constructing, maintaining and renewing public lighting installations on highways and in local authority green spaces subject to the prerogatives of the local authority laid down in Article of the New local authority law, in accordance with a triennial programme set out in a common agreement between each local authority and the operator of the distribution network or following requests for additional work and the supply of those installations with electricity by prioritising electricity producing installations that use renewable energy sources or quality cogeneration thereby pursuing aims of improving energy efficiency and consumption gains. ...
+3°
+the role of supplier of last resort and the organisation of customer services for customers transferred to it in that role;
+4°
+provision of information to low-voltage residential and business customers concerning prices and conditions of connection and supply;
+5°
+the publication on a server accessible via the internet of information concerning the various measures for accepting residential customers taken on by the operator of the distribution network in connection with his task as the supplier of last resort;
+6°
+the submission to Brugel [the Brussels gas and electricity markets regulator] of an annual report on the quality of the acceptance of households in connection with its task as the supplier of last resort;
+7°
+the submission to Brugel of an annual report on its programme of commitments by which the operator of the distribution network ensures the eradication of any discriminatory practices. Brugel shall submit that report and its opinion to the government and publish it;
+8°
+where electricity is taken from the distribution network, the supply of electricity for temporary roadside festive public events in accordance with the technical and financial conditions laid down by or pursuant to the technical regulation of the network.’
+The Order of the Brussels-Capital Region of April concerning the organisation of the gas market in the Brussels-Capital Region, concerning highway charges for gas and electricity and amending the Order of July concerning the organisation of the electricity market in the Brussels-Capital Region (ordonnance de la Région de Bruxelles-Capitale du 1er avril relative à l’organisation du marché du gaz en Région de Bruxelles-Capitale, concernant des redevances de voiries en matière de gaz et d’électricité et portant modification de l’ordonnance du juillet relative à l’organisation du marché de l’électricité en Région de Bruxelles-Capitale) (Moniteur belge, April 2004, p. 34281) provides for charging a contribution for the supply of gas from July (‘the “Gas” Order’). In its original wording, Article of that order provided:
+‘Costs relating to the public service tasks referred to in Article shall be borne by the operator of the distribution network as operating costs. The passing on of those costs in tariffs shall be governed by federal law.’
+Article of the ‘Gas’ Order has been repealed by the Order of July amending the ‘Gas’ Order (Moniteur belge, August 2011), and replaced by Article septiesdecies, which provides:
+‘Paragraph The holding of a supply licence issued on the basis of Article shall entail the monthly payment of a charge by the natural or legal person holding the licence, hereinafter “the person liable”.
+Paragraph The charge shall be due on the first day of each month. It shall be payable by the 15th of the following month.
+Paragraph Subject to subparagraph 2, the duty shall be calculated on the basis of the capacity of the meters used by the operator of the network at the premises of end customers at consumption sites located in the Brussels-Capital Region. The capacity of the meter shall be determined by the maximum gas flow rate specified in cubic metres per hour for which the meter was designed. In the case of end customers whose meters have a capacity of to m3/h, the charge shall also take account of the last valid standardised annual consumption calculated according to the MIG applicable in the Brussels-Capital Region.
+Paragraph The monthly charge shall be set at:
+1.
+EUR 0.per meter with a capacity of or m3/h if the last recorded standardised annual consumption is less than or equal to kWh;
+2.
+EUR 0.per meter with a capacity of or m3/h if the last recorded standardised annual consumption is greater than kWh;
+3.
+EUR 1.per meter with a capacity of m3/h;
+4.
+EUR 4.per meter with a capacity of m3/h;
+5.
+EUR 8.per meter with a capacity of m3/h;
+6.
+EUR per meter with a capacity of m3/h;
+7.
+EUR 29.per meter with a capacity of m3/h;
+8.
+EUR 37.per meter with a capacity of m3/h;
+9.
+EUR 54.per meter with a capacity greater than m3/h.
+The above amounts shall be adjusted annually in accordance with the consumer price index of the Kingdom. ...
+Paragraph The Government shall lay down measures implementing the present Article. It may, inter alia, require the operator of the network and the users of direct lines to provide it with data for the collection of the charge.
+The Government may entrust the operator of the distribution network with contacting taxpayers by post to require them to pay the charge. Such letters shall, inter alia, state the financial year, the basis for calculating the charge, the rate, the date for payment and the means of paying the charge. The sending or failure to send such a letter shall not, however, prejudice the rights and obligations of persons liable.
+Paragraph The charge shall be collected and sought according to the rules laid down in Articles [to 19], and of the Order laying down tax procedure in the Brussels-Capital Region.
+Paragraph The charge collected shall be allocated to the funds referred to respectively in Article 2(15) and (16) of the Order of December creating budgetary funds according to the following proportions:
+1°
+5% to the “Energy Guidance Fund and the Energy Policy Fund” ...;
+2°
+95% to the “Energy Policy Fund”.
+Paragraph The charge shall be due with effect from January 2012.’
+The public service tasks for which the operator of the network is to be responsible are laid down in Article of the ‘Gas’ Order which, in its initial wording, provided:
+‘The operator of the distribution network shall be responsible for the following public service tasks:
+1°
+the supply of gas at a special social tariff to the persons referred to in federal law and subject to the conditions set out in that law;
+2°
+prevention and intervention in the case of disconnection of gas under the Order of March 1999;
+3°
+prevention programmes for the purposes of ensuring maximum safety in the use of gas for domestic purposes;
+4°
+the organisation of an ombudsman service and the supply of information activities for residential customers on prices and electricity supply conditions;
+5°
+information, demonstration, provision of equipment, services and financial assistance programmes for the purposes of promoting reasonable gas use for the benefit of all types of eligible and non-eligible end customers. The operator of the distribution network shall, to that end and in collaboration with the Service, draw up a triennial programme promoting the reasonable gas use.’
+From August 2011, those public service tasks have been laid down as follows:
+‘Article The operator of the network and the suppliers shall, each in so far as they are concerned, be responsible for the public service tasks and obligations set out in subparagraphs to below:
+1°
+the provision of an uninterrupted minimum supply of gas for household consumption in accordance with the conditions laid down in Chapter V bis;
+2°
+the supply of gas at a special social tariff to the persons referred to in federal law and Chapter V bis and subject to the conditions set out therein;
+3°
+a risk prevention service relating to the use of natural gas, provided free of charge to households requesting it. The government shall lay down the details and conditions for the exercise of that task.
+Article bis
+The operator of the network shall also be responsible for the following public service tasks:
+1°
+the organisation of customer services and the provision to residential customers of information concerning prices and conditions for connection;
+2°
+the promotion of reasonable gas use by means of information, demonstrations and the provision of equipment, services and financial assistance for the benefit of the local authorities and other end customers.
+...’
+Article of the Royal Decree of February on the general tariff structure and the basic principles and procedures concerning tariffs and accounts of operators of natural gas distribution networks active on Belgian territory (arrêté royal du février relatif à la structure tarifaire générale et aux principes de base et procédures en matière de tarifs et de comptabilité des gestionnaires des réseaux de distribution de gaz naturel actifs sur le territoire belge) (Moniteur belge, March 2004) is worded as follows:
+‘The invoicing of tariffs shall include tariff items associated with taxes, levies, surcharges, contributions and remunerations. Such items shall not constitute tariffs within the meaning of Articles to of the present decree but shall be included in the invoicing of the users of the network. They shall include, where relevant:
+1°
+surcharges, levies or remunerations for the purpose of financing public service obligations, at the level of which a distinction shall be made between measures of a social nature, measures in favour of reasonable energy use, measures in favour of the reasonable use of renewable sources and of quality cogeneration installations ...’
+Article of the Royal Decree of April on electricity and gas supply invoices (arrêté royal du avril relatif aux factures de fourniture d’électricité et de gaz) (Moniteur belge, May 2003) provides:
+‘The payment invoices following the reading of the electricity supply meter addressed to end customers connected to the low-voltage network and of the gas supply meter addressed to end customers whose annual consumption is lower or equal to kWh, shall, as a minimum, include the following information:
+...
+10.
+the particulars of the calculation of the amount for payment;
+11.
+the tariff applicable at transmission;
+12.
+the tariff applicable at distribution;
+13.
+the levies collected by all of the public authorities taken as a whole according to each category;
+...’
+Article bis of the Federal Law of April concerning the organisation of the electricity market (loi fédérale du avril relative à l’organisation du marché de l’électricité) provides:
+‘Paragraph l   A federal contribution for the purposes of compensating the loss of the income of the local authorities resulting from the deregulation of the electricity market shall be levied each year on the following basis: ...
+...
+Paragraph The contribution referred to in the preceding paragraphs shall be collected by the operators of the distribution network.
+The operators of the distribution network may, in the form of a surcharge on connection tariffs of the relevant distribution network applied to taxpayers on the basis of their supply point, pass on to their customers the federal contribution for the purposes of compensating the loss of income of the local authorities resulting from the deregulation of the electricity market; those customers may, in turn, invoice their customers to the point where the surcharge is ultimately invoiced to those who consumed the MWh for their own personal use.’
+Article of the Ministerial Decree of May implementing the abovementioned Article bis (Moniteur belge, May 2005, p. 23450) provides:
+‘The federal contribution referred to in Article bis of the law shall be invoiced by the suppliers monthly to end customers as follows: ...’.
+Background to the dispute and the pre-litigation procedure
+Since the entry into force of the ‘Electricity’ and ‘Gas’ Orders, Electrabel SA (‘Electrabel’), a supplier of electricity and gas, has charged the EU institutions based in Brussels the contributions in respect of the supply of electricity and gas which, from July 2004, have been separately itemised in the invoices as ‘regional contributions’.
+Since August 2004, the EU institutions have harboured doubts as to the nature of those contributions as well as to the nature of the — similar — federal gas and electricity contributions. Considering that the contested contributions were in the nature of indirect taxes, by letter of July 2005, the Commission requested the Belgian federal authorities and the authorities of the Brussels-Capital Region to exempt and reimburse it the charges paid and, from that date, it suspended its payment to Electrabel of the regional and federal contributions.
+By letters of March 2006, December and April 2008, the federal authorities granted the requested exemption from the federal contributions, on the basis that those contributions could be considered as constituting a sales tax included in the price.
+In September 2008, the Commission nevertheless paid the amounts forming the regional contributions and subsequently continued to pay them in order to avoid being disconnected by Electrabel, which was itself responsible for transferring those amounts to the operator of the network, Sibelga, the sole inter-authority operator of the electricity and gas networks in the Brussels-Capital Region.
+By letter of January 2007, the competent minister of the Brussels-Capital Region replied that he could not grant the Commission’s request of July on the grounds that the electricity contribution constituted payment for an identified service from which the Commission had benefited or could benefit and that the ‘Electricity’ Order did not subject the Commission to any tax charge, since only the holders of a supply licence, in the present case Electrabel, were referred to in that order.
+By letter of December 2007, the competent minister of the Brussels-Capital Region stated the reasons why he did not share the Commission’s view that most of the services referred to in Article of the ‘Electricity’ Order were incapable of being supplied to the Commission. The minister then referred, with regard to the nature of the contribution at issue, to the judgment in Commission v Belgium (C‑437/04, EU:C:2007:178) and stated that, in contrast to the federal contribution, the contribution provided for in Article of the ‘Electricity’ Order applied only to holders of a supply licence and that the passing on of the contribution contractually or economically to the holders’ customers could not give rise to an exemption.
+On June 2008, the Commission sent a first letter of formal notice to the Kingdom of Belgium, to which the Kingdom of Belgium replied by letter of September 2008.
+In reply to a letter of November 2008, in which the Commission had formally requested the competent minister of the Brussels-Capital Region to reimburse the amounts paid corresponding to the contested contributions, the minister did not grant the request on the ground that the contributions concerned contractual relations between the EU institutions and the supplier Electrabel.
+Following the adoption of that position, the Commission sent the Belgian authorities a further formal letter of notice on April 2009, in which it stated that the application of Article of the ‘Electricity’ Order and Article of the ‘Gas’ Order to the EU institutions infringed the tax immunity of the EU institutions under Article of the Protocol. The Commission stated, in essence, that the contested contributions amounted to indirect taxes and that the passing on of them to end customers was not in any way the result of a contractual term freely negotiated with the energy suppliers. The Commission also stated that those contributions were in the nature of a tax and not of payment because they did not satisfy the conditions set out in the Court’s case-law so as to be characterised as ‘charges for public utility services’, within the meaning of the third paragraph of Article of the Protocol.
+By letter of June 2009, the competent minister of the Brussels-Capital Region disputed the Commission’s analysis, contending, in essence, that the objectives pursued by the contributions at issue concerned the financing of public service tasks in matters of environmental policy, that the EU institutions had benefited or were capable of benefiting from several of the services referred to in the ‘Electricity’ and ‘Gas’ Orders and that the EU institutions were not the persons liable for the contested contributions, since those contributions were merely charged to them through contracts that bound them to the gas and electricity suppliers.
+By letter of February 2012, the Commission sent the Kingdom of Belgium a reasoned opinion pursuant to Article TFEU, to which the Belgian authorities replied by letter of April 2012, in which they reiterated their position as previously set out.
+Since the arguments of the Kingdom of Belgium did not convince the Commission, the Commission brought an action before the Court.
+In parallel to the proceedings for a finding of failure to fulfil an obligation under the Treaties brought before the Court, the EU institutions brought administrative and legal proceedings at national level seeking the reimbursement of the amounts corresponding to the contested contributions which it considered to have been unduly paid.
+The action
+The second paragraph of Article of the Protocol
+Arguments of the parties
+As regards the nature of the contested contributions, the Commission submits that, according to the Court’s case-law, the nature of a tax, duty or charge in the light of EU law must be determined by the Court, according to the objective characteristics by which it is levied, irrespective of its classification under national law (Bautiaa and Société française maritime, C‑197/and C‑252/94, EU:C:1996:47, paragraph and the case-law cited).
+According to the Commission, the essential characteristic of an indirect tax is that it is levied at the point of expenditure or use, whereas a direct tax is applied to income or capital. The basis for the contested contributions is the mere holding of a permit or a licence to supply electricity and gas; that has no connection with the assets or the income of the electricity supplier or the operator of the gas network. That basis for charging tax is, in truth, inextricably linked to the consumption of electricity or gas, according to the power made available to the end customer. This is indeed shown by the fact that the amount of the contributions is calculated on the basis of that power.
+Accordingly, the contested contributions amount to indirect taxes, included in the price of electricity and gas consumption that is charged to the EU institutions, within the meaning of the second paragraph of Article of the Protocol. In that regard, the person formally designated as the ‘person liable’ is irrelevant for the purposes of characterising the tax. In addition, the lack of a legal obligation to pass on the tax does not transform a consumption tax into a direct tax on income or capital.
+The Commission claims that the other conditions for the application of the second paragraph of Article of the Protocol are satisfied in the present case. Electricity and gas must be treated as incorporeal property which has been the subject of substantial purchases by the Union for its official use.
+The Kingdom of Belgium considers that the tax immunity laid down in the Protocol applies solely with regard to national legislation which ‘imposes’ direct or indirect taxes on the EU institutions and that this immunity is not applicable where contractual terms pass on to those institutions a charge freely negotiated with the other party to a contract.
+In the present case, the ‘Electricity’ Order designates the holder of a supply licence as the person liable for the electricity contribution and the ‘Gas’ Order designates the operator of the distribution network as the person liable for the gas contribution. Accordingly, given that the EU institutions are not designated as the person liable, the tax immunity laid down under Article of the Protocol cannot be applied to them, particularly as no provision of primary or secondary legislation requires the persons designated as liable to pass on the contested contributions in contracts with their customers. In addition, market conditions in which all suppliers pass on the contested contributions to their end customers cannot thereby give rise to tax immunity of the EU institutions (judgment in Commission v Belgium, C‑437/04, EU:C:2007:178, paragraphs and 58).
+In the opinion of the Kingdom of Belgium, the possibility of the contested contributions being passed on does not transform those contributions into indirect taxes vis-à-vis the EU institutions, given the existence of a contractual relationship between the EU institutions and their supplier, which is sufficient to show that they cannot be characterised as a ‘tax’ on those institutions. It is moreover irrelevant whether the contested contributions are characterised as ‘direct taxes’ or ‘indirect taxes’ in so far as the legal debtor is expressly specified as being the other party to the contract with the EU institutions. Consequently, the contested contributions do not fall within the material scope of Article of the Protocol.
+Furthermore, no parallel should be drawn between the contested contributions and the federal contribution introduced by the Federal Law of April in so far as, in Article bis (4) of that law, the end customers are expressly specified to be payers of the federal charge.
+Findings of the Court
+It should be recalled that the Court has ruled that the first and second paragraphs of Article of the Protocol lay down two different regimes of immunity, depending on whether taxes are direct or indirect and that that difference in regime is essential for the purposes of deciding on the issue of immunity (see, to that effect, judgment in Commission v Belgium, C‑437/04, EU:C:2007:178, paragraphs to and the case-law cited).
+It is common ground that, in the present case, the contested contributions are not charged on income or capital within the meaning of the Court’s case-law (see, to that effect, judgment in Commission v Belgium, C‑437/04, EU:C:2007:178, paragraph 44). In addition, the electricity and gas suppliers include the contested contributions in the invoices for those supplies to the EU institutions. Accordingly, those contributions must be considered to be indirect taxes falling within the scope of the second paragraph of Article of the Protocol.
+Consequently, the conclusions reached by the Court in the judgment in Commission v Belgium (C‑437/04, EU:C:2007:178) cannot be applied to the present case. In the case which gave rise to that judgment, there was a direct tax imposed on persons holding real rights in certain immovable property, and that tax had been passed on in the contracts to the EU institutions as tenants.
+With regard to the conditions for the application of the second paragraph of Article of the Protocol, it is not disputed that the supply to the EU institutions based in the Brussels-Capital Region of electricity and gas amounts to substantial purchases for the official use of those institutions and is necessary for their proper functioning. It cannot be inferred from any of the evidence submitted to the Court that the application of those provisions would have the effect of distorting competition.
+In the opinion of the Kingdom of Belgium, even in the event that the contested contributions are characterised as ‘indirect taxes’, the second paragraph of Article of the Protocol is not applicable given that, in accordance with the national legislation at issue, the EU institutions have not been designated as the persons liable for those contributions.
+In that regard, as the Advocate General noted in paragraphs and of his Opinion, it does not follow from the wording of the second paragraph of Article of the Protocol that the EU must be specified by the national legislation as the person liable for indirect taxes, in the present case for the contested contributions, in order for the immunity provided for in that provision to apply. That provision only requires that those indirect taxes ‘[be] included in the price of movable or immovable property’ and that the price ‘includes’ such charges.
+Moreover, in the system of value added tax, for example, in which the second paragraph of Article is often applied, it is not, as a general rule, the end consumer but the supplier of goods or services who is characterised as the taxpayer.
+Accordingly, for the purposes of the application of the second paragraph of Article of the Protocol, it is not a condition that the national legislation at issue designate the EU institutions as persons liable.
+The Kingdom of Belgium contends, in addition, that the immunity provided for in the second paragraph of Article of the Protocol applies only if the indirect tax at issue is passed on, on the basis of the applicable national legislation, to the EU institutions.
+Such a condition also does not appear in the wording of the provision at issue.
+It is nevertheless clear from the nature and the essential characteristics of the tax regime at issue that the indirect tax at issue has been conceived and laid down with a view to being passed on to the end consumer.
+Several factors show that that is the case in the present case.
+The national legislation at issue has laid down the particulars of the principal elements of the contested contributions, such as the basis for calculating the tax and the level of the contributions by reference to consumption and the end customers.
+Article 26(3) of the ‘Electricity’ Order provides that the electricity contribution is to be calculated on the basis of the power made available to end customers. Similarly, Article septiesdecies (3) of the ‘Gas’ Order provides that the gas contribution is to be calculated on the basis of the capacity of the meters located at the premises of end customers.
+In addition, Article 26(4) of the ‘Electricity’ Order, as amended, and Article septiesdecies (4) of the ‘Gas’ Order set the actual monthly charge to be collected. Under the latter article, those charges also take account of the last annual consumption.
+Article of the Royal Decree of February and Article of the Royal Decree of April provide for all taxes, levies and contributions collected by all of the public authorities taken as a whole to be included and specifically and separately referred to in the electricity and gas invoices addressed to end customers.
+Article 26(2) of the ‘Electricity’ Order, as amended, provides that the person liable is to be exempted from the electricity contribution for power made available to customers for their rail, tram or metro networks. The Brussels-Capital Region thus intended to grant a tax advantage to the operators of such activities, which indicates that the legislature proceeded from the premiss that the indirect tax at issue would be borne by end consumers and that, in the absence of that exemption, the operators of the network at issue would be obliged to pay it.
+Those findings are not affected by the fact that Article bis of the Federal Law of April expressly provides for the possibility of the federal charge being passed on to end customers. A difference in treatment between the federal and the regional charge, which are comparable in nature, could indicate an incoherency in the tax system of that Member State.
+Lastly, it should be noted that, in accordance with the wording of the second paragraph of Article of the Protocol, it is possible to remit or refund the contested contributions.
+In the light of all the foregoing considerations, it must be held that the contested contributions and their application satisfy the conditions provided for in the second paragraph of Article of the Protocol.
+The third paragraph of Article of the Protocol
+Arguments of the parties
+The Commission submits that the contested contributions cannot be characterised as ‘[amounting] merely to charges for public utility services’ within the meaning of the third paragraph of Article of the Protocol. In accordance with the Court’s case-law, a contribution cannot constitute mere remuneration for public utility services, within the meaning of that provision, unless such services are provided, or at least are capable of being provided, to those who have to pay the contribution (judgment in AGF Belgium, C‑191/94, EU:C:1996:144, paragraph 26). In addition, the characterisation of a charge as a ‘charge for public utility services’ requires there to be a direct and proportional link between the actual cost of that service and the charge paid by the recipient (judgment in European Commission, C‑199/05, EU:C:2006:678, paragraph 25). According to the Commission, those two conditions are not satisfied in the present case.
+As regards the first of those conditions, the Commission submits that, in connection with the electricity contribution, the Belgian authorities identified, in their replies to the formal letters of notice and the reasoned opinion, the following three tasks from which the EU institutions benefited or could benefit, namely programmes for the promotion of reasonable electricity use, the purchase of electricity produced by cogeneration and public lighting.
+As regards the first of those tasks, which entails the granting of subsidies, such a programme cannot be considered to be a service. As regards the second task, namely the purchase by the operator of the network of electricity produced by cogeneration, the EU institutions do not pursue activities as a services supplier or profit-making activities. As regards the third task relating to public lighting, that is a public utility service which is not aimed specifically at the EU institutions, but at any person in the streets of Brussels, whether or not the end customer of an electricity supplier. A contribution can be characterised as ‘remuneration for public utility services’ only where it amounts to payment for an identified service supplied, or capable of being supplied, specifically to a person who must pay that contribution.
+As regards the gas contribution, the EU institutions are not capable of benefiting from the tasks laid down in Articles and bis of the ‘Gas’ Order, since those tasks concern only households, persons benefiting from a specific social tariff and the local authorities.
+As regards the second condition set out in the Court’s case-law, the Commission observes that the electricity contribution is calculated pro rata according to the power made available to end customers, from which it follows that there is no correlation between the amount paid by the EU institutions and the costs of the alleged services provided to them. The Commission refers in that regard to the example of the public lighting service: the major electricity consumers, who pay a higher contribution, do not benefit from public lighting to a greater extent than other consumers. As regards the gas contribution, that contribution is calculated pro rata by kilowatt hours used and therefore has no direct and proportional link with the actual cost of the service and the charge paid by the recipient.
+The Kingdom of Belgium, relying on the judgment in AGF Belgium (C‑191/94, EU:C:1996:144, paragraphs and 26), submits that the public utility services to which the contested contributions are linked satisfy the first condition set out in that regard in the Court’s case-law, namely that they are capable of being supplied to the EU institutions. In particular, the programmes on reasonable electricity and gas use include elements, inter alia subsidies, from which the EU institutions could benefit by putting in place energy efficiency measures. The Kingdom of Belgium cites to that effect a table setting out the amounts of the subsidies from which the EU institutions have benefited over several previous years.
+Similarly, the EU institutions could benefit from measures on the purchase of electricity produced by cogeneration, given that they have appropriate installations at their disposal. The same considerations apply to the public lighting service from which the EU institutions could benefit. Irrespective of the fact that neither the Protocol nor the Court’s case-law requires the services to be ‘specifically’ provided to the recipients, part of the public lighting of the Brussels-Capital Region is chosen specifically by the EU institutions and, in particular, adapted to their specific needs.
+The second condition set out in the Court’s case-law is also satisfied in the present case. Thus, the contested contributions are calculated in accordance with the capacity made available to users of the network, which demonstrates the correlation between the amount of the contributions and the service provided. The criterion of the capacity made available seems to be the most efficient especially concerning public lighting whose use is very difficult to measure.
+Findings of the Court
+It follows from the Court’s case-law that two conditions must be satisfied for an indirect tax, such as the contested contributions, to be considered as amounting to mere remuneration for public utility services within the meaning of the third paragraph of Article of the Protocol. According to the first of those conditions, such services must be provided, or at least be capable of being provided, to those who have to pay such an indirect tax (judgment in AGF Belgium, C‑191/94, EU:C:1996:144, paragraph 26). According to the second condition, there must be a direct and proportional link between the actual cost of that service and the charge paid by the recipient (judgment in European Community, C‑199/05, EU:C:2006:678, paragraph 25). Those two conditions are cumulative.
+First, in Articles and bis of the ‘Electricity’ Order and Articles and bis of the ‘Gas’ Order, the national legislation at issue sets out precisely the public service tasks which must be financed by income from the contested contributions.
+However, as the Kingdom of Belgium itself recognises, not every service falling under those tasks is capable of being provided to the EU institutions. Ones which are not included, inter alia, the provision of an uninterrupted minimum supply of electricity and gas for household consumption and their supply at a special social tariff. The Kingdom of Belgium recognises that only three of those tasks can benefit the EU institutions, namely the purchase of electricity produced by cogeneration, the promotion of reasonable electricity and gas use, and public lighting.
+Second, as is clear from the national legislation at issue, the amounts resulting from those contested contributions are intended to cover the costs of all the public service tasks laid down in that legislation.
+Accordingly, the contested contributions paid by the EU institutions clearly also serve the purpose of financing public service tasks from which those institutions are incapable of benefiting. Consequently, on that basis alone, the first condition referred to in paragraph above is not satisfied and, also, with regard to the second condition, there is no direct and proportional link between the amount of the contested contributions and the actual cost of the public services provided for by the national legislation.
+The Court finds that there is no such link even with regard to the three public service tasks from which the EU institutions are capable of benefiting.
+The basis for calculating the contested contributions does not present a sufficient link with the units of measurement commonly used for measuring electricity produced by cogeneration, which could be the kilowatt hour, or for measuring public lighting, which could be the dimensions of the area lit or a unit of measurement for the quantity of energy of the light.
+Thus, even if the EU institutions can benefit from certain public services, it is not possible for the national legislation at issue to establish to what extent they benefit.
+Consequently, the direct and proportional link required by the Court’s case-law between the actual cost of the public service tasks laid down in the national legislation and the contested contributions to be paid by the EU institutions as recipients of those services is lacking in the present case.
+Therefore, by not exempting the EU institutions from the contributions laid down by Article of the ‘Electricity’ Order and by Article of the ‘Gas’ Order, as amended, and by objecting to the refund of the contributions thereby collected by the Brussels-Capital Region, the Kingdom of Belgium has failed to fulfil its obligations under the second paragraph of Article of the Protocol.
+Costs
+Under Article 138(1) of the Rules of Procedure of the Court of Justice, the unsuccessful party must be ordered to pay the costs if they have been applied for in the successful party’s pleadings. Since the Commission has applied for costs and the Kingdom of Belgium’s failure to fulfil its obligations has been established, the Kingdom of Belgium must be ordered to pay the costs.
+ 
+On those grounds, the Court (Fifth Chamber) hereby:
+ 
+1.
+Declares that by not exempting the EU institutions from the contributions laid down by Article of the Order concerning the organisation of the electricity market in the Brussels-Capital Region and by Article of the Order concerning the organisation of the gas market in the Brussels-Capital Region, as amended, and by objecting to the refund of the contributions thereby collected by the Brussels-Capital Region, the Kingdom of Belgium has failed to fulfil its obligations under the second paragraph of Article of the Protocol of April on the Privileges and Immunities of the European Union, originally annexed to the Treaty establishing a Single Council and a Single Commission of the European Communities, and subsequently under the Treaty of Lisbon, as Protocol No 7, annexed to the TEU, the TFEU and the Euratom Treaty;
+ 
+2.
+Orders the Kingdom of Belgium to pay the costs.
+ 
+[Signatures]
+(
+*)   Language of the case: French.
+Top  

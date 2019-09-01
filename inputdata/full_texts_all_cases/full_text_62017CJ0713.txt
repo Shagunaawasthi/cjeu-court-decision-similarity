@@ -1,0 +1,107 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+November (
+*)
+(Reference for a preliminary ruling — Directive 2011/95/EU — Rules relating to the content of international protection — Refugee status — Article — Social protection — Different treatment — Refuges with temporary right of residence)
+In Case C‑713/17,
+REQUEST for a preliminary ruling under Article TFEU from the Landesverwaltungsgericht Oberösterreich (Regional Administrative Court, Upper Austria, Austria), made by decision of December 2017, received at the Court on December 2017, in the proceedings
+Ahmad Shah Ayubi
+v
+Bezirkshauptmannschaft Linz-Land,
+THE COURT (Third Chamber),
+composed of M. Vilaras, President of the Fourth Chamber, acting as President of the Third Chamber, J. Malenovský, L. Bay Larsen (Rapporteur), M. Safjan and D. Šváby, Judges,
+Advocate General: E. Sharpston,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Mr Ayubi, by H. Blum, Rechtsanwalt,
+–
+the Austrian Government, by G. Hesse, acting as Agent,
+–
+the European Commission, by M. Condou-Durande and M. Wasmeier, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article of Directive 2011/95/EU of the European Parliament and of the Council of December on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection, and for the content of the protection granted (OJ L 337, p. 9).
+The request has been made in proceedings between Mr Ahmad Shah Ayubi, a third-country national, and the Bezirkshauptmannschaft Linz-Land ((District Administrative Authority of Linz-Land, Austria) concerning the latter’s decision to grant Mr Ayubi and his family assistance for the provision of the means of subsistence and housing for himself and his family in the form of a basic allowance and a temporary supplementary allowance.
+Legal context
+The Geneva Convention
+The Convention relating to the Status of Refugees, signed in Geneva on July (United Nations Treaty Series, Vol. 189, p. 137, No (1954)), entered into force on April 1954. It was supplemented by the Protocol Relating to the Status of Refugees, concluded in New York on January 1967, which entered into force on October (‘the Geneva Convention’).
+Article of the Geneva Convention, entitled ‘Public relief’, states:
+‘The Contracting States shall accord to refugees lawfully staying in their territory the same treatment with respect to public relief and assistance as is accorded to their nationals.’
+European Union law
+Under Article 2(a) of Directive 2011/95, ‘international protection’ means ‘refugee status and subsidiary protection status’.
+Article 24(1), first subparagraph, of that directive provides:
+‘As soon as possible after international protection has been granted, Member States shall issue to beneficiaries of refugee status a residence permit which must be valid for at least years and renewable, unless compelling reasons of national security or public order otherwise require, and without prejudice to Article 21(3).’
+Article of Directive 2011/95, entitled ‘Social welfare’, is worded as follows:
+‘1.   Member States shall ensure that beneficiaries of international protection receive, in the Member State that has granted such protection, the necessary social assistance as provided to nationals of that Member State.
+2.   By way of derogation from the general rule laid down in paragraph 1, Member States may limit social assistance granted to beneficiaries of subsidiary protection status to core benefits which will then be provided at the same level and under the same eligibility conditions as nationals.’
+Austrian law
+Paragraph 3(4) of the Asylgesetz (Law of on the right to asylum) is worded as follows:
+‘A foreign national who has been granted the status of a person eligible for asylum obtains a temporary right of residence as a person eligible for asylum. The right of residence is valid for three years and shall be extended for an indefinite period if the conditions for initiating the procedure for withdrawal of the status of person eligible for asylum are not fulfilled or if the withdrawal procedure has been discontinued.’
+Article of the Gesetz über die bedarfsorientierte Mindestsicherung in Oberösterreich (Law on needs-based minimum income protection in Upper Austria) provides:
+‘(1)   Needs-based minimum income protection shall be provided only to persons who, unless otherwise provided by this provincial law, are those who:
+1.
+have their habitual residence in Upper Austria … and
+2.
+…
+(b)
+persons eligible for asylum or beneficiaries of subsidiary protection;
+…
+(3)   By way of derogation from subparagraph 1, the persons … referred to in subparagraph 1(2)(b) who do not have a right of permanent residence in Austria … in particular, persons eligible for asylum who have a right of temporary residence … and persons who are beneficiaries of subsidiary protection shall receive a basic allowance and a temporary supplementary allowance under Paragraph to cover their subsistence needs and accommodation.’
+The respective amounts of benefits paid to persons covered by Paragraph 4(3) of that law and to persons who are not covered by that provision are determined by separate provisions.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+On September 2016, Mr Ayubi was granted refugee status by the Bundesamt für Fremdenwesen und Asyl (Federal Bureau for Immigration and Asylum, Austria). It granted him asylum entitling him to a residence permit for three years.
+On March 2017, Mr Ayubi submitted an application for assistance for the provision of the means of subsistence and housing for himself and his family.
+By a decision of April 2017, the District Administrative Authority of Linz-Land granted him assistance in the form of monthly cash payments, consisting of a basic allowance and a temporary supplementary allowance. The referring court notes that, according to that decision, Mr Ayubi, as a person granted asylum status which entitled him to a temporary residence permit, could claim only the minimum subsistence benefits under Austrian law.
+On June 2017, Mr Ayubi brought an action against that decision arguing, inter alia, that the unfavourable treatment of refugees who are not entitled to permanent residence under that legislation was incompatible with EU law.
+The referring court states that following a reform of the relevant national legislation in 2015, that category of refugees is treated in the same way as beneficiaries of subsidiary protection as regards social assistance and, therefore, they receive benefits which are much lower than those paid to Austrian nationals. Only refugees who have a right of permanent residence are treated in the same way as Austrian nationals.
+That court considers that such legislation gives rise to a difference in treatment of refugees with a right of temporary residence with regard to the grant of rights laid down in a precise and unconditional manner by Article of Directive 2011/95, even though those refugees are in a situation comparable to that of refugees with a right of permanent residence.
+In those circumstances the Landesverwaltungsgericht Oberösterreich (Regional Administrative Court, Upper Austria, Austria) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is Article of Directive 2011/…, under which a Member State has the obligation to provide to beneficiaries of international protection (in the Member State that granted such protection) the same necessary social assistance as provided to nationals of that Member State, to be interpreted as satisfying the criteria for direct applicability as laid down in the case-law of the Court of Justice of the European Union?
+(2)
+Is Article of [Directive 2011/95] to be interpreted as precluding national legislation which provides that only persons granted asylum with permanent residence be given social assistance in the form of needs-based minimum benefits in full and to the same extent as nationals of the Member State, but provides for the reduction of social assistance from needs-based minimum benefits for those persons granted asylum with only temporary residence, and consequently, in the same amount of social assistance as is awarded to persons eligible for subsidiary protection?’
+Consideration of the questions referred
+The second question
+By its second question, which it is appropriate to examine first, the referring court asks essentially whether Article of Directive 2011/must be interpreted as meaning that it precludes national legislation, such as that at issue in the main proceedings, which provides that refugees with a right of temporary residence in a Member State receive social security benefits which are lower than those paid to nationals of that Member State and to refugees with a right of permanent residence in that Member State.
+Article 29(1) of Directive 2011/lays down a general rule that beneficiaries of international protection, which include in accordance with Article 2(a) of that directive, refugees, are to receive, in the Member State that has granted such protection, the same social assistance as provided to nationals of that Member State (judgment of March 2016, Alo and Osso, C‑443/and C‑444/14, EU:C:2016:127, paragraph 48).
+Although Article 29(2) of that directive allows Member States to derogate from that general rule by limiting social assistance granted to beneficiaries of subsidiary protection status to core benefits, it is clear from the wording of that provision that that derogation is only applicable to beneficiaries of international protection and not to refugees.
+It must be stated that the fact that Article 29(1) of that directive provides for the grant of ‘necessary’ social assistance to beneficiaries of international protection does not mean that the EU legislature intended to authorise Member States to grant refugees social security benefits which they consider sufficient to cover their needs, but which are less than the social security benefits paid to their nationals.
+It is clear from the structure of Article of Directive 2011/that the inclusion of the word ‘necessary’ in paragraph thereof must be understood simply as highlighting the difference between the benefits covered by the principle set out therein, on one hand, and the ‘core’ benefits to which social assistance may be limited under paragraph thereof, on the other.
+That finding is supported by the fact that paragraph would be deprived of its effectiveness if Article 29(1) of that directive was interpreted as allowing the Member States to fix the benefits provided to beneficiaries of international protection, in a general manner, at a level which is less than the benefits paid to the nationals of those Member States in order to limit them to the bare minimum.
+Second, conferring such an option on the Member States with regard to the benefits granted to refugees would be incompatible with the principle that persons entitled to subsidiary protection should be accorded the same treatment with respect to public relief and assistance as provided to nationals of that Member State laid down in Article of the Geneva Convention, in the light of which Article of Directive 2011/must be interpreted (see, to that effect, judgment of March 2016, Alo and Osso, C‑443/and C‑444/14, EU:C:2016:127, paragraph 51).
+It follows that the level of social security benefits paid to refugees by the Member State which granted that status, whether temporary or permanent, must be the same as that offered to nationals of that Member State (see, to that effect, judgment of March 2016, Alo and Osso, C‑443/and C‑444/14, EU:C:2016:127, paragraphs and 50).
+The principle that refugees should receive the same treatment as that accorded to nationals of the Member State cannot be called into question by Article of Directive 2011/which allows Member States to issue a residence permit limited to three years.
+Since the rights conferred by Chapter VII of that directive, in which Article thereof appears, derive from the grant of refugee status, and not from the issue of the residence permit, they may be limited only in accordance with the conditions set by Chapter VII of that directive, since Member States are not entitled to add restrictions not already listed there (see, to that effect, judgment of June 2015, H.T., C‑373/13, EU:C:2015:413, paragraph 97).
+Furthermore, both Article of Directive 2011/and Article of the Geneva Convention cover all refugees and do not make the rights to which they are entitled depend on the length of their stay in the Member State concerned or the duration of the residence permit they have.
+It follows from the foregoing that refugees who have a residence permit limited to three years must be entitled to the same level of social assistance as that provided to nationals of the Member State which granted them refugee status.
+That finding cannot be called into question by the argument that legislation such as that at issue in the main proceedings is compatible with Article 29(1) of Directive 2011/as refugees who have resided for a number of years in a Member State are in an objectively different situation from that of refugees who have recently arrived in that Member State, since the latter have a greater need for practical help.
+In the first place, since that provision requires refugees to be treated in the same way as nationals of the Member State which granted them its protection, only objective differences in the situations of those two categories of persons may be relevant for the purposes of its application, excluding differences in the situations of two separate groups of refugees (see, to that effect, judgment of March 2016, Alo and Osso, C‑443/and C‑444/14, EU:C:2016:127, paragraphs and 59).
+In the second place, even if the particular circumstances of refugees who have recently arrived in a Member State may lead to the conclusion that, as general rule, they are in an objectively more precarious situation than nationals of that Member State, a measure which consists in treating those refugees unfavourably by limiting the level of benefits they receive cannot be regarded as helping to address such a difference in situation, as such a measure is not appropriate to alleviate such a situation.
+In the third place, in so far as that argument must be understood in the sense that, on account of difficulties faced by refugees who have recently arrived in Austria in gaining access to the free housing market it is more appropriate to offer them accommodation in hostels as soon as possible rather than providing them with financial assistance, it suffices to state that, in any event, it is not clear from the description of the applicable national legislation set out in the order for reference or from evidence adduced by the Austrian Government that the reduction in the amount of social security benefits at issue in the main proceedings paid to those refugees is in fact offset by granting them other forms of social security benefits.
+Furthermore, although the Austrian Government also relies on the considerable burden resulting from the payment of social security benefits to refugees, it must be recalled that the grant of social security benefits to a given person will entail costs for the institution that is required to provide those benefits, regardless of whether that person is a beneficiary of subsidiary protection status, a refugee or a national of the Member State concerned. A difference in situation between the two categories of person cannot therefore be established in that regard (see, to that effect, judgment of March 2016, Alo and Osso, C‑443/and C‑444/14, EU:C:2016:127, paragraph 55).
+Therefore, the answer to the second question is that Article of Directive 2011/must be interpreted as meaning that it precludes national legislation, such as that at issue in the main proceedings, which provides that refugees with a temporary right of residence in a Member State are to be granted social security benefits which are less than those received by nationals of that Member State and refugees who have a permanent right of residence in that Member State.
+The first question
+By its first question, the national court asks essentially whether a refugee is able to rely on the incompatibility of legislation, such as that at issue in the main proceedings, with Article 29(1) of Directive 2011/before the national courts in order to remove the restriction of his rights provided for by that legislation.
+It is clear from the settled case-law of the Court that, whenever the provisions of a directive appear, so far as their subject matter is concerned, to be unconditional and sufficiently precise, they may be relied upon before the national courts by individuals against the State where the latter has failed to implement the directive in domestic law by the end of the period prescribed or where it has failed to implement the directive correctly (judgment of January 2012, Dominguez, C‑282/10, EU:C:2012:33,paragraph and the case-law cited).
+Although Article 29(1) of Directive 2011/confers on Member States a certain margin of discretion, in particular as regards the determination of the level of social assistance they consider necessary, the fact remains that that provision imposes on each Member State, in unambiguous terms, an obligation to produce results which is precise and unconditional, consisting in ensuring that every refugee to which it grants its protection enjoys the same level of social assistance as that provided for its nationals.
+It must be recalled that the Court has already found that provisions comparable to Article 29(1) of Directive 2011/which impose the benefit of national treatment or prohibit certain discrimination have direct effect (see, that that effect, judgments of May 1999, Sürül, C‑262/96, EU:C:1999:228, paragraphs and 74; of December 2010, Gavieiro Gavieiro and Igliesias Torres, C‑444/and C‑456/09, EU:C:2010:819, paragraph 78; and of March 2014, Napoli, C‑595/12, EU:C:2014:128, paragraph and 50).
+In that context, it follows that, according to the Court’s case-law, where they are unable to interpret and apply national law in compliance with the requirements of EU law, it is for the national courts and administrative bodies to apply EU law in its entirety and to protect rights which the latter confers on individuals, disapplying, if necessary, any contrary provision of domestic law (judgment of September 2017, H., C‑174/16, EU:C:2017:637, paragraph and the case-law cited).
+It follows from all of the foregoing that the answer to the first question is that a refugee may rely on the incompatibility of legislation, such as that at issue in the main proceedings, with Article 29(1) of Directive 2011/before the national courts in order to remove the restriction on his rights provided for by that legislation.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+1.
+Article of Directive 2011/95/EU of the European Parliament and of the Council of December on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection, and for the content of the protection granted, must be interpreted as meaning that it precludes national legislation, such as that at issue in the main proceedings, which provides that refugees with a temporary right of residence in a Member State are to be granted social security benefits which are less than those received by nationals of that Member State and refugees who have a permanent right of residence in that Member State.
+ 
+2.
+A refugee may rely on the incompatibility of legislation, such as that at issue in the main proceedings, with Article 29(1) of Directive 2011/before the national courts in order to remove the restriction on his rights provided for by that legislation.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

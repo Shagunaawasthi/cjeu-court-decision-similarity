@@ -1,0 +1,122 @@
+
+JUDGMENT OF THE COURT (Sixth Chamber)
+October (*)
+(Appeal — EU trade mark — Regulation (EC) No 207/— Article 7(1)(b) — Invalidity proceedings — Article — EU colour mark consisting of blended shades of green — Partial declaration of invalidity — Remittal of the case to the Cancellation Division)
+In Case C‑433/P,
+APPEAL under Article of the Statute of the Court of Justice of the European Union, brought on July 2017,
+Enercon GmbH, established in Aurich (Germany), represented by R. Böhm, Rechtsanwalt, and M. Silverleaf QC,
+appellant,
+the other parties to the proceedings being:
+European Union Intellectual Property Office (EUIPO), represented by D. Botis, V. Ruzek and A. Folliard-Monguiral, acting as Agents,
+defendant at first instance,
+Gamesa Eólica, SL, established in Sarriguren (Spain), represented by A. Sanz Cerralbo, abogada,
+intervener at first instance,
+THE COURT (Sixth Chamber),
+composed of E. Regan, President of the Fifth Chamber, acting as President of the Sixth Chamber, C.G. Fernlund and S. Rodin (Rapporteur), Judges,
+Advocate General: E. Sharpston,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+By its appeal, Enercon GmbH seeks to have set aside the judgment of the General Court of the European Union of May 2017, Enercon v EUIPO — Gamesa Eólica (Blended shades of green) (T‑36/16, not published, ‘the judgment under appeal’, EU:T:2017:295), by which the General Court dismissed its action for annulment of the decision of the Second Board of Appeal of the European Union Intellectual Property Office (EUIPO) of October (Case R 597/2015‑2) relating to invalidity proceedings between Gamesa Eólica SL and Enercon (‘the decision at issue’).
+ Legal context
+The regulations applicable to the case ratione temporis were Council Regulation (EC) No 207/of February on the [European Union] trade mark (OJ L 78, p. 1), as amended by Regulation (EU) 2015/of the European Parliament and of the Council of December (OJ L 341, p. 21) (‘Regulation No 207/2009’), and Commission Regulation (EC) No 2868/of December implementing Council Regulation (EC) No 40/on the Community trade mark (OJ L 303, p. 1), as amended by Regulation 2015/(‘Regulation No 2868/95’). 
+Article 7(1)(b) of Regulation No 207/2009, concerning absolute grounds for refusal, provides:
+‘1.      The following shall not be registered:
+...
+(b)      trade marks which are devoid of any distinctive character;
+...’
+Article 43(2) of Regulation No 207/provides:
+‘ ... an EU trade mark application may be amended, upon request of the applicant, only by correcting the name and address of the applicant, errors of wording or of copying, or obvious mistakes, provided that such correction does not substantially change the trade mark or extend the list of goods or services. Where the amendments affect the representation of the trade mark or the list of goods or services and are made after publication of the application, the trade mark application shall be published as amended.’
+Article of Regulation No 207/2009, entitled ‘Relative grounds of invalidity’, provides, in paragraphs and thereof:
+‘1.      An EU trade mark shall be declared invalid on application to the Office or on the basis of a counterclaim in infringement proceedings:
+(a)      where there is an earlier trade mark as referred to in Article 8(2) and the conditions set out in paragraph or paragraph of that Article are fulfilled;
+(b)      where there is a trade mark as referred to in Article 8(3) and the conditions set out in that paragraph are fulfilled;
+(c)      where there is an earlier right as referred to in Article 8(4) and the conditions set out in that paragraph are fulfilled.
+2.      An EU trade mark shall also be declared invalid on application to the Office or on the basis of a counterclaim in infringement proceedings where the use of such trade mark may be prohibited pursuant to another earlier right under the EU legislation or national law governing its protection, and in particular:
+(a)      a right to a name;
+(b)      a right of personal portrayal;
+(c)      a copyright;
+(d)      an industrial property right.’
+ Background to the decision
+The facts of the dispute were established by the General Court as follows:
+‘On August 2001, [Enercon] filed an application for registration of an EU trade mark with the European Union Intellectual Property Office (EUIPO) pursuant to Council Regulation (EC) No 40/of December on the Community trade mark (OJ L 11, p. 1), as amended (replaced by Regulation No 207/in its initial version).
+Registration as a mark was sought for the following sign:
+The goods in respect of which registration was sought are in Class of the Nice Agreement of June concerning the International Classification of Goods and Services for the Purposes of the Registration of Marks, as revised and amended, and correspond to the following description: “Wind energy converters, and parts therefor”.
+The contested mark, reproduced in paragraph above, is identified in the application form as a “colour mark”. A description of the colours applied for was provided by means of a colour code.
+The EU trade mark application was published in Community Trade Marks Bulletin No 54/of July and was registered on January 2003.
+On March the other party to the proceedings, Gamesa Eólica SL, filed an application for a declaration of invalidity against the EU trade mark on the basis of Article 51(1)(a) and (b) of Regulation No 40/(now Article 52(1)(a) and (b) of Regulation No 207/2009).
+By decision of December 2010, the Cancellation Division granted the application for a declaration of invalidity on the basis of Article 7(1)(b) of Regulation No 207/2009. With regard, in particular, to the nature of the contested mark, the Cancellation Division considered, in essence, that the mark defined the way in which the registered colours could be applied to a wind turbine tower.
+On January 2011, the applicant filed a notice of appeal with EUIPO, pursuant to Articles to of Regulation No 207/2009, against the Cancellation Division’s decision.
+By decision of March (“the first decision”), the First Board of Appeal of EUIPO annulled the decision of the Cancellation Division. ...
+By application lodged at the Registry of the General Court on June 2012, Gamesa Eólica brought an action for annulment of the first decision. Enercon did not participate in the proceedings before the General Court within the meaning of Article 134(1) of the Rules of Procedure; it was therefore not an intervener in the proceedings before the General Court.
+...
+After rejecting the second plea in law put forward by Gamesa Eólica, the General Court, in its judgment of November 2013, Gamesa Eólica v [OHIM] — Enercon (Blended shades of green) (T‑245/12, not published, EU:T:2013:588, …), annulled the first decision, upholding the first plea in law, on the ground that the First Board of Appeal had based its decision on a mistaken perception of the nature and characteristics of the contested mark and had made an error of assessment in finding that the contested mark was not a colour mark, but rather a two-dimensional figurative mark made up of colours. Having found that an error of assessment had been made concerning the nature of the contested mark at issue, the General Court did not go on to examine whether the mark had any distinctive character.
+...
+The case was remitted to the Second Board of Appeal (Case R 597/2015‑2), which gave its decision on October (“the [decision at issue]”). The Board of Appeal held, in paragraph of the [decision at issue], that the subject of the proceedings was the mark as registered and it was therefore a colour mark that was in issue. The Board of Appeal, on the basis of the [judgment of the General Court of November 2013, Gamesa Eólica v OHIM — Enercon (Blended shades of green) (T‑245/12, not published, EU:T:2013:588)], held in paragraph of the [decision at issue] that the contested mark could not be qualified as a figurative mark and concluded, in paragraphs and of the same decision, that that colour mark consisted of different shades of green and of white, and was limited to the specific form and arrangement of a slender, upright trapezoidal surface including at the base five horizontally adjoining stripes of green gradually becoming lighter from the bottom to the top, and the rest of whose surface was white.
+...
+As regards the question whether the contested mark had acquired distinctiveness as a consequence of the use which had been made of it, the Board of Appeal, in paragraph of the [decision at issue], remitted the case to the Cancellation Division for an assessment of all the evidence of use submitted by the applicant.’
+ The action before the General Court and the judgment under appeal
+By application lodged at the Registry of the General Court on January 2016, the appellant brought an action for annulment of the decision at issue.
+The action for annulment was based on a single plea in law, namely, infringement of Article 7(1)(b) of Regulation No 207/2009.
+On May 2017, the General Court delivered a judgment by which it dismissed the action for annulment in its entirety.
+The General Court, first, took the view that the Board of Appeal was fully entitled to find that the contested mark was devoid of any distinctive character and, second, dismissed the action, holding that all of the arguments put forward by the appellant were unfounded.
+The General Court took the view that the Board of Appeal correctly (i) assessed the distinctiveness of the contested mark according to the category as chosen and indicated in the application for registration and (ii) observed that the upright trapezoidal shape was not part of the subject matter of the protection sought and that that element served merely to indicate how the colours will be applied on the goods at issue.
+ Forms of order sought by the parties
+By its appeal, the appellant claims that the Court should:
+–        set aside the judgment under appeal;
+–        order EUIPO to pay the costs, and
+–        in the event that the appeal is declared to be well founded, the appellant further asks, as requested at first instance, the Court to set aside the judgment of November 2013, Gamesa Eólica v OHIM — Enercon (Blended shades of green) (T‑245/12, not published, EU:T:2013:588).
+EUIPO and Gamesa Eólica contend that the Court should dismiss the appeal and order the appellant to pay the costs.
+ The appeal
+The appellant raises, in essence, two grounds of appeal.
+ The first ground of appeal
+ Arguments of the parties
+By its first ground of appeal, the appellant submits that the General Court erred in law when it took the view that the designation of the contested mark as a colour mark in the application form determined the nature of the mark in law and therefore affected the assessment of its inherent distinctive character.
+According to Enercon, the General Court should have held that the reason for which the mark was designated as a colour mark in the application form was primarily for the administrative convenience of EUIPO and not for legal reasons. Consequently, in order to determine the nature of the contested mark, the General Court should have had regard not only to the classification of that mark on the form but also to the whole content of the form, in particular the representation of that mark filed with the form.
+The General Court, it argues, should also have had regard to the shape of the contested mark as registered and, in particular, as indicated in the registration certificate issued by EUIPO on registration of the mark. The content of the registration certificate, properly understood, makes clear that the contested mark is registered as a figurative mark the shape of which is that of the representation filed with the application form. As the registration certificate is the reference document representing the shape of the contested mark as registered, it should therefore have been treated by the General Court as determinative. Consequently, the appellant contends that the General Court erred in law in failing to do so.
+Enercon adds that the classification of a mark as a ‘colour mark’ is not a legal definition. It is required for reasons of administrative convenience for EUIPO. The error of law raised is compounded by the failure to take into consideration the content of the registration certificate, which makes clear that the contested mark was not in fact registered as a colour mark, contrary to the finding of the General Court in the judgment under appeal, but as a mark composed of figurative elements.
+Enercon also submits that the General Court did not take account of the shape of the representation filed with the application form of the contested mark. The purpose of that representation, it argues, is to depict what is actually sought to be registered. It should therefore have been taken into account for the purpose of determining the nature and scope of the registration of the contested mark.
+EUIPO and Gamesa Eólica dispute the appellant’s arguments.
+ Findings of the Court
+By its first ground of appeal, the appellant criticises, in essence, the General Court for having defined the contested mark as ‘a colour mark containing no figurative elements’.
+As the General Court held in paragraphs to of the judgment under appeal, the contested mark was registered as a colour mark, a fact which the appellant does not dispute.
+As regards the appellant’s assertion that the designation of a mark as a colour mark is merely for reasons of ‘administrative convenience’, it is sufficient to note that the Court, rejecting arguments similar to those made in the context of the present appeal, has already declared that the designation of the category of mark by the applicant for registration of an EU trade mark is a legal requirement.
+According to Article 26(3) of Regulation No 207/2009, an application for registration of an EU trade mark must comply with ‘the conditions laid down in the Implementing Regulation referred to in Article 162(1)’ of Regulation No 207/2009, that is to say, the conditions laid down in Regulation No 2868/95. Such a request must therefore necessarily mention within which of the categories referred to in Rule of Regulation No 2868/the mark falls (order of January 2016, Enercon GmbH v OHIM, C‑170/P, not published, EU:C:2016:53, paragraph 17).
+In the present case, the appellant seeks in fact to circumvent the requirements that stem from Article 43(2) of Regulation No 207/2009. That provision, however, does not authorise the category of EU trade mark chosen by the applicant in its application to be changed to another category of mark (see, to that effect, order of January 2016, Enercon v OHIM, C‑170/P, not published, EU:C:2016:53, paragraph 28).
+If the General Court were required to examine the distinctiveness of a mark applied for, not only in the light of the category chosen by the applicant in its application, but also in the light of all other potentially relevant categories, that applicant’s obligation to indicate the category of mark applied for and the impossibility pursuant to Article 43(2) of Regulation No 207/of subsequently amending that category would be deprived of all practical effect (order of January 2016, Enercon v OHIM, C‑170/P, not published, EU:C:2016:53, paragraph 29).
+It follows from the foregoing that the General Court was fully entitled to take the view that the distinctive character of the mark had to be assessed according to the category of mark chosen.
+It follows that the first ground of the appeal must be rejected.
+ The second ground of appeal
+ Arguments of the parties
+By its second ground of appeal, the appellant submits that, when the General Court rejected the information necessary for an understanding of the content of the registration certificate of the contested mark, it committed a fundamental error which led it to the erroneous finding that the contested mark is a colour mark. The General Court, it submits, erred in taking the view that the source of that information constituted evidence, whereas, according to Enercon, it is in fact a legal text equivalent to a dictionary. If the General Court had had regard to the interpretive aids offered to it, it would have appreciated that the registration certificate of the contested mark was issued for a figurative mark as represented in the application form.
+The General Court, according to the appellant, refused to have regard to the information in Standard ST.published by the World Intellectual Property Organisation (WIPO), concerning bibliographic data relating to trade marks, which is a lexicon by means of which the content of the certificate of registration of the contested mark had to be interpreted. The General Court erred in finding that that document constituted evidence, whereas, according to the appellant, it is a legal text equivalent to a dictionary, and erred in finding that that document was inadmissible inasmuch as it had been produced for the first time at the hearing. There is not a single reference in the judgment under appeal to the content of the registration certificate, which, it is claimed, is explicable solely on the ground that the General Court was completely unable to interpret that registration certificate without reference to the information in WIPO Standard ST.60. The General Court’s conclusion in paragraph of the judgment under appeal that the contested mark was registered as a colour mark is, it argues, in clear contradiction to the content of the registration certificate.
+What is more, according to the applicant, the General Court states in paragraph that Enercon did not argue before it that the contested mark is not a colour mark, that is, a mark made up exclusively of colours, which, according to the appellant, is incorrect. The basis on which Enercon challenged the decision at issue, itself based on the judgment of November 2013, Gamesa Eólica v OHIM — Enercon (Blended shades of green) (T‑245/12, not published, EU:T:2013:588), was that, in that decision, the Second Board of Appeal of EUIPO had failed to take account of the shape of the contested mark as represented in the registration certificate, which, it claims, allegedly makes clear that the mark is composed of figurative elements.
+EUIPO and Gamesa Eólica dispute the appellant’s arguments.
+ Findings of the Court
+By its second ground of appeal, the appellant criticises, in essence, the General Court for having erred in law when it held that the content of the registration certificate of the contested mark and of WIPO Standard ST.was inadmissible, inasmuch as it had been produced for the first time at the hearing; that content, according to the appellant, highlighted the fact that the contested mark had been registered as a figurative mark.
+With regard to the content of the registration certificate of the contested mark, the General Court held, in paragraph of the judgment under appeal, that it is not the General Court’s function to re-evaluate the factual circumstances in the light of evidence which has been adduced for the first time before it.
+In that connection, it should be borne in mind that, according to settled case-law, evidence adduced for the first time before the General Court is inadmissible (order of September 2011, Wilfer v OHIM, C‑546/P, not published, EU:C:2011:574, paragraph and the case-law cited).
+In the present case, the appellant referred for the first time at the hearing before the General Court to the fact that the registration certificate of the contested mark contains the INID (Internationally agreed Numbers for the Identification of (bibliographic) Data) code 546, which is used, as a general rule, when a mark contains figurative elements. It points out that INID code 558, used for marks ‘consisting exclusively of one or several colours’, is not referred to.
+However, despite the fact that INID code is referred to in that registration certificate, the appellant at no time mentioned that code during the procedure before EUIPO. On the contrary, it explicitly chose to have its mark registered as a colour mark.
+It is for neither EUIPO nor the General Court to reclassify the category chosen for a mark. It cannot be held that EUIPO is required to decipher of its own motion all of the documentation filed when registration of a ‘colour mark’ is applied for in order to decide on its own initiative that that mark is to be reclassified as a ‘figurative mark’ outside the legal framework laid down by the applicable rules on trade marks.
+It follows that the second ground of the appeal must be rejected.
+Consequently, the appeal must be dismissed in its entirety.
+ Costs
+Under Article 138(1) of the Rules of Procedure of the Court of Justice, which applies to appeal proceedings by virtue of Article 184(1) thereof, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings. Since EUIPO has applied for costs and Enercon has been unsuccessful, the latter must be ordered to pay the costs.
+On those grounds, the Court (Sixth Chamber) hereby:
+1.      Dismisses the appeal;
+2.      Orders Enercon GmbH to pay the costs.
+Regan
+Fernlund
+Rodin
+Delivered in open court in Luxembourg on October 2018.
+A. Calot Escobar
+ 
+K. Lenaerts
+Registrar
+ 
+President
+*      Language of the case: English.
+Top  

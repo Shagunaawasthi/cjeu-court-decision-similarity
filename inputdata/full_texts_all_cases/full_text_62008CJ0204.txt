@@ -1,0 +1,379 @@
+
+Case C-204/Peter Rehder
+v
+Air Baltic Corporation
+(Reference for a preliminary ruling from the Bundesgerichtshof)
+(Regulation (EC) No 44/– Second indent of Article 5(1)(b) – Regulation (EC) No 261/– Articles 5(1)(c) and 7(1)(a) – Montreal Convention – Article 33(1) – Air transport – Passenger claims for compensation against airlines in the case of flight cancellation – Place of performance of the service – Jurisdiction in the case of air transport from one Member State to another Member State by an airline established in a third
+         Member State)
+      
+Summary of the Judgment
+1.        Judicial cooperation in civil matters – Jurisdiction and enforcement of judgments in civil and commercial matters – Regulation
+            No 44/– Special jurisdiction – Court for the place of performance of the contractual obligation in question – Contract
+            for the provision of services – Several places at which services are provided in different Member States – Jurisdiction of
+            the court at the place of principal supply of services 
+(Council Regulation No 44/2001, Art. 5(1)(b), 2nd indent)
+2.        Judicial cooperation in civil matters – Jurisdiction and enforcement of judgments in civil and commercial matters – Regulation
+            No 44/– Special jurisdiction – Court for the place of performance of the contractual obligation in question – Contract
+            for the provision of services – Air transport of passengers from one Member State to another Member State – Claim for compensation
+            for flight cancellation founded on Regulation No 261/– Jurisdiction of the Court at the places of arrival and departure,
+            at the applicant’s choice
+(European Council and Parliament Regulation No 261/2004; Council Regulation No 44/2001, Art. 5(1)(b), 2nd indent)
+1.        The rule of special jurisdiction in matters relating to a contract, set out in Article 5(1) of Regulation No 44/on jurisdiction
+         and the recognition and enforcement of judgments in civil and commercial matters, reflects an objective of proximity and the
+         reason for that rule is the existence of a close link between the contract and the court called upon to hear and determine
+         the case. Where there are several places at which services are provided in different Member States, in the light of the objectives
+         of proximity and predictability, it is necessary to identify the place with the closest linking factor between the contract
+         in question and the court having jurisdiction, in particular the place where, pursuant to that contract, the main provision
+         of services is to be carried out.
+      
+(see paras 32, 37-38)
+2.        The second indent of Article 5(1)(b) of Regulation No 44/on jurisdiction and the recognition and enforcement of judgments
+         in civil and commercial matters must be interpreted as meaning that, in the case of air transport of passengers from one Member
+         State to another Member State, carried out on the basis of a contract with only one airline, which is the operating carrier,
+         the court having jurisdiction to deal with a claim for compensation founded on that transport contract and on Regulation No 261/establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation
+         or long delay of flights, and repealing Regulation No 295/91, is that, at the applicant’s choice, which has territorial jurisdiction
+         over the place of departure or place of arrival of the aircraft, as those places are agreed in that contract. 
+      
+In this regard, the services the provision of which corresponds to the performance of obligations arising from a contract
+         to transport passengers by air are the checking-in and boarding of passengers, the on-board reception of those passengers
+         at the place of take-off agreed in the transport contract, the departure of the aircraft at the scheduled time, the transport
+         of the passengers and their luggage from the place of departure to the place of arrival, the care of passengers during the
+         flight, and, finally, the disembarkation of the passengers in conditions of safety at the place of landing and at the time
+         scheduled in that contract. The only places which have a direct link to those services, provided in performance of obligations
+         linked to the subject-matter of the contract, are those of the departure and arrival of the aircraft, understood as agreed
+         in the contract of transport. Air transport consists, by its very nature, of services provided in an indivisible and identical
+         manner from the place of departure to that of arrival of the aircraft, with the result that a separate part of the service
+         which is the principal service, which is to be provided in a specific place, cannot be distinguished on the basis of an economic
+         criterion. Each of those two places has a sufficiently close link of proximity to the material elements of the dispute to
+         ensure the close connection between the contract and the court having jurisdiction, in accordance with the objectives of proximity
+         and predictability, which are pursued by the centralisation of jurisdiction in the place of the provision of services and
+         by the determination of sole jurisdiction for all claims arising out of a contract.
+      
+ (see paras 37, 40-44, 47, operative part)
+  
+  
+JUDGMENT OF THE COURT (Fourth Chamber)
+July (*)
+      
+(Regulation (EC) No 44/– Second indent of Article 5(1)(b) – Regulation (EC) No 261/– Articles 5(1)(c) and 7(1)(a) – Montreal Convention – Article 33(1) – Air transport – Passenger claims for compensation against airlines in the case of flight cancellation – Place of performance of the service – Jurisdiction in the case of air transport from one Member State to another Member State by an airline established in a third
+         Member State)
+      
+In Case C‑204/08,
+REFERENCE for a preliminary ruling under Article EC from the Bundesgerichtshof (Germany), made by decision of April
+         2008, received at the Court on May 2008, in the proceedings
+      
+Peter Rehder
+v
+Air Baltic Corporation,
+      
+THE COURT (Fourth Chamber),
+composed of K. Lenaerts, President of the Chamber, R. Silva de Lapuerta, E. Juhász (Rapporteur), G. Arestis and J. Malenovský,
+         Judges,
+      
+Advocate General: M. Poiares Maduro,
+Registrar: N. Nanchev, Administrator,
+having regard to the written procedure and further to the hearing on April 2009,
+after considering the observations submitted on behalf of:
+–        Mr Rehder, by J. Kummer, Rechtsanwalt,
+–        Air Baltic Corporation, by G.‑S. Hök, Rechtsanwalt,
+–        the German Government, by M. Lumma and J. Kemper, acting as Agents,
+–        the Czech Government, by M. Smolek, acting as Agent,
+–        the Latvian Government, by E. Eihmane and U. Dreimanis, acting as Agents,
+–        the United Kingdom Government, by L. Seeboruth, acting as Agent,
+–        the Commission of the European Communities, by A.‑M. Rouchaud-Joët and S. Grünheid, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of the second indent of Article 5(1)(b) of Council Regulation
+         (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial
+         matters (OJ 2001, L 12, p. 1).
+      
+The reference has been made in the context of a dispute between Mr Rehder and Air Baltic Corporation (‘Air Baltic’) following
+         the cancellation of a flight which he had booked with that company to take him from Munich (Germany) to Vilnius (Lithuania).
+      
+ Legal context
+ Community legislation
+Regulation No 44/entered into force on March and, in accordance with Article 68(1) thereof, supersedes the Convention
+         of September on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters, as subsequently amended
+         (OJ C 27, p. 1; the ‘Brussels Convention’).
+      
+Recital in the preamble to Regulation No 44/states that ‘[t]he Community has set itself the objective of maintaining
+         and developing an area of freedom, security and justice, in which the free movement of persons is ensured. In order to establish
+         progressively such an area, the Community should adopt, amongst other things, the measures relating to judicial cooperation
+         in civil matters which are necessary for the sound operation of the internal market’.
+      
+The second sentence of recital in the preamble to Regulation No 44/states that ‘[p]rovisions to unify the rules of
+         conflict of jurisdiction in civil and commercial matters and to simplify the formalities with a view to rapid and simple recognition
+         and enforcement of judgments from Member States bound by this Regulation are essential’.
+      
+The first sentence of recital in the preamble to that regulation states that ‘[t]he rules of jurisdiction must be highly
+         predictable and founded on the principle that jurisdiction is generally based on the defendant’s domicile and jurisdiction
+         must always be available on this ground save in a few well-defined situations in which the subject-matter of the litigation
+         or the autonomy of the parties warrants a different linking factor’.
+      
+Recital in the preamble to Regulation No 44/states that ‘?i?n addition to the defendant’s domicile, there should be
+         alternative grounds of jurisdiction based on a close link between the court and the action or in order to facilitate the sound
+         administration of justice’.
+      
+The rules on jurisdiction laid down by Regulation No 44/are set out in Chapter II thereof, which consists of Articles
+         to 31.
+      
+Article 2(1) of Regulation No 44/2001, which forms part of Section (‘General provisions’) of Chapter II, is worded as follows:
+      
+‘Subject to this Regulation, persons domiciled in a Member State shall, whatever their nationality, be sued in the courts
+         of that Member State.’
+      
+Article 3(1) of Regulation No 44/2001, which also features in Section of Chapter II, provides:
+      
+‘Persons domiciled in a Member State may be sued in the courts of another Member State only by virtue of the rules set out
+         in Sections to of this Chapter.’
+      
+Article 5(1) of Regulation No 44/2001, which falls under Chapter II, Section 2, entitled ‘Special jurisdiction’, states:
+      
+‘A person domiciled in a Member State may, in another Member State, be sued:
+1.      (a)    in matters relating to a contract, in the courts for the place of performance of the obligation in question;
+(b)       for the purpose of this provision and unless otherwise agreed, the place of performance of the obligation in question shall
+         be:
+      
+–        in the case of the sale of goods, the place in a Member State where, under the contract, the goods were delivered or should
+         have been delivered, 
+      
+–        in the case of the provision of services, the place in a Member State where, under the contract, the services were provided
+         or should have been provided,
+      
+(c)       if subparagraph (b) does not apply then subparagraph (a) applies’.
+Article 60(1) of Regulation No 44/provides: 
+      
+‘For the purposes of this Regulation, a company or other legal person or association of natural or legal persons is domiciled
+         at the place where it has its:
+      
+(a)      statutory seat, or
+(b)      central administration, or
+(c)      principal place of business.’
+Article 71(1) of Regulation No 44/states: 
+      
+‘This Regulation shall not affect any conventions to which the Member States are parties and which, in relation to particular
+         matters, govern jurisdiction or the recognition or enforcement of judgments.’
+      
+Regulation (EC) No 261/of the European Parliament and of the Council of February establishing common rules on
+         compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and
+         repealing Regulation (EEC) No 295/(OJ L 46, p. 1) lays down the principle of compensation of passengers in the context
+         of international air transport in the case where a flight is cancelled. Article of that regulation, entitled ‘Cancellation’,
+         states: 
+      
+‘1.      In case of cancellation of a flight, the passengers concerned shall:
+…
+(c)      have the right to compensation by the operating air carrier in accordance with Article 7, unless … they are informed of the
+         cancellation …’
+      
+Article 7(1) of Regulation No 261/2004, entitled ‘Right to compensation’, provides:
+      
+‘Where reference is made to this Article, passengers shall receive compensation amounting to:
+(a)      EUR for all flights of kilometres or less;
+…’
+Article 12(1) of Regulation No 261/states: 
+      
+‘This Regulation shall apply without prejudice to a passenger’s rights to further compensation. The compensation granted under
+         this Regulation may be deducted from such compensation’.
+      
+ The Montreal Convention
+The Convention for the Unification of Certain Rules for International Carriage by Air, concluded in Montreal on May (‘the Montreal Convention’), was signed by the European Community on December 1999, approved on its behalf by Council Decision
+         2001/539/EC of April (OJ L 194, p. 38) and entered into force, so far as the Community is concerned, on June
+         2004. Article of that Convention, entitled ‘Delay’, provides:
+      
+‘The carrier is liable for damage occasioned by delay in the carriage by air of passengers, baggage or cargo. …’
+Article 33(1) of the Montreal Convention, entitled ‘Jurisdiction’, is worded as following:
+      
+‘An action for damages must be brought, at the option of the plaintiff, in the territory of one of the States Parties, either
+         before the court of the domicile of the carrier or of its principal place of business, or where it has a place of business
+         through which the contract has been made or before the court at the place of destination.’
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+Mr Rehder, who resides in Munich, booked a flight from Munich to Vilnius with Air Baltic, the registered office of which is
+         in Riga (Latvia). The distance between Munich and Villnius is slightly less that kilometres. Approximately minutes
+         before the scheduled time of departure from Munich, passengers were informed that their flight had been cancelled. After his
+         booking had been changed by Air Baltic, the applicant took a flight via Copenhagen to Vilnius, where he arrived more than
+         six hours after the flight which he had initially booked should have landed. 
+      
+By an application to the Amtsgericht Erding, the court having territorial jurisdiction over Munich airport, Mr Rehder requested
+         that Air Baltic be ordered to pay him compensation in the amount of EUR in accordance with Articles 5(1)(c) and 7(1)(a)
+         of Regulation No 261/2004. Holding that the air transport services are provided at the aircraft’s place of departure, which
+         implies that the place of performance of the contractual obligation, within the terms of the second indent of Article 5(1)(b)
+         of Regulation No 44/2001, is that of the airport of departure, in this case Munich airport, the Amtsgericht Erding held that
+         it had jurisdiction to deal with Mr Rehder’s claim for compensation.
+      
+In an appeal by Air Baltic against that decision, the Oberlandesgericht München, taking the view that air transport services
+         are provided at the place where the company operating the flight has its head office, overturned the decision of the first-instance
+         court. Mr Rehder appealed to the Bundesgerichtshof on a point of law against the judgment of the Oberlandesgericht.
+      
+The referring court observes that the question whether the Amtsgericht Erding has jurisdiction in the circumstances of this
+         case depends on the interpretation of the second indent of Article 5(1)(b) of Regulation No 44/2001. It maintains, with regard
+         to the first indent of that provision, which deals with the sale of goods, that the Court of Justice first of all held that
+         that rule of special jurisdiction in matters relating to a contract establishes the place of delivery as the autonomous linking
+         factor to apply to all claims founded on one and the same contract for the sale of goods rather than merely to the claims
+         founded on the obligation of delivery itself (Case C‑386/Color Drack [2007] ECR I-3699, paragraph 26). The Court then went on to hold that that rule is also applicable where there are several
+         places of delivery of the goods and that in that case ‘place of performance’ must be understood as the place with the closest
+         linking factor, which, as a general rule, will be at the place of the principal delivery, which must be determined on the
+         basis of economic criteria (Color Drack, paragraph 40). The Court finally held that, if it is not possible to determine the place of principal delivery, each of
+         the places of delivery has a sufficiently close link of proximity to the material elements of the dispute and, accordingly,
+         a significant link as regards jurisdiction. In such a case, the applicant may sue the defendant in the court for the place
+         of delivery of his choice (Color Drack, paragraph 42).
+      
+However, the Bundesgerischtshof points out that the Court also expressly stated at paragraph of Color Drack that its considerations applied solely to the case where there are several places of delivery within a single Member State
+         and were without prejudice to the answer to be given where there are several places of delivery in a number of Member States.
+      
+The Bundesgerichtshof is thus unsure whether, regard being had to the objectives of Regulation No 44/2001, according to which
+         the rules on jurisdiction should be harmonised and made predictable and according to which a single place of performance should
+         be identified, if possible in the place presenting the closest connection between the dispute and the court having jurisdiction,
+         the second indent of Article 5(1)(b) of Regulation No 44/should not be interpreted in the same way and, generally, whether
+         jurisdiction in legal disputes concerning contractual obligations arising from contracts relating to air transport should
+         not be concentrated in a single place of performance, despite the fact that, within the framework of such a contract, it is
+         not easy to determine unequivocally the place where the services are mainly provided.
+      
+In the light of the foregoing, the Bundesgerichtshof decided to stay the proceedings and to refer the following questions
+         to the Court for a preliminary ruling:
+      
+‘1.      Is the second indent of Article 5(1)(b) of Regulation [No 44/2001] to be interpreted as meaning that in the case also of journeys
+         by air from one Member State to another Member State, the single place of performance for all contractual obligations must
+         be taken to be the place of the main provision of services, determined according to economic criteria?
+      
+2.      Where a single place of performance is to be determined: what criteria are relevant for its determination; is the single place
+         of performance determined, in particular, by the place of departure or the place of arrival of the aircraft?’
+      
+ The questions referred for a preliminary ruling
+Before examining the questions referred by the Bundesgerichtshof, it should be noted, as a preliminary point, that some of
+         the observations submitted to the Court raised the question of the applicability, in a situation such as that which arises
+         in the main proceedings, of Article of the Montreal Convention for the purpose of determining which court has jurisdiction.
+      
+In that regard, the right which the applicant in the main proceedings relies on in the present case, which is based on Article
+         of Regulation No 261/2004, is a passenger’s right to a standardised and lump-sum payment following the cancellation of a
+         flight, a right which is independent of compensation for damage in the context of Article of the Montreal Convention (see
+         Case C‑344/IATA and ELFAA [2006] ECR I‑403, paragraphs to 46). The rights based respectively on those provisions of Regulation No 261/and of
+         the Montreal Convention accordingly fall within different regulatory frameworks. 
+      
+It follows that, since it was introduced on the basis of Regulation No 261/alone, the claim in the main proceedings must
+         be examined in the light of Regulation No 44/2001.
+      
+By its questions, which it is appropriate to examine together, the referring court essentially asks the Court to specify how
+         the words ‘the place in a Member State where, under the contract, the services were provided or should have been provided’
+         in the second indent of Article 5(1)(b) of Regulation No 44/are to be interpreted in the case of the air transport of
+         persons from one Member State to another, in the context of a claim for compensation based on Regulation No 261/2004.
+      
+In reality, by those questions, the Court is being asked whether, in the case of a provision of services such as those at
+         issue in the main proceedings, the same interpretation should be given to those words as that which the Court gave to the
+         first indent of Article 5(1)(b) in Color Drack, in the case where there are several places of delivery within a single Member State.
+      
+In paragraph of Color Drack, in order to answer the question posed, the Court based itself on the origins, objectives and scheme of Regulation No 44/2001.
+      
+In that context, the Court noted, first, that the rule of special jurisdiction set out in Article 5(1) of Regulation No 44/in matters relating to a contract, which complements the rule that jurisdiction is generally based on the defendant’s domicile,
+         reflects an objective of proximity and the reason for that rule is the existence of a close link between the contract and
+         the court called upon to hear and determine the case (Color Drack, paragraph 22).
+      
+The Court next noted that, regarding the place of performance of the obligations arising from contracts for the sale of goods,
+         Regulation No 44/2001, in the first indent of Article 5(1)(b), defines that criterion of a link autonomously, in order to
+         reinforce the objectives of unification of the rules of jurisdiction and predictability. Accordingly, in such cases the place
+         of delivery of the goods is established as the autonomous linking factor to apply to all claims founded on one and the same
+         contract of sale (Color Drack, paragraphs and 26).
+      
+In the light of the objectives of proximity and predictability, the Court held that the rule set out in the first indent of
+         Article 5(1)(b) of Regulation No 44/is also applicable where there are several places of delivery of goods within a single
+         Member State, since one court must have jurisdiction to hear all the claims arising out of the contract (Color Drack, paragraphs and 38).
+      
+Finally, where there are several places of delivery of the goods in a single Member State, the Court took the view that the
+         place with the closest linking factor between the contract and the court having jurisdiction is that of the principal delivery,
+         which must be determined on the basis of economic criteria, and that, if it is not possible to determine the place of the
+         principal delivery, each of the places of delivery has a sufficiently close link of proximity to the material elements of
+         the dispute, in which case the applicant may sue the defendant in the court for the place of delivery of his choice (Color Drack, paragraphs and 42).
+      
+The factors on which the Court based itself in order to arrive at the interpretation set out in Color Drack are also valid with regard to contracts for the provision of services, including the cases where such provision is not effected
+         in one single Member State. The rules of special jurisdiction provided for by Regulation No 44/for contracts for the
+         sale of goods and the provision of services have the same origin, pursue the same objectives and occupy the same place in
+         the scheme established by that regulation.
+      
+Where the services in question are provided at several places in different Member States, a differentiated approach cannot
+         be applied to the objectives of proximity and predictability, which are pursued by the centralisation of jurisdiction in the
+         place of the provision of services under the contract at issue and by the determination of sole jurisdiction for all claims
+         arising out of that contract. Apart from the fact that there is no basis for it in the provisions of Regulation No 44/2001,
+         such a differentiated approach would contradict the objectives for which it was adopted, which, through the unification of
+         the rules governing conflict of jurisdiction in civil and commercial matters, contributes to the development of an area of
+         freedom, security and justice, as well as to the proper functioning of the internal market within the Community (see recitals
+         and in the preamble to Regulation No 44/2001). 
+      
+Consequently, where there are several places at which services are provided in different Member States, it is also necessary
+         to identify the place with the closest linking factor between the contract in question and the court having jurisdiction,
+         in particular the place where, pursuant to that contract, the main provision of services is to be carried out.
+      
+In that regard, it must be noted at the outset that, as has been pointed out by the national court, the place of the registered
+         office or the principal place of establishment of the airline concerned does not have the necessary close link to the contract.
+         The operations and activities undertaken from that place, such as, in particular, the provision of an adequate aircraft and
+         crew, are logistical and preparatory measures for the purpose of carrying out a contract relating to air transport and are
+         not services the provision of which is linked to the actual content of the contract. The same is true with regard to the place
+         where the contract for air transport is concluded and the place where the ticket is issued.
+      
+The services the provision of which corresponds to the performance of obligations arising from a contract to transport passengers
+         by air are the checking-in and boarding of passengers, the on-board reception of those passengers at the place of take-off
+         agreed in the transport contract in question, the departure of the aircraft at the scheduled time, the transport of the passengers
+         and their luggage from the place of departure to the place of arrival, the care of passengers during the flight, and, finally,
+         the disembarkation of the passengers in conditions of safety at the place of landing and at the time scheduled in that contract.
+         From that point of view, places where the aircraft may stop over also do not have a sufficient link to the essential nature
+         of the services resulting from that contract.
+      
+The only places which have a direct link to those services, provided in performance of obligations linked to the subject-matter
+         of the contract, are those of the departure and arrival of the aircraft, since the words ‘places of departure and arrival’
+         must be understood as agreed in the contract of carriage in question, made with one sole airline which is the operating carrier.
+      
+It must, however, be pointed out in that regard that, unlike deliveries of goods to different locations, which are distinct
+         and quantifiable operations for the purpose of determining the principal delivery on the basis of economic criteria, air transport
+         consists, by its very nature, of services provided in an indivisible and identical manner from the place of departure to that
+         of arrival of the aircraft, with the result that a separate part of the service which is the principal service, which is to
+         be provided in a specific place, cannot be distinguished in such cases on the basis of an economic criterion.
+      
+In those circumstances, both the place of arrival and the place of departure of the aircraft must be considered, in the same
+         respect, as the place of provision of the services which are the subject of an air transport contract.
+      
+Each of those two places has a sufficiently close link of proximity to the material elements of the dispute and, accordingly,
+         the close connection required by the rules of special jurisdiction set out in Article 5(1) of Regulation No 44/2001. Accordingly,
+         a person claiming compensation on the basis of Regulation No 261/may sue, as a matter of choice which he must make, the
+         defendant in the court in whose jurisdiction one of those places may be found on the basis of the second indent of Article
+         5(1)(b) of Regulation No 44/2001.
+      
+Such a choice granted to the applicant, apart from respecting the criterion of proximity, also satisfies the requirement of
+         predictability, in so far as it allows the applicant, as well as the defendant, easily to identify the courts before which
+         proceedings may be brought. What is more, it is consistent with the objective of legal certainty, since the applicant’s choice
+         is limited to two possible judicial fora within the framework of the second indent of Article 5(1)(b) of Regulation No 44/2001.
+         It must also be borne in mind that the applicant retains the option of bringing the matter before the courts of the defendant’s
+         domicile, as provided for by Article 2(1) of Regulation No 44/2001, that is to say, in the circumstances of the present case,
+         pursuant to Article 60(1) of that regulation, the court with the jurisdictional district of which the air carrier has its
+         registered office, central administration or principal place of business, which is in conformity with Article of the Montreal
+         Convention.
+      
+Furthermore, such a choice for an applicant, even when it concerns courts situated in different Member States, is also recognised
+         by the Court’s established case-law, in the context of the special jurisdiction in tort, delict or quasi-delict, provided
+         for in Article 5(3) of the Brussels Convention and also reiterated in Article 5(3) of Regulation No 44/(see, inter alia,
+         Case 21/Bier ‘Mines de potasse d’Alsace’ [1976] ECR 1735, paragraphs and 25, and Case C-168/Kronhofer [2004] ECR I-6009, paragraph and the case-law cited).
+      
+Regard being had to all of the foregoing considerations, the answer to the questions referred is that the second indent of
+         Article 5(1)(b) of Regulation No 44/must be interpreted as meaning that, in the case of air transport of passengers from
+         one Member State to another Member State, carried out on the basis of a contract with only one airline, which is the operating
+         carrier, the court having jurisdiction to deal with a claim for compensation founded on that transport contract and on Regulation
+         No 261/is that, at the applicant’s choice, which has territorial jurisdiction over the place of departure or place of
+         arrival of the aircraft, as those places are agreed in that contract.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Fourth Chamber) hereby rules:
+The second indent of Article 5(1)(b) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition
+            and enforcement of judgments in civil and commercial matters must be interpreted as meaning that, in the case of air transport
+            of passengers from one Member State to another Member State, carried out on the basis of a contract with only one airline,
+            which is the operating carrier, the court having jurisdiction to deal with a claim for compensation founded on that transport
+            contract and on Regulation (EC) No 261/of the European Parliament and of the Council of February establishing
+            common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay
+            of flights, and repealing Regulation (EEC) No 295/91, is that, at the applicant’s choice, which has territorial jurisdiction
+            over the place of departure or place of arrival of the aircraft, as those places are agreed in that contract.
+[Signatures]
+* Language of the case: German.
+      
+Top  

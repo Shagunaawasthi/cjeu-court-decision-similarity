@@ -1,0 +1,994 @@
+
+Joined Cases C-201/P and C-216/P
+ArcelorMittal Luxembourg SA
+v
+European Commission
+and
+European Commission
+v
+ArcelorMittal Luxembourg SA, formerly Arcelor Luxembourg SA, and Others
+(Appeal – Competition – Agreements, decisions and concerted practices – Community market in steel beams – Decision finding an infringement of Article CS after the expiry of the ECSC Treaty on the basis of Regulation (EC) No
+         1/– Powers of the Commission – Attributability of the unlawful conduct – Res judicata – Rights of the defence – Limitation period – Suspension of the limitation period – Effect erga omnes or inter partes – No statement of reasons)
+      
+Summary of the Judgment
+1.        Competition – Agreements, decisions and concerted practices – Agreements subject ratione materiae and ratione temporis to
+            the legal system of the ECSC Treaty – Expiry of the ECSC Treaty – Continuation of supervisory action by the Commission on
+            the basis of Regulation No 1/(Art. 65(1) CS; Council Regulation No 1/2003)
+2.        Acts of the institutions – Temporal application – Expiry of the ECSC Treaty – Commission decision adopted against an undertaking
+            after the expiry of the ECSC Treaty and relating to acts prior to the expiry of that treaty – Principles of legal certainty
+            and the protection of legitimate expectations – Scope – Liability of undertakings for their conduct in breach of the rules
+            on competition in the context of the succession of the legal framework of the EC Treaty to that of the ECSC Treaty – Substantive
+            rules – Procedural rules
+(Art. 65(1) CS; Council Regulation No 1/2003, Arts 7(1) and 23(2))
+3.        Competition – European Union rules – Infringements – Attribution – Parent company and subsidiaries – Economic unit – Criteria
+            for assessment – Presumption of decisive influence of the parent company over its wholly owned subsidiaries
+(Arts and EC; Council Regulation No 1/2003, Art. 23(2))
+4.        Competition – Administrative procedure – Observance of the rights of the defence – Excessive length of the administrative
+            procedure – Disappearance of evidence of relevance to the exercise of the rights of the defence – Burden of proof
+(Council Regulation No 1/2003)
+5.        Competition – Administrative procedure – Limitation period with regard to proceedings – Suspension – Commission decision the
+            subject of proceedings pending before the Court of Justice – Scope
+(Council Regulation No 1/2003, Arts 23, 25(3) and (6) and 26(2); Decision No 715/78, Arts 2, and 4(2))
+1.        In accordance with a principle common to the legal systems of the Member States, the origins of which may be traced back to
+         Roman law, when legislation is amended, unless the legislature expresses a contrary intention, continuity of the legal system
+         must be ensured. That principle applies to amendments to the primary law of the European Union.
+      
+There is no indication that the European Union legislature wished it to be possible for concerted practices prohibited under
+         the ECSC Treaty to escape the application of all penalties after that treaty expired. The succession of the ECSC, EC and FEU
+         Treaties ensures, in order to guarantee free competition, that any conduct corresponding to the factual elements set out in
+         Article 65(1) CS, whether taking place before or after the expiry of the ECSC Treaty on July 2002, could be and still can
+         be penalised by the Commission.
+      
+In those circumstances, it would be contrary to the objectives and the coherence of the Treaties and irreconcilable with the
+         continuity of the legal order of the European Union if the Commission did not have jurisdiction to ensure the uniform application
+         of the rules deriving from the ECSC Treaty which continue to produce effects even after the expiry of that treaty. The General
+         Court does not therefore err in law by interpreting Regulation No 1/as enabling the Commission to find and penalise,
+         after the expiry of the ECSC Treaty, agreements between undertakings arrived at in the sectors falling within the scope of
+         the ECSC Treaty ratione materiae and ratione temporis.
+      
+(see paras 62-66)
+2.        The principle of legal certainty requires that European Union rules enable those concerned to know precisely the extent of
+         the obligations which are imposed on them, and that those persons must be able to ascertain unequivocally what their rights
+         and obligations are and take steps accordingly. In this respect, in so far as the Treaties define clearly the infringements
+         and the nature and extent of the penalties which can be imposed on undertakings for infringements of the rules on competition,
+         the principles of legal certainty and the protection of legitimate expectations do not aim to guarantee to undertakings that
+         subsequent amendments to the legal bases and procedural rules will enable them to escape all penalties relating to their past
+         infringements.
+      
+In the case of a Commission decision concerning a legal situation which was definitively established before the expiry of
+         the ECSC Treaty, adopted against an undertaking after the expiry of that treaty, the General Court does not err in law by
+         holding, first, that compliance with the principles governing the temporal application of the law and the requirements relating
+         to the principles of legal certainty and the protection of legitimate expectations require the application of the substantive
+         provisions of Article 65(1) and (5) CS to facts which occurred before the expiry of the ECSC Treaty and fall within the scope
+         of that treaty ratione materiae and ratione temporis. In this respect, Article 65(1) and (5) CS provided a clear legal basis for imposing a penalty for infringement of the rules
+         on competition, so that a diligent undertaking could not at any time be unaware of the consequences of its conduct or count
+         on the fact that the succession of the legal framework of the EC Treaty to that of the ECSC Treaty would have the consequence
+         of allowing it to escape all penalties for infringements of Article CS committed in the past.
+      
+As regards, secondly, the procedural rules applicable, the General Court was right to hold that the Commission has power to
+         conduct the procedure pursuant to Articles 7(1) and 23(2) of Regulation No 1/2003. The provision which forms the legal basis
+         of an act and empowers the Union institution to adopt the act in question must be in force at the time when the act is adopted,
+         and procedural rules are generally held to apply from the time of their entry into force.
+      
+(see paras 67-70, 73-75)
+3.        The concept of an undertaking covers any entity engaged in an economic activity, regardless of its legal status and the way
+         in which it is financed. The Court has stated that, in the context of European Union competition law, the term ‘undertaking’
+         must be understood as designating an economic unit even if in law that economic unit consists of several natural or legal
+         persons, and that when such an economic entity infringes the competition rules, it is for that entity, according to the principle
+         of personal responsibility, to answer for that infringement.
+      
+The conduct of a subsidiary may be attributed to the parent company in particular where, although having a separate legal
+         personality, that subsidiary does not determine independently its own conduct on the market, but essentially carries out the
+         instructions given to it by the parent company, having regard especially to the economic, organisational and legal links between
+         those two legal entities. In the particular case of a parent company having a 100% shareholding in a subsidiary which has
+         infringed the rules on competition, the parent company is able to exercise decisive influence over the conduct of its subsidiary,
+         and there is a rebuttable presumption that the parent company does in fact exercise decisive influence over the conduct of
+         the subsidiary.
+      
+In those circumstances, it is sufficient for the Commission to prove that the subsidiary is wholly owned by the parent company
+         in order to avail itself of the presumption that the parent exercises decisive influence over the commercial policy of the
+         subsidiary. The Commission will then be able to regard the parent company as jointly and severally liable for payment of the
+         fine imposed on its subsidiary, unless the parent company, which has the burden of rebutting that presumption, adduces sufficient
+         evidence to show that its subsidiary acts independently on the market. Other circumstances, such as the fact that it is not
+         disputed that the parent company exercises influence over the commercial policy of its subsidiary and the fact that both companies
+         are jointly represented during the administrative procedure, may be taken into account by the European Union judicature, but
+         are not conditions for the application of that presumption.
+      
+(see paras 95-99)
+4.        It is for an undertaking which submits that the excessive length of the administrative procedure has had an impact on the
+         exercise of its rights of defence to demonstrate to the requisite legal standard that, because of that excessive length, it
+         experienced difficulties in defending itself against the Commission’s allegations.
+      
+A diligent company which is the addressee of a Commission decision contested by it and was a party to earlier proceedings
+         before the European Union judicature should preserve the documents necessary for its defence. Failing that, it should indicate
+         in detail, if not the specific items of evidence that have disappeared, at least the incidents, events or circumstances which
+         prevented it, during the period in question, from complying with its obligation of diligence and brought about the alleged
+         disappearance of the evidence alluded to. Only by examining such specific indications can the European Union judicature assess
+         whether the undertaking has shown to the requisite legal standard that it experienced the alleged difficulties in defending
+         itself against the Commission’s claims as a result of the excessive length of the administrative procedure, or whether those
+         difficulties in fact derive from a failure to comply with its obligation of diligence.
+      
+(see paras 118, 120-122)
+5.        It is the very fact that an action is pending before the General Court or the Court of Justice that justifies the suspension
+         of the limitation period. If an addressee of a Commission decision imposing a fine for an infringement of the competition
+         rules decides to bring an action for annulment, the matter to be tried by the European Union judicature relates only to those
+         aspects of the decision which concern that addressee. Unchallenged aspects concerning other addressees, on the other hand,
+         do not form part of the matter to be tried by the Union judicature.
+      
+In accordance with Article 4(2) of Decision No 715/concerning limitation periods in proceedings and the enforcement of
+         sanctions under the Treaty establishing the European Coal and Steel Community and Article 26(2) of Regulation No 1/2003, the
+         limitation period for enforcement runs from the date on which the decision becomes final. The Court has explained that that
+         limitation period therefore runs from expiry of the period for bringing an action against the decision on the infringement
+         and the fine, if no action has been brought. It follows, first, that, with respect to undertakings which have not brought
+         actions against a final decision of the Commission imposing a fine on them under Article CS or Article of Regulation
+         No 1/2003, that decision becomes final and, secondly, that that finality starts time running against them for the enforcement
+         of the decision, as laid down by Article of Decision No 715/and Article of Regulation No 1/2003. Consequently, with
+         respect to those undertakings, an action brought by another undertaking against the same final decision cannot have any suspensive
+         effect.
+      
+Moreover, both the wording of Article of Decision No 715/and Article 25(6) of Regulation No 1/and the objectives
+         pursued by those articles cover actions brought against those acts referred to in Article of Decision No 715/and Article
+         25(3) of Regulation No 1/against which actions lie, as well as actions brought against the Commission’s final decision.
+         Consequently, since Article of Decision No 715/and Article 25(6) of Regulation No 1/do not draw any distinctions
+         as regards decisions to which suspensive effect is attached, erga omnes effect need not be attached to actions brought against the acts referred to in Article of Decision No 715/and Article
+         25(3) of Regulation No 1/against which actions lie.
+      
+(see paras 141-147)
+  
+  
+JUDGMENT OF THE COURT (Grand Chamber)
+March (*)
+      
+(Appeals – Competition – Agreements, decisions and concerted practices – Community market in steel beams – Decision finding an infringement of Article CS after the expiry of the ECSC Treaty on the basis of Regulation (EC) No
+         1/– Powers of the Commission – Attributability of the unlawful conduct – Res judicata – Rights of the defence – Limitation period – Suspension of the limitation period – Effect erga omnes or inter partes – No statement of reasons)
+      
+Table of contents
+I –  Legal context
+A –  Provisions of the ECSC Treaty
+B –  Provisions of the EC Treaty
+C –  Regulation (EC) No 1/D –  Provisions on limitation periods in proceedings
+II –  Background to the dispute
+III –  Procedure before the General Court and the judgment under appeal
+IV –  Procedure before the Court
+V –  Forms of order sought by the parties
+VI –  The application for the oral procedure to be reopened
+VII –  The appeals
+A –  The appeal by ARBED (C‑201/P)
+1.  First ground of appeal: breaches of Article CS and Regulation No 1/2003, misuse of powers, error of law and failure
+         to state reasons
+      
+a)  Arguments of the parties
+b)  Findings of the Court
+2.  Second ground of appeal: breach of the principle of the legal personality of companies and the principle that penalties
+         must fit the offence, failure to state reasons, incorrect interpretation and application of the case-law on the attributability
+         of the conduct of a wholly-owned subsidiary to the parent company, and breach of the principle of res judicata
+      
+a)  Admissibility and effectiveness of the ground of appeal
+i)  Arguments of the parties
+ii)  Findings of the Court
+b)  Substance
+i)  Arguments of the parties
+ii)  Findings of the Court
+3.  Third ground of appeal: breach of the rules on limitation periods and the principle of res judicata and failure to state
+         reasons
+      
+a)  Arguments of the parties
+b)  Findings of the Court
+4.  Fourth ground of appeal: failure to state reasons and breaches of the rights of the defence and the principle of res judicata
+a)  Arguments of the parties
+b)  Findings of the Court
+B –  The appeal by the Commission (C‑216/P): single ground of appeal alleging errors of law in the interpretation of Decision
+         No 715/1.  Arguments of the parties
+2.  Findings of the Court
+VIII –  Costs
+In Joined Cases C‑201/P and C‑216/P,
+APPEALS under Article of the Statute of the Court of Justice, brought on and June respectively,
+ArcelorMittal Luxembourg SA, formerly Arcelor Luxembourg SA, established in Luxembourg (Luxembourg), represented by A. Vandencasteele and C. Falmagne,
+         avocats (C‑201/P),
+      
+appellant,
+the other parties to the proceedings being:
+European Commission, represented by F. Castillo de la Torre and E. Gippini Fournier, acting as Agents, with an address for service in Luxembourg,
+      
+defendant at first instance,
+ArcelorMittal Belval & Differdange SA, formerly Arcelor Profil Luxembourg SA, established in Esch-sur-Alzette (Luxembourg),
+      
+ArcelorMittal International SA, formerly Arcelor International SA, established in Luxembourg (Luxembourg),
+      
+applicants at first instance,
+and
+European Commission, represented by F. Castillo de la Torre, X. Lewis and E. Gippini Fournier, acting as Agents, with an address for service in
+         Luxembourg (C‑216/P),
+      
+appellant,
+the other parties to the proceedings being:
+ArcelorMittal Luxembourg SA, formerly Arcelor Luxembourg SA, established in Luxembourg,
+      
+ArcelorMittal Belval & Differdange SA, formerly Arcelor Profil Luxembourg SA, established in Esch-sur-Alzette, represented by A. Vandencasteele, avocat,
+      
+ArcelorMittal International SA, formerly Arcelor International SA, established in Luxembourg, represented by A. Vandencasteele, avocat,
+      
+applicants at first instance,
+THE COURT (Grand Chamber),
+composed of V. Skouris, President, A. Tizzano, J.N. Cunha Rodrigues, K. Lenaerts, J.‑C. Bonichot, K. Schiemann, A. Arabadjiev
+         (Rapporteur) and J.‑J. Kasel, Presidents of Chambers, E. Juhász, G. Arestis, A. Borg Barthet, T. von Danwitz and C. Toader,
+         Judges,
+      
+Advocate General: Y. Bot,
+Registrar: R. Şereş, Administrator,
+having regard to the written procedure and further to the hearing on June 2010,
+after hearing the Opinion of the Advocate General at the sitting on October 2010,
+gives the following
+Judgment
+By their appeals, ArcelorMittal Luxembourg SA, formerly Arcelor Luxembourg SA (C‑201/P), the European Commission (C‑216/P)
+         and, by way of cross-appeal, ArcelorMittal Belval & Differdange SA, formerly Arcelor Profil Luxembourg SA, and ArcelorMittal
+         International SA, formerly Arcelor International SA, (C‑216/P) ask the Court to set aside in part the judgment of the Court
+         of First Instance of the European Communities (now ‘the General Court’) in Case T‑405/ArcelorMittal Luxembourg and Others v Commission [2009] ECR II‑(‘the judgment under appeal’) annulling in part Commission Decision C(2006) final of November relating to a proceeding under Article of the ECSC Treaty concerning agreements and concerted practices engaged in by European
+         producers of beams (Case COMP/F/38.– Steel beams), a summary of which was published in the Official Journal of the European Union of September (OJ C 235, p. 4; ‘the contested decision’).
+      
+By the contested decision, the Commission found that the undertaking made up of ArcelorMittal Luxembourg SA, ArcelorMittal
+         Belval & Differdange SA and ArcelorMittal International SA had from July to January participated in a series
+         of agreements and concerted practices whose purpose or effect was to fix prices, allocate quotas, and exchange information
+         on a large scale in the Community steel beams market, contrary to Article 65(1) CS, and imposed on those companies jointly
+         and severally a fine of EUR million for those infringements.
+      
+I –  Legal context
+A –  Provisions of the ECSC Treaty
+Article CS provided:
+      
+‘1.      All agreements between undertakings, decisions by associations of undertakings and concerted practices tending directly or
+         indirectly to prevent, restrict or distort normal competition within the common market shall be prohibited, and in particular
+         those tending:
+      
+(a)      to fix or determine prices;
+(b)      to restrict or control production, technical development or investment;
+(c)      to share markets, products, customers or sources of supply.
+…
+4.      Any agreement or decision prohibited by paragraph of this Article shall be automatically void and may not be relied upon
+         before any court or tribunal in the Member States.
+      
+The Commission shall have sole jurisdiction, subject to the right to bring actions before the Court, to rule whether any such
+         agreement or decision is compatible with this Article.
+      
+5.      On any undertaking which has entered into an agreement which is automatically void, or has enforced or attempted to enforce,
+         by arbitration, penalty, boycott or by any other means, an agreement or decision which is automatically void or an agreement
+         for which authorisation has been refused or revoked, or has obtained an authorisation by means of information which it knew
+         to be false or misleading, or has engaged in practices prohibited by paragraph of this Article, the Commission may impose
+         fines or periodic penalty payments not exceeding twice the turnover on the products which were the subject of the agreement,
+         decision or practice prohibited by this Article; if, however, the purpose of the agreement, decision or practice is to restrict
+         production, technical development or investment, this maximum may be raised to 10% of the annual turnover of the undertakings
+         in question in the case of fines, and 20% of the daily turnover in the case of periodic penalty payments.’
+      
+In accordance with Article CS, the ECSC Treaty expired on July 2002.
+      
+B –  Provisions of the EC Treaty
+Article 305(1) EC provided:
+      
+‘The provisions of this Treaty shall not affect the provisions of the Treaty establishing the European Coal and Steel Community,
+         in particular as regards the rights and obligations of Member States, the powers of the institutions of that Community and
+         the rules laid down by that Treaty for the functioning of the common market in coal and steel.’
+      
+C –  Regulation (EC) No 1/Under Article of Council Regulation (EC) No 1/of December on the implementation of the rules on competition
+         laid down in Articles and of the [EC] Treaty (OJ L 1, p. 1), ‘[f]or the purpose of applying Articles [EC] and
+         [EC], the Commission shall have the powers provided for by this Regulation’.
+      
+Article of Regulation No 1/2003, headed ‘Finding and termination of infringement’, provides:
+      
+‘1.      Where the Commission, acting on a complaint or on its own initiative, finds that there is an infringement of Article [EC]
+         or of Article [EC], it may by decision require the undertakings and associations of undertakings concerned to bring such
+         infringement to an end. … If the Commission has a legitimate interest in doing so, it may also find that an infringement has
+         been committed in the past.
+      
+…’
+Under Article 23(2)(a) of Regulation No 1/2003, the Commission may by decision impose fines on undertakings and associations
+         of undertakings where, either intentionally or negligently, they infringe Article EC or EC.
+      
+D –  Provisions on limitation periods in proceedings
+Article 1(1) of Commission Decision No 715/78/ECSC of April concerning limitation periods in proceedings and the enforcement
+         of sanctions under the Treaty establishing the European Coal and Steel Community (OJ L 94, p. 22) and Article 25(1) of
+         Regulation No 1/subject the Commission’s power to impose fines for infringements of the provisions of competition law,
+         in principle, to a limitation period of five years.
+      
+Article 1(2) of Decision No 715/and Article 25(2) of Regulation No 1/provide that time is to begin to run on the day
+         on which the infringement is committed. However, in the case of continuing or repeated infringements, time is to begin to
+         run on the day on which the infringement ceases.
+      
+Article 2(1) of Decision No 715/and Article 25(3) of Regulation No 1/state that any action taken by the Commission
+         for the purpose of the preliminary investigation or proceedings in respect of an infringement is to interrupt the limitation
+         period. The limitation period is to be interrupted with effect from the date on which the action is notified to at least one
+         undertaking which has participated in the infringement. Actions which interrupt the running of the period are to include in
+         particular the following: 
+      
+–        written requests for information by the Commission or Commission decisions requiring the requested information; 
+–        written authorisations to carry out investigations issued to its officials by the Commission or a Commission decision ordering
+         an investigation; 
+      
+–        the initiation of proceedings by the Commission; 
+–        notification of the statement of objections of the Commission. 
+Article 2(2) of Decision No 715/and Article 25(4) of Regulation No 1/provide that the interruption of the limitation
+         period is to apply for all undertakings which have participated in the infringement.
+      
+In accordance with Article 2(3) of Decision No 715/and Article 25(5) of Regulation No 1/2003, each interruption is to start
+         time running afresh. However, the limitation period is to expire at the latest on the day on which a period equal to twice
+         the limitation period has elapsed without the Commission having imposed a fine or a periodic penalty payment. That period
+         is to be extended by the time during which limitation is suspended.
+      
+Under Article of Decision No 715/and Article 25(6) of Regulation No 1/2003, the limitation period in proceedings is to
+         be suspended for as long as the decision of the Commission is the subject of proceedings pending before the Court.
+      
+It follows from Article of Decision No 715/and Article 26(1) and (2) of Regulation No 1/that the Commission’s power
+         to enforce decisions imposing fines under the provisions of the ECSC Treaty or Article of Regulation No 1/is subject
+         to a limitation period of five years, with time running from the day on which the decision becomes final.
+      
+II –  Background to the dispute
+The facts of the dispute, as set out in paragraphs to of the judgment under appeal, may be summarised as follows.
+      
+ARBED SA, which has changed its company name to become Arcelor Luxembourg SA and then ArcelorMittal Luxembourg SA (‘ARBED’),
+         manufactured steel products.
+      
+TradeARBED SA, which has changed its company name to become Arcelor International SA and then ArcelorMittal International
+         SA (‘TradeARBED’), was set up as a wholly-owned subsidiary of ARBED and distributed the steel products manufactured by ARBED.
+      
+ProfilARBED SA, which has changed its company name to become Arcelor Profil Luxembourg SA and then ArcelorMittal Belval &
+         Differdange SA (‘ProfilARBED’), was formed on November as a wholly-owned subsidiary of ARBED in order to carry out
+         from that date ARBED’s economic and industrial activities in the beams sector.
+      
+In the Commission, on the basis of decisions adopted pursuant to Article CS, carried out inspections at the offices
+         of various undertakings, including TradeARBED. On May it sent a statement of objections to the undertakings concerned,
+         which did not include ARBED or ProfilARBED but did include TradeARBED. TradeARBED attended a hearing which was held from to January 1993.
+      
+By Decision 94/215/ECSC of February relating to a proceeding pursuant to Article of the ECSC Treaty concerning
+         agreements and concerted practices engaged in by European producers of beams (OJ L 116, p. 1; ‘the initial decision’),
+         the Commission found that European steel undertakings, including TradeARBED, had participated in a series of agreements,
+         decisions and concerted practices designed to fix prices, share markets and exchange confidential information on the market
+         for beams in the Community, in breach of Article 65(1) CS, and it imposed fines on undertakings operating in that sector,
+         including ARBED (ECU 000), for infringements committed between July and December 1990.
+      
+By judgment of March in Case T‑137/ARBED v Commission [1999] ECR II‑303, the General Court dismissed the action brought by ARBED for annulment of the initial decision but reduced
+         the fine imposed on ARBED to EUR 000.
+      
+By judgment of October in Case C‑176/P ARBED v Commission [2003] ECR I‑10687, the Court of Justice set aside the judgment of the General Court and annulled the initial decision in
+         so far as it concerned ARBED, on the ground of infringement of the rights of the defence.
+      
+Following that judgment, the Commission decided to initiate a new proceeding in respect of the anti-competitive conduct which
+         had formed the subject-matter of the initial decision. On March 2006, it sent ARBED, TradeARBED and ProfilARBED a statement
+         of objections informing them of its intention to adopt a decision finding them jointly and severally liable for the infringements
+         in question. Those companies replied to the statement of objections on April 2006.
+      
+On November the Commission adopted the contested decision, Articles and of which provide:
+      
+‘Article The undertaking composed of [ARBED, TradeARBED and ProfilARBED] participated, in breach of Article 65(1) [CS], in a series
+         of agreements and concerted practices having the object or effect of fixing prices, allocating quotas and exchanging, on a
+         large scale, information on the Community market for beams. The participation of the undertaking thus composed in those infringements
+         is established between July and January 1991.
+      
+Article A fine of EUR million is hereby imposed on [ARBED, TradeARBED and ProfilARBED] jointly and severally for the infringements
+         referred to in Article 1.’
+      
+III –  Procedure before the General Court and the judgment under appeal
+By application lodged at the Registry of the General Court on December 2006, ARBED, TradeARBED and ProfilARBED brought
+         an action against the contested decision on the basis of Articles CS and CS and Articles EC and EC.
+      
+ARBED, TradeARBED and ProfilARBED submitted, by their first plea in law, that the contested decision lacked a legal basis
+         and that the Commission had misused its powers. The second plea alleged breach of the rules on the attribution of infringements,
+         the third plea breach of the rules on the limitation period for proceedings, and the fourth plea infringement of the rights
+         of the defence.
+      
+Since it considered in particular that the Community Treaties established a single legal order, that the EC and ECSC Treaties
+         pursued a common objective of the maintenance of a system of free competition, and that a principle common to the legal systems
+         of the Member States aims, when legislation is amended, unless the legislature expresses a contrary intention, to ensure continuity
+         of the legal system, the General Court rejected the first plea, holding that Articles 7(1) and 23(2) of Regulation No 1/were to be interpreted as enabling the Commission to find and penalise, after July 2002, agreements between undertakings
+         arrived at in the sectors falling within the scope of the ECSC Treaty ratione materiae and ratione temporis.
+      
+The General Court also rejected the second plea, finding, first, that that plea was not relied on by TradeARBED and, secondly,
+         that the Commission had not erred in law by attributing the infringement committed by TradeARBED to ARBED and, as ARBED’s
+         ‘economic successor’, ProfilARBED, on the basis that ARBED held 100% of the capital of TradeARBED and the evidence confirmed
+         that it exercised decisive influence over the conduct of TradeARBED and did in fact make use of that power.
+      
+In connection with the third plea, the General Court rejected the allegation of breach of the rules concerning the limitation
+         period for proceedings with respect to ARBED, finding that, because of the suspension of the limitation periods during the
+         first proceedings before the General Court and the Court of Justice, the contested decision had been taken within both the
+         5-year and the 10-year limitation periods. On the other hand, finding that the suspension took effect inter partes and not erga omnes, the General Court held that, as regards ProfilARBED and TradeARBED, the 10-year limitation period had been exceeded, and
+         consequently annulled the contested decision in so far as it concerned them.
+      
+The General Court rejected the fourth plea in so far as it was put forward by ARBED, finding that, since it had merely alleged
+         that the evidence that might have been available to it in had disappeared as a result of the lapse of time, ARBED had
+         not established in what way the duration of the administrative procedure could have impeded the exercise of its rights of
+         defence.
+      
+By the judgment under appeal, the General Court therefore annulled the contested decision in so far as it concerned ProfilARBED
+         and TradeARBED and dismissed the remainder of the action as unfounded.
+      
+IV –  Procedure before the Court
+By order of September 2009, the President of the Court joined Cases C‑201/P and C‑216/P for the purposes of the oral
+         procedure and the judgment.
+      
+V –  Forms of order sought by the parties
+By its appeal (C‑201/P) ARBED claims that the Court should:
+      
+–        set aside the judgment under appeal in so far as it upholds the contested decision with respect to ARBED; and
+–        order the Commission to pay the costs of the present proceedings and of those before the General Court.
+In its response to that appeal, the Commission contends that the Court should:
+      
+–        dismiss the appeal; and
+–        order ARBED to pay the costs.
+By its appeal (Case C‑216/P), the Commission claims that the Court should:
+      
+–        set aside the judgment under appeal in so far as it annuls the fines imposed on ProfilARBED and TradeARBED by the contested
+         decision;
+      
+–        dismiss the appeal of ProfilARBED and TradeARBED; and
+–        order ProfilARBED and TradeARBED to pay the costs.
+In their response to that appeal, ProfilARBED and TradeARBED brought a cross-appeal and contend that the Court should:
+      
+–        uphold the judgment under appeal in so far as it annuls the fines imposed on them by the contested decision by application
+         of the relative effect of the suspension of the limitation period;
+      
+–        in the alternative and by way of cross-appeal, set aside the judgment under appeal in so far as it
+–        applies the ECSC Treaty and Regulation No 1/against them;
+–        attributes the conduct of TradeARBED to ProfilARBED;
+–        fails to acknowledge that the proceedings are statute-barred as regards ProfilARBED by application of the rules on the interruption
+         of the limitation period;
+      
+–        fails to acknowledge the infringement of the rights of the defence which ProfilARBED can rely on in view of the particularly
+         long duration of the proceedings;
+      
+–        order the Commission to pay the costs at first instance and on appeal.
+In its response to that cross-appeal, the Commission contends that the Court should:
+      
+–        dismiss the cross-appeal; and
+–        order ProfilARBED and TradeARBED to pay the costs.
+VI –  The application for the oral procedure to be reopened
+By document received at the Court Registry on October 2010, the Commission requested the Court to order the oral procedure
+         to be reopened pursuant to Article of the Court’s Rules of Procedure, if the Court were to address the question of the
+         liability of ProfilARBED as a result of the carrying on of ARBED’s economic activities by ProfilARBED. According to the Commission,
+         this point was considered by the Advocate General in points to of his Opinion but is not the subject-matter of the
+         dispute and was not argued by the parties.
+      
+Pursuant to the above provision, the Advocate General was heard on the application.
+      
+Under Article of the Rules of Procedure, the Court may of its own motion, or on a proposal from the Advocate General, or
+         at the request of the parties, order the reopening of the oral procedure if it considers that it lacks sufficient information
+         or that the case must be dealt with on the basis of a point which has not been argued by the parties (see Case C‑42/Liga Portuguesa de Futebol Profissional and Bwin International [2009] ECR I‑7633, paragraph and the case-law cited).
+      
+The Court considers that it has all the material necessary to give judgment in the present case and that the case does not
+         have to be examined in the light of a point that has not been argued before it.
+      
+There is therefore no need to order the oral procedure to be reopened.
+      
+VII –  The appeals
+In its appeal (C‑201/P) ARBED puts forward four grounds of appeal. By the first ground of appeal, ARBED alleges breaches
+         of Article CS and Regulation No 1/2003, misuse of powers, errors of law and failure to state reasons.
+      
+The second ground of appeal alleges breach of the principle of the legal personality of companies and the principle that penalties
+         must fit the offence, failure to state reasons, incorrect interpretation and application of the Court’s case-law on the attributability
+         of the conduct of a wholly-owned subsidiary to the parent company, and breach of the principle of res judicata and the hierarchy of norms.
+      
+The third ground of appeal alleges breaches of the rules on limitation periods and the principle of res judicata with respect to the initial decision, and failure to state reasons. By the fourth ground of appeal, ARBED complains that
+         the General Court failed to state reasons and breached the rights of the defence and the principle of res judicata with respect to the ARBED v Commission judgment of October 2003.
+      
+In its appeal (C‑216/P) the Commission puts forward a single ground of appeal, alleging errors of law in the interpretation
+         of Decision No 715/78.
+      
+A –  The appeal by ARBED (C‑201/P)
+1.     First ground of appeal: breaches of Article CS and Regulation No 1/2003, misuse of powers, error of law and failure to
+         state reasons
+      
+a)     Arguments of the parties
+ARBED notes, first, that Article CS provided that the ECSC Treaty would expire on July and the contested decision,
+         which was based on Article CS, was taken on November 2006. By holding that it was lawful for the practices at issue to
+         be proceeded against on the basis of Article CS, the General Court infringed Article CS and failed to address its submissions
+         on the lack of a legal basis for that decision.
+      
+According to ARBED, the General Court erred in law in finding that the Community treaties established a single legal order.
+         Under Article 305(1) EC, the ECSC Treaty constitutes a specific system of rules derogating from the general rules laid down
+         by the EC Treaty, and the succession of the legal framework of the EC Treaty to that of the ECSC Treaty brought with it, from
+         July 2002, a change in the legal bases, procedures and substantive rules applicable. The institutions’ obligation to interpret
+         the various treaties consistently can be performed only by observing the limits which the treaties themselves set, and cannot
+         therefore induce the institutions to maintain in force a provision of a treaty which was to expire on July beyond
+         that date.
+      
+The judgments in Case 23/Klomp [1969] ECR and Case C‑119/Lucchini [2007] ECR I‑cited by the General Court in support of its position cannot be used to reach any other conclusion. The
+         former judgment related to an amendment to primary Community law as a result of the Merger Treaty, not to the expiry of a
+         treaty, while the latter concerned a decision taken under the ECSC Treaty before, not after, its expiry.
+      
+Secondly, ARBED takes the view that, by basing the Commission’s powers on Regulation No 1/2003, the General Court misused
+         its powers and failed to address ARBED’s arguments. ARBED observes that Regulation No 1/was adopted after the expiry
+         of the ECSC Treaty and submits that, having regard to Article of that regulation and in the absence of any mention of the
+         ECSC Treaty, the regulation gives the Commission power only to proceed against infringements of Articles EC and EC.
+      
+Even if Regulation No 1/did give the Commission power to penalise breaches of Article CS, it infringed the ECSC Treaty
+         since, although adopted by virtue of the EC Treaty alone, it purported to amend the ECSC Treaty. It follows from the case-law
+         that the consistent interpretation of the substantive provisions of the various treaties has no effect on the powers allocated
+         to the various institutions by those treaties, since the institutions are empowered under each treaty to exercise only the
+         powers conferred on them by that treaty.
+      
+ARBED submits that the General Court’s approach amounts to conferring power on the Council of the European Union to decide
+         who are the competent authorities to implement Article 65(1) CS, although the authors of the ECSC Treaty exercised that power,
+         and to changing the nature of the power allocated to the Commission by the ECSC Treaty, which is exclusive under Article CS but competes with the powers of the competent national competition authorities and the national courts under Regulation
+         No 1/2003.
+      
+The General Court’s interpretation of the rules on the temporal application of the law thus interferes with the legal identity
+         of each treaty and with the rules on the hierarchy of norms. Moreover, the General Court confused procedural rules, substantive
+         rules and the allocation of powers. It follows from the case-law that the question of the powers of an institution is preliminary
+         to the question of which substantive and procedural rules apply, and that the legal basis authorising the Union institution
+         to adopt an act must be in force at the time of its adoption.
+      
+b)     Findings of the Court
+As a preliminary point, it must be stated, first, that any agreement corresponding to the factual elements set out in Article
+         65(1) CS concluded or performed before the expiry of the ECSC Treaty on July could, up to and including that date,
+         give rise to a Commission decision imposing fines on the undertakings taking part in the agreement or its performance, on
+         the basis of Article 65(5) CS.
+      
+Next, it is clear that any agreement corresponding to the factual elements set out in Article 65(1) CS concluded or performed
+         between July and November could give rise to such a decision of the Commission on the basis of Article EC and Article 15(2)(a) of Council Regulation No of February 1962, First Regulation implementing Articles [81] and [82]
+         of the [EC] Treaty (OJ, English Special Edition 1959-1962, p. 87) or Article 23(2)(a) of Regulation No 1/2003.
+      
+Finally, it is also common ground that any agreement corresponding to the factual elements set out in Article 65(1) CS concluded
+         or performed from December can give rise to such a decision of the Commission on the basis of Article TFEU and
+         Article 23(2)(a) of Regulation No 1/2003.
+      
+In the present case ARBED contests essentially the General Court’s finding that the Commission could, by the contested decision
+         adopted after July 2002, impose a fine on it, on the basis of Article 65(1) and (5) CS in conjunction with Articles 7(1)
+         and 23(2)(a) of Regulation No 1/2003, for taking part before July in the conclusion and performance of an agreement
+         corresponding to the factual elements set out in Article 65(1) CS.
+      
+In the first place, as regards the Commission’s powers, the General Court found, in paragraphs and of the judgment under
+         appeal, that by virtue of Article 305(1) EC the ECSC Treaty constituted a lex specialis derogating from the lex generalis of the EC Treaty, and that as a result of the expiry of the ECSC Treaty on July the scope of the general system established
+         by the EC Treaty was extended on July to cover the sectors which were originally governed by the ECSC Treaty.
+      
+In paragraphs to of the judgment under appeal, the General Court stated that the succession of the legal framework of
+         the EC Treaty to that of the ECSC Treaty was part of the continuity of the European Union legal order and its objectives,
+         since the introduction and maintenance of a system of free competition was one of the essential objectives of both the EC
+         Treaty and the ECSC Treaty. It emphasised that the concepts of agreements and concerted practices under Article 65(1) CS corresponded
+         to those of agreements and concerted practices within the meaning of Article EC and that those two provisions had both
+         been interpreted in the same way by the European Union judicature.
+      
+In paragraph of the judgment under appeal, the General Court observed that, in accordance with a principle common to the
+         legal systems of the Member States, when legislation is amended, unless the legislature expresses a contrary intention, the
+         continuity of the legal system must be ensured, and considered that that principle applied to amendments to the primary law
+         of the European Union.
+      
+In paragraphs and of the judgment under appeal, the General Court thus concluded that the continuity of the European
+         Union legal order required the Commission to ensure, in respect of situations which came into being under the ECSC Treaty,
+         compliance with the rights and obligations which applied eo tempore to both Member States and individuals by virtue of the ECSC Treaty, and that Article 23(2) of Regulation No 1/had therefore
+         to be interpreted as enabling the Commission to penalise after July agreements between undertakings arrived at in
+         the sectors falling within the scope of the ECSC Treaty ratione materiae and ratione temporis.
+      
+Those findings are not vitiated by any error of law. It follows from the case-law that, in accordance with a principle common
+         to the legal systems of the Member States whose origins may be traced back to Roman law, when legislation is amended, unless
+         the legislature expresses a contrary intention, the continuity of the legal system must be ensured, and that that principle
+         applies to amendments to the primary law of the European Union (see, to that effect, Klomp, paragraph 13).
+      
+As the Commission rightly observes, there is no indication that the European Union legislature wished it to be possible for
+         concerted practices prohibited under the ECSC Treaty to escape the application of all penalties after that treaty expired.
+      
+Furthermore, it follows from the observations in paragraphs to above that the succession of the ECSC, EC and FEU Treaties
+         ensures, in order to guarantee free competition, that any conduct corresponding to the factual elements set out in Article
+         65(1) CS, whether taking place before or after July 2002, could be and still can be penalised by the Commission.
+      
+In those circumstances, it would be contrary to the objectives and the coherence of the Treaties and irreconcilable with the
+         continuity of the legal order of the European Union if the Commission did not have jurisdiction to ensure the uniform application
+         of the rules deriving from the ECSC Treaty which continue to produce effects even after the expiry of that treaty (see, to
+         that effect, Lucchini, paragraph 41).
+      
+In the second place, the General Court was right to hold in that respect, in paragraphs 65, and of the judgment under
+         appeal, that compliance with the principles governing the temporal application of the law and the requirements relating to
+         the principles of legal certainty and the protection of legitimate expectations required the application of the substantive
+         provisions of Article 65(1) and (5) CS to the facts of the present case, which fell within their scope ratione materiae and ratione temporis.
+      
+In particular, the principle of legal certainty requires that European Union rules enable those concerned to know precisely
+         the extent of the obligations which are imposed on them, and that those persons must be able to ascertain unequivocally what
+         their rights and obligations are and take steps accordingly (Case C‑345/Heinrich [2009] ECR I‑1659, paragraph and the case-law cited).
+      
+It must be emphasised that, at the material time, Article 65(1) and (5) CS provided a clear legal basis for the penalty imposed
+         in this case, so that TradeARBED could not be unaware of the consequences of its conduct. Moreover, it follows from the observations
+         in paragraphs to above that the same conduct could also have been penalised subsequently, at any time, by such a penalty
+         imposed by the Commission.
+      
+In so far as the Treaties defined clearly, before the material time, the infringements and the nature and extent of the penalties
+         which could be imposed in respect of them, the above principles do not aim to guarantee to undertakings that subsequent amendments
+         to the legal bases and procedural rules will enable them to escape all penalties relating to their past infringements.
+      
+It should be added that the Commission, before the expiry of the ECSC Treaty, stated that there would be no possibility of
+         escaping such a penalty, by pointing out, in point of its Communication concerning aspects of the treatment of competition
+         cases resulting from the expiry of the ECSC Treaty, adopted on June (OJ C 152, p. 5), that if it identified an
+         infringement in a field covered by the ECSC Treaty the substantive law applicable, irrespective of the date of that application,
+         would be the law in force at the time when the facts constituting the infringement occurred, and the procedural law applicable
+         after the expiry of the ECSC Treaty would be that of the EC Treaty.
+      
+Moreover, the lex mitior principle does not preclude the application in the present case of Article 65(5) CS, since the fine imposed by the contested
+         decision is in any event below the ceiling laid down by Article 23(2) of Regulation No 1/for the imposition of a fine
+         following an infringement of the European Union rules on competition.
+      
+It follows from all the above considerations that a diligent undertaking in ARBED’s position could not at any time be unaware
+         of the consequences of its conduct or count on the fact that the succession of the legal framework of the EC Treaty to that
+         of the ECSC Treaty would have the consequence of allowing it to escape all penalties for infringements of Article CS committed
+         in the past.
+      
+As regards the legal basis and the procedural rules applicable, the General Court was also right to hold, in paragraphs and of the judgment under appeal, that the Commission’s power to impose the fine in question by the contested decision
+         derived from Article 23(2) of Regulation No 1/and that the procedure had to be carried out in accordance with that regulation.
+      
+It follows from the case-law that the provision which forms the legal basis of an act and empowers the Union institution to
+         adopt the act in question must be in force at the time when the act is adopted (see, to that effect, Case C‑269/Commission v Council [2000] ECR I‑2257, paragraph 45) and that procedural rules are generally held to apply from the time of their entry into
+         force (see, to that effect, Joined Cases 212/to 217/Meridionale Industria Salumi and Others [1981] ECR 2735, paragraph 9, and Case C‑201/Molenbergnatie [2006] ECR I‑2049, paragraph 31).
+      
+It may be added that the application of Regulation No 1/by the Commission did not restrict but rather tended to extend
+         the procedural guarantees provided by the legal framework of the ECSC Treaty for undertakings which are the target of procedures,
+         as ARBED indeed does not contest.
+      
+It follows that the General Court did not err in law in concluding, in paragraphs and of the judgment under appeal,
+         first, that the Commission’s power to impose the fine at issue by the contested decision derived from Article 23(2) of Regulation
+         No 1/and that the procedure had to be conducted in accordance with that regulation and, secondly, that the substantive
+         law laying down the penalty applicable was Article 65(1) and (5) CS.
+      
+In the third place, in so far as ARBED submits that the General Court did not explicitly deal with all its arguments, it must
+         be recalled that, according to settled case-law, the General Court’s duty, under Article and the first paragraph of Article
+         of the Statute of the Court of Justice, to state reasons for its judgments does not require it to provide an account that
+         follows exhaustively and one by one all the arguments articulated by the parties to the case. The reasoning may therefore
+         be implicit, on condition that it enables the persons concerned to know why the measures in question were taken and provides
+         the Court of Justice with sufficient material for it to exercise its powers of review (Case C‑431/P Bouygues and Bouygues Télécom v Commission [2009] ECR I‑2665, paragraph 42, and order in Case C‑150/P Iride and Iride Energia v Commission, paragraph 42).
+      
+The General Court’s reasoning is clear and is such as to enable ARBED to know why the General Court rejected the plea in question
+         and to provide the Court with sufficient material to exercise its powers of review. It follows that the judgment under appeal
+         is not vitiated by a failure to state reasons.
+      
+Having regard to all the foregoing, the first ground of appeal must be rejected.
+      
+2.     Second ground of appeal: breach of the principle of the legal personality of companies and the principle that penalties must
+         fit the offence, failure to state reasons, incorrect interpretation and application of the case-law on the attributability
+         of the conduct of a wholly-owned subsidiary to the parent company, and breach of the principle of res judicata
+a)     Admissibility and effectiveness of the ground of appeal
+i)     Arguments of the parties
+In its response to the appeal in Case C‑201/P, the Commission submits that in so far as this ground of appeal seeks to
+         challenge the attribution, in paragraphs to of the judgment under appeal, of the conduct of TradeARBED to ProfilARBED,
+         it is inadmissible, since an appeal cannot validly contain a plea that concerns another party to the proceedings.
+      
+Moreover, the Commission submits that the second ground of appeal is ineffective, since it is directed only at the application
+         of the presumption that a company holding 100% of the capital of a subsidiary exercises effective control, and not at the
+         General Court’s finding that the Commission had demonstrated the actual exercise of decisive influence by ARBED over TradeARBED,
+         justifying the conclusion that those companies formed a single economic entity.
+      
+ii)  Findings of the Court
+As regards the admissibility of the part of the ground of appeal relating to the attribution of the conduct of TradeARBED
+         to ProfilARBED, it is clear that this ground of appeal does not relate to the judgment under appeal in so far as it affects
+         the legal position of ARBED. As the Commission rightly submits, an appellant cannot raise a ground of appeal for the benefit
+         of another party to the proceedings. Consequently, this ground of appeal must be declared inadmissible in so far as it concerns
+         the attribution of TradeARBED’s conduct to ProfilARBED.
+      
+As regards the effectiveness of the second ground of appeal, it is apparent from paragraph of the judgment under appeal
+         that, to reach the conclusion that ARBED and TradeARBED were an economic unit, the General Court relied on all the considerations
+         preceding that paragraph, thus including the rebuttable presumption that a parent company controlling 100% of a subsidiary
+         actually exercises a decisive influence over the conduct of the subsidiary.
+      
+In those circumstances, the substance of the second ground of appeal must be examined.
+      
+b)     Substance
+i)     Arguments of the parties
+ARBED submits, first, that the General Court concluded that the conduct of TradeARBED could be attributed to ARBED on the
+         basis of the competition law doctrine that undertakings that are legally distinct may form a single economic entity. That
+         doctrine has hitherto been used solely to exempt undertakings from the consequences of the existence of legally distinct persons
+         by providing that the prohibition of agreements between undertakings in Article EC does not apply to undertakings within
+         the same group and by excluding acquisitions of undertakings within the same group from the application of the rules on concentrations.
+      
+By finding the undertakings within a group collectively liable by reason of the conduct of one of them, the General Court
+         denied the rights of individuals to carry on their economic activities by means of distinct legal entities each endowed as
+         a legal person with its own legal personality and having individual liability.
+      
+Moreover, the General Court’s approach leads to an inconsistent result. The fact that the unlawful conduct of a company belonging
+         to a group can be attributed both to the parent company and to a sister company combined with the fact that only the parent
+         company is able to rebut a presumption of decisive influence amounts to imposing stricter rules on the sister company.
+      
+Consequently, according to ARBED, the judgment under appeal breaches the principle of legal personality and the principle
+         that penalties must fit the offence, and displays an internal inconsistency in its reasoning that is equivalent to a failure
+         to state reasons.
+      
+ARBED submits, second, that by holding that a rebuttable presumption that the parent company exercises a decisive influence
+         on the conduct of its wholly-owned subsidiary justifies the attributability of the subsidiary’s conduct to the parent company,
+         the General Court breached general principles of law and departed from the case-law of both the Court of Justice and the General
+         Court. That case-law requires the Commission to show that specific complaints may be raised against each undertaking that
+         is the subject of a decision imposing fines.
+      
+The judgments in Case 107/AEG-Telefunken v Commission [1983] ECR and Case C‑286/P Stora Kopparbergs Bergslags v Commission [2000] ECR I‑cannot justify the position adopted by the General Court, as the former is not relevant and the latter
+         was interpreted wrongly.
+      
+In AEG-Telefunken v Commission the Court had to rule, according to ARBED, not on the possibility of attributing liability to a parent company for an infringement
+         committed by a subsidiary but on the proof that the parent company had taken part in an infringement. In addition, unlike
+         the situation at issue in that case, the national law applicable in the present case does not provide that the governing bodies
+         of a wholly-owned subsidiary are the same as those of the parent company.
+      
+As to Stora Kopparbergs Bergslags v Commission, ARBED submits that the Court never confirmed that control of 100% of a company suffices for the parent company to be regarded
+         as liable for the conduct of the subsidiary. Unlike ARBED, the parent company in that case had, during the administrative
+         procedure, agreed to accept liability for the conduct of its subsidiary. Moreover, in the Commission decision which was the
+         subject-matter of that judgment, the Commission had adopted the approach of imposing the penalty on the parent company where
+         there was express evidence that the parent company had participated in the infringement.
+      
+ARBED submits, third, that by finding that a decisive influence of ARBED on TradeARBED both existed and had been exercised,
+         even though the contested decision and the initial decision accepted that ARBED had not participated in the infringement by
+         exercising that influence, the General Court breached the principle of res judicata with respect to the initial decision, exceeded its jurisdiction by substituting its own assessment for that of the Commission,
+         and applied the AEG-Telefunken and Stora Kopparbergs Bergslags line of case-law incorrectly.
+      
+ii)  Findings of the Court
+It is settled case-law that the concept of an undertaking covers any entity engaged in an economic activity, regardless of
+         its legal status and the way in which it is financed. The Court has stated that in this context the term ‘undertaking’ must
+         be understood as designating an economic unit even if in law that economic unit consists of several natural or legal persons,
+         and that when such an economic entity infringes the competition rules, it is for that entity, according to the principle of
+         personal responsibility, to answer for that infringement (Case C‑90/P General Química and Others v Commission [2011] ECR I‑0000, paragraphs to and the case-law cited).
+      
+The conduct of a subsidiary may be attributed to the parent company in particular where, although having a separate legal
+         personality, that subsidiary does not determine independently its own conduct on the market, but essentially carries out the
+         instructions given to it by the parent company, having regard especially to the economic, organisational and legal links between
+         those two legal entities (Case C‑97/P Akzo Nobel and Others v Commission [2009] ECR I‑8237, paragraph and the case-law cited).
+      
+In the particular case of a parent company having a 100% shareholding in a subsidiary which has infringed the Union’s rules
+         on competition, the parent company is able to exercise decisive influence over the conduct of its subsidiary, and there is
+         a rebuttable presumption that the parent company does in fact exercise decisive influence over the conduct of the subsidiary
+         (Akzo Nobel and Others v Commission, paragraph and the case-law cited).
+      
+In those circumstances, it is sufficient for the Commission to prove that the subsidiary is wholly owned by the parent company
+         in order to avail itself of the presumption that the parent exercises decisive influence over the commercial policy of the
+         subsidiary. The Commission will then be able to regard the parent company as jointly and severally liable for payment of the
+         fine imposed on its subsidiary, unless the parent company, which has the burden of rebutting that presumption, adduces sufficient
+         evidence to show that its subsidiary acts independently on the market (Akzo Nobel and Others v Commission, paragraph and the case-law cited).
+      
+While it is true that the Court referred, in paragraphs and of Stora Kopparbergs Bergslags v Commission, not only to the fact that the parent company owned 100% of the capital of the subsidiary but also to other circumstances,
+         such as the fact that it was not disputed that the parent company exercised influence over the commercial policy of its subsidiary
+         and the fact that both companies were jointly represented during the administrative procedure, the fact remains that those
+         circumstances were mentioned by the Court of Justice for the sole purpose of identifying all the elements on which the General
+         Court had based its reasoning, and not to make the application of the presumption referred to in paragraph above subject
+         to the production of additional evidence of the actual exercise of influence by the parent company (Akzo Nobel and Others v Commission, paragraph 62).
+      
+It follows from those considerations, first, that the General Court did not err in law in holding that where a parent company
+         has a 100% shareholding in its subsidiary there is a rebuttable presumption that that parent company exercises a decisive
+         influence over the conduct of its subsidiary and, second, contrary to ARBED’s claims, that neither the alleged principle of
+         the legal personality of companies nor the principle that penalties must fit the offence precludes the Commission from imposing
+         a fine on a parent company for an infringement committed by its wholly-owned subsidiary.
+      
+Where the parent company exercises decisive influence over the conduct of its subsidiary, especially its anti-competitive
+         conduct, it is the undertaking consisting of the parent company and the subsidiary which is liable for the infringement of
+         the competition rules laid down by the ECSC and EC Treaties resulting from that conduct, in accordance with the case-law referred
+         to in paragraph above.
+      
+Moreover, the General Court noted in paragraphs and to of the judgment under appeal that the Commission had found
+         in the contested decision that it had not been shown, or even claimed, that TradeARBED determined its commercial policy independently
+         of ARBED, and that further evidence had confirmed that ARBED had decisive influence over the conduct of TradeARBED and had
+         in fact made use of that power.
+      
+In those circumstances, ARBED’s argument that the case-law on the attributability to the parent company of the conduct of
+         a wholly-owned subsidiary was incorrectly applied and that the General Court substituted its own assessment for that of the
+         Commission must be rejected.
+      
+As to ARBED’s argument that the attribution of the unlawful conduct to a sister company by virtue of the concept of an economic
+         entity is inconsistent because it leads to stricter rules on liability being imposed on that company than on the parent company,
+         it suffices to note that in the present case the Commission attributed that conduct to the sister company because it had taken
+         over the commercial activities of the parent company, and that, since the liability of the sister company depended on that
+         of the parent company, the rules on liability imposed on the sister company are consequently no stricter than those applied
+         to the parent company.
+      
+As regards the submission of a breach of the principle of res judicata, it suffices to state that, in any event, res judicata cannot apply to a Commission decision, and certainly not to a decision which was annulled, such as the initial decision in
+         so far as it concerned ARBED.
+      
+As to the failure to state reasons allegedly resulting from inconsistency in the General Court’s reasoning, it follows from
+         the foregoing that the alleged inconsistency derives from an incorrect reading by ARBED of the case-law relating to the attributability
+         to the parent company of the conduct of a wholly-owned subsidiary. This argument must therefore in any event be rejected.
+      
+It follows that the second ground of appeal must be rejected.
+      
+3.     Third ground of appeal: breach of the rules on limitation periods and the principle of res judicata and failure to state reasons
+      
+a)     Arguments of the parties
+ARBED submits that, by finding that ARBED had taken part in the infringement because the infringement committed by TradeARBED
+         could be attributed to it, the General Court, first, contradicted itself, since it distinguished in paragraph of the judgment
+         under appeal between liability through attribution and liability through participation; secondly, failed to show that ARBED
+         satisfied the conditions for the acts interrupting or suspending the limitation period to be relied on against it; thirdly,
+         misapplied the rules on limitation periods; and, fourthly, breached the principle of res judicata.
+      
+b)     Findings of the Court
+As regards the argument alleging that the General Court’s reasoning was contradictory, it has already been found, in paragraph
+         above, that the supposed inconsistencies proceed from an incorrect reading by ARBED of the case-law on the attributability
+         to the parent company of the conduct of a wholly-owned subsidiary. This argument must therefore be rejected.
+      
+It also follows that, contrary to ARBED’s submission, the acts interrupting the limitation period could, in view of that attributability
+         and the existence of an economic unity between TradeARBED and ARBED, be relied on against ARBED
+      
+Finally, as regards the argument of breach of the principle of res judicata, it has already been pointed out, in paragraph above, that, in any event, res judicata cannot apply to a Commission decision, and certainly not to a decision which was annulled, such as the initial decision in
+         so far as it concerned ARBED.
+      
+Consequently, the third ground of appeal must be rejected.
+      
+4.     Fourth ground of appeal: failure to state reasons and breaches of the rights of the defence and the principle of res judicata
+a)     Arguments of the parties
+ARBED submits that it argued before the General Court that the evidence relevant for rebutting the presumption of the attributability
+         of the infringement committed by TradeARBED which could have been available to ARBED in had disappeared after a lapse
+         of time of years, and it had not been possible for it to assess the relevance of potentially useful information during
+         the procedure. ARBED’s argument thus related to the impossibility of collecting the evidence needed to rebut the presumption.
+      
+By finding that it was for ARBED to show that the evidence relating to the real character of its relations with its subsidiary
+         had disappeared, the General Court thus required it to prove a negative, which by definition is impossible, thereby vitiating
+         the judgment under appeal with a failure to state reasons that constitutes a breach of the rights of the defence.
+      
+In so far as the General Court added, in paragraph of the judgment under appeal, that the presumption of liability was
+         already raised in the initial decision, ARBED contends that that decision did not contain any reasoning on the attributability
+         of one company’s infringement to another company, but confined itself to stating that TradeARBED distributed beams for ARBED
+         and that, to ensure equal treatment, the initial decision was addressed to ARBED.
+      
+As to the statement in paragraph of the judgment under appeal that the presumption of liability was corroborated by the
+         evidence in the initial decision, ARBED submits that paragraph of the General Court’s judgment in Case T‑137/ARBED v Commission referred to the conduct of ARBED after the infringement, and that in paragraph of that judgment the General Court referred
+         to uncertainty as to the liability of ARBED and TradeARBED.
+      
+Moreover, as the initial decision was annulled by the Court of Justice in so far as it concerned ARBED, the principle of res judicata renders the General Court’s reasoning inoperative. In ARBED’s view, the General Court’s reasoning disregarded the principle
+         of res judicata attached to the judgment in Case C‑176/P ARBED v Commission, and was based on an incorrect reading both of the initial decision and of the judgment in Case T‑137/ARBED v Commission, which constitutes a failure to state reasons.
+      
+b)     Findings of the Court
+As regards the argument that it was impossible to collect the evidence needed to rebut the presumption that TradeARBED’s conduct
+         could be attributed to ARBED, and that proof of a negative had been required, the case-law states that it is for an undertaking
+         which submits that the excessive length of the administrative procedure has had an impact on the exercise of its rights of
+         defence to demonstrate to the requisite legal standard that, because of that excessive length, it experienced difficulties
+         in defending itself against the Commission’s allegations (see, to that effect, Case C‑113/P Technische Unie v Commission [2006] ECR I‑8831, paragraphs and 61).
+      
+The General Court found, in paragraph of the judgment under appeal, that in the present case ARBED had failed to establish
+         in what way the duration of the administrative procedure could have impeded the exercise of its rights of defence, since it
+         had merely claimed that the evidence which might have been available to it in had disappeared after such a lapse of time.
+      
+That finding is not marred by any error of law. ARBED was the addressee of the initial decision and was a party to the earlier
+         proceedings before the General Court and the Court of Justice. As the Commission rightly submits, such circumstances must
+         induce any diligent company to preserve the documents necessary for its defence.
+      
+It follows that an undertaking in ARBED’s position must indicate in detail, if not the specific items of evidence that have
+         disappeared, at least the incidents, events or circumstances which prevented it, during the period in question, from complying
+         with its obligation of diligence and brought about the alleged disappearance of the evidence alluded to.
+      
+Only by examining such specific indications can the General Court and the Court of Justice assess whether the undertaking
+         has shown to the requisite legal standard that it experienced the alleged difficulties in defending itself against the Commission’s
+         claims as a result of the excessive length of the administrative procedure, or whether those difficulties in fact derive from
+         a failure to comply with its obligation of diligence.
+      
+The General Court was therefore right to hold that so general an assertion as that made by ARBED could not suffice to show
+         to the requisite legal standard that the length of the procedure had affected the exercise of its rights of defence.
+      
+In the light of that finding, the arguments put forward by ARBED against the additional considerations set out by the General
+         Court in paragraphs to of the judgment under appeal are ineffective.
+      
+Consequently, the fourth ground of appeal must be rejected.
+      
+It follows from all the foregoing that the appeal by ARBED in Case C‑201/P must be dismissed.
+      
+B –  The appeal by the Commission (C‑216/P): single ground of appeal alleging errors of law in the interpretation of Decision
+            No 715/1.     Arguments of the parties
+The Commission submits that the General Court based its decision on an incorrect and excessively restrictive literal reading
+         of Articles 2(3) and of Decision No 715/when it referred, to justify a distinction between the effect of interruption
+         of the limitation period and that of suspension of the limitation period, to the difference between the wording of those provisions
+         as regards effect erga omnes. The lack of an express mention of erga omnes effect in the wording of Article of Decision No 715/does not mean that that provision does not confer such effect on
+         suspension, as the objective common to interruption and suspension of the limitation period is that of stopping time from
+         running for all the undertakings concerned.
+      
+In Joined Cases C‑238/P, C‑244/P, C‑245/P, C‑247/P, C‑250/P to C‑252/P and C‑254/P Limburgse Vinyl Maatschappij and Others v Commission [2002] ECR I‑8375, paragraph 144, the Court rejected a literal, restrictive interpretation of the provisions relating to
+         limitation periods, and took into account not only the wording but also the objective of the provision on the suspension of
+         the limitation period, in order to approve a broad interpretation of the expression ‘decision of the Commission’ in Article
+         of Decision No 715/78.
+      
+In that judgment the Court observed that suspension protects the Commission against the effects of limitation in situations
+         in which it has to wait for a decision of the European Union judicature. Both interruption and suspension of the limitation
+         period thus enable it effectively to pursue and penalise infringements of the competition rules.
+      
+Similarly, in the Commission’s view, a restrictive interpretation of the effect of suspension of the limitation period does
+         not follow from the case-law cited by the General Court in paragraph of the judgment under appeal. In particular, in Case
+         C‑278/Handlbauer [2004] ECR I‑6171, paragraph 40, the Court based its interpretation on the objective pursued by the rules on limitation periods.
+      
+As to the General Court’s reference to Case C‑310/P Commission v AssiDomän Kraft Products and Others [1999] ECR I‑5363, the Commission submits that the reasoning in that judgment does not apply to investigative measures such
+         as checks and inspections, challenges to which interrupt or suspend the limitation period.
+      
+In contrast to the bringing of proceedings against final decisions, in respect of which it cannot be ruled out that the General
+         Court’s conclusion is valid, challenges to such measures could affect the Commission’s ability to pursue the case against
+         all the undertakings involved in the infringement, even if the measures are formally addressed only to one undertaking. Consequently,
+         the application of that judgment to suspension of the limitation period would harm the proper enforcement of competition law,
+         whereas an interpretation allowing for effect erga omnes would be capable of preserving the effectiveness of that law.
+      
+The Commission states that the judgment under appeal requires it, where a company contests an investigative measure addressed
+         to it, to continue its investigation against the other undertakings and companies involved and to use, in its final decision,
+         documents whose lawful use is uncertain, the decision otherwise being liable to be annulled. With the limitation period running
+         as regards the other undertakings, it cannot await the outcome of the judicial proceedings relating to the investigative measure.
+      
+Consequently, while waiting for the question of the lawfulness of the investigation to be decided by the European Union judicature,
+         the Commission and the undertakings in question have to continue to devote resources to the investigation, and the undertakings
+         which have not brought proceedings against the investigative measure have to bring proceedings against the final decision,
+         pleading its unlawfulness in several actions relating to the same question. Since those undertakings are legally affected
+         by the investigative measure, even if it is addressed to a different undertaking, they must be able to raise the alleged unlawfulness
+         of the measure before those courts.
+      
+The Commission also submits that this situation is not comparable to that of investigative measures against which actions
+         cannot be brought, since, first, it can remedy procedural problems in the subsequent procedure and, second, there is no action
+         pending before the European Union judicature.
+      
+In addition, the Commission submits that the judgment under appeal facilitates evasion of payment of the fine. Since suspension
+         affects only the company which brings the proceedings, that company could be the subject of a restructuring or a transfer
+         of its assets, years after the end of the infringement, to another company which is not affected by the suspension, thus
+         allowing the group to avoid being fined.
+      
+Moreover, the overlapping of Articles and of Decision No 715/which results from the fact that Article 2(3) refers,
+         as regards the restarting of the limitation period after an interruption, to Article and Article refers to the Commission
+         decision mentioned in Article 2(3) militates against the distinction drawn by the General Court.
+      
+The Commission argues that the drafting history of Regulation (EEC) No 2988/of the Council of November concerning
+         limitation periods in proceedings and the enforcement of sanctions under the rules of the European Economic Community relating
+         to transport and competition (OJ L 319, p. 1) confirms its interpretation of Decision No 715/78. It notes that the original
+         proposal already provided that the interruption of the limitation period would have effect erga omnes, reflecting an in rem approach to limitation, as opposed to the in personam approach supported by some delegations. A compromise eventually allowed the former approach to be adopted. The provision
+         on the suspension of the limitation period was introduced, at the suggestion of one delegation, only at the stage of the second
+         revised proposal.
+      
+The Commission concludes that the Council adopted the in rem approach to limitation for all the provisions relating to limitation periods, including those concerning suspension. The
+         Council said nothing further in this respect, since, the choice as to the nature of limitation periods having been made, it
+         was not necessary to specify it also in relation to suspension.
+      
+In the Commission’s view, as a limitation period is an exception which exists only if provision is made for it, the principle
+         that exceptions must be interpreted strictly also supports its position. Consequently, the rules relating to limitation periods
+         should not be given a broad interpretation favourable to undertakings. The Court’s case-law has never supported a restrictive
+         interpretation of the rules on suspension of limitation periods.
+      
+2.     Findings of the Court
+According to the case-law, it is the very fact that an action is pending before the General Court or the Court of Justice
+         that justifies the suspension of the limitation period (Limburgse Vinyl Maatschappij and Others v Commission, paragraph 153).
+      
+The Court has also held that, if an addressee of a decision decides to bring an action for annulment, the matter to be tried
+         by the European Union judicature relates only to those aspects of the decision which concern that addressee. Unchallenged
+         aspects concerning other addressees, on the other hand, do not form part of the matter to be tried by the Union judicature
+         (Commission v AssiDomän Products and Others, paragraph 53).
+      
+Moreover, in accordance with Article 4(2) of Decision No 715/and Article 26(2) of Regulation No 1/2003, the limitation
+         period for enforcement runs from the date on which the decision becomes final. The Court has explained that that limitation
+         period therefore runs from expiry of the period for bringing an action against the decision on the infringement and the fine,
+         if no action has been brought (see, by analogy, Limburgse Vinyl Maatschappij and Others v Commission, paragraph 137).
+      
+It follows, first, that, with respect to undertakings which have not brought actions against a final decision of the Commission
+         imposing a fine on them under Article CS or Article of Regulation No 1/2003, that decision becomes final and, secondly,
+         that that finality starts time running against them for the enforcement of the decision, as laid down by Article of Decision
+         No 715/and Article of Regulation No 1/2003.
+      
+Consequently, with respect to those undertakings, an action brought by another undertaking against the same final decision
+         cannot have any suspensive effect.
+      
+Moreover, both the wording of Article of Decision No 715/and Article 25(6) of Regulation No 1/and the objectives
+         pursued by those articles cover actions brought against those acts referred to in Article of Decision No 715/and Article
+         25(3) of Regulation No 1/against which actions lie, as well as actions brought against the Commission’s final decision
+         (see, by analogy, Limburgse Vinyl Maatschappij and Others v Commission, paragraph 146).
+      
+Since Article of Decision No 715/and Article 25(6) of Regulation No 1/do not therefore draw any distinctions as
+         regards decisions to which suspensive effect is attached, contrary to the Commission’s claims, erga omnes effect need not be attached to actions brought against the acts referred to in Article of Decision No 715/and Article
+         25(3) of Regulation No 1/against which actions lie.
+      
+Having regard to the foregoing, it must be concluded that the General Court did not err in law in holding that the suspension
+         of the limitation period which Article of Decision No 715/and Article 25(6) of Decision No 1/attach to judicial
+         proceedings takes effect only inter partes.
+      
+In the present case, as ProfilARBED and TradeARBED rightly submit, the initial decision was directed exclusively against ARBED
+         and the judicial proceedings which led to the annulment of that decision in so far as it concerned ARBED were contested exclusively
+         by ARBED and the Commission. It follows that no suspensive effect can be derived from those proceedings with respect to ProfilARBED
+         or TradeARBED.
+      
+In those circumstances, the Commission’s appeal in Case C‑216/P must be dismissed.
+      
+As ProfilARBED and TradeARBED brought their cross-appeal in Case C‑216/P in the alternative, in case the Court should uphold
+         the Commission’s appeal, there is no need to examine that cross-appeal.
+      
+VIII –  Costs
+Under Article 69(2) of the Rules of Procedure, which, under Article of those Rules, applies to appeals, the unsuccessful
+         party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings. Under Article 69(3)
+         of those Rules, where each party succeeds on some and fails on other heads, or where the circumstances are exceptional, the
+         Court may order the parties to bear their own costs.
+      
+Since ARBED has been unsuccessful with its appeal in Case C‑201/P, it must be ordered to pay the costs of that appeal,
+         in accordance with the form of order sought by the Commission.
+      
+As regards the appeal in Case C‑216/P, the Court considers that, in view of the particular circumstances of the case, the
+         Commission, TradeARBED and ProfilARBED should be ordered to bear their own costs.
+      
+On those grounds, the Court (Grand Chamber) hereby:
+1.      Dismisses the appeals;
+2.      Orders ArcelorMittal Luxembourg SA to bear its own costs and to pay those incurred by the European Commission in relation
+            to the appeal in Case C‑201/P;
+3.      Orders the European Commission, ArcelorMittal Belval & Differdange SA and ArcelorMittal International SA to bear their own
+            costs in relation to the appeal in Case C‑216/P.
+[Signatures]
+* Language of the case: French.
+      
+Top  

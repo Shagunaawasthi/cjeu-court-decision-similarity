@@ -1,0 +1,203 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+July (
+*)
+(Reference for a preliminary ruling — Directive 2005/29/EC — Unfair commercial practices — Scope — Concept of ‘commercial practices’ — Directive 2006/123/EC — Services in the internal market — Criminal law — Authorisation schemes — Higher education — ‘Master’s’ degree — Prohibition to confer certain degrees without authorisation)
+In Case C‑393/17,
+REQUEST for a preliminary ruling under Article TFEU from the hof van beroep te Antwerpen (Court of Appeal of Antwerp, Belgium), made by decision of June 2017, received at the Court on June 2017, in the criminal proceedings against
+Freddy Lucien Magdalena Kirschstein,
+Thierry Frans Adeline Kirschstein,
+intervening party:
+Vlaamse Gemeenschap,
+THE COURT (Third Chamber),
+composed of M. Vilaras, President of the Fourth Chamber, acting as President of the Third Chamber, J. Malenovský, L. Bay Larsen (Rapporteur), M. Safjan and D. Šváby, Judges,
+Advocate General: M. Bobek,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on July 2018,
+after considering the observations submitted on behalf of:
+–
+Messrs Kirschstein, by T. Bauwens, H. de Bauw and M. Vandebeek, advocaten,
+–
+the Vlaamse Gemeenschap, by J. Vandeuren and P. Vansteenkiste, advocaten,
+–
+the Belgian Government, by L. Van den Broeck and M. Jacobs, acting as Agents, and by Y. Moussoux and M. Karolinski, avocats,
+–
+the German Government, initially by T. Henze and J. Möller, and subsequently by J. Möller, acting as Agents,
+–
+the Italian Government, by G. Palmieri, acting as Agent, and by F. Varrone, avvocato dello Stato,
+–
+the Netherlands Government, by J. Langer and M.K. Bulterman, acting as Agents,
+–
+the Polish Government, by B. Majczyna, acting as Agent,
+–
+the Swedish Government, by A. Falk, C. Meyer-Seitz, H. Shev, L. Zettergren and A. Alriksson, acting as Agents,
+–
+the Norwegian Government, by T. Sunde and M. Reinertsen Norum, acting as Agents,
+–
+the European Commission, by F. Wilman, A. Nijenhuis and N. Ruiz García, and by H. Tserepa-Lacombe, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on November 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Directive 2005/29/EC of the European Parliament and of the Council of May concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/of the European Parliament and of the Council (‘Unfair Commercial Practices Directive’) (OJ L 149, p. 22), and of Directive 2006/123/EC of the European Parliament and of the Council of December on services in the internal market (OJ L 376, p. 36).
+The request has been made in criminal proceedings against Messrs Freddy and Thierry Kirschstein concerning an alleged infringement of a national criminal provision criminalising the act of conferring ‘master’s’ degrees without having obtained the required authorisation for this purpose.
+Legal context
+EU law
+Directive 2005/Recital of Directive 2005/reads as follows:
+‘This Directive addresses commercial practices directly related to influencing consumers’ transactional decisions in relation to products. …’
+Article of that directive, headed ‘Definitions’, provides:
+‘For the purposes of this Directive:
+…
+(c)
+“product” means any goods or service including immovable property, rights and obligations;
+(d)
+“business-to-consumer commercial practices” (hereinafter also referred to as commercial practices) means any act, omission, course of conduct or representation, commercial communication including advertising and marketing, by a trader, directly connected with the promotion, sale or supply of a product to consumers;
+…’
+Article 3(1) of that directive provides:
+‘This Directive shall apply to unfair business-to-consumer commercial practices … before, during and after a commercial transaction in relation to a product.’
+Directive 2006/Article 1(5) of Directive 2006/reads as follows:
+‘This Directive does not affect Member States’ rules of criminal law. However, Member States may not restrict the freedom to provide services by applying criminal law provisions which specifically regulate or affect access to or exercise of a service activity in circumvention of the rules laid down in this Directive.’
+Article of that directive provides:
+‘1.   This Directive shall apply to services supplied by providers established in a Member State.
+2.   This Directive shall not apply to the following activities:
+(a)
+non-economic services of general interest;
+…
+(i)
+activities which are connected with the exercise of official authority as set out in Article [TFEU];
+…’
+Article of that directive, entitled ‘Definitions’, is worded as follows:
+‘For the purposes of this Directive, the following definitions shall apply:
+(1)
+“service” means any self-employed economic activity, normally provided for remuneration, as referred to in Article [TFEU];
+…
+(6)
+“authorisation scheme” means any procedure under which a provider or recipient is in effect required to take steps in order to obtain from a competent authority a formal decision, or an implied decision, concerning access to a service activity or the exercise thereof;
+…
+(8)
+“overriding reasons relating to the public interest” means reasons recognised as such in the case-law of the Court of Justice, including the following grounds: … the protection of consumers, recipients of services and workers …’
+…’
+Chapter III of the same directive, concerning the freedom of establishment for providers, contains Article of the directive, entitled ‘Authorisation schemes’, which provides in its paragraph 1:
+‘Member States shall not make access to a service activity or the exercise thereof subject to an authorisation scheme unless the following conditions are satisfied:
+(a)
+the authorisation scheme does not discriminate against the provider in question;
+(b)
+the need for an authorisation scheme is justified by an overriding reason relating to the public interest;
+(c)
+the objective pursued cannot be attained by means of a less restrictive measure, in particular because an a posteriori inspection would take place too late to be genuinely effective.’
+Article 10(1) and (2) of Directive 2006/states:
+‘1.   Authorisation schemes shall be based on criteria which preclude the competent authorities from exercising their power of assessment in an arbitrary manner.
+2.   The criteria referred to in paragraph shall be:
+(a)
+non-discriminatory;
+(b)
+justified by an overriding reason relating to the public interest;
+(c)
+proportionate to that public interest objective;
+(d)
+clear and unambiguous;
+(e)
+objective;
+(f)
+made public in advance;
+(g)
+transparent and accessible.’
+Belgian law
+Article 25(7) of the decreet betreffende de herstructurering van het hoger onderwijs in Vlaanderen (Decree on the restructuring of higher education in Flanders) of April (Belgisch Staatsblad, August 2003, p. 41004) read as follows:
+‘Anyone who awards, without being competent to do so, the degrees of bachelor or master, with or without specialisation, doctor (doctor of philosophy, abbreviated to PhD or Dr) or the degrees and titles set out in paragraphs 2, 3, 4, and 5a, shall be punished with a prison sentence of between days and months and a fine of between EUR and EUR or only with one of those penalties.’
+That provision was repealed and its wording was incorporated into Article II.75(6) of the Codex Hoger Onderwijs (Codex of Higher Education) of October (Belgisch Staatsblad, February 2014, p. 15979).
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Messrs Kirschstein are being prosecuted for having conferred ‘master’s’ degrees without having been authorised to do so, by issuing certificates and diplomas conferring that degree to students who have completed the training provided by the Antwerp branch of United International Business Schools of Belgium BVBA.
+They were sentenced by the rechtbank van eerste aanleg Antwerpen, afdeling Antwerpen (Antwerp Court of First Instance, Antwerp Division, Belgium), by judgment of December 2015, to a fine of EUR each for that offence.
+On December 2015, Messrs Kirschstein and the Openbaar Ministerie (Public Prosecutor, Belgium) appealed against that judgment to the referring court.
+It is apparent from the decision to refer that United International Business Schools of Belgium is a higher education institution not accredited by the Vlaamse Gemeenschap (Flemish Community, Belgium), which offers training leading to the award of ‘master’s’ degrees in Belgium. That Belgian company is linked to the Swiss company Global Education Services Switzerland AG (hereinafter ‘GES Switzerland’), as well as to the Spanish company Global Education Services Spain SA. GES Switzerland coordinates a private higher education system which is neither regulated nor subsidised by the public authorities, and which offers, in particular, courses organised in Belgium.
+During the criminal proceedings in the main proceedings, Messrs Kirschstein argued, in particular, that the national legislation criminalising the act of conferring ‘master’s’ degrees, without having obtained the authorisation required for that purpose, is contrary to Directive 2005/and Directive 2006/123.
+In those circumstances, the hof van beroep te Antwerpen (Court of Appeal of Antwerp, Belgium) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Must Directive [2005/29] be interpreted as precluding the provision in Article II.75(6) of the Codex of Higher Education … which imposes a general prohibition on non-accredited educational institutions using the designation “master” on the diplomas they award, where that prohibition is aimed at safeguarding a matter in the general interest, namely, the need to ensure a high standard of education whereby it must be possible to check whether the predefined quality requirements have effectively been met?
+(2)
+Must [Directive 2006/123] be interpreted as precluding the provision in Article II.75(6) of the Codex of Higher Education …, which imposes a general prohibition on non-accredited educational institutions using the designation “master” on the diplomas they award, where that prohibition is aimed at safeguarding a matter in the general interest, namely the protection of recipients of services?
+(3)
+Does the criminal provision applicable to educational institutions not recognised by the Flemish Government which award [“master’s”] diplomas pass the proportionality test in Article 9(1)(c) and Article 10(2)(c) of Directive [2006/123]?’
+Admissibility
+The Flemish Community and the Belgian, Polish and Norwegian Governments put forward arguments challenging, on various grounds, the admissibility of the reference for a preliminary ruling or of some of the questions it contains.
+In the first place, the Polish Government submits that the legislation at issue in the main proceedings cannot be examined on the basis of Directive 2005/or Directive 2006/123, in so far as it follows from Article and Article 165(1) TFEU that the organisation of education systems falls within the exclusive competence of the Member States.
+In this respect, it should be noted, on the one hand, that the Member States are bound, when exercising the areas of competence reserved to them, to comply with EU law and, on the other hand, that it does not follow from any element of Directive 2005/or Directive 2006/that higher education services would fall outside the respective scope of those directives. Consequently, the competence of the Member States for the organisation of their education systems cannot have the effect of removing legislation such as that at issue in the main proceedings from the scope of those directives (see, by analogy, judgment of December 2007, Jundt, C‑281/06, EU:C:2007:816, paragraphs and 87).
+In the second place, according to the Flemish Community and the Belgian, Polish and Norwegian Governments, it follows from the specific circumstances of the case at issue in the main proceedings that the answers given to all or part of the questions raised are not likely to influence the outcome of the main proceedings.
+Thus, first of all, the Polish Government considers, as its principal argument, that Directive 2006/is not applicable to the case at issue in the main proceedings, on the ground that it concerns a purely domestic situation devoid of any cross-border element. Next, the Flemish Community, the Belgian Government and, in the alternative, the Polish Government consider that the applicability of that directive should be ruled out in the present case, since the ‘master’s’ degrees in question in the main proceedings were awarded by GES Switzerland which, as a Swiss company, cannot rely on that directive. Finally, without explicitly claiming that the request for a preliminary ruling is inadmissible, the Norwegian Government emphasises that, if it were to be established that that company did indeed award those degrees, neither Directive 2005/nor Directive 2006/would apply to the case at issue in the main proceedings.
+However, even if it must be assumed that the ‘master’s’ degrees in question in the main proceedings were awarded by a Belgian company and that all the relevant elements of the case at issue in the main proceedings are therefore confined to a single Member State, it is clear from the Court’s case-law that the provisions of Chapter III of Directive 2006/123, to which the second and third questions referred relate, also apply to such a situation (see, to that effect, judgment of January 2018, X and Visser, C‑360/and C‑31/16, EU:C:2018:44, paragraph 110).
+Moreover, the arguments drawn from GES Switzerland’s specific role in that case cannot, in any event, succeed. It is apparent from the information provided, at the Court’s request, by the referring court, which has sole jurisdiction to establish the facts of the main proceedings (see, to that effect, judgments of July 2016, Kratzer, C‑423/15, EU:C:2016:604, paragraph 27, and of April 2017, A-Rosa Flussschiff, C‑620/15, EU:C:2017:309, paragraph 35), that that role has not been established and that the ‘master’s’ degrees at issue in the main proceedings could have been awarded either by a Belgian company or by a Swiss company and a Spanish company.
+It cannot, therefore, be considered that the answers to the second and third questions are not likely to influence the outcome of the main proceedings.
+In the third place, the Flemish Community and the Belgian Government dispute the admissibility or relevance of the questions asked by presenting various arguments seeking to establish that those questions are based on an incorrect interpretation of Directive 2005/and Directive 2006/123.
+However, those differences of interpretation concern the substance of those questions and they cannot, therefore, lead to a finding that those questions are inadmissible. The fact that those differences of interpretation relate in part to the applicability of those directives cannot call into question that assessment, since, where it is not obvious that the interpretation of a Union provision bears no relation to the facts of the main action or its purpose, the objection alleging the inapplicability of that provision to the case in the main action does not relate to the admissibility of the request for a preliminary ruling, but concerns the substance of the questions raised (see, to that effect, judgment of July 2006, Manfredi and Others, C‑295/to C‑298/04, EU:C:2006:461, paragraph 30).
+In the fourth place, the Polish Government argues that the decision to refer does not include a statement of the content of the Belgian rules governing the authorisation to confer ‘master’s’ degrees and that it therefore does not provide sufficient information to enable the Court to give a useful answer to the second question.
+In this respect, Article 94(b) of the Rules of Procedure of the Court provides that the request for a preliminary ruling is to contain the tenor of any national provisions applicable to the case at issue in the main proceedings and, where appropriate, the relevant national case-law.
+In the present case, it must indeed be noted that the decision to refer does not include a full presentation of the Belgian rules on the procedure for authorising the granting of ‘master’s’ degrees.
+Nevertheless, the fact remains that the tenor of the criminal provision to which the second question directly relates is clearly set out in the decision to refer and that the information contained in that decision is sufficient to enable the Court to formulate certain useful indications for the national court, which is solely responsible for deciding on the conformity of the Belgian rules with EU law (see, to that effect, judgment of July 2014, Ålands Vindkraft, C‑573/12, EU:C:2014:2037, paragraph and the case-law cited), to decide the dispute before it.
+In the fifth and last place, the Belgian Government argues that the third question is irrelevant since the award of degrees in the Flemish Community is not subject to an authorisation scheme.
+It should be borne in mind that it is not for the Court, in the context of the system of judicial cooperation established by Article TFEU, to give a ruling on the interpretation of provisions of national law, or to decide whether the referring court’s interpretation of those provisions is correct (judgment of March 2015, Macikowski, C‑499/13, EU:C:2015:201, paragraph and the case-law cited).
+Consequently, since the argument thus presented by the Belgian Government is based on an interpretation of the national rules which is different from that adopted by the referring court, it cannot lead to a finding that the third question raised is inadmissible.
+In the light of the foregoing, the request for a preliminary ruling should be declared admissible in its entirety.
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks essentially whether Directive 2005/must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which provides for criminal penalties to be imposed on persons who, without prior authorisation from the competent authority, confer a ‘master’s’ degree.
+According to settled case-law of the Court, national legislation is only likely to fall within the scope of Directive 2005/if the conduct referred to in that legislation constitutes commercial practices within the meaning of that directive (see, to that effect, judgments of January 2010, Plus Warenhandelsgesellschaft, C‑304/08, EU:C:2010:12, paragraph 35, and of October 2013, RLvS, C‑391/12, EU:C:2013:669, paragraph 35).
+In this respect, it is apparent from Article 2(d) of that directive that ‘commercial practices’ is understood to mean any act, omission, course of conduct or representation, commercial communication including advertising and marketing, by a trader, directly connected with the promotion, sale or supply of a product to consumers. The concept of ‘product’ is defined in Article 2(c) of that directive as being any goods or service including immovable property, rights and obligations.
+Moreover, it follows from the very wording of Article 3(1) of Directive 2005/that such commercial practices take place before, during and after a commercial transaction in relation to a product.
+The practices thus referred to must, in particular, be directly connected with the promotion, sale or supply of a product to consumers (see, to that effect, judgments of October 2013, RLvS, C‑391/12, EU:C:2013:669, paragraph 37, and of October 2018, Kamenova, C‑105/17, EU:C:2018:808, paragraph 42).
+It follows that, although those commercial practices are closely linked to a commercial transaction involving a product, they are nevertheless not confused with the product which is the subject of that transaction.
+Thus, practices which form part of a service provider’s commercial strategy and which are directly connected with the promotion and sale of its services constitute commercial practices (see, to that effect, judgments of November 2010, Mediaprint Zeitungs- und Zeitschriftenverlag, C‑540/08, EU:C:2010:660, paragraph 18, and of October 2013, RLvS, C‑391/12, EU:C:2013:669, paragraph 36).
+In this context, the Court has been led to link the applicability of Directive 2005/both to the quality of commercial practices of the practices in question and to the product quality of the services concerned, to which those practices related, without confusing those two elements (see, to that effect, judgments of May 2017, Vanderborght, C‑339/15, EU:C:2017:335, paragraphs to 25, and of September 2018, Wind Tre and Vodafone Italia, C‑54/and C‑55/17, EU:C:2018:710, paragraph 39).
+It follows from the above that a national rule which aims to determine the operator who is authorised to provide a service in a commercial transaction, without directly regulating the practices which that operator may subsequently implement to promote or dispose of the sales of that service, cannot be considered to relate to a commercial practice in direct connection with the provision of that service, within the meaning of Directive 2005/29.
+In that regard, it should be noted that legislation such as that at issue in the main proceedings does not concern the arrangements for promoting or marketing services in the field of higher education, but concerns the authorisation of an operator to provide such services, where they include the conferral of a given university degree, which enjoys specific legal protection and allows, where appropriate, access to a series of specific prerogatives.
+Such legislation is thus clearly distinct from rules which aim to provide for the way in which an operator authorised to provide services of that nature can promote the marketing of such services, in particular by claiming a quality label or the approval of a renowned university.
+Legislation such as that at issue in the main proceedings cannot therefore be regarded as falling within the provisions relating to commercial practices within the meaning of Directive 2005/29.
+Consequently, the answer to the first question is that Directive 2005/must be interpreted as not applying to national legislation, such as that at issue in the main proceedings, which provides for criminal penalties to be imposed on persons who, without prior authorisation from the competent authority, confer a ‘master’s’ degree.
+The second and third questions
+By its second and third questions, which should be dealt with together, the referring court essentially asks whether Directive 2006/must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which provides for criminal penalties to be imposed on persons who, without prior authorisation from the competent authority, confer a ‘master’s’ degree.
+As a preliminary point, it should be recalled that, in accordance with Article 2(1) thereof, Directive 2006/is to apply to services supplied by providers established in a Member State.
+In addition, in accordance with Article 4(1) of that directive, for the purposes of that directive, a ‘service’ is defined as any self-employed economic activity, normally provided for remuneration, as referred to in Article TFEU.
+It is also apparent from the Court’s case-law that the organisation, for remuneration, of higher education services by institutions mainly financed by private funds and seeking to make a commercial profit, constitutes such an economic activity (see, to that effect, judgments of December 1993, Wirth, C‑109/92, EU:C:1993:916, paragraph 17, and of November 2003, Neri, C‑153/02, EU:C:2003:614, paragraph 39).
+However, Article 2(2) of Directive 2006/excludes a range of activities from the scope of the directive, in particular non-economic services of general interest and activities which are connected with the exercise of official authority, within the meaning of Article 2(2)(a) and (i) of that directive.
+In that regard, although the Belgian, German, Italian and Netherlands Governments maintain that the legislation at issue in the main proceedings falls outside the scope of that directive, in so far as that legislation concerns such activities, it must be held that that legislation is not covered by the exceptions provided for in those provisions.
+In the first place, since the same legislation as well as the rules relating to the authorisation to confer degrees whose effectiveness it seeks to guarantee apply in particular to services, such as those at issue in the main proceedings, which are provided, as is apparent from the file before the Court, by private operators acting on their own initiative, for profit and without any public funding, they cannot be regarded as relating solely to non-economic services of general interest.
+In the second place, it follows from the Court’s case-law that university teaching activities, being activities of civil society, do not constitute activities which are connected with the exercise of official authority within the meaning of that provision (judgment of December 2007, Jundt, C‑281/06, EU:C:2007:816, paragraph 38).
+The fact that the legislation at issue in the main proceedings specifically concerns civil teaching activities involving the award of a degree cannot alter that assessment.
+Indeed, the derogation provided for under Article 2(2)(i) of Directive 2006/must be restricted to activities which, in themselves, are directly and specifically connected with the exercise of official authority, which requires a sufficiently qualified exercise of prerogatives outside the general law, privileges of official power or powers of coercion (see, by analogy, judgment of April 2010, Commission v Germany, C‑160/08, EU:C:2010:230, paragraphs and 79).
+However, the conferral of a degree, which may be carried out, where appropriate, under the supervision of and under conditions defined by the public authorities, cannot be regarded as involving such an exercise of official authority.
+Furthermore, it is also important to note that it is apparent from Article 1(5) of Directive 2006/that, while that directive does not affect Member States’ rules of criminal law, Member States may not restrict the freedom to provide services by applying criminal law provisions which specifically regulate or affect access to or exercise of a service activity in circumvention of the rules laid down in that directive.
+In those circumstances, the fact that the legislation at issue in the main proceedings is of a criminal nature cannot be sufficient to preclude the application of the same directive to that legislation, since it affects access to and the exercise of a service activity, by providing for the imposition of a criminal penalty on operators who provide a service without having the authorisation required for that purpose by Belgian law.
+Consequently, Article 1(5) of Directive 2006/must be interpreted as precluding such legislation, such as that at issue in the main proceedings, if it had the effect of circumventing the rules laid down in that directive.
+In this respect, in so far as national rules requiring service providers wishing to confer certain university degrees to solicit the competent authorities in order to obtain a formal document authorising them to do so create an authorisation scheme within the meaning of Article 4(6) of that directive, such rules must comply with the requirements laid down in Chapter III of that directive, imposed on such schemes.
+It follows that legislation such as that at issue in the main proceedings, which seeks to ensure the effectiveness of such rules, would have the effect of circumventing the rules of Directive 2006/if the authorisation scheme of which it is an accessory were incompatible with the requirements laid down in Chapter III of that directive.
+Those requirements include the requirements imposed by Articles and of that directive, to which the questions of the referring court more specifically relate.
+Article 9(1) of the same directive states that Member States are not to make access to a service activity or the exercise thereof subject to an authorisation scheme unless three conditions are met.
+First, Article 9(1)(a) of Directive 2006/requires that the authorisation scheme must not discriminate against the provider in question.
+In that respect, it is not apparent from either the decision to refer or from any element of the file before the Court that the legislation at issue in the main proceedings discriminates between service providers wishing to confer the university degrees it covers.
+Secondly, Article 9(1)(b) of that directive requires the need for the authorisation scheme to be justified by an overriding reason relating to the public interest.
+In the present case, it follows from the decision to refer that the legislation at issue in the main proceedings is intended both to ensure a high level of higher education and to protect the recipients of services.
+Those two objectives must be regarded as constituting overriding reasons relating to the public interest. On the one hand, Article 4(8) of that directive specifies that the reasons recognised as such in the case-law of the Court must be regarded as overriding reasons relating to the public interest and specifically mentions the protection of recipients of services as meeting that criterion. On the other hand, the Court has already held that the two objectives mentioned in paragraph of this judgment constitute overriding reasons relating to the public interest (see, to that effect, judgments of October 1999, Zenatti, C‑67/98, EU:C:1999:514, paragraph and the case-law cited, and of November 2003, Neri, C‑153/02, EU:C:2003:614, paragraph 46).
+In addition, requiring service providers wishing to confer university degrees to hold an authorisation for this purpose is likely to ensure the achievement of those objectives, by enabling the competent authorities to ensure, prior to the award of diplomas, that those service providers offer sufficient guarantees to guarantee the quality of those diplomas.
+Thirdly, Article 9(1)(c) of Directive 2006/requires that the objective pursued cannot be attained by means of a less restrictive measure, in particular because an a posteriori inspection would take place too late to be genuinely effective.
+In that regard, it appears that such an inspection would not be sufficiently effective to ensure that the objectives pursued by legislation such as that at issue in the main proceedings are achieved.
+Indeed, it should be noted, first of all, that the guarantee of a high level of higher education may require the systematic monitoring of training leading to the award of diplomas and the procedures laid down to verify the ability of students to obtain the degrees concerned.
+Next, since the very award of a diploma is likely to allow access to certain professions and may, more broadly, be taken into account by an employer in recruiting a person who holds it, uncertainty as to the value of the diploma, due to the absence of prior monitoring, may also contravene the achievement of that objective, without any subsequent questioning of that value being likely to provide a sufficient guarantee.
+Finally, it is permissible for the national legislature to consider that the protection of the beneficiaries of the services offered by a higher education institution would not be effectively ensured if they were forced to choose and follow a training, without being able to have assurances as to the ability of the institution concerned to confer degrees from which they may subsequently legitimately benefit.
+Nevertheless, as the referring court observes, the compatibility of an authorisation scheme with Directive 2006/also presupposes that it is based on criteria governing the exercise of the discretion of the competent authorities which meet the requirements set out in Article 10(2) of that directive.
+Under that provision, the conditions for grant of an authorisation must be non-discriminatory, justified by imperative reasons in the general interest and proportionate to that objective, which means that they are suitable for securing the attainment of that objective and do not go beyond what is necessary in order to attain it. Moreover, that provision requires that those conditions be clear and unambiguous, objective, transparent, accessible and made public in advance (judgment of September 2018, Van Gennip and Others, C‑137/17, EU:C:2018:771, paragraph 80).
+Since the decision to refer does not contain a detailed statement of the conditions under Belgian law governing the granting of an authorisation to confer ‘master’s’ degrees, it is for the referring court to assess the compatibility of those conditions with Article 10(2) of Directive 2006/123.
+In the light of the foregoing considerations, the answer to the second and third questions is that Article 1(5) of Directive 2006/123, read in conjunction with Articles and thereof, must be interpreted as not precluding national legislation, such as that at issue in the main proceedings, which provides for criminal penalties to be imposed on persons who, without prior authorisation from the competent authority, confer a ‘master’s’ degree, provided that the conditions to which the granting of an authorisation to confer that degree is subject are compatible with Article 10(2) of that directive, which it is for the national court to verify.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+1.
+Directive 2005/29/EC of the European Parliament and of the Council of May concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/of the European Parliament and of the Council (‘Unfair Commercial Practices Directive’) must be interpreted as not applying to national legislation, such as that at issue in the main proceedings, which provides for criminal penalties to be imposed on persons who, without prior authorisation from the competent authority, confer a ‘master’s’ degree.
+ 
+2.
+Article 1(5) of Directive 2006/123/EC of the European Parliament and of the Council of December on services in the internal market, read in conjunction with Articles and thereof, must be interpreted as not precluding national legislation, such as that at issue in the main proceedings, which provides for criminal penalties to be imposed on persons who, without prior authorisation from the competent authority, confer a ‘master’s’ degree, provided that the conditions to which the granting of an authorisation to confer that degree is subject are compatible with Article 10(2) of that directive, which it is for the national court to verify.
+ 
+[Signatures]
+(
+*)	Language of the case: Dutch.
+Top  

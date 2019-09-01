@@ -1,0 +1,172 @@
+
+JUDGMENT OF THE COURT (Tenth Chamber)
+May (
+*)
+(Reference for a preliminary ruling — Social security for migrant workers — Coordination of social security systems — Regulation (EC) No 883/— Material scope — Article — Declaration made by Member States under Article — Bridging pension — Classification — Statutory pre-retirement schemes — Exclusion of the rule of aggregation of periods under Article 66)
+In Case C–517/16,
+REQUEST for a preliminary ruling under Article TFEU from the Sąd Apelacyjny w Gdańsku III Wydział Pracy i Ubezpieczeń Społecznych (Court of Appeal of Gdańsk, Labour and Social Insurance Division III, Poland) made by decision of September 2016, received at the Court on October 2016, in the proceedings
+Stefan Czerwiński
+v
+Zakład Ubezpieczeń Społecznych Oddział w Gdańsku,
+THE COURT (Tenth Chamber),
+composed of A. Borg Barthet, acting as President of the Chamber, M. Berger and F. Biltgen (Rapporteur), Judges,
+Advocate General: E. Tanchev,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Zakład Ubezpieczeń Społecznych Oddział w Gdańsku, by A. Bołtruczyk, radca prawny,
+–
+the Polish Government, by B. Majczyna, acting as Agent,
+–
+the Danish Government, by J. Nymann-Lindegren, M.N. Lyshøj and C. Thorning, acting as Agents,
+–
+the European Parliament, by A.-M. Dumbrăvan and A. Pospíšilová Padowska, acting as Agents,
+–
+the Council of the European Union, by A. Norberg and K. Pleśniak, acting as Agents,
+–
+the European Commission, by D. Martin and A. Szmytkowska, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles 1, and 9, and the validity of Article of Regulation (EC) No 883/of the European Parliament and of the Council of April on the coordination of social security systems (OJ L 166, p. 1, and corrigendum OJ L 200, p. 1), as amended by Regulation (EU) No 465/of the European Parliament and of the Council of May (OJ L 149, p. 4) (‘Regulation No 883/2004’).
+The request has been made in proceedings between Mr Stefan Czerwiński and Zakład Ubezpieczeń Społecznych Oddział w Gdańsku (social security institution, Gdańsk, Poland) (‘ZUS’) concerning the latter’s refusal to take into account, for the purpose of granting a bridging pension, periods of contribution relating to activities carried out by the person concerned in other Member States of the European Union or the European Economic Area (EEA).
+Legal context
+The Agreement on the European Economic Area
+Article of the Agreement on the European Economic Area of May (OJ L 1, p. 3) provides:
+‘In order to provide freedom of movement for workers and self-employed persons, the Contracting Parties shall, in the field of social security, secure, as provided for in Annex VI, for workers and self-employed persons and their dependants, in particular:
+(a)
+aggregation, for the purpose of acquiring and retaining the right to benefit and of calculating the amount of benefit, of all periods taken into account under the laws of the several countries;
+(b)
+payment of benefits to persons resident in the territories of Contracting Parties.’
+Annex VI to the Agreement on the European Economic Area, as amended by the Decision of the EEA Joint Committee No 76/2011, of July (OJ L 262, p. 33), refers, in point I, entitled ‘General social security coordination’, to Regulation No 883/and its subsequent amendments.
+European Union law
+According to recital of Regulation No 883/2004:
+‘It is necessary to include statutory pre-retirement schemes within the scope of this Regulation, thus guaranteeing both equal treatment and the possibility of exporting pre-retirement benefits as well as the award of family and health-care benefits to the person concerned, in accordance with the provisions of this Regulation; however, the rule on the aggregation of periods should not be included, as only a very limited number of Member States have statutory pre-retirement schemes.’
+Article of that regulation, entitled ‘Definitions’, is worded as follows:
+‘For the purposes of this Regulation:
+…
+(x)
+“pre-retirement benefit” means: all cash benefits, other than an unemployment benefit or an early old-age benefit, provided from a specified age to workers who have reduced, ceased or suspended their remunerative activities until the age at which they qualify for an old-age pension or an early retirement pension, the receipt of which is not conditional upon the person concerned being available to the employment services of the competent State; “early old-age benefit” means a benefit provided before the normal pension entitlement age is reached and which either continues to be provided once the said age is reached or is replaced by another old-age benefit;
+…’
+Article of that regulation, entitled ‘Matters covered’, provides, in paragraph thereof:
+‘This regulation shall apply to all legislation concerning the following branches of social security:
+…
+(d)
+old-age benefits;
+…
+(i)
+pre-retirement benefits;
+…’
+Article of that regulation is worded as follows:
+‘Unless otherwise provided for by this Regulation, the competent institution of a Member State whose legislation makes:
+–
+the acquisition, retention, duration or recovery of the right to benefits,
+–
+the coverage by legislation, or
+–
+the access to or the exemption from compulsory, optional continued or voluntary insurance,
+conditional upon the completion of periods of insurance, employment, self-employment or residence shall, to the extent necessary, take into account periods of insurance, employment, self-employment or residence completed under the legislation of any other Member State as though they were periods completed under the legislation which it applies.’
+Article of Regulation No 883/provides:
+‘1.   The Member States shall notify the European Commission in writing of the declarations made in accordance with point (l) of Article 1, the legislation and schemes referred to in Article 3, the conventions entered into as referred to in Article 8(2), the minimum benefits referred to in Article 58, and the lack of an insurance system as referred to in Article 65a(1), as well as substantive amendments. Such notifications shall indicate the date from which this Regulation will apply to the schemes specified by the Member States therein.
+2.   These notifications shall be submitted to the European Commission every year and shall be given the necessary publicity.’
+Article of the regulation states that ‘when the applicable legislation makes the right to pre-retirement benefits conditional on the completion of periods of insurance, of employment or of self-employment, Article shall not apply’.
+Polish law
+According to Article 3(1) of the Ustawa o emeryturach pomostowych (Law on bridging pensions) of December 2008, in its consolidated version (Dz. U. of 2015, position 965) (‘the Law on bridging pensions’), work under particular conditions means work involving risk factors that, with age, are highly likely to result in permanent damage to health, performed under particular working conditions determined by forces of nature or technological processes which, despite the application of protective technical, organisational and medical measures, place demands on workers that exceed their capacities that, due to the effect of aging, are restricted before they reach retirement age to a degree that hinders their ability to work in their current position. A list of work under such particular conditions is set out in Annex I to that law.
+Article 3(3) of that law defines work of a particular nature as work requiring special responsibility or special psychological and physical capacities, which the ability to perform properly without jeopardising public safety, including the health or life of others, diminishes before retirement age is reached as a result of a deterioration in psychological and physical capacities owing to the ageing process. A list of work of a particular nature is set out in Annex II to that law.
+Article of the Law on bridging pensions sets out the conditions to be satisfied in order to have the right to a bridging pension. The worker must:
+‘(1)
+be born after December 1948;
+(2)
+have performed work under particular conditions or of a particular nature for a period of at least years;
+(3)
+have attained the age of at least in the case of women and at least in the case of men;
+(4)
+give evidence of periods of contribution and non-contribution … of at least years for women and at least years for men;
+(5)
+have, prior to January 1999, performed work under particular conditions or work of a particular nature within the meaning of Article 3(1) and (3) of the Law on bridging pensions or Articles and of the [ustawa o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Law on retirement pensions and other pensions from the Social Security Fund) of December (Dz. U. of 2016, position 887)];
+(6)
+have performed work, after December 2008, under particular conditions or of a particular nature within the meaning of Article 3(1) and (3) of the Law on bridging pensions;
+(7)
+have had their employment terminated.’
+According to Article of the Law on bridging pensions, workers who perform work under the particular conditions referred to in points 20, and of Annex I to that law, who satisfy the conditions laid down in Article 4(1) and (4) to (7) thereof, are to acquire a right to a bridging pension, provided that they have reached the age of at least in the case of women and at least in the case of men; and, they can prove that they have worked under those particular conditions for at least years.
+In accordance with Article of that law, the right to a bridging pension ceases on the date either (i) preceding the date on which the right to an old-age pension, as set by a decision of a pension authority or other retirement pension authority and laid down in separate provisions, is acquired, or (ii) on which the person entitled attains the retirement age, or (iii) on which the person entitled dies.
+Article 6(1) and (2) of the Law on retirement pensions and other pensions from the Social Security Fund (‘the Law on Pensions’), provides:
+‘1.   The following periods shall be contribution periods:
+(1)
+periods of insurance;
+…
+2.   the following periods falling before November 1991, in respect of which a social security contribution was paid, or in respect of which there was no obligation to pay social insurance contributions, shall also be regarded as contribution periods:
+(1)
+employment after reaching the age of 15:
+…
+(d)
+Polish nationals abroad — with other foreign employers, where social security contributions in Poland were paid during the period of work abroad; …’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Mr Czerwiński, born on January 1951, accumulated years and months of contribution and non-contribution periods in Poland.
+In addition, in the years to 2011, he worked as a second engineer on a boat in Germany and as a chief engineer on a boat in Norway. During those periods of work, he paid contributions to the social security institutions of Germany and Norway respectively.
+On June 2013, Mr Czerwiński lodged an application for a bridging pension with the ZUS.
+By decision of July 2013, the ZUS rejected that application on the ground that Mr Czerwiński had not demonstrated, as of January 2009, years of work of a particular nature or performed under particular conditions within the meaning of Article 3(1) and (3) of the Law on bridging pensions, nor a 25-year contribution and non-contribution period required by the same law.
+Mr Czerwiński appealed against that decision.
+By judgment of January 2015, the Sąd Okręgowy w Gdańsku VII Wydział Pracy i Ubezpieczeń Społecznych (Regional Court of Gdańsk, Labour and Social Insurance Division VII, Poland) dismissed that appeal. According to that court, Mr Czerwiński could prove years of work performed under particular conditions as required by the law, but he was not able to prove years of contributions, since periods of contribution for work undertaken abroad could not be taken into account in that regard.
+The Sąd Apelacyjny w Gdańsku III Wydział Pracy i Ubezpieczeń Społecznych (Court of Appeal of Gdańsk, Labour and Social Insurance Division III, Poland), which is seised of the appeal brought by Mr Czerwiński against that judgment, has doubts as to the classification of the bridging pension.
+Although the declaration made by the Polish authorities, in accordance with Article of Regulation No 883/2004, states that bridging pensions fall within the category of pre-retirement benefits, the referring court wonders whether those pensions should not be considered as old-age benefits. It considers, in that context, that it is necessary to determine whether the classification of a benefit under one of the branches of social security listed in Article of Regulation No 883/made by the competent national authority in the declaration to be made by the Member State concerned under Article of that regulation is definitive, or whether it is capable of assessment by the national courts.
+The referring court notes that if the bridging pension was classified as an old-age benefit, the rule on aggregation of the periods laid down in Article of Regulation No 883/would be applicable.
+On the other hand, if the bridging pension falls within the category of pre-retirement benefits, the question arises as to whether the exclusion of the rule on aggregation of periods, as stems from Article of Regulation No 883/2004, is compatible with the objective of protection of social security cover flowing from Article 48(a) TFEU.
+In those circumstances, the Sąd Apelacyjny w Gdańsku (Court of Appeal of Gdańsk) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Can the classification, made by a Member State in a declaration submitted pursuant to Article of [Regulation No 883/2004], of a particular benefit as concerning a specific branch of social security referred to in Article of that regulation be subject to assessment by a national authority or court?
+(2)
+Does a bridging pension arising under the [Law on bridging pensions] constitute an old-age benefit within the meaning of Article 3(1)(d) of Regulation No 883/2004?
+(3)
+Does the exclusion in relation to pre-retirement benefits of the rule on aggregation of periods of insurance (Article and recital of Regulation No 883/2004) perform a protective function in the field of social security arising from Article 48(a) [TFEU]?’
+The first question
+By its first question, the referring court asks, in essence, whether the classification of a benefit under one of the branches of social security listed in Article of Regulation No 883/made by the competent national authority in the declaration to be made by the Member State under Article 9(1) of that regulation is definitive or whether it is capable of assessment by the national courts.
+As regards the declaration made under Article 9(1) of Regulation No 883/2004, the Court has held that Member States have a duty to declare the laws and schemes relating to social security benefits which fall within the scope ratione materiae of that regulation and with which the Member States are required to comply, while respecting the requirements stemming from Article 4(3) TEU (see, to that effect, judgment of March 2016, Commission v Malta, C‑12/14, EU:C:2016:135, paragraph 36).
+It follows from the principle of sincere cooperation, laid down in Article 4(3) TEU, that every Member State, for the purposes of the declarations covered by Article 9(1) of Regulation No 883/2004, must carry out a proper assessment of its own social security regimes and, if necessary, following that assessment, declare them as falling within the scope of that regulation (see, to that effect, judgment of March 2016, Commission v Malta, C‑12/14, EU:C:2016:135, paragraph and the case-law cited).
+Thus, that declaration creates a presumption that the national laws in a declaration under Article of Regulation No 883/fall within the scope of those regulations and bind, in principle, the other Member States (judgment of March 2016, Commission v Malta, C‑12/14, EU:C:2016:135, paragraph 38).
+Conversely, the fact that a national law or rule has not been mentioned in a declaration under Article of Regulation No 883/does not, in itself, prove that that law or rule does not fall within the scope of that regulation (see, to that effect, judgments of July 1996, Otte, C‑25/95, EU:C:1996:295, paragraph and the case-law cited, and of September 2013, HliddalandBornand, C‑216/and C‑217/12, EU:C:2013:568, paragraph 46).
+The Court has repeatedly held that the distinction between the benefits which are excluded from the scope of Regulation No 883/and benefits which are covered essentially rests on the constituent elements of each benefit, in particular its purpose and the conditions for its grant, and not on whether the national law classifies it as a social security benefit or not (judgments of March 1985, ScrivnerandCole, 122/84, EU:C:1985:145, paragraph 18; of July 1996, Otte, C‑25/95, EU:C:1996:295, paragraph 21, and of March 1998, Molenaar, C‑160/96, EU:C:1998:84, paragraph and the case-law cited).
+In any event, in order to fall within the scope of Regulation No 883/2004, a national law must cover one of the risks expressly listed in Article 3(1) of that regulation (see, to that effect, judgments of March 1985, Scrivner andCole, 122/84, EU:C:1985:145, paragraph 19, and of July 1996, Otte, C‑25/95, EU:C:1996:295, paragraph 22).
+In the present case, given that the referring court asks whether the benefit at issue in the main proceedings must be classified as a pre-retirement benefit or an old-age benefit, it is not disputed that that benefit relates to one of the risks specified in Article 3(1) of Regulation No 883/2004.
+However, since there are doubts as to the classification of the social security benefit made by the competent national authority in its declaration made under Article of Regulation No 883/2004, it is for the Member State which made that declaration to reconsider whether that classification is well founded and to amend it, if necessary (see, by analogy, judgment of March 2016, Commission v Malta, C‑12/14, EU:C:2016:135, paragraph 39).
+In that context, the Court has held that a national court, seised of a dispute relating to a national law, can always be called upon to examine the classification of the benefit at issue in a case before it and, if necessary, to refer to the Court a question for a preliminary ruling on that issue, for the purposes of determining whether that law falls within the material scope of Regulation No 883/(see, to that effect, judgment of March 2016, Commission v Malta, C‑12/14, EU:C:2016:135, paragraph 43).
+Since the classification of a social security benefit, within the meaning of Regulation No 883/2004, must be made by the national court concerned autonomously and on the basis of the elements that constitute the benefit in question and, if necessary, by referring a question for a preliminary ruling to the Court, the classification of social security benefits given in the declaration made by the competent national authority under Article of that regulation cannot be definitive.
+The principal objective of Regulation No 883/2004, which is to ensure the coordination of national social security systems within the framework of free movement of persons while guaranteeing equality of treatment under the different national legislations, would be seriously compromised if it were possible for every Member State, by failing to include certain social benefits in the declaration or, conversely, by including them to determine freely the scope of that regulation.
+Therefore, the answer to the first question is that the classification of a benefit under one of the branches of social security listed in Article of Regulation No 883/made by the competent national authority in the declaration to be made by the Member State under Article 9(1) of that regulation is not definitive. The classification of a social security benefit may be made by the national court concerned, autonomously and on the basis of the elements that constitute the social security benefit at issue, and by referring, if necessary, a question for a preliminary ruling to the Court.
+The second question
+By its second question, the referring court asks whether such a benefit is to be regarded as an ‘old-age benefit’ within the meaning of Article 3(1)(d) of Regulation No 883/or a ‘pre-retirement benefit’ within the meaning of Article 3(1)(i) of that regulation.
+It should be noted, as a preliminary point, that the answer to that question is decisive for the processing of the application for a bridging pension. If that pension is to be regarded as an ‘old-age benefit’, and in view of the fact that the grant of such a benefit is subject to attaining periods of insurance, employment, non-salaried work or residence, the competent institution of a Member State must take into account, pursuant to Article of Regulation No 883/2004, all periods completed under the legislation of any other Member State, and even any Member State of the EEA, as if those periods were completed in the Member State of that institution. On the other hand, if that pension is to be classified as a ‘pre-retirement benefit’, Article of Regulation No 883/excludes the application of the rule on the aggregation of periods laid down in Article of the regulation.
+With regard to determining the nature of the benefit at issue in the main proceedings, it must be recalled that, according to the Court’s settled case-law, social security benefits must be regarded, irrespective of the characteristics specific to different national legal systems, as being of the same kind when their purpose and subject matter as well as the basis on which they are calculated and the conditions for granting them are identical. On the other hand, characteristics which are purely formal must not be considered relevant criteria for the classification of the benefits (see, to that effect, judgments of July 1983, Valentini, 171/82, EU:C:1983:189, paragraph 13; of July 2006, De Cuyper, C‑406/04, EU:C:2006:491, paragraph 25; and of September 2008, Petersen, C‑228/07, EU:C:2008:494, paragraph 21).
+Where it is necessary to distinguish between different categories of social security benefits, the Court has clarified that the risk covered by each benefit must be taken into consideration (judgments of July 2006, De Cuyper, C‑406/04, EU:C:2006:491, paragraph 27, and of September 2013, HliddalandBornand, C‑216/and C‑217/12, EU:C:2013:568, paragraph 52).
+Thus, the essential characteristic of the old-age benefits referred to in Article 3(1)(d) of Regulation No 883/lies in the fact that they are intended to safeguard the means of subsistence of persons who, when they reach a certain age, leave their employment and are no longer required to hold themselves available for work at the employment office (judgment of July 1983, Valentini, 171/82, EU:C:1983:189, paragraph 14).
+By contrast, pre-retirement benefits, even if they bear certain similarities to old-age benefits as regards their subject matter and purpose, namely, amongst other things, to safeguard the means of subsistence of persons who have reached a certain age, they differ from them notably in so far as they pursue an objective connected with employment policy inasmuch as they help to release posts held by workers who are near to the age of retirement for the benefit of younger unemployed persons, an objective which became apparent in a context of economic crisis which affected Europe (see, to that effect, judgment of July 1983, Valentini, 171/82, EU:C:1983:189, paragraphs and 17). Likewise, in the case of the cessation of the economic activity of an undertaking, the grant of such an allowance contributes to reducing the number of laid-off workers who are subject to the unemployment insurance scheme (see, by analogy, judgment of July 1996, Otte, C‑25/95, EU:C:1996:295, paragraph 31).
+It follows that pre-retirement benefits have a greater connection with the context of economic crisis, restructuring, redundancies and rationalisation.
+In addition, it should be noted that while statutory pre-retirement schemes were not within the scope of the legislation applicable to social security schemes for migrant workers before the entry into force of Regulation No 883/2004, the notion of ‘pre-retirement benefit’ is now defined in Article 1(x) of that regulation as meaning all cash benefits, other than an unemployment benefit or an early old-age benefit, provided from a specified age to workers who have reduced, ceased or suspended their remunerative activities until the age at which they qualify for an old-age pension or an early retirement pension, the receipt of which is not conditional upon the person concerned being available to the employment services of the competent State.
+Under that provision, ‘pre-retirement benefit’ differs from ‘early old-age benefit’ in that the latter is provided before the person concerned has reached the normal pension entitlement age and either continues to be provided once that age is reached or is replaced by another old-age benefit.
+The question of whether a benefit, such as that at issue in the main proceedings, is to be regarded as an ‘old-age benefit’, within the meaning of Article 3(1)(d) of Regulation No 883/2004, or a ‘pre-retirement benefit’ within the meaning of Article 3(1)(i) of that regulation, must be examined in the light of those considerations.
+As regards, first, the subject matter and the purpose of the benefit at issue in the main proceedings, Article of the Law on bridging pensions, in particular paragraphs and thereof, states that the bridging pension covers workers who performed work involving risk under particular conditions, which could result in permanent damage to health or which require, despite technological progress, specific psychological or physical capacities that, as the result of the ageing process, are reduced or diminished before the age of retirement making it difficult for those workers to perform the work undertaken up until that point; or, even, workers who can no longer guarantee performing work of a particular nature, such as work involving particular responsibility and capacities and who, as a result of psychological and physical decline due to advancing age, can no longer carry out that work without placing the health and lives of others in danger.
+Even if, a priori, the beneficiary of a bridging pension, in the same way as a worker receiving a pre-retirement benefit within the meaning of Article 1(x) of Regulation No 883/2004, ceased or suspended their remunerative activities until the age at which they qualify for an old-age pension, it remains the case that the bridging pension is connected neither with the situation on the employment market in a context of economic crisis nor with the economic capacity of an undertaking in the context of a restructuring, but only with the nature of the work, which is of a particular nature or is performed under particular conditions.
+Furthermore, to the extent that the national legislation at issue refers expressly to the ageing process of workers and makes no reference to an objective of releasing employment positions for younger persons, the benefit at issue in the main proceedings appears to have a greater connection with old-age benefits.
+Next, as regards the basis for the calculation of the benefit at issue in the main proceedings, it is clear, in essence, from the order for reference that the amount of the bridging pension is determined on the basis of the amount of the old-age pension, since Article 14(3) of the Law on bridging pensions specifies that the amount of the bridging pension cannot be lower than that of the lowest old-age pension, as fixed by the Law on pensions. In addition, pursuant to Articles 18, and of the Law on bridging pensions a beneficiary of a bridging pension has the right to dependence allowances, a survivor’s pension and the funeral expenses allowance, under the same conditions as those laid down in the Law on pensions.
+Finally, as regards the conditions for the grant of the benefit at issue in the main proceedings, it is necessary to observe that Article of the Law on bridging pensions defines the general conditions relating to age, length of service and evidence of long periods of contribution and non-contribution, which are, as a rule, requirements connected with the grant of old-age benefits, unlike the conditions generally laid down for the grant of pre-retirement benefits.
+As regards, more specifically, the loss of the right to a bridging pension, it must be noted that, while it is clear from Article of the Law on bridging pensions that the right to that benefit ends the day before the right to an old-age pension commences, the case file submitted to the Court does not however contain any element that allows it to be excluded that it is an early old-age benefit within the meaning of Article 1(x) of Regulation No 883/2004, in that the bridging pension continues to be provided once the normal age for old-age pension entitlement is reached, or that the bridging pension is replaced by another old-age benefit.
+In those circumstances, it must be held that it follows from both the subject matter and the purpose of the benefit at issue in the main proceedings, as well as the basis of its calculation and the conditions for its grant, that such a benefit is related to the risks of old age referred to in Article 3(1)(d) of Regulation No 883/and that, therefore, the rule on aggregation of periods applies to it.
+Consequently, the answer to the second question must be that a benefit such as that at issue in the main proceedings must be regarded as an ‘old-age benefit’ within the meaning of Article 3(1)(d) of Regulation No 883/2004.
+The third question
+In view of the answer given to the first two questions, it is unnecessary to answer the third.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Tenth Chamber) hereby rules:
+ 
+1.
+The classification of a benefit under one of the branches of social security listed in Article of Regulation (EC) No 883/of the European Parliament and of the Council of April on the coordination of social security systems, made by the competent national authority in the declaration submitted by the Member State pursuant to Article 9(1) of that regulation, is not definitive. The classification of a social security benefit may be made by the national court concerned, autonomously and on the basis of the elements that constitute the social security benefit at issue, and by referring, if necessary, a question for a preliminary ruling to the Court.
+ 
+2.
+A benefit such as that at issue in the main proceedings must be regarded as an ‘old-age benefit’ within the meaning of Article 3(1)(d) of Regulation No 883/2004.
+ 
+[Signatures]
+(
+*)	Language of the case: Polish.
+Top  

@@ -1,0 +1,157 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+January (
+*)
+(Reference for a preliminary ruling — Judicial cooperation in civil matters — Jurisdiction and recognition and enforcement of judgments on maintenance obligations — Regulation (EC) No 44/— Article 5(2) — Article — Article 35(3) — Jurisdiction, recognition and enforcement of decisions in matrimonial matters and matters of parental responsibility — Regulation (EC) No 2201/— Article — Lis pendens — Article 22(a) — Article 23(a) Non-recognition where the decisions are manifestly contrary to public policy — Article — Prohibition of review of jurisdiction of the court of origin — Ground for the non-recognition based on a breach of the rules of lis pendens — Absence)
+In Case C‑386/17,
+REQUEST for a preliminary ruling under Article TFEU from the Corte suprema di cassazione (Supreme Court of Cassation, Italy), made by decision of October 2016, received at the Court on June 2017, in the proceedings
+Stefano Liberato
+v
+Luminita Luisa Grigorescu,
+THE COURT (First Chamber),
+composed of R. Silva de Lapuerta, Vice-President, acting as President of the First Chamber, J.-C. Bonichot, A. Arabadjiev, E. Regan and C.G. Fernlund (Rapporteur), Judges
+Advocate General: Y. Bot,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Mr Liberato, by F. Ongaro and A. Castellani, avvocati,
+–
+the Italian Government, by G. Palmieri, acting as Agent, and by P. Pucciariello, avvocato dello Stato,
+–
+the Czech Government, by M. Smolek and J. Vláčil and by A. Kasalická, acting as Agents,
+–
+the European Commission, by E. Montaguti and M. Wilderspin, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Council Regulation (EC) No 2201/of November concerning jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility, repealing Regulation (EC) No 1347/(OJ L 338, p. 1).
+The request has been made in proceedings between Mr Stefano Liberato and Ms Luminita Luisa Grigorescu concerning a request for recognition in Italy of a judgment in matrimonial matters, matters of parental responsibility and maintenance obligations delivered in Romania.
+Legal context
+European Union law
+Regulation No 2201/Recitals and of Regulation No 2201/state:
+‘(11)
+Maintenance obligations are excluded from the scope of this Regulation as these are already covered by [Council Regulation EC No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 12, p. 1)]. The courts having jurisdiction under this Regulation will generally have jurisdiction to rule on maintenance obligations by application of Article 5(2) of … Regulation No 44/2001.
+…
+(21)
+The recognition and enforcement of judgments given in a Member State should be based on the principle of mutual trust and the grounds for non-recognition should be kept to the minimum required.’
+Article of Regulation No 2201/2003, which is entitled ‘Prorogation of jurisdiction’, provides in paragraph 1:
+‘The courts of a Member State exercising jurisdiction by virtue of Article on an application for divorce, legal separation or marriage annulment shall have jurisdiction in any matter relating to parental responsibility connected with that application where:
+(a)
+at least one of the spouses has parental responsibility in relation to the child;
+and
+(b)
+the jurisdiction of the courts has been accepted expressly or otherwise in an unequivocal manner by the spouses and by the holders of parental responsibility, at the time the court is seised, and is in the superior interests of the child.’
+Article of the regulation, entitled ‘Examination as to jurisdiction’, provides:
+‘Where a court of a Member State is seised of a case over which it has no jurisdiction under this Regulation and over which a court of another Member State has jurisdiction by virtue of this Regulation, it shall declare of its own motion that it has no jurisdiction.’
+Article of the regulation states:
+‘1.   Where proceedings relating to divorce, legal separation or marriage annulment between the same parties are brought before courts of different Member States, the court second seised shall of its own motion stay its proceedings until such time as the jurisdiction of the court first seised is established.
+2.   Where proceedings relating to parental responsibility relating to the same child and involving the same cause of action are brought before courts of different Member States, the court second seised shall of its own motion stay its proceedings until such time as the jurisdiction of the court first seised is established.
+3.   Where the jurisdiction of the court first seised is established, the court second seised shall decline jurisdiction in favour of that court.
+In that case, the party who brought the relevant action before the court second seised may bring that action before the court first seised.’
+Article of Regulation No 2201/2003, entitled ‘Grounds of non-recognition for judgments relating to divorce, legal separation or marriage annulment’, provides:
+‘A judgment relating to a divorce, legal separation or marriage annulment shall not be recognised:
+(a)
+if such recognition is manifestly contrary to the public policy of the Member State in which recognition is sought;
+…
+(c)
+if it is irreconcilable with a judgment given in proceedings between the same parties in the Member State in which recognition is sought;
+…’
+Article of the regulation, entitled ‘Grounds of non-recognition for judgments relating to parental responsibility’, provides:
+‘A judgment relating to parental responsibility shall not be recognised:
+(a)
+if such recognition is manifestly contrary to the public policy of the Member State in which recognition is sought taking into account the best interests of the child;
+…
+(e)
+if it is irreconcilable with a later judgment relating to parental responsibility given in the Member State in which recognition is sought;
+…’
+Article of the regulation, entitled ‘Prohibition of review of jurisdiction of the court of origin’, provides:
+‘The jurisdiction of the court of the Member State of origin may not be reviewed. The test of public policy referred to in Articles 22(a) and 23(a) may not be applied to the rules relating to jurisdiction set out in Articles to 14.’
+Regulation No 44/Article of Regulation No 44/provides:
+‘A person domiciled in a Member State may, in another Member State, be sued:
+…
+2.
+in matters relating to maintenance, in the courts for the place where the maintenance creditor is domiciled or habitually resident or, if the matter is ancillary to proceedings concerning the status of a person, in the court which, according to its own law, has jurisdiction to entertain those proceedings, unless that jurisdiction is based solely on the nationality of one of the parties;
+…’
+Article of that regulation is worded as follows:
+‘1.   Where proceedings involving the same cause of action and between the same parties are brought in the courts of different Member States, any court other than the court first seised shall of its own motion stay its proceedings until such time as the jurisdiction of the court first seised is established.
+2.   Where the jurisdiction of the court first seised is established, any court other than the court first seised shall decline jurisdiction in favour of that court.’
+Article of the same regulation provides:
+‘A judgment shall not be recognised:
+1.
+if such recognition is manifestly contrary to public policy in the Member State in which recognition is sought;
+…
+3.
+if it is irreconcilable with a judgment given in a dispute between the same parties in the Member State in which recognition is sought;
+4.
+if it is irreconcilable with an earlier judgment given in another Member State or in a third State involving the same cause of action and between the same parties, provided that the earlier judgment fulfils the conditions necessary for its recognition in the Member State addressed.’
+Article of Regulation No 44/states:
+‘1.   Moreover, a judgment shall not be recognised if it conflicts with Sections 3, or of Chapter II, or in a case provided for in Article 72.
+2.   In its examination of the grounds of jurisdiction referred to in the foregoing paragraph, the court or authority applied to shall be bound by the findings of fact on which the court of the Member State of origin based its jurisdiction.
+3.   Subject to the paragraph 1, the jurisdiction of the court of the Member State of origin may not be reviewed. The test of public policy referred to in point of Article may not be applied to the rules relating to jurisdiction.’
+Italian law
+Article of the Codice civile (Civil Code) entitled ‘Legal separation’, provides:
+‘Legal separation of the spouses is permitted.
+The separation may be ordered by the court or be consensual.
+The right to apply for court-ordered separation or confirmation of consensual separation is vested solely in the spouses.’
+Article of the Civil Code, entitled ‘Court-ordered separation’, provides:
+‘Separation may be applied for when there exist, even if outwith the control of either or both of the spouses, circumstances liable to render intolerable continuing cohabitation or to cause serious harm to the upbringing of the children.
+The judge pronouncing separation shall declare, where the relevant circumstances obtain and a request to that effect is made, to which of the spouses the separation is imputable by virtue of conduct inconsistent with the duties devolving from marriage.’
+The referring court states that parental responsibility and maintenance obligations regarding the child are governed in the same way, in the case of separation and divorce by Articles 337a to 337g of the Civil Code.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Mr Liberato and Ms Grigorescu married in Rome (Italy) on October and lived together in that Member State until the birth of their child on February 2006. The matrimonial relationship deteriorated progressively and the mother took the child with her to Romania and did not return to Italy.
+By application of May to the Tribunale di Teramo (District Court, Teramo, Italy), Mr Liberato sought legal separation from Ms Grigorescu and custody of the child. Ms Grigorescu, who entered an appearance before the court, sought to have that application dismissed on the merits and lodged a counterclaim seeking a contribution from the father to the child’s maintenance. By judgment of January 2012, that court pronounced legal separation of the spouses, for which it held Ms Grigorescu responsible, and, by a separate order, referred the case back for a decision on the opposing claims concerning parental responsibility.
+While those proceedings concerning parental responsibility brought before the Tribunale di Teramo (District Court, Teramo) were still pending in Italy, Ms Grigorescu brought proceedings before the Judecãtoria Bucureşti (Court of First Instance, Bucharest, Romania) on September 2009, seeking a divorce, sole custody of the child and a contribution from the father to the child’s maintenance.
+Mr Liberato entered an appearance before that court, raising the objection of lis pendens, arguing that he had already brought proceedings for legal separation and parental responsibility in Italy. However, by judgment of May 2010, that court pronounced the divorce, awarded custody of the child to the mother, fixed the arrangements for the exercise of the father’s rights of access to the child and set the amount of maintenance to be paid by the latter for the child.
+That judgment acquired the force of res judicata following a judgment of the Curtea de Apel Bucureşti (Court of Appeal, Bucharest, Romania) of June 2013, which confirmed the judgment of the Tribunalul Bucureşti (Regional Court, Bucharest, Romania) of December 2012, by which that court dismissed the appeal brought by Mr Liberato against the judgment of May 2010.
+By judgment of July 2013, the separation proceedings before the Tribunale di Teramo (District Court, Teramo) were subsequently concluded. That court granted sole custody of the child to the father and ordered the immediate return of the child to Italy. That court also determined the arrangements for the exercise of the mother’s rights of access to the child in Italy and ordered her to make a contribution for maintenance of the child.
+In particular the Tribunale di Teramo (District Court, Teramo) dismissed the incidental application by which Ms Grigorescu had applied, on the basis of Regulation No 2201/for recognition in Italy of the divorce judgment of the Tribunalul Bucureşti (Regional Court, Bucharest) of December 2012. The Tribunale di Teramo (District Court, Teramo) observed that the divorce proceedings in Romania had been commenced after the legal separation proceedings brought in Italy and that, consequently, the Romanian courts had infringed Article of Regulation No 2201/by failing to stay the proceedings.
+Ms Grigorescu appealed against that judgment and brought, as an initial step, a cross-claim for recognition of the judgment of the Curtea de Apel Bucureşti (Court of Appeal, Bucharest) of June which had dismissed the objection of lis pendens on the ground that the two cases did not have the same subject matter under Romanian procedural law.
+By judgment of March 2014, the Corte d’appello di L’Aquila (Court of Appeal, L’Aquila, Italy) varied the judgment of the Tribunale di Teramo (District Court, Teramo) of July and upheld the objection relating to the acquisition of the force of res judicata of the divorce decision delivered by the Romanian courts, which also concerned custody of the child and maintenance contributions for him. That court held that the breach of the rules of lis pendens under EU law, by the judicial authorities of the Member State second seised, in this case Romania, was not relevant for the purposes of examining the conditions for recognition of the definitive measures adopted by that Member State and that there was no ground, in particular relating to public policy, preventing the recognition of the Romanian judgment.
+Mr Liberato brought an appeal in cassation against that judgment of the Corte d’Appello di L’Aquila (Court of Appeal, L’Aquila).
+The referring court points out that the judgment delivered in Romania governs the questions of the marriage ties, parental responsibility and maintenance obligations. In the proceedings for legal separation initiated in Italy, the same claims had been made, except the claim relating to the marriage ties which was not the same because the Italian legal system requires, prior to the divorce, that the legal requirements relating to legal separation of the spouses have been met.
+That court states that there are no grounds based on Article 22(c) of Regulation No 2201/2003, Article 23(e) thereof or Article 34(4) of Regulation No 44/precluding the recognition of the Romanian judgment as regards, respectively, matrimonial status, parental responsibility and maintenance obligations.
+According to the referring court, it is necessary to examine whether an infringement, which it considers manifest, of the provisions relating to lis pendens in EU law, laid down in Article of Regulation No 2201/and Article of Regulation No 44/by the courts which issued the decision which is the subject of the request for recognition, may be regarded as being a ground for withholding recognition of that judgment by reason of the fact that it is contrary to public policy.
+In those circumstances, the Corte suprema di cassazione (Supreme Court of Cassation, Italy) decided to stay its proceedings and refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Does an infringement of the rules on lis pendens contained in Article 19(2) and (3) of Regulation No 2201/affect only the determination of jurisdiction, with the consequent application of Article [thereof] or, on the contrary, may it constitute a ground for withholding recognition, in the Member State whose court has been seised first, of a judicial ruling made in the Member State whose court has been seised at a later stage, in the light of procedural public policy, having regard to the fact that [that Article 24] refers only to the rules determining jurisdiction contained in Articles to of that regulation and not to the subsequent Article thereof?
+(2)
+Does the interpretation of Article of Regulation No 2201/2003, seen only as a test for the conferral of jurisdiction, conflict with the EU-law concept of “lis pendens” and with the function and purpose of that provision, which is intended to lay down a set of binding rules, reflecting procedural public policy, thereby guaranteeing the creation of a common area characterised by reciprocal procedural trust and fairness between the Member States, within which the automatic recognition and free movement of judicial decisions may operate?’
+Consideration of the questions referred
+It must be observed, as a preliminary point, that the questions from the referring court concern exclusively the interpretation of Regulation No 2201/2003. However, since, as stated in recital thereto, maintenance obligations are not covered by that regulation, but by Regulation No 44/2001, it follows from the decision to refer that the case in the main proceedings concerns the recognition of a judgment which concerns not only matrimonial matters and parental responsibility, but also maintenance obligations. Therefore, the questions referred must be answered in the light of Regulations No 2201/and No 44/2001.
+By its questions, which must be examined together, the referring court asks essentially, whether the rules of lis pendens set out in Article of Regulation No 44/and Article of Regulation No 2201/must be interpreted as meaning that, where, in a dispute concerning matrimonial matters, parental responsibility or maintenance obligations, the court second seised delivers a judgment which becomes final, in breach of those rules, the courts of the Member State in which the court first seised is situated may refuse to recognise that judgment on the ground that it is manifestly contrary to public policy.
+In that connection, it should be recalled that, on September 2009, Ms Grigorescu brought an action before a Romanian court seeking a divorce from Mr Liberato, an application for custody of their child and a claim for maintenance contributions from the latter, whereas the Italian court was seised prior to that date of an application for legal separation and for custody of the child brought by Mr Liberato, and a cross-claim for maintenance contributions for the child brought by Ms Grigorescu.
+Basing its decision on the difference in the subject matter of the claims relating to matrimonial matters, one relating to divorce and the other to legal separation, the Romanian court held that there was no lis pendens, within the meaning of Article of Regulation No 2201/2003, and that it had jurisdiction to hear the action brought by Ms Grigorescu.
+As the Court has already held, while, in accordance with the wording of Article 19(1) of Regulation No 2201/2003, in matrimonial matters the proceedings must involve the same parties, they may have a different cause of action, provided that they concern judicial separation, divorce or marriage annulment. The Court thus infers that lis pendens or dependent actions may arise, within the meaning of Article of Regulation No 2201/2003, where two courts of different Member States are seised of legal separation proceedings in one case and divorce proceedings in the other. In such circumstances and where the parties are the same, the court second seised is of its own motion to stay its proceedings until such time as the jurisdiction of the court first seised is established (judgment of October 2015, A, C‑489/14, EU:C:2015:654, paragraphs and 34).
+Furthermore, and as the Advocate General noted in points and of his Opinion, if in matrimonial proceedings there are claims relating to parental responsibility, the rules on lis pendens relating to the dissolution of marriage will apply. The same is true of matters relating to maintenance when the matter is ancillary to proceedings concerning the status of a person, pursuant to Article 5(2) of Regulation No 44/2001. It follows that the former claims fall within Article 19(1) of Regulation No 2201/2003, whereas the latter are governed by Article 27(1) of Regulation No 44/2001.
+In the present case, the court first seised of the application for legal separation considered that it had jurisdiction on the basis of Article 12(1) of Regulation No 2201/to adjudicate on claims relating to parental responsibility and maintenance obligations with respect to the child, on the ground that Ms Grigorescu entered an appearance in the proceedings before it and had therefore accepted its jurisdiction.
+It follows that, in a situation such as that at issue in the main proceedings, the court second seised of an application for divorce and claims related to parental responsibility and maintenance obligations which refuses to stay its proceedings and considers that it has jurisdiction to hear those claims infringes the provisions of Article of Regulation No 2201/and those of Article of Regulation No 44/2001.
+In order to answer the questions from the referring court, it must be observed that Article of Regulation No 2201/is drafted in terms similar to those used in Article of Regulation No 44/and establishes a mechanism for dealing with cases of lis pendens that is equivalent to that provided for by the latter article. Therefore, account must be taken of the findings of the Court with regard to Regulation No 44/for the interpretation of Regulation No 2201/(see, to that effect, judgment of October 2015, A, C‑489/14, EU:C:2015:654, paragraph 27).
+The mechanism established by Regulation No 2201/must also be explained.
+That regulation is based on judicial cooperation and mutual trust, which lead to mutual recognition of judicial decisions, the cornerstone for the creation of a genuine judicial area (judgment of February 2017, W and V, C‑499/15, EU:C:2017:118, paragraph and the case-law cited).
+In that context, the rules of lis pendens play an important role.
+As the Court has previously held, in the interests of the sound administration of justice within the European Union, those rules are intended to prevent parallel proceedings before the courts of different Member States and to avoid conflicts between decisions which might result therefrom. For that purpose, the EU legislature intended to put in place a mechanism which is clear and effective in order to resolve situations of lis pendens, based on the chronological order in which the courts are seised (see, to that effect, judgment of October 2015, A, C‑489/14, EU:C:2015:654, paragraphs and and the case-law cited, and, by analogy, as regards Regulation No 44/2001, judgment of February 2014, Cartier parfums-lunettes and Axa Corporate Solutions assurances, C‑1/13, EU:C:2014:109, paragraph 40).
+In order to ensure the effective implementation of Regulation No 2201/and in accordance with the principle of mutual trust on which it is based, it must be stated, first, as the Advocate General observed in point of his Opinion, that it is for each court, in accordance with Article thereof, to examine whether it has jurisdiction (see, to that effect, judgments of July 2010, Purrucker, C‑256/09, EU:C:2010:437, paragraph 73; of November 2014, L, C‑656/13, EU:C:2014:2364, paragraph 58; and of February 2017, W and V, C‑499/15, EU:C:2017:118, paragraph 54).
+Second, under Article of Regulation No 2201/2003, the jurisdiction of the court of the Member State of origin may not be reviewed (judgment of November 2010, Purrucker, C‑296/10, EU:C:2010:665, paragraph 85). The same is true under Regulation No 44/2001, in accordance with Article 35(3) thereof.
+Third, in accordance with recital of Regulation No 2201/2003, that regulation is based on the idea that the recognition and enforcement of judgments given in a Member State should be based on the principle of mutual trust and the grounds for non-recognition should be kept to the minimum required (judgment of November 2015, P, C‑455/PPU, EU:C:2015:763, paragraph 35).
+In the light of those considerations, it must be examined whether the fact that a judgment which has become final delivered in breach of the rules of lis pendens laid down in Article of Regulation No 44/and Article of Regulation No 2201/constitutes a ground of public policy which, on the basis of Article of Regulation No 44/and Article 22(a) and Article 23(a) of Regulation No 2201/2003, precludes recognition of that judgment by the courts of the Member State in which the court first seised is situated.
+In that connection it must be recalled that, according to the wording of Article of Regulation No 2201/2003, the test of public policy referred to in Article 22(a) and Article 23(a) may not be applied to the rules relating to jurisdiction set out in Articles to thereof.
+Therefore, it must be determined whether the rules of lis pendens constitute rules on jurisdiction in the same way as those in Articles to of that regulation.
+In that connection, although it is true that the rules of lis pendens laid down in Article of Regulation No 2201/do not appear among the rules of jurisdiction expressly mentioned in Article of that regulation, Article is in Chapter II of that regulation, entitled ‘Jurisdiction’.
+Further, as the Advocate General observed in point of his Opinion, where, as in the dispute in the main proceedings, the court first seised, ruling on an incidental claim for recognition, examines whether the rules on lis pendens have been correctly applied by the court second seised and, therefore, the reasons why it has not declined jurisdiction, the court first seised is reviewing the jurisdiction of the court second seised. As stated in paragraph of the present judgment, Article of Regulation No 2201/does not allow such a review to be carried out.
+Thus, notwithstanding the fact that the prohibition laid down in Article of Regulation No 2201/does not contain any express reference to Article thereof, an alleged breach of Article does not allow the court first seised — if it is not to review the jurisdiction of the court second seised — to refuse recognition of a judgment issued by the latter contrary to the rules of lis pendens in that provision (see, by analogy, as regards Article of Regulation No 2201/2003, judgment of November 2015, P, C‑455/PPU, EU:C:2015:763, paragraph 45).
+Those findings are also applicable to the rules of lis pendens in Article of Regulation No 44/in matters relating to maintenance obligations, since Article 35(3) thereof also provides that the jurisdiction of the court of the Member State of origin may not be reviewed.
+It must be added that the court of the State in which recognition is sought may not, without challenging the aim of Regulations No 2201/and No 44/2001, refuse recognition of a judgment emanating from another Member State solely on the ground that it considers that national or EU law was misapplied in that judgment (see, to that effect, judgments of July 2015, Diageo Brands, C‑681/13, EU:C:2015:471, paragraph 49, and of November 2015, P, C‑455/PPU, EU:C:2015:763, paragraph 46).
+That analysis is confirmed by the fact that the grounds for non-recognition of a decision on the ground that it is manifestly contrary to public policy, laid down in Article 22(a) and Article 23(a) of Regulation No 2201/and Article of Regulation No 44/2001, must be interpreted strictly, in so far as it is an obstacle to the attainment of one of the fundamental objectives of those regulations, as recalled in paragraph of this judgment (see, to that effect, judgment of November 2015, P, C‑455/PPU, EU:C:2015:763, paragraph 36).
+Therefore, the answer to the questions referred is that the rules of lis pendens in Article of Regulation No 44/and Article of Regulation No 2201/must be interpreted as meaning that where, in a dispute in matrimonial matters, parental responsibility or maintenance obligations, the court second seised, in breach of those rules, delivers a judgment which becomes final, those articles preclude the courts of the Member State in which the court first seised is situated from refusing to recognise that judgment solely for that reason. In particular, that breach cannot, in itself, justify non-recognition of a judgment on the ground that it is manifestly contrary to public policy in that Member State.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+The rules of lis pendens in Article of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters and Article of Council Regulation (EC) No 2201/of November concerning jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility, repealing Regulation (EC) No 1347/must be interpreted as meaning that where, in a dispute in matrimonial matters, parental responsibility or maintenance obligations, the court second seised, in breach of those rules, delivers a judgment which becomes final, those articles preclude the courts of the Member State in which the court first seised is situated from refusing to recognise that judgment solely for that reason. In particular, that breach cannot, in itself, justify non-recognition of a judgment on the ground that it is manifestly contrary to public policy in that Member State.
+ 
+[Signatures]
+(
+*)	Language of the case: Italian.
+Top  

@@ -1,0 +1,105 @@
+
+ARRÊT DE LA COUR (sixième chambre)
+juin (*)
+« Pourvoi – Clauses compromissoires – Conventions Persona et Terregov conclues dans le cadre du sixième programme-cadre pour des actions de recherche, de développement technologique et de démonstration (2002-2006) – Coûts éligibles – Remboursement des sommes versées – Demande reconventionnelle »
+Dans l’affaire C‑7/P,
+ayant pour objet un pourvoi au titre de l’article du statut de la Cour de justice de l’Union européenne, introduit le janvier 2017,
+ANKO AE Antiprosopeion, Emporiou kai Viomichanias, établie à Athènes (Grèce), représentée par Me S. Paliou, dikigoros,
+partie requérante,
+l’autre partie à la procédure étant :
+Commission européenne, représentée par M. R. Lyal ainsi que par Mme A. Kyratsou, en qualité d’agents,
+partie défenderesse en première instance,
+LA COUR (sixième chambre),
+composée de M. C. G. Fernlund (rapporteur), président de chambre, MM. J.‑C. Bonichot et A. Arabadjiev, juges,
+avocat général : Mme E. Sharpston,
+greffier : M. A. Calot Escobar,
+vu la procédure écrite,
+vu la décision prise, l’avocat général entendu, de juger l’affaire sans conclusions,
+rend le présent
+Arrêt
+Par son pourvoi, la requérante, ANKO AE Antiprosopeion, Emporiou kai Viomichanias, demande l’annulation de l’arrêt du Tribunal de l’Union européenne du avril 2016, ANKO/Commission (T‑155/14, non publié, ci-après l’« arrêt attaqué », EU:T:2016:245), par lequel celui-ci a, d’une part, rejeté son recours tendant à faire constater que les dépenses déclarées au titre de l’exécution du projet intitulé « Impact de l’e-gouvernance sur les services des administrations territoriales » financé par la convention de subvention n° (ci-après la « convention Terregov ») et du projet intitulé « Espaces perceptifs promouvant le vieillissement indépendant » financé par la convention de subvention n° (ci-après la « convention Persona ») constituaient des coûts éligibles et, d’autre part, accueilli la demande reconventionnelle présentée par la Commission européenne visant le remboursement des subventions indûment versées dans le cadre de ces conventions.
+ Le cadre juridique
+ Le cadre contractuel
+Conformément au règlement (CE) n° 2321/du Parlement européen et du Conseil, du décembre 2002, relatif aux règles de participation des entreprises, des centres de recherche et des universités et aux règles de diffusion des résultats de la recherche pour la mise en œuvre du sixième programme-cadre de la Communauté européenne (2002-2006) (JO 2002, L 355, p. 23), et dans le cadre défini par la décision n° 1513/2002/CE du Parlement européen et du Conseil, du juin 2002, relative au sixième programme-cadre de la Communauté européenne pour des actions de recherche, de développement technologique et de démonstration contribuant à la réalisation de l’espace européen de la recherche et à l’innovation (2002‑2006) (JO 2002, L 232, p. 1), la Commission, agissant pour le compte de la Communauté, a conclu les décembre et décembre respectivement avec les sociétés Airial Conseil SA et Vodafone Omnitel NV, en leur qualité de coordinateur de deux consortiums distincts dont la requérante faisait partie, les conventions de subvention  Terregov et Persona (ci-après, prises ensemble, les « conventions de subvention en cause »).
+Ces conventions comprennent, outre le contrat de financement principal (ci-après le « contrat principal »), six annexes qui font partie intégrante de ce dernier, dont l’annexe I, qui contient la description des travaux à effectuer, et l’annexe II, qui se rapporte aux conditions générales applicables (ci-après les « conditions générales »). Les conventions de subvention en cause sont rédigées dans des termes identiques selon le modèle des contrats du sixième programme-cadre.
+Aux termes du point ΙΙ.des conditions générales relatif aux coûts éligibles :
+« 1.      Les coûts éligibles encourus pour la réalisation du projet doivent remplir toutes les conditions suivantes :
+a)      ils doivent être réels, économiques et nécessaires à la réalisation du projet, et
+b)      ils doivent être déterminés conformément aux principes comptables usuels du contractant, et
+c)      ils doivent être encourus pendant la durée du projet comme indiqué au point 4, paragraphe 2, sauf en ce qui concerne les coûts consentis pour l’établissement des rapports finals visés au point II.7, paragraphe 4, qui peuvent être encourus jusqu’à jours après la date d’achèvement du projet ou la date de résiliation, si celle-ci est antérieure, et
+d)      ils doivent être inscrits dans les comptes du contractant qui les a encourus, au plus tard à la date de l’établissement du certificat d’audit visé au point II.26. Les méthodes comptables utilisées pour enregistrer les coûts et les recettes doivent être conformes aux règles comptables utilisées dans l’État où le contractant est établi et doivent permettre le rapprochement des coûts encourus et des recettes perçues dans la réalisation du projet ainsi que de l’état général des comptes relatifs à l’activité commerciale globale du contractant, [...]
+[...] »
+Le point II.29, intitulé « Contrôles et audits », des conditions générales prévoit, à son paragraphe :
+« [...] Les montants qui seraient dus à la Commission en raison des résultats de ces audits peuvent faire l’objet d’un recouvrement comme indiqué au point II.31. »
+Le point II.31, paragraphe 1, des conditions générales dispose :
+« Lorsqu’un montant a été payé indûment au contractant ou lorsqu’un recouvrement est justifié dans les conditions du contrat, le contractant s’engage à rembourser à la Commission la somme en question dans les conditions et à la date précisées par elle. »
+L’article du contrat principal prévoit que les conventions de subvention sont régies par le droit belge.
+L’article du contrat principal contient une clause compromissoire au sens de l’article TFUE, attribuant au Tribunal et, en cas de pourvoi, à la Cour une compétence exclusive pour connaître des litiges entre la Communauté, d’une part, et les contractants, d’autre part, quant à la validité, à l’application et à l’interprétation desdites conventions.
+ Le droit belge
+En vertu de l’article 1134, troisième alinéa, du code civil, les conventions légalement formées doivent être exécutées de bonne foi.
+L’article de ce code prévoit :
+« On doit dans les conventions rechercher quelle a été la commune intention des parties contractantes, plutôt que de s’arrêter au sens littéral des termes. »
+Aux termes de l’article dudit code :
+« Celui qui réclame l’exécution d’une obligation doit la prouver. Réciproquement, celui qui se prétend libéré doit justifier le paiement ou le fait qui a produit l’extinction de son obligation. »
+ Les antécédents du litige
+La requérante est une société de droit grec, qui a participé à l’exécution de plusieurs projets subventionnés par la Communauté ou par l’Union.
+À l’issue d’un audit financier, la Commission a demandé à la requérante le remboursement d’une partie importante des sommes qu’elle avait perçues, conformément au point II.29, paragraphe 1, et au point II.des conditions générales.
+ Le recours devant le Tribunal et l’arrêt attaqué
+Par requête introduite sur le fondement de l’article TFUE et en vertu des clauses compromissoires contenues dans les conventions de subvention en cause, la requérante a demandé au Tribunal, d’une part, de constater que les dépenses déclarées au titre de l’exécution du projet relatif à la convention Persona et du projet relatif à la convention Terregov constituent des coûts éligibles et, d’autre part, de rejeter comme non fondée la demande reconventionnelle présentée par la Commission.
+Par l’arrêt attaqué, le Tribunal a rejeté le recours de la requérante et a fait droit à la demande reconventionnelle présentée par la Commission.
+ Les conclusions des parties devant la Cour
+La requérante demande à la Cour :
+–        d’annuler l’arrêt attaqué et de renvoyer l’affaire au Tribunal afin qu’il statue à nouveau sur le fond et
+–        de condamner la Commission aux dépens.
+La Commission demande à la Cour :
+–        de rejeter comme non fondé le pourvoi dans son ensemble et
+–        de condamner la requérante aux dépens.
+ Sur le pourvoi
+ Sur le premier moyen, tiré d’un défaut de motivation 
+ Argumentation des parties
+La requérante fait valoir que les points à de l’arrêt attaqué sont entachés d’un défaut de motivation. Elle reproche au Tribunal d’avoir omis d’examiner la première branche du second moyen du recours de première instance, qui portait sur l’interprétation du point II.29, paragraphe 1, et du point II.31, paragraphe 1, des conditions générales et qui était distincte de la seconde branche de ce moyen relative à l’application de ces dispositions. Dans le cadre de cette première branche, la requérante aurait soutenu que ces dispositions étaient imprécises et qu’elles conféraient, de ce fait, une marge d’appréciation discrétionnaire à la Commission. La requérante fait valoir que cette branche se fonde sur une base juridique et des arguments distincts de ceux se rapportant à la seconde branche dudit second moyen.
+La Commission rétorque que le point II.29, paragraphe 1, et le point II.31, paragraphe 1, des conditions générales sont clairs et ne nécessitent aucune interprétation. 
+ Appréciation de la Cour
+Il ressort d’une jurisprudence constante de la Cour que l’obligation de motivation qui incombe au Tribunal n’impose pas à ce dernier de fournir un exposé qui suivrait, de manière exhaustive et un par un, tous les raisonnements articulés par les parties au litige, et que la motivation du Tribunal peut donc être implicite à condition qu’elle permette aux intéressés de connaître les raisons pour lesquelles le Tribunal n’a pas fait droit à leurs arguments et à la Cour de disposer des éléments suffisants pour exercer son contrôle (arrêt du mai 2017, Dyson/Commission, C‑44/P, EU:C:2017:357, point et jurisprudence citée).
+En l’espèce, le raisonnement suivi par le Tribunal aux points à de l’arrêt attaqué est, en soi, clair, compréhensible et de nature à motiver à suffisance la conclusion qu’il vise à étayer.
+Partant, le premier moyen doit être rejeté comme étant non fondé.
+ Sur le deuxième moyen, tiré d’une erreur de droit
+ Argumentation des parties
+Par son deuxième moyen, la requérante fait valoir que le Tribunal, au point de l’arrêt attaqué, a commis une erreur de droit en rejetant, comme manifestement irrecevable, la seconde branche du second moyen tirée de la violation par la Commission du principe de proportionnalité dans le cadre de l’exécution des conventions de subvention en cause. Elle considère que l’appréciation du Tribunal est contraire à la jurisprudence constante des juridictions de l’Union, notamment à l’arrêt du Tribunal du novembre 2015, Synergy Hellas/Commission (T‑106/13, EU:T:2015:860, points et 89), selon laquelle le principe de proportionnalité régit l’action de la Commission non seulement en tant qu’institution, lorsqu’elle exerce des prérogatives de puissance publique, mais également dans ses relations contractuelles, comme en l’espèce. 
+La Commission conteste cette argumentation.
+ Appréciation de la Cour
+Le présent moyen repose sur une lecture erronée et partielle du point de l’arrêt attaqué.
+En effet, le Tribunal a jugé, au point de l’arrêt attaqué, que, eu égard au nombre et à la gravité des violations des obligations contractuelles constatées dans le rapport d’audit et au rejet des arguments de la requérante visant à contester ce constat, la demande de recouvrement des sommes versées à la requérante « n’apparaît contraire ni au principe d’exécution de bonne foi des conventions ni à celui de l’interdiction de l’abus de droit ».
+Étant donné que cette constatation est suffisante pour justifier le rejet, par le Tribunal, du premier chef de conclusions du recours de première instance, le motif figurant au point de l’arrêt attaqué revêt un caractère surabondant.
+Par conséquent, l’erreur de droit invoquée, à la supposer établie, ne serait en tout état de cause pas susceptible d’entraîner l’annulation de l’arrêt attaqué. Les critiques de la requérante émises à cet égard sont donc inopérantes.
+Il y a donc lieu de rejeter le deuxième moyen comme étant inopérant.
+ Sur le troisième moyen, tiré d’une erreur de droit quant à l’objet et à la charge de la preuve dans le cadre du recours
+ Argumentation des parties
+La requérante soutient que les points à de l’arrêt attaqué sont entachés, d’une part, d’un vice de procédure en ce que le Tribunal aurait omis de statuer sur ses arguments relatifs à l’objet de la preuve et à la preuve contraire et, d’autre part, d’une erreur de droit en ce qui concerne la répartition de la charge de la preuve.
+S’agissant de ce dernier grief, la requérante fait valoir que le Tribunal a, à tort, exonéré la Commission de la charge de démontrer que les éléments de preuve apportés par la requérante étaient inadéquats ou insuffisants, en jugeant que le rapport d’audit élaboré par la Commission suffisait à lui seul à démontrer que les dépenses de la requérante n’étaient pas éligibles. L’arrêt attaqué aurait donc écarté l’éligibilité des dépenses de la requérante au motif qu’elle n’aurait pas « remis en cause » ce rapport d’audit.
+La Commission estime que le troisième moyen doit être écarté comme étant non fondé.
+ Appréciation de la Cour
+S’agissant de la prétendue omission du Tribunal de prendre en compte les arguments de la requérante relatifs à l’objet de la preuve et à la preuve contraire en ce qui concerne l’éligibilité de ses coûts, il suffit de constater que, conformément à la jurisprudence constante rappelée au point du présent arrêt, le Tribunal a, aux points à de l’arrêt attaqué, indiqué les raisons pour lesquelles il a estimé que les éléments apportés par la requérante aux fins d’établir l’éligibilité de ses coûts ne constituaient pas des preuves de la réalité des coûts déclarés. Par conséquent, le Tribunal n’a pas omis de statuer sur les arguments de la requérante, mais les a jugés non fondés, pour les motifs de droit et de fait exposés aux points à de l’arrêt attaqué.
+En ce qui concerne l’erreur de droit prétendue, relative à la répartition de la charge de la preuve, il ressort clairement des dispositions des conditions générales citées au point de l’arrêt attaqué que les coûts déclarés par la requérante ne peuvent lui être remboursés qu’à la condition qu’elle démontre leur réalité, leur lien avec les conventions de subvention en cause et qu’elle justifie du respect des autres critères d’éligibilité posés par ces dernières.
+À cet égard, le Tribunal a jugé, pour les motifs exposés aux points à de l’arrêt attaqué, que la requérante, notamment en n’établissant pas un système d’enregistrement des coûts de personnel suffisamment fiable et en n’accordant pas d’accès aux informations demandées par les auditeurs, avait violé ses obligations découlant des conditions générales.
+Il s’ensuit que, le Tribunal n’ayant pas commis d’erreur de droit en ce qui concerne la répartition de la charge de la preuve, le troisième moyen doit être rejeté comme étant non fondé.
+ Sur le quatrième moyen, tiré d’une erreur de droit quant à la répartition de la charge de la preuve dans le cadre de la demande reconventionnelle
+ Argumentation des parties
+La requérante soutient que, aux points à de l’arrêt attaqué, le Tribunal a violé le droit et la jurisprudence de l’Union applicables en matière de répartition de la charge de la preuve dans le cadre d’une demande reconventionnelle.
+Elle prétend que, dans la mesure où la Commission a, dans le cadre de sa demande reconventionnelle, introduit une demande autonome, le Tribunal était tenu de vérifier si la Commission avait prouvé les affirmations avancées dans cette demande selon lesquelles les dépenses n’étaient pas éligibles, ce qu’il n’a nullement fait. 
+La Commission réfute cette argumentation.
+ Appréciation de la Cour
+Il y a lieu de relever que les arguments de la requérante invoqués dans le cadre du présent moyen méconnaissent le lien étroit qui existe entre la demande reconventionnelle introduite par la Commission et le recours de première instance formé par la requérante.
+En l’occurrence, le Tribunal a constaté, au point de l’arrêt attaqué, que les conclusions du rapport d’audit ainsi que l’ensemble des données qui les étayent doivent être analysés comme des éléments de preuve, présentés et invoqués à l’appui de la demande reconventionnelle.
+La Commission ayant étayé ses affirmations sur la base du rapport d’audit final, il incombait à la requérante de les réfuter. Constatant qu’elle ne l’avait pas fait, le Tribunal a pu à bon droit accueillir la demande reconventionnelle de la Commission.
+Il y a donc lieu de rejeter le quatrième moyen comme étant non fondé.
+Il résulte de l’ensemble des considérations qui précèdent que le pourvoi doit être rejeté dans son intégralité.
+ Sur les dépens
+En vertu de l’article 184, paragraphe 2, du règlement de procédure de la Cour, lorsque le pourvoi n’est pas fondé, la Cour statue sur les dépens. Aux termes de l’article 138, paragraphe 1, du même règlement, applicable à la procédure de pourvoi en vertu de l’article 184, paragraphe 1, de celui-ci, toute partie qui succombe est condamnée aux dépens, s’il est conclu en ce sens.
+La Commission ayant conclu à la condamnation de la requérante aux dépens et celle-ci ayant succombé en ses moyens, il y a lieu de condamner cette dernière aux dépens.
+Par ces motifs, la Cour (sixième chambre) déclare et arrête :
+1)      Le pourvoi est rejeté.
+2)      ANKO AE Antiprosopeion, Emporiou kai Viomichanias est condamnée aux dépens.
+Signatures
+*      Langue de procédure : le grec.
+Top  

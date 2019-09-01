@@ -1,0 +1,207 @@
+
+JUDGMENT OF THE COURT (Sixth Chamber)
+March (
+*)
+(Reference for a preliminary ruling — Customs union — Regulation (EEC) No 2913/— Article — Community Customs Code — Regulation (EEC) No 2454/— Article — Customs status of goods — Presumption of the Community status of goods)
+In Case C‑643/17,
+REQUEST for a preliminary ruling under Article TFEU from the Supremo Tribunal Administrativo (Supreme Administrative Court, Portugal), made by decision of October 2017, received at the Court on November 2017, in the proceedings
+Suez II Water Technologies & Solutions Portugal Unipessoal Lda, formerly GE Power Controls Portugal, Material Eléctrico Lda, then GE Power Controls Portugal Unipessoal Lda,
+v
+Fazenda Pública,
+THE COURT (Sixth Chamber),
+composed of C. Toader, President of the Chamber, A. Rosas (Rapporteur) and L. Bay Larsen, Judges,
+Advocate General: G. Hogan,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Suez II Water Technologies & Solutions Portugal Unipessoal Lda, by R. Garção Soares, advogado,
+–
+the Portuguese Government, by L. Inez Fernandes, M. Figueiredo and N. Vitorino, acting as Agents,
+–
+the Greek Government, by M. Tassopoulou and A. Dimitrakopoulou, acting as Agents,
+–
+the Spanish Government, by S. Jiménez García and V. Ester Casas, acting as Agents,
+–
+the European Commission, by A. Caeiros and F. Clotuche-Duvieusart, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+The present request for a preliminary ruling concerns the interpretation of Article of Council Regulation (EEC) No 2913/of October establishing the Community Customs Code (OJ L 302, p. 1), as amended by Regulation (EC) No 82/of the European Parliament and of the Council of December (OJ L 17, p. 1) (‘the Customs Code’), and of Article 313(1) and (2)(a) of Commission Regulation (EEC) No 2454/of July laying down provisions for the implementation of Regulation No 2913/(OJ L 253, p. 1), as amended by Commission Regulation (EC) No 75/of January (OJ L 7, p. 3, and corrigendum OJ L 111, p. 88) (‘the Implementing Regulation’).
+The request has been made in proceedings between Suez II Water Technologies & Solutions Portugal Unipessoal Lda, formerly GE Power Controls Portugal, Material Eléctrico Lda, then GE Power Controls Portugal Unipessoal Lda (‘Suez II’), and the Fazenda Pública (State Treasury, Portugal) on the customs status of certain goods acquired by Suez II.
+Legal context
+EU law
+The Customs Code
+Article of the Customs Code, as in force during the period at issue in the main proceedings, namely the period from June to August 2000, stated:
+‘For the purposes of this Code, the following definitions shall apply:
+…
+(6)
+“Customs status” means the status of goods as Community or non-Community goods.
+(7)
+“Community goods” means goods:
+—
+wholly obtained in the customs territory of the Community under the conditions referred to in Article and not incorporating goods imported from countries or territories not forming part of the customs territory of the Community. …
+—
+imported from countries or territories not forming part of the customs territory of the Community which have been released for free circulation,
+—
+obtained or produced in the customs territory of the Community, either from goods referred to in the second indent alone or from goods referred to in the first and second indents.
+(8)
+“Non-Community goods” means goods other than those referred to in subparagraph 7.
+…
+(13)
+“Supervision by the customs authorities” means action taken in general by those authorities with a view to ensuring that customs rules and, where appropriate, other provisions applicable to goods subject to customs supervision are observed.
+(14)
+“Control by the customs authorities” means the performance of specific acts such as examining goods, verifying the existence and authenticity of documents, examining the accounts of undertakings and other records, … with a view to ensuring that customs rules and, where appropriate, other provisions applicable to goods subject to customs supervision are observed.
+…
+(19)
+“Presentation of goods to customs” means the notification to the customs authorities, in the manner laid down, of the arrival of goods at the customs office or at any other place designated or approved by the customs authorities.
+…’
+Article of the Customs Code provided:
+‘The customs authorities may, in accordance with the conditions laid down by the provisions in force, carry out all the controls they deem necessary to ensure that customs legislation is correctly applied.’
+Article of that code provided:
+‘For the purposes of applying customs legislation, any person directly or indirectly involved in the operations concerned for the purposes of trade in goods shall provide the customs authorities with all the requisite documents and information, irrespective of the medium used, and all the requisite assistance at their request and by any time limit prescribed.’
+In accordance with Article of the Customs Code, the persons concerned were required to keep the documents referred to in Article for the purposes of control by the customs authorities, for the period laid down in the provisions in force and for at least three calendar years, irrespective of the medium used.
+In Title III of the Customs Code, entitled ‘Provisions applicable to goods brought into the customs territory of the Community until they are assigned a customs-approved treatment or use’, in Chapter 1, entitled ‘Entry of goods into the customs territory of the Community’, Article provided:
+‘1.   Goods brought into the customs territory of the Community shall, from the time of their entry, be subject to customs supervision. They may be subject to control by the customs authority in accordance with the provisions in force.
+2.   They shall remain under such supervision for as long as necessary to determine their customs status, if appropriate, and in the case of non-Community goods and without prejudice to Article 82(1), until their customs status is changed, they enter a free zone or free warehouse or they are re-exported or destroyed in accordance with Article 182.’
+Under Article 38(1) and (5) of the Customs Code:
+‘1.   Goods brought into the customs territory of the Community shall be conveyed by the person bringing them into the Community without delay, by the route specified by the customs authorities and in accordance with their instructions, if any:
+(a)
+to the customs office designated by the customs authorities or to any other place designated or approved by those authorities; or,
+(b)
+to a free zone, if the goods are to be brought into that free zone direct:
+–
+by sea or air, or
+–
+by land without passing through another part of the customs territory of the Community, where the free zone adjoins the land frontier between a Member State and a third country.
+…
+5.   Paragraphs to and Articles to shall not apply to goods which have temporarily left the customs territory of the Community while moving between two points in that territory by sea or air, provided that carriage has been effected by a direct route and by regular air service or shipping line without a stop outside Community customs territory.
+This provision shall not apply to goods loaded in third country ports or airports or at free ports.’
+Article of the Customs Code, concerning the presentation of goods to customs, stated:
+‘Goods which, pursuant to Article 38(1)(a), arrive at the customs office or other place designated or approved by the customs authorities shall be presented to customs by the person who brought the goods into the customs territory of the Community or, if appropriate, by the person who assumes responsibility for carriage of the goods following such entry.’
+Article of the Customs Code provided:
+‘Subject to Article 45, goods presented to customs … shall be covered by a summary declaration.
+The summary declaration shall be lodged once the goods have been presented to customs ...’
+Under Article of the Customs Code:
+‘1.   The summary declaration shall be made on a form corresponding to the model prescribed by the customs authorities. However, the customs authorities may permit the use, as a summary declaration, of any commercial or official document which contains the particulars necessary for identification of the goods.
+2.   The summary declaration shall be lodged by:
+(a)
+the person who brought the goods into the customs territory of the Community or by any person who assumes responsibility for carriage of the goods following such entry; or
+(b)
+the person in whose name the persons referred to in subparagraph (a) acted’.
+Chapter of Title III of the Customs Code, entitled ‘Obligation to assign goods presented to customs a customs-approved treatment or use’, contained Articles and 49.
+Article of the Customs Code provided:
+‘Non-Community goods presented to customs shall be assigned a customs-approved treatment or use authorised for such non-Community goods’.
+Article 49(1) of the Customs Code was worded as follows:
+‘Where goods are covered by a summary declaration, the formalities necessary for them to be assigned a customs-approved treatment or use must be carried out within:
+(a)
+days from the date on which the summary declaration is lodged in the case of goods carried by sea;
+(b)
+days from the date on which the summary declaration is lodged in the case of goods carried otherwise than by sea.’
+In Title IV of the Customs Code, entitled ‘Customs-approved treatment or use’, Article 59(1) stated:
+‘All goods intended to be placed under a customs procedure shall be covered by a declaration for that customs procedure.’
+Article of that code provided:
+‘Release for free circulation shall confer on non-Community goods the customs status of Community goods.
+It shall entail application of commercial policy measures, completion of the other formalities laid down in respect of the importation of goods and the charging of any duties legally due.’
+According to Article of the Customs Code:
+‘1.   Where goods are brought into or returned to another part of the customs territory of the Community or placed under a customs procedure, the certificate referred to in Article 170(4) may be used as proof of the Community or non-Community status of such goods.
+2.   Where it is not proved by the certificate or other means that the goods have Community or non-Community status, the goods shall be considered to be:
+—
+Community goods, for the purposes of applying export duties and export licences or export measures laid down under the commercial policy;
+—
+non-Community goods in all other cases’.
+In Title VII of that code, entitled, ‘Customs debt’, Article stated:
+‘1.   A customs debt on importation shall be incurred through:
+(a)
+the unlawful introduction into the customs territory of the Community of goods liable to import duties,
+…
+2.   The customs debt shall be incurred at the moment when the goods are unlawfully introduced.
+…’
+The Implementing Regulation
+Article of the Implementing Regulation, as in force during the period at issue in the main proceedings, provided as follows:
+‘1.   Subject to Article of the Code and the exceptions listed in paragraph of this Article, all goods in the customs territory of the Community shall be deemed to be Community goods, unless it is established that they do not have Community status.
+2.   The following shall not be deemed to be Community goods unless it is established in accordance with Articles to that they do have Community status:
+(a)
+goods brought into the customs territory of the Community in accordance with Article of the Code;
+(b)
+goods in temporary storage or in a free zone or free warehouse;
+(c)
+goods placed under a suspensive procedure.
+By way of derogation from point (a) of this paragraph and in accordance with Article 38(5) of the Code, goods brought into the customs territory of the Community shall be deemed to be Community goods unless it is established that they do not have Community status:
+—
+where, if carried by air, the goods have been loaded or transhipped at a Community airport, for consignment to another airport in the customs territory of the Community, and carried under cover of a single transport document drawn up in a Member State,
+—
+or where, if carried by sea, the goods have been shipped between ports in the customs territory of the Community by a regular shipping service authorised in accordance with Articles 313a and 313b.’
+Articles to of the Implementing Regulation concerned proof of the Community status of goods and the ways in which that proof could be established.
+Article of the Implementing Regulation provided:
+‘1.   Where goods are not deemed to be Community goods within the meaning of Article 313, their Community status may not be established under paragraph unless:
+(a)
+they have been brought from another Member State without crossing the territory of a third country on the way; or
+(b)
+they have been brought from another Member State through the territory of a third country, and carried under cover of a single transport document issued in a Member State …
+…
+2.   Proof that the goods have Community status may be established solely:
+(a)
+by means of one of the documents provided for in Articles to 318; or
+(b)
+in accordance with the rules laid down in Articles to 323;
+…’
+Article of the Implementing Regulation provided:
+‘1.   Proof of the Community status of goods shall be furnished, in accordance with the conditions set out below, by the production of the invoice or transport document relating to the goods.
+…
+5.   This Article shall apply only where the invoice or transport document relates exclusively to Community goods.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Suez II operates in Portugal in the manufacture of, and trade in, electrical equipment. It received, on its premises, goods intended for use in its industrial activity. Those goods were supplied and invoiced during the years to by undertakings established in Hungary and Poland, which were, at the time of the facts, third countries, as well as in Switzerland.
+The Portuguese customs authorities carried out an inspection of Suez II’s premises. That inspection began on November 2002.
+Once all of the invoices relating to the supply of those goods had been identified, the customs authorities asked Suez II to provide documentation proving that those goods had entered the territory of the European Union, had been presented to the customs authorities and had been covered by a summary declaration as required by Articles and of the Customs Code.
+Suez II submitted import declarations to the customs offices of several Member States for the majority of the goods to which those invoices related, but not for all of them.
+The referring court states that, in respect of the goods from GE Hungary, established in Hungary, and from GE Polska and Elester, both established in Poland, Suez II did not submit any documents proving that the goods had been released for free circulation and assigned the resulting status of Community goods or that a summary declaration had been lodged with the customs authorities; it merely submitted invoices issued in by suppliers established in those third countries, that is to say, outside the customs territory of the European Union.
+The customs authorities took the view that the goods in respect of which it had not been proven that a procedure for release for free circulation had been carried out by the customs authorities of the Member States were to be regarded as non-Community goods. Those goods, it was found, had been brought into the customs territory of the European Union in accordance with Article of the Customs Code and, pursuant to Article 313(2)(a) of the Implementing Regulation, the principle of the presumption of the Community status of goods in the customs territory of the European Union, as set out in paragraph of that latter article, did not apply to them.
+The customs authorities concluded that the goods in question had been introduced unlawfully into the customs territory of the European Union, resulting in the incurrence of a customs debt on importation, in accordance with Article 202(1)(a) of the Customs Code, and, at the same time, an import value added tax (VAT) debt.
+By decision of August of the Regional Director of Porto (Portugal) for customs-related disputes and review, Suez II was requested to pay the sum of EUR 903.in settlement of the customs debt. The payment notice relates to the debts incurred during the period from June to August 2000.
+Suez II paid that sum on September 2003. However, as it took the view that, although it was unable to submit proof, the goods had already been released for free circulation in the customs territory of the European Union by various operators at the customs offices of various Member States and that, in that situation, the burden of proving the non-Community status of those goods fell to the customs authorities, Suez II brought an action before the Tribunal Tributário do Porto (Finance Court, Porto, Portugal) by which it sought annulment of the decision taken on August by the Regional Director of Porto for customs-related disputes and review.
+Following the dismissal by the Tribunal Tributário do Porto (Finance Court, Porto) of that action by a judgment of February 2013, Suez II appealed against that judgment to the Supremo Tribunal Administrativo (Supreme Administrative Court, Portugal).
+Against that background, the Supremo Tribunal Administrativo (Supreme Administrative Court) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘In the light of Article 313(1) of the Implementing Regulation, are the goods referred to in the present case to be deemed to have Community status where it has not been established that they do not have such status, or must they be deemed to be goods brought into the customs territory of the European Union, for the purposes of Article [37] of the Community Customs Code, and covered by the exception provided for in the first part of Article 313(2)(a) of the Implementing Regulation, with the result that only goods in respect of which it has been proven that a procedure for releasing them for free circulation in the EU customs territory has been carried out are to be recognised as having Community status?’
+Consideration of the question referred
+By its question, the referring court asks, in essence, whether Article of the Implementing Regulation must be interpreted as meaning that goods, such as those at issue in the main proceedings, supplied and invoiced by companies established in third countries to a company established in the customs territory of the European Union in order to be used there, must be considered (i), in accordance with the first paragraph of that article, to have Community status if it has not been established that they do not have that status, or (ii) to have been brought into the customs territory of the European Union, within the meaning of Article of the Customs Code, and to be covered, in that regard, by the exception provided for in Article 313(2)(a) of the Implementing Regulation, with the result that only goods in respect of which it has been proven that a procedure for releasing them for free circulation in the customs territory of the European Union has been carried out are to be recognised as having Community status.
+Suez II claims that goods such as those at issue in the main proceedings, which are in the customs territory of the European Union when the question of their customs status arises, should benefit from the general assumption set out in Article 313(1) of the Implementing Regulation and be regarded as Community goods, unless the customs authorities provide proof to the contrary. It submits that the fact that the goods are not accompanied by documents proving that they have been released into free circulation cannot mean that they were brought into the customs territory of the European Union unlawfully.
+By contrast, the governments which have submitted observations and the European Commission contend that the goods at issue in the main proceedings are covered by the exception under Article 313(2)(a) of the Implementing Regulation because, as they are deemed to have been brought into the customs territory of the European Union, within the meaning of Article of the Customs Code, they are, from the time of their introduction into that territory, subject to customs supervision and remain so for as long as is necessary in order to determine their customs status. As they were not declared and placed under a customs procedure when they were brought into the customs territory of the European Union, they must be regarded as having been unlawfully introduced into the territory and a customs debt will have been incurred, in accordance with Article of the Customs Code, at the time of that unlawful introduction.
+In that regard, it should be noted, as a preliminary point, that, in the light of the wording of Article 313(1) of the Implementing Regulation, goods in the customs territory of the European Union are deemed to have Community status (i) subject to Article of the Customs Code and the exceptions listed in Article 313(2) of the Implementing Regulation and, (ii) except in situations in which it is established that those goods do not have Community status. According to Article 313(2) of the Implementing Regulation, goods brought into the customs territory of the European Union within the meaning of Article of the Customs Code, are not deemed to be Community goods unless it is duly established in accordance with Articles to of the Implementing Regulation that they do have Community status.
+It is important to note, at the outset, that the stipulation in Article of the Customs Code concerning the removal of goods from free zones or free warehouses is irrelevant here, in the light of the facts of the main proceedings.
+In order to provide the referring court with a useful answer, the scope of the presumption stated in Article 313(1) of the Implementing Regulation and of the exceptions in Article 313(2) must be determined, from a broader systemic perspective, by linking those provisions with the relevant provisions of the Customs Code, in particular those applicable to goods brought into the customs territory of the European Union, Community goods status and the procedure for releasing goods imported from third countries for free circulation in the customs territory of the European Union.
+In this regard, in the first place, since Article 313(2) of the Implementing Regulation refers to the notion of ‘goods brought into the customs territory of the Union’ in accordance with Article of the Customs Code, this provision must, in particular, be interpreted in the light of Article 4(13) and (19) and Articles 37, 38, 40, and of the Customs Code, in Title III of that code, which concerns, inter alia, the obligations linked to the introduction of goods into the customs territory of the European Union, the fact that they are subject to customs supervision until their customs status has been established and the rules regarding their presentation and declaration to customs.
+Supervision by the customs authorities is defined in Article 4(13) of the Customs Code as meaning action taken in general by those authorities with a view to ensuring that customs rules are observed.
+Under Article of that code, goods brought into the customs territory of the European Union are, from the time of their entry, subject to customs supervision. In the course of such supervision they may be subject to checks by those authorities, in accordance with the provisions in force, and remain under such supervision for as long as necessary to determine their customs status, and, in the case of non-Community goods, until their customs status is changed, they enter a free zone or free warehouse or they are re-exported or destroyed (judgment of March 2005, Papismedov and Others, C‑195/03, EU:C:2005:131, paragraph 21).
+In paragraph of the judgment of March 2005, Papismedov and Others (C‑195/03, EU:C:2005:131), the Court noted that goods arriving in the customs territory of the European Union are subject to customs supervision from the time of their introduction therein, whether it is lawful or in breach of Articles to and the second indent of the first paragraph of Article of the Customs Code, which is what the supervising authorities must, by their checks, establish. It follows that the submission of goods to such supervision is unconnected with the lawfulness of their introduction into that territory.
+Several provisions of the Customs Code allow for a limitation of the meaning of ‘unlawful introduction’. Thus, Article of the Customs Code defines ‘unlawful introduction’ as any introduction, in breach of the provisions of Articles to and the second indent of the first paragraph of Article of that code, of goods liable to import duties, either into the customs territory of the European Union, or into another part of that territory, if they are located in a free zone or free warehouse (judgment of March 2005, Papsimedov and Others, C‑195/03, EU:C:2005:131, paragraph 25).
+In particular, the Court has held that importation of goods constitutes an unlawful introduction if it does not comply with the following stages laid down by the Customs Code. First, under Article 38(1) of that code, goods brought into the customs territory of the European Union must be conveyed without delay to the designated customs office or to a free zone. Second, under Article 40, when the goods arrive at the customs office they must be presented to customs. ‘Presentation of goods to customs’ is defined in Article 4(19) of that code as the notification to the customs authorities, in the manner laid down, of the arrival of goods at that customs office or at any other designated or approved place (judgments of March 2005, Papsimedov and Others, C‑195/03, EU:C:2005:131, paragraph 26, and of April 2009, Elshani, C‑459/07, EU:C:2009:224, paragraph 21).
+It is clear from the very wording of all those provisions that, for goods to be regarded as having been lawfully introduced into the customs territory of the European Union, they must, on their arrival, be taken to a customs office or to a free zone and be presented to customs. The aim of the latter obligation, which falls on the person responsible for the introduction or on the person who assumes responsibility for the transport, is to ensure that the customs authorities are informed not only of the fact that the goods have arrived, but also of all relevant information about the type of article or product concerned and the quantity of those goods. It is that information which will enable the goods to be correctly identified, for the purposes of their tariff classification and, if appropriate, for the calculation of import duties (judgment of April 2009, Elshani, C‑459/07, EU:C:2009:224, paragraph and the case-law cited).
+In that regard, the Court has held that it is clear from the wording and the broad logic of Article 4(19), Article 38(1) and Article of the Customs Code that all goods introduced into the customs territory of the European Union must be presented to customs (judgments of March 2004, Viluckas and Jonusas, C‑238/and C‑246/02, EU:C:2004:126, paragraph 22, and of April 2009, Elshani, C‑459/07, EU:C:2009:224, paragraph 23). The unlawful introduction of goods is completed at the moment at which those goods pass beyond the first customs office situated inside the customs territory of the European Union without those goods having been presented there (judgment of April 2009, Elshani, C‑459/07, EU:C:2009:224, paragraph 25).
+Consequently, goods are the subject of an ‘unlawful introduction’ into the customs territory of the European Union within the meaning of Article of the Customs Code in the case where, having crossed the external land border of the European Union, the goods are in that territory beyond the first customs office, without having been conveyed to that office and without having been presented to customs, with the result that the customs authorities have not been notified of the fact that those goods have been introduced by the persons responsible for ensuring compliance with that obligation (judgment of April 2009, Elshani, C‑459/07, EU:C:2009:224, paragraph 26).
+Moreover, the presentation of goods to customs, required by Article of the Customs Code, comprises, in the light of Articles and of that code, a collateral obligation to lodge without delay a summary declaration or to comply without delay with the formalities to assign to the goods concerned a customs destination, that is to say, if it is requested that they be placed under a customs procedure, to complete a customs declaration. The Court has noted that both operations are, as a general rule, carried out simultaneously (judgment of March 2005, Papismedov and Others, C‑195/03, EU:C:2005:131, paragraph 30).
+It follows from this that any company which, like Suez II, has, on its premises in the customs territory of the European Union, goods purchased from companies established in third countries, must, as a person involved in the operations concerned for the purposes of trade in goods, in accordance with Article of the Customs Code, be able to prove that the goods have been presented at a customs office in the European Union and that a summary declaration has been lodged with that customs office or that the formalities to assign to the goods concerned a customs destination have been complied with. If those obligations have not been met it must be assumed that there has been an ‘unlawful introduction into the customs territory of the Community of goods liable to import duties’ within the meaning of Article 202(1)(a) of the Customs Code.
+In the second place, Article of the Implementing Regulation should be interpreted having regard to the provisions of the Customs Code concerning the status of Community goods and the procedure for releasing goods imported from third countries for free circulation in the customs territory of the European Union.
+Against that background, it must be borne in mind, as a preliminary point, that the referring court states that the receipt of the goods on Suez II’s premises and the receipt of the corresponding invoices, entered in the accounts of the undertaking and issued by a supplier established in a third country, are not disputed. It is also not in dispute that completion of the procedures for release for free circulation by an EU customs office has not been demonstrated in regard to the goods in question.
+Suez II claims, however, that Article of the Implementing Regulation is based on the principle set out in its first paragraph that goods in the customs territory of the European Union are deemed to be Community goods, as a result of which it must be assumed, in the absence of evidence to the contrary, either that the goods were produced in that territory within the terms laid down in the first and third indents of Article 4(7) of the Customs Code, or that they have been released for free circulation in accordance with the second indent of that provision and Article of the Customs Code. In its view, that presumption of the Community status of goods such as those at issue in the main proceedings applies unless it is proven by the customs authorities that they have non-Community good status.
+As the Commission states, that argument cannot be upheld.
+On the one hand, goods such as those at issue in the main proceedings, invoiced by suppliers established in third countries to a company operating in the customs territory of the European Union, do not qualify for status as Community goods if it has not been proven that the procedure for releasing those goods for free circulation in the customs territory of the European Union has been carried out.
+In accordance with Article 4(15)(a) and (16)(a) of the Customs Code, one of the customs treatments of goods is the placing of goods under a customs procedure, and one of the customs procedures under which goods may be placed is the release for free circulation. In addition, the definition of EU goods set out in Article 4(7) of the Customs Code attributes that status to, inter alia, goods imported from countries or territories not forming part of the customs territory of the European Union which have been released for free circulation.
+Article EC, which was applicable at the time of the facts in the main proceedings, provided that goods coming from a third country were to be considered to be in free circulation in a Member State if the import formalities had been complied with and any customs duties or charges having equivalent effect which were payable had been levied in that Member State.
+Article of the Customs Code provides that the release for free circulation is to confer on non-Community goods the customs status of Community goods. The release for free circulation is to entail application of commercial policy measures, completion of the other formalities laid down in respect of the importation of goods and the charging of any duties legally due.
+On the other hand, as regards the burden of proving the customs status of goods in circumstances such as those in issue in the main proceedings, it must be held that the presumption set out in Article 313(1) of the Implementing Regulation is reversed when the customs authorities determine, while exercising their power of supervision, that the conditions for certain exceptions or reservations provided for in that provision, in particular, in the case in the main proceedings, the condition referred to in Article 313(2)(a) of the Implementing Regulation, are satisfied. In such a situation, as is clear from paragraph above, it falls to the importing company to prove the Community status of the goods at issue. Without such proof, Article 202(1)(a) of the Customs Code is applicable to it.
+As is clear from paragraph above and from a combined reading of Articles and of the Customs Code, an importing company such as Suez II must be deemed to be a person involved, since it held on its premises the goods at issue accompanied by corresponding invoices issued by its suppliers established in third countries, and it must provide the customs authorities with all assistance necessary and all documentation and information, irrespective of the medium on which the information is stored.
+As stated in paragraphs to above, in accordance with Article 4(13) and Article of the Customs Code, in addition to the general power of supervision conferred on them by Article of that Code, the customs authorities also have the power to subject goods, such as those at issue in the main proceedings, to checks under Article of the Customs Code in order to establish whether the introduction of those goods into the customs territory of the European Union has been effected lawfully or in breach of Articles to of the Customs Code and the second indent of the first paragraph of Article of that code.
+It follows that, in circumstances such as those in the main proceedings, it falls to the importing company, such as Suez II, to provide proof of the customs status of the goods in question, which it claims are Community goods. If it does not provide any proof of the Community status of those goods, the customs authorities may conclude that those goods are non-Community goods.
+In the light of the foregoing, the answer to the question referred is that Article of the Implementing Regulation must be interpreted as meaning that goods, such as those at issue in the main proceedings, supplied and invoiced by companies established in third countries to a company established in the customs territory of the European Union in order to be used there, must be regarded as having been brought into that territory within the meaning of Article of the Customs Code and to be covered, in that regard, by the exception provided for in Article 313(2)(a) of the Implementing Regulation, as only goods in respect of which it has been proven that a procedure for releasing them for free circulation in the customs territory of the European Union has been carried out are to be recognised as having Community status.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Sixth Chamber) hereby rules:
+ 
+Article of Commission Regulation (EEC) No 2454/of July laying down provisions for the implementation of Council Regulation (EEC) No 2913/establishing the Community Customs Code, as amended by Commission Regulation (EC) No 75/of January 1998, must be interpreted as meaning that goods, such as those at issue in the main proceedings, supplied and invoiced by companies established in third countries to a company established in the customs territory of the European Union in order to be used there, must be regarded as having been brought into that territory within the meaning of Article of Council Regulation (EEC) No 2913/of October establishing the Community Customs Code, as amended by Regulation (EC) No 82/of the European Parliament and of the Council of December 1996, and to be covered, in that regard, by the exception provided for in Article 313(2)(a) of Regulation No 2454/93, as amended by Regulation No 75/98, as only goods in respect of which it has been proven that a procedure for releasing them for free circulation in the customs territory of the European Union has been carried out are to be recognised as having Community status.
+ 
+[Signatures]
+(
+*)	Language of the case: Portuguese.
+Top  

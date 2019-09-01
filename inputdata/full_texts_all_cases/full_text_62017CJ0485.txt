@@ -1,0 +1,142 @@
+
+JUDGMENT OF THE COURT (Eighth Chamber)
+August (
+*)
+(Reference for a preliminary ruling — Consumer protection — Directive 2011/83/EU — Article 2(9) — Concept of ‘business premises’ — Criteria — Sales contract concluded on a stand run by a trader at a trade fair)
+In Case C‑485/17,
+REQUEST for a preliminary ruling under Article TFEU from the Bundesgerichtshof (Federal Court of Justice, Germany), made by decision of July 2017, received at the Court on August 2017, in the proceedings
+Verbraucherzentrale Berlin eV
+v
+Unimatic Vertriebs GmbH,
+THE COURT (Eighth Chamber),
+composed of J. Malenovský, President of the Chamber, M. Safjan (Rapporteur) and D. Šváby, Judges,
+Advocate General: H. Saugmandsgaard Øe,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Verbraucherzentrale Berlin eV, by R. Jahn, Rechtsanwalt,
+–
+Unimatic Vertriebs GmbH, by P. Rau, Rechtsanwalt,
+–
+the Belgian Government, by P. Cottin and J. Van Holm, acting as Agents,
+–
+the European Commission, by C. Hödlmayr and N. Ruiz García, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 2(9) of Directive 2011/83/EU of the European Parliament and of the Council of October on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council (OJ L 304, p. 64).
+The request has been made in proceedings between Verbraucherzentrale Berlin eV, a consumer organisation (‘the Organisation’) and Unimatic Vertriebs GmbH (‘Unimatic’), a distribution company, concerning information on the consumer’s right of withdrawal in connection with a sale concluded at a trade fair.
+Legal context
+EU law
+Recitals 4, 5, 7, 21, and of Directive 2011/state:
+‘(4)
+… The harmonisation of certain aspects of consumer distance and off-premises contracts is necessary for the promotion of a real consumer internal market striking the right balance between a high level of consumer protection and the competitiveness of enterprises, while ensuring respect for the principle of subsidiarity.
+(5)
+… [Full] harmonisation of consumer information and the right of withdrawal in distance and off-premises contracts will contribute to a high level of consumer protection and a better functioning of the … internal market.
+…
+(7)
+Full harmonisation of some key regulatory aspects should considerably increase legal certainty for both consumers and traders. … Furthermore consumers should enjoy a high common level of protection across the Union.
+…
+(21)
+An off-premises contract should be defined as a contract concluded with the simultaneous physical presence of the trader and the consumer, in a place which is not the business premises of the trader, for example at the consumer’s home or workplace. In an off-premises context, the consumer may be under potential psychological pressure or may be confronted with an element of surprise, irrespective of whether or not the consumer has solicited the trader’s visit. The definition of an off-premises contract should also include situations where the consumer is personally and individually addressed in an off-premises context but the contract is concluded immediately afterwards on the business premises of the trader or through a means of distance communication. … Purchases made during an excursion organised by the trader during which the products acquired are promoted and offered for sale should be considered as off-premises contracts.
+(22)
+Business premises should include premises in whatever form (such as shops, stalls or lorries) which serve as a permanent or usual place of business for the trader. Market stalls and fair stands should be treated as business premises if they fulfil this condition. Retail premises where the trader carries out his activity on a seasonal basis, for instance during the tourist season at a ski or beach resort, should be considered as business premises as the trader carries out his activity in those premises on a usual basis. Spaces accessible to the public, such as streets, shopping malls, beaches, sports facilities and public transport, which the trader uses on an exceptional basis for his business activities as well as private homes or workplaces should not be regarded as business premises. …
+…
+(37)
+… Concerning off-premises contracts, the consumer should have the right of withdrawal because of the potential surprise element and/or psychological pressure. Withdrawal from the contract should terminate the obligation of the contracting parties to perform the contract.’
+According to Article of that directive, entitled ‘Definitions’:
+‘For the purpose of this Directive, the following definitions shall apply:
+…
+(8)
+“off-premises contract” means any contract between the trader and the consumer:
+(a)
+concluded in the simultaneous physical presence of the trader and the consumer, in a place which is not the business premises of the trader;
+(b)
+for which an offer was made by the consumer in the same circumstances as referred to in point (a);
+(c)
+concluded on the business premises of the trader or through any means of distance communication immediately after the consumer was personally and individually addressed in a place which is not the business premises of the trader in the simultaneous physical presence of the trader and the consumer; or
+(d)
+concluded during an excursion organised by the trader with the aim or effect of promoting and selling goods or services to the consumer;
+(9)
+“business premises” means:
+(a)
+any immovable retail premises where a trader carries out activity on a permanent basis; or
+(b)
+any movable retail premises where the trader carries out his activity on a usual basis;
+…’
+Article of Directive 2011/relates to ‘information requirements for contracts other than distance or off-premises contracts’.
+Article of the directive, entitled ‘Information requirements for distance and off-premises contracts’, provides in paragraph thereof:
+‘Before the consumer is bound by a distance or off-premises contract, or any corresponding offer, the trader shall provide the consumer with the following information in a clear and comprehensible manner:
+…
+(h)
+where a right of withdrawal exists, the conditions, time limit and procedures for exercising that right in accordance with Article 11(1), as well as the model withdrawal form set out in Annex I(B);
+…’
+Article 7(1) of Directive 2011/83, entitled ‘Formal requirements for off-premises contracts’, provides:
+‘With respect to off-premises contracts, the trader shall give the information provided for in Article 6(1) to the consumer on paper or, if the consumer agrees, on another durable medium. That information shall be legible and in plain, intelligible language.’
+Article of that directive, entitled ‘Right of withdrawal’, is worded in paragraph thereof as follows:
+‘Save where the exceptions provided for in Article apply, the consumer shall have a period of days to withdraw from a distance or off-premises contract, without giving any reason, and without incurring any costs other than those provided for in Article 13(2) and Article 14.’
+German law
+Directive 2011/was transposed into German law by the Gesetz zur Umsetzung der Verbraucherrechterichtlinie und zur Änderung des Gesetzes zur Regelung der Wohnungsvermittlung (Law transposing the Consumer Rights Directive and amending the Law regulating estate agencies), of September (BGBl. I, p. 3642).
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Unimatic is a distribution company that sells products, inter alia, at the ‘Grüne Woche’ (Green Week) trade fair, which takes place annually in Berlin (Germany). It is apparent from the order for reference that Unimatic sells its products exclusively at trade fairs.
+On January 2015, a customer ordered a steam vacuum cleaner at a price of EUR on Unimatic’s stand at the ‘Green Week’ trade fair. Unimatic did not advise the customer that it had a right of withdrawal under German law, in accordance with Article of Directive 2011/83.
+The Organisation took the view that Unimatic should have informed the customer of the right of withdrawal because the customer had concluded an off-premises sales contract.
+Consequently, the Organisation brought an action before the Landgericht Freiburg (Regional Court, Freiburg, Germany) seeking an injunction prohibiting Unimatic from selling its products without providing information to consumers on their right of withdrawal.
+The Organisation’s application was dismissed by the Landgericht Freiburg (Regional Court, Freiburg), as was the appeal it brought before the Oberlandesgericht Karlsruhe (Higher Regional Court, Karlsruhe, Germany).
+In those circumstances, the Organisation brought an appeal on a point of law (Revision) before the referring court, the Bundesgerichtshof (Federal Court of Justice, Germany).
+The referring court considers that the wording of Directive 2011/does not indicate the criteria for determining the extent to which, in a specific case, the trader carries out his activity on retail premises ‘on a usual basis’ within the meaning of Article 2(9)(b) of the directive.
+In this respect, on the one hand, in the light of, inter alia, recital of Directive 2011/83, regard could be had to whether the trader utilises a certain sales method on a usual basis, that is to say, whether he regularly sells his products in retail premises or does so only occasionally.
+On the other hand, the effect of that approach is that the consumer who purchases goods offered for sale at a trade fair by a trader who has a ‘permanent’ shop in which he sells those goods on a usual basis and sells them only on an occasional basis at trade fairs would have the right of withdrawal referred to in Article of Directive 2011/83, whereas a sale by another trader who sells his products on a usual basis at trade fairs and does not have a permanent shop would not be regarded as having been made ‘off-premises’ and, consequently, would not have the attendant right of withdrawal.
+According to another approach, set out by the referring court, the way in which the trader organises his sales activities is not decisive in assessing whether the contract was concluded outside ‘business premises’, within the meaning of Article 2(9) of Directive 2011/83. That assessment should be carried out in the light of the nature of the product sold. In the case of a product typically sold at trade fairs, the consumer should have expected, by visiting the trade fair in question, that such a product would be offered to him for sale. On the other hand, consumer protection should be afforded in respect of other types of goods that could not be expected to be offered for sale at such a trade fair. This approach is based on the purpose of the right of withdrawal provided for in Directive 2011/83, which is to protect the consumer against the hasty conclusion of contracts in a situation in which the consumer is not expecting to make such a purchase or is placed under psychological pressure.
+The expectations and perception of the consumer are relevant in the context of the approach referred to in the preceding paragraph. In that regard, on the one hand, regard could be had to the consumer’s expectations at the time of his decision to visit the trade fair, those expectations being based on information regarding the goods and services offered at the trade fair. On the other hand, for the purposes of interpreting Article 2(9) of Directive 2011/83, regard could be had instead to the specific circumstances in which the contract is concluded at a trade fair.
+In those circumstances, the Bundesgerichtshof (Federal Court of Justice) decided to stay the proceedings before it and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Does a trade fair stand in a hall which is used by a trader for the purpose of selling his products during a trade fair taking place for a few days each year constitute “immovable retail premises” within the meaning of Article 2(9)(a) of Directive 2011/or “movable retail premises” within the meaning of Article 2(9)(b) of the directive?
+(2)
+If it constitutes movable retail premises:
+is the question whether a trader carries out his activity “on a usual basis” on trade fair stands to be answered by reference to
+(a)
+how the trader organises his activity or
+(b)
+whether the consumer can expect to conclude a contract for the goods concerned at the trade fair in question?
+(3)
+If, in the answer to the second question, the perception of the consumer is relevant [(Question 2(b)]:
+In connection with the question whether the consumer can expect to conclude a contract for the goods concerned at the trade fair in question, must it be considered from the point of view of the public in general, by examining how the trade fair is presented to that public, or from the point of view of the consumer concerned, by examining how the trade fair actually appears to the consumer when he concludes the contract?’
+Consideration of the questions referred
+By its questions, which should be examined together, the referring court asks, in essence, whether Article 2(9) of Directive 2011/must be interpreted as meaning that a stand, such as that at issue in the main proceedings, run by a trader at a trade fair, at which he carries out his activity for a few days each year, constitutes ‘business premises’ within the meaning of that provision.
+As a preliminary point, it should be recalled that Directive 2011/defines ‘business premises’, on the one hand, in Article 2(9)(a), as any immovable retail premises where the trader carries out his activity on a permanent basis and, on the other hand, in Article 2(9)(b), as any movable retail premises where the trader carries out his activity on a usual basis.
+Recital of Directive 2011/states, in that regard, that business premises should include premises in whatever form, such as shops, stalls or lorries, which serve as a permanent or usual place of business for the trader.
+Thus, the EU legislature has provided that business premises may be immovable or movable retail premises where the trader’s activity is carried out on a permanent basis or on a usual basis.
+Directive 2011/does not define what is meant by an activity carried out ‘on a permanent basis’ or ‘on a usual basis’, nor does it contain any reference to national laws regarding the precise meaning of those words.
+According to the Court’s settled case-law, it follows from the need for a uniform application of EU law that, where a provision thereof makes no reference to the law of the Member States with regard to a particular concept, that concept must be given an autonomous and uniform interpretation throughout the European Union which will be arrived at by taking into account not only the wording of the provision in question but also its context and the objective pursued by the rules of which it forms part (judgment of March 2018, DOCERAM, C‑395/16, EU:C:2018:172, paragraph and the case-law cited).
+Accordingly, the concepts referred to in Article 2(9)(a) and (b) of Directive 2011/must be regarded, for the purposes of applying that directive, as autonomous concepts of EU law which must be interpreted uniformly throughout the Member States.
+In that regard, in the first place, it must be noted that the activity carried out by a trader on a stand such as that at issue in the main proceedings, which is set up at a trade fair for a few days each calendar year, cannot be regarded as being carried out ‘on a permanent basis’, within the usual meaning of that expression.
+In the second place, as regards the expression ‘on a usual basis’, it should be noted that, in its usual meaning, that expression may be understood as referring either to the fact that the activity in question is carried out with a certain regularity over time or that the activity is normally carried out on the premises concerned. Consequently, the meaning of that expression in everyday language does not, of itself, make it possible to give an immediate unequivocal interpretation of it.
+The fact nevertheless remains that the scope of the protection afforded to consumers by Directive 2011/is determined by whether the trader carries out his activity on a permanent basis or on a usual basis in ‘business premises’ within the meaning of Article 2(9) of the directive.
+First, Articles and of Directive 2011/lay down obligations to provide information and formal requirements for ‘off-premises contracts’ within the meaning of Article 2(8) of the directive. Furthermore, Articles to of the directive grant the consumer the right of withdrawal following the conclusion of such a contract and establish the conditions and procedures for exercising that right. Secondly, the definition of an ‘off-premises contract’ refers to the concept ‘business premises’ within the meaning of Article 2(9) of the directive.
+The objective of the provisions referred to in the preceding paragraph is set out, inter alia, in recital of Directive 2011/83, according to which, when he is away from the trader’s business premises, the consumer may be under potential psychological pressure or may be confronted with an element of surprise, irrespective of whether or not the consumer has solicited the trader’s visit. To that extent, the EU legislature also intended to include situations where the consumer is personally and individually addressed in an off-premises context but the contract is concluded immediately afterwards on the trader’s business premises or through a means of distance communication.
+It follows that, while the EU legislature protected consumers, in respect of off-premises contracts, in cases in which, at the time the contract is concluded, the consumer is not in premises occupied on a permanent or usual basis by the trader, that is because it considered that, by visiting the premises spontaneously, the consumer can expect to be solicited by the trader so that, should the case arise, he could not properly claim subsequently that he was surprised by the offer made by the trader.
+Moreover, it should be recalled that the concept of ‘business premises’ was previously to be found in the first indent of Article 1(1) of Council Directive 85/577/EEC of December to protect the consumer in respect of contracts negotiated away from business premises (OJ L 372, p. 31), which was repealed and replaced by Directive 2011/83.
+The fourth recital of Directive 85/stated that the special feature of contracts concluded away from the business premises of the trader is that as a rule it is the trader who initiates the contract negotiations, for which the consumer is unprepared or which he does not expect, and that the consumer is often unable to compare the quality and price of the offer with other offers. That recital also stated that this surprise element generally exists not only in contracts made at the doorstep but also in other forms of contract concluded by the trader away from his business premises.
+It is in the light of, inter alia, the fourth recital of Directive 85/that, in paragraphs and of the judgment of April 1999, Travel Vac (C‑423/97, EU:C:1999:197), the Court held that the concept of ‘business premises’ within the meaning of that directive referred to premises in which the trader usually carries on his business and which are clearly identified as premises for sales to the public.
+As it is apparent from recital of Directive 2011/that the directive also intends places in which there is no element of surprise if the consumer receives a business solicitation to be covered by the concept of ‘business premises’, the case-law established by that judgment concerning the interpretation of Directive 85/remains relevant for the purpose of interpreting that concept within the meaning of Directive 2011/83.
+In the light of these considerations and those set out in paragraph of the present judgment, the expression ‘on a usual basis’ within the meaning of Article 2(9)(b) of Directive 2011/must be understood as referring to the fact that the activity at issue being carried out on the premises in question is a normal activity.
+That interpretation is not called into question by the fact that Article 2(9)(a) of Directive 2011/refers, in respect of immovable premises, to business activities carried out not ‘on a usual basis’ but ‘on a permanent basis’ by the trader concerned. With regard to immovable premises, the very fact that the activity concerned is carried out on a permanent basis necessarily implies that the activity is ‘normal’ or ‘usual’ for a consumer. In view of the fact that the activity carried out on such business premises must satisfy the requirement that it is a permanent activity, the consumer cannot be taken unawares by the type of offer made to him there.
+Concerning, more specifically, a situation, such as that at issue in the main proceedings, in which a trader carries out his activity on a stand at a trade fair, it should be recalled that, as stated in recital of Directive 2011/83, market stalls and fair stands should be treated as business premises if they fulfil this condition.
+It is also apparent from that recital that retail premises where the trader carries out his activity on a seasonal basis, for instance during the tourist season at a ski or beach resort, must be regarded as business premises as the trader carries out his activity in those premises on a usual basis. On the other hand, spaces accessible to the public, such as streets, shopping malls, beaches, sports facilities and public transport, which the trader uses on an exceptional basis for his business activities, as well as private homes or workplaces should not be regarded as business premises.
+In the light of the foregoing, in order to ascertain, in a given situation, whether a stand at a trade fair must be classified as ‘business premises’ within the meaning of Article 2(9) of the directive, regard must be had to the actual appearance of that stand in the eyes of the public and, more specifically, whether, in the eyes of the average consumer, it is presented as a place where the trader occupying it carries out his activities, including seasonal activities, on a usual basis, with the result that such a consumer may reasonably expect, by visiting it, to be solicited by a trader.
+The perception of the average consumer, that is to say a reasonably well-informed and reasonably observant and circumspect consumer, is relevant in that regard (see, by analogy, judgments of April 2014, Kásler and Káslerné Rábai, C‑26/13, EU:C:2014:282, paragraph 74; of October 2016, Canal Digital Danmark, C‑611/14, EU:C:2016:800, paragraph 39, and of September 2017, Andriciuc and Others, C‑186/16, EU:C:2017:703, paragraph 47).
+In that context, it is for the national court to assess the appearance given by the stand in question to the average consumer, by taking into consideration all the factual circumstances surrounding the trader’s activity and, in particular, the information relayed on the premises of the trade fair itself. The duration of the trade fair concerned is not, in itself, conclusive in that regard, the EU legislature having intended, as is apparent from recital of Directive 2011/83, that premises where the trader carries out his activity on a seasonal basis may constitute ‘business premises’ within the meaning of Article 2(9) of the directive.
+It follows from all the foregoing considerations that the answer to the questions referred is that Article 2(9) of Directive 2011/must be interpreted as meaning that a stand, such as that at issue in the main proceedings, run by a trader at a trade fair, at which he carries out his activity for a few days each year, constitutes ‘business premises’ within the meaning of that provision if, in the light of all the factual circumstances surrounding that activity, in particular the appearance of the stand and the information relayed on the premises of the fair itself, a reasonably well-informed and reasonably observant and circumspect consumer could reasonably assume that the trader is carrying out his activity there and will solicit him in order to conclude a contract, which is for the national court to ascertain.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Eighth Chamber) hereby rules:
+ 
+Article 2(9) of Directive 2011/83/EU of the European Parliament and of the Council of October on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council, must be interpreted as meaning that a stand, such as that at issue in the main proceedings, run by a trader at a trade fair, at which he carries out his activity for a few days each year, constitutes ‘business premises’ within the meaning of that provision if, in the light of all the factual circumstances surrounding that activity, in particular the appearance of the stand and the information relayed on the premises of the fair itself, a reasonably well-informed and reasonably observant and circumspect consumer could reasonably assume that the trader is carrying out his activity there and will solicit him in order to conclude a contract, which is for the national court to ascertain.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

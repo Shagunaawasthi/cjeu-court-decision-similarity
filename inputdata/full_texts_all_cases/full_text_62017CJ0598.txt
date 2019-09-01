@@ -1,0 +1,111 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+May (
+*)
+(Reference for a preliminary ruling — Existing aid and new aid — Concept of new aid — Refund of dividend tax — Scheme widened to companies established outside the Member State concerned — Free movement of capital — Obligations of national courts)
+In Case C‑598/17,
+REQUEST for a preliminary ruling under Article TFEU from the Gerechtshof ’s-Hertogenbosch (Court of Appeal, ’s-Hertogenbosch, Netherlands), made by decision of October 2017, received at the Court on October 2017, in the proceedings
+A-Fonds
+v
+Inspecteur van de Belastingdienst,
+THE COURT (First Chamber),
+composed of J.-C. Bonichot (Rapporteur), President of the Chamber, C. Toader, A. Rosas, L. Bay Larsen and M. Safjan, Judges,
+Advocate General: H. Saugmandsgaard Øe,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of
+–
+A-Fonds, by R. van der Jagt,
+–
+the Netherlands Government, by M.K. Bulterman and by J. Langer, acting as Agents,
+–
+the European Commission, by P.-J. Loewenthal, A. Bouchagiar, S. Noë and by N. Gossement, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on December 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles and TFEU.
+The request has been made in proceedings between A-Fonds and the Inspecteur van de Belastingdienst (Inspector of the Netherlands tax administration) (‘the tax administration’) concerning the refund of dividend tax withheld by the Netherlands tax administration.
+Legal context
+European Union law
+Article 1(c) of Council Regulation (EC) No 659/of March laying down detailed rules for the application of Article of EC Treaty (OJ L 83, p. 1) defines ‘new aid’ as ‘all aid, that is to say, aid schemes and individual aid, which is not existing aid, including alterations to existing aid’.
+Article 1(c) of Council Regulation (EU) 2015/of July 2015, laying down detailed rules for the application of Article of the [TFEU] (OJ L 248, p. 9), lays down provisions identical to those referred to in the preceding paragraph.
+Article 4(1) of Commission Regulation (EC) No 794/of April implementing Council Regulation No 659/(OJ L 140, p. 1), provides:
+‘For the purposes of Article 1(c) of Regulation No 659/1999, an alteration to existing aid shall mean any change, other than modifications of a purely formal or administrative nature which cannot affect the evaluation of the compatibility of the aid measure with the common market. However an increase in the original budget of an existing aid scheme by up to 20% shall not be considered an alteration to existing aid.’
+Netherlands law
+The Wet Vpb Article 2(1)(f) and (g) of the Wet op de vennootschapsbelasting (Law on Corporation Tax), of October 1969, in the version applicable to the case in the main proceedings (‘the Wet Vpb 1969’), provide:
+‘The following entities established in the Netherlands are subject to tax as domestic taxable persons:
+…
+(f)
+special investment funds;
+(g)
+the businesses, referred to in paragraph 3, of legal persons governed by public law.’
+Article 2(3) of the Wet Vpb sets out a list of companies operating in certain economic sectors.
+Article 2(7) of the Wet Vpb provides that bodies of which only legal persons governed by Netherlands public law are directly or indirectly shareholders, associates or members, and bodies whose directors are exclusively appointed and removed directly or indirectly by legal persons governed by Netherlands public law and whose assets revert exclusively to legal persons governed by Netherlands public law in the event of liquidation ‘are subject to tax only to the extent that they carry on a business within the meaning of paragraph 3’.
+The Wet DB The Wet op de dividendbelasting (Law on the Taxation of Dividends) (‘the Wet DB 1965’) has been amended a number of times in the period during which the facts of the main proceedings took place.
+In the version in force with effect from July 2008, recalled by the referring court, Article 1(1) of the Wet DB provides:
+‘Under the name “dividend tax” a direct tax shall be levied on persons who, directly or by means of certificates, are entitled to income from shares … ’
+In the same version, Article of the Wet DB sets out the rules on the refund of that tax as follows:
+‘1.   By a decision of the inspector, which may be challenged by means of a complaint, a legal person established in the Netherlands and not subject to corporation tax shall, upon request by that person, be granted a refund of dividend tax withheld in respect of that person in the course of a calendar year, where that tax amounts to more than EUR 23.
+…
+3.   Paragraph shall apply by analogy in relation to a body established in another Member State of the European Union which is not subject, in that State, to a tax on profits and which, if it had been established in the Netherlands, would also not have been subject to a tax levy on those companies. The first sentence shall not apply as regards bodies that carry out a function comparable with that of investment undertakings covered by Article 6a or Article of the [Wet Vpb 1969].’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+A-Fonds is a Spezial-Sondervermögen (special collective investment fund), with no legal personality, established in Germany.
+Such funds are exempt from corporation and business tax. Investors participating in those funds are deemed to receive dividends pro rata to their shares therein. Those dividends are subject to tax, on the investors, in accordance with their personal tax status under German tax law.
+Since A-Fonds was constituted, all of its shares have been held by BBB.
+BBB is a body governed by German public law (Anstalt des öffentlichen Rechts), has a legal personality and is made up of a group German municipalities, which are legal persons governed by public law. It conducts banking business, but its aim is not solely to make profits. It also has a public role. Thus, BBB devotes part of its revenue to supporting social, cultural, sporting, scientific and educational activities in the Land where it operates.
+BBB is subject, in Germany, to corporation tax and professional tax. It is also clear from the order for reference that the dividends it receives are exempt up to a value of 95% of the German tax on profits, and that it cannot be charged tax on dividends received in the Netherlands on the ground that its share in A-Fonds is part of its fixed assets (Anlagebuch).
+At the time of the facts in the main proceedings, BBB held, through A-Fonds, shares in Netherlands companies subject to the Wet DB 1965. The Netherlands dividend tax was withheld on the dividends that those shares generated for it in respect of the financial years 2002/to 2007/2008.
+By several requests, BBB sought the refund of that tax from the Netherlands tax administration, pursuant to Article 10(1) of the Wet DB 1965. That administration rejected those requests.
+It is clear from the order for reference that, at least for the financial years between November and October 2008, the tax administration considered that BBB was not entitled to claim that refund on that ground it was not established in the Netherlands.
+A-Fonds made applications to the rechtbank Zeeland-West-Brabant te Breda (District Court of Zeeland-West-Brabant te Breda, Netherlands) for the annulment of the decisions refusing a refund, which were rejected as unfounded by a judgment of May 2014. That court considered, inter alia, that A-Fonds’ situation was not comparable with that of a body covered by Article 10(1) of the Wet DB 1965.
+A-Fonds brought an appeal against that judgment before the Gerechtshof ’s-Hertogenbosch (Court of Appeal, ’s-Hertogenbosch, Netherlands).
+That court considers that both the requests for a refund sent by A-Fonds to the tax administration and the legal claims must be regarded as having been made in the name of BBB.
+It considers that the tax administration’s decisions refusing the refund of the tax on dividends, claimed by BBB, on the ground that it is established in a Member State other than the Kingdom of the Netherlands, infringes the free movement of capital.
+It states that the dividends generated by investments made by legal persons governed by public law who are established in the Netherlands and who, under the Wet Vpb 1969, are not subject to corporation tax on the ground that they engage in activities other than those listed in Article 2(3) of the Wet Vpb 1969, are in principle subject, in the Netherlands, to dividend tax. However, that tax is later refunded to them pursuant to Article 10(1) of the Wet DB 1965.
+It concluded that the fact that BBB could not claim the refund of the dividend tax under that same provision, even though it conducted activities comparable to those of Netherlands legal persons governed by public law and not subject to corporation tax in the Netherlands, constituted a restriction on the free movement of capital.
+It considers that it is necessary, therefore, to grant BBB a refund of the amount equal to that which a legal person governed by public law established in the Netherlands and not subject to corporation tax in that Member State would receive pursuant to Article 10(1) of the Wet DB 1965.
+However, that court wonders whether the grant of such a refund complies with EU law on State aid.
+Taking the view that the refund of dividend tax laid down in Article 10(1) of the Wet DB is, in the case in the main proceedings, inextricably linked to the exemption from corporation tax for public undertakings under Article 2(3) of the Wet Vpb 1969, which the European Commission, in its decision (C(2013) final) of May 2013, found to be an existing aid that was incompatible with the internal market, the referring court concludes that the refund therefore also constitutes an existing aid scheme.
+In that context, it wonders whether a decision to grant the request by the applicant in the main proceedings for a refund on the basis of Article 56(1) EC, now Article 63(1) TFEU, constitutes the alteration of an existing aid, which constitutes a new aid, within the meaning of Article 1(c) of Regulation No 659/1999.
+If that is the case, it wonders whether it is possible to adopt a decision upholding such a request and whether it is necessary, in particular, to notify that decision to the Commission in accordance with Article 108(3) TFEU.
+It states that this is a ‘test case’ and that the tax administration has already received almost similar requests for a refund.
+In those circumstances, the Gerechtshof ’s-Hertogenbosch (Regional Court of Appeal, ’s-Hertogenbosch) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is the extension of the scope of an existing system of aid as a result of a taxable person successfully invoking the right to the free movement of capital as laid down in Article of the EC Treaty (now Article TFEU) to be regarded as a new system of aid resulting from an alteration to existing aid?
+(2)
+If so, does the task to be performed by the national court under Article 108(3) TFEU preclude the taxable person from being granted a tax advantage which that taxable person claims under Article of the EC Treaty (now Article TFEU), or should a proposed judicial decision to grant that advantage be notified to the Commission, or should the national court take any other action or implement any other measure, in view of the supervisory task assigned to it under Article 108(3) TFEU?’
+Admissibility of the request for a preliminary ruling
+The Commission submits that the request for a preliminary ruling is inadmissible on the ground that it does not contain the elements of fact and law necessary to enable the Court to give a useful answer to the questions submitted to it.
+In that regard, it should be observed that the two questions submitted by the referring court are based on the premiss that the scheme for the refund of dividend tax at issue in the main proceedings is an existing State aid.
+In particular, the referring court bases its analysis on the fact that, in the case in the main proceedings, the refund, provided for in Article 10(1) of the Wet DB 1965, is inextricably linked to the exemption from corporation tax provided for in Article of the Wet Vpb for legal persons governed by public law, which the Commission, in its decision C(2013) final, had considered to be an aid scheme that was incompatible with the internal market.
+However, and as the Commission itself states in its written observations, it must be observed that that decision concerns solely the scheme for the exemption from corporation tax of persons governed by public law, provided for by Wet Vpb 1969, and not the scheme for the refund of dividend tax laid down in Article 10(1) of the Wet DB 1965.
+Furthermore, the scope of application of those two schemes is not the same, since the second is wider and covers all Netherlands companies exempt from corporation tax.
+Thus, the Commission’s finding that the scheme exempting Netherlands public undertakings from corporation tax, laid down in Article of the Wet Vpb 1969, is an existing aid scheme incompatible with the internal market cannot validly be regarded as applicable, mutatis mutandis, to the scheme for the refund of dividend tax provided for in Article 10(1) of the Wet DB 1965.
+Nevertheless, it cannot be denied, as the referring court moreover indicates, that, in this specific case where the refund of dividend tax is granted to a public undertaking on the ground that it is exempt from corporation tax pursuant to Article of the Wet Vpb 1969, the refund is the direct and inseparable consequence of the grant of a State aid and that it could, therefore, also be regarded as constituting a State aid.
+Thus, since it is not inconceivable that the law at issue is to be classified as State aid and it is for the national court to determine that issue in order to ensure compliance with Article 108(3) TFEU, the answers to the questions referred must be regarded as useful to the referring court for the purpose of resolving the dispute in the main proceedings and must, therefore, be regarded as resting on the premiss that the scheme for the refund of dividend tax at issue in the main proceedings constitutes an aid scheme.
+Consideration of the questions referred
+At the outset, it should be noted that the referring court does not ask the Court to provide an interpretation of Article 56(1) EC, now Article 63(1) TFEU, which prohibits all restrictions on the movement of capital between Member States and between Member States and third countries, the infringement of which appears to it to be established. It is clear from the order for reference that that infringement follows from the fact that the Netherlands legislation which provides for the refund of dividend tax subject to a condition of residence on national territory.
+It is also necessary to observe that the relevant provisions of Regulation No 659/1999, to which the referring court refers, are laid down in identical terms by Regulation 2015/which replaced it, such that it is not necessary to determine the application ratione temporis of those two regulations to the facts of the case in the main proceedings.
+Having regard to the foregoing considerations, by its two questions, which it is appropriate to examine together, the referring court must be regarded as asking, in essence, whether EU law precludes a court of a Member State from granting, in order to ensure compliance with Article 56(1) EC, now Article 63(1) TFEU, the benefit of a State aid scheme, such as that which may be created by the scheme for the refund of dividend tax at issue in the main proceedings, to an undertaking established in another Member State. The referring court asks in particular whether, where such an aid scheme is regarded as existing, the decision to grant the benefit of that scheme constitutes a new aid, within the meaning of Article 1(c) of Regulation No 659/1999, which that court would have to notify to the Commission in accordance with the last sentence of Article 108(3) TFEU.
+It must be observed that the questions submitted by the referring court require, as it observes itself, the prior determination as to whether EU law precludes it from retaining its competence to examine whether the residence condition at issue in the main proceedings complies with the free movement of capital, or whether that review falls within the sole competence of the Commission to assess the compatibility of an aid scheme with the internal market.
+As follows from the settled case-law of the Court, within the system established by the Treaty for supervision of State aid, the national courts and the Commission fulfil complementary but separate roles (see, to that effect, the judgments of July 1996, SFEI and Others, C‑39/94, EU:C:1996:285, paragraph 41, and of September 2016, PGE, C‑574/14, EU:C:2016:686, paragraph and the case-law cited).
+Whilst the assessment of the compatibility of aid measures with the internal market falls within the exclusive competence of the Commission, subject to review by the European Union Courts, it is for the national courts to ensure that the rights of individuals are safeguarded where the obligation to give prior notification of State aid to the Commission pursuant to Article 108(3) EC has been infringed (see, to that effect, the judgment of December 2011, Residex Capital IV, C‑275/10, EU:C:2011:814, paragraph 27). Such disregard, if relied on by individuals and confirmed by the national courts, must lead those courts to draw from it all the consequences in accordance with their national law, without their decisions, however, implying an assessment of the compatibility of the aid with the internal market, which is a matter within the exclusive competence of the Commission, subject to review by the Court (see, to that effect, the judgment of April 2002, Nygård, C‑234/99, EU:C:2002:244, paragraph and the case-law cited).
+It is also clear from the case-law of the Court that a national court has competence to assess whether the arrangements of an aid scheme comply with Treaty provisions which have direct effect, other than those relating to State aid, only if those arrangements can be evaluated separately and thus, although forming part of the aid scheme in question, are not necessary for the attainment of its objective or for its functioning (see, to that effect, the judgments of March 1977, Iannelli & Volpi, 74/76, EU:C:1977:51, paragraph 14, and of April 2002, Nygård, C‑234/99, EU:C:2002:244, paragraph 57).
+By contrast, the arrangements of an aid may be so indissolubly linked to the object of the aid that it is impossible to evaluate them separately so that their effect on the compatibility or incompatibility of the aid viewed as a whole must therefore of necessity be determined in the light of the procedure prescribed in Article TFEU (see, to that effect, the judgment of March 1977, Iannelli & Volpi, 74/76, EU:C:1977:51, paragraph 14).
+In the present case, that is the case for a residence condition such as that laid down in the scheme for the refund of dividend tax at issue in the main proceedings, if the scheme is however regarded as constituting State aid, since that condition appears to be indissolubly linked to the very object of the exemption measures at issue, which is to the advantage of national undertakings only.
+Furthermore, it should be observed that, in the case in the main proceedings, such a review would necessarily call into question, even if only indirectly, the residence condition laid down by Article of the Wet Vpb for the exemption from corporation tax for public undertakings, which is a necessary condition for the achievement of the objective and functioning of that aid scheme.
+It does not therefore appear to be possible to separate such a condition, which is necessary for the attainment of the objective and functioning of that aid scheme, without adversely affecting the division of competences between the Commission and the national courts in the matter of State aid.
+Consequently, it must be held that EU law precludes a national court from assessing whether a residence condition, such as that at issue in the main proceedings, complies with the free movement of capital, where the scheme for the refund of dividend tax concerned constitutes an aid scheme.
+It follows that such a court cannot, a fortiori, draw the consequences of a possible infringement by that residence condition of the free movement of capital in granting the refund of that tax. It is not, therefore, necessary to provide an answer to the question referred to in paragraph of this judgment.
+Having regard to all the foregoing, the answer to the questions referred is that Articles and TFEU must be interpreted as meaning that a national court cannot assess whether a residence condition, such as that at issue in the main proceedings, complies with Article 56(1) EC, now Article 63(1) TFEU, where the scheme for the refund of dividend tax concerned constitutes an aid scheme.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+Articles and TFEU must be interpreted as meaning that a national court cannot assess whether a residence condition, such as that at issue in the main proceedings, complies with Article 56(1) EC, now Article 63(1) TFEU, where the scheme for the refund of dividend tax concerned constitutes an aid scheme.
+ 
+[Signatures]
+(
+*)	Language of the case: Dutch.
+Top  

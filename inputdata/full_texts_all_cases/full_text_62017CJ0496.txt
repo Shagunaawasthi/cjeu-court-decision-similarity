@@ -1,0 +1,239 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+January (
+*)
+(Reference for a preliminary ruling — Customs union — The Union Customs Code — Article — Status of authorised economic operator — Implementing Regulation (EU) 2015/— The second subparagraph of Article 24(1) — Applicant not a natural person — Questionnaire — Collection of personal data — Directive 95/46/EC — Articles and — Regulation (EU) 2016/— Articles and — Processing of personal data)
+In Case C‑496/17,
+REQUEST for a preliminary ruling under Article TFEU from the Finanzgericht Düsseldorf (Finance Court, Düsseldorf, Germany), made by decision of August 2017, received at the Court on August 2017, in the proceedings
+Deutsche Post AG
+v
+Hauptzollamt Köln,
+THE COURT (Third Chamber),
+composed of M. Vilaras (Rapporteur), President of the Fourth Chamber, acting as President of the Third Chamber, J. Malenovský, L. Bay Larsen, M. Safjan and D. Šváby, Judges,
+Advocate General: M. Campos Sánchez-Bordona,
+Registrar: R. Şereş, administrator,
+having regard to the written procedure and further to the hearing on July 2018,
+after considering the observations submitted on behalf of:
+–
+Deutsche Post AG, by U. Möllenhoff, Rechtsanwalt,
+–
+Hauptzollamt Köln, by W. Liebe, M. Greve-Giesow and M. Hageroth, acting as Agents,
+–
+the Spanish Government, by S. Jiménez García and V. Ester Casas, acting as Agents,
+–
+the Italian Government, by G. Palmieri, acting as Agent, and by G. Albenzio, avvocato dello Stato,
+–
+the Hungarian Government, by M. Z. Fehér, G. Koós and R. Kissné Berta, acting as Agents,
+–
+the European Commission, by B.-R. Killmann and F. Clotuche-Duvieusart, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on October 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of the second subparagraph of Article 24(1) of Commission Implementing Regulation (EU) 2015/of November laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/of the European Parliament and of the Council laying down the Union Customs Code (OJ L 343, p. 558).
+The request has been made in proceedings where the opposing parties are Deutsche Post AG and the Hauptzollamt Köln (Principal Customs Office, Cologne, Germany; ‘the Hauptzollamt’), concerning the nature and extent of the personal data of third parties that must be submitted in order that an undertaking can qualify for the status of an authorised economic operator, provided for in Article of Regulation (EU) No 952/of the European Parliament and of the Council of October laying down the Union Customs Code (OJ L 269, p. 1; ‘the Customs Code’).
+Legal context
+European Union law
+The customs legislation;
+Title I of the Customs Code contains a Chapter 2, headed ‘Rights and obligations of persons with regard to the customs legislation’, which contains a Section 4, headed ‘Authorised economic operator’ (‘AEO’), within which are Articles to 41.
+Article of that code provides:
+‘1.   An economic operator who is established in the customs territory of the Union and who meets the criteria set out in Article may apply for the status of an [AEO].
+The customs authorities shall, if necessary following consultation with other competent authorities, grant that status, which shall be subject to monitoring.
+2.   The status of [AEO] shall consist in the following types of authorisations:
+(a)
+that of an [AEO] for customs simplifications, which shall enable the holder to benefit from certain simplifications in accordance with the customs legislation; or
+(b)
+that of an [AEO] for security and safety that shall entitle the holder to facilitations relating to security and safety.
+…
+5.   Customs authorities shall, on the basis of the recognition of the status of [AEO] for customs simplifications and provided that the requirements related to a specific type of simplification provided for in the customs legislation are fulfilled, authorise the operator to benefit from that simplification. Customs authorities shall not re-examine those criteria which have already been examined when granting the status of [AEO].
+6.   The [AEO] referred to in paragraph shall enjoy more favourable treatment than other economic operators in respect of customs controls according to the type of authorisation granted, including fewer physical and document-based controls.
+…’
+Article of that code provides:
+‘The criteria for the granting of the status of [AEO] shall be the following:
+(a)
+the absence of any serious infringement or repeated infringements of customs legislation and taxation rules, including no record of serious criminal offences relating to the economic activity of the applicant;
+…’
+The first subparagraph of Article of that code states:
+‘The Commission shall adopt, by means of implementing acts, the modalities for the application of the criteria referred to in Article 39’.
+Title I of Implementing Regulation 2015/contains a Chapter 2, headed ‘Rights and obligations of persons with regard to the customs legislation’, which contains a Section 3, headed ‘Authorised economic operator’, within which are Articles to 35.
+The second subparagraph of Article 24(1) of that regulation provides:
+‘Where the applicant is not a natural person, the criterion laid down in Article 39(a) of the Code shall be considered to be fulfilled where, over the last years, none of the following persons has committed a serious infringement or repeated infringements of customs legislation and taxation rules or has had a record of serious criminal offences relating to his economic activity:
+(a)
+the applicant;
+(b)
+the person in charge of the applicant or exercising control over its management;
+(c)
+the employee in charge of the applicant’s customs matters.’
+Recital of Commission Delegated Regulation (EU) 2016/of December supplementing Regulation No 952/as regards transitional rules for certain provisions of the Union Customs Code where the relevant electronic systems are not yet operational and amending Delegated Regulation (EU) 2015/(OJ L 69, p. 1) states:
+‘Since the electronic system which is necessary for the application of the provisions of the [Customs] Code governing both the application for and the authorisation granting the status of an [AEO] is yet to be upgraded, the currently used means, in paper and electronic form need to continue to be used until the system is upgraded.’
+Article of that regulation provides:
+‘1.   This Regulation lays down transitional measures on the means for the exchange and storage of data referred to in Article of the [Customs] Code until the electronic systems which are necessary for the application of the provisions of [that] Code are operational.
+2.   Data requirements, formats, and codes, which are to be applied for the transitional periods set out in this Regulation, in [Commission] Delegated Regulation (EU) 2015/[of July supplementing Regulation No 952/as regards detailed rules concerning certain provisions of the Union Customs Code (OJ L 343, p. 1)] and in Implementing Regulation [2015/2447] are laid down in the Annexes to this Regulation.’
+Delegated Regulation 2016/contains a Chapter headed ‘General provisions’, which contains a Section headed ‘Application for the status of AEO’, within which Article of that regulation provides:
+‘1.   Until the date of the upgrading of the AEO system referred to in the Annex to [Commission] Implementing Decision 2014/255/EU [of April establishing the Work Programme for the Union Customs Code (OJ L 134, p. 46)], customs authorities may allow for means other than electronic data-processing techniques to be used for applications and decisions relating to AEO or for any subsequent event which may affect the original application or decision.
+2.   In the cases referred to in paragraph of this Article, the following shall apply:
+(a)
+applications for the status of AEO shall be lodged using the format of the form set out in Annex 6; and
+…’
+Part of Annex to that regulation is headed ‘Explanatory Notes’. Point of those notes, on the name, date and signature of the applicant, states the following:
+‘…
+Number of annexes: the applicant shall provide the following general information:
+1.
+Overview of the principal owners/shareholders, stating names and addresses and their proportional interests. Overview of the members of the board of directors. Are owners known by the customs authorities for previous non-compliant behaviour?
+2.
+The person responsible in the applicant’s administration for customs matters.
+…
+8.
+The names of the key office-holders (managing directors, divisional heads, accounting managers, head of customs division etc.). Description of the adopted routines in situation when the competent employee is not present, temporarily or permanently.
+9.
+The names and the position within the organisation of the applicant who have specific customs expertise. Assessment of the level of knowledge of these persons in regards of the use of IT technology in customs and commercial processes and general commercial matters.
+…’
+The right to protection of personal data
+Article of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, p. 31), provided:
+‘For the purposes of this Directive
+(a)
+“personal data” shall mean any information relating to an identified or identifiable natural person (“data subject”); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity;
+(b)
+“processing of personal data” (processing) shall mean any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction;
+…’
+Article of that directive was worded as follows:
+‘1.   Member States shall provide that personal data must be:
+(a)
+processed fairly and lawfully;
+(b)
+collected for specified, explicit and legitimate purposes and not further processed in a way incompatible with those purposes. …
+(c)
+adequate, relevant and not excessive in relation to the purposes for which they are collected and/or further processed;
+…
+2.   It shall be for the controller to ensure that paragraph is complied with.’
+Article of that directive provided:
+‘Member States shall provide that personal data may be processed only if:
+…
+(c)
+processing is necessary for compliance with a legal obligation to which the controller is subject; or
+…’
+Regulation (EU) 2016/of the European Parliament and of the Council of April on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, p. 1), entered into force on May 2016. That regulation repeals Directive 95/with effect from May 2018.
+Article of that regulation provides, in particular, the following definitions:
+‘For the purposes of this Regulation:
+(1)
+“personal data” means any information relating to an identified or identifiable natural person (…); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
+(2)
+“processing” means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction;
+…’
+Article of that regulation, headed ‘Principles relating to processing of personal data’ provides:
+‘1.   Personal data shall be:
+(a)
+processed lawfully, fairly and in a transparent manner in relation to the data subject (“lawfulness, fairness and transparency”);
+(b)
+collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes; …
+(c)
+adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (“data minimisation”);
+…
+2.   The controller shall be responsible for, and be able to demonstrate compliance with, paragraph (“accountability”).’
+Article of that regulation, headed ‘Lawfulness of processing’, provides:
+‘1.   Processing shall be lawful only if and to the extent that at least one of the following applies:
+…
+(c)
+processing is necessary for compliance with a legal obligation to which the controller is subject;
+…
+3.   The basis for the processing referred to in point (c) and (e) of paragraph shall be laid down by:
+(a)
+Union law, or
+(b)
+Member State law to which the controller is subject.
+The purpose of the processing shall be determined in that legal basis … That legal basis may contain specific provisions to adapt the application of rules of this Regulation, inter alia: the general conditions governing the lawfulness of processing by the controller; the types of data which are subject to the processing; the data subjects concerned; the entities to, and the purposes for which, the personal data may be disclosed; the purpose limitation; storage periods; and processing operations and processing procedures, including measures to ensure lawful and fair processing such as those for other specific processing situations as provided for in Chapter IX. The Union or the Member State law shall meet an objective of public interest and be proportionate to the legitimate aim pursued.
+…’
+German law
+Paragraph 139a(1) of the Abgabenordnung (the Fiscal Code of Germany; ‘the AO’), in the version applicable to the main proceedings, provides:
+‘For the purposes of unambiguous identification in taxation procedures, the Federal Central Tax Office shall issue each taxpayer a uniform and permanent means of recognition (identifier); the taxpayer, or third parties who must submit that taxpayer’s data to the tax authorities, shall include that identifier on applications, declarations or notifications addressed to the tax authorities. The identifier shall consist of a series of digits that may not be constructed or derived from other data relating to the taxpayer; the final digit shall be a check digit …’
+Paragraph 139b of the AO, headed ‘Identification number’, provides:
+‘(1)   A natural person may not receive more than one identification number …
+(2)   The tax authorities may only collect and use the identification number provided that this is necessary for them to fulfil their legal duties or a legal provision expressly requires or permits the collection or use of the identification number. Other public or non-public offices may
+1.
+only collect or use the identification number provided that this is necessary to allow data to be transmitted between them and the tax authorities, or a legal provision expressly requires or permits the collection and use of the identification number,
+…
+3.
+use the legally collected identification number of a taxpayer to fulfil all of their reporting requirements vis-à-vis the tax authorities, provided that the respective reporting requirements relate to the same taxpayer and the collection and use of the identification number are permissible under [point 1]
+…’
+Paragraph 38(1) and (3) of the Einkommensteuergesetz (Law on Income Tax; ‘the EStG’), in the version applicable to the dispute in the main proceedings, are worded as follows:
+‘(1)   In the case of income from wages for work, income tax shall be levied by being deducted at source from a person’s wage (wage tax) where the wage is paid by an employer
+…
+(3)   The employer shall deduct the wage tax from an employee’s wages on his behalf every time wages are paid.’
+Under Paragraph 39(1) of the EStG, headed ‘Individual data for the calculation of the wage tax to be deducted at source’:
+‘For the implementation of the deduction at source of the wage tax, individual data for the calculation of the wage tax to be deducted at source shall be established at the behest of the wage-earning employee …’
+Paragraph 39e of the EStG, headed ‘Procedure for the establishment and use of the individual electronic data for the calculation of the wage tax to be deducted at source’:
+‘(1)   The Federal Central Tax Office shall establish, for every wage-earning employee, generally in automated form, the tax bracket, and, and as regards children to be taken into account with respect to tax brackets I to IV, the amount of child relief … as individual data for the calculation of the wage tax to be deducted at source (Paragraph 39(4), first sentence, points and 2) … Where the tax authority establishes, in accordance with Paragraph 39, individual data for the calculation of the wage tax to be deducted at source, it shall transmit that data to the Federal Central Tax Office so that the data will be available for automated retrieval by the employer …
+(2)   In order to make available to employers the individual data for the calculation of the wage tax to be deducted at source, which is automatically retrievable, the Federal Central Tax Office shall store the individual data for the calculation of the wage tax to be deducted at source, accessible by identification number, and, for each taxpayer, the following data, in addition to the data mentioned in Paragraph 139b(3) of the [AO]:
+1.
+affiliation de jure to a tax-collecting religious community, and the date of joining and withdrawal,
+2.
+registered marital status, and the date of creation or dissolution of that marital status and, in the case of married persons, identification number of the spouse,
+3.
+children, with reference to their identification number …
+…
+(4)   When commencing employment, for the purpose of retrieving individual data for the calculation of the wage tax to be deducted at source, a wage-earning employee shall inform each of his employers
+1.
+of his identification number and date of birth …
+…
+At the start of the employment relationship, the employer shall retrieve the individual electronic data for the calculation of the wage tax to be deducted at source for the employee from the Federal Central Tax Office via remote data transmission and shall incorporate that data in the employee’s wage records.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Deutsche Post has the status of an authorised consignee and the status of an authorised consignor, and has authorisation for the use of a comprehensive guarantee, which constitute EU customs system simplifications.
+When the Customs Code altered the particular conditions for the granting of customs authorisations, the Hauptzollamt, by letter dated April 2017, requested of Deutsche Post that it reply to a self-evaluation questionnaire, in which Deutsche Post was to identify in detail the members of its advisory and supervisory boards, its principal managers (managing directors, divisional heads, accounting managers, those in charge of customs matters, etc.) and the persons in charge of managing customs matters or those responsible for dealing with such matters, by sending, inter alia, the tax identification numbers of all those natural persons and the details of the tax offices responsible for their taxation.
+The Hauptzollamt stated to Deutsche Post that, if there was no cooperation, it would be impossible to determine whether the authorisation conditions laid down in the Customs Code were satisfied and that, if or to the extent that those conditions were no longer satisfied, it would revoke the authorisations held by Deutsche Post.
+By means of the action brought by it before the referring court, the Finanzgericht Düsseldorf (Finance Court, Düsseldorf, Germany), Deutsche Post challenges the obligation to send to the Hauptzollamt the tax identification numbers of the persons concerned and the details of the tax offices responsible for their taxation.
+Deutsche Post claims that the group of individuals within its undertaking affected by the questions raised by the Hauptzollamt is very large, that some of those individuals are unwilling to agree to the transmission of their personal data and that that group is larger than the group of persons referred to in the second subparagraph of Article 24(1) of Implementing Regulation 2015/2447. Deutsche Post considers that the situation of its wage-earning employees with respect to income tax does not assist an assessment of whether serious or repeated infringements of customs legislation or of tax rules, or serious criminal offences, have been committed in the context of its economic activity. According to Deutsche Post, the collection of tax identification numbers is neither necessary nor appropriate for the purpose of determining its reliability in term of customs law, and the verification of the individual tax situation of all the individuals affected is disproportionate in relation to that objective.
+The Hauptzollamt contends that that action should be dismissed. Its main argument is that the transmission of the tax identification numbers is necessary to ensure unmistakeable identification of the persons concerned in a request for information that it might submit to the responsible tax office, that an exchange of information is provided for, on a case-by-case basis, only if that office is in possession of evidence of serious and repeated infringements of the tax legislation, no account being taken of administrative procedures leading to fines or criminal prosecutions that are abandoned, and that repeated infringements of the tax legislation are taken into account only when their frequency is disproportionate in relation to the nature and size of the commercial activity of the applicant for authorisation. The Hauptzollamt considers that the group of individuals affected by the questions raised is compatible with the EU customs legislation.
+According to the referring court, the outcome of the dispute in the main proceedings depends on the interpretation of the second subparagraph of Article 24(1) of Implementing Regulation 2015/2447, read in the light of Article of the Charter of Fundamental Rights of the European Union and of Regulation 2016/679, since the tax identification numbers of the persons concerned and the details of the tax offices responsible for their taxation constitute personal data.
+First, the referring court is uncertain as to whether the transmission of such data constitutes lawful processing with regard to Implementing Regulation 2015/2447. Second, the referring court questions the necessity of having access to the personal data of Deutsche Post’s wage-earning employees and members of the its supervisory board, data that was collected for the purpose of levying income tax by deducting tax at source from wages.
+The referring court considers that the personal data of those wage-earning employees has no direct link with the assessment of Deutsche Post’s reliability in terms of the provisions of customs law and has no connection with its economic activity.
+The referring court seeks to ascertain whether, in the light of Article 8(1) of the Charter of Fundamental Rights and the principle of proportionality, the customs authority can request personal data, such as the tax identification numbers of data subjects and the details of the tax offices responsible for the assessment of income tax payable by those persons. The referring court points out that the members of the supervisory board are not mentioned in Annex to Delegated Regulation 2016/and that, like divisional heads and accounting managers, they are not responsible for dealing with issues relating to customs legislation.
+In those circumstances the Finanzgericht Düsseldorf (Finance Court, Düsseldorf) decided to stay proceedings and seek a preliminary ruling from the Court on the following question:
+‘Is the second subparagraph of Article 24(1) of [Implementing Regulation 2015/2447] to be interpreted as meaning that this provision permits the customs authority to request the applicant to inform it of the tax identification numbers issued by the Federal Central Tax Office for the purpose of income tax collection and the tax offices responsible for the income tax assessment of the members of the applicant’s supervisory board, its managing directors, divisional heads, accounting managers, head of the customs department as well as those individuals responsible for customs matters and those dealing with customs matters employed by the applicant?’
+Consideration of the question referred
+Preliminary observations
+In order to address aspects of the response to the question referred, the interested parties, with the exception of the Commission, rely on Regulation 2016/679, to which the referring court also makes reference.
+The Commission argues, in that regard, that, since the material time in the main proceedings was April 2017, Directive 95/is applicable to the resolution of the dispute in those proceedings.
+That said, having regard to the declaratory nature of the action (Feststellungsklage) brought before the national court, it is conceivable that that regulation is applicable ratione temporis to the resolution of the dispute in the main proceedings, that point not being clarified by oral argument at the hearing.
+The question referred must therefore be answered having regard to both Directive 95/and Regulation 2016/679.
+Substance
+By its question, the referring court seeks, in essence, to ascertain whether the second subparagraph of Article 24(1) of Implementing Regulation 2015/2447, read in the light of Directive 95/and Regulation 2016/679, must be interpreted as meaning that the customs authorities may require an applicant for AEO status to send to it the tax identification numbers, allocated for the purposes of collection of income tax, concerning the members of its supervisory board and its wage-earning employees who hold posts as directors, divisional heads, and accounting managers, with responsibility for customs matters, including those who are responsible for the management of customs matters and those in charge of dealing with such matters, as well as details of the tax offices responsible for the taxation of all those persons.
+In the first place, it must be stated that the second subparagraph of Article 24(1) of Implementing Regulation 2015/provides that, when the applicant for AEO status is not a natural person, the criterion laid down in Article 39(a) of the Customs Code is to be considered to be fulfilled where, over the preceding three years, none of the persons whom that provision specifies has committed a serious infringement or repeated infringements of customs legislation or taxation rules or has had a record of serious criminal offences relating to his economic activity.
+The persons specified are solely the applicant, the person in charge of the applicant or exercising control over its management, and the employee in charge of the applicant’s customs matters. The reading of that provision indicates that that list is exhaustive.
+Consequently, it cannot be accepted that the second subparagraph of Article 24(1) of Implementing Regulation 2015/may be interpreted as concerning natural persons other than those who are in charge of the applicant, who exercise control over its management or who are in charge of the applicant’s customs matters. Accordingly, that provision does not affect the members of the advisory boards or supervisory boards of legal persons, divisional heads, other than those in charge of the applicant’s customs matters, accounting managers and persons whose duties involve dealing with customs matters.
+The managing directors, for their part, may be obliged to comply with the requirements laid down in that provision if, in a situation such as that in the main proceedings, they were to be regarded as being in charge of the applicant or as exercising control over its management.
+Admittedly, Delegated Regulation 2016/provides, in point of the Explanatory Notes in Annex thereto, that an applicant for AEO status should provide, annexed to the prescribed form for an application for that status, the names and positions within the applicant’s organisation of a more extended list of natural persons than that to be found in the second subparagraph of Article 24(1) of Implementing Regulation 2015/2447.
+However, suffice it to state, in that regard, that Delegated Regulation 2016/cannot be interpreted as having as either its object or effect a derogation from the first subparagraph of Article of the Customs Code, which provides that the Commission is to adopt, by means of implementing acts, the modalities for the application of the criteria, referred to in Article of that code, which have to be examined in order to determine whether an applicant can be granted AEO status.
+Consequently, Delegated Regulation 2016/cannot have any effect on the scope of the second subparagraph of Article 24(1) of Implementing Regulation 2015/2447.
+Further, the fact that that provision states that the requirements that it imposes apply to the ‘the person’ in charge of the applicant or exercising control over its management and ‘the employee’ in charge of the applicant’s customs matters cannot lead to a conclusion that those requirements apply only to one person in charge of the applicant or exercising control over its management and one employee in charge of the applicant’s customs matters.
+It is not inconceivable that, within an undertaking’s organisation, a number of natural persons may be jointly in charge of it or may jointly exercise control over its management and that a number of other natural persons may be in charge of the undertaking’s customs matters, particularly on a territorial basis.
+Consequently, the natural persons affected by the second subparagraph of Article 24(1) of Implementing Regulation 2015/are all those who, within the applicant’s organisation, are in charge of it or who exercise control over its management as well as those who are in charge of its customs matters.
+In the second place, in order that the customs authorities may respond to an application for AEO status, that provision implies that they should be permitted access to data that makes it possible to establish that none of the natural persons specified in that provision have committed any serious infringements or repeated infringements of customs legislation and taxation rules and or have any record of serious criminal offences relating to his economic activity.
+In this case, the German customs authorities request the communication of the tax identification numbers of the natural persons listed in paragraph of the present judgment and the details of the tax offices responsible for the taxation of those persons.
+In such a situation, it is important that, if the practice of those authorities involves the processing of personal data, within the meaning of Article 2(a) of Directive 95/or Article 4(2) of Regulation 2016/679, EU legislation on the protection of that data must be respected.
+In that regard, that legislation entails that respect for the right to private life with regard to processing of such data concerns any information relating to a natural person who is identified or identifiable (see, to that effect, judgments of November 2010, Volker und Markus Schecke and Eifert, C‑92/and C‑93/09, EU:C:2010:662, paragraph 52, and of October 2013, Schwarz, C‑291/12, EU:C:2013:670, paragraph 26).
+It is apparent, also, from the Court’s case-law that tax data constitutes ‘personal data’ within the meaning of Article 2(a) of Directive 95/(see, to that effect, judgments of October 2015, Bara and Others, C‑201/14, EU:C:2015:638, paragraph 29, and of September 2017, Puškár, C‑73/16, EU:C:2017:725, paragraph 41).
+A tax identification number constitutes, by its very nature, tax data relating to an identified or identifiable natural person and, therefore, personal data. Further, because of the link between the tax identification number of a specifically identified individual and the information as to the tax office responsible for the taxation of that individual, made by the customs authorities, that information must also be deemed to be personal data.
+All processing of personal data must comply, first, with the principles relating to data quality set out in in Article of Directive 95/or in Article of Regulation 2016/and, second, with one of the criteria governing the legitimacy of data processing listed in Article of that directive or in Article of that regulation (see, to that effect, judgments of May 2003, Österreichischer Rundfunk and Others, C‑465/00, C‑138/and C‑139/01, EU:C:2003:294, paragraph 65, and of May 2014, Google Spain and Google, C‑131/12, EU:C:2014:317, paragraph 71).
+More particularly, the personal data must, under Article 6(1)(b) and (c) of Directive 95/or Article 5(1)(b) and (c) of Regulation 2016/679, be collected for specified, explicit and legitimate purposes and must be adequate, relevant and not excessive in relation to those purposes, the processing of that data being lawful, under Article 7(c) of that directive or Article 6(1)(c) of that regulation, only if it is necessary for compliance with a legal obligation to which the controller is subject.
+Further, it must be borne in mind that the requirement that processing of personal data be fair, laid down in Article of Directive 95/or in Article of Regulation 2016/679, entails an obligation to inform the data subjects of the transfer of that data by customs authorities for the purposes of its subsequent processing (see, to that effect, judgment of October 2015, Bara and Others, C‑201/14, EU:C:2015:638, paragraph 34).
+As regards the situation at issue in the main proceedings, it is apparent, first, that the tax identification numbers of natural persons were, initially, collected by the employer of those persons in order to ensure compliance with income tax legislation and, more specifically, to ensure that the employer can fulfil his obligation to collect by means of deduction at source the tax due on the income of each of those natural persons from their paid work.
+Second, the subsequent collection of that personal data by the customs authorities in order to make a decision on an application for AEO status is clearly necessary to comply with a legal obligation that is incumbent on those authorities pursuant to the second subparagraph of Article 24(1) of Implementing Regulation 2015/and the conditions that provision imposes on the granting of that status. To that extent, that data is collected, and therefore processed, for specified, explicit and legitimate purposes.
+That is also true of the collection, by the customs authorities, of the details of the tax offices responsible for the assessment for income tax of those natural persons, since the aim of such a collection is again to enable those authorities to respond to an application for AEO status.
+Accordingly, in a situation such as that in the main proceedings, the data collected by the customs authorities, namely the tax identification numbers of natural persons and the details of the tax offices responsible for the assessment of income tax due by them is, as is apparent from paragraph of the present judgment, adequate, relevant and not excessive in relation to the purposes for which that data is collected.
+As stated by the Advocate General in point of his Opinion, the fact of the customs authorities granting AEO status to an operator is the equivalent, in reality, of delegating to that operator some of the customs legislation control functions. Consequently, it is important that, before that status is granted, those authorities can obtain information on the reliability of the applicant for that status with regard to compliance with the customs legislation and on the reliability of the natural persons mentioned in the second subparagraph of Article 24(1) of Implementing Regulation 2015/with regard to their compliance with the customs legislation and the tax rules applicable to them.
+Consequently, the collection of the tax identification numbers of only the natural persons mentioned in that article and the details of the tax offices responsible for their taxation constitutes an adequate and relevant measure to enable the customs authorities to determine that one of the infringements or offences specified in that article has not been committed by one of those persons.
+Further, the personal data thus collected by those authorities appears limited to what is necessary for achieving the objective specified in the second subparagraph of Article 24(1) of Implementing Regulation 2015/2447, in that that data is restricted and does not, by itself, reveal to the customs authorities sensitive information on personal circumstances, such as marital status or religious affiliation, or the income of the natural persons concerned.
+While, as stated by the referring court, the collection of the tax identification numbers of the natural persons listed in that article and of details of the tax offices responsible for their taxation may, in principle, enable the customs authorities to have access to personal data that has no connection with the economic activity of the applicant for AEO status, it is clear that the infringements of tax rules, mentioned in that article, are not limited to those relating to the economic activity of the applicant for AEO status.
+In that regard, it seems right that, before the grant of such status to an applicant, which, as is stated in paragraph of the present judgment, amounts to delegating to the applicant functions that are properly exercised by the customs authorities, it should be necessary for those authorities to ascertain not only whether the applicant complies with the customs legislation, but also whether, having regard to their level of responsibility within that applicant’s organisation, the natural persons mentioned in the second subparagraph of Article 24(1) of Implementing Regulation 2015/have not, themselves, committed any serious infringement or repeated infringements of that legislation or of the tax rules, whether or not those infringements have any connection to the economic activity of that applicant.
+Consequently, the collection by the customs authorities of the tax identification numbers of the natural persons exhaustively listed in the second subparagraph of Article 24(1) of Implementing Regulation 2015/and the details of the tax offices responsible for the taxation of those persons is permissible only to the extent that that data enables those authorities to obtain information on serious or repeated infringements of the customs legislation or of tax rules or on serious criminal offences, committed by those natural persons and related to their economic activity.
+Having regard to the foregoing, the answer to the question referred is that the second subparagraph of Article 24(1) of Implementing Regulation 2015/2447, read in the light of Directive 95/and Regulation 2016/679, must be interpreted as meaning that the customs authorities may require an applicant for AEO status to send to them the tax identification numbers, allocated for the purposes of collection of income tax, concerning solely the natural persons who are in charge of the applicant or who exercise control over its management and those who are in charge of the applicant’s customs matters, and the details of the tax offices responsible for the taxation of all those persons, to the extent that that data enables those authorities to obtain information on serious or repeated infringements of customs legislation or taxation rules or on serious criminal offences, committed by those natural persons and relating to their economic activity.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+The second subparagraph of Article 24(1) of Commission Implementing Regulation (EU) 2015/of November laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/of the European Parliament and of the Council laying down the Union Customs Code, read in the light of Directive 95/46/EC of the European Parliament and of the Council of October on the protection of individuals with regard to the processing of personal data and on the free movement of such data, and of Regulation (EU) 2016/of the European Parliament and of the Council of April on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation), must be interpreted as meaning that the customs authorities may require an applicant for AEO status to send to them the tax identification numbers, allocated for the purposes of collection income tax, concerning solely the natural persons who are in charge of the applicant or who exercise control over its management and those who are in charge of the applicant’s customs matters, and the details of the tax offices responsible for the taxation of all those persons, to the extent that that data enables those authorities to obtain information on serious or repeated infringements of customs legislation or taxation rules or on serious criminal offences, committed by those natural persons and relating to their economic activity.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

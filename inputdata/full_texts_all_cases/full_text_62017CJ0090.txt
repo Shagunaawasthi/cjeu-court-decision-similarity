@@ -1,0 +1,138 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+June (
+*)
+(Reference for a preliminary ruling — Directive 2003/96/EC — Taxation of energy products and electricity — Third subparagraph of Article 21(5) — Entity producing electricity for its own use — Small producers of electricity — Article 14(1)(a) — Energy products used for the production of electricity — Obligation to exempt)
+In Case C‑90/17,
+REQUEST for a preliminary ruling under Article TFEU from the Tribunal Arbitral Tributário (Centro de Arbitragem Administrativa) (Tax Arbitration Tribunal (Centre for Administrative Arbitration), Portugal), made by decision of January 2017, received at the Court on February 2017, in the proceedings
+Turbogás — Produtora Energética SA
+v
+Autoridade Tributária e Aduaneira,
+THE COURT (First Chamber),
+composed of R. Silva de Lapuerta, President of the Chamber, C.G. Fernlund, J.-C. Bonichot, A. Arabadjiev and E. Regan (Rapporteur), Judges,
+Advocate General: M. Szpunar,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Turbogás – Produtora Energética SA, by J.P. Lampreia, advogado,
+–
+the Portuguese Government, by L. Inez Fernandes, M. Figueiredo, N. Vitorino and S. Jaulino, acting as Agents,
+–
+the European Commission, by M. Afonso and F. Tomat, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on March 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of the third subparagraph of Article 21(5) of Council Directive 2003/96/EC of October restructuring the Community framework for the taxation of energy products and electricity (OJ L 283, p. 51).
+The request has been made in proceedings between Turbogás — Produtora Energética SA (‘Turbogás’) and the Autoridade Tributária e Aduaneira (Tax and Customs Authority, Portugal), regarding a tax adjustment concerning the taxation of electricity consumed by Turbogás.
+Legal context
+EU law
+Recitals to and of Directive 2003/state:
+‘(2)
+The absence of Community provisions imposing a minimum rate of taxation on electricity and energy products other than mineral oils may adversely affect the proper functioning of the internal market.
+(3)
+The proper functioning of the internal market and the achievement of the objectives of other Community policies require minimum levels of taxation to be laid down at Community level for most energy products, including electricity, natural gas and coal.
+(4)
+Appreciable differences in the national levels of energy taxation applied by Member States could prove detrimental to the proper functioning of the internal market.
+(5)
+The establishment of appropriate Community minimum levels of taxation may enable existing differences in the national levels of taxation to be reduced.
+…
+(24)
+Member States should be permitted to apply certain other exemptions or reduced levels of taxation, where that will not be detrimental to the proper functioning of the internal market and will not result in distortions of competition.’
+Article 14(1)(a) of that directive provides:
+‘1.   In addition to the general provisions set out in [Council] Directive 92/12/EEC [of February on the general arrangements for products subject to excise duty and on the holding, movement and monitoring of such products (OJ L 76, p. 1), as amended by Council Directive 2000/47/EC of July (OJ L 193, p. 73)] on exempt uses of taxable products, and without prejudice to other Community provisions, Member States shall exempt the following from taxation under conditions which they shall lay down for the purpose of ensuring the correct and straightforward application of such exemptions and of preventing any evasion, avoidance or abuse:
+(a)
+energy products and electricity used to produce electricity and electricity used to maintain the ability to produce electricity. However, Member States may, for reasons of environmental policy, subject these products to taxation without having to respect the minimum levels of taxation laid down in this directive. In such case, the taxation of these products shall not be taken into account for the purpose of satisfying the minimum level of taxation on electricity laid down in Article 10’.
+Article 21(5) of Directive 2003/provides:
+‘5.   For the purpose of applying Articles and of Directive 92/12/EEC, electricity and natural gas shall be subject to taxation and shall become chargeable at the time of supply by the distributor or redistributor. Where the delivery to consumption takes place in a Member State where the distributor or redistributor is not established, the tax of the Member States of delivery shall be chargeable to a company that has to be registered in the Member State of delivery. Tax shall in all cases be levied and collected according to procedures laid down by each Member State.
+…
+An entity producing electricity for its own use is regarded as a distributor. Notwithstanding Article 14(1)(a), Member States may exempt small producers of electricity provided that they tax the energy products used for the production of that electricity.
+…’
+Portuguese law
+Article of the Código dos Impostos Especiais de Consumo, (Portuguese Excise Duty Code) (‘the CIEC’) provides:
+‘—   The following shall be liable to pay excise duty:
+…
+(b)
+in the case of the supply of electricity to end users, distributors defined in separate legislation, distributors to electric mobility, producers selling electricity directly to end users, self-producers and consumers buying electricity through transactions in organised markets;
+…’
+Under Article of the CIEC:
+‘—   The production in, or import into, the national territory of the products referred to in Article 5, and their entry into that territory from another Member State, shall constitute a chargeable event.
+—   By way of derogation from the preceding paragraph, the supply to end users of electricity and natural gas by distributors defined in separate legislation shall constitute a chargeable event.’
+Article of the CIEC provides:
+‘—   For the purposes of the present Code, the following shall be regarded as a release for consumption of products which are subject to excise duty:
+…
+(g)
+the supply of electricity to end users, ‘self-consumption’ and the purchase of electricity by end users in organised markets;
+…’
+Article of the CIEC is worded as follows:
+‘1—   The following shall be subject to the tax on energy and petroleum products:
+…
+(d)
+electricity falling within CN code 2716.
+…
+6. —   Energy and petroleum products consumed in the facilities of an establishment producing those products, except those used for purposes other than that production, shall not be subject to tax.’
+Article of the CIEC states:
+‘–   The following energy and petroleum products shall be exempt from tax where they are demonstrably:
+…
+(d)
+used to produce electricity, electricity and heat (co-generation), or town gas, by entities which carry on such activities as their main activity in respect of the products falling within CN codes 2701, and 2704, CN codes to 27101969, CN code 2711;
+…
+—   The following shall be exempt from tax where they are demonstrably:
+(a)
+used to produce electricity and to maintain the ability to produce electricity;
+…’
+Article 96bis of the CIEC provides:
+‘—   Distributors of electricity, registered and licensed in accordance with the applicable legislation, which supply end users, including distributors of electricity for electric mobility, must be registered in the appropriate customs office for the purposes of complying with the tax obligations laid down in the present code.
+…
+—   The quantities of electricity to be declared for release for consumption are the quantities for which end user customers are invoiced.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Turbogás is engaged in the production of thermal electricity. It operates the combined-cycle power plant at Tapada do Outeiro (Portugal) (‘the power plant’). That thermoelectric power plant with a capacity of MW generates electricity from natural gas and, if necessary, diesel. The power plant’s output represents around 9% of domestic energy produced.
+In the national electricity system, Turbogás is classified as a producer and is covered, for the electricity generating sector, by the statutory scheme for the production of electricity under the ordinary rules.
+In the internal functioning of the power plant, a small part of the electricity produced by the installation is also consumed. That consumption takes place during, and is an inherent part of, the electricity generation process. During the period from January to December (‘the relevant period’), Turbogás did not have meters to measure the quantity of electricity that it consumed itself nor were there documents relating to that amount of electricity, since no transaction took place.
+During that period, Turbogás did not have authorisation to exempt electricity consumed in its facilities under Article of the CIEC; it was not registered as an electricity sector operator, nor did it have the status of an exempt recipient for the use of electricity.
+In 2014, Turbogás was the subject of a tax inspection concerning the relevant period. According to the Tax and Customs Authority, Turbogás had failed to submit the declaration of release for consumption provided for in Article of the CIEC for the amounts of electricity it had consumed. In order to determine those quantities in the context of such an inspection and in the absence of meters installed for that purpose, information provided by Turbogás was cross-checked with information provided by the Direção-Geral de Energia e Geología (Directorate-General for Energy and Geology, Portugal).
+In that context, it was found that Turbogás was liable for the tax on petroleum and energy products in respect of the amounts of electricity it had consumed and that that tax amounted to EUR 197.17, plus compensatory interest amounting to EUR 986.52. On August 2014, Turbogás was served with an assessment notice in respect of that tax and, on August 2014, that company paid the amount assessed.
+An administrative complaint against that assessment notice was submitted to the tax authorities. That complaint was dismissed by decision of January 2016.
+On April 2016, Turbogás submitted a request for a tax arbitration tribunal to be set up, seeking a declaration that the contested assessment and the rejection of the administrative complaint against that assessment were unlawful. That tax arbitration tribunal was set up on July 2016.
+The referring arbitration tribunal takes the view that the resolution of the dispute in the main proceedings depends on the interpretation of the third subparagraph of Article 21(5) of Directive 2003/96. The first sentence of that provision states that an entity producing electricity for its own use is regarded as a distributor. However, in its Portuguese language version, the second sentence of that provision states that ‘these small producers’ may be exempted. Therefore, it must be determined whether only small electricity producers must be regarded as distributors.
+The referring court considers that the difficulty encountered in the interpretation of that article results from differences between the Portuguese language version and the other language versions of that provision.
+In those circumstances, the Tribunal Arbitral Tributário (Centro de Arbitragem Administrativa) (Tax Arbitration Tribunal (Centre for Administrative Arbitration), Portugal) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Pursuant to and for the purposes of the third [subparagraph] of Article 21(5) of Directive [2003/96], must entities which produce electricity for their own use be small producers in order to be regarded as distributors, and [thus] subject to tax in accordance with the first [subparagraph] of Article 21(5) of that directive, so that other entities (those which are not small producers) which produce electricity for their own use are excluded from that classification as distributors, or must all entities which produce electricity for their own use (regardless of their respective size and of whether they do so as their main or secondary economic activity), and are not exempt as small producers under the second sentence of the third [subparagraph] of Article 21(5) of that directive, be regarded as distributors, and [thus] subject to tax in accordance with the first [subparagraph] of Article 21(5) of that directive?
+(2)
+In particular, may an entity, such as the one at issue in these proceedings, which is a large electricity producer, producing around 9% of the national energy for sale to the national grid, be regarded as “an entity producing electricity for its own use”, as referred to in Article 21(5) of Directive [2003/96], when only a small part of the electricity which it produces is consumed in its own production of new electricity as an integral part of its production process?’
+Consideration of the questions referred
+By its questions, which it is appropriate to examine together, the referring court asks, in essence, whether the third subparagraph of Article 21(5) of Directive 2003/must be interpreted as meaning that any entity, including the entity in question in the main proceedings, which produces electricity for its own use, regardless of its size and irrespective of its main economic activity, must be regarded as a distributor whose electricity is subject to taxation in accordance with the first subparagraph of Article 21(5) of that directive.
+It should be observed as a preliminary point that, according to settled case-law, in the procedure laid down by Article TFEU, providing for cooperation between national courts and the Court of Justice, it is for the latter to provide the national court with an answer which will be of use to it and enable it to determine the case before it. To that end, the Court may have to reformulate the questions referred to it (judgment of December 2011, Evroetil, C‑503/10, EU:C:2011:872, paragraph and the case-law cited).
+The fact that a national court has, formally speaking, worded its request for a preliminary ruling by referring to certain provisions of EU law does not preclude the Court of Justice from providing to the national court all the elements of interpretation which may be of assistance in adjudicating on the case pending before it, whether or not that court has referred to them in its questions. It is for the Court to extract from all the information provided by the national court, in particular from the grounds of the order for reference, the points of EU law which require interpretation, having regard to the subject matter of the dispute (judgment of September 2016, Essent Belgium, C‑492/14, EU:C:2016:732, paragraph and the case-law cited).
+In that regard, as is apparent from the order for reference, Turbogás disputes the legality of the tax imposed, in the form of the tax on petroleum products and energy, on the portion of the electricity produced whose consumption is an inherent part of the electricity production process. Therefore, as the European Commission suggested in its written observations and as the Advocate General noted in points and of his Opinion, the possible exemption of such consumption under Article 14(1)(a) of Directive 2003/96, which exempts from taxation energy products and electricity used to produce electricity, must also be examined.
+Accordingly, it is necessary to reformulate the questions referred as seeking, in essence, to ascertain whether the third subparagraph of Article 21(5) and Article 14(1)(a) of that directive must be interpreted as meaning that an entity such as the one in question in the main proceedings, which produces electricity for its own use, regardless of its size and irrespective of its economic activity, must be regarded as a ‘distributor’, within the meaning of the first of those provisions, whose consumption of electricity for the purpose of electricity production, however, comes under the mandatory exemption provided for in Article 14(1)(a).
+In the first place, it should be observed that, on the one hand, the first sentence of the third subparagraph of Article 21(5) of Directive 2003/classifies as a ‘distributor’ an entity producing electricity for its own use. The Portuguese language version of the second sentence of the third subparagraph of Article 21(5) of that directive provides, on the other hand, that Member States may exempt ‘estes pequenos produtores’, an expression which may be translated as ‘these small producers’. However, other language versions of Directive 2003/96, such as the German, English or French language versions, do not refer to ‘these small producers’ but simply to ‘small producers’.
+As noted by the referring court, it follows that a link between the two sentences which form the third subparagraph of Article 21(5) of Directive 2003/could be inferred from that Portuguese language version, which would imply that the entities producing electricity for their own use, as referred to in the first sentence of the third subparagraph of Article 21(5) of that directive, should be understood as being only ‘small producers’. Therefore, an entity such as the one in question in the main proceedings could not be regarded as a distributor of electricity. However, that interpretation is not apparent from all the language versions of the directive.
+In that regard, it must be borne in mind that it is settled case-law that the wording used in one language version of a provision of EU law cannot serve as the sole basis for the interpretation of that provision, or be made to override the other language versions in that regard. Provisions of EU law must be interpreted and applied uniformly in the light of the versions established in all the languages of the European Union. Where there is a divergence between the various language versions of an EU legislative text, the provision in question must be interpreted by reference to the general scheme and the purpose of the rules of which it forms part (judgment of December 2017, Gusa, C‑442/16, EU:C:2017:1004, paragraph and the case-law cited).
+As regards the scheme of Directive 2003/96, the first subparagraph of Article 21(5) of the directive provides that the supply of electricity by the distributor constitutes the chargeable event for the tax concerned.
+However, in a situation where an entity produces electricity for its own use, that electricity is not distributed. Therefore, in the absence of specific provisions subjecting electricity produced for an entity’s own use to that tax, such electricity would be outside the scope of the system of harmonised taxation established by the directive.
+In stating that an entity producing electricity for its own use, regardless of its size and irrespective of its economic activity, is to be regarded as a distributor, the third subparagraph of Article 21(5) of the directive is specifically intended to close that loophole.
+That interpretation is confirmed by the objectives pursued by Directive 2003/96. In that regard, it must be observed that that directive, by making provision for a system of harmonised taxation of energy products and electricity, seeks, inter alia, as is apparent from recitals to and thereof, to promote the proper functioning of the internal market in the energy sector by avoiding, in particular, distortions of competition (judgments of September 2017, Hüttenwerke Krupp Mannesmann, C‑465/15, EU:C:2017:640, paragraph 26, and of March 2018, Cristal Union, C‑31/17, EU:C:2018:168, paragraph and the case-law cited).
+To that end, with regard, in particular, to electricity, the EU legislature chose, as is apparent, in particular, from page of the explanatory memorandum to the proposal for a Council Directive restructuring the Community framework for the taxation of energy products (OJ C 139, p. 14), to require Member States, in accordance with Article of Directive 2003/96, to tax electricity distributed; the energy products used for the generation of that electricity must, as a corollary, be exempted from taxation in order to avoid the double taxation of electricity (judgment of March 2018, Cristal Union, C‑31/17, EU:C:2018:168, paragraph 30).
+By way of exception to that principle of output taxation of electricity, the second sentence of the third subparagraph of Article 21(5) of Directive 2003/gives Member States the option of exempting electricity produced by small-scale producers for their own use, provided that they tax the energy products used for the production of that electricity.
+However, in the light of the objectives pursued by Directive 2003/96, that provision relating to small producers concerns only the arrangements whereby electricity is subject to the system of harmonised taxation, in order to avoid, inter alia, as observed by the Advocate General in point of his Opinion, administrative costs relating to taxation in that specific circumstance; it does not, however, affect distributor status granted under the first sentence of the third subparagraph of Article 21(5) of that directive.
+It follows that any entity (including the entity in question in the main proceedings) which produces electricity for its own use, regardless of its size and its main economic activity, must be regarded as a ‘distributor’, within the meaning of the third subparagraph of Article 21(5) of that directive.
+In the second place, it should be made clear that that conclusion concerning the chargeable event for the tax concerned, does not, however, call into question the fact that the economic activity carried on by the entity producing electricity for its own use is relevant for the purposes of applying the exemptions provided for in that directive.
+The first sentence of Article 14(1)(a) of Directive 2003/96, under which energy products and electricity used to produce electricity and electricity used to maintain the ability to produce electricity are exempted from taxation, cannot be ignored for the purposes of assessing the tax situation of an entity such as the one in question in the main proceedings.
+In that regard, it should be recalled that that provision is binding on Member States, subject to the option afforded them, under the second sentence of Article 14(1)(a) of Directive 2003/96, of derogating from that exemption regime for reasons relating to the protection of the environment (see, to that effect, judgment of March 2018, Cristal Union, C‑31/17, EU:C:2018:168, paragraphs to 28). It is not evident from the documents before the Court that the Portuguese Republic has exercised that discretion.
+It follows that the use by an entity, such as the one in question in the main proceedings, of a portion of the electricity that it produces for the purpose of generating electricity, whilst constituting a chargeable event for tax under the first and third subparagraphs of Article 21(5) of Directive 2003/96, must be exempted from tax under Article 14(1)(a) of that directive. Any other interpretation would undermine the objectives pursued by that directive, as referred to in paragraphs and of this judgment. First, the electricity thus produced would necessarily be subject to double taxation. Secondly, it could lead to unequal treatment between entities such as the one in question in the main proceedings and other electricity producers using energy products and electricity supplied by third parties for the purpose of their own production, which would be a source of distortions of competition (see, to that effect, judgment of March 2018, Cristal Union, C‑31/17, EU:C:2018:168, paragraph 33).
+It must be pointed out, however, that Directive 2003/does not govern how proof that energy products have been used for purposes giving rise to a right to exemption is to be adduced. On the contrary, as is clear from Article 14(1) thereof, Directive 2003/gives the Member States responsibility for laying down the conditions for the exemptions referred to in that provision, in order to ensure the correct and straightforward application of such exemptions and to prevent any evasion, avoidance or abuse. The fact remains that the Member States, when exercising their power to lay down the conditions to which the exemptions provided for in Article 14(1) of the directive are subject, must observe the general principles of law which form part of the legal order of the European Union, including, inter alia, the principle of proportionality (judgment of June 2016, Polihim-SS, C‑355/14, EU:C:2016:403, paragraphs and 59).
+While Member States may provide for a financial penalty to be imposed for non-compliance with formal requirements (see, to that effect, judgment of June 2016, ROZ-ŚWIT, C‑418/14, EU:C:2016:400, point 40), such non-compliance cannot call into question entitlement to the mandatory exemption provided for in Article 14(1)(a) of Directive 2003/if the substantive conditions relating to its application are fulfilled (see, to that effect, judgment of July 2017, Vakarų Baltijos laivų statykla, C‑151/16, EU:C:2017:537, paragraph 51).
+In the light of all the foregoing considerations, the answer to the questions referred is that the third subparagraph of Article 21(5) and Article 14(1)(a) of Directive 2003/must be interpreted as meaning that an entity such as the one in question in the main proceedings, which generates electricity for its own use, regardless of its size and irrespective of its main economic activity, must be regarded as a ‘distributor’, within the meaning of the first of those provisions, whose consumption of electricity for the production of electricity, however, comes under the mandatory exemption provided for in Article 14(1)(a).
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+The third subparagraph of Article 21(5) and Article 14(1)(a) of Council Directive 2003/96/EC of October restructuring the Community framework for the taxation of energy products and electricity must be interpreted as meaning that an entity such as the one in question in the main proceedings, which generates electricity for its own use, regardless of its size and irrespective of its main economic activity, must be regarded as a ‘distributor’, within the meaning of the first of those provisions, whose consumption of electricity for the production of electricity, however, comes under the mandatory exemption provided for in Article 14(1)(a).
+ 
+[Signatures]
+(
+*)	Language of the case: Portuguese.
+Top  

@@ -1,0 +1,231 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+January (
+*)
+(Reference for a preliminary ruling — Directive 1999/37/EC — Registration documents for vehicles — Omissions in the registration certificates — Mutual recognition — Directive 2007/46/EC — Vehicles manufactured prior to EU harmonisation of technical requirements — Alterations having an impact on the technical characteristics of the vehicle)
+In Case C‑326/17,
+REQUEST for a preliminary ruling under Article TFEU from the Raad van State (Council of State, Netherlands), made by decision of May 2017, received at the Court on May 2017, in the proceedings
+Directie van de Dienst Wegverkeer (RDW)
+v
+X,
+Y,
+and
+X,
+Y,
+v
+Directie van de Dienst Wegverkeer (RDW)
+and
+Directie van de Dienst Wegverkeer (RDW)
+v
+Z,
+THE COURT (Fourth Chamber),
+composed of T. von Danwitz, President of the Seventh Chamber, acting as President of the Fourth Chamber, K. Jürimäe, C. Lycourgos, E. Juhász (Rapporteur) and C. Vajda, Judges,
+Advocate General: N. Wahl,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on June 2018,
+after considering the observations submitted on behalf of
+–
+the Directie van de Dienst Wegverkeer (RDW), by C.B.J. Maenhout, acting as Agent, assisted by M. van Heezik, advocaat,
+–
+X and Y, by C.B. Krol Dobrov, acting as Agent,
+–
+Z, by S.J.C. van Keulen, advocaat,
+–
+the Netherlands Government, by M. Bulterman, M. Noort, M. Gijzen and P. Huurnink, acting as Agents,
+–
+the Italian Government, by G. Palmieri, acting as Agent, and by F. Meloncelli, avvocato dello Stato,
+–
+the Norwegian Government, by R. Nordeide and C. Anker, acting as Agents,
+–
+the European Commission, by M. Huttunen, A. Nijenhuis and by N. Yerrell, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Council Directive 1999/37/EC of April on the registration documents for vehicles (OJ L 138, p. 57), and Directive 2007/46/EC of the European Parliament and of the Council of September establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, p. 1).
+The request has been made in proceedings between, on the one hand, the Directie van de Dienst Wegverkeer (RDW) (Road Traffic Authority Board, Netherlands; ‘the RDW’) and X and Y, and, on the other, X and Y and the RDW, and proceedings between the RDW and Z concerning the refusal by the RDW to recognise the vehicle registration certificates issued by other Member States and to register those vehicles in the Netherlands.
+Legal context
+European Union law
+Directive 70/Council Directive 70/156/EEC of February on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (OJ English Special Edition 1970(I), p. 96), as amended by Council Directive 92/53/EEC of June (OJ L 225, p. 1) (‘Directive 70/156’), provides in Article thereof, entitled ‘Definitions’:
+‘For the purposes of this Directive:
+…
+–
+vehicle means any motor vehicle intended for use on the road, being complete or incomplete, having at least four wheels and a maximum design speed exceeding km/h, and its trailers, with the exception of vehicles which run on rails and of agricultural and forestry tractors and all mobile machinery,
+…’
+Directive 1999/Recitals to and of Directive 1999/state:
+‘(3)
+... harmonisation of the form and content of the registration certificate will facilitate its comprehension and thus help towards the free movement, on the roads in the territory of the other Member States, of vehicles registered in a Member State;
+(4)
+... the content of the registration certificate must enable it to be checked that the holder of a driving licence issued pursuant to Council Directive 91/439/EEC of July on driving licences [(OJ L 237, p. 1)], drives solely those categories of vehicles for which he is authorised; whereas such checking helps to improve road safety;
+(5)
+... as a prerequisite for registering a vehicle that has previously been registered in another Member State, all of the Member States require a document certifying that registration and the technical characteristics of the vehicle;
+(6)
+... harmonisation of the registration certificate will facilitate the re-entry into service of vehicles that have previously been registered in another Member State, and will contribute to the proper functioning of the internal market;
+…
+(9)
+... in order to facilitate those checks specifically intended to combat fraud and the illegal trade in stolen vehicles, it is appropriate to establish close cooperation between Member States, based on an effective exchange of information.’
+Article of the directive provides:
+‘This Directive shall apply to the documents issued by the Member States at the time of registration of vehicles.
+It shall not prejudice the right of Member States to use, for the temporary registration of vehicles, documents which may not meet the requirements of this Directive in every respect.’
+Article of that directive provides:
+‘For the purposes of this Directive:
+(a)
+“vehicle”: shall mean any vehicle as defined in Article of Council Directive 70/156/EEC … and in Article of Council Directive 92/61/EEC of June relating to the type-approval of two or three-wheel motor vehicles [(OJ L 225, p. 72)];
+(b)
+“registration”: shall mean the administrative authorisation for the entry into service in road traffic of a vehicle, involving the identification of the latter and the issuing to it of a serial number, to be known as the registration number;
+(c)
+“registration certificate”: shall mean the document which certifies that the vehicle is registered in a Member State;
+(d)
+“holder of the registration certificate”: shall mean the person in whose name a vehicle is registered.’
+Article of Directive 1999/is worded as follows:
+‘1.   Member States shall issue a registration certificate for vehicles which are subject to registration under their national legislation. The certificate shall consist of either a single part in accordance with Annex I or two parts in accordance with Annexes I and II.
+Member States may authorise the services they appoint to this end, in particular those of the manufacturers, to fill in the technical parts of the registration certificate.
+2.   Where a new registration certificate is issued for a vehicle registered prior to the implementation of this Directive, Member States shall use a certification model as defined in this Directive and may limit the particulars shown therein to those for which the required data are available.
+3.   The data given in the registration certificate, in accordance with Annexes I and II, shall be represented by the harmonised Community codes shown in those Annexes.’
+Article of that directive provides:
+‘For the purposes of this Directive, the registration certificate issued by a Member State shall be recognised by the other Member States for the identification of the vehicle in international traffic or for its re-registration in another Member State.’
+Article 8(1) of the directive provides that Member States are to bring into force the laws, regulations and administrative provisions necessary to comply with the directive by June 2004.
+Directive 2007/Article of Directive 2007/46, entitled ‘Subject matter’, provides:
+‘This Directive establishes a harmonised framework containing the administrative provisions and general technical requirements for approval of all new vehicles within its scope and of the systems, components and separate technical units intended for those vehicles, with a view to facilitating their registration, sale and entry into service within the [European Union].
+…’
+Article of that directive, which relates to the ‘scope’ thereof, provides in paragraph 1:
+‘This Directive applies to the type-approval of vehicles designed and constructed in one or more stages for use on the road, and of systems, components and separate technical units designed and constructed for such vehicles.
+It also applies to the individual approval of such vehicles.
+This Directive also applies to parts and equipment intended for vehicles covered by this Directive.’
+Article of the directive, which is entitled ‘Definitions’, provides:
+‘For the purposes of this Directive and of the regulatory acts listed in Annex IV, save as otherwise provided therein:
+…
+11.
+“motor vehicle” means any power-driven vehicle which is moved by its own means, having at least four wheels, being complete, completed or incomplete, with a maximum design speed exceeding km/h;
+12.
+“trailer” means any non-self-propelled vehicle on wheels designed and constructed to be towed by a motor vehicle;
+13.
+“vehicle” means any motor vehicle or its trailer as defined in points (11) and (12);
+…
+19.
+“incomplete vehicle” means any vehicle which must undergo at least one further stage of completion in order to meet the relevant technical requirements of this Directive;
+20.
+“completed vehicle” means a vehicle, resulting from the process of multi-stage type-approval, which meets the relevant technical requirements of this Directive;
+21.
+“complete vehicle” means any vehicle which need not be completed in order to meet the relevant technical requirements of this Directive;
+…’
+Article 4(3) of Directive 2007/is worded as follows:
+‘Member States shall register or permit the sale or entry into service only of such vehicles, components and separate technical units as satisfy the requirements of this Directive.
+They shall not prohibit, restrict or impede the registration, sale, entry into service or circulation on the road of vehicles, components or separate technical units, on grounds related to aspects of their construction and functioning covered by this Directive, if they satisfy the requirements of the latter.’
+Article of that directive, headed ‘Individual approvals’, provides:
+‘1.   Member States may exempt a particular vehicle, whether unique or not, from compliance with one or more of the provisions of this Directive or with one or more of the regulatory acts listed in Annex IV or Annex XI, provided that they impose alternative requirements.
+The provisions referred to in subparagraph shall only be waived where a Member State has reasonable grounds for so doing.
+“Alternative requirements” means administrative provisions and technical requirements which aim to ensure a level of road safety and environmental protection, which is equivalent to the greatest extent practicable to the level provided for by the provisions of Annex IV or Annex XI, as appropriate.
+…
+6.   The validity of an individual approval shall be restricted to the territory of the Member State that granted the approval.
+Where an applicant wishes to sell, register or put into service in another Member State a vehicle which has been granted an individual approval, the Member State that granted the approval shall, on request, provide the applicant with a statement of the technical provisions against which the vehicle was approved.
+With regard to a vehicle which has been granted an individual approval by a Member State in accordance with the provisions of this Article, another Member State shall permit that vehicle to be sold, registered or to enter into service unless it has reasonable grounds to believe that the technical provisions against which the vehicle was approved are not equivalent to its own.
+7.   At the request of the manufacturer or of the owner of the vehicle, Member States shall grant an individual approval to a vehicle which complies with the provisions of this Directive and with the regulatory acts listed in Annex IV or Annex XI, as appropriate.
+In such a case, Member States shall accept the individual approval and shall permit the sale, registration and entry into service of the vehicle.
+…’
+Article of that directive, entitled ‘Registration, sale and entry into service of vehicles’, provides:
+‘1.   Without prejudice to the provisions of Articles and 30, Member States shall register, and permit the sale or entry into service of, vehicles only if they are accompanied by a valid certificate of conformity issued in accordance with Article 18.
+In the case of incomplete vehicles, Member States shall permit the sale of such vehicles but may refuse their permanent registration and entry into service for such time as the vehicles remain incomplete.
+…’
+Article of Directive 2007/46, headed ‘Transposition’, provides:
+‘1.   Member States shall adopt and publish, before April 2009, the laws, regulations and administrative provisions necessary to comply with the substantive amendments of this Directive. They shall forthwith communicate to the Commission the text thereof.
+They shall apply those provisions from April 2009.
+…’
+Article of Directive 2007/46, entitled ‘Repeal’, provides:
+‘Directive 70/156/EEC is repealed with effect from April 2009, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law and application of the directives set out in Part B of Annex XX.
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table set out in Annex XXI.’
+Directive 2009/40/EC
+Recital of Directive 2009/40/EC of the European Parliament and of the Council of May on roadworthiness tests for motor vehicles and their trailers (OJ L 141, p. 12) provides that, ‘within the framework of the common transport policy, certain road traffic within the Community should operate under the most favourable circumstances as regards both safety and competitive conditions applying to carriers in the Member States’.
+Article of the directive provides:
+‘1.   In each Member State, motor vehicles registered in that State and their trailers and semi-trailers shall undergo periodic roadworthiness tests in accordance with this Directive.
+2.   The categories of vehicles to be tested, the frequency of the roadworthiness tests and the items which must be tested are listed in Annexes I and II.’
+Article 3(2) of that directive is worded as follows:
+‘Each Member State shall, on the same basis as if it had itself issued the proof, recognise the proof issued in another Member State showing that a motor vehicle registered on the territory of that other State, together with its trailer or semi-trailer, has passed a roadworthiness test complying with at least the provisions of this Directive.’
+Article 5(a) of Directive 2009/states:
+‘Notwithstanding the provisions of Annexes I and II, Member States may:
+(a)
+bring forward the date for the first compulsory roadworthiness test and, where appropriate, require the vehicle to be submitted for testing prior to registration’.
+Netherlands law
+According to Article 52a(1) of the Wegenverkeerswet (Road Traffic Law), the ‘RDW shall issue a certificate of registration confirming entry in the register, indicating the name of the holder of the registration certificate’.
+Article 25b of the Kentekenreglement (Registration Certificate Rules) provides:
+‘1.   The owner or keeper of a vehicle for which first registration is sought together with an indication of the name of the holder of the registration certificate, and which was previously registered in another Member State of the European Union, shall submit Part I of the registration certificate issued in that Member State and, if it was issued, Part II also.
+2.   The registration and indication of the name of the holder of the registration certificate referred to in paragraph shall be refused if Part II of the registration certificate, in so far as it has been issued, is missing.
+3.   In exceptional cases and by way of derogation from paragraph 2, the RDW may register a vehicle and set out the name of the holder of the registration certificate provided that the competent authorities in the Member State in which the vehicle was previously registered have provided written or electronic confirmation that the applicant is entitled to have the vehicle registered in another Member State.
+4.   The RDW shall keep for six months the registration documents or parts thereof which it has collected and shall inform the authorities of the Member State which issued the registration certificate within two months after they have been collected. At their request, the RDW shall refer the registration documents collected to the authorities of the Member State which delivered the certificate of registration.’
+The disputes in the main proceedings and the questions referred for a preliminary ruling
+X and Y, on the one hand, and Z, on the other, each lodged, on January and June respectively, an application with the RDW in order to register a motor vehicle in the Netherlands vehicle register. One of those vehicles was manufactured in by Bentley Motors Limited, which affixed Vehicle Identification Number (‘VIN’) B28J0, and was registered the same year in the United Kingdom. The other vehicle was manufactured in by Alvis Car and Engineering Company Limited, which affixed VIN on that vehicle.
+The vehicle manufactured by Bentley was considerably altered in 2013. On October 2013, the Belgian authorities issued a registration certificate for the vehicle, containing summary data. The referring court states that it follows from an inspection of the vehicle, carried out in February 2014, that it is now made up of an original Bentley Mark VI chassis, an 8-cylinder Rolls Royce engine, and new bodywork of different appearance, on the model of a Bentley Speed Six, and that the powertrain and chassis have largely been preserved. In view of the alterations made to the original model, the RDW rejected, by decision of February 2014, the application for registration in the vehicle register submitted by X and Y.
+On the basis of a second registration certificate issued by the competent Belgian authority on May 2014, X and Y submitted on June a new application for registration. By letter of July 2014, the RDW stated that a request for information had been sent to the Belgian authorities. It is apparent from the replies to that request that the Belgian authorities, in order to issue the registration certificate, used the original UK registration certificate from 1950. In view of the above, the RDW, by decision of August 2014, rejected the second application for registration.
+The vehicle manufactured by Alvis, for which a UK registration certificate was issued on October on the basis of the data contained in the accompanying documents issued by the manufacturer, had also been considerably altered. Accordingly, in order to make a decision on the application for registration lodged by Z, the RDW requested information from the competent UK authority. The latter stated that it had registered the vehicle on the basis of data in the accompanying documentation issued by the manufacturer, and on the basis of photographs and information from a car owners’ club. In addition, the RDW couldn’t get a response to the question concerning the data pertaining to the Alvis on the basis of which the UK registration certificate was issued. By decision of September 2014, the RDW rejected Z’s application for registration.
+The RDW stated in its decisions of February and September that it refused registration on the ground that, because they did not satisfy the technical requirements laid down by Directive 2007/46, the vehicles in question were not vehicles within the meaning of both Article of that directive and Article 2(a) of Directive 1999/37, as a result of which that directive was not applicable in the present case. In any event, to the extent that those vehicles are covered by Directive 1999/37, the RDW took the view that the registration certificates which had already been issued for those vehicles by the authorities of other Member States were not harmonised registration certificates within the meaning of that directive and therefore did not need to be recognised on the basis of the latter. In addition, the RDW took the view that the certificates did not permit those vehicles to be identified. Finally, according to the RDW, the vehicles concerned, in their current state, were never put into circulation on the date on which they obtained their first registration certificate, respectively in and 1938, and it was not clear from the evidence available to it that they had obtained individual approval to be put into circulation after they had been altered.
+X and Y, on the one hand, and Z, on the other, brought proceedings against the decisions to refuse registration concerning them. According to the courts before which proceedings were brought at first instance, the vehicles in question did fall within the scope of Directive 1999/37, as a result of which that directive was applicable and the vehicles had to be identified on the basis of their registration certificates, which are harmonised certificates for the purposes of that directive. Those courts accordingly took the view that the RDW was obliged to issue a Netherlands registration certificate to X and to Y and that the RDW was to carry out a fresh appraisal of the application for registration by Z.
+The RDW appealed against those judgments before the referring court. X and Y also appealed to that court against the judgment concerning them.
+The referring court notes that the dispute concerns the question whether the RDW infringed Article 25b of the Registration Certificate Rules, as interpreted in the light of Article of Directive 1999/37, by not recognising, for registration in the Netherlands, the registration documents for the Bentley and Alvis vehicles, which entails determining whether that directive is applicable. That court adds that, in the present case, those documents formally comply with the template laid down by the directive, but that certain mandatory data, which could easily be ascertained during the inspection of the vehicle, did not appear on those documents. Lastly, the referring court asks whether the RDW can, in response to a request for recognition of the registration certificate issued by another Member State, test the vehicles in question in order to check whether they meet the technical requirements laid down by Directive 2007/46.
+Taking the view that the resolution of the disputes before it, and which were joined by it, required the interpretation of Directives 1999/and 2007/46, the Raad van State (Council of State, Netherlands) decided to stay proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Is Directive [1999/37] applicable to motor vehicles which existed before April 2009, the date on which the Member States had to apply the laws, regulations and administrative provisions required to implement Directive [2007/46/EC]?
+(2)
+Is a motor vehicle composed, on the one hand, of essential parts which were manufactured before the application of Directive 2007/and, on the other hand, of essential parts which were only added after the application of that Directive, a motor vehicle which already existed before the entry into force of that Directive, or has such a motor vehicle only come into existence after the application of that Directive?
+(3)
+Having regard to Article 3(2) of Council Directive 1999/37, does the recognition obligation as referred to in Article of that Directive apply in full where the data required by certain Community codes (made compulsory under the Annexes to that Directive) have not been provided in the registration certificates, but those data could easily have been obtained?
+(4)
+Is it permissible under Article of Council Directive 1999/to recognise a registration certificate of another Member State, but to nevertheless submit the vehicle concerned to a roadworthiness test within the meaning of Article 24(6) of Directive 2007/and, if the vehicle fails to meet the technical requirements of the Member State, to conclude that the registration certificate must be refused?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks, in essence, whether Article 2(a) of Directive 1999/37, read in conjunction with Article 3(11) and (13) of Directive 2007/46, must be interpreted as meaning that Directive 1999/applies to the documents issued by Member States at the time of the registration of vehicles manufactured before April 2009, the date of expiry of the period for transposition of Directive 2007/46.
+Under Article of Directive 1999/37, a vehicle is to mean, for the purposes of that directive, any vehicle as defined in Article of Directive 70/156.
+It follows that, as from the date of its adoption, Directive 1999/was intended to apply to vehicles put on the market before April 2009.
+That finding is corroborated by Article 3(2) of Directive 1999/37, pursuant to which, where a new registration certificate is issued for a vehicle registered prior to the implementation of that directive, Member States are to use a certification model as defined in that directive and may limit the particulars shown therein to those for which the required data are available.
+That provision constitutes a specific rule for vehicles which were registered before the implementation of Directive 1999/37, whose time limit for transposition, laid down in Article of that Directive, was June 2004.
+That finding is also borne out by the objective pursued by Directive 1999/37, which is, as is apparent from recital thereof, to facilitate through the harmonisation of the registration certificate, the re-entry into service of vehicles that have previously been registered in another Member State. The exclusion from the scope of that directive of registration documents for vehicles manufactured before April issued by Member States would run counter to that objective.
+The mere fact that Directive 70/was repealed with effect from April by Directive 2007/46, Article of which provides that references to that directive shall be construed as references to Directive 2007/and are to be read in accordance with the correlation table in Annex XXI, does not alter that finding.
+Admittedly, it is clear from Annex XXI that the references to Article of Directive 70/should be read as references to Article of Directive 2007/46. It is also true that, according to paragraph of Article 3, read in conjunction with paragraph thereof, a motor vehicle is either complete, completed, or incomplete and that, according to paragraphs to of Article 3, the incomplete vehicle must be completed in accordance with the technical requirements imposed by Directive 2007/46, while complete and completed vehicles meet those requirements.
+However, the reference made to Article of Directive 2007/46, for the sole purpose of defining the term ‘vehicle’, cannot be interpreted as enforcing compliance with those technical requirements for vehicles put into circulation before April 2009.
+It should be noted, as the Commission has done, that such technical requirements are applicable, under Article of Directive 2007/itself, only upon the approval, from April 2009, of new vehicles.
+The answer to the first question is thus that Article of Directive 1999/37, read in conjunction with Article 3(11) and (13) of Directive 2007/46, must be interpreted as meaning that Directive 1999/is applicable to the documents issued by Member States at the time of the registration of vehicles manufactured before April 2009, the date of expiry of the period for transposition of Directive 2007/46.
+The second question
+Having regard to the reply given to the first question, there is therefore no need to answer the second question.
+The third question
+By its third question, the referring court asks, in essence, whether Article of Directive 1999/37, read in conjunction with Article 3(2) of that directive, must be interpreted as meaning that the authorities of the Member State in which the new registration of a second-hand vehicle is sought are entitled to refuse to recognise the registration certificate issued by the Member State in which the vehicle was previously registered, on the grounds that some of the mandatory certificate data are missing but can be easily found.
+First of all, it is apparent from the very wording of Article of Directive 1999/37, which provides that a registration certificate issued by a Member State in accordance with the template set out in the annex to that directive ‘shall be recognised’ by the other Member States for the re-registration of the vehicle in another Member State, that that provision does not leave any discretion to the Member States as regards compliance with the principle of recognition of vehicle registration certificates (judgment of September 2012, Commission v Belgium, C‑150/11, EU:C:2012:539, paragraph 73).
+The Court has ruled that Directive 1999/does not allow Member States to require a document other than the registration certificate when registering a vehicle previously registered in another Member State (see, to this effect, judgment of September 2012, Commission v Belgium, C‑150/11, EU:C:2012:539, paragraph 79).
+However, the Court considered that a Member State was entitled, before registering a vehicle previously registered in another Member State, to identify that vehicle and to require for that purpose that the vehicle be presented for a physical examination, in order to verify whether that vehicle was actually present on its territory and corresponded to the data mentioned in the registration certificate (see, to that effect, judgment of September 2007, Commission v Netherlands, C‑297/05, EU:C:2007:531, paragraphs 54, and to 63).
+Such a presentation was classified by the Court as a mere administrative formality, which does not introduce any additional testing, but which is integral to the actual processing of the application for registration and also to the conduct of the procedure (see, to that effect, judgment of September 2007, Commission v Netherlands, C‑297/05, EU:C:2007:531, paragraph 58).
+With respect to the objectives of Directive 1999/37, it should be recalled that that directive seeks to help towards the free movement, on the roads in the territory of the other Member States, of vehicles registered in a Member State by laying down, as a prerequisite for registering a vehicle that has previously been registered in another Member State, the presentation of a document certifying that registration and the technical characteristics of the vehicle, in order to facilitate the re-entry into service of such vehicles in another Member State and to contribute to the proper functioning of the internal market (judgment of September 2012, Commission v Belgium, C‑150/11, EU:C:2012:539, paragraph 74).
+Moreover, according to recital of that directive, the content of the registration certificate must make it possible to check that the holder of a driving licence drives solely those categories of vehicles for which he is authorised, that check helping to improve road safety.
+In that regard, the registration certificate issued previously by a Member State must allow the identification of the vehicle concerned, which must correspond to the data indicated on that certificate for its re-registration in another Member State (see, to that effect, judgment of September 2007, Commission v Netherlands, C‑297/05, EU:C:2007:531, paragraphs to 56), in order to ensure that road safety requirements are met.
+It should be added that, under Article 3(2) of Directive 1999/37, where, as in the disputes in the main proceedings, a new registration certificate is issued for a vehicle registered prior to the implementation of that directive on June 2004, the Member States may limit the particulars shown therein to those for which the required data are available.
+As the Advocate General observed in point of his Opinion, the use of such exceptions by Member States does not mean that the registration certificate concerned should no longer be recognised.
+However, inasmuch as it is apparent from the request for a preliminary ruling that, at the very least, some of the missing data on the registration certificates at issue in the main proceedings, such as the number of places, which are compulsory, can be easily found, those data must be regarded as available when preparing those certificates. In addition, the vehicles at issue in the main proceedings having undergone considerable changes, some important technical characteristics do not appear in those registration certificates and the RDW considered that it was not able to identify those vehicles.
+In that regard, it should be noted that, as is apparent from paragraph of the present judgment, the data mentioned on a registration certificate issued before the implementation of that directive must correspond to the vehicle described in that certificate and must permit the identification of the vehicle in question on the basis of a simple examination not entailing any additional testing, as referred to in paragraphs and of the present judgment.
+Where this is not the case, the authorities of the Member State where the new registration of a vehicle previously registered in another Member State is sought shall be entitled to refuse recognition of such a certificate.
+As regards the situation at issue in the main proceedings, it is for the referring court to verify not only that the data entered on the certificates at issue in the main proceedings correspond to the vehicles which they describe, but also that they permit their identification.
+In the light of the foregoing, the answer to the third question is that Article of Directive 1999/37, read in conjunction with Article 3(2) of that directive, must be interpreted as meaning that the authorities of the Member State in which the new registration of a second-hand vehicle is sought are entitled to refuse to recognise the registration certificate issued by the Member State in which the vehicle was previously registered where some mandatory data are missing, the data mentioned on the certificate do not match the vehicle and the certificate does not make it possible to identify the vehicle.
+The fourth question
+By its fourth question, the referring court asks, in essence, whether Article 24(6) of Directive 2007/must be interpreted as meaning that it permits a vehicle registered in a Member State to be made subject to a roadworthiness test where it is presented for re-registration in another Member State.
+As has been stated in paragraph of the present judgment, Directive 2007/46, including Article thereof, relates only to new vehicles.
+The vehicles at issue in the main proceedings are second-hand vehicles, manufactured in and respectively.
+As correctly noted by the Commission, the question whether those vehicles have been altered in such a way, since the year in which they were manufactured, that they must be treated as new vehicles, entailing a possible individual approval thereof, does not arise in the disputes in the main proceedings, since it is not disputed that those vehicles have not undergone any substantial alterations between the dates on the registration certificates and the dates of the applications for registration in the Netherlands vehicle register.
+In those circumstances, such vehicles cannot be regarded as new within the meaning of Directive 2007/46, as a result of which Article 24(6) of the directive does not apply to them.
+However, the fact that a national court has, formally speaking, worded its request for a preliminary ruling by referring to certain provisions of EU law does not preclude the Court of Justice from providing to the national court all the elements of interpretation which may be of assistance in adjudicating on the case pending before it, whether or not that court has referred to them in its questions. It is for the Court to extract from all the information provided by the national court, in particular from the grounds of the order for reference, the points of EU law which require interpretation, having regard to the subject matter of the dispute (judgment of September 2016, Essent Belgium, C‑492/14, EU:C:2016:732, paragraph and the case-law cited).
+In the present case, it is apparent from the order for reference that the RDW noted that the vehicles at issue in the main proceedings had changed significantly since they first entered into service and that the certificates submitted contained certain omissions. As argued by the Commission, although such findings raised doubts about the road safety of such vehicles, which it is for the referring court to verify, the situation at issue in the main proceedings may fall within the scope of Directive 2009/40.
+In that regard, Article 3(2) of that directive provides that each Member State is to recognise the proof issued in another Member State showing that a motor vehicle registered on the territory of that other State has passed a roadworthiness test complying with at least the provisions of the directive on the same basis as if it had itself issued the proof. By contrast, Article 5(a) of that directive expressly provides that Member States may bring forward the date for the first compulsory roadworthiness test and, where appropriate, require the vehicle to be submitted for testing prior to registration.
+As is apparent from the case-law of the Court, Member States are in principle required to take due account, for vehicles previously registered in other Member States, of the results of roadworthiness tests carried out in those Member States, and those vehicles cannot be generally and systematically made subject to a roadworthiness test (see, to that effect, judgments of June 2008, Commission v Poland, C‑170/07, not published, EU:C:2008:322, paragraphs and 44, and of September 2012, Commission v Belgium, C‑150/11, EU:C:2012:539, paragraph 62). Nevertheless, taking account of the importance of the objective of ensuring road traffic safety within the Union pursued by Directive 2009/40, as set out in recital thereof, it is open to Member States to require an imported vehicle to be submitted for testing prior to registration in that State if, despite taking into account the results of roadworthiness tests carried out in another Member State, there are concrete indications that the vehicle does indeed present a risk to road safety (see, to that effect, judgment of September 2012, Commission v Belgium, C‑150/11, EU:C:2012:539, paragraphs to 61).
+Consequently, the answer to the fourth question is that Article 24(6) of Directive 2007/must be interpreted as meaning that the scheme provided for therein does not apply to a second-hand vehicle already registered in a Member State which is, on the basis of Article of Directive 1999/37, submitted for re-registration to another Member State authority which is competent in that regard. However, if there is evidence that the vehicle presents a risk to road safety, that authority may, pursuant to Article 5(a) of Directive 2009/40, require the vehicle to be submitted for testing prior to registration.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fourth Chamber) hereby rules:
+ 
+1.
+Article 2(a) of Council Directive 1999/37/EC of April on the registration documents for vehicles, read in conjunction with Article 3(11) and (13) of Directive 2007/46/EC of the European Parliament and of the Council of September establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, must be interpreted as meaning that Directive 1999/is applicable to the documents issued by Member States at the time of the registration of vehicles manufactured before April 2009, the date of expiry of the period for transposition of Directive 2007/46.
+ 
+2.
+Article of Directive 1999/37, read in conjunction with Article 3(2) of that directive, must be interpreted as meaning that the authorities of the Member State in which the new registration of a second-hand vehicle is sought are entitled to refuse to recognise the registration certificate issued by the Member State in which the vehicle was previously registered where some mandatory data are missing, the data mentioned on the certificate do not match the vehicle and the certificate does not make it possible to identify the vehicle.
+ 
+3.
+Article 24(6) of Directive 2007/must be interpreted as meaning that the regime provided for therein does not apply to a second-hand vehicle already registered in a Member State which is, on the basis of Article of Directive 1999/37, submitted for re-registration before another Member State authority which is competent in that regard. However, if there is evidence that the vehicle presents a risk to road safety, that authority may, pursuant to Article 5(a) of Directive 2009/40/EC of the European Parliament and of the Council of May on roadworthiness tests for motor vehicles and their trailers, require the vehicle to be submitted for testing prior to registration.
+ 
+[Signatures]
+(
+*)	Languages of the case: English and Dutch.
+Top  

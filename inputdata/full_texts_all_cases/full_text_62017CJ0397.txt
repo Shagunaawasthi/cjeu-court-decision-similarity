@@ -1,0 +1,124 @@
+
+JUDGMENT OF THE COURT (Tenth Chamber)
+July (
+*)
+(Reference for a preliminary ruling — Regulation (EEC) No 2658/— Customs Union and Common Customs Tariff — Tariff classification — Combined Nomenclature — Subheadings 73071110, and — Cast tube or pipe fittings, of spheroidal graphite cast iron)
+In Joined Cases C‑397/and C‑398/17,
+TWO REQUESTS for a preliminary ruling under Article TFEU from the Nederlandstalige rechtbank van eerste aanleg te Brussel (Dutch-language Court of First Instance, Brussels, Belgium), made by decision of June 2017, received at the Court on July 2017, in the proceedings
+Profit Europe NV
+v
+Belgische Staat,
+THE COURT (Tenth Chamber),
+composed of E. Levits, President of the Chamber, A. Borg Barthet (Rapporteur) and M. Berger, Judges,
+Advocate General: J. Kokott,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Profit Europe NV, by P. Diaz Gavier, advocaat,
+–
+the Belgian Government, by P. Cottin and J.-C. Halleux, acting as Agents,
+–
+the European Commission, by A. Caeiros and P. Vanden Heede, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+These requests for a preliminary ruling concern the interpretation of tariff subheadings and of the Combined Nomenclature set out in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1), as amended by Commission Implementing Regulation (EU) No 1001/of October (OJ L 290, p. 1) (‘the CN’).
+The requests have been made in two sets of proceedings between Profit Europe NV and Belgische Staat (Belgian State) concerning the tariff classification of cast iron fittings for fire detection and extinguishing systems.
+Legal context
+The customs classification of goods imported into the European Union is governed by the CN, which is based on the Harmonised Commodity Description and Coding System, which was drawn up by the World Customs Organisation (WCO) and established by the International Convention on the Harmonised Commodity Description and Coding System, concluded in Brussels on June and approved, with its amending protocol of June 1986, on behalf of the European Economic Community by Council Decision 87/369/EEC of April (OJ L 198, p. 1).
+The CN reproduces the six-digit headings and subheadings of that harmonised system, with only the seventh and eighth figures creating further subheadings which are specific to it.
+Part One of the CN contains ‘preliminary provisions’. In Section I of Part One, which contains general rules, subsection A, entitled ‘General rules for the interpretation of the [CN]’, provides:
+‘Classification of goods in the [CN] shall be governed by the following principles:
+1.
+The titles of sections, chapters and sub-chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings or notes do not otherwise require, according to the following provisions.
+…
+6.
+For legal purposes, the classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related subheading notes and, mutatis mutandis, to the above rules, on the understanding that only subheadings at the same level are comparable. For the purposes of this rule, the relative section and chapter notes also apply, unless the context requires otherwise.’
+Part Two of the CN is divided into sections. Section XV, headed ‘Base metals and articles of base metals’, includes Chapters to of the CN. Chapter 73, the heading of which is ‘Articles of iron or steel’, concerns CN headings to 7326.
+Heading is structured as follows:
+‘Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or steel:
+ 
+– Cast fittings:
+– – Of non-malleable cast iron:
+– – – Of a kind used in pressure systems
+– – – Other
+– – Other
+– – – Of malleable cast iron
+– – – Other.
+ 
+– Other, of stainless steel:
+…
+ 
+ 
+– Other: ’
+The Explanatory Notes to the Combined Nomenclature of the European Union (OJ C 137, p. 1, ‘the Explanatory Notes’) on subheadings and of the CN state:
+‘The expression “non-malleable” includes lamellar graphite cast iron.
+These subheadings cover cast-iron fittings, such as elbows, bends, sleeves, ties, collars and tees. They are connected to tubes or pipes of cast iron or steel by screwing, contact or by mechanical assembly.’
+According to the explanatory notes of the CN concerning subheading of the CN:
+‘Malleable cast iron is an intermediate product between lamellar graphite iron (grey iron) and cast steel. It can be easily cast and becomes tough and malleable after suitable heat treatment. During the heat treatment, the carbon partly disappears or changes its make-up; it finally deposits in the form of nodules which do not impair metallic cohesion to such an extent as the graphite flakes in grey cast iron.
+Where the carbon content is 2% or less by weight, the products are regarded as being of cast steel and fall in subheading (see note to this chapter).
+The expression malleable includes spheroidal graphite cast iron.
+See also the explanatory note to subheadings and 73071190, second paragraph.’
+The disputes in the main proceedings and the questions referred for a preliminary ruling
+In March 2014, Profit Europe made several applications to the General Administration of Customs and Excise (Belgium) (‘the customs administration’) for binding tariff information concerning the tariff classification of various fittings of spheroidal graphite cast iron for fire-fighting installations.
+On March 2014, the customs administration issued several binding tariff informations classifying those products under CN subheading as cast tube or pipe fittings of non-malleable cast iron.
+In August 2014, Profit Europe made new applications to the customs administration for binding tariff informations on the tariff classification of variants of those products.
+By a decision of March 2015, the customs administration issued binding tariff informations classifying those products under CN subheading as cast tube or pipe fittings of malleable cast iron.
+By a decision of April 2015, that administration withdrew the binding tariff information issued on March and it classified the products concerned under CN subheading 73071910.
+On and June respectively, Profit Europe filed two administrative appeals against the decisions of March and April 2015. Those measures were confirmed by two decisions of the customs administration of April 2016.
+On May 2016, Profit Europe brought an action before the Nederlandstalige rechtbank van eerste aanleg te Brussel (Dutch-language Court of First Instance, Brussels, Belgium), against those decisions and against the binding tariff informations concerned.
+In the two cases in the main proceedings, Profit Europe argues, before the referring court, that the fittings at issue in the main proceedings are of non-malleable cast iron and therefore come under CN subheading 73071110.
+It submits, in that regard, that spheroidal graphite cast iron does not present the objective characteristic of malleable cast iron, according to which its flexibility must be the result of heat treatment.
+The Nederlandstalige rechtbank van eerste aanleg te Brussel (Dutch-language Court of First Instance, Brussels) states that the Explanatory Notes to CN heading clearly state that the concept of malleable cast iron includes spheroidal graphite cast iron.
+However, the scientific analyses which have been produced by Profit Europe appear to indicate that spheroidal graphite cast iron is not a malleable cast iron.
+Taking the view, in those circumstances, that the disputes pending before it raise questions of interpretation of EU law, the Nederlandstalige rechtbank van eerste aanleg te Brussel (Dutch-language Court of First Instance, Brussels) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling, which are couched in identical terms in Cases C‑397/and C‑398/17:
+‘(1)
+Must [CN] subheading be interpreted as including fittings of spheroidal graphite cast iron which have the characteristics of the fittings at issue in the main proceedings, if it appears from their objective characteristics that their material is essentially different from malleable cast iron because the malleability of spheroidal graphite cast iron does not result from appropriate heat treatment and because the graphite in spheroidal graphite cast iron has a different shape to the graphite in malleable cast iron, namely, that of spheroidal graphite instead of temper carbon?
+(2)
+Must [CN] subheading be interpreted as including fittings of spheroidal graphite cast iron which have the characteristics of the fittings at issue in the main proceedings, if the objective characteristics of spheroidal graphite cast iron show that it substantially corresponds to the objective characteristics of non-malleable cast iron?
+(3)
+Must the CN Explanatory Note to subheading 73071910, which provides that malleable cast iron includes spheroidal graphite cast iron, be disregarded to the extent to which it provides that malleable cast iron includes spheroidal graphite cast iron, if it is established that spheroidal graphite cast iron is not malleable cast iron?’
+By decision of the President of the Court of July 2017, Cases C‑397/and C‑398/were joined for the purposes of the written and oral procedure and the judgment.
+Consideration of the questions referred
+By its questions, which it is appropriate to examine together, the referring court asks, in essence, whether the CN must be interpreted as meaning that the cast tube or pipe fittings of spheroidal graphite cast iron should be classified under subheading 73071110, as fittings of non-malleable cast iron, or under CN subheading 73071910, as fittings of malleable cast iron.
+According to the Court’s settled case-law, in the interests of legal certainty and ease of verification, the decisive criterion for the classification of goods for customs purposes is in general to be sought in their objective characteristics and properties as defined in the wording of the relevant heading of the CN and in the corresponding section or chapter notes (judgment of May 2016, Invamed Group and Others, C‑198/15, EU:C:2016:362, paragraph and the case-law cited).
+Under the general rules for the interpretation of the CN, for legal purposes, the classification of goods in the subheadings of a heading is to be determined according to the terms of those subheadings and any related subheading, section or chapter notes, with the wording of section, chapter and subchapter titles being considered to be provided for ease of reference only.
+Finally, the Explanatory Notes to the CN drawn up by the European Commission are an important aid to the interpretation of the scope of the various tariff headings but do not have legally binding force (judgment of May 2016, Invamed Group and Others, C‑198/15, EU:C:2016:362, paragraph 19).
+In the present case, CN heading covers tube or pipe fittings, of iron or steel. It comprises three categories.
+The first, designated by the term ‘cast’, includes, as is clear from that term, cast fittings, of iron or steel.
+It distinguishes between ‘non-malleable cast iron’, included in CN subheading 730711, and ‘other’ falling within CN subheading 730719. Being a residual category, that latter subheading therefore covers cast fittings, of iron or steel, and those of cast iron other than those of the type included in CN subheading 730711.
+CN subheading is divided into two subheadings, subheading 73071910, entitled ‘malleable cast iron’, and subheading 73071990, entitled ‘other’.
+In order to give an answer to the referring court, it is necessary to determine what is covered by the concept of ‘non-malleable cast iron’ within the meaning of CN subheading 730711, and ‘malleable cast iron’, within the meaning of subheading 73071910.
+As is apparent from the Explanatory Notes relating to CN subheading 73071910, ‘malleable cast iron is an intermediate product between lamellar graphite iron (grey iron) and cast steel [which] can be easily cast and becomes tough and malleable after suitable heat treatment [during which] the carbon partly disappears or changes its make-up; [and] it finally deposits in the form of nodules’.
+It is important to clarify in that regard that malleable cast iron is a special category in the standard classification of iron. In particular, the European Committee for Standardisation, as a European standardisation organisation listed in Annex I to Regulation (EU) No 1025/of the European Parliament and of the Council of October on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council (OJ L 316, p. 12), adopted, in document EN 1560:2011, the European standard EN 1560.
+That standard identifies six main types of cast iron, depending on the structure of their constituent graphite, which include, in particular, temper carbon, also known as ‘malleable cast iron’ and identified by the code EN-GJM.
+By contrast, the concept of ‘non-malleable cast iron’, within the meaning of CN subheading 730711, is not defined in the CN or in the explanatory notes. It does not constitute a specific category in the standard notation of iron.
+Contrary to what Profit Europe claims, in essence, CN subheading cannot, however, be interpreted as meaning that that subheading covers all types of cast iron which do not fall within the concept of ‘malleable cast iron’, within the meaning of paragraph of the present judgment.
+General Rule for the interpretation of the CN provides that only subheadings at the same level are comparable, which is not the case as regards CN subheadings and 73071910.
+Furthermore, CN subheading includes, other than subheading 73071910, subheading 73071990, which, as its own wording shows, is a residual sub-heading. It is also not excluded that the EU legislature did intend to bring within that subheading not only cast tube or pipe fittings, of iron or steel but also those fittings of types of cast iron other than those referred to in CN subheadings and 73071910.
+According to the Court’s settled case-law, the meaning and scope of terms for which EU law provides no definition must be determined by considering their usual meaning in everyday language, while also taking into account the context in which they occur and the purposes of the rules of which they form part (judgment of November 2012, Digitalnet and Others, C‑320/11, C‑330/11, C‑382/and C‑383/11, EU:C:2012:745, paragraph 38).
+The adjective ‘malleable’, according to its usual meaning, is a material which has the property to flatten and expand under a hammer or through the action of a mill using rollers or sheets. In other words, from recital of Council Regulation (EC) No 500/of June amending Regulation (EC) No 1212/imposing a definitive anti-dumping duty on imports of certain castings originating in the People’s Republic of China (OJ L 151, p. 6), ‘malleability’ refers, in material science, ‘to a material’s ability to deform under compressive stress which is often characterised by the material’s ability to form a thin sheet by hammering or rolling’.
+In the light of the foregoing considerations, CN subheading must be interpreted as meaning that that heading covers tube or pipe fittings of cast iron which are not deformable under compressive stress.
+Therefore, CN subheading must be interpreted as meaning that it includes cast fittings, of iron or steel, as well as those which are deformable under compressive stress.
+With regard to the fittings at issue in the case in the main proceedings, it should be noted, first, that, as is apparent from recital of Regulation No 500/2009, spheroidal graphite cast iron is ‘not only deformable under tensile stress, but also under compressive stress to a certain degree’.
+As such, spheroidal graphite cast iron cannot therefore be regarded as coming under CN subheading 730711.
+Second, as the referring court has observed, spheroidal graphite cast iron, and malleable iron differ in terms of their composition and method of production.
+Accordingly, since it does not correspond to the concept of ‘malleable cast iron’, as set out in the Explanatory Notes relating to CN subheading 73071910, and since it forms, in the standard notation of cast iron, a separate category of malleable cast iron, identified by the code EN-GJS, spheroidal graphite cast iron also cannot come within CN subheading 73071910.
+In that regard, it must be noted, first, that those Explanatory Notes, in so far as they state that ‘the expression “malleable” includes spheroidal graphite cast iron’, have the effect of extending the concept of ‘malleable cast iron’ to another category of cast iron, which, even if it has characteristics similar to those of malleable cast iron, none the less constitutes a separate category in the classification of cast iron.
+Following settled case-law, the content of those notes must therefore be in accordance with the provisions of the CN and may not alter their meaning (see judgment of May 2016, Invamed Group and Others, C-198/15, EU:C:2016:362, paragraph and the case-law cited).
+Therefore, the Explanatory Notes relating to CN subheading must be disregarded, since they have the effect of altering the scope of that subheading by extending it to fittings of spheroidal graphite cast iron.
+Second, it should be recalled that the opinions of the Customs Code Committee, although they constitute an important means of ensuring uniform application of that code by the customs authorities of the Member States and may, as such, be regarded as valid aid to its interpretation, are not legally binding and cannot, therefore, alter the scope of the provisions of the CN (see, to that effect, judgments of February 1977, Dittmeyer, 69/and 70/76, EU:C:1977:25, paragraph 4, and of June 2011, Unomedical, C‑152/10, EU:C:2011:402, paragraph 41).
+It follows that the opinion of the Customs Code Committee, expressed in the minutes of the 140th meeting of the Section ‘Customs tariff nomenclature’ of that Committee, which was held in Brussels from September to October 2014, and according to which CN subheading must be interpreted as meaning that the expression ‘malleable’ must be interpreted broadly, that is to say as seeking to distinguish cast iron deformable under compressive stress from that which would break under such pressure, must also be set aside in so far as it has the effect of extending the scope of CN subheading 73071910.
+In the light of all the foregoing considerations, the answer to the questions referred is that the CN must be interpreted as meaning that the cast tube or pipe fittings of spheroidal graphite cast iron must be classified under subheading thereof.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Tenth Chamber) hereby rules:
+ 
+The Combined Nomenclature set out in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff, as amended by Commission Regulation (EU) No 1001/of October 2013, must be interpreted as meaning that the cast tube or pipe fittings of spheroidal graphite cast iron must be classified under subheading thereof.
+ 
+[Signatures]
+(
+*)	Language of the case: Dutch.
+Top  

@@ -1,0 +1,135 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+December (
+*)
+(Reference for a preliminary ruling — Recognition of professional qualifications — Directive 2005/36/EC — Recognition of the evidence of formal qualifications obtained following periods of partially overlapping training — Host Member State’s powers of investigation)
+In Case C–675/17,
+REQUEST for a preliminary ruling under Article TFEU from the Consiglio di Stato (Council of State, Italy), made by decision of October 2017, received at the Court on November 2017, in the proceedings
+Ministero della Salute
+v
+Hannes Preindl,
+THE COURT (Third Chamber),
+composed of M. Vilaras, President of the Fourth Chamber, acting as President of the Third Chamber, J. Malenovský, L. Bay Larsen (Rapporteur), M. Safjan and D. Šváby, Judges,
+Advocate General: M. Bobek,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of
+–
+Mr Preindl, by M. Schullian and C. Senoner, avvocati,
+–
+the Italian Government, by G. Palmieri, acting as Agent, and by M. Russo, avvocato dello Stato,
+–
+the Spanish Government, initially by A. Gavela Llopis, and subsequently by L. Aguilera Ruiz, acting as Agents,
+–
+the Austrian Government, by G. Hesse, acting as Agent,
+–
+the European Commission, by H. Støvlbæk and L. Malferrari, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles 21, and of Directive 2005/36/EC of the European Parliament and of the Council of September on the recognition of professional qualifications (OJ L 255, p. 22).
+The request has been made in the context of proceedings where the opposing parties are the Ministero della Salute (Ministry of Health, Italy) (‘the Ministry’) andt Mr Hannes Preindl concerning a refusal, by that Ministry, to recognise evidence of formal qualification as a doctor issued by the competent Austrian authority.
+Legal context
+European Union law
+Recitals and of Directive 2005/are worded as follows:
+‘(1)
+Pursuant to Article 3(1)(c)[EC], the abolition, as between Member States, of obstacles to the free movement of persons and services is one of the objectives of the European Union. For nationals of the Member States, this includes, in particular, the right to pursue a profession, in a self-employed or employed capacity, in a Member State other than the one in which they have obtained their professional qualifications. In addition, Article 47(1)(EC) lays down that directives shall be issued for the mutual recognition of diplomas, certificates and other evidence of formal qualifications.
+…
+(19)
+Freedom of movement and the mutual recognition of the evidence of formal qualifications of doctors, nurses responsible for general care, dental practitioners, veterinary surgeons, midwives, pharmacists and architects should be based on the fundamental principle of automatic recognition of the evidence of formal qualifications on the basis of coordinated minimum conditions for training. In addition, access in the Member States to the professions of doctor, nurse responsible for general care, dental practitioner, veterinary surgeon, midwife and pharmacist should be made conditional upon the possession of a given qualification ensuring that the person concerned has undergone training which meets the minimum conditions laid down. This system should be supplemented by a number of acquired rights from which qualified professionals benefit under certain conditions.’
+Article of that directive, headed ‘Purpose’, provides:
+‘This Directive establishes rules according to which a Member State which makes access to or pursuit of a regulated profession in its territory contingent upon possession of specific professional qualifications (referred to hereinafter as the host Member State) shall recognise professional qualifications obtained in one or more other Member States (referred to hereinafter as the home Member State) and which allow the holder of the said qualifications to pursue the same profession there, for access to and pursuit of that profession.’
+Article 21(1) of that directive, headed ‘Principles of automatic recognition’, provides:
+‘Each Member State shall recognise evidence of formal qualifications as doctor giving access to the professional activities of doctor with basic training and specialised doctor, as nurse responsible for general care, as dental practitioner, as specialised dental practitioner, as veterinary surgeon, as pharmacist and as architect, listed in Annex V, points 5.1.1, 5.1.2, 5.2.2, 5.3.2, 5.3.3, 5.4.2, 5.6.and 5.7.respectively, which satisfy the minimum training conditions referred to in Articles 24, 25, 31, 34, 35, 38, and respectively, and shall, for the purposes of access to and pursuit of the professional activities, give such evidence the same effect on its territory as the evidence of formal qualifications which it itself issues.
+Such evidence of formal qualifications must be issued by the competent bodies in the Member States and accompanied, where appropriate, by the certificates listed in Annex V, points 5.1.1, 5.1.2, 5.2.2, 5.3.2, 5.3.3, 5.4.2, 5.6.and 5.7.respectively.
+…’
+Article 22(a) of that directive, that article being headed ‘Common provisions on training’, is worded as follows:
+‘With regard to the training referred to in Articles 24, 25, 28, 31, 34, 35, 38, 40, and 46:
+(a)
+Member States may authorise part-time training under conditions laid down by the competent authorities; those authorities shall ensure that the overall duration, level and quality of such training is not lower than that of continuous full-time training’.
+Article 24(2) and (3) of Directive 2005/36, headed ‘Basic medical training’, provides:
+‘2.   Basic medical training shall comprise a total of at least six years of study or hours of theoretical and practical training provided by, or under the supervision of, a university.
+…
+3.   Basic medical training shall provide an assurance that the person in question has acquired the following knowledge and skills:
+(a)
+adequate knowledge of the sciences on which medicine is based and a good understanding of the scientific methods including the principles of measuring biological functions, the evaluation of scientifically established facts and the analysis of data;
+(b)
+sufficient understanding of the structure, functions and behaviour of healthy and sick persons, as well as relations between the state of health and physical and social surroundings of the human being;
+(c)
+adequate knowledge of clinical disciplines and practices, providing him with a coherent picture of mental and physical diseases, of medicine from the points of view of prophylaxis, diagnosis and therapy and of human reproduction;
+(d)
+suitable clinical experience in hospitals under appropriate supervision.’
+Article 34(2) and (3) of that directive, that article being headed ‘Basic dental training’, provides:
+‘2.   Basic dental training shall comprise a total of at least five years of full-time theoretical and practical study, comprising at least the programme described in Annex V, point 5.3.and given in a university, in a higher institute providing training recognised as being of an equivalent level or under the supervision of a university.
+…
+3.   Basic dental training shall provide an assurance that the person in question has acquired the following knowledge and skills:
+(a)
+adequate knowledge of the sciences on which dentistry is based and a good understanding of scientific methods, including the principles of measuring biological functions, the evaluation of scientifically established facts and the analysis of data;
+(b)
+adequate knowledge of the constitution, physiology and behaviour of healthy and sick persons as well as the influence of the natural and social environment on the state of health of the human being, in so far as these factors affect dentistry;
+(c)
+adequate knowledge of the structure and function of the teeth, mouth, jaws and associated tissues, both healthy and diseased, and their relationship to the general state of health and to the physical and social well-being of the patient;
+(d)
+adequate knowledge of clinical disciplines and methods, providing the dentist with a coherent picture of anomalies, lesions and diseases of the teeth, mouth, jaws and associated tissues and of preventive, diagnostic and therapeutic dentistry;
+(e)
+suitable clinical experience under appropriate supervision.
+…’
+Article 50(2) of that directive, that article being headed ‘Documentation and formalities’, is worded as follows:
+‘In the event of justified doubts, the host Member State may require from the competent authorities of a Member State confirmation of the authenticity of the attestations and evidence of formal qualifications awarded in that other Member State, as well as, where applicable, confirmation of the fact that the beneficiary fulfils, for the professions referred to in Chapter III of this Title, the minimum training conditions set out respectively in Articles 24, 25, 28, 31, 34, 35, 38, 40, and 46.’
+Italian law
+Article 142(2) of Regio Decreto No — approvazione del testo unico delle leggi sull’istruzione superiore (Royal Decree relating to approval of the consolidating Act of laws on higher education) of August (Ordinary Supplement to GURI No of December 1933), in force at the material time in the main proceedings, provides that ‘without prejudice to the provisions of Article 39(c), enrolment at more than one university and institute of higher education, faculty or school in the same university or institute and for more than one academic degree or diploma course in the same faculty or school at the same time shall be prohibited’.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+On March Mr Priendl, an Italian citizen, submitted a request to the Ministry for recognition of his qualification as ‘Doktor der Zahnheilkunde’, awarded on January by the Medical University of Innsbruck (Austria), in order to practise as a dentist in Italy.
+By executive decree of May 2013, the Ministry recognised this qualification as a qualification to practise dentistry having regard to the document issued by the competent Austrian authority, namely the Austrian Dental Association, which certified that the qualification meets the minimum requirements laid down in Article of Directive 2005/36.
+On October Mr Preindl submitted a request to the Ministry for recognition of his qualification as ‘Doktor der Gesamten Heilkunde’, awarded on August by the Medical University of Innsbruck, in order to also practise as a ‘surgeon’ in Italy. Accompanying this request was, inter alia, a certificate by the competent Austrian authority, namely the Austrian Medical Association, stating that the qualification satisfies the criteria laid down in Article of Directive 2005/and that it corresponds to the qualification in Austria for the conferment of the academic degree of doctor of medicine, referred to in point 5.1.of Annex V to Directive 2005/36.
+Dealing with this second recognition request, the Ministry found that the Austrian degrees in dentistry and medicine had been awarded to Mr Preindl on January and August 2014, respectively, and that the latter qualification had been awarded at the end of a medical degree course the duration of which was months, which is much shorter than the minimum period of six years required for the qualification as a doctor under Article of Directive 2005/36.
+The Ministry therefore contacted the Austrian Medical Association in order to ascertain how the degree in medicine obtained by Mr Preindl could meet all the requirements laid down in Article of Directive 2005/36.
+The Austrian Medical Association confirmed, on March 2015, that that qualification met those requirements and that Mr Preindl began his studies in dentistry on September and completed them on January 2013, and began his studies in medicine on March and completed them on August 2014.
+In the light of that information, the Ministry refused to recognise Mr Preindl’s qualification as permitting him to practise as a ‘surgeon’ in Italy, on the ground that Directive 2005/does not provide that a person can take two training courses at the same time.
+Mr Preindl brought an action before the Tribunale amministrativo regionale del Lazio (Latium Regional Administrative Court, Italy), claiming that the Ministry’s refusal was in direct conflict with the principle of automatic recognition of qualifications as a doctor laid down in Article of Directive 2005/36. He added that the certification issued by the Austrian Medical Association expressly recognised that the course that he had followed met the minimum training conditions referred to in Article 21(1) and specified in Article of the Directive.
+The Tribunale amministrativo regionale del Lazio (Latium Regional Administrative Court) upheld the action. The Ministry brought an appeal against that judgment before the Consiglio di Stato (Council of State, Italy). According to the Ministry, Directive 2005/lists the mandatory training requirements that must be guaranteed by Member States for the purpose of awarding a basic medical qualification. In that regard, Article of that directive provides, in particular, that basic medical training is to comprise a total of at least six years of study or hours of theoretical and practical training provided by, or under the supervision of, a university. In the present case, numerous examinations taken by Mr Preindl were simultaneously taken into account both for the purpose of awarding the degree in dentistry and for the purpose of awarding the degree in medicine. Such a procedure constitutes a modus operandi provided for by Austrian national legislation, but is, according to the Ministry, clearly incompatible with the provisions of Directive 2005/36, leading, moreover, to unequal treatment that constitutes significant discrimination between Austrian nationals and nationals of other EU Member States — including the Republic of Italy — where enrolment on two training courses at the same time is expressly prohibited.
+The referring court considers that it may be inferred that training is part-time from the fact that it is possible to pursue two or more university courses simultaneously and asks whether, despite recognition of professional qualifications, under Article and Article of Directive 2005/36, being automatic, such training meets the minimum requirements set out in Article of and Annex V to that directive. If it does, that court also asks whether a Member State, from which recognition is sought, is entitled to verify whether part-time training in the home Member State actually corresponds to the minimum training required by those provisions.
+In those circumstances, the Consiglio di Stato (Council of State) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Do Articles 21, and of Directive [2005/36] oblige a Member State in which full-time training is required, and there is a corresponding prohibition on enrolling in two degree courses at the same time, automatically to recognise qualifications that are obtained in the home Member State simultaneously or during periods that in part overlap?
+(2)
+If so, can Article 22(a) and Article of Directive [2005/36] be interpreted as meaning that the authorities in the Member State in which recognition is sought may nevertheless verify whether the condition that the overall duration, level and quality of such training should not be lower than those of continuous full-time training is satisfied?’
+Consideration of the questions referred
+Preliminary observations
+As mentioned in paragraph of the present judgment, the referring court considers that it can be reasonably inferred from the fact that the applicant took more than one university course at the same time that the university education was pursued part-time.
+By contrast, the European Commission, as well as the Spanish and Austrian governments maintain that pursuing two academic courses at the same time does not necessarily mean that those courses are not the equivalent of full-time education.
+In that regard, it must be recalled that, in the procedure of cooperation established by Article TFEU, it is not for the Court of Justice but for the national court to ascertain the facts which have given rise to the dispute and to establish the consequences which they have for the judgment which it is required to deliver. Moreover, the Court of Justice must take account, under the division of jurisdiction between the EU Courts and the national courts, of the factual and legislative context, as described in the order for reference, in which the questions put to it are set (see, to that effect, judgment of June 2018, Scotch Whisky Association, C‑44/17, EU:C:2018:415, paragraph and the case-law cited).
+Consequently, although the argument set out by the Commission and by the Spanish and Austrian governments does not a priori appear to be wholly implausible, the questions referred for a preliminary ruling will be examined having regard to the facts as found by the referring court.
+The first question
+By its first question, the referring court seeks, in essence, to ascertain whether Articles 21, and of Directive 2005/must be interpreted as obliging a Member State, whose legislation creates a requirement to pursue full-time training and a prohibition on being enrolled on two courses at the same time, automatically to recognise the evidence of formal qualifications issued by another Member State which were obtained as a result of partially overlapping training.
+In that regard, it must be recalled that, as is apparent from recital of Directive 2005/36, that directive provides, as regards in particular the profession of doctor or dentist, for a system of automatic recognition of the evidence of formal qualifications based on coordinated minimum conditions for training (see, to that effect, judgment of April 2014, Ordre des architectes, C‑365/13, EU:C:2014:280, paragraph 20).
+Thus, Article 21(1) of Directive 2005/36, concerning the principle of automatic recognition, provides that each Member State is to recognise evidence of formal qualifications as a doctor, giving access to the professional activities of a doctor with basic training, and as a dental practitioner, referred to in points 5.1.and 5.3.respectively of Annex V to that directive, which satisfy the minimum training conditions referred to in Articles and of that directive, and is, for the purposes of access to and pursuit of the professional activities, to give such evidence the same effect on its territory as the evidence of formal qualifications which it itself issues.
+In addition, Article 22(a) of Directive 2005/provides that, as regards some types of training, such as basic medical training and dental practitioner training covered by Articles and of that directive, Member States may authorise part-time training under conditions laid down by the competent authorities of those Member States, as long as the overall duration, level and quality of such training are not lower than those of continuous full-time training.
+Finally, it should be noted that no provision in that directive precludes Member States from authorising simultaneous enrolment in more than one training course.
+Therefore, recognition of evidence of formal qualifications, including a degree in medicine with basic training and a degree in dentistry, is automatic and unconditional, in that it obliges Member States to accept the equivalence of evidence of formal qualifications covered by Directive 2005/and cannot require the persons concerned to comply with requirements other than those laid down by that directive. That recognition is based on the Member States’ mutual trust in the adequacy of the evidence of formal qualifications issued by other Member States, such trust being based on a training system the standards of which were determined by mutual agreement (see, by analogy, judgment of June 2003, Tennah-Durez, C‑110/01, EU:C:2003:357, paragraph 30).
+Consequently, the answer to the first question is that Articles 21, and of Directive 2005/must be interpreted as obliging a Member State, whose legislation creates a requirement to pursue full-time training and a prohibition on being enrolled on two courses at the same time, automatically to recognise the evidence of formal qualifications issued by another Member State on the completion of partially concurrent training.
+The second question
+By its second question, the referring court asks, in essence, whether Article and Article 22(a) of Directive 2005/must be interpreted as meaning that the host Member State may verify compliance with the condition that the overall duration, level and quality of part-time training are not lower than those of continuous full-time training.
+As has already been noted in paragraphs and of the present judgment, Articles and of Directive 2005/provide for the mutual recognition of qualifications as a doctor and a dental practitioner, and authorise Member States to provide, in accordance with certain requirements, part-time medical and dental practitioner training. The responsibility for ensuring that the training requirements, both qualitative and quantitative, laid down by Directive 2005/are fully complied with falls wholly on the competent authority of the Member State awarding the evidence of a formal qualification (see, by analogy, judgment of June 2003, Tennah-Durez, C‑110/01, EU:C:2003:357, paragraph 56).
+That authority must, when exercising its powers, take into consideration the fact that the evidence of formal qualifications will enable those so qualified to move and practise in all the Member States of the European Union, as a result of that evidence being recognised automatically and unconditionally (see, to that effect, judgment of June 2003, Tennah-Durez, C‑110/01, EU:C:2003:357, paragraph 56), that recognition being based, as already noted in paragraph of the present judgment, on the Member States’ mutual trust in the adequacy of the evidence of formal qualifications issued by other Member States.
+In that regard, it can be observed that a system for the automatic and unconditional recognition of evidence of formal qualifications, such as that provided for in Article of Directive 2005/36, would be seriously jeopardised if it were open to Member States at their discretion to question the merits of a decision taken by the competent authority of another Member State to issue such evidence (see, by analogy, judgment of June 2003, Tennah-Durez, C‑110/01, EU:C:2003:357, paragraph 75).
+The automatic and unconditional recognition of evidence of formal qualifications remains the same where the home Member State issues such evidence following basic medical training or dental practitioner training that is provided in accordance with Article 22(a) of Directive 2005/36. In that context also, it is for the competent authorities of the home Member State, and not for those of the host Member State, to ensure that the overall duration, level, and quality of the part-time training are not lower than those of continuous full-time training, and, more generally, that all the requirements laid down by Directive 2005/are fully complied with.
+For the sake of completeness, it must be pointed out that Article 50(2) of Directive 2005/allows a host Member State, where there is justified doubt, to require confirmation from the competent authorities of a Member State of the authenticity of the attestations and evidence of formal qualifications awarded in that other Member State, as well as, where applicable, confirmation of the fact that the beneficiary fulfils, for the professions referred to in that directive, the minimum training conditions required by it.
+Such means allow, moreover, the host Member State to satisfy itself that the attestations and evidence of formal qualifications submitted to it are entitled to automatic and unconditional recognition (see, by analogy, judgment of June 2003, Tennah-Durez, C‑110/01, EU:C:2003:357, paragraph 76).
+Accordingly, where a course satisfies the training requirements established by Directive 2005/36, which it is for the authority of the Member State which issues the evidence of formal qualifications to verify, the authorities of the host Member State may not refuse recognition of that evidence of formal qualifications. The fact that the individual concerned has pursued part-time training, under Article 22(a) of that directive, or more than one course simultaneously or during periods which partially overlap, is irrelevant in that regard, provided that the training requirements laid down by that directive are met.
+In the light of the foregoing, the answer to the second question is that Article and Article 22(a) of Directive 2005/must be interpreted as precluding the host Member State from verifying compliance with the condition that the overall duration, level and quality of part-time training are not lower than those of continuous full-time training.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+1.
+Articles 21, and of Directive 2005/36/EC of the European Parliament and of the Council of September on the recognition of professional qualifications must be interpreted as obliging a Member State, whose legislation creates a requirement to pursue full-time training and a prohibition on being enrolled on two courses at the same time, automatically to recognise the evidence of formal qualifications issued by another Member State on the completion of partially concurrent training.
+ 
+2.
+Article and Article 22(a) of Directive 2005/must be interpreted as precluding the host Member State from verifying compliance with the condition that the overall duration, level and quality of part-time training are not lower than those of continuous full-time training.
+ 
+[Signatures]
+(
+*)	Language of the case: Italian.
+Top  

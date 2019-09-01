@@ -1,0 +1,87 @@
+
+JUDGMENT OF THE COURT (Tenth Chamber)
+December (
+*)
+(Reference for a preliminary ruling — Regulation (EC) No 1083/— Article 2(4) — Concept of beneficiary — Article — Prohibition on making a deduction or withholding sums paid — Other specific charge or charge with equivalent effect — Concept — Study grant co-financed by the European Social Fund — Treatment as income from employment — Retention on account of income tax increased by additional regional and municipal taxes)
+In Case C‑667/17,
+REQUEST for a preliminary ruling under Article TFEU from the Commissione Tributaria Provinciale di Cagliari (Provincial Tax Court, Cagliari, Italy), made by decision of July 2017, received at the Court on November 2017, in the proceedings
+Francesca Cadeddu
+v
+Agenzia delle Entrate — Direzione provinciale di Cagliari,
+Regione autonoma della Sardegna,
+Regione autonoma della Sardegna — Agenzia regionale per il lavoro,
+THE COURT (Tenth Chamber),
+composed of F. Biltgen, President of the Eighth Chamber, acting as President of the Tenth Chamber (Rapporteur), E. Levits and M. Berger, Judges,
+Advocate General: M. Szpunar,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Ms Cadeddu, by G. Dore, S. Garau and A. Vinci, avvocati,
+–
+the Italian Government, by G. Palmieri, acting as Agent, and by A. Venturini, avvocato dello Stato,
+–
+the Czech Government, by M. Smolek and J. Vláčil, acting as Agents,
+–
+the Spanish Government, by S. Jiménez García, acting as Agent,
+–
+the European Commission, by B.-R. Killmann and P. Arenas, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 2(4) and Article of Council Regulation (EC) No 1083/of July laying down general provisions on the European Regional Development Fund, the European Social Fund and the Cohesion Fund and repealing Regulation (EC) No 1260/(OJ L 210, p. 25).
+The request has been made in the context of proceedings between Ms Francesca Cadeddu, on the one hand, and the Agenzia delle Entrate — Direzione provinciale di Cagliari (Tax Authority, Provincial Office, Cagliari, Italy) (‘the Tax Authority’), the Regione autonoma della Sardegna (Autonomous Region of Sardinia, Italy) and the Regione autonoma della Sardegna — Agenzia regionale per il lavoro (Autonomous Region of Sardinia — regional employment office, Italy), on the other hand, concerning deductions from the amount awarded to Ms Cadeddu under a study grant.
+Legal context
+European Union law
+Under Article of Regulation No 1083/2006, entitled ‘Definitions’:
+‘For the purposes of this Regulation, the following terms shall have the meanings assigned to them here:
+…
+(3)
+“operation”: a project or group of projects selected by the managing authority of the operational programme concerned or under its responsibility according to criteria laid down by the monitoring committee and implemented by one or more beneficiaries allowing achievement of the goals of the priority axis to which it relates;
+(4)
+“beneficiary”: an operator, body or firm, whether public or private, responsible for initiating or initiating and implementing operations. In the context of aid schemes under Article of the Treaty, beneficiaries are public or private firms carrying out an individual project and receiving public aid;
+…’
+Under Article of that regulation, ‘Member States shall satisfy themselves that the bodies responsible for making the payments ensure that the beneficiaries receive the total amount of the public contribution as quickly as possible and in full. No amount shall be deducted or withheld and no specific charge or other charge with equivalent effect shall be levied that would reduce these amounts for the beneficiaries’.
+Italian law
+The decreto del Presidente della Republica n. — Approvazione del testo unico delle imposte sui redditi (Presidential Decree No approving the codified law on income tax), of December (Ordinary supplement to GURI No of December 1986), in the version in force at the material time in the main proceedings (‘the TUIR’), provides, in Article 50(1)(c) thereof:
+‘1.   The following are to be treated as income from employment:
+…
+(c)
+sums paid by anyone as a study grant or an allowance, an award or a stipend for the purposes of studying or vocational training, provided that the beneficiary is not in an employment relationship with the person making the payment;
+…’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+The Direzione Generale dell’Assessorato del Lavoro, Formazione Professionale, Cooperazione e Sicurezza Sociale (Directorate-General for the Regional Ministry of employment, vocational training, cooperation and social security, Italy) selected, as the managing authority for the operational programme to enhance the higher education system in Sardinia (Italy), the funding of the ‘Master and Back’ programme which consisted, in particular, in supporting postgraduate students and researchers.
+By decision of April 2011, the Autonomous Region of Sardinia — regional employment agency awarded the applicant in the main proceedings a study grant amounting to EUR 69818, co-financed by the European Social Fund (ESF).
+At the time of the award of that grant, the Autonomous Region of Sardinia — regional employment agency applied, on behalf of the tax authority, a retention on account in the sum of EUR 481.in relation to personal income tax, in addition to EUR 859.in relation to regional supplementary tax, and EUR in relation to municipal supplementary tax.
+Since she considers that those retentions are contrary to Article of Regulation No 1083/2006, the applicant in the main proceedings applied for a refund of those taxes from the tax authority.
+By decision of April 2016, the tax authority rejected that application on the ground, first, that a study grant must be treated, for the purposes of Article 50(1)(c) of the TUIR, as income and, secondly, that the recipient of a study grant cannot be classified as a ‘beneficiary’ of co-financing for the purposes of Article of Regulation No 1083/2006.
+By an action brought before the Commissione tributaria provinciale di Cagliari (Provincial Tax Court, Cagliari, Italy) on June 2016, the applicant in the main proceedings sought the annulment of that decision, by invoking in essence a contradiction between the provisions of Regulation No 1083/which prohibit any deduction or retention from the amounts granted to beneficiaries, and the national legislation at issue in the main proceedings, in accordance with which study grants are subject to income tax.
+The referring court questions whether the concept of ‘beneficiary’, for the purposes of Article 2(4) of Regulation No 1083/2006, also covers a natural person who is the recipient of a study grant and whether the concept of ‘deducted or withheld’, provided for in Article of Regulation No 1083/2006, covers the retentions referred to by the national provisions on personal income tax. It notes that the Italian case-law is not consistent in that regard, since some Italian courts uphold retentions made on amounts financed by the ESF, and others reject them.
+In the light of those factors, the Commissione Tributaria Provinciale di Cagliari (Provincial Tax Court, Cagliari) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Must Article of … Regulation … No 1083/…, and also Article 2(4) thereof, be interpreted as precluding a provision such as Article 50(1)(c) of [the TUIR], according to which “… sums paid by anyone as a study grant or an allowance, an award or a stipend for the purposes of studying or vocational training, provided that the beneficiary is not in an employment relationship with the person making the payment” are to be treated as income from employment and, consequently, are subject to personal income tax even if the study grant is paid with European structural funds?’
+Consideration of the question referred
+By the question referred for a preliminary ruling, the referring court asks, in essence, whether Article of Regulation No 1083/2006, read in conjunction with Article 2(4) of that regulation, must be interpreted as precluding national tax legislation, such as that at issue in the main proceedings, which applies personal income tax to amounts awarded to natural persons in the form of study grants by the public body responsible for implementing the project selected by the managing authority for the operational programme at issue, for the purposes of Article 2(3) of that regulation, and financed through the European structural funds.
+First of all, it should be noted that, according to consistent case-law, direct taxes fall within the competence of the Member States, but they must exercise that competence consistently with Union law (see, to that effect, judgments of September 2004, Manninen, C‑319/02, EU:C:2004:484, paragraph 19, and of October 2007, Porto Antico di Genova, C‑427/05, EU:C:2007:630, paragraph 10)
+In particular, national legislation must not impede the working of the mechanisms established in the context of the European structural funds as provided for by Regulation No 1083/(see, to that effect, judgment of October 2007, Porto Antico di Genova, C‑427/05, EU:C:2007:630, paragraph 10).
+In that regard, Article of Regulation No 1083/provides that ‘Member States shall satisfy themselves that the bodies responsible for making the payments ensure that the beneficiaries receive the total amount of the public contribution as quickly as possible and in full’.
+By prohibiting any levy on the amount of the financial contribution from the Union, Article of Regulation No 1083/merely reiterates the rule of payment in full of EU financial aid, which was already included in other legislation, in particular, the second subparagraph of Article 21(3) of Council Regulation (EEC) No 4253/of December 1988, laying down provisions for implementing Regulation (EEC) No 2052/as regards coordination of the activities of the different Structural Funds between themselves and with the operations of the European Investment Bank and the other existing financial instruments (OJ L 374, p. 1), as amended by Council Regulation (EEC) No 2082/of July (OJ L 193, p. 20).
+As regards that article, which provided that ‘payments are to be made to the final beneficiaries without any deduction or retention which could reduce the amount of financial assistance to which they are entitled’, the Court pointed out that that prohibition on deductions cannot be interpreted in a purely formal manner and that it must of necessity extend to all charges which are directly and inseparably linked to the amounts disbursed (see, to that effect, judgments of October 2006, Commission v Portugal, C‑84/04, EU:C:2006:640, paragraph 35, and of October 2007, Porto Antico di Genova, C‑427/05, EU:C:2007:630, paragraph 13).
+By contrast, a levy which is separate from the amount of the Union grants and which is not specifically connected with the amounts awarded, but which applies without distinction to all of the income of the final beneficiary, does not impede the working of the mechanisms established by EU law, even if it has the effect of reducing the amount of the Union grants (see, to that effect, judgment of October 2007, Porto Antico di Genova, C‑427/05, EU:C:2007:630, paragraphs and 18).
+Given that the support measures are all financed from the EU budget and that the rules of payment applicable to those measures must be subject to the same interpretation (see, to that effect, judgment of October 2006, Commission v Portugal, C‑84/04, EU:C:2006:640, paragraph 32), the Court’s case-law relating to the payment in full of financial assistance in the light of the second subparagraph of Article 21(3) of Regulation No 4253/88, as amended by Regulation No 2082/93, remains applicable with respect to Article of Regulation No 1083/2006.
+However, it is necessary to take account of the particularities of the different mechanisms at issue. Unlike other regulations which, by using the terms ‘final beneficiary’, refer to the natural or legal person who is the recipient of the amounts awarded, Article 2(4) of Regulation No 1083/expressly defines the ‘beneficiary’ as ‘an operator, body or firm, whether public or private, responsible for initiating or initiating and implementing operations’.
+In accordance with Article 2(3) of that regulation, the term ‘operations’ is defined as ‘a project or group of projects selected by the managing authority of the operational programme concerned … and implemented by one or more beneficiaries allowing achievement of the goals of the priority axis to which it relates’.
+Consequently, the payment in full of assistance provided for by Article of Regulation No 1083/covers payments made to operators, bodies or firms, responsible for initiating or initiating and implementing operations selected by the managing authority of the operational programme concerned in order to achieve the goals of the priority axis to which it relates.
+In the present case, it is clear from the documents before the Court that the managing authority selected, in the context of the operational programme aiming to enhance the higher education system in Sardinia, the ‘Master and Back’ programme, consisting in the award of study grants for postgraduate students and researchers, the selection of which was entrusted to the Autonomous Region of Sardinia — regional employment office in the context of the implementation of that project.
+It follows that the applicant in the main proceedings, who was admittedly the personal recipient of the amounts awarded in the context of the project selected and co-financed by the ESF, cannot be classified as a ‘beneficiary’ for the purposes of Article 2(4) of Regulation No 1083/2006, since the Autonomous Region of Sardinia — regional employment office has that status. Therefore, the principle of payment in full of the amounts awarded from the EU budget, provided for in Article of Regulation No 1083/2006, applies to the latter.
+In the light of the foregoing, the answer to the question referred is that Article of Regulation No 1083/2006, read in conjunction with Article 2(4) of that regulation, must be interpreted as not precluding national tax legislation, such as that at issue in the main proceedings, which applies personal income tax to the amounts awarded to natural persons in the form of study grants by the public body responsible for implementing the project selected by the managing authority for the operational programme at issue, for the purposes of Article 2(3) of that regulation, and financed through the European structural funds.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Tenth Chamber) hereby rules:
+ 
+Article of Council Regulation (EC) No 1083/of July laying down general provisions on the European Regional Development Fund, the European Social Fund and the Cohesion Fund and repealing Regulation (EC) No 1260/1999, read in conjunction with Article 2(4) of that regulation, must be interpreted as not precluding national tax legislation, such as that at issue in the main proceedings, which applies personal income tax to the amounts awarded to natural persons in the form of study grants by the public body responsible for implementing the project selected by the managing authority for the operational programme at issue, for the purposes of Article 2(3) of that regulation, and financed through the European structural funds.
+ 
+[Signatures]
+(
+*)	Language of the case: Italian.
+Top  

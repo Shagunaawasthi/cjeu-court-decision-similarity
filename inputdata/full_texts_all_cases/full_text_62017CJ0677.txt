@@ -1,0 +1,167 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+May (
+*)
+(Reference for a preliminary ruling — EEC-Turkey Association Agreement — Additional Protocol — Article — Decision No 3/— Social security for migrant workers — Waiver of residence clauses — Article — Invalidity benefit — Withdrawal — Regulation (EC) No 883/— Special non-contributory cash benefits — Residence condition — Directive 2003/109/EC — Long-term resident status)
+In Case C‑677/17,
+REQUEST for a preliminary ruling under Article TFEU from the Centrale Raad van Beroep (Higher Social Security and Civil Service Court, Netherlands), made by decision of December 2017, received at the Court on December 2017, in the proceedings
+M. Çoban
+v
+Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen,
+THE COURT (First Chamber),
+composed of R. Silva de Lapuerta (Rapporteur), Vice-President of the Court, acting as President of the First Chamber, J.-C. Bonichot, E. Regan, C.G. Fernlund and S. Rodin, Judges,
+Advocate General: E. Sharpston,
+Registrar: R. Schiano, Administrator,
+having regard to the written procedure and further to the hearing on October 2018,
+after considering the observations submitted on behalf of:
+–
+Mr Çoban, by R. Akkaya and Z.M. Alaca, advocaten,
+–
+the Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen, by J. Hut, acting as Agent,
+–
+the Netherlands Government, by M.K. Bulterman and M.H.S. Gijzen, acting as Agents,
+–
+the European Commission, by D. Martin and M. van Beek, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on February 2019,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of the first subparagraph of Article 6(1) of Decision No 3/of the Association Council of September on the application of the social security schemes of the Member States of the European Communities to Turkish workers and members of their families (OJ C 110, p. 60), in conjunction with Article of the Additional Protocol, signed on November in Brussels and concluded, approved and confirmed on behalf of the Community by Council Regulation (EEC) No 2760/of December (OJ L 361, p. 60) (‘the Additional Protocol’). The Association Council was set up by the Agreement establishing an Association between the European Economic Community and Turkey, signed in Ankara on September by the Republic of Turkey, of the one part, and by the Member States of the EEC and the Community, of the other part, and concluded, approved and confirmed on behalf of the Community by Council Decision 64/732/EEC of December (OJ C 113, p. 1) (‘the Association Agreement’).
+The request has been made in proceedings between Mr Çoban and the Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen (Management Board of the Employee Insurance Schemes Implementing Body, Netherlands) (‘the Uwv’) concerning the Uwv’s refusal of his application for a supplementary benefit under Netherlands legislation.
+Legal context
+EU law
+The Association Agreement
+The aim of the Association Agreement is, according to Article 2(1) thereof, to promote the continuous and balanced strengthening of trade and economic relations between the contracting parties, while taking full account of the need to ensure an accelerated development of the Turkish economy and to improve the level of employment and the living conditions of the Turkish people.
+The Additional Protocol
+The Additional Protocol contains Title II, entitled ‘Movement of persons and services’, Chapter I of which relates to ‘Workers’.
+Article of the Additional Protocol, which is part of Chapter I of Title II, provides:
+‘1.   Before the end of the first year after the entry into force of this Protocol the Council of Association shall adopt social security measures for workers of Turkish nationality moving within the Community and for their families residing in the Community.
+…
+4.   It must be possible to transfer to Turkey old-age pensions, death benefits and invalidity pensions obtained under the measures adopted pursuant to paragraph 2.’
+…’
+Article of the Additional Protocol, which appears in Title IV thereof, entitled ‘General and final provisions’, is worded as follows:
+‘In the fields covered by this Protocol Turkey shall not receive more favourable treatment than that which Member States grant to one another pursuant to the Treaty establishing the Community.’
+Article of the Additional Protocol provides:
+‘This Protocol and the Annexes thereto shall form an integral part of the [Association Agreement].’
+Decision No 3/Article of Decision No 3/80, entitled ‘Persons covered’, states:
+‘This Decision shall apply:
+–
+to workers who are, or have been, subject to the legislation of one or more Member States and who are Turkish nationals,
+–
+to the members of the families of these workers, resident in the territory of one of the Member States,
+–
+to the survivors of these workers.’
+Article of that decision, entitled ‘Matters covered’, provides:
+‘1.   This Decision shall apply to all legislation concerning the following branches of social security:
+…
+(b)
+invalidity benefits, including those intended for the maintenance or improvement of earning capacity;
+…
+2.   This Decision shall apply to all general and special social security schemes, whether contributory or non-contributory, and to schemes concerning the liability of an employer or shipowner in respect of the benefits referred to in paragraph 1.
+…’
+Article of Decision No 3/80, entitled ‘Waiving of residence clause ...’, states, in the first subparagraph of paragraph thereof:
+‘Save as otherwise provided in this Decision, invalidity, old-age or survivors’ cash benefits and pensions for accidents at work or occupational diseases, acquired under the legislation of one or more Member States, shall not be subject to any reduction, modification, suspension, withdrawal or confiscation by reason of the fact that the recipient resides in Turkey or in the territory of a Member State other than that in which the institution responsible for payment is situated.’
+Regulation No 883/Article of Regulation (EC) No 883/of the European Parliament and of the Council of April on the coordination of social security systems (OJ L 166, p. 1, and corrigendum OJ L 200, p. 1), as amended by Regulation (EC) No 988/of the European Parliament and of the Council of September (OJ L 284, p. 43) (‘Regulation No 883/2004’), entitled ‘Waiving of residence rules’, states:
+‘Unless otherwise provided for by this Regulation, cash benefits payable under the legislation of one or more Member States or under this Regulation shall not be subject to any reduction, amendment, suspension, withdrawal or confiscation on account of the fact that the beneficiary or the members of his/her family reside in a Member State other than that in which the institution responsible for providing benefits is situated.’
+Article of Regulation No 883/provides:
+‘1.   This Article shall apply to special non-contributory cash benefits which are provided under legislation which, because of its personal scope, objectives and/or conditions for entitlement, has characteristics both of the social security legislation referred to in Article 3(1) and of social assistance.
+2.   For the purposes of this Chapter, “special non-contributory cash benefits” means those which:
+…
+(c)
+are listed in Annex X.
+3.   Article and the other chapters of this Title shall not apply to the benefits referred to in paragraph of this Article.
+4.   The benefits referred to in paragraph shall be provided exclusively in the Member State in which the persons concerned reside, in accordance with its legislation. Such benefits shall be provided by and at the expense of the institution of the place of residence.’
+Annex X to that regulation, entitled ‘Special non-contributory cash benefits’, provides, in respect of the Netherlands, the following benefits:
+‘…
+(b)
+Supplementary Benefits Act of November (TW).’
+Directive 2003/Recitals 2, 4, and of Council Directive 2003/109/EC of November concerning the status of third-country nationals who are long-term residents (OJ L 16, p. 44) state:
+‘(2)
+The European Council, at its special meeting in Tampere on and October 1999, stated that the legal status of third-country nationals should be approximated to that of Member States’ nationals and that a person who has resided legally in a Member State for a period of time to be determined and who holds a long-term residence permit should be granted in that Member State a set of uniform rights which are as near as possible to those enjoyed by citizens of the European Union.
+…
+(4)
+The integration of third-country nationals who are long-term residents in the Member States is a key element in promoting economic and social cohesion, a fundamental objective of the Community stated in the Treaty.
+…
+(6)
+The main criterion for acquiring the status of long-term resident should be the duration of residence in the territory of a Member State. Residence should be both legal and continuous in order to show that the person has put down roots in the country. Provision should be made for a degree of flexibility so that account can be taken of circumstances in which a person might have to leave the territory on a temporary basis.
+…
+(12)
+In order to constitute a genuine instrument for the integration of long-term residents into society in which they live, long-term residents should enjoy equality of treatment with citizens of the Member State in a wide range of economic and social matters, under the relevant conditions defined by this Directive.’
+Article of that directive provides:
+‘This Directive determines:
+(a)
+the terms for conferring and withdrawing long-term resident status granted by a Member State in relation to third-country nationals legally residing in its territory, and the rights pertaining thereto; and
+(b)
+the terms of residence in Member States other than the one which conferred long-term status on them for third-country nationals enjoying that status.’
+Article of Directive 2003/provides:
+‘1.   The status as long-term resident shall be permanent, subject to Article 9.
+2.   Member States shall issue a long-term resident’s [EU] residence permit to long-term residents. The permit shall be valid at least for five years; it shall, upon application if required, be automatically renewable on expiry.
+…’
+Netherlands law
+Article 4a of the Toeslagenwet (Supplementary Benefits Act) of November (Stb. 1986, No 567), in the version applicable to the facts in the main proceedings ( ‘the TW’), provided:
+‘1.   The person referred to in Article shall not be entitled to a supplementary benefit during the period in which he does not reside in the Netherlands.
+2.   The person referred to in Article 2, who is not entitled to a supplementary benefit under the first paragraph, shall be entitled to that supplementary benefit from the date on which he resides in the Netherlands if he meets the conditions referred to in Article 2(1), (2) or (3).’
+Article 8(1) of the Remigratiewet (Law on Remigration) of April (Stb. 1999, No 232), provides:
+‘Persons who have remigrated pursuant to this Law may return to the Netherlands within one year after the point in time at which they settled in the country of destination.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Mr Çoban is a Turkish national who was in paid employment in the Netherlands for a certain period.
+On September 2006, Mr Çoban stopped working due to illness.
+Since December 2006, he has held a long-term resident’s EU residence permit issued in accordance with the provisions of Directive 2003/109.
+From September 2008, the Uwv awarded Mr Çoban a benefit under the Wet werk en inkomen naar arbeidsvermogen (Law on Work and Income — Employment Capacity) of November (Stb. 2005, No 572), calculated on the basis of an incapacity for work of 45% to 55%. Moreover, the Uwv also awarded Mr Çoban a supplementary benefit in the form of an extra allowance to ensure that he would have a minimum income, pursuant to the TW.
+On February 2014, Mr Çoban informed the Uwv of his intention to return to Turkey as of April 2014. By decision of February 2014, the Uwv withdrew, with effect from April 2014, the supplementary benefit previously awarded to Mr Çoban.
+In the context of his departure to Turkey, Mr Çoban, at his request, obtained remigration benefits from the Netherlands authorities. On March 2014, Mr Çoban returned to Turkey. It is evident from the order for reference that, on March 2014, he still held a long-term resident’s EU residence permit.
+On July 2014, Mr Çoban reapplied to the Uwv, from Turkey, for the supplementary benefit. According to the referring court, that new application sought to regain the supplementary benefit withdrawn by the Uwv on February 2014.
+By decision of August 2014, the Uwv rejected that application.
+Mr Çoban lodged an objection to that decision before the Uwv, which, by decision of October 2014, confirmed the rejection of the application for a supplementary benefit on the basis of Article 4a of the TW, according to which only persons who reside in the Netherlands are entitled to such a benefit.
+The applicant in the main proceedings brought an action against the Uwv’s decision of October before the rechtbank Amsterdam (Amsterdam District Court, Netherlands).
+By judgment of June 2015, that court dismissed the action on the ground, in particular, that Mr Çoban was not in a situation comparable to that of the Turkish nationals concerned in the case which gave rise to the judgment of May 2011, Akdas and Others (C‑485/07, EU:C:2011:346).
+Mr Çoban filed an appeal against that judgment before the Centrale Raad van Beroep (Higher Social Security and Civil Service Court, Netherlands).
+The referring court points out that Mr Çoban left the legitimate labour force of the Netherlands for good at some stage after the onset of his incapacity for work, with the result that he has lost his right of residence in that Member State under the Association Agreement. In so far as that situation places him in a comparable situation to that of the Turkish nationals concerned in the case which gave rise to the judgment of May 2011, Akdas and Others (C‑485/07, EU:C:2011:346), Mr Çoban should, in principle, be entitled to invoke the right to export the supplementary benefit at issue in the main proceedings on the basis of the first subparagraph of Article 6(1) of Decision No 3/80.
+However, the referring court states that, unlike the Turkish nationals concerned in that case, Mr Çoban left the Netherlands on his own initiative. According to that court, the applicant in the main proceedings held long-term resident status, within the meaning of Directive 2003/109, in that Member State at the time of his return to Turkey. Moreover, he was entitled, under the Law on Remigration, to return to that Member State within one year of his departure.
+Mr Çoban’s situation thus also has similarities with that of the Turkish nationals concerned in the case which gave rise to the judgment of January 2015, Demirci and Others (C‑171/13, EU:C:2015:8).
+Therefore, the referring court queries whether, in the light of the case-law resulting from the judgments of May 2011, Akdas and Others (C‑485/07, EU:C:2011:346), and of January 2015, Demirci and Others (C‑171/13, EU:C:2015:8), for the purposes of applying Article of the Additional Protocol, Mr Çoban’s situation may usefully be compared to that of EU citizens, who cannot export a benefit such as that at issue in the main proceedings.
+In those circumstances, the Centrale Raad van Beroep (Higher Social Security and Civil Service Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘[(1)]
+Must [the first subparagraph of] Article 6(1) of Decision No 3/80, having regard to Article of the Additional Protocol, be interpreted as precluding a legislative provision of a Member State such as Article 4a of the [TW], under which a supplementary benefit which has been awarded is withdrawn if the beneficiary moves to Turkey, even if that beneficiary left the territory of the Member State on his own initiative?
+[(2)]
+Is it significant in this regard that, at the time of departure, the person concerned no longer has a right of residence under [the Association Agreement], but does hold a long-term resident’s EU residence permit [based on Directive 2003/109]?
+[(3)]
+Is it significant in this regard that the person concerned has the opportunity, under national rules, to return within a year of his departure in order to regain the supplementary benefit, and that this possibility continues for as long as he holds a long-term resident’s EU residence permit [based on that directive]?’
+Consideration of the questions referred
+By its questions, which it is appropriate to examine together, the referring court asks, in essence, whether the first subparagraph of Article 6(1) of Decision No 3/80, in conjunction with Article of the Additional Protocol, must be interpreted as precluding a national provision, such as that at issue in the main proceedings, which withdraws a supplementary benefit from a Turkish national who returns to his country of origin and who holds, at the date of his departure from the host Member State, long-term resident status, within the meaning of Directive 2003/109.
+In that regard, it should be noted that Decision No 3/seeks to coordinate the Member States’ social security schemes with a view to enabling Turkish workers employed or formerly employed in the Union, members of their families and their survivors to qualify for benefits in the traditional branches of social security (judgment of September 1996, Taflan-Met and Others, C‑277/94, EU:C:1996:315, paragraph 26).
+According to Article of Decision No 3/80, that decision is to apply, in particular, to Turkish workers who are, or have been, subject to the legislation of one or more Member States.
+As regards the material scope of Decision No 3/80, it is evident from Article 4(1) and (2) thereof that the decision is to apply to all legislation concerning the branches of social security that cover, inter alia, invalidity benefits, including those intended for the maintenance or improvement of earning capacity, and to all general and special social security schemes, whether contributory or non-contributory.
+In the present case, it is not disputed that Mr Çoban receives an invalidity pension provided for by the Netherlands social security legislation and that the supplementary benefit at issue in the main proceedings is intended to increase that pension in order to ensure that he has a minimum income. Consequently, that benefit must be treated as an invalidity benefit, within the meaning of Article 4(1)(b) of Decision No 3/80.
+Therefore, Decision No 3/is applicable to a situation such as that in the main proceedings.
+The first subparagraph of Article 6(1) of Decision No 3/80, which gives effect to Article 39(4) of the Additional Protocol, enshrines the right of Turkish workers to retain, in Turkey or in the territory of a Member State other than that in which the institution responsible for payment is situated, invalidity, old-age or survivors’ cash benefits and pensions for accidents at work or occupational diseases, acquired under the legislation of one or more Member States.
+Decision No 3/neither makes any exception to nor imposes any restriction on the waiving of residence clauses set out in the first subparagraph of Article 6(1) thereof (judgment of May 2011, Akdas and Others, C‑485/07, EU:C:2011:346, paragraph 80).
+In the present case, the Uwv, by decision of February 2014, withdrew the supplementary benefit at issue in the main proceedings with effect from April 2014, on the ground that Mr Çoban had informed it of his intention to return to Turkey on the latter date. On July 2014, Mr Çoban then reapplied, from Turkey, for a supplementary benefit in order, according to the information provided by the referring court, to reinstate the benefit withdrawn by the Uwv.
+In so far as that application made by the applicant in the main proceedings seeks, according to the referring court, to reinstate the right to a supplementary benefit acquired under the TW, it must be concluded, as the Advocate General stated, in essence, in points to of her Opinion, that Mr Çoban relies, in the main proceedings, on the right to an invalidity benefit acquired under the legislation of a Member State, in accordance with the first subparagraph of Article 6(1) of Decision No 3/80.
+In those circumstances, Mr Çoban’s situation comes within the scope of that provision.
+However, it must be noted that the supplementary benefit at issue in the main proceedings constitutes, by virtue of the TW’s entry in Annex X to Regulation No 883/2004, a ‘special non-contributory cash benefit’, within the meaning of Article 70(2) of that regulation.
+In accordance with Article 70(3) of Regulation No 883/2004, the principle of the waiving of residence rules provided for by Article of that regulation is not applicable to such benefits. By virtue of Article 70(4) of that regulation, those benefits are to be provided exclusively in the Member State in which the persons concerned reside, in accordance with its legislation.
+It follows that EU citizens coming within the scope of Regulation No 883/are entitled to a special non-contributory cash benefit, such as the supplementary benefit at issue in the main proceedings, only in so far as they reside in the Member State which granted it.
+Therefore, EU citizens are required to reside in the territory of the Kingdom of the Netherlands as prescribed by Article 4a of the TW in order to be entitled to a supplementary benefit under that legislation.
+It should be recalled that Article of the Additional Protocol provides that, in the fields covered by that protocol, Turkey is not to receive more favourable treatment than that which Member States grant to one another pursuant to the Treaty establishing the Community.
+The Additional Protocol covers, inter alia, as provided in Title II thereof, movement of persons and services and, in particular, the social security measures for workers of Turkish nationality moving within the Union, which are included in Decision No 3/80.
+It is therefore appropriate to consider, in the light of Article of that protocol, whether the fact that a Turkish national, such as Mr Çoban, can retain, on the basis of the first subparagraph of Article 6(1) of Decision No 3/80, the right to a supplementary benefit, such as that at issue in the main proceedings, after having relocated to Turkey, whereas EU citizens are subject to the requirement of residence imposed by Article 4a of the TW in order to be entitled to enjoy such a right, would lead to that Turkish national being treated more favourably than EU citizens in a comparable situation.
+In that regard, the Court has held, in paragraph of the judgment of May 2011, Akdas and Others (C‑485/07, EU:C:2011:346), that the situation of former Turkish workers, who returned to Turkey after having lost their right to remain in the host Member State because they became incapacitated in that Member State, cannot, for the purposes of applying Article of the Additional Protocol, usefully be compared to that of EU nationals inasmuch as the latter, who are entitled to move around and reside in the territory of the Member States and retain their right of residence in the Member State which awarded the benefit in question, first, can choose to leave the territory of that State and, for that reason, lose that benefit and, secondly, have the right to return at any time to the Member State concerned.
+In the present case, Mr Çoban’s situation cannot be compared to that of the Turkish nationals concerned in the case which gave rise to that judgment, since, at the date of his departure from the Netherlands to Turkey, Mr Çoban had not lost his right to remain in that Member State.
+It is clear from the file submitted to the Court that, at that date, Mr Çoban held long-term resident status in the Netherlands, within the meaning of Directive 2003/109.
+It should be recalled that, by virtue of Article of Directive 2003/109, the status as long-term resident is to be permanent, subject to the provisions of Article of that directive, concerning the withdrawal or the loss of that status.
+Additionally, as is apparent from recitals 4, and of Directive 2003/109, the principal objective of that directive is the integration of third-country nationals who are long-term residents in the Member States. Similarly, as is clear from recital the directive seeks, by granting the status of long-term resident to such third-country nationals, to approximate the legal status of third-country nationals to that of Member States’ nationals (judgment of October 2012, Singh, C‑502/10, EU:C:2012:636, paragraph 45).
+Therefore, by virtue of that status, Mr Çoban was in a position, at the date of his departure from the Netherlands to Turkey, to fulfil the requirement of residence in the territory of that Member State prescribed by the TW in order to be entitled to the supplementary benefit at issue in the main proceedings, as in the case of an EU citizen residing in the Netherlands.
+It follows that, for the purposes of applying Article of the Additional Protocol, Mr Çoban’s situation must be regarded as being comparable to that of an EU citizen residing in the Netherlands who has acquired the right to a supplementary benefit on the basis of the TW.
+In those circumstances, the fact that a Turkish national, such as Mr Çoban, can retain, on the basis of the first subparagraph of Article 6(1) of Decision No 3/80, the right to a supplementary benefit, such as that at issue in the main proceedings, after having relocated to Turkey, whereas EU citizens are subject to the requirement of residence imposed by Article 4a of the TW in order to enjoy such a right, would lead to that Turkish national being treated more favourably than EU citizens in a comparable situation, which would be incompatible with the requirements of Article of the Additional Protocol.
+In the light of the foregoing, the answer to the questions referred is that the first subparagraph of Article 6(1) of Decision No 3/80, in conjunction with Article of the Additional Protocol, must be interpreted as not precluding a national provision, such as that at issue in the main proceedings, which withdraws a supplementary benefit from a Turkish national who returns to his country of origin and who holds, at the date of his departure from the host Member State, long-term resident status, within the meaning of Directive 2003/109.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+The first subparagraph of Article 6(1) of Decision No 3/of the Association Council of September on the application of the social security schemes of the Member States of the European Communities to Turkish workers and members of their families, in conjunction with Article of the Additional Protocol, signed on November in Brussels and concluded, approved and confirmed on behalf of the Community by Council Regulation (EEC) No 2760/of December 1972, must be interpreted as not precluding a national provision, such as that at issue in the main proceedings, which withdraws a supplementary benefit from a Turkish national who returns to his country of origin and who holds, at the date of his departure from the host Member State, long-term resident status, within the meaning of Council Directive 2003/109/EC of November concerning the status of third-country nationals who are long-term residents.
+ 
+[Signatures]
+(
+*)	Language of the case: Dutch.
+Top  

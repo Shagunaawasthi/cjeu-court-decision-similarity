@@ -1,0 +1,137 @@
+
+JUDGMENT OF THE COURT (Sixth Chamber)
+June (
+*)
+(References for a preliminary ruling — Common system of value added tax (VAT) — Right to deduct input tax — Material conditions governing the right to deduct — Actual delivery of the goods)
+In Joined Cases C‑459/and C‑460/17,
+TWO REQUESTS for a preliminary ruling under Article TFEU from the Conseil d’État (Council of State, France), made by decisions of July 2017, received at the Court on July 2017, in the proceedings
+SGI (C‑459/17),
+Valériane SNC (C‑460/17)
+v
+Ministre de l’Action et des Comptes publics,
+THE COURT (Sixth Chamber),
+composed of C.G. Fernlund (Rapporteur), President of the Chamber, J.-C. Bonichot and E. Regan, Judges,
+Advocate General: P. Mengozzi,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+SGI and Valériane, by L. Boré, avocat
+–
+the French Government, by D. Colas and by E. de Moustier and A. Alidière, acting as Agents,
+–
+the Italian Government, by G. Palmieri, acting as Agent, and P. Gentili, avvocato dello Stato,
+–
+the European Commission, by N. Gossement and J. Jokubauskaitė, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+These requests for a preliminary ruling concern the interpretation of Article of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1), as amended by Council Directive 91/680/EEC of December (OJ L 376, p. 1) (‘the Sixth Directive’).
+The requests have been made in two sets of proceedings between, SGI (C‑459/17) and Valériane SNC (C‑460/17), respectively, and, the Ministre de l’Action et des Comptes publics (Minister for Public Action and Accounts, France) concerning the right to deduct of value added tax (VAT) for transactions relating to the purchase of equipment.
+Legal context
+EU law
+Article of the Sixth Directive provides:
+‘The following shall be subject to value added tax:
+1.
+the supply of goods or services effected for consideration within the territory of the country by a taxable person acting as such;
+2.
+the importation of goods.’
+According to Article of the Directive:
+‘(1)   For the purposes of this Directive:
+–
+“territory of a Member State” shall mean the territory of the country as defined in respect of each Member State in paragraphs and 3,
+–
+“Community” and “territory of the Community” shall mean the territory of the Member States as defined in respect of each Member State in paragraphs and 3;
+…
+(2)   For the purposes of this Directive, the “territory of the country” shall be the area of application of the Treaty establishing the European Economic Community as defined in respect of each Member State in Article 227.
+(3)   The following territories of individual Member States shall be excluded from the territory of the country:
+…
+–
+French Republic:
+the overseas departments,
+…’
+Under Article 5(1) of the Sixth Directive, ‘‘Supply of goods’ shall mean the transfer of the right to dispose of tangible property as owner’.
+Article 10(1) and (2) of that directive provides:
+‘1.   
+(a)
+“chargeable event” shall mean the occurrence by virtue of which the legal conditions necessary for VAT to become chargeable are fulfilled.
+(b)
+The tax becomes “chargeable” when the tax authority becomes entitled under the law at a given moment to claim the tax from the person liable to pay, notwithstanding that the time of payment may be deferred.
+2.   The chargeable event shall occur and the tax shall become chargeable when the goods are delivered or the services are performed …
+…’
+Article 17(1) and (2) of the Sixth Directive provides:
+‘1.   A right to deduct shall arise at the time the deductible tax becomes chargeable.
+2.   In so far as the goods and services are used for the purposes of his taxable transactions, the taxable person shall be entitled to deduct from the tax which he is liable to pay:
+(a)
+value added tax due or paid in respect of goods or services supplied or to be supplied to him by another taxable person;
+…’
+French law
+Article undecies B of the code général des impôts (General Tax Code), in the version applicable to the disputes in the main proceedings (‘the CGI’), provides:
+‘Taxpayers domiciled in France within the meaning of Article 4B may benefit from a reduction of tax on income from new productive investments in overseas departments, Saint Pierre and Miquelon, Mayotte, New Caledonia, French Polynesia, the Wallis and Futuna Islands and the French Southern and Antarctic Lands, in the context of an undertaking carrying out an agricultural activity or an industrial, commercial or artisanal activity coming within the scope of Article 34.
+…
+The provisions of the first paragraph apply to investments made by a company subject to the tax regime set out in Article or an association referred to in Articles quater or quater C, the shares in which are held … by taxpayers domiciled in France within the meaning of Article 4B. In such cases, the tax reduction shall be effected by the partners or members in proportion to their shareholding in the company or association.
+…
+The tax reduction referred to in section I shall apply to productive investments made available to an undertaking in the context of a lease …’
+According to Article of the CGI:
+‘I.   1. The value added tax charged on the price elements of a taxable transaction may be deducted from the value added tax applicable to that transaction.
+…
+II.   1. In so far as the goods and services are used for their taxable transactions, and provided that VAT is deductible on those transactions, the tax which the persons liable may deduct is, inter alia:
+(a)
+The tax appearing on invoices drawn up in accordance with the provisions of Article 289, provided that the tax could lawfully appear on such invoices;
+…’
+Paragraph 272(2) of the CGI states:
+‘Value added tax invoiced under the conditions defined in paragraph of Article cannot form the subject of any deduction by the recipient of the invoice.’
+Paragraph 283(4) of the CGI provides:
+‘When an invoice does not correspond to a delivery of goods or to a performance of particular services, or if it refers to a price that does not in reality have to be paid by the purchaser, the tax shall be payable by the person who issued the invoice.’
+According to the referring court, it follows from Article and Article 272(2), as well as Article 283(4) of the CGI that a taxpayer is not entitled to deduct from his VAT liability the VAT appearing on an invoice issued in his name by a person who did not deliver any goods or provide any services to him.
+The dispute in the main proceedings and the question referred for a preliminary ruling
+The activity of SGI and Valériane, companies incorporated under French law with their registered office in Réunion (France), consists of the execution of investments which are eligible for the tax reduction laid down in Article undecies B of the CGI. Under the system set out in that article, those companies carry out purchases of equipment intended to be leased to operators established in Réunion.
+Following an audit of accounts, the tax authorities (France) challenged SGI and Valériane’s right to deduct of the VAT appearing on various invoices for the purchase of equipment on the ground that, inter alia, those invoices did not correspond to any actual delivery. The tax authorities, therefore, issued additional VAT assessments addressed to SGI, for the fourth quarter of and the first two quarters of 2005, and addressed to Valériane, for the third quarter of 2004.
+SGI and Valériane contested those additional VAT assessments before the tribunal administratif de la Réunion (Administrative Court, Réunion, France), which dismissed their actions by two judgments of February 2013, upheld by the cour administrative d’appel de Bordeaux (Administrative Court of Appeal, Bordeaux, France).
+As regards SGI, the cour administrative d’appel de Bordeaux (Administrative Court of Appeal, Bordeaux), after having noted that SGI was claiming that it acted in good faith, pointed out that that company contested neither the fact that numerous transactions had not led to an actual delivery, nor the fact that the deliveries had been late, nor, lastly, the fact that certain transactions had been cancelled and that that company had thus failed to verify whether those economic transactions, which involved considerable sums of money, had actually been carried out. That court concluded that the tax authorities had provided evidence that SGI, as ‘a professional company engaged in reducing overseas tax liability’, could not have been unaware of the fictitious nature of the transactions at issue or the overcharging which featured in some of them.
+As regards Valériane, that court considered that the tax authorities’ audit had made it possible to highlight, first, the failure to deliver and install the equipment at issue and, second, the existence of a certain number of failures on the part of that company, such as the non-payment of the balance of the invoice, the failure to pay in the security deposit and lease payments agreed with the lessee of the equipment and the failure to verify that the equipment actually exists although the lease agreement had been signed even before the equipment was invoiced and delivered.
+Considering that the cour administrative d’appel de Bordeaux (Administrative Court of Appeal, Bordeaux) had erred in law, SGI and Valériane brought an appeal in cassation before the Conseil d’État (Council of State, France) on the basis of the Sixth Directive, as interpreted by the Court.
+In support of its appeal, SGI claims that, in the absence of any serious indication that the economic transactions at issue involved fraud, it was not obliged to verify that those transactions were actually carried out. As for Valériane, it claims that the cour administrative d’appel de Bordeaux (Administrative Court of Appeal, Bordeaux) did not consider whether the tax authorities had adduced the necessary proof that it knew, or ought to have known, that the transaction at issue was connected with VAT fraud.
+According to the referring court, it is true that, by its judgments of January 2013, Stroy trans (C‑642/11, EU:C:2013:54) and of January 2013, LVK (C‑643/11, EU:C:2013:55), the Court ruled that, if, taking account of fraud or irregularities committed by the issuer of an invoice or upstream of the transaction relied upon as the basis for the right to deduct, that transaction is considered not to have been actually carried out, the recipient of an invoice can be denied the right to deduct VAT only if it is established, on the basis of objective factors and without requiring the recipient of the invoice to carry out verifications which are not his responsibility, that he knew, or ought to have known, that the transaction was connected with VAT fraud, this being a matter which is for the referring court to determine.
+However, the referring court notes that those two judgments were delivered in circumstances different to those in the main proceedings, in which the tax authorities relied on irregularities committed by the issuer of the invoice or by one of its suppliers, and in which the question referred related to the consequences, regarding the exercise of the right of the recipient of an invoice to deduct VAT declared by the issuer of that invoice, of the absence of rectification by the tax authorities, in a tax adjustment notice addressed to the issuer of that invoice.
+By contrast, in the cases in the main proceedings, the right to deduct was denied because the goods at issue had not actually been supplied to the companies at issue in the main proceedings. The referring court asks whether, in such circumstances, in order to deny a taxable person the right to deduct VAT, it is sufficient to establish that the goods and services have not actually been supplied to that taxable person, or whether it is also necessary to establish that that taxable person knew, or ought to have known, that the transaction at issue was connected with VAT fraud.
+In those circumstances, the referring court decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Must the provisions of Article of the [Sixth Directive], which have, in essence, been reproduced in Article of [Council] Directive [2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1)] be interpreted as meaning that, in order to refuse a taxable person the right to deduct, from the [VAT] that he is liable to pay by reason of his own transactions, tax levied on invoices corresponding to goods or services that the tax authorities establish have not actually been supplied to the taxable person, it is necessary, in all cases, to examine whether it has been established that that taxable person knew, or ought to have known, that the transaction was connected with [VAT] fraud, regardless of whether that fraud was committed on the initiative of the issuer of the invoice, its recipient or a third party?’
+By decision of the President of the Court of August 2017, Cases C‑459/and C‑460/were joined for the purposes of the written and oral procedure and the judgment.
+Consideration of the question referred
+Admissibility
+It must be noted that the facts at issue in the main proceedings took place in a French overseas department located outside the scope of application of the Sixth Directive, pursuant to Article 3(3) thereof.
+In that regard, it must be noted that the Court has found requests for preliminary rulings to be admissible in cases in which, although the facts of the main proceedings were outside the direct scope of EU law, the provisions of EU law had been made applicable by national legislation, which, in dealing with situations that do not fall within the scope of EU law, had followed the same approach as that provided for by EU law (see, to that effect, judgment of March 2018, Jacob and Lassus, C‑327/and C‑421/16, EU:C:2018:210, paragraph and the case-law cited).
+In those circumstances, it is clearly in the interest of the European Union that, in order to forestall future differences of interpretation, provisions or concepts taken from EU law should be interpreted uniformly, irrespective of the circumstances in which they are to apply (see judgment of March 2018, Jacob and Lassus, C‑327/and C‑421/16, EU:C:2018:210, paragraph 34).
+In the present case, it is apparent from the documents before the Court that Article of the Sixth Directive had also been made directly and unconditionally applicable by French law to the French overseas department at issue in the main proceedings. Therefore, it is clearly in the interest of the European Union that an answer be given to the question referred.
+It follows that the reference for a preliminary ruling is admissible.
+Substance
+By its question, the referring court asks, in essence, whether Article of the Sixth Directive must be interpreted as meaning that, in order to deny a taxable person in receipt of an invoice the right to deduct the VAT appearing on that invoice, it is sufficient that the authorities establish that the transactions covered by that invoice have not actually been carried out or whether those authorities must also establish that taxable person’s lack of good faith.
+As a preliminary point, it must be noted, first, that Directive 2006/112, which entered into force on January 2007, repealed the Sixth Directive without making material changes compared with that earlier directive. Since the relevant provisions of the Sixth Directive essentially have the same scope as those of Directive 2006/112, the case-law of the Court relating to that latter directive also applies to the Sixth Directive.
+Second, it follows from the documents before the Court that, in this case, it is not disputed that SGI, Valériane and the suppliers of the goods at issue are taxable persons, within the meaning of the Sixth Directive.
+Third, the question referred is based on the premiss that the goods at issue in the main proceedings, to which the input VAT relates, have not actually been delivered.
+Article 17(1) of the Sixth Directive provides that the right to deduct arises at the time when the deductible tax becomes chargeable. This takes place, pursuant to Article 10(2) of that directive, when the goods are delivered or the services are performed.
+It follows that, in the VAT system, the right to deduct is connected to the actual delivery of the goods or performance of the services at issue (see, by analogy, order of the President of the Court of July 2013, Menidzherski biznes reshenia, C‑572/11, not published, EU:C:2013:456, paragraph and the case-law cited).
+Conversely, when there is no actual delivery of the goods or performance of the services, no right to deduct may arise.
+From that point of view, the Court has already stated that the exercise of the right to deduct does not extend to a tax which is due solely because it appears on an invoice (see order of the President of the Court of July 2013, Menidzherski biznes reshenia, C‑572/11, not published, EU:C:2013:456, paragraph and the case-law cited).
+The good or bad faith of a taxable person seeking deduction of VAT has no bearing on the question whether there has been a delivery, for the purposes of Article 10(2) of the Sixth Directive. In accordance with the objective of that directive, which aims to establish a common system of VAT based, inter alia, on a uniform definition of taxable transactions, the concept of ‘supply of goods’ in Article 5(1) of that directive is objective in nature and must be interpreted without regard to the purpose or results of the transactions concerned and without it being necessary for the tax authorities to carry out inquiries to determine the intention of the taxable person or for them to take account of the intention of an economic operator other than that taxable person involved in the same chain of supply (see, to that effect, judgment of November 2013, Dixons Retail, C‑494/12, EU:C:2013:758, paragraphs and and the case-law cited).
+In that regard, it must be remembered that it is for the person seeking deduction of VAT to establish that he meets the conditions for eligibility (judgment of September 1996, Enkler, C‑230/94, EU:C:1996:352, paragraph 24).
+It follows that the existence of a right to deduct of VAT is conditional on the corresponding transactions having actually been carried out.
+Furthermore, the principles of legal certainty and equal treatment relied on by SGI and Valériane and the case-law stemming from the judgments of January 2013, Stroy trans (C‑642/11, EU:C:2013:54) and of January 2013, LVK (C‑643/11, EU:C:2013:55), cannot lead to a different conclusion.
+First of all, the principle of legal certainty requires that rules of law be clear and precise and predictable in their effect, so that interested parties can ascertain their position in situations and legal relationships governed by EU law (judgment of January 2013, LVK, C‑643/11, EU:C:2013:55, paragraph 51).
+As regards the tax rules at issue in the main proceedings, there is no reason to assume that the applicants in the main proceedings were not able to effectively ascertain their position with respect to the application of those rules.
+Next, the principle of fiscal neutrality, which reflects the principle of equal treatment, requires that economic operators that carry out the same transactions not be treated differently for the purposes of VAT unless differentiation is objectively justified (see, to that effect, judgment of January 2013, LVK, C‑643/11, EU:C:2013:55, paragraph 55). A taxable person who is denied the right to deduct because of the absence of taxable transactions is not in a comparable situation to a taxable person who has been granted the right to deduct because of the existence of an actual taxable transaction.
+Lastly, it must be stated that the judgments of January 2013, Stroy trans (C‑642/11, EU:C:2013:54) and of January 2013, LVK (C‑643/11, EU:C:2013:55), were delivered in factual circumstances which are substantially different to those of the cases at issue in the main proceedings. Against a background in which it had not been established that the delivery of goods on which the right to deduct of the taxable persons concerned was based had not actually taken place, both those judgments concerned, first, whether the tax authorities could conclude that there were no taxable deliveries on the sole ground that no document had been submitted by the suppliers when the deliveries at issue were made and, second, whether the taxable persons in receipt of those invoices were entitled to rely on the lack of rectifications by the tax authorities for the issuers of contested invoices in order to maintain that the transactions at issue had actually been carried out.
+In the cases at issue in the main proceedings, as set out in paragraph of the present judgment, the question referred is based on the premiss that the goods to which the input VAT relates have not actually been supplied.
+In the light of the foregoing, the answer to the question referred is that Article of the Sixth Directive must be interpreted as meaning that, in order to deny a taxable person in receipt of an invoice the right to deduct the VAT appearing on that invoice, it is sufficient that the authorities establish that the transactions covered by that invoice have not actually been carried out.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Sixth Chamber) hereby rules:
+ 
+Article of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment, as amended by Council Directive 91/680/EEC of December 1991, must be interpreted as meaning that, in order to deny a taxable person in receipt of an invoice the right to deduct the VAT appearing on that invoice, it is sufficient that the authorities establish that the transactions covered by that invoice have not actually been carried out.
+ 
+[Signatures]
+(
+*)	Language of the case: French.
+Top  

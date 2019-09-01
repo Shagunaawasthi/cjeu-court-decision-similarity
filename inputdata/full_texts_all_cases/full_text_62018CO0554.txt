@@ -1,0 +1,57 @@
+
+ORDER OF THE COURT (Eighth Chamber)
+January (*)
+(Appeal — Article of the Court’s Rules of Procedure — EU trade mark — Opposition proceedings — Figurative mark in black and white containing the word elements ‘lion’s head global partners’ — Rejection in part of the application for registration — Dismissal of the appeal)
+In Case C‑554/P,
+APPEAL under Article of the Statute of the Court of Justice of the European Union, brought on August 2018,
+Lion’s Head Global Partners LLP, established in London (United Kingdom), represented by R. Nöske, Rechtsanwalt,
+appellant,
+the other parties to the proceedings being:
+European Union Intellectual Property Office (EUIPO),
+defendant at first instance,
+Lion Capital LLP, established in London (United Kingdom),
+intervener at first instance,
+THE COURT (Eighth Chamber),
+composed of F. Biltgen, President of the Chamber, C.G. Fernlund and L.S. Rossi (Rapporteur), Judges,
+Advocate General: M. Szpunar,
+Registrar: A. Calot Escobar,
+having decided, after hearing the Advocate General, to give a decision by reasoned order, pursuant to Article of the Court’s Rules of Procedure,
+makes the following
+Order
+By its appeal, Lion’s Head Global Partners LLP seeks to have set aside the judgment of the General Court of the European Union of June 2018, Lion’s Head Global Partners v EUIPO — Lion Capital (LION’S HEAD global partners) (T‑310/17, not published, EU:T:2018:344; ‘the judgment under appeal’), by which it dismissed Lion’s Head Global Partners’ action against the decision of the Fourth Board of Appeal of the European Union Intellectual Property Office (EUIPO) of February (Case R 1477/2016-4) relating to opposition proceedings between Lion Capital and Lion’s Head Global Partners, by which the Board of Appeal held that there was a likelihood of confusion, within the meaning of Article 8(1)(b) of Council Regulation (EC) No 207/of February on the European Union trade mark (OJ L 78, p. 1), inter alia as a result of, first, the at least average degree of similarity between the earlier EU word mark LION CAPITAL, registered on March by Lion Capital, and the EU figurative mark Lion’s Head, the registration of which was notified to EUIPO by Lion’s Head Global Partners on April (‘the mark applied for’) and, second, the identity of the services covered by those marks.
+In support of its appeal, the appellant raises a single ground of appeal, alleging infringement of Article 8(1)(b) of Regulation No 207/2009.
+ The appeal
+Under Article of its Rules of Procedure, where the appeal is, in whole or in part, manifestly inadmissible or manifestly unfounded, the Court may at any time, acting on a proposal from the Judge-Rapporteur and after hearing the Advocate General, decide by reasoned order to dismiss that appeal in whole or in part.
+That provision must be applied in the present case.
+On November 2018, the Advocate General took the following position:
+‘1.      I propose that the Court should dismiss the appeal in the present case as being, in part, manifestly inadmissible and, in part, manifestly unfounded, and order the appellant to bear its own costs in accordance with Article of the Rules of Procedure of the Court, for the following reasons.
+2.      By the first part of the single ground of appeal, the appellant appears to challenge the entirety of the analysis undertaken by the General Court in the judgment under appeal, which is summarised mainly in paragraphs 27, and of that judgment. According to the appellant, the General Court should have held, (i) that none of the elements of the sign forming the mark applied for is dominant, (ii) that there are no visual, phonetic or conceptual similarities between the marks at issue, inter alia because, contrary to the view taken by the General Court, the public does not pay greater attention to the beginning of a word element where the mark is perceived as a unit, as is the mark applied for, and, lastly, (iii) that there is no likelihood of confusion between the marks at issue. 
+3.      It must be held that, by those arguments, the appellant seeks to call into question factual assessments. The effect of Article 256(1) TFEU and the first paragraph of Article of the Statute of the Court of Justice of the European Union is that an appeal lies on points of law only and the appraisal of the facts by the General Court does not, save where they are distorted, constitute a point of law which is subject, as such, to review by the Court of Justice on appeal (orders of February 2010, Mergel and Others v OHIM, C‑80/P, not published, EU:C:2010:62, paragraph 25, and of March 2010, Kaul v OHIM, C‑193/P, not published, EU:C:2010:121, paragraph 75).
+4.      More specifically, first, it is settled case-law that contesting the identification of dominant elements of a sign raises a question of fact, not of law (see, to that effect, order of November 2012, Hrbek v OHIM, C‑42/P, not published, EU:C:2012:765, paragraph 65, and judgment of March 2017, Panrico v EUIPO, C‑655/P, not published, EU:C:2017:155, paragraph 68).
+5.      Second, so far as concerns the argument by which the appellant challenges the view of the General Court as regards the existence of visual, phonetic and conceptual similarities between the marks at issue, the appellant merely calls into question the factual assessment made by the General Court, which is not subject to review by the Court of Justice (see, by analogy, order of February 2017, Monster Energy v EUIPO, C‑501/P, not published, EU:C:2017:140, paragraphs and 6).
+6.      Lastly, third, the same is true as regards the argument concerning the likelihood of confusion between the marks at issue, as formulated by the appellant in the context of the first part of the single ground of appeal. It is important to note, in that regard, that by its line of argument, the appellant does not criticise the General Court for having erred in law by failing to take account of the legal principles applicable to the assessment of the likelihood of confusion. The appellant’s argument refers exclusively to factual assessments of the likelihood of confusion based on the General Court’s findings as to the existence of similarity between the marks at issue.
+7.      Since the appellant has not alleged distortion of the facts under the first part of the single ground of appeal, that part is manifestly inadmissible.
+8.      By the second part of the single ground of appeal, the appellant criticises the General Court for not having taken sufficient account of its argument that the mark applied for should be considered as a whole, as a single overall term. The appellant states, highlighting the word elements “lion’s head” of that mark, that that argument relates to the fact that the General Court failed to clarify that neither of those elements is dominant, that they are therefore equivalent and that those elements, taken together, form one whole term. 
+9.      Given that the criticism of the judgment under appeal concerning the assessment of the mark applied for is the subject of the first part of the single plea in law, analysed above, I take the view that, by the second part, the appellant asks the Court of Justice to verify whether the General Court examined the information put before it in a manner consonant with the legal requirements governing the reasons stated for its judgments.
+10.      In that regard I note that the obligation to state reasons owed by the General Court requires it to disclose its reasoning clearly and unequivocally so that the persons concerned can ascertain the reasons for the decision taken and the Court of Justice can exercise its power of review (judgment of July 2018, QuaMa Quality Management v EUIPO, C‑139/P, not published, EU:C:2018:608, paragraph 59).
+11.      In the light of those clarifications, it must be held that the criticism of the judgment under appeal, alleging failure to observe the obligation to state reasons, is unfounded, since the judgment under appeal sets out in detail the General Court’s reasons for finding, first that the word elements of the sign are dominant and, second, that there is a similarity between the marks at issue, particularly because, visually, a certain degree of similarity is caused by the identity of the first part of those marks in the overall impression created by them.
+12.      Following the case-law cited in paragraph of the judgment under appeal, the General Court held, in paragraph of that judgment, that the word elements “lion’s head” had a more distinctive character than the figurative element. The General Court then held, in paragraph of the judgment under appeal, that those word elements, given their distinctive character, their size and their central position in the mark applied for, were dominant.
+13.      Moreover, as regards the equivalence of the word elements of the mark applied for “lion’s head”, the General Court — having referred, in paragraph of the judgment under appeal, to the case-law according to which consumers generally pay greater attention to the beginning of a mark than to the end and the word placed at the beginning of the sign is likely to have a greater impact than the rest of the sign — noted, inter alia, in paragraphs to of that judgment, that that case-law states just one of the criteria for assessing the similarity of the marks at issue and, in any event, cannot call into question the principle that the examination of the similarity of particular trade marks must take into account the overall impression created by them.
+14.      Accordingly, the second part of the single ground of appeal must be rejected as clearly unfounded.
+15.      In the light of the foregoing, I take the view that the single ground of appeal should be rejected and, accordingly, the appeal should be dismissed in its entirety.
+16.      Therefore, I propose that the Court dismiss the appeal, in accordance with Article of the Court’s Rules of Procedure, as, in part, manifestly inadmissible and, in part, manifestly unfounded, and that the appellant be ordered to bear its own costs.’
+For the same reasons as those given by the Advocate General, the appeal must be dismissed as, in part, manifestly inadmissible and, in part, manifestly unfounded.
+ Costs
+Pursuant to Article of the Rules of Procedure, which is applicable to the procedure on appeal pursuant to Article 184(1) thereof, a decision as to costs is to be given in the order which closes the proceedings. Since the present order was adopted before the appeal was served on the other parties to the proceedings and, therefore, before they could have incurred costs, it is appropriate to decide that the appellant is to bear its own costs.
+On those grounds, the Court (Eighth Chamber) hereby orders:
+1.      The appeal is dismissed as, in part, manifestly inadmissible and, in part, manifestly unfounded.
+2.      Lion’s Head Global Partners LLP shall bear its own costs.
+Luxembourg, January 2019.
+A. Calot Escobar
+ 
+F. Biltgen
+Registrar
+ 
+      President of the Eighth Chamber
+*      Language of the case: English.
+Top  

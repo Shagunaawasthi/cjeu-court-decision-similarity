@@ -1,0 +1,250 @@
+
+Case C-463/FBTO Schadeverzekeringen NV
+v
+Jack Odenbreit
+(Reference for a preliminary ruling from the Bundesgerichtshof)
+(Regulation (EC) No 44/– Jurisdiction in matters relating to insurance – Liability insurance – Action brought by the injured party directly against the insurer – Rule of jurisdiction of the courts for the place where the plaintiff is domiciled)
+Judgment of the Court (Second Chamber), December Summary of the Judgment
+Judicial cooperation in civil matters – Jurisdiction and the enforcement of judgments in civil and commercial matters – Regulation
+            No 44/– Jurisdiction in insurance matters 
+(Council Regulation No 44/2001, Arts 9(1)(b) and 11(2))
+The reference in Article 11(2) of Regulation No 44/on jurisdiction and the enforcement of judgments in civil and commercial
+         matters to Article 9(1)(b) of that regulation must be interpreted as permitting the injured party to bring an action directly
+         against the insurer before the courts for the place in a Member State where that injured party is domiciled, provided that
+         a direct action is permitted and the insurer is domiciled in a Member State. Such reference leads to a widening of the scope
+         of the rule of jurisdiction of the courts for the place where the plaintiff is domiciled laid down by Article 9(1)(b) of the
+         said regulation to categories of plaintiff acting against the insurer other than the policy holder, the insured or the beneficiary
+         of the insurance contract, without moreover, the nature of the direct action by the injured party against the insurer in national
+         law being of relevance for such application. That interpretation is also based on the purpose of the regulation, which aims
+         to guarantee more favourable protection to the weaker party than the general rules of jurisdiction laid down by Regulation
+         No 44/provide for.
+      
+(see paras 26, 28, 30-31, operative part)
+  
+  
+JUDGMENT OF THE COURT (Second Chamber)
+December (*)
+      
+(Regulation (EC) No 44/2001– Jurisdiction in matters relating to insurance – Liability insurance – Action brought by the injured party directly against the insurer – Rule of jurisdiction of the courts for the place where the plaintiff is domiciled)
+In Case C‑463/06,
+REFERENCE for a preliminary ruling under Article EC from the Bundesgerichtshof (Germany), made by decision of September
+         2006, received at the Court on November 2006, in the proceedings
+      
+FBTO Schadeverzekeringen NV
+v
+Jack Odenbreit,
+THE COURT (Second Chamber),
+composed of C.W.A. Timmermans, President of the Chamber, J. Makarczyk, P. Kūris, J.-C. Bonichot and C. Toader (Rapporteur),
+         Judges,
+      
+Advocate General: V. Trstenjak,
+Registrar: R. Grass,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–       Mr Odenbreit, by N. Meier-van Laak, Rechtsanwältin,
+–       the German Government, by A. Dittrich and M. Lumma, acting as Agents,
+–       the Italian Government, by I.M. Braguglia, acting as Agent, and by W. Ferrante, avvocato dello Stato,
+–       the Polish Government, by E. Ośniecka-Tamecka, acting as Agent,
+–       the Commission of the European Communities, by W. Bogensberger and A.-M. Rouchaud-Joët, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Articles 9(1)(b) and 11(2) of Council Regulation (EC)
+         No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+         (OJ L 12, p. 1).
+      
+The reference was made in the course of proceedings between Jack Odenbreit, domiciled in Germany, the injured party in a road
+         traffic accident which occurred in the Netherlands, and the insurance company of the person responsible for that accident,
+         the private limited liability company FBTO Schadeverzekeringen NV (‘FBTO’), established in the Netherlands.
+      
+ Legal context of the dispute
+ Regulation No 44/Recital in the preamble to Regulation No 44/states, ‘[i]n relation to insurance … contracts …, the weaker party should
+         be protected by rules of jurisdiction more favourable to his interests than the general rules provide for.’
+      
+The rules of jurisdiction in matters relating to insurance are established in Chapter II, Section 3, of Regulation No 44/2001,
+         which comprises Articles to of that regulation.
+      
+Article 9(1)(a) and (b) of Regulation No 44/provides:
+‘1.      An insurer domiciled in a Member State may be sued: 
+(a)      in the courts of the Member State where he is domiciled, or 
+(b)      in another Member State, in the case of actions brought by the policyholder, the insured or a beneficiary, in the courts for
+         the place where the plaintiff is domiciled ...’
+      
+Article of that regulation states:
+‘1.      In respect of liability insurance, the insurer may also, if the law of the court permits it, be joined in proceedings which
+         the injured party has brought against the insured.
+      
+2.      Articles 8, and shall apply to actions brought by the injured party directly against the insurer, where such direct actions
+         are permitted.
+      
+3.      If the law governing such direct actions provides that the policyholder or the insured may be joined as a party to the action,
+         the same court shall have jurisdiction over them. »
+      
+ Directive 2000/26/EC
+Directive 2000/26/EC of the European Parliament and of the Council of May on the approximation of the laws of the
+         Member States relating to insurance against civil liability in respect of the use of motor vehicles and amending Council Directives
+         73/239/EEC and 88/357/EEC (OJ L 181, p. 65), as amended by Directive 2005/14/EC of the European Parliament and of the
+         Council of May (OJ L 149, p. 14) (‘Directive 2000/26’), provides in Article 3, entitled ‘Direct right of action’:
+         
+      
+‘Each Member State shall ensure that injured parties referred to in Article in accidents within the meaning of that provision
+         enjoy a direct right of action against the insurance undertaking covering the responsible person against civil liability.’
+      
+In addition, Recital 16a in the preamble to Directive 2000/states as follows:
+‘Under Article 11(2) read in conjunction with Article 9(1)(b) of … Regulation … No 44/…, injured parties may bring legal
+         proceedings against the civil liability insurance provider in the Member State in which they are domiciled.’
+      
+ The dispute in the main proceedings and the question referred for a preliminary ruling
+On December Mr Odenbreit was involved in a road traffic accident in the Netherlands with a person insured with FBTO.
+         As the injured party he brought a direct action against the insurer before the Amtsgericht Aachen (Aachen Local Court), which
+         is the court for the place where he is domiciled, on the basis of Articles 11(2) and 9(1)(b) of Regulation No 44/2001.
+      
+By judgment of April that court dismissed the action as inadmissible on account of the lack of jurisdiction of the
+         German courts. Mr Odenbreit brought an appeal against that judgment before the Oberlandesgericht Köln (Higher Regional Court,
+         Cologne). By interlocutory judgment of September that appeal court recognised the jurisdiction of German courts over
+         an action to establish liability, on the basis of the same provisions of Regulation No 44/2001.
+      
+FBTO brought an appeal on a point of law (‘Revision’) against that interlocutory judgment before the Bundesgerichtshof (Federal
+         Court of Justice).   
+      
+As is clear from the order for reference, the interpretation of Articles 11(2) and 9(1)(b) of Regulation No 44/relating
+         to jurisdiction in actions brought by an injured party directly against the insurer is a controversial subject in German legal
+         literature. 
+      
+Thus, according to the prevailing view, such direct actions are not matters relating to insurance within the meaning of Article
+         et seq. of Regulation No 44/2001, since the right of action of the injured party in German private international law is
+         regarded as a right in tort and not as a right under an insurance contract. According to that interpretation, Article 9(1)(b)
+         of the regulation covers only matters relating to the insurance policy, in the strict sense, and the concept of ‘beneficiary’
+         appearing in that provision does not include the injured party. The latter cannot become a main party to the proceedings under
+         Article 11(2) of the regulation. Against that academic opinion it is argued that, on account of the reference to Article of Regulation No 44/in Article 11(2) of Regulation No 44/2001, the courts for the place where the injured party is domiciled
+         has jurisdiction to hear an action brought by the injured party directly against a liability insurance provider.
+      
+The Bundesgerichtshof shares that latter interpretation. In its view, there are cogent grounds for allowing an injured party
+         to bring an action directly against the insurer before the courts for the place where that injured party is domiciled.
+      
+However, taking into account the differences in academic interpretation of those provisions of Regulation No 44/2001, the
+         Bundesgerichtshof decided to stay proceedings and to refer to the Court the following question for a preliminary ruling:
+      
+‘Is the reference to Article 9(1)(b) in Article 11(2) of … Regulation … No 44/… to be understood as meaning that the
+         injured party may bring an action directly against the insurer in the courts for the place in a Member State where the injured
+         party is domiciled, provided that such a direct action is permitted and the insurer is domiciled in a Member State?’
+      
+ The question referred for a preliminary ruling
+ Observations submitted to the Court
+The defendant in the main proceedings, all the Member States which submitted observations to the Court and the Commission
+         of the European Communities consider that the reference made in Article 11(2) of Regulation No 44/to Article 9(1)(b)
+         of that regulation should be interpreted as meaning that an injured party can bring an action directly against an insurer
+         in the courts for the place where he is domiciled, provided that such a direct action is permitted and the insurer is domiciled
+         in a Member State. 
+      
+On the basis of a literal interpretation of the provisions of Regulation No 44/2001, the German Government and the Commission
+         submit that, in so far as the reference in Article 11(2) of Regulation No 44/makes all the content of Article 9(1)(b)
+         of that regulation applicable to actions brought by an injured party, it is not necessary for the latter to be mentioned in
+         the article referred to, since otherwise the reference made by Article 11(2) would be superfluous. On the basis of the same
+         interpretation, the Polish Government considers, by contrast, that the injured party must be classified as a ‘beneficiary’
+         within the meaning of Article 9(1)(b) of that regulation. When the contract of insurance is concluded, the potential injured
+         party to whom compensation would be paid if the event for which the contract was entered into occurred is unknown. The injured
+         party cannot therefore be named in it as a beneficiary.
+      
+The defendant in the main proceedings, all the Member States which submitted observations to the Court and the Commission
+         maintain that the provisions of Regulation No 44/on jurisdiction in matters relating to insurance reflect the need to
+         protect the economically weaker party, a principle of interpretation which is set out in Recital in the preamble to that
+         regulation and established in the case-law of the Court (Case 201/Gerling Konzern Speziale Kreditversicherung and Others [1983] ECR 2503, Case C-412/Group Josi [2000] ECR I-5925, paragraph 64, and Case C-112/Société financière et industrielle de Peloux [2005] ECR I-3707, paragraph 30). The very aim of Article 11(2) is therefore to extend to the injured party the arrangements
+         provided for the benefit of plaintiffs by Article 9(1)(b) of that regulation. 
+      
+In that regard, the German Government and the Commission submit that the inclusion of Article 11(2) in Regulation No 44/shows the intention of the Community legislature, in accordance with the Commission’s proposal, to give greater protection
+         than that provided for by the Convention, of September on jurisdiction and the enforcement of judgments in civil and
+         commercial matters (OJ L 304, p. 36) (‘the Brussels Convention’).
+      
+Finally, the defendant in the main proceedings, all the Member States which submitted observations to the Court and the Commission
+         state that such an interpretation is confirmed by Directive 2000/and particularly by Recital 16a in the preamble to that
+         directive. In inserting that recital, after Regulation No 44/was adopted, the Community legislature did not prescribe
+         a binding interpretation of the provisions of that regulation, but provided an argument of considerable force in favour of
+         recognising the jurisdiction of the courts for the place where the injured party is domiciled.
+      
+ Reply of the Court
+It should be recalled, at the outset, that Section of Chapter II of Regulation No 44/2001, containing Articles to 14,
+         provides rules of jurisdiction in matters relating to insurance, which are additional to the general rules contained in Section
+         of the same chapter of that regulation.
+      
+Section lays down a number of rules of jurisdiction in relation to actions brought against an insurer. It provides, inter
+         alia, that an insurer, domiciled in a Member State may be sued in the courts of the Member State where it is domiciled [Article
+         9(1)(a)], in the courts for the place where the plaintiff is domiciled if the action is brought by the policy holder, the
+         insured or a beneficiary [Article 9(1)(b)] and, finally, in the courts for the place where the harmful event occurred, in
+         respect of liability insurance or insurance of immovable property (Article 10).
+      
+As regards liability insurance, Article 11(2) of Regulation No 44/refers back to those rules of jurisdiction in the case
+         of actions brought by the injured party directly against the insurer.
+      
+Therefore, in order to reply to the question referred by the national court, it is necessary to define the scope of the reference
+         made in Article 11(2) of Regulation No 44/to Article 9(1)(b) of that regulation. It is necessary, in particular, to establish
+         whether that reference should be interpreted as recognising only those courts designated in the latter provision, that is,
+         those of the place of domicile of the policy holder, of the insured or of a beneficiary, as having jurisdiction to hear a
+         direct action brought by the injured party against the insurer, or whether that reference allows the rule of jurisdiction
+         of the courts for the place where the plaintiff is domiciled, set out in Article 9(1)(b) of Regulation No 44/2001, to be applied
+         to that action.
+      
+It is necessary to point out, in that regard, that Article 9(1)(b) does not merely attribute jurisdiction to the courts for
+         the place where the persons listed therein are domiciled, but, on the contrary, it lays down that the courts for the place
+         where the plaintiff is domiciled have jurisdiction, thereby giving such persons the option of suing the insurer before the
+         courts for the place of their own domicile. 
+      
+Thus, to interpret the reference in Article 11(2) of Regulation No 44/to Article 9(1)(b) of that regulation as permitting
+         the injured party to bring proceedings only before the courts having jurisdiction under that latter provision, that is to
+         say, the courts for the place of domicile of the policy holder, the insured or the beneficiary, would run counter to the actual
+         wording of Article 11(2). The reference leads to a widening of the scope of that rule to categories of plaintiff other than
+         the policy holder, the insured or the beneficiary of the insurance contract who sue the insurer. Thus, the role of that reference
+         is to add injured parties to the list of plaintiffs contained in Article 9(1)(b).
+      
+In that regard, the application of that rule of jurisdiction to a direct action brought by the injured party cannot depend
+         upon the classification of that injured party as a ‘beneficiary’ within the meaning of Article 9(1)(b) of Regulation No 44/2001,
+         since the reference to that provision in Article 11(2) thereof allows that rule of jurisdiction to be extended to such disputes
+         without the plaintiff having to belong to one of categories in Article 9(1)(b).
+      
+That line of reasoning is also based on a teleological interpretation of the provisions at issue in the main proceedings.
+         According to Recital in the preamble to Regulation No 44/2001, the regulation aims to guarantee more favourable protection
+         to the weaker party than the general rules of jurisdiction provide for (see, to that effect, Group Josi, paragraph 64, Société financière et industrielle du Peloux, paragraph 40, and Case C-77/GIE Réunion européenneand Others [2005] ECR I-4509, paragraph 17). To deny the injured party the right to bring an action before the courts for the place of
+         his own domicile would deprive him of the same protection as that afforded by the regulation to other parties regarded as
+         weak in disputes in matters relating to insurance and would thus be contrary to the spirit of the regulation. Moreover, as
+         the Commission correctly observes, Regulation No 44/strengthened such protection as compared with the protection resulting
+         from application of the Brussels Convention.
+      
+Such an interpretation is supported by the wording of Directive 2000/on matters relating to insurance against civil liability
+         in respect of the use of motor vehicles, as amended – after the entry into force of Regulation No 44/– by Directive 2005/14.
+         In Directive 2000/the Community legislature not only provided, in Article 3, that injured parties should have a direct
+         right of action against the insurance undertaking in the legal systems of the Member States, but also referred expressly,
+         in Recital 16a to Articles 9(1)(b) and 11(2) of Regulation No 44/in mentioning the right of injured parties to bring
+         proceedings against the insurer in the courts for the place where they are domiciled. 
+      
+As regards the consequences of allowing an injured party to bring a direct action against the insurer which, as is clear from
+         the order for reference, is a controversial subject in Germany, it is necessary to point out that the application of the rule
+         of jurisdiction provided for by Article 9(1)(b) of Regulation No 44/to such an action is not precluded by the latter’s
+         classification, in national law, as an action in tort relating to a right extrinsic to legal relations of a contractual nature.
+         The nature of that action in national law is of no relevance for the application of the provisions of the regulation, since
+         those rules of jurisdiction are contained in a section (namely Section of Chapter II of the regulation) which concerns,
+         in general, matters relating to insurance and is distinct from those relating to special jurisdiction in matters relating
+         to a contract or to tort or delict (namely Section of that chapter). The only condition which Article 11(2) of Regulation
+         No 44/lays down for the application of that rule of jurisdiction is that such a direct action must be permitted under
+         the national law.
+      
+In light of all the foregoing considerations the reply to the question referred for a preliminary ruling must be that the
+         reference in Article 11(2) of Regulation No 44/to Article 9(1)(b) of that regulation is to be interpreted as meaning
+         that the injured party may bring an action directly against the insurer before the courts for the place in a Member State
+         where that injured party is domiciled, provided that a direct action is permitted and the insurer is domiciled in a Member
+         State.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Second Chamber) hereby rules:
+The reference in Article 11(2) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition
+            and enforcement of judgments in civil and commercial matters to Article 9(1)(b) of that regulation is to be interpreted as
+            meaning that the injured party may bring an action directly against the insurer before the courts for the place in a Member
+            State where that injured party is domiciled, provided that such a direct action is permitted and the insurer is domiciled
+            in a Member State.
+[Signatures]
+* Language of the case: German.
+      
+Top  

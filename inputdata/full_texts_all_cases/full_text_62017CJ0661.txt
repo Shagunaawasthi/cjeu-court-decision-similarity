@@ -1,0 +1,252 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+January (
+*)
+[Text rectified by order of March 2019]
+(Reference for a preliminary ruling — Asylum policy — Criteria and mechanisms for determining the Member State responsible for examining an application for international protection — Regulation (EU) No 604/— Discretionary clauses — Assessment criteria)
+In Case C‑661/17,
+REQUEST for a preliminary ruling under Article TFEU from the High Court (Ireland), made by decision of November 2017, received at the Court on November 2017, in the proceedings
+M.A.,
+S.A.,
+A.Z.
+v
+International Protection Appeals Tribunal,
+Minister for Justice and Equality,
+Attorney General,
+Ireland,
+THE COURT (First Chamber),
+composed of R. Silva de Lapuerta, Vice-President of the Court, acting as President of the First Chamber, J.-C. Bonichot, A. Arabadjiev, E. Regan and C.G. Fernlund (Rapporteur), Judges,
+Advocate General: E. Tanchev,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+M.A., S.A. and A.Z., by M. de Blacam, Senior Counsel, and G. O’Halloran, Barrister-at-Law,
+–
+[as rectified by order of March 2019] Ireland, by M. Browne, G. Hodge and A. Joyce, acting as Agents, and by S.‑J. Hillery, Barrister-at-Law, and D. Conlan Smyth, Senior Counsel,
+–
+the German Government, by T. Henze and R. Kanitz, acting as Agents,
+–
+the Netherlands Government, by J. Hoogveld and M.K. Bulterman, acting as Agents,
+–
+the United Kingdom Government, by C. Brodie, S. Brandon and D. Blundell, acting as Agents, and by J. Holmes QC,
+–
+the European Commission, by M. Wilderspin and M. Condou-Durande, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles and 17, Article 20(3) and Article 27(1) of Regulation (EU) No 604/of the European Parliament and of the Council of June establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection lodged in one of the Member States by a third-country national or a stateless person (OJ L 180, p. 31, ‘the Dublin III Regulation’).
+The request has been made in proceedings between M.A., S.A. and A.Z. and the International Protection Appeals Tribunal (Ireland), the Minister for Justice and Equality (Ireland), the Attorney General (Ireland), and Ireland, concerning the decision to transfer them under the Dublin III Regulation.
+Legal context
+International law
+The Geneva Convention
+The Convention relating to the Status of Refugees, signed in Geneva on July (United Nations Treaty Series, Vol. 189, p. 150, No (1954), ‘the Geneva Convention’), entered into force on April 1954. It was supplemented by the Protocol relating to the Status of Refugees, concluded in New York on January (‘the Protocol’), which itself entered into force on October 1967.
+All the Member States of the European Union are contracting parties to the Geneva Convention and to the Protocol, as are the Republic of Iceland, the Principality of Liechtenstein, the Kingdom of Norway and the Swiss Confederation. The European Union is not a contracting party to the Geneva Convention or to the Protocol, but Article TFEU and Article of the Charter of Fundamental Rights of the European Union (‘the Charter’) provide that the right of asylum is to be guaranteed, inter alia, with due respect for that convention and that protocol.
+The ECHR
+The European Convention for the Protection of Human Rights and Fundamental Freedoms, signed in Rome on November (‘the ECHR’) is a multilateral international agreement concluded in the Council of Europe, which entered into force on September 1953. All the members of the Council of Europe, which all the Member States of European Union are part of, are among the High Contracting Parties to that convention.
+Article ECHR states that ‘no one shall be subjected to torture or to inhuman or degrading treatment or punishment’.
+European Union law
+The Charter
+Article of the Charter provides:
+‘No one shall be subjected to torture or to inhuman or degrading treatment or punishment.’
+The first paragraph of Article of the Charter provides:
+‘Everyone whose rights and freedoms guaranteed by the law of the Union are violated has the right to an effective remedy before a tribunal in compliance with the conditions laid down in this Article.’
+Article 52(3) of the Charter provides:
+‘In so far as this Charter contains rights which correspond to rights guaranteed by the [ECHR], the meaning and scope of those rights shall be the same as those laid down by the said Convention. This provision shall not prevent Union law providing more extensive protection.’
+The Dublin III Regulation
+As a preliminary point, it should be recalled that the Treaty of Amsterdam of October introduced Article into the EC Treaty, which conferred competence on the European Community to adopt the measures recommended by the European Council, at its special meeting in Tampere (Finland) on and October 1999, relating to the establishment of a Common European Asylum System. The adoption of that provision made it possible to replace, between the Member States with the exception of the Kingdom of Denmark, the Convention determining the State responsible for examining applications for asylum lodged in one of the Member States of the European Communities, signed in Dublin on June (OJ C 254, p. 1), by Council Regulation (EC) No 343/of February establishing the criteria and mechanisms for determining the Member State responsible for examining an asylum application lodged in one of the Member States by a third-country national (OJ L 50, p. 1), which entered into force on March 2003. The Dublin III Regulation, which entered into force on July and was adopted on the basis of Article 78(2)(e) TFEU, replaced Regulation No 343/2003.
+Recitals to of the Dublin III Regulation are worded as follows:
+‘(1)
+A number of substantive changes are to be made to Regulation [No 343/2003]. In the interest of clarity, that Regulation should be recast.
+(2)
+A common policy on asylum, including a Common European Asylum System (CEAS), is a constituent part of the European Union’s objective of progressively establishing an area of freedom, security and justice open to those who, forced by circumstances, legitimately seek protection in the Union.
+(3)
+The European Council, at its special meeting in Tampere on and October 1999, agreed to work towards establishing the CEAS, based on the full and inclusive application of the [Geneva Convention] supplemented by the [Protocol], thus ensuring that nobody is sent back to persecution, i.e. maintaining the principle of non-refoulement. In this respect, and without the responsibility criteria laid down in this Regulation being affected, Member States, all respecting the principle of non-refoulement, are considered as safe countries for third-country nationals.
+(4)
+The Tampere conclusions also stated that the CEAS should include, in the short-term, a clear and workable method for determining the Member State responsible for the examination of an asylum application.
+(5)
+Such a method should be based on objective, fair criteria both for the Member States and for the persons concerned. It should, in particular, make it possible to determine rapidly the Member State responsible, so as to guarantee effective access to the procedures for granting international protection and not to compromise the objective of the rapid processing of applications for international protection.’
+Recitals to of that regulation state:
+‘(13)
+In accordance with the United Nations Convention on the Rights of the Child and with the [Charter], the best interests of the child should be a primary consideration of Member States when applying this Regulation. ...
+(14)
+In accordance with the [ECHR] and with the [Charter], respect for family life should be a primary consideration for Member States when applying this Regulation.
+(15)
+The processing together of the applications for international protection of the members of one family by a single Member State makes it possible to ensure that the applications are examined thoroughly, the decisions taken in respect of them are consistent and the members of one family are not separated.
+(16)
+In order to ensure full respect for the principle of family unity and for the best interests of the child, the existence of a relationship of dependency between an applicant and his or her child, sibling or parent on account of the applicant’s pregnancy or maternity, state of health or old age, should become a binding responsibility criterion. When the applicant is an unaccompanied minor, the presence of a family member or relative on the territory of another Member State who can take care of him or her should also become a binding responsibility criterion.
+(17)
+Any Member State should be able to derogate from the responsibility criteria, in particular on humanitarian and compassionate grounds, in order to bring together family members, relatives or any other family relations and examine an application for international protection lodged with it or with another Member State, even if such examination is not its responsibility under the binding criteria laid down in this Regulation.’
+Recitals 19, and and of that regulation state:
+‘(19)
+In order to guarantee effective protection of the rights of the persons concerned, legal safeguards and the right to an effective remedy in respect of decisions regarding transfers to the Member State responsible should be established, in accordance, in particular, with Article of the [Charter]. In order to ensure that international law is respected, an effective remedy against such decisions should cover both the examination of the application of this Regulation and of the legal and factual situation in the Member State to which the applicant is transferred.
+…
+(32)
+With respect to the treatment of persons falling within the scope of this Regulation, Member States are bound by their obligations under instruments of international law, including the relevant case-law of the European Court of Human Rights.
+...
+(39)
+This Regulation respects the fundamental rights and observes the principles which are acknowledged, in particular, in the [Charter]. In particular, this Regulation seeks to ensure full observance of the right to asylum guaranteed by Article of the [Charter] as well as the rights recognised under Articles 1, 4, 7, and thereof. This Regulation should therefore be applied accordingly.
+...
+(41)
+In accordance with Article and Article 4a(1) of Protocol No on the position of the United Kingdom and Ireland in respect of the Area of Freedom, Security and Justice, annexed to the TEU and to the TFEU, those Member States have notified their wish to take part in the adoption and application of this Regulation.’
+Article of that regulation provides:
+‘This Regulation lays down the criteria and mechanisms for determining the Member State responsible for examining an application for international protection lodged in one of the Member States by a third-country national ...’
+Article of the Dublin III Regulation provides:
+‘1.   Member States shall examine any application for international protection by a third-country national or a stateless person who applies on the territory of any one of them, including at the border or in the transit zones. The application shall be examined by a single Member State, which shall be the one which the criteria set out in Chapter III indicate is responsible.
+2.   Where no Member State responsible can be designated on the basis of the criteria listed in this Regulation, the first Member State in which the application for international protection was lodged shall be responsible for examining it.
+Where it is impossible to transfer an applicant to the Member State primarily designated as responsible because there are substantial grounds for believing that there are systemic flaws in the asylum procedure and in the reception conditions for applicants in that Member State, resulting in a risk of inhuman or degrading treatment within the meaning of Article of the [Charter], the determining Member State shall continue to examine the criteria set out in Chapter III in order to establish whether another Member State can be designated as responsible.
+Where the transfer cannot be made pursuant to this paragraph to any Member State designated on the basis of the criteria set out in Chapter III or to the first Member State with which the application was lodged, the determining Member State shall become the Member State responsible.
+3.   Any Member State shall retain the right to send an applicant to a safe third country, subject to the rules and safeguards laid down in Directive 2013/32/EU.’
+Article of that regulation, entitled ‘Guarantees for minors’, provides:
+‘1.   The best interests of the child shall be a primary consideration for Member States with respect to all procedures provided for in this Regulation.
+...
+3.   In assessing the best interests of the child, Member States shall closely cooperate with each other and shall, in particular, take due account of the following factors:
+(a)
+family reunification possibilities;
+...
+4.   For the purpose of applying Article 8, the Member State where the unaccompanied minor lodged an application for international protection shall, as soon as possible, take appropriate action to identify the family members, siblings or relatives of the unaccompanied minor on the territory of Member States, whilst protecting the best interests of the child.
+...’
+Article 7(1) and (2), in Chapter III of that regulation, provides:
+‘1.   The criteria for determining the Member State responsible shall be applied in the order in which they are set out in this Chapter.
+2.   The Member State responsible in accordance with the criteria set out in this Chapter shall be determined on the basis of the situation obtaining when the applicant first lodged his or her application for international protection with a Member State.’
+Article 8(1) of that regulation provides:
+‘Where the applicant is an unaccompanied minor, the Member State responsible shall be that where a family member or a sibling of the unaccompanied minor is legally present, provided that it is in the best interests of the minor. Where the applicant is a married minor whose spouse is not legally present on the territory of the Member States, the Member State responsible shall be the Member State where the father, mother or other adult responsible for the minor, whether by law or by the practice of that Member State, or sibling is legally present.’
+Article of the Dublin III Regulation, entitled ‘Family procedure’, provides:
+‘Where several family members and/or minor unmarried siblings submit applications for international protection in the same Member State simultaneously, or on dates close enough for the procedures for determining the Member State responsible to be conducted together, and where the application of the criteria set out in this Regulation would lead to their being separated, the Member State responsible shall be determined on the basis of the following provisions:
+(a)
+responsibility for examining the applications for international protection of all the family members and/or minor unmarried siblings shall lie with the Member State which the criteria indicate is responsible for taking charge of the largest number of them;
+(b)
+failing this, responsibility shall lie with the Member State which the criteria indicate is responsible for examining the application of the oldest of them.’
+Article of that regulation, entitled ‘Discretionary clauses’, is worded as follows:
+‘1.   By way of derogation from Article 3(1), each Member State may decide to examine an application for international protection lodged with it by a third-country national or a stateless person, even if such examination is not its responsibility under the criteria laid down in this Regulation.
+The Member State which decides to examine an application for international protection pursuant to this paragraph shall become the Member State responsible and shall assume the obligations associated with that responsibility. ...’
+Article 20(3) of that regulation provides:
+‘For the purposes of this Regulation, the situation of a minor who is accompanying the applicant and meets the definition of family member shall be indissociable from that of his or her family member and shall be a matter for the Member State responsible for examining the application for international protection of that family member, even if the minor is not individually an applicant, provided that it is in the minor’s best interests. The same treatment shall be applied to children born after the applicant arrives on the territory of the Member States, without the need to initiate a new procedure for taking charge of them.’
+Article 27(1) of that regulation provides:
+‘The applicant or another person as referred to in Article 18(1)(c) or (d) shall have the right to an effective remedy, in the form of an appeal or a review, in fact and in law, against a transfer decision, before a court or tribunal.’
+Article 29(1) and (2) of the Dublin III Regulation provides:
+‘1.   The transfer of the applicant ... from the requesting Member State to the Member State responsible shall be carried out in accordance with the national law of the requesting Member State, after consultation between the Member States concerned, as soon as practically possible, and at the latest within six months ...
+…
+2.   Where the transfer does not take place within the six months’ time limit, the Member State responsible shall be relieved of its obligations to take charge or to take back the person concerned and responsibility shall then be transferred to the requesting Member State. ...’
+Article 35(1) of that regulation provides:
+‘Each Member State shall notify the Commission without delay of the specific authorities responsible for fulfilling the obligations arising under this Regulation, and any amendments thereto. The Member States shall ensure that those authorities have the necessary resources for carrying out their tasks and in particular for replying within the prescribed time limits to requests for information, requests to take charge of and requests to take back applicants.’
+Irish law
+The applicable national legislation is the European Union (Dublin System) Regulations (S.I. No. 525/2014, ‘the national regulations’). The key provisions for the purposes of the present case are as follows.
+Regulation 2(2) of the national regulations provides that a word or expression that is used in those regulations and is also used in the Dublin III Regulation is to have the same meaning as it has in the EU regulation.
+The expression ‘transfer decision’ is defined in Regulation 2(1) of the national regulations as being a decision by the Refugee Applications Commissioner (Ireland) (‘the Refugee Applications Commissioner’), in accordance with the Dublin III Regulation, to transfer an applicant where the State, in the present case Ireland, is the requesting Member State and the requested Member State has accepted to take charge of or to take back that applicant.
+Regulation 3(1) of the national regulations provides that the Refugee Applications Commissioner is to perform the functions of a determining, requesting and requested Member State. Regulation 3(2) indicates that the Minister for Justice and Equality is to perform the functions of a transferring Member State.
+According to Regulation 3(3) of the national regulations, the Refugee Applications Commissioner is to perform all the functions referred to in Article of the Dublin III Regulation which in turn refers to the best interests of the child ‘with respect to all procedures provided for in this Regulation’.
+Under Regulation 6(1) of the national regulations, an applicant may bring an appeal against a transfer decision.
+Regulation 6(9) of the national regulations provides that the appeal tribunal is either to affirm or to set aside the transfer decision.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+According to the order for reference, S.A., a third-country national, entered the United Kingdom on a student visa in and, the following year, M.A., also a third-country national, joined her after obtaining a dependent visa. A.Z., their child, was born in the United Kingdom in February 2014. The parents renewed their visas every year until the college where S.A. studied closed down, which resulted in the expiry of their visas.
+S.A. and M.A. then went to Ireland where, on January 2016, they lodged applications for asylum. The application concerning the child was included in his mother’s application.
+On April 2016, the Refugee Applications Commissioner sent a request to the United Kingdom of Great Britain and Northern Ireland to take charge of the asylum applications on the basis of the Dublin III Regulation.
+On May 2016, that Member State agreed to take charge of the asylum applications.
+S.A. and M.A. raised issues with the Refugee Applications Commissioner in relation to medical problems affecting M.A. and also to the fact that the child was under assessment by the Health Service Executive (Ireland) regarding a health issue.
+The Refugee Applications Commissioner recommended transfer to the United Kingdom holding, in a decision finding against S.A. and M.A., that it was not appropriate to apply Article of the Dublin III Regulation.
+S.A. and M.A. challenged the transfer decision before the International Protection Appeals Tribunal, primarily on the basis of Article of the Dublin III Regulation and on grounds relating to the withdrawal of the United Kingdom from the European Union.
+On January 2017, that court upheld the transfer decision, after pointing out that it had no jurisdiction to exercise the discretion referred to in Article of the Dublin III Regulation. It also rejected the arguments relating to the withdrawal of the United Kingdom from the European Union on the ground that the relevant situation for the purposes of assessing the legality of that decision was that which existed on the date when it was called upon to adjudicate.
+S.A. and M.A. then brought an action before the High Court (Ireland).
+That court takes the view that, in principle, in order to resolve the dispute before it, it is necessary, as a first step, to determine the implications which the process of withdrawal of the United Kingdom from the European Union may have for the Dublin System.
+The court also points out that the wording used by the national regulations, which reproduce the wording in the Dublin III Regulation, must be given the same meaning as the latter wording. The court therefore inferred from this that it is necessary to interpret that latter regulation in order to resolve the dispute before it.
+It was in those circumstances that the High Court decided to stay proceedings and referred the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+When dealing with transfer of a protection applicant under the [Dublin III] Regulation to the United Kingdom, is a national decision-maker, in considering any issues arising in relation to the discretion under Article [of that regulation] and/or any issues of protection of fundamental rights in the United Kingdom, required to disregard circumstances as they stand at the time of such consideration in relation to the proposed withdrawal of the United Kingdom from the European Union?
+(2)
+Does the concept of “determining Member State” in the [Dublin III] Regulation include the role of the Member State in exercising the power under Article 17?
+(3)
+Do the functions of a Member State [under] Article of the [Dublin III] Regulation include the power recognised or conferred by Article of that regulation?
+(4)
+Does the concept of an “effective remedy” apply to a first instance decision under Article of the [Dublin III] Regulation such that an appeal or equivalent remedy must be made available against such a decision and/or such that national legislation providing for an appellate procedure against a first instance decision under that regulation should be construed as encompassing an appeal against a decision under Article 17?
+(5)
+Does Article 20(3) of the [Dublin III] Regulation have the effect that in the absence of any evidence to displace a presumption that it is in the best interests of a child to treat his or her situation as indissociable from that of the parents, the national decision maker is not required to consider such best interests separately from the parents as a discrete issue or as a starting point for consideration of whether the transfer should … take place?’
+Procedure before the Court
+The referring court requested that the present case be dealt with under the urgent preliminary ruling procedure provided for in Article 23a of the Statute of the Court of Justice of the European Union. In the alternative, that court has requested that the case be dealt with under the expedited procedure, pursuant to Article 105(1) of the Rules of Procedure of the Court of Justice.
+As regards, in the first place, the request relating to the urgent preliminary ruling procedure, on December 2017, the Court decided, acting on a proposal from the Judge-Rapporteur and after hearing the Advocate General, not to grant that request.
+As regards, in the second place, the request that the present case be dealt with under the expedited procedure, provided for in Article 105(1) of the Rules of Procedure of the Court, the President of the Court decided, by order of December 2017, M.A. and Others (C‑661/17, not published, EU:C:2017:1024), to reject that request.
+Consideration of the questions referred
+Admissibility
+Ireland submits that, since the legal consequences of the possible withdrawal of the United Kingdom from the European Union are not yet known, questions on such consequences must be regarded as hypothetical. Therefore, any ruling which the Court might give at this stage as regards the situation after the date upon which it is expected that that Member State will cease to be a Member State of the European Union, would be hypothetical. According to settled case-law (judgment of February 2014, Pohotovosť, C‑470/12, EU:C:2014:101, paragraphs and and the case-law cited), the Court does not answer questions which are hypothetical or seeking an advisory opinion.
+In that regard, it is appropriate to note that, in accordance with settled case-law, the procedure provided for by Article TFEU is an instrument of cooperation between the Court and national courts by means of which the former provides the latter with the points of interpretation of EU law which they need in order to decide the disputes before them (judgment of December 2016, Eurosaneamientos and Others, C‑532/and C‑538/15, EU:C:2016:932, paragraph and the case-law cited).
+In the context of that cooperation, it is solely for the national court hearing the case, which must assume responsibility for the subsequent judicial decision, to determine, in the light of the particular circumstances of the case, both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it refers to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is in principle bound to give a ruling (judgment of December 2016, Eurosaneamientos and Others, C‑532/and C‑538/15, EU:C:2016:932, paragraph and the case-law cited).
+It follows that questions on the interpretation of EU law referred by a national court in the factual and legislative context which that court is responsible for defining and the accuracy of which is not a matter for the Court to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of December 2016, Eurosaneamientos and Others, C‑532/and C‑538/15, EU:C:2016:932, paragraph and the case-law cited).
+In the present case, it should be noted that the referring court has explained in detail why it took the view that, in order to rule on the dispute before it, it is necessary to analyse the consequences which may result from the possible withdrawal of the United Kingdom from the European Union in the context of the Dublin III Regulation.
+In those circumstances, the interpretation sought by the referring court does not appear to be irrelevant to the resolution of the dispute before it. Consequently, it is necessary to answer the questions referred by the High Court.
+Substance
+The first question
+By its first question, the referring court asks, in essence, whether Article 17(1) of the Dublin III Regulation must be interpreted as meaning that the fact that a Member State, designated as ‘responsible’ within the meaning of that regulation, has notified its intention to withdraw from the European Union in accordance with Article TEU, obliges the determining Member State to itself examine, under the discretionary clause set out in Article 17(1), the application for protection at issue.
+In that regard, it should be recalled that a Member State’s notification of its intention to withdraw from the European Union in accordance with Article TEU does not have the effect of suspending the application of EU law in that Member State and that, consequently, that law continues in full force and effect in that Member State until the time of its actual withdrawal from the European Union (judgment of September 2018, RO, C‑327/PPU, EU:C:2018:733, paragraph 45).
+As has been explained in paragraph of the present judgment, the Dublin III Regulation replaced Regulation No 343/2003. As regards the discretionary clause set out in Article 17(1) of the Dublin III Regulation, the Court has already stated that, since the terms of that provision coincide, in essence, with those of the sovereignty clause that was contained in Article 3(2) of Regulation No 343/2003, the interpretation of the latter provision is also transposable to Article 17(1) of the Dublin III Regulation (judgment of February 2017, C. K. and Others, C‑578/PPU, EU:C:2017:127, paragraph 53).
+Under Article 3(1) of the Dublin III Regulation, an application for international protection is to be examined by a single Member State, which is to be the one which the criteria set out in Chapter III of that regulation indicate is responsible.
+By way of derogation from Article 3(1), Article 17(1) of that regulation provides that each Member State may decide to examine an application for international protection lodged with it by a third-country national or a stateless person, even if such examination is not its responsibility under such criteria.
+It is clear from the wording of Article 17(1) of the Dublin III Regulation that that provision is optional in so far it leaves it to the discretion of each Member State to decide to examine an application for international protection lodged with it, even if that examination is not its responsibility under the criteria defined by that regulation for determining the Member State responsible. The exercise of that option is not, moreover, subject to any particular condition (see, to that effect, judgment of May 2013, Halaf, C‑528/11, EU:C:2013:342, paragraph 36). That option is intended to allow each Member State to decide, in its absolute discretion, on the basis of political, humanitarian or practical considerations, to agree to examine an asylum application even if it is not responsible under the criteria laid down in that regulation (judgment of October 2018, Fathi, C‑56/17, EU:C:2018:803, paragraph 53).
+In the light of the extent of the discretion thus conferred on the Member States, it is for the Member State concerned to determine the circumstances in which it wishes to use the option conferred by the discretionary clause set out in Article 17(1) of the Dublin III Regulation and to agree itself to examine an application for international protection for which it is not responsible under the criteria defined by that regulation.
+That finding is also consistent, first, with the case-law of the Court relating to optional provisions, according to which such provisions afford wide discretionary power to the Member States (judgment of December 2013, Abdullahi, C‑394/12, EU:C:2013:813, paragraph and the case-law cited) and, second, with the objective of Article 17(1), namely to maintain the prerogatives of the Member States in the exercise of the right to grant international protection (judgment of July 2018, X, C‑213/17, EU:C:2018:538, paragraph and the case-law cited).
+In the light of all the foregoing considerations, the answer to the first question is that Article 17(1) of the Dublin III Regulation must be interpreted as meaning that the fact that a Member State, designated as ‘responsible’ within the meaning of that regulation, has notified its intention to withdraw from the European Union in accordance with Article TEU, does not oblige the determining Member State to itself examine, under the discretionary clause set out in Article 17(1), the application for protection at issue.
+The second question
+It is apparent from the information in the documents before the Court that the second question is based on the premiss that, in Ireland, it is the Refugee Applications Commissioner who determines the Member State responsible under the criteria defined by the Dublin III Regulation, whereas the exercise of the discretionary clause, set out in Article 17(1) of that regulation, is a matter for the Minister for Justice and Equality.
+In those circumstances, it must be considered that, by its second question, the referring court asks, in essence, whether the Dublin III Regulation must be interpreted as meaning that it requires the determination of the Member State responsible under the criteria defined by that regulation and the exercise of the discretionary clause set out in Article 17(1) of that regulation to be undertaken by the same national authority.
+It should be recalled, first, that it is apparent from the case-law of the Court that the discretion conferred on Member States by Article 17(1) of the Dublin III Regulation is an integral part of the mechanisms laid down by that regulation for determining the Member State responsible for an asylum application. Thus, a decision adopted by a Member State on the basis of that provision, to examine, or to not examine, an application for international protection for which it is not responsible in the light of the criteria set out in Chapter III of that regulation implements EU law (see, to that effect, judgment of February 2017, C. K and Others, C‑578/PPU, EU:C:2017:127, paragraph and the case-law cited).
+Next, it should be noted that the Dublin III Regulation nevertheless does not contain any provision specifying which authority has power to take a decision under the criteria defined by that regulation that relate to determining the Member State responsible or in respect of the discretionary clause set out in Article 17(1) of that regulation. Nor does that regulation specify whether a Member State must entrust the task of applying such criteria and applying that discretionary clause to the same authority.
+Article 35(1) of the Dublin III Regulation does however provide that each Member State is to notify the Commission without delay of the ‘authorities responsible’, in particular, for fulfilling the obligations arising under that regulation, and any amendments regarding those authorities.
+It follows from the wording of that provision, in the first place, that it is for a Member State to determine which national authorities have power to apply the Dublin III Regulation. In the second place, the expression ‘the authorities responsible’ in Article implies that a Member State is free to entrust to different authorities the task of applying the criteria defined by that regulation relating to determining the Member State responsible and the task of applying the ‘discretionary clause’ set out in Article 17(1) of that regulation.
+That assessment is also supported by other provisions of the Dublin III Regulation, such as Article 4(1), Article 20(2) and (4) or Article 21(3), in which the expressions ‘its competent authorities’, ‘the authorities’, ‘competent authorities of the Member State concerned’, ‘competent authorities of a Member State’ and ‘the authorities of the requested Member State’ are used.
+In the light of all the foregoing considerations, the answer to the second question is that the Dublin III Regulation must be interpreted as meaning that it does not require the determination of the Member State responsible under the criteria defined by that regulation and the exercise of the discretionary clause set out in Article 17(1) of that regulation to be undertaken by the same national authority.
+The third question
+By its third question, the referring court asks, in essence, whether Article 6(1) of the Dublin III Regulation must be interpreted as meaning that it requires a Member State which is not responsible, under the criteria set out by that regulation, for examining an application for international protection to take into account the best interests of the child and to itself examine that application, under Article 17(1) of that regulation.
+Given that it is already apparent from paragraphs and of the present judgment that the exercise of the option afforded to Member States by the discretionary clause set out in Article 17(1) of the Dublin III Regulation is not subject to any particular condition and that, in principle, it is for each Member State to determine the circumstances in which it wishes to use that option and to agree that it will itself examine an application for international protection for which it is not responsible under the criteria defined by that regulation, it must be held that considerations relating to the best interests of the child can also not oblige a Member State to use that option and itself examine an application for which it is not responsible.
+It follows that Article 6(1) of the Dublin III Regulation must be interpreted as meaning that it does not require a Member State which is not responsible, under the criteria set out by that regulation, for examining an application for international protection to take into account the best interests of the child and to itself examine that application, under Article 17(1) of that regulation.
+The fourth question
+By its fourth question, the referring court asks, in essence, whether Article 27(1) of the Dublin III Regulation must be interpreted as meaning that it requires a remedy to be made available against the decision not to use the option provided for in Article 17(1) of that regulation.
+Under Article 27(1) of the Dublin III Regulation, an applicant for international protection has the right to an effective remedy, in the form of an appeal against a transfer decision, or a review, in fact and in law, of that decision, before a court or tribunal.
+Thus, that article does not expressly provide for an appeal against the decision to not use the option set out in Article 17(1) of that regulation.
+Furthermore, the objective of the rapid processing of applications for international protection and, in particular, the determination of the Member State responsible, underlying the procedure established by the Dublin III Regulation and referred to in recital of that regulation, discourages multiple remedies.
+It is true that the principle of effective judicial protection is a general principle of EU law to which expression is now given by Article of the Charter (judgment of July 2014, Telefónica and Telefónica de España v Commission, C‑295/P, EU:C:2014:2062, paragraph and the case-law cited) and under which everyone whose rights and freedoms guaranteed by EU law are violated has the right to an effective remedy before a tribunal in compliance with the conditions laid down in that article.
+However, if a Member State refuses to use the discretionary clause set out in Article 17(1) of the Dublin III Regulation, that necessarily means that that Member State must adopt a transfer decision. The Member State’s refusal to use that clause may, should the case arise, be challenged at the time of an appeal against a transfer decision.
+Consequently, Article 27(1) of the Dublin III Regulation must be interpreted as meaning that it does not require a remedy to be made available against the decision not to use the option set out in Article 17(1) of that regulation, without prejudice to the fact that that decision may be challenged at the time of an appeal against a transfer decision.
+Furthermore, in order to provide a useful answer to the referring court, since the questions referred are, in the present case, linked to the notification by the Member State, designated as responsible in accordance with the criteria defined by the Dublin III Regulation, of its intention to withdraw from the European Union in accordance with Article TEU, it should be pointed out that that notification, as follows from paragraph of the present judgment, does not have the effect of suspending the application of EU law in that Member State and that, consequently, that law, of which the Common European Asylum System forms part, and the mutual confidence and presumption of respect, by the Member States, for fundamental rights, continues in full force and effect in that Member State until the time of its actual withdrawal from the European Union.
+It should also be added that, in accordance with the case-law of the Court, the transfer of an applicant to such a Member State must not take place if there are substantial grounds for believing that that notification would result in a real risk of that applicant suffering inhuman or degrading treatment in that Member State, within the meaning of Article of the Charter (judgment of February 2017, C. K. and Others, C‑578/PPU, EU:C:2017:127, paragraph 65).
+In that connection, it should be noted that such a notification cannot, in itself, be regarded as leading to the person concerned being exposed to such a risk.
+In that regard, it is important to state, first, that the Common European Asylum System was conceived in a context making it possible to assume that all the participating States, whether Member States or third States, observe fundamental rights, including the rights based on the Geneva Convention and the Protocol, namely the principle of non-refoulement, and on the ECHR, and, therefore, that those Member States can have confidence in each other as regards respect for those fundamental rights (see, to that effect, judgment of December 2011, N. S. and Others, C‑411/and C‑493/10, EU:C:2011:865, paragraph 78); all of those States are, moreover, as has been indicated in paragraphs to of the present judgment, parties both to the Geneva Convention and the Protocol and to the ECHR.
+Second, as regards the fundamental rights that are conferred on an applicant for international protection, in addition to the codification, in Article 3(2) of the Dublin III Regulation, of the Court’s case-law concerning systemic flaws in the asylum procedure and in the reception conditions of asylum seekers in the State designated as responsible, within the meaning of that regulation, the Member States, as follows from recitals and of that regulation, are also bound, in the application of that regulation, by the case-law of the European Court of Human Rights and by Article of the Charter (judgment of February 2017, C. K. and Others, C‑578/PPU, EU:C:2017:127, paragraph 63). As Article of the Charter corresponds to Article ECHR, the prohibition of inhuman or degrading treatment laid down in Article has, in accordance with Article 52(3) of the Charter, the same meaning and the same scope as those conferred on it by that convention (see, to that effect, judgment of February 2017, C. K. and Others, C‑578/PPU, EU:C:2017:127, paragraph 67).
+Third, as has been set out in paragraph of the present judgment, since the Member States are parties to the Geneva Convention and the Protocol, as well as to the ECHR, two international agreements upon which that Common European Asylum System is based, the continuing participation of a Member State in those conventions and that protocol is not linked to its being a member of the European Union. It follows that a Member State’s decision to withdraw from the European Union has no bearing on its obligations to respect the Geneva Convention and the Protocol, including the principle of non-refoulement, and Article ECHR.
+In the light of all of the foregoing considerations, the answer to the fourth question is that Article 27(1) of the Dublin III Regulation must be interpreted as meaning that it does not require a remedy to be made available against the decision not to use the option set out in Article 17(1) of that regulation, without prejudice to the fact that that decision may be challenged at the time of an appeal against a transfer decision.
+The fifth question
+By its fifth question, the referring court asks, in essence, whether Article 20(3) of the Dublin III Regulation must be interpreted as meaning that, in the absence of evidence to the contrary, that provision establishes a presumption that it is in the best interests of the child to treat that child’s situation as indissociable from that of its parents.
+It must be noted that it is clear from the wording of Article 20(3) of the Dublin III Regulation that that is the case. Consequently, it is only where it is established that such an examination carried out in conjunction with that of the child’s parents is not in the best interests of that child that it will be necessary to treat the child’s situation separately from that of its parents.
+That finding is consistent with recitals to 16, and, inter alia, Article 6(3)(a) and (4), Article 8(1), and Article of the Dublin III Regulation. It follows from those provisions that respect for family life and, more specifically, preserving the unity of the family group is, as a general rule, in the best interests of the child.
+In the light of all of the foregoing considerations, the answer to the fifth question is that Article 20(3) of the Dublin III Regulation must be interpreted as meaning that, in the absence of evidence to the contrary, that provision establishes a presumption that it is in the best interests of the child to treat that child’s situation as indissociable from that of its parents.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+1.
+Article 17(1) of Regulation (EU) No 604/of the European Parliament and of the Council of June establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection lodged in one of the Member States by a third-country national or a stateless person must be interpreted as meaning that the fact that a Member State, designated as ‘responsible’ within the meaning of that regulation, has notified its intention to withdraw from the European Union in accordance with Article TEU does not oblige the determining Member State to itself examine, under the discretionary clause set out in Article 17(1), the application for protection at issue.
+ 
+2.
+Regulation No 604/must be interpreted as meaning that it does not require the determination of the Member State responsible under the criteria defined by that regulation and the exercise of the discretionary clause set out in Article 17(1) of that regulation to be undertaken by the same national authority.
+ 
+3.
+Article 6(1) of Regulation No 604/must be interpreted as meaning that it does not require a Member State which is not responsible, under the criteria set out by that regulation, for examining an application for international protection to take into account the best interests of the child and to itself examine that application, under Article 17(1) of that regulation.
+ 
+4.
+Article 27(1) of Regulation No 604/must be interpreted as meaning that it does not require a remedy to be made available against the decision not to use the option set out in Article 17(1) of that regulation, without prejudice to the fact that that decision may be challenged at the time of an appeal against a transfer decision.
+ 
+5.
+Article 20(3) of Regulation No 604/must be interpreted as meaning that, in the absence of evidence to the contrary, that provision establishes a presumption that it is in the best interests of the child to treat that child’s situation as indissociable from that of its parents.
+ 
+Silva de Lapuerta
+Bonichot
+Arabadjiev
+Regan
+Fernlund
+Delivered in open court in Luxembourg on January 2019.
+A. Calot Escobar
+Registrar
+K. Lenaerts
+President
+(
+*)	Language of the case: English.
+Top  

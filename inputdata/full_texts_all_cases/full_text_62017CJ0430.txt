@@ -1,0 +1,178 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+January (
+*)
+(Reference for a preliminary ruling — Consumer protection — Directive 2011/83/EU — Distance contracts — Article 6(1)(h) — Obligation to provide information on the right of withdrawal — Article 8(4) — Contract concluded through a means of distance communication which allows limited space or time to display the information — Meaning of ‘limited space or time to display the information’ — Brochure inserted in a periodical — Mail order coupon containing a hyperlink referring to information on the right of withdrawal)
+In Case C‑430/17,
+REQUEST for a preliminary ruling under Article TFEU from the Bundesgerichtshof (Federal Court of Justice, Germany), made by decision of June 2017, received at the Court on July 2017, in the proceedings
+Walbusch Walter Busch GmbH & Co. KG
+v
+Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main eV,
+THE COURT (Third Chamber),
+composed of M. Vilaras, President of the Fourth Chamber, acting as President of the Third Chamber, J. Malenovský, L. Bay Larsen, M. Safjan (Rapporteur), and D. Šváby, Judges,
+Advocate General: E. Tanchev,
+Registrar: R. Șereș, Administrator,
+after considering the observations submitted on behalf of:
+–
+Walbusch Walter Busch GmbH & Co. KG, by R. Becker, Rechtsanwalt,
+–
+the Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main eV, by C. Rohnke, Rechtsanwalt,
+–
+the German Government, by T. Henze, M. Hellmann, E. Lankenau and J. Techert, acting as Agents,
+–
+the Polish Government, by B. Majczyna, acting as Agent,
+–
+the Finnish Government, by H. Leppo, acting as Agent,
+–
+the European Commission, by M. Kellerbauer and N. Ruiz García, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 6(1)(h) and Article 8(4) of Directive 2011/83/EU of the European Parliament and of the Council of October on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council (OJ L 304, p. 64).
+The request has been made in proceedings between Walbusch Walter Busch GmbH & Co. KG, a company governed by German law, and the Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main eV, an association whose mission is to combat unfair trade practices (‘the Zentrale’), concerning the information on a consumer’s right of withdrawal in that company’s advertising in the form of an advertising brochure attached to various newspapers and magazines.
+Legal context
+EU law
+The Charter
+Article of the Charter of Fundamental Rights of the European Union (‘the Charter’), entitled ‘Freedom of expression and information’, provides in paragraph 1:
+‘Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers.’
+Under Article of the Charter, entitled ‘Freedom to conduct a business’:
+‘The freedom to conduct a business in accordance with Union law and national laws and practices is recognised.’
+Article of the Charter is entitled ‘Consumer protection’ and states:
+‘Union policies shall ensure a high level of consumer protection.’
+Directive 2011/Recitals to 5, 7, 34, and of Directive 2011/state:
+‘(3)
+Article 169(1) and Article 169(2) [(a) TFEU] provide that the Union is to contribute to the attainment of a high level of consumer protection through the measures adopted pursuant to Article thereof.
+(4)
+... The harmonisation of certain aspects of consumer distance and off-premises contracts is necessary for the promotion of a real consumer internal market striking the right balance between a high level of consumer protection and the competitiveness of enterprises, while ensuring respect for the principle of subsidiarity.
+(5)
+... Full harmonisation of consumer information and the right of withdrawal in distance and off-premises contracts will contribute to a high level of consumer protection and a better functioning of the internal market.
+…
+(7)
+Full harmonisation of some key regulatory aspects should considerably increase legal certainty for both consumers and traders. … Furthermore consumers should enjoy a high common level of protection across the Union.
+…
+(34)
+The trader should give the consumer clear and comprehensible information before the consumer is bound by a distance or off-premises contract, a contract other than a distance or an off-premises contract, or any corresponding offer. …
+…
+(36)
+In the case of distance contracts, the information requirements should be adapted to take into account the technical constraints of certain media, such as the restrictions on the number of characters on certain mobile telephone screens or the time constraint on television sales spots. In such cases the trader should comply with a minimum set of information requirements and refer the consumer to another source of information, for instance by providing a toll free telephone number or a hypertext link to a webpage of the trader where the relevant information is directly available and easily accessible. …
+…
+(44)
+Differences in the ways in which the right of withdrawal is exercised in the Member States have caused costs for traders selling cross-border. The introduction of a harmonised model withdrawal form that the consumer may use should simplify the withdrawal process and bring legal certainty. For these reasons, Member States should refrain from adding any presentational requirements to the Union-wide model form relating for example to the font size. However, the consumer should remain free to withdraw in his own words, provided that his statement setting out his decision to withdraw from the contract to the trader is unequivocal. A letter, a telephone call or returning the goods with a clear statement could meet this requirement, but the burden of proof of having withdrawn within the time limits fixed in the Directive should be on the consumer. ...’
+Article of that directive, entitled ‘Subject matter’, provides:
+‘The purpose of this Directive is, through the achievement of a high level of consumer protection, to contribute to the proper functioning of the internal market by approximating certain aspects of the laws, regulations and administrative provisions of the Member States concerning contracts concluded between consumers and traders.’
+Article of that directive, entitled ‘Definitions’, is worded as follows:
+‘For the purposes of this Directive:
+…
+(7)
+“distance contract” means any contract concluded between the trader and the consumer under an organised distance sales or service-provision scheme without the simultaneous physical presence of the trader and the consumer, with the exclusive use of one or more means of distance communication up to and including the time at which the contract is concluded;
+…’
+Article of that directive, entitled ‘Information requirements for distance and off-premises contracts’, provides:
+‘1.   Before the consumer is bound by a distance or off-premises contract, or any corresponding offer, the trader shall provide the consumer with the following information in a clear and comprehensible manner:
+…
+(h)
+where a right of withdrawal exists, the conditions, time limit and procedures for exercising that right in accordance with Article 11(1), as well as the model withdrawal form set out in Annex I(B);
+…
+4.   The information referred to in [point (h) of paragraph 1] may be provided by means of the model instructions on withdrawal set out in Annex I(A). The trader shall have fulfilled the information requirements laid down in [point (h) of paragraph 1] if he has supplied these instructions to the consumer, correctly filled in.
+5.   The information referred to in paragraph shall form an integral part of the distance or off-premises contract and shall not be altered unless the contracting parties expressly agree otherwise.
+…’
+Article of Directive 2011/83, entitled ‘Formal requirements for distance contracts’, is worded as follows:
+‘1.   With respect to distance contracts, the trader shall give the information provided for in Article 6(1) or make that information available to the consumer in a way appropriate to the means of distance communication used in plain and intelligible language. In so far as that information is provided on a durable medium, it shall be legible.
+…
+4.   If the contract is concluded through a means of distance communication which allows limited space or time to display the information, the trader shall provide, on that particular means prior to the conclusion of such a contract, at least the pre-contractual information regarding the main characteristics of the goods or services, the identity of the trader, the total price, the right of withdrawal, the duration of the contract and, if the contract is of indeterminate duration, the conditions for terminating the contract, as referred to in points (a), (b), (e), (h) and (o) of Article 6(1). The other information referred to in Article 6(1) shall be provided by the trader to the consumer in an appropriate way in accordance with paragraph of this Article.
+…
+7.   The trader shall provide the consumer with the confirmation of the contract concluded, on a durable medium within a reasonable time after the conclusion of the distance contract, and at the latest at the time of the delivery of the goods or before the performance of the service begins. That confirmation shall include:
+(a)
+all the information referred to in Article 6(1) unless the trader has already provided that information to the consumer on a durable medium prior to the conclusion of the distance contract;
+…’
+Article of that directive, entitled ‘Right of withdrawal’, provides in paragraphs and 2:
+‘1.   Save where the exceptions provided for in Article apply, the consumer shall have a period of days to withdraw from a distance or off-premises contract, without giving any reason, and without incurring any costs other than those provided for in Article 13(2) and Article 14.
+2.   Without prejudice to Article 10, the withdrawal period referred to in paragraph of this Article shall expire after days …
+…’
+Under Article of that Directive, entitled ‘Exercise of the right of withdrawal’:
+‘1.   Before the expiry of the withdrawal period, the consumer shall inform the trader of his decision to withdraw from the contract. For this purpose, the consumer may either:
+(a)
+use the model withdrawal form as set out in Annex I(B); or
+(b)
+make any other unequivocal statement setting out his decision to withdraw from the contract.
+Member States shall not provide for any formal requirements applicable to the model withdrawal form other than those set out in Annex I(B).
+…
+3.   The trader may, in addition to the possibilities referred to in paragraph 1, give the option to the consumer to electronically fill in and submit either the model withdrawal form set out in Annex I(B) or any other unequivocal statement on the trader’s website. In those cases the trader shall communicate to the consumer an acknowledgement of receipt of such a withdrawal on a durable medium without delay.
+…’
+Article of that directive, entitled ‘Effects of withdrawal’, provides:
+‘The exercise of the right of withdrawal shall terminate the obligations of the parties:
+(a)
+to perform the distance or off-premises contract; or
+(b)
+to conclude the distance or off-premises contract, in cases where an offer was made by the consumer.’
+Annex I to Directive 2011/on ‘Information concerning the exercise of the right of withdrawal’ contains a part A entitled ‘Model instructions on withdrawal’ and a part B entitled ‘Model withdrawal form’.
+German law
+Paragraph of the Bürgerliches Gesetzbuch (Civil Code, ‘the BGB’), entitled ‘Right of withdrawal in consumer contracts’, provides in subparagraph 1:
+‘If a consumer is given, by statute, a right of withdrawal according to this provision, then the consumer and the trader are no longer bound by their declarations of intention to conclude the contract if the consumer withdraws his declaration of intention within the period specified. The withdrawal is effected by a declaration being made to the trader. That declaration must unambiguously reflect the consumer’s decision to withdraw from the contract. The withdrawal does not have to provide any grounds. Dispatch of the withdrawal in good time is sufficient to comply with the time limit.’
+Paragraph 312g of the BGB, entitled ‘Right of withdrawal’, provides in subparagraph 1:
+‘In the case of off-premises contracts and of distance contracts, the consumer has a right of withdrawal pursuant to Paragraph [of the BGB].’
+Paragraph 246a of the Einführungsgesetz zum Bürgerlichen Gesetzbuch (Law introducing the Civil Code), entitled ‘Information requirements for off-premises contracts and distance contracts other than financial services contracts’, states in subparagraph 1:
+‘…
+(2)   if the consumer is entitled to a right of withdrawal pursuant to Paragraph 312g(1) of the BGB, the trader is obliged to inform the consumer:
+1.
+of the conditions, time limits and procedure for exercising the right of withdrawal pursuant to Paragraph 355(1) of the BGB, as well as the model withdrawal form set out in Annex 2,
+…’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+In 2014, Walbusch Walter Busch distributed an advertising leaflet, containing six x 23.cm pages, inserted in various newspapers and magazines. That leaflet contained a purchase order in the form of a detachable mail order coupon. The right of withdrawal was referred to on both the front and back of the mail order coupon, which also set out the telephone number, fax number, internet address and postal address of Walbusch Walter Busch. The instructions on withdrawal and the model withdrawal form could be found on the website identified, that is to say, www.klepper.net, under the tab, AGB (Allgemeine Geschäftsbedingungen, general conditions of sale).
+The Zentrale was of the opinion that the leaflet in question was unfair on the ground that it did not meet the formal information requirements relating to the consumer’s right of withdrawal, in so far as the model withdrawal form was not attached to that leaflet.
+The Zentrale therefore submitted an application to the Landgericht Wuppertal (Wuppertal Regional Court, Germany) for an order stopping the publication of that leaflet and a claim for reimbursement of the pre-litigation costs which it incurred.
+That application was upheld by the Landgericht Wuppertal (Wuppertal Regional Court), but the decision handed down by that court was partly overturned by the Oberlandesgericht Düsseldorf (Düsseldorf Higher Regional Court, Germany).
+Walbusch Walter Busch filed an appeal on a point of law against the judgment of the Oberlandesgericht Düsseldorf (Düsseldorf Higher Regional Court) before the Bundesgerichtshof (Federal Court of Justice, Germany).
+The referring court states that, although the mail order coupon that is part of the leaflet concerned refers on its front and back sides to the existence of a legal right of withdrawal, that leaflet is silent as to the conditions, time limit and procedures for exercising that right and does not contain a model withdrawal form.
+In that regard, according to the referring court, two different approaches may be taken with regard to the interpretation of Article 8(4) of Directive 2011/as regards the scope of the duty to provide the consumer with information in the case of a means of distance communication which allows limited space or time to display the information.
+Under the first approach, that provision is to be applied when, in an abstract manner, the means of distance communication, by its very nature, allows limited space or time. Thus catalogues and brochures always have to include full details relating to the right of withdrawal, whereas, in the case of a newspaper advertisement or a flyer the size of a postcard that can be used as an order coupon, a mere reference to the existence of a right of withdrawal would suffice.
+Under the second approach, the actual arrangement of the means of distance communication by the trader, in particular its decision relating to the design, layout, graphics or size of the advertising material, is crucial. The exception under Article 8(4) of Directive 2011/may apply where the presentation of the exhaustive information concerning the withdrawal right and procedures is likely to occupy a sizeable part of the advertising material, for example more than 10% of its surface area.
+Furthermore, the referring court states that the interpretation of that provision of Directive 2011/should take account of the freedom to conduct a business recognised by Article of the Charter. In particular, as is apparent from the judgment of the Court of Justice of December 2015, Neptune Distribution (C‑157/14, EU:C:2015:823, paragraph 67), that freedom includes the freedom to advertise, and the trader’s choice relating to the media used to that end must not be restricted disproportionately, in accordance with Article 52(1) of the Charter.
+On the one hand, the obligation to include in an advertisement all the information required regarding the right of withdrawal may have a negative effect on the usefulness, for the trader, of certain types of advertising messages, as that information runs the risk of eclipsing those messages. On the other hand, in such a situation, consumers are exposed to a lot of information of which they may not be able to apprise themselves.
+In those circumstances, the Bundesgerichtshof (Federal Court of Justice) decided to stay the proceedings before it and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+For the purposes of applying Article 8(4) of Directive [2011/83], does the answer to the question whether a means of distance communication (in this instance, an advertising leaflet containing a mail order coupon) allows limited space or time to display information depend on whether
+(a)
+(in the abstract) the means of distance communication allows only limited space or time by its very nature,
+or
+(b)
+(in the particular case) it offers limited space or time in the design selected for it by the trader?
+(2)
+Is it compatible with Article 8(4) and Article 6(1)(h) of Directive [2011/83] for information on the right of withdrawal to be restricted to an indication of the existence of a right of withdrawal, in the case, as provided for in Article 8(4) of Directive [2011/83], where there is limited scope for displaying that information?
+(3)
+Do Article 8(4) and Article 6(1)(h) of Directive [2011/83] make it a mandatory requirement in all cases, including in a case where there is limited scope for displaying information, for the model withdrawal form set out in Annex I(B) to Directive [2011/83] to be attached to the means of distance communication before a distance contract is concluded?’
+Consideration of the questions referred
+By its questions, which it is appropriate to examine together, the referring court wishes to ascertain, in essence, which criteria are to be used in order to assess whether a contract may be regarded as being concluded through a means of distance communication which allows limited space or time to display the information, as provided for in Article 8(4) of Directive 2011/83, and, if appropriate, the scope of the obligation to provide information on the right of withdrawal, as provided for in Article 6(1)(h) of that directive.
+As a preliminary point, it should be recalled that, under Article 6(1) of Directive 2011/83, before a consumer is bound by a distance or off-premises contract, or any corresponding offer, the trader must provide the consumer with certain information relating to that contract or offer in a clear and comprehensible manner. In particular, where the right of withdrawal exists, Article 6(1)(h) of that directive requires the trader to make the consumer aware of the conditions, time limit and procedures for exercising that right, in accordance with Article 11(1) of that directive, and to provide the consumer with the model withdrawal form set out in Annex I(B) to that directive.
+Article 11(1) of Directive 2011/provides that a consumer who intends to exercise his right of withdrawal must inform the trader of this using the model withdrawal form set out in Annex I(B) to that directive or by making any other unequivocal statement setting out his decision to withdraw from the contract. Furthermore, Article 11(3) of that directive provides that the trader may provide the consumer with the option, in addition to the possibilities referred to in Article 11(1), of electronically filling in and submitting, on the trader’s website, either the model withdrawal form set out in Annex I(B) to that directive or any other unequivocal statement.
+In the event that the contract is concluded through a means of distance communication which allows limited space or time to display the information, Article 8(4) of Directive 2011/only requires the trader to provide the consumer, on the means of communication in question and before the contract is concluded, with certain pre-contractual information referred to in Article 6(1) of that directive, including the information concerning the right of withdrawal, as set out in Article 6(1)(h) of that directive. In such a situation, the consumer must be provided with the other pre-contractual information in a way that is appropriate to the means of distance communication used in plain and intelligible language.
+In that regard, as is clear from Article of Directive 2011/83, read in the light of recitals 4, and 7, that directive aims to provide a high level of consumer protection by ensuring that consumers are informed and secure in transactions with traders. In addition, consumer protection is enshrined in EU policies by Article TFEU and Article of the Charter (see, to that effect, judgment of March 2017, Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main, C‑568/15, EU:C:2017:154, paragraph 28).
+The purpose of Directive 2011/is to afford consumers extensive protection by conferring on them a number of rights in relation to, inter alia, distance contracts. The objective of the EU legislature is to avoid a situation where the use of means of distance communication leads to a reduction in the information provided to the consumer (see, by analogy, judgment of July 2012, Content Services, C‑49/11, EU:C:2012:419, paragraph 36).
+The information provided, before a contract is concluded, on the terms of the contract and the consequences of concluding it, is of fundamental importance for a consumer (judgment of September 2018, Wind Tre and Vodafone Italia, C‑54/and C‑55/17, EU:C:2018:710, paragraph 46). It is on the basis of that information that the consumer decides whether he wishes to be contractually bound to the trader.
+However, as is stated in recital of Directive 2011/83, in the case of distance contracts, the information requirements should be adapted to take into account the technical constraints of certain media, such as restrictions on the number of characters on certain mobile telephone screens or the time constraint on television sales spots. In such cases the trader should comply with a minimum set of information requirements and refer the consumer to another source of information, for instance by providing a toll free telephone number or a hypertext link to a webpage of the trader where the relevant information is directly available and easily accessible.
+Thus, where, in order to conclude a contract with the consumer, the trader uses a certain means of distance communication, he may find it impossible, in that communication, to provide the consumer with all the information referred to in Article 6(1) of Directive 2011/83. Such a situation arises where the means chosen by the trader allows limited space or time to display the information as a result of either the inherent characteristics of the means concerned or limitations arising from the trader’s economic choice relating, in particular, to the duration and space of the marketing communication.
+The assessment of whether, in a specific case, the means of communication allows limited space or time to display the information, as provided for in Article 8(4) of Directive 2011/83, must be carried out having regard to all of the technical features of the trader’s marketing communication. In that regard, it is necessary to ascertain whether, having regard to the space and time occupied by the communication and the minimum size of the typeface which is appropriate for the average consumer targeted by that communication, all the information set out in Article 6(1) of that directive may objectively be displayed within that communication. On the other hand, the choices made by the trader concerned regarding the development and use of the space and time at its disposal as a result of the means of communication which it decided to use are not relevant for the purposes of that communication.
+If it is found that the means of distance communication allows limited space or time to display the information, it will then be necessary to ascertain whether the trader, in accordance with Article 8(1) and (4) of Directive 2011/83, has provided the consumer with the other information referred to in Article 6(1) of that directive by another source in plain and intelligible language.
+In that regard, it should be noted that the solution adopted in Article 8(1) and (4) of Directive 2011/83, as described in paragraphs to above, is intended to ensure the right balance between a high level of consumer protection and the competitiveness of undertakings, as is stated in recital of that directive.
+The obligation to provide information set out in Article 8(1) and (4) of Directive 2011/means that the consumer receives, in an appropriate way, before the distance contract is concluded, the information needed to enable him to decide whether or not to conclude the contract, thereby meeting the legitimate objective in the public interest of consumer protection, in accordance with Article TFEU, recalled in recital of that directive, without, however, affecting the essence of the entrepreneur’s freedom of expression and information, or its freedom to conduct a business, as enshrined in Articles and of the Charter.
+In that regard, first, far from prohibiting the use of certain means of communication, Article 8(1) and (4) of Directive 2011/83, in a very clearly defined area, merely manages the content of the marketing communication the aim of which is the conclusion of a distance contract with the consumer. Secondly, the obligation, in all circumstances, to provide the information referred to in the first sentence of Article 8(4) of that directive concerns only some of the information which must be communicated to the consumer before the distance contract is concluded, in accordance with Article 6(1) of that directive. As was recalled in paragraph above, in the situation referred to in Article 8(4) of that directive, the other information must be provided by another source in plain and intelligible language.
+The information which must be given to the consumer in all circumstances includes information concerning the right of withdrawal, as set out in Article 6(1)(h) of Directive 2011/83.
+The right of withdrawal is designed to protect the consumer in the particular situation of mail-order sales, in which he is not actually able to see the product or ascertain the nature of the service provided before concluding the contract. The right of withdrawal is therefore intended to offset the disadvantage for the consumer resulting from a distance contract by granting him an appropriate period for reflection during which he can examine and test the goods acquired (see, by analogy, judgment of September 2009, Messner, C‑489/07, EU:C:2009:502, paragraph 20).
+Bearing in mind the importance of the right of withdrawal for consumer protection, the pre-contractual information concerning that right is of fundamental importance for that consumer and enables him to make an informed decision on whether or not to conclude the distance contract with the trader. In order to benefit fully from that information, the consumer must be aware of the conditions, time limit and procedures for exercising the right of withdrawal beforehand. In a situation where the contract is concluded through a means of distance communication which allows limited space or time to display the information, the trader, when using that means of communication, is not required to provide the consumer with the model withdrawal form, as provided for in Annex I(B) to that directive. First, being in possession, through that means of communication, before the conclusion of the contract, of such a model is not a circumstance that could influence the consumer’s decision on whether or not to conclude a distance contract, and, secondly, an obligation to provide the consumer in all circumstances with that model is liable to impose on the trader a disproportionate burden, and in some cases, such as contracts concluded by telephone amongst others, an unsupportable burden. In that respect, the communication of that model by another source, in plain and intelligible language, will suffice.
+Having regard to all the foregoing considerations, the answer to the questions referred is that:
+–
+the assessment of whether, in a specific case, the means of communication allows limited space or time to display the information, in accordance with Article 8(4) of Directive 2011/83, must be carried out having regard to all of the technical features of the trader’s marketing communication; in that regard, it falls to the national court to ascertain whether, having regard to the space and time occupied by the communication and the minimum size of the typeface which is appropriate for the average consumer targeted by that communication, all the information set out in Article 6(1) of that directive may objectively be displayed within that communication;
+–
+Article 6(1)(h) and Article 8(4) of Directive 2011/must be interpreted to the effect that, in a situation where the contract is concluded through a means of distance communication which allows limited space or time to display the information, and where a right of withdrawal exists, the trader is required to provide the consumer, on the means of communication in question and before the conclusion of the contract, with information regarding the conditions, time limit and procedures for exercising that right; in such a situation, that trader must provide the consumer with the model withdrawal form, as provided for in Annex I(B) to that directive, by another source in plain and intelligible language.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+The assessment of whether, in a specific case, the means of communication allows limited space or time to display the information, in accordance with Article 8(4) of Directive 2011/83/EU of the European Parliament and of the Council of October on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council, must be carried out having regard to all of the technical features of the trader’s marketing communication. In that regard, it falls to the national court to ascertain whether, having regard to the space and time occupied by the communication and the minimum size of the typeface which is appropriate for the average consumer targeted by that communication, all the information set out in Article 6(1) of that directive may objectively be displayed within that communication.
+ 
+Article 6(1)(h) and Article 8(4) of Directive 2011/must be interpreted to the effect that, in a situation where the contract is concluded through a means of distance communication which allows limited space or time to display the information, and where a right of withdrawal exists, the trader is required to provide the consumer, on the means of communication in question and before the conclusion of the contract, with information regarding the conditions, time limit and procedures for exercising that right. In such a situation, that trader must provide the consumer with the model withdrawal form, as provided for in Annex I(B) to that directive, by another source in plain and intelligible language.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

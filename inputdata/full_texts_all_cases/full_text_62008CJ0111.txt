@@ -1,0 +1,252 @@
+
+Case C-111/SCT Industri AB i likvidation
+v
+Alpenblume AB
+(Reference for a preliminary ruling from the Högsta domstolen (Sweden))
+(Judicial cooperation in civil matters – Jurisdiction and enforcement of judgments – Scope – Insolvency)
+Summary of the Judgment
+Judicial cooperation in civil matters – Jurisdiction and enforcement of judgments in civil and commercial matters – Regulation
+            No 44/– Scope – Excluded matters – Bankruptcy, proceedings relating to the winding-up of insolvent companies or other
+            legal persons, judicial arrangements, compositions and analogous proceedings 
+(Council Regulation No 44/2001, Art.(2)(b))
+The exception provided for in Article 1(2)(b) of Regulation 44/2001on jurisdiction and the recognition and enforcement of
+         judgments in civil and commercial matters must be interpreted as applying to a judgment of a court of Member State A regarding
+         registration of ownership of shares in a company having its registered office in Member State A, according to which the transfer
+         of those shares was to be regarded as invalid on the ground that the court of Member State A did not recognise the powers
+         of a liquidator from a Member State B in the context of insolvency proceedings conducted and closed in Member State B.
+      
+The action which gave rise to such a decision derives directly from insolvency proceedings and is closely linked to them.
+         First, the link between the court action and the insolvency proceedings is particularly close since the dispute concerns solely
+         the ownership of the shares which were transferred in insolvency proceedings by a liquidator on the basis of provisions, such
+         as those enacted under the legislation of Member State B on insolvency proceedings, which derogate from the general rules
+         of private law and, in particular, from property law. Thus, the transfer of the shares and the action for restitution of title
+         to which it gave rise are the direct and indissociable consequence of the exercise by the liquidator – an individual who intervenes
+         only after the insolvency proceedings have been opened – of a power which he derives specifically from the provisions of national
+         law governing insolvency proceedings. Second, the content and the scope of the decision declaring the transfer to be invalid
+         are intimately linked to the conduct of the insolvency proceedings since the ground on which the transfer was held invalid
+         relates, specifically and exclusively, to the extent of the powers of that liquidator in insolvency proceedings.
+      
+(see paras 25-28, 30-31, 33, operative part)
+  
+  
+JUDGMENT OF THE COURT (First Chamber)
+July (*)
+      
+(Judicial cooperation in civil matters – Jurisdiction and enforcement of judgments – Scope – Insolvency)
+In Case C‑111/08,
+REFERENCE for a preliminary ruling under Article EC from the Högsta domstolen (Sweden), made by decision of March 2008,
+         received at the Court on March 2008, in the proceedings
+      
+SCT Industri AB i likvidation
+v
+Alpenblume AB,
+THE COURT (First Chamber),
+composed of P. Jann (Rapporteur), President of Chamber, A. Tizzano, A. Borg Barthet, E. Levits and J.-J. Kasel, Judges,
+Advocate General: E. Sharpston,
+Registrar: C. Strömholm, Administrator,
+having regard to the written procedure and further to the hearing on February 2009,
+after considering the observations submitted on behalf of:
+–        SCT Industri AB i likvidation, by F. Lüning, jur. kand.,
+–        Alpenblume AB, by L.-O. Svensson, advokat, 
+–        the German Government, by M. Lumma and J. Kemper, acting as Agents,
+–        the Spanish Government, by J. López-Medel Bascones, acting as Agent,
+–        the Portuguese Government, by L. Inez Fernandes and D. Pires, acting as Agents,
+–        the United Kingdom Government, by L. Seeboruth, acting as Agent, and A. Henshaw, Barrister,
+–        the Commission of the European Communities, by A.‑M. Rouchaud-Joët and P. Dejmek, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 1(2)(b) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 12, p. 1).
+      
+The reference was made in the context of proceedings between SCT Industri AB (‘SCT Industri’) and Alpenblume AB (‘Alpenblume’),
+         two Swedish companies, concerning an action to recover ownership of shares which had been held in an Austrian company by SCT
+         Industri and which were sold to Alpenblume; the action was brought following a judgment delivered by an Austrian court which
+         declared Alpenblume’s acquisition of those shares to be invalid.
+      
+ Legal framework
+Recital in the preamble to Regulation No 44/provides:
+      
+‘Certain differences between national rules governing jurisdiction and recognition of judgments hamper the sound operation
+         of the internal market. Provisions to unify the rules of conflict of jurisdiction in civil and commercial matters and to simplify
+         the formalities with a view to rapid and simple recognition and enforcement of judgments from Member States bound by this
+         Regulation are essential.’
+      
+Pursuant to Recital in the preamble to Regulation No 44/2001, ‘[t]he scope of this Regulation must cover all the main civil
+         and commercial matters apart from certain well-defined matters’.
+      
+Recital in the preamble to the regulation states:
+      
+‘In the interests of the harmonious administration of justice it is necessary to minimise the possibility of concurrent proceedings
+         and to ensure that irreconcilable judgments will not be given in two Member States. There must be a clear and effective mechanism
+         for resolving cases of lis pendens and related actions and for obviating problems flowing from national differences as to the determination of the time when
+         a case is regarded as pending. For the purposes of this Regulation that time should be defined autonomously.’
+      
+Recital in the preamble to Regulation No 44/provides:
+      
+‘Continuity between the (Convention of September on Jurisdiction and the Enforcement of Judgments in Civil and Commercial
+         Matters (OJ L 304, p. 36; “the Brussels Convention”)) and this Regulation should be ensured, and transitional provisions
+         should be laid down to that end. The same need for continuity applies as regards the interpretation of the Brussels Convention
+         by the Court of Justice of the European Communities, and the Protocol (on such interpretation by the Court, as revised
+         and amended (OJ C 27, p. 28)) should remain applicable also to cases already pending when this Regulation enters into
+         force.’
+      
+Article of the regulation defines its scope. According to Article 1(1) of Regulation No 44/2001, it covers all civil and
+         commercial matters but does not extend to revenue, customs or administrative matters.
+      
+Article 1(2)(b) of the regulation provides:
+      
+‘The Regulation shall not apply to:
+…
+bankruptcy, proceedings relating to the winding-up of insolvent companies or other legal persons, judicial arrangements, compositions
+         and analogous proceedings’.
+      
+Article of Council Regulation (EC) No 1346/of May on insolvency proceedings (OJ L 160, p. 1), which is
+         headed ‘Recognition and enforceability of other judgments’, provides as follows:
+      
+‘1.      Judgments handed down by a court whose judgment concerning the opening of proceedings is recognised in accordance with Article
+         and which concern the course and closure of insolvency proceedings, and compositions approved by that court shall also
+         be recognised with no further formalities. Such judgments shall be enforced in accordance with Articles to 51, with the
+         exception of Article 34(2), of the Brussels Convention on Jurisdiction and the Enforcement of Judgments in Civil and Commercial
+         Matters, as amended by the Conventions of Accession to this Convention.
+      
+The first subparagraph shall also apply to judgments deriving directly from the insolvency proceedings and which are closely
+         linked with them, even if they were handed down by another court.
+      
+The first subparagraph shall also apply to judgments relating to preservation measures taken after the request for the opening
+         of insolvency proceedings.
+      
+2.      The recognition and enforcement of judgments other than those referred to in paragraph shall be governed by the Convention
+         referred to in paragraph 1, provided that that Convention is applicable.’
+      
+According to Article of Regulation No 1346/2000, ‘[t]he provisions of this Regulation shall apply only to insolvency proceedings
+         opened after its entry into force. Acts done by a debtor before the entry into force of this Regulation shall continue to
+         be governed by the law which was applicable to them at the time they were done’.
+      
+ The main proceedings and the question referred for a preliminary ruling
+In 1993, insolvency proceedings were opened against SCT Industri by Malmö tingsrätt (Malmö District Court). A liquidator was
+         appointed. In the course of those proceedings, the liquidator transferred SCT Industri’s shares, that is, a holding of 47%
+         in the capital of SCT Hotelbetrieb GmbH, a company incorporated under Austrian law, now Scaniahof Ferienwohnungen GmbH (‘Scaniahof’),
+         to Alpenblume for SEK 2. Alpenblume was registered in Austria as owner of those shares in the company.
+      
+The insolvency proceedings were closed in without surplus. On March 2002, Malmö tingsrätt ordered SCT Industri to
+         be wound up.   
+      
+Further to proceedings brought before an Austrian court by SCT Industri, that court held that the liquidator appointed in
+         Sweden had no power to dispose of assets situated in Austria and that consequently Alpenblume’s acquisition of the shares
+         was invalid. Accordingly, the Austrian court ordered Scaniahof to register SCT Industri as owner of the shares transferred
+         from the assets in insolvency. Alpenblume appeared as intervener (‘Nebenintervenientin’) in the Austrian proceedings. The Oberster Gerichtshof (Supreme Court, Austria) dismissed the intervener’s appeal (‘außerordentliche Revision’ – exceptional appeal on a point of law) on May 2004.
+      
+On August 2004, Alpenblume brought proceedings before a Swedish court against SCT Industri for restitution of title to
+         the shares in question, requesting that SCT Industri be ordered, on penalty of a fine, to take all measures necessary for
+         Alpenblume to be registered as rightful owner of the shares. By decision of March 2005, Malmö tingsrätt, following an objection
+         by the applicant in the main proceedings, held that there was no obstacle to examination of that request. 
+      
+SCT Industri appealed against that decision, asking that the claim be dismissed. Alpenblume contended that it should be upheld.
+         By decision of July 2005, Hovrätten för Skåne och Blekinge (Court of Appeal for Scania and Blekinge) dismissed the appeal.
+      
+On appeal by SCT Industri, the Högsta domstolen (Supreme Court), by order of March 2008, decided to stay proceedings and
+         to refer the following question to the Court of Justice for a preliminary ruling:
+      
+‘Is the exclusion under Article 1(2)(b) of Regulation [No 44/2001] of bankruptcy, proceedings relating to the winding-up of
+         insolvent companies or other legal persons, judicial arrangements, compositions and analogous proceedings from the scope of
+         that regulation to be interpreted as meaning that it covers a decision given by a court in one Member State (A) regarding
+         registration of ownership of shares in a company having its registered office in Member State A, the shares having been transferred
+         by the liquidator of a company having its registered office in another Member State (B), where the court based its decision
+         on the fact that, in the absence of an international agreement on the mutual recognition of insolvency proceedings, Member
+         State A does not recognise the liquidator’s powers to dispose of property situated in Member State A?’
+      
+ The question referred for a preliminary ruling
+The referring court raises the question, essentially, of recognition between the Member States of a judgment in civil proceedings
+         linked to insolvency proceedings which took place in another Member State. More precisely, the question concerns whether a
+         decision by which a court of another Member State has held a transfer of shares effected in the context of insolvency proceedings
+         to be invalid, on the ground that the liquidator who made the transfer lacked the power to dispose of assets situated in that
+         Member State, falls under the exception in Article 1(2)(b) of Regulation 44/which applies to bankruptcy, proceedings
+         relating to the winding-up of insolvent companies or other legal persons, judicial arrangements, compositions and other similar
+         proceedings. 
+      
+As a preliminary point, it must be noted that Regulation No 1346/is not applicable to this case as the insolvency proceedings
+         were opened before the entry into force of that regulation.
+      
+Therefore, it must be determined only whether a judgment such as that of the Austrian court in the case in the main proceedings
+         falls within Regulation No 44/2001, so as to be binding on the referring court.
+      
+In that regard, it should first of all be noted that, with regard in particular to bankruptcy and other similar proceedings,
+         these were excluded from the scope of the Brussels Convention both on account of the special nature of the subject-matter
+         concerned, which necessitates specific rules, and because of major differences between the legislation of the Contracting
+         States (see, to that effect, Case 133/Gourdain [1979] ECR 733, paragraph 3, and Report by Mr Jenard on the Brussels Convention (OJ C 59, p. 1)).
+      
+In its case-law relating to the Brussels Convention, the Court has thus held that an action is related to bankruptcy if it
+         derives directly from the bankruptcy and is closely linked to proceedings for realising the assets or judicial supervision
+         (see Gourdain, paragraph 4). An action with such characteristics does not, therefore, fall within the scope of that convention.
+      
+The case-law also indicates that, in so far as Regulation No 44/now replaces the Brussels Convention in relations between
+         the Member States, with the exception of the Kingdom of Denmark, an interpretation given by the Court concerning that convention
+         also applies to the regulation, where its provisions and those of the Brussels Convention may be treated as equivalent (see,
+         inter alia, Case C-180/Ilsinger [2009] ECR I-0000, paragraph 41).
+      
+In the scheme established by Regulation No 44/2001, Article 1(2)(b) of that regulation has the same position and performs
+         the same role as point of the second subparagraph of Article of the Brussels Convention. Moreover, the wording of those
+         two provisions is identical. 
+      
+In view of such equivalence between a provision of the Brussels Convention and a provision of Regulation No 44/2001, it is
+         necessary, in accordance with recital in the preamble to the latter, to ensure continuity in the interpretation of those
+         two instruments, as such continuity is also the means to ensure observance of the principle of legal certainty, which constitutes
+         one of the cornerstones of those instruments (Ilsinger, paragraph 58).
+      
+In the light of the foregoing it is therefore the closeness of the link, in the sense of the Gourdain case-law, between a court action such as that at issue in the main proceedings and the insolvency proceedings that is decisive
+         for the purposes of deciding whether the exclusion in Article 1(2)(b) of Regulation No 44/is applicable.
+      
+It is clear, in the present case, that that link is particularly close.
+      
+First, according to the order for reference, the dispute in the main proceedings concerns solely the ownership of the shares
+         which were transferred in insolvency proceedings by the liquidator on the basis of provisions, such as those enacted by the
+         Swedish Law on insolvency (Konkurslagen) No of (SFS 1987, No 672), which derogate from the general rules of private
+         law and, in particular, from property law. In particular, such provisions provide that, in the case of insolvency, debtors
+         lose the right freely to dispose of their assets and the liquidator has to administer the assets in insolvency on behalf of
+         the creditors, which includes effecting any necessary transfers.
+      
+In other words, the transfer at issue in the main proceedings and the action for restitution of title to which it gave rise,
+         are the direct and indissociable consequence of the exercise by the liquidator – an individual who intervenes only after the
+         insolvency proceedings have been opened – of a power which he derives specifically from the provisions of national law governing
+         that type of proceedings.
+      
+That is also evident from the fact that in the case in the main proceedings – as is clear from the documents before the Court
+         – the assets of the undertaking which was subject to the insolvency proceedings increased following the sale of the shares
+         at issue by the liquidator.
+      
+Second, it is not disputed that, in the judgment of which recognition is sought before the referring court, the ground on
+         which the Austrian court held invalid the transfer of the shares at issue in the main proceedings relates, specifically and
+         exclusively, to the extent of the powers of that liquidator in insolvency proceedings and, in particular, his power to dispose
+         of the assets situated in Austria. The content and scope of that decision are therefore intimately linked to the conduct of
+         the insolvency proceedings. That link is, moreover, not weakened by the fact that, in the case in the main proceedings, the
+         insolvency proceedings had been closed when the action for restitution of title was brought before the Austrian courts.
+      
+In those circumstances, it must be held that an action such as that at issue in the main proceedings derives directly from
+         insolvency proceedings and is closely linked with them, so that it does not fall within the scope of Regulation No 44/2001.
+      
+Having regard to the specific legal situation at issue in the case in the main proceedings and taking into account the close
+         link between the action pending before the referring court and the insolvency proceedings, the principles set out in recitals
+         2, and in the preamble to Regulation No 44/do not affect that assessment.
+      
+In the light of all of the foregoing considerations, the answer to the question referred is that the exception provided for
+         in Article 1(2)(b) of Regulation No 44/must be interpreted as applying to a judgment of a court of Member State A regarding
+         registration of ownership of shares in a company having its registered office in Member State A, according to which the transfer
+         of those shares was to be regarded as invalid on the ground that the court of Member State A did not recognise the powers
+         of a liquidator from a Member State B in the context of insolvency proceedings conducted and closed in Member State B.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (First Chamber) hereby rules:
+The exception provided for in Article 1(2)(b) of Council Regulation No 44/(EC) of December on jurisdiction and
+            the recognition and enforcement of judgments in civil and commercial matters must be interpreted as applying to a judgment
+            of a court of Member State A regarding registration of ownership of shares in a company having its registered office in Member
+            State A, according to which the transfer of those shares was to be regarded as invalid on the ground that the court of Member
+            State A did not recognise the powers of a liquidator from a Member State B in the context of insolvency proceedings conducted
+            and closed in Member State B.
+[Signatures]
+* Language of the case: Swedish.
+      
+Top  

@@ -1,0 +1,169 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+November (
+*)
+(Reference for a preliminary ruling — Jurisdiction of the Court — Directive 2003/86/EC — Right to family reunification — Article — Refusal to grant an autonomous residence permit — National legislation providing for a requirement to pass a civic integration examination)
+In Case C-257/17,
+REQUEST for a preliminary ruling under Article TFEU from the Raad van State (Council of State, Netherlands), made by decision of May 2017, received at the Court on May 2017, in the proceedings
+C,
+A
+v
+Staatssecretaris van Veiligheid en Justitie,
+THE COURT (Third Chamber),
+composed of M. Vilaras, President of the Fourth Chamber, acting as President of the Third Chamber, J. Malenovský, L. Bay Larsen (Rapporteur), M. Safjan and D. Šváby, Judges,
+Advocate General: P. Mengozzi,
+Registrar: R. Şereş, Administrator,
+having regard to the written procedure and further to the hearing on March 2018,
+after considering the observations submitted on behalf of:
+–
+C and A, by C.F. Wassenaar, advocaat,
+–
+the Netherlands Government, by M.K. Bulterman, M.H.S. Gijzen and M.A.M. de Ree, acting as Agents,
+–
+the Austrian Government, by G. Eberhard, acting as Agent,
+–
+the European Commission, by C. Cattabriga and G. Wils, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on June 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 15(1) and (4) of Council Directive 2003/86/EC of September on the right to family reunification (OJ L 251, p. 12).
+The request has been made in proceedings between, on the one hand, C and A, third country nationals, and, on the other, the Staatssecretaris van Veiligheid en Justitie (State Secretary for Security and Justice, Netherlands) (‘the State Secretary’) concerning the State Secretary’s rejection of C and A’s applications to change their fixed-term residence permits and, in respect of C, the withdrawal of her fixed-term residence permit.
+Legal context
+European Union law
+Directive 2003/Recital of Directive 2003/is worded as follows:
+‘The integration of family members should be promoted. For that purpose, they should be granted a status independent of that of the sponsor, in particular in cases of breakup of marriages and partnerships, and access to education, employment and vocational training on the same terms as the person with whom they are reunited, under the relevant conditions.’
+Under Article 2(c) of that directive, ‘sponsor’ means ‘a third country national residing lawfully in a Member State and applying or whose family members apply for family reunification to be joined with him/her’.
+Article 3(3) of the directive reads as follows:
+‘This Directive shall not apply to members of the family of a Union citizen.’
+Article 7(2) of the directive provides:
+‘Member States may require third country nationals to comply with integration measures, in accordance with national law.
+With regard to the refugees and/or family members of refugees referred to in Article the integration measures referred to in the first subparagraph may only be applied once the persons concerned have been granted family reunification.’
+Article of Directive 2003/states:
+‘1.   Not later than after five years of residence, and provided that the family member has not been granted a residence permit for reasons other than family reunification, the spouse or unmarried partner and a child who has reached majority shall be entitled, upon application, if required, to an autonomous residence permit, independent of that of the sponsor.
+Member States may limit the granting of the residence permit referred to in the first subparagraph to the spouse or unmarried partner in cases of breakdown of the family relationship.
+…
+4.   The conditions relating to the granting and duration of the autonomous residence permit are established by national law.’
+Directive 2003/109/EC
+Article 5(2) of Council Directive 2003/109/EC of November concerning the status of third-country nationals who are long-term residents (OJ L 16, p. 44) provides:
+‘Member States may require third-country nationals to comply with integration conditions, in accordance with national law.’
+Netherlands law
+Article 3.of the Vreemdelingenbesluit (Decree on foreign nationals 2000) provides:
+‘1.   [A] fixed-term residence permit … subject to a restriction relating to non-temporary humanitarian grounds may be issued to a foreign national who:
+(a)
+has resided for five years in the Netherlands as the holder of a residence permit subject to the restriction provided for in point 1o, …:
+1o.
+residence as the family member of a person holding a permanent right of residence;
+…
+5.   Article 3.80a shall apply to the foreign nationals referred to in paragraph 1(a)(1) ...’
+Article 3.80a of that decree provides as follows:
+‘1.   An application to change a residence permit … into a residence permit subject to a restriction relating to non-temporary humanitarian grounds shall be rejected where the application has been made by a foreign national within the meaning of Article 3.51(1)(a)(1), who has not passed the examination provided for in Article 7(2)(a) of the Law on Civic Integration or has not obtained a diploma, certificate or another document within the meaning of Article 5(1)(c) of that law.
+2.   [Paragraph 1] shall not apply if the foreign national:
+…
+(e)
+has been exempted from the civic integration requirement …
+…
+4.   In addition, the Minister may decide not to apply paragraph if he considers that the application of that provision leads to manifest situations of serious injustice.’
+Article 6(1) of the Wet inburgering (Law on Civic Integration) states:
+‘The Minister shall exempt a person subject to the civic integration requirement from that requirement where:
+(a)
+that person has shown that, owing to a psychological or physical disability or a mental deficiency, he is permanently incapable of passing the civic integration examination;
+(b)
+on the basis of the demonstrable efforts of the person subject to the civic integration requirement, the Minister comes to the view that that person cannot reasonably satisfy the civic integration requirement.’
+Article 7(1) and (2) of that law reads as follows:
+‘1.   A person subject to the civic integration requirement must acquire spoken and written knowledge of the Dutch language at least to level Aof the Common European Framework of Reference for Languages, and knowledge of Dutch society within three years.
+2.   A person subject to the civic integration requirement shall be deemed to have fulfilled that requirement if:
+(a)
+he has passed the test laid down by decree of the Minister, or;
+(b)
+he has obtained a diploma, certificate or other document within the meaning of Article 5(1)(c).’
+The disputes in the main proceedings and the questions referred for a preliminary ruling
+C’s situation
+From November to November 2014, C held a residence permit to reside with her spouse, a Dutch national. On August 2014, C lodged an application to change that permit into an extended residence permit.
+On February 2015, the State Secretary rejected that application on the ground that C had not proved that she had passed, was not subject to, or had been exempted from, the civil integration requirement. He also withdrew C’s residence permit to reside with a spouse with retroactive effect to February on the ground that, from that date, she was no longer living at the same address as her spouse.
+Following a complaint lodged by C, by decision of July 2015, the State Secretary granted C an autonomous residence permit with effect from February 2015. That decision was justified by the fact that C provided the State Secretary with a statement of February from the Dienst Uitvoering Onderwijs (Education Executive Agency, Netherlands) finding that C had been exempted from the civic integration requirement. Nevertheless, the State Secretary reaffirmed the withdrawal of C’s residence permit to reside with a spouse with retroactive effect to February 2014.
+C brought an action against the decision of the State Secretary of July before the rechtbank den Haag zittingsplaats Rotterdam (District Court, The Hague, sitting at Rotterdam, Netherlands). In a judgment of January 2016, that court dismissed the action.
+C appealed against that judgment before the referring court.
+A’s situation
+From December to October 2016, A held a residence permit to reside with his spouse, a Dutch national. On November 2014, A lodged an application to change that permit into an extended residence permit.
+On February 2015, the State Secretary rejected that application on the ground that A had not proved that he had passed, was not subject to, or had been exempted from, the civil integration requirement.
+Following a complaint lodged by A, by decision of September 2015, the State Secretary reaffirmed his initial decision.
+A brought an action against that decision before the rechtbank den Haag zittingsplaats Rotterdam (District Court, The Hague, sitting at Rotterdam). In a judgment of May 2016, that court dismissed the action.
+A appealed against that judgment before the referring court.
+Considerations common to C and A’s situations
+The referring court considers that, in accordance with Article 3(3) of Directive 2003/86, the situations at issue in the main proceedings do not fall within the scope of that directive, since C and A’s respective spouses are Dutch nationals.
+It nevertheless considers that Article of the directive applies, by analogy, to A and to C, in so far as Dutch law provides that, if, as in the present case, Dutch primary and secondary legislation does not draw a distinction between a situation governed by EU law and a situation falling outside of its scope, the relevant provisions of EU law are directly and unconditionally applicable to the internal situation.
+Consequently, although the referring court considers that the outcome of the cases in the main proceedings depends on the interpretation of Article of Directive 2003/86, it asks, however, in respect of the judgment of October 2012, Nolan (C‑583/10, EU:C:2012:638), whether the Court has jurisdiction to answer a question referred for a preliminary ruling interpreting that article in situations such as those at issue in the main proceedings.
+If so, the referring court wishes to know whether it is compatible with Article of Directive 2003/for national legislation to lay down a condition relating to integration and, if not, the date from which an autonomous residence permit must take effect.
+In those circumstances, the Raad van State (Council of State, Netherlands) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Having regard to Article 3(3) of [Directive 2003/86] and to the judgment of October 2012, Nolan (C‑583/10, EU:C:2012:638), does the Court of Justice have jurisdiction to answer questions referred for a preliminary ruling by the courts of the Netherlands concerning the interpretation of certain provisions of that directive in proceedings relating to the right of residence of members of the family of sponsors who have Netherlands nationality, if that directive has been declared to be directly and unconditionally applicable under Netherlands law to those family members?
+(2)
+Should Article 15(1) and (4) of [Directive 2003/86] be interpreted as precluding national legislation, such as that at issue in the main proceedings, under which an application for an autonomous residence permit on the part of a foreign national who has resided lawfully for more than five years on the territory of a Member State for family-reunification purposes may be rejected because of non-compliance with conditions relating to integration laid down in national law?
+(3)
+Should Article 15(1) and (4) of [Directive 2003/86] be interpreted as precluding national legislation, such as that at issue in the main proceedings, on the basis of which an autonomous residence permit cannot be granted earlier than the date on which it is applied for?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks, in essence, whether the Court has jurisdiction, on the basis of Article TFEU, to interpret Article of Directive 2003/in situations such as those at issue in the main proceedings, where a national court is called upon to rule on the grant of an autonomous residence permit to a third country national, who is a family member of an EU citizen who has not exercised his right of free movement, if that provision was made directly and unconditionally applicable to such situations under national law.
+It should be noted, first, that Article 2(c) of Directive 2003/states that the term ‘sponsor’ necessarily refers to a third country national and, second, that Article 3(3) of that directive provides that the directive is not to apply to members of the family of a Union citizen.
+The EU legislature did not therefore intend the directive to apply to a third country national family member of an EU citizen who has not exercised his right of free movement, such as the applicants in the main proceedings, as indeed corroborated by the travaux préparatoires for Directive 2003/(see, to that effect, judgment of November 2011, Dereci and Others, C‑256/11, EU:C:2011:734, paragraphs and 49).
+It is clear, however, from the Court’s settled case-law that the Court has jurisdiction to give a preliminary ruling on questions concerning provisions of EU law in situations in which, even if the facts of the case in the main proceedings do not fall directly within the field of application of EU law, provisions of EU law have been rendered applicable by domestic law due to a renvoi made by that law to the content of those provisions (see, to that effect, judgments of December 2011, Cicala, C‑482/10, EU:C:2011:868, paragraph 17; of October 2012, Nolan, C‑583/10, EU:C:2012:638, paragraph 45; and of November 2016, Ullens de Schooten, C‑268/15, EU:C:2016:874, paragraph 53).
+In such circumstances, it is clearly in the interest of the European Union that, in order to forestall future differences of interpretation, provisions taken from EU law should be interpreted uniformly (see, to that effect, judgments of October 2012, Nolan, C‑583/10, EU:C:2012:638, paragraph 46, and of March 2018, Jacob and Lassus, C‑327/and C‑421/16, EU:C:2018:210, paragraph 34).
+Thus, an interpretation by the Court of provisions of EU law in situations not falling within the scope of EU law is warranted where such provisions have been made directly and unconditionally applicable to such situations by national law, in order to ensure that those situations and situations falling within the scope of EU law are treated in the same way (see, to that effect, judgments of December 2011, Cicala, C‑482/10, EU:C:2011:868, paragraph 19; of October 2012, Nolan, C‑583/10, EU:C:2012:638, paragraph 47; and of November 2013, Romeo, C‑313/12, EU:C:2013:718, paragraph 33).
+In the present case, the referring court, with exclusive jurisdiction to interpret national law under the framework of the system of judicial cooperation enshrined in Article TFEU (see, to that effect, judgments of July 1997, Leur-Bloem, C‑28/95, EU:C:1997:369, paragraph 33, and of June 2017,Online Games and Others, C‑685/15, EU:C:2017:452, paragraph 45), has made clear that it follows from Dutch law that, where, as in the present case, the national legislature subjects one situation falling within the scope of EU law and another outwith the scope of EU law to the same rule, those situations must be treated in the same way. The referring court infers that it was, under Dutch law, required to apply Article of Directive 2003/to the cases in the main proceedings.
+In those circumstances, as the Netherlands Government has also observed, it must be held that Dutch law made that provision directly and unconditionally applicable to situations such as those at issue in the main proceedings and that it is therefore clearly in the interest of the European Union that the Court rule on the request for a preliminary ruling.
+That conclusion cannot be called into question by the fact that Article 3(3) of Directive 2003/expressly excludes situations such as those at issue in the main proceedings from the scope of that directive.
+It is to be noted, in that regard, that the Court has previously held that, where the condition stated in paragraph above is satisfied, it may also have jurisdiction in situations covered by an express exclusion from the scope of EU legislation (see, to that effect, judgments of October 2017, Solar Electric Martinique, C‑303/16, EU:C:2017:773, paragraphs and 30, and of June 2018, SGI and Valériane, C‑459/and C‑460/17, EU:C:2018:501, paragraph 28).
+That solution is fully in line with the Court’s settled case-law set out in paragraphs to above, which is precisely intended to allow the Court to rule on the interpretation of provisions of EU law, irrespective of the circumstances in which those provisions are applicable, in situations which the drafters of the Treaties or the EU legislature did not consider it useful to include within the scope of those provisions (see, to that effect, judgment of October 1990, Dzodzi, C‑297/and C‑197/89, EU:C:1990:360, paragraph 37).
+In that context, it cannot be justified for the Court’s jurisdiction to vary depending on whether the scope of the relevant provision was limited by a definition of the cases to which it refers or by means of certain exclusions from its scope, since both legislative techniques may be used interchangeably.
+It must indeed be held that, in the present case, the exclusion of family members of EU citizens from the scope of Directive 2003/is a consequence both of the definition of the term ‘sponsor’ given in Article 2(c) of that directive and of the exclusion set out in Article 3(3) thereof.
+In addition, although the referring court has expressed doubts as to the jurisdiction of the Court according to the judgment of October 2012, Nolan (C‑583/10, EU:C:2012:638), it should be noted that the case which gave rise to that judgment was characterised by particularities which do not apply to the cases in the main proceedings.
+First, in the case which gave rise to that judgment, to have held that the Court had jurisdiction would have meant a departure from the logic underpinning the EU legislation at issue, which furthered the establishment or functioning of the internal market (see, to that effect, judgment of October 2012, Nolan, C‑583/10, EU:C:2012:638, paragraphs to 41).
+Second, on the basis of the information in the file before the Court, it could not be ascertained in that case, as has been found in paragraph above, whether the national law referred directly and unconditionally to EU law (see, to that effect, judgment of October 2012, Nolan, C‑583/10, EU:C:2012:638, paragraphs and 52).
+In the light of the foregoing, the answer to the first question is that the Court has jurisdiction, on the basis of Article TFEU, to interpret Article of Directive 2003/in situations such as those at issue in the main proceedings, where a national court is called upon to rule on the grant of an autonomous residence permit to a third country national, who is a family member of an EU citizen who has not exercised his right of free movement, if that provision was made directly and unconditionally applicable to such situations under national law.
+The second question
+By its second question, the referring court asks, in essence, whether Article 15(1) and (4) of Directive 2003/precludes national legislation which permits an application for an autonomous residence permit, lodged by a third country national who has resided over five years in a Member State by virtue of family reunification, to be rejected on the ground that he has not shown that he has passed a civic integration test on the language and society of that Member State.
+Article 15(1) of Directive 2003/provides that, not later than after five years of residence, and provided that the family member has not been granted a residence permit for reasons other than family reunification, the spouse or unmarried partner and a child who has reached majority is to be entitled, upon application, if required, to an autonomous residence permit, independent of that of the sponsor.
+Article 15(4) of that directive states, for its part, that the conditions relating to the granting and duration of that residence permit are established by national law.
+It follows from a combined reading of those two provisions that, although issuing an autonomous residence permit is, in principle, an entitlement arising from five years of residence in a Member State by virtue of family reunification, the EU legislature nevertheless authorised the Member States to subject the grant of such a permit to certain conditions, which it left to be defined by the Member States.
+By introducing a reference to national law in Article 15(4) of Directive 2003/86, the EU legislature thereby indicated that it wished to leave to the discretion of each Member State the responsibility for determining the conditions under which an autonomous residence permit should be issued to a third country national who has resided over five years in that Member State by virtue of family reunification (see, by analogy, judgment of April 2018, A and S, C‑550/16, EU:C:2018:248, paragraph 42).
+In that regard, the rules governing the grant of an autonomous residence permit therefore differ from the rules relating to authorisation of family reunification, which include specific positive obligations and require the Member States, in cases determined by Directive 2003/86, to authorise that reunification without exercising their discretion (see, to that effect, judgment of July 2015, K and A, C‑153/14, EU:C:2015:453, paragraph 46).
+Nevertheless, since the grant of an autonomous permit at the end of the period referred to in Article 15(1) of that directive is a general rule, the latitude left to the Member States by Article 15(4) of the directive must not be used by them in a manner which would undermine the objective and effectiveness of that article, which is, as stated in recital thereof, to allow family members to be granted a status independent of that of the sponsor (see, by analogy, judgment of July 2015, K and A, C‑153/14, EU:C:2015:453, paragraph 50).
+Therefore, further conditions to which a Member State subjects the grant of an autonomous residence permit cannot be so onerous as to constitute a difficult obstacle to overcome, preventing, in practice, the third country nationals referred to in Article 15(1) of Directive 2003/from validly obtaining such a permit at the end of the period referred to in that provision (see, by analogy, judgment of July 2015, K and A, C‑153/14, EU:C:2015:453, paragraph 59).
+Failing wording to that effect in Article 15(4) of that directive, that limitation of the latitude left to the Member States by that provision cannot, in principle, preclude Member States from laying down substantive conditions.
+In that context, it cannot be ruled out that a Member State may subject the grant of an autonomous residence permit to passing a civic integration examination on the language and society of that Member State.
+In the first place, laying down conditions in respect of integration appears in line with the general objective set by the EU legislature of facilitating the integration of third country nationals in Member States, as referred to in recital of Directive 2003/(see, to that effect, judgments of June 2006, Parliament v Council, C‑540/03, EU:C:2006:429, paragraph 69, and of July 2015, K and A, C‑153/14, EU:C:2015:453, paragraph 53).
+In the second place, it must be borne in mind that Article 7(2) of Directive 2003/allows a Member State to require third country nationals to comply with integration measures, without limiting those conditions to the period preceding their entry into the Member State.
+In those circumstances, the effectiveness of any measures adopted by a Member State pursuant to Article 7(2) of Directive 2003/could be jeopardised if a third country national’s lack of integration at the end of five years could not, under any circumstances, prevent the strengthening of his residence permit under Article of that directive.
+Indeed, it cannot be contested that, for the purposes of the more specific harmonisation provided for by Directive 2003/109, the EU legislature specifically allowed Member States, in Article 5(2) of that directive, to subject the acquisition of long-term residence status to integration conditions.
+In the third place, in so far as the right to be granted an autonomous residence permit arises from a period of five years of residency in a Member State, the third country nationals in question should have been able to acquire some knowledge of the language and society of that Member State as would enable them, in principle, to pass an examination on those subjects. Imposing a requirement in that regard cannot therefore be considered, in principle, to be liable to undermine the effectiveness of Article 15(1) of the directive.
+However, in order to further the objective of that provision and in accordance with the principle of proportionality, which is one of the general principles of EU law, the detailed rules for such a requirement must be suitable for achieving the objectives of the national legislation and must not go beyond what is necessary to attain them (see, by analogy, judgment of July 2015, K and A, C‑153/14, EU:C:2015:453, paragraph 51).
+The requirement to pass a civic integration examination must be capable of proving that the third country nationals in question have acquired knowledge of the language and society of the host Member State, which is undeniably useful for ensuring their integration within that Member State (see, to that effect, judgments of June 2015, P and S, C‑579/13, EU:C:2015:369, paragraph 48, and of July 2015, K and A, C‑153/14, EU:C:2015:453, paragraphs and 54).
+However, that requirement cannot legitimately go beyond what is necessary to attain the objective of facilitating the integration of those third country nationals.
+That implies, in particular, that the knowledge required to pass the civic integration examination is at a basic level, that the condition imposed by the national legislation does not lead to an autonomous residence permit not being granted to third country nationals who have demonstrated their willingness to pass the examination and have made every effort to achieve that objective, that due account is taken of specific individual circumstances and that the fees relating to that examination are not excessive (see, to that effect, judgment of July 2015, K and A, C‑153/14, EU:C:2015:453, paragraphs to 70).
+In that regard, it should be noted, in particular, that circumstances, such as the age, level of education, economic situation or health of a sponsor’s relevant family members, must lead the competent authorities not to subject the grant of an autonomous residence permit to passing a civic integration examination, when, due to those circumstances, they are unable to take or pass that examination (see, to that effect, judgment of July 2015, K and A, C‑153/14, EU:C:2015:453, paragraph 58).
+In the light of the foregoing considerations, the answer to the second question is that Article 15(1) and (4) of Directive 2003/does not preclude national legislation which permits an application for an autonomous residence permit, lodged by a third country national who has resided over five years in a Member State by virtue of family reunification, to be rejected on the ground that he has not shown that he has passed a civic integration test on the language and society of that Member State provided that the detailed rules for the requirement to pass that examination do not go beyond what is necessary to attain the objective of facilitating the integration of those third country nationals.
+The third question
+By its third question, the referring court asks, in essence, whether Article 15(1) and (4) of Directive 2003/precludes national legislation which provides that an autonomous residence permit cannot be issued earlier than the date on which it was applied for.
+It should be noted, first of all, that Article of Directive 2003/does not contain any specific rules relating to the progression of the procedure for granting an autonomous residence permit or, a fortiori, to the date from which a permit issued must take effect.
+Next, the wording of that provision does not indicate that granting that permit merely amounts to a declaratory act, given that Article 15(1) of that directive states, explicitly, that the Member States may subject entitlement to such a permit to an application for it.
+Lastly, it follows from Article 15(4) of the directive that it is, in particular, for the Member States to lay down the conditions relating to the granting of an autonomous residence permit, which may, inter alia, include procedural conditions circumscribing the grant of that permit.
+Although it is clear from the considerations set out in paragraph above that that latitude cannot be used to introduce a rule so onerous as to constitute a difficult obstacle to overcome, preventing, in practice, the third country nationals referred to in Article 15(1) of Directive 2003/from validly obtaining such a permit at the end of the period referred to in that provision, it must be held that legislation providing that an autonomous residence permit cannot be issued earlier than the date on which that permit is applied for clearly cannot have such an effect.
+Therefore, the answer to the third question is that Article 15(1) and (4) of Directive 2003/does not preclude national legislation which provides that an autonomous residence permit cannot be issued earlier than the date on which it was applied for.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+1.
+The Court of Justice has jurisdiction, on the basis of Article TFEU, to interpret Article of Council Directive 2003/86/EC of September on the right to family reunification in situations such as those at issue in the main proceedings, where a national court is called upon to rule on the grant of an autonomous residence permit to a third country national, who is a family member of an EU citizen who has not exercised his right of free movement, if that provision was made directly and unconditionally applicable to such situations under national law.
+ 
+2.
+Article 15(1) and (4) of Directive 2003/does not preclude national legislation which permits an application for an autonomous residence permit, lodged by a third country national who has resided over five years in a Member State by virtue of family reunification, to be rejected on the ground that he has not shown that he has passed a civic integration test on the language and society of that Member State provided that the detailed rules for the requirement to pass that examination do not go beyond what is necessary to attain the objective of facilitating the integration of those third country nationals.
+ 
+3.
+Article 15(1) and (4) of Directive 2003/does not preclude national legislation which provides that an autonomous residence permit cannot be issued earlier than the date on which it was applied for.
+ 
+[Signatures]
+(
+*)	Language of the case: Dutch.
+Top  

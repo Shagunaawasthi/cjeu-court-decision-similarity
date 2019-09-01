@@ -1,0 +1,93 @@
+
+JUDGMENT OF THE COURT (Sixth Chamber)
+June (
+*)
+(Reference for a preliminary ruling — Common system of value added tax (VAT) — Directive 2006/112/EC — Supply of immovable property effected prior to the accession of the Republic of Bulgaria to the European Union — Nullity of the contract of sale coming to light after the accession — Obligation to adjust the initial deduction — Interpretation — Jurisdiction of the Court)
+In Case C‑364/17,
+REQUEST for a preliminary ruling under Article TFEU from Administrativen sad — Varna (Administrative Court, Varna, Bulgaria), made by decision of June 2017, received at the Court on June 2017, in the proceedings
+‘Varna Holideis’ EOOD
+v
+Direktor na Direktsia ‘Obzhalvane i danachno-osiguritelna praktika’– Varna pri Tsentralno upravlenie na Natsionalnata agentsia za prihodite,
+THE COURT (Sixth Chamber),
+composed of C.G. Fernlund, President of the Chamber, J.-C. Bonichot (Rapporteur) and S. Rodin, Judges,
+Advocate General: J. Kokott,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+‘Varna Holideis’ EOOD, by M. Popov, advokat,
+–
+the Direktor na Direktsia ‘Obzhalvane i danachno-osiguritelna praktika’ — Varna pri Tsentralno upravlenie na Natsionalnata agentsia za prihodite, by S. Petkov, acting as Agent,
+–
+the Bulgarian Government, by E. Petranova and T. Mitova, acting as Agents,
+–
+the Spanish Government, by S. Jiménez García, acting as Agent,
+–
+the European Commission, by L. Lozano Palacios, P. Mihaylova and F. Clotuche-Duvieusart, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles and of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1; ‘the VAT Directive’).
+The reference was made in the course of proceedings between ‘Varna Holideis’ EOOD and the Direktor na Direktsia ‘Obzhalvane i danachno-osiguritelna praktika’ — Varna pri Tsentralno upravlenie na Natsionalnata agentsia za prihodite (Director of the Appeals and Enforcement Management Directorate, Varna, at the Central Administration of the National Revenue Agency) (‘the Direktor’) concerning the adjustment of a deduction of input value added tax (‘VAT’) which ‘Varna Holideis’ EOOD paid when purchasing a building for use as a hotel.
+Legal context
+European Union law
+Article of the VAT Directive is worded as follows:
+‘The chargeable event shall occur and VAT shall become chargeable when the goods or the services are supplied.’
+Article of the VAT Directive provides as follows:
+‘1.   In the case of cancellation, refusal or total or partial non-payment, or where the price is reduced after the supply takes place, the taxable amount shall be reduced accordingly under conditions which shall be determined by the Member States.
+2.   In the case of total or partial non-payment, Member States may derogate from paragraph 1.’
+Article of the directive provides:
+‘The taxable person shall make the deduction by subtracting from the total amount of VAT due for a given tax period the total amount of VAT in respect of which, during the same period, the right of deduction has arisen and is exercised in accordance with Article 178.
+…’
+Article of that directive provides:
+‘The initial deduction shall be adjusted where it is higher or lower than that to which the taxable person was entitled.’
+Article of the directive provides:
+‘1.   Adjustment shall, in particular, be made where, after the VAT return is made, some change occurs in the factors used to determine the amount to be deducted, for example where purchases are cancelled or price reductions are obtained.
+2.   By way of derogation from paragraph 1, no adjustment shall be made in the case of transactions remaining totally or partially unpaid or in the case of destruction, loss or theft of property duly proved or confirmed, or in the case of goods reserved for the purpose of making gifts of small value or of giving samples, as referred to in Article 16.
+However, in the case of transactions remaining totally or partially unpaid or in the case of theft, Member States may require adjustment to be made.’
+Article of the VAT Directive provides:
+‘Member States shall lay down the detailed rules for applying Articles and 185.’
+Bulgarian law
+Article of the Zakon za danak varhu dobavenata stoynost (Law on value added tax) (DV No of August 2006; ‘the ZDDS’), which entered into force on January 2007, states:
+‘1.   The person registered shall be obliged to adjust the amount of input tax whose deduction is claimed in the event of a change in the taxable amount, cancellation of a transaction or a change in the type of transaction.
+2.   The adjustment shall be effected during the tax period in which the circumstances referred to in paragraph have occurred, by recording the document referred to in Article 115, or the new document referred to in Article by which the adjustment is made, in the purchase ledger and in the tax return for the corresponding tax period.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Varna Holideis, a company established in Varna (Bulgaria), acquired during the month of December 2004, a building for use as a hotel in that city. In a judgment of February (No 201), which became final on the day itself, the Varhoven kasatsionen sad (Supreme Court of Cassation, Bulgaria) found that the sale of the building was null and void. Consequently, that court ordered Varna Holideis to return the property to the seller and to reimburse the price of that sale.
+In order to execute this judgment, the seller issued credit notes to Varna Holideis. That company informed the seller that it did not accept those credit notes and at the time when the order for reference was made by the Administrativen sad — Varna (Administrative Court, Varna, Bulgaria) on June 2017, it was yet to remove the property from the land register.
+In the light of the judgment of the Varhoven kasatsionen sad (Supreme Court of Cassation) of February (No 201), the Teritorialna direktsia na Natsionalnata agentsia za prihodite — Varna (Regional Office, Varna (Bulgaria), of the National Revenue Agency; ‘the Teritorialna direktsia’) issued a tax adjustment notice for February to adjust VAT deducted by Varna Holideis on the VAT charged on the purchase of that building in the course of 2004. That notice was confirmed by a decision of the ‘Director of the directorate for appeals and tax and social insurance practice in Varna, at the Central Administration of the National Revenue Agency’. It follows from that decision that, although the adjustment of VAT after a declaration that a transaction is null and void is not a situation expressly provided for in Bulgarian law, the provisions of that regulation governing refusal may be applied by analogy, in accordance with the principle of fiscal neutrality.
+In its action before the referring court, Varna Holideis disputes the obligation to adjust the VAT in question. It considers that Bulgarian law provides for adjustment of VAT in the case of rescission, but not in the event of cancellation. The first of those concepts corresponds to the situation in which a creditor retroactively ends the supply, whereas the second relates to situations in which a transaction could never have had any legal effect from the start. However, the second scenario is not covered by Bulgarian tax law.
+The referring court notes, in that regard, that a finding by a court that a transaction is null and void could be qualified as a change in the factors used to determine the amount to be deducted, within the meaning of Article of the VAT Directive. That court considers, however, that such a finding could also mean that there has been no supply within the meaning of the VAT Directive and, therefore, that VAT was never owed. In that case, it is appropriate not to make an adjustment but to refuse the right to deduct VAT.
+In the absence of express provisions in Bulgarian law, it would be necessary to directly apply the VAT Directive in order to draw the appropriate conclusions, for tax purposes, from the declaration that the purchase agreement is null and void. Indeed, in the event that the directive is to be interpreted as meaning that a declaration that a transaction is null and void leads to an adjustment of the deduction of input VAT, it would be appropriate to consider whether the relevant provisions of that directive apply directly. If adjustment were not carried out, there would be a risk of VAT losses, since the seller has refunded the purchaser the price of the good sold along with the VAT paid by the purchaser, whereas that purchaser could retain the benefit of the VAT which it had deducted.
+In those circumstances the Administrativen sad — Varna (Administrative Court, Varna) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Are Articles 90(1) and 185(1) of Directive 2006/to be interpreted as requiring the deduction claimed for input tax on a supply also to be adjusted in a case, such as that in the dispute in the main proceedings, where the legal transaction in respect of which the right to deduct input tax was exercised has been declared null and void by a judgment having legal force or should one, in light of the definition in Article 14(1) of Directive 2006/112, proceed on the basis that there is no supply and the tax claim did not arise in the first place?
+(2)
+Is Article 185(1) and (2) of Directive 2006/to be interpreted as meaning that, in the absence of a national provision for the adjustment of deduction claimed in respect of input tax, and in the event of a court decision declaring a legal transaction null and void, the adjustment may be made by direct application of Article 90(1) of the [VAT] directive?’
+The jurisdiction of the Court
+According to settled case-law, the Court has jurisdiction to interpret directives only as regards their application in a new Member State with effect from the date of that State’s accession to the European Union (see, to that effect, order of May 2017, Exmitiani, C‑286/16, not published, EU:C:2017:368, paragraph 12).
+It follows, in particular, that the Court is not competent to interpret EU Directives relating to VAT where the recovery of taxes at issue in the main proceedings pre-dates the accession of the Member State concerned to the Union (order of May 2017, Exmitiani, C‑286/16, not published, EU:C:2017:368, paragraph 13).
+According to the order for reference, during the month of December 2004, and thus before the accession of the Republic of Bulgaria to the European Union on January 2007, Varna Holideis purchased a building for use as a hotel in Varna.
+In that regard, it should be recalled that, in accordance with Article of the VAT Directive, the chargeable event occurs and the tax becomes chargeable when the goods or the services are supplied (judgment of March 2013, Efir, C‑19/12, not published, EU:C:2013:148, paragraph 31).
+Accordingly, assuming that the supply of the immovable property at issue in the main proceedings was governed by rules such as those provided for by the VAT Directive, that supply took place and the VAT became chargeable before the accession of the Republic of Bulgaria to the European Union.
+As regards the right to deduct under the VAT Directive, there is a direct substantive and temporal link between that right and the chargeability of the input VAT due or paid in respect of goods and services.
+The right of taxable persons to deduct VAT due or paid on goods purchased and services received as inputs from the VAT which they are liable to pay is a fundamental principle of the common system of VAT established by EU law. As the Court has repeatedly held, the right of deduction provided for in Article et seq. of the VAT Directive is an integral part of the VAT scheme and may not, in principle, be limited. In particular, the right to deduct is exercisable immediately in respect of all taxes charged on input transactions (judgment of March 2018, Volkswagen, C‑533/16, EU:C:2018:204, paragraphs and and the case-law cited).
+According to Article and the first paragraph of Article of Directive 2006/112, the right to deduct VAT must, in principle, be exercised during the same period as that during which it has arisen, namely once the tax becomes due (judgment of March 2018, Volkswagen, C‑533/16, EU:C:2018:204, paragraph 44).
+It follows that, in accordance with the case-law cited in paragraphs and above, the Court has no jurisdiction to reply to the questions referred, to the extent that they are related to the chargeability of VAT and the right to deduct.
+It must be recalled that Articles to of the VAT Directive lay down the conditions under which tax authorities may require adjustments to be made by taxable persons. It is clear from the case-law of the Court that the adjustment mechanism provided for in those articles is an integral part of the VAT deduction scheme established by the VAT Directive. It is intended to enhance the precision of deductions so as to ensure the neutrality of VAT (judgment of February 2018, T‑2, C‑396/16, EU:C:2018:109, paragraph 23).
+Although, admittedly, the adjustment cannot de facto alter the initial deduction but entails an increase or decrease in the amount of VAT owed by the taxable person in a subsequent tax period (see, to that effect, judgment of April 2018, SEB bankas, C‑532/16, EU:C:2018:228, paragraph 53), the fact remains that the adjustment mechanism is intended to correct deductions made in the past.
+According to Article of the VAT Directive, the initial deduction of VAT in respect of input tax must be adjusted where it is higher or lower than that to which the taxable person was entitled.
+A joint reading of Articles and 185(1) of the VAT Directive reveals that, where an adjustment proves to be necessary because of the change in one of the factors used to determine the amount to be deducted, the amount of that adjustment must be calculated in such a way that the final amount to be deducted corresponds to that to which the taxable person would have been entitled if that change had been initially taken into account (judgment of February 2018, T‑2, C‑396/16, EU:C:2018:109, paragraph 27).
+Furthermore, the Court has already held that the mere existence of an element after the date of accession of the Member State in question to the Union, which relates to circumstances preceding that date and which stem from those circumstances, is not sufficient to confer jurisdiction on the Court to answer the questions referred on the interpretation of a directive (order of May 2011, Semerdzhiev, C‑32/10, not published, EU:C:2011:288, paragraph 26).
+Therefore, since the obligation to adjust is inextricably linked to the chargeability of the VAT due or paid as input tax and the right to deduct resulting therefrom, the appearance, after the accession of a Member State to the EU, of factors which are, in principle, capable of justifying this requirement does not allow the Court to interpret the VAT Directive if the supply of goods or services is made before that accession.
+It follows that the Court has no jurisdiction to answer the questions referred by the Administrativen sad — Varna (Administrative Court, Varna, Bulgaria).
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Sixth Chamber) hereby rules:
+ 
+The Court has no jurisdiction to answer the questions referred by the Administrativen sad — Varna (Administrative Court, Varna, Bulgaria).
+ 
+[Signatures]
+(
+*)	Language of the case: Bulgarian.
+Top  

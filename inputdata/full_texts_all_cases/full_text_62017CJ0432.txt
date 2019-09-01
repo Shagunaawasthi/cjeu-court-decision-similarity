@@ -1,0 +1,98 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+November (
+*)
+(Reference for a preliminary ruling — Social policy — Directive 97/81/EC — Framework Agreement on part-time work concluded by UNICE, CEEP and the ETUC — Clause — Principle of non-discrimination — Part-time workers — Retirement pension — Calculation of the amount of the pension — Account taken of years of service completed before expiry of the period for transposition of Directive 97/81/EC — Immediate application to the future effects of a situation which arose under the old law)
+In Case C‑432/17,
+REQUEST for a preliminary ruling under Article TFEU from the Supreme Court of the United Kingdom, made by decision of July 2017, received at the Court on July 2017, in the proceedings
+Dermod Patrick O’Brien
+v
+Ministry of Justice, formerly the Department for Constitutional Affairs,
+THE COURT (First Chamber),
+Composed of R. Silva de Lapuerta, Vice President, acting as President of the First Chamber, J.–C. Bonichot, A. Arabadjiev (Rapporteur), C.G. Fernlund and S. Rodin, Judges,
+Advocate General: J. Kokott,
+Registrar: R. Schiano, Administrator,
+having regard to the written procedure and further to the hearing on June 2018,
+after considering the observations submitted on behalf of:
+–
+Mr O’Brien, by C. Jones, Solicitor, T. Burton, Barrister, R. Crasnow QC and R. Allen QC,
+–
+the United Kingdom Government, by S. Brandon and C. Crane, acting as Agents, and by J. Cavanagh QC and R. Hill, Barrister,
+–
+the European Commission, by M. van Beek and N. Yerrell, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Council Directive 97/81/EC of December concerning the Framework Agreement on part-time work concluded by UNICE, CEEP and the ETUC (OJ L 14, p. 9), as amended by Council Directive 98/23/EC of April (OJ L 131, p. 10), (‘Directive 97/81’).
+The request has been made in proceedings between Mr Dermod Patrick O’Brien and the Ministry of Justice of the United Kingdom, formerly the Department for Constitutional Affairs, concerning the amount of retirement pension to which he is entitled by reason of his part-time service in judicial office.
+Legal context
+EU law
+In accordance with Directive 98/extending Directive 97/to the United Kingdom of Great Britain and Northern Ireland, the period accorded to that Member State for transposition of that directive expired on April 2000.
+Article of Directive 97/states that the purpose of the Directive is to implement the Framework Agreement on part-time work concluded on June between the general cross-industry organisations (UNICE, CEEP and the ETUC ) (‘the Framework Agreement’).
+Clause of the Framework Agreement, entitled ‘Principle of non-discrimination’, provides:
+‘1.
+In respect of employment conditions, part-time workers shall not be treated in a less favourable manner than comparable full-time workers solely because they work part time unless different treatment is justified on objective grounds.
+2.
+Where appropriate, the principle of pro rata temporis shall apply.
+3.
+The arrangements for the application of this clause shall be defined by the Member States and/or social partners, having regard to European legislation, national law, collective agreements and practice.
+...’
+United Kingdom law
+The payment of judicial pensions is governed by the Judicial Pensions Act (‘the Act’) and by the Judicial Pensions and Retirement Act (‘the Act’).
+The Act applies to persons appointed prior to March 1995, unless they elect to have their retirement pension paid under the Act. The Act applies to persons appointed on or after March 1995.
+Under those two Acts, a pension is payable to any person retiring from ‘qualifying judicial office’, subject to that person’s having attained the age of and, for persons covered by the Act, subject also to their having completed at least five years’ service in such office.
+At the time when Mr O’Brien retired, only full-time judges and salaried part-time judges were considered to hold qualifying judicial office; this was not the case for fee-paid part-time judges, such as recorders.
+Both the scheme under the Act and the scheme under the Act provide that the amount of pension payable to a full-time judge is based on his or her final year’s salary and on his or her number of years of service in a qualifying judicial office by the date of retirement.
+Under the Act, circuit judges had to have served for years in order to qualify for a full pension of one half of their last annual salary. The corresponding period under the Act is years.
+Both schemes provide that judges who have served for shorter periods are to receive a proportion of the full pension corresponding to the length of their service. There is also a lump sum payable on retirement, based on the amount of the annual pension.
+The United Kingdom gave effect to Directive 97/by means of the Part-time Workers (Prevention of Less Favourable Treatment) Regulations (SI 2000/1551), which came into force on July 2000. Those Regulations provide that a part-time worker has the right not to be treated by his employer less favourably than the employer treats a comparable full-time worker and that, in that regard, the principle of pro rata temporis is to be applied unless it is inappropriate.
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Mr O’Brien was called to the Bar in and was appointed Queen’s Counsel in 1983. He held part-time judicial office as a recorder of the Crown Court from March until March 2005, when he retired aged 65. As a recorder he did not receive a salary but was paid fees on a per diem basis.
+In June Mr O’Brien requested a retirement pension from the Department of Constitutional Affairs on the same basis, adjusted pro rata temporis, as that paid to former full-time judges who had been engaged on the same or similar work. He was informed by the Department of Constitutional Affairs that he fell outside the categories of judicial office-holder to whom a judicial retirement pension was payable.
+In September 2005, Mr O’Brien began proceedings before the Employment Tribunal, arguing that he was entitled to such a pension by virtue of Directive 97/and the regulations transposing it into national law. The Tribunal upheld his claim, but he lost on appeal before the Employment Appeals Tribunal, and subsequently before the Court of Appeal (England and Wales) (Civil Division). After an appeal had been brought before it, the Supreme Court of the United Kingdom referred questions to the Court of Justice for a preliminary ruling.
+By judgment of March 2012, O’Brien (C‑393/10, EU:C:2012:110), the Court, after noting that it is for the national court to establish whether Mr O’Brien should be considered a part-time worker within the meaning of Clause 2(1) of the Framework Agreement, held that national law cannot establish a distinction between full-time judges and part-time judges remunerated on a daily-fee basis, unless such a difference in treatment is justified by objective reasons.
+Following that judgment, the Supreme Court of the United Kingdom held, by judgment of February 2013, that, during the time at issue in the main proceedings, Mr O’Brien had to be regarded as a part-time worker within the meaning of Clause 2(1) of the Framework Agreement and that no objective justification had been shown for departing from the principle of remunerating part-time judges on the same basis as full-time judges, subject to adjustment pro rata temporis. The Supreme Court of the United Kingdom therefore found that Mr O’Brien was entitled to a retirement pension on terms equivalent to a circuit judge.
+The case was then remitted to the Employment Tribunal for determination of the amount of retirement pension to which Mr O’Brien was entitled. Before that tribunal the question arose as to whether, in calculating that amount, account had to be taken of all of Mr O’Brien’s service since the beginning of his appointment on March (a period of years), or only of his service since the deadline for transposing the directive had expired (a period of less than five years). The Employment Tribunal held that the calculation should take into account all of his service, but the Employment Appeal Tribunal ruled to the contrary. The Court of Appeal (England and Wales) (Civil Division) confirmed the latter decision. Mr O’Brien has brought an appeal before the referring court.
+According to the order for reference, most of the members of the Supreme Court of the United Kingdom are inclined to think that the effect of Directive 97/is that it is unlawful to discriminate against part-time workers at the time when a retirement pension falls due for payment. In their view, that directive applies ratione temporis at the time when the pension falls due for payment after the date on which the directive entered into force. In cases where part of the period of service took place prior to that date, the directive applies to the future effects of that situation.
+However, according to the order for reference, the Court of Justice has not yet considered the argument that an occupational pension should, as may be inferred from the judgment of October 1993, Ten Oever (C‑109/91, EU:C:1993:833), be considered to be deferred pay, the right to which is acquired during the period of service to which the pay relates. If such an argument were accepted, Directive 97/could not, in accordance with the general principle of non-retroactivity, affect the rights acquired or, in Mr O’Brien’s case, the rights not acquired, before it entered into force, there being no provision in the directive which overrides that general principle. Although most members of the referring court are inclined to the view that the approach taken in the judgment of October 1993, Ten Oever (C‑109/91, EU:C:1993:833), cannot be applied to the case in the main proceedings, they nevertheless take the view that the correct approach to be taken is far from obvious.
+In those circumstances, the Supreme Court of the United Kingdom decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Does Directive 97/81, and in particular Clause of the [Framework Agreement], require that periods of service prior to the deadline for transposing the Directive should be taken into account when calculating the amount of the retirement pension of a part-time worker, if they would be taken into account when calculating the pension of a comparable full-time worker?’
+Consideration of the question referred
+By its question, the referring court asks, in essence, whether Directive 97/must be interpreted as meaning that periods of service completed prior to the deadline for transposing that directive, which are taken into account when calculating the pension of a full-time worker, must be taken into account when calculating the pension entitlement of a comparable part-time worker.
+In the present case, it should be noted that Mr O’Brien served as a part-time judge remunerated on a daily-fee basis between March and March 2005, that being, in the main, prior to the expiry, on April 2000, of the period for transposition of Directive 97/in the United Kingdom. However, during that period, the national judicial pension scheme did not provide that part-time judges remunerated on a daily-fee basis were to receive a pension in respect of that service.
+It is also apparent from the file before the Court that judges acquire a right to a pension under the relevant judicial pension schemes in England and Wales on the basis of their pensionable service. The relevant schemes are ‘final salary schemes’ under which a judge’s pension is calculated by multiplying a set fraction of the final year’s pensionable pay by the aggregate number of years and days served by the date of retirement.
+It should be recalled that, according to settled case-law, procedural rules are generally taken to apply from the date on which they enter into force (judgment of December 2012, Commission v Spain, C‑610/10, EU:C:2012:781, paragraph 45), unlike substantive rules, which are usually interpreted as applying to situations existing before their entry into force only in so far as it follows clearly from their terms, their objectives or their general scheme that such an effect must be given to them (see, to that effect, judgments of November 1981, Meridionale Industria Salumi and Others, 212/to 217/80, EU:C:1981:270, paragraph 9, and of February 2006, Molenbergnatie, C‑201/04, EU:C:2006:136, paragraph 31).
+It must be added that a new legal rule applies from the entry into force of the act introducing it, and that, while it does not apply to legal situations that arose and became definitive prior to that entry into force, it does apply immediately to the future effects of a situation which arose under the old law, and to new legal situations. The position is otherwise, subject to the principle of the non-retroactivity of legal acts, only if the new rule is accompanied by special provisions which specifically lay down its conditions of temporal application (see, to that effect, judgment of March 2015, Commission v Moravia Gas Storage, C‑596/P, EU:C:2015:203, paragraph and the case-law cited).
+It should be noted from the outset that neither Directive 97/nor the Framework Agreement derogates from the principle mentioned in the previous paragraph (judgment of June 2010, Bruno and Others, C‑395/and C‑396/08, EU:C:2010:329, paragraph 54).
+It is therefore necessary to examine whether the gradual acquisition of pension entitlements over the period preceding the deadline for transposing Directive 97/in the United Kingdom has the effect that the legal situation of the appellant in the main proceedings must be considered to have become definitive at that date.
+The United Kingdom Government claims in this regard that deferred pay in the form of entitlement to an occupational pension accrues in the same way as other forms of pay. In the case of the judicial pension schemes in issue in the main proceedings, the pension is earned for successive periods of pensionable service; the pension entitlement therefore increases as each period of service is completed. Accordingly, in so far as, at the end of each period of service, the corresponding pension entitlement acquired exhausts its effects, pension rights acquired before the final date for transposition of Directive 97/in the United Kingdom cannot be taken into account.
+Referring in this regard to the judgments of May 1990, Barber (C‑262/88, EU:C:1990:209) and of October 1993, Ten Oever (C‑109/91, EU:C:1993:833), the United Kingdom Government points out the fact that it is a characteristic of this form of pay that there is a time-lag between the accrual of entitlement to the pension, which occurs gradually throughout the employee’s working life, and its actual payment, which is deferred until a particular age.
+However, it must be noted, first, that the circumstances of the case at issue in the main proceedings are different from those at the origin of the cases giving rise to those judgments, which concerned the temporal effects of a judgment.
+It is important, in this regard, to bear in mind that the matter of the retroactive effect of a rule of law cannot be confused with that of the temporal effects of a judgment of the Court. As the Court pointed out in its judgment of May 1990, Barber (C‑262/88, EU:C:1990:209), the circumstances to which a restriction on the temporal effects of a judgment is subject relate to the existence of serious difficulties that may be created by that judgment as regards events in the past.
+In the present case, it must be stated that the United Kingdom Government at no time requested that the Court limit the temporal effects of its judgment of March 2012, O’Brien (C‑393/10, EU:C:2012:110). A restriction of that kind may be permitted only in the actual judgment which gives the ruling on the interpretation requested (see, to that effect, judgment of May 1990, Barber, C‑262/88, EU:C:1990:209, paragraph 41).
+Second, with regard to the argument of the United Kingdom Government that the calculation of the period of service required to qualify for a retirement pension should be distinguished from the rights to a pension, it must be noted that it cannot be concluded from the fact that a right to a pension is definitively acquired at the end of a corresponding period of service that the legal situation of the worker must be considered definitive. It should be noted in this respect that it is only subsequently and by taking into account relevant periods of service that the worker can effectively avail himself of that right with a view to payment of his retirement pension.
+Consequently, in a situation such as that in the main proceedings, in which the accrual of pension entitlement extends over periods both prior to and after the deadline for transposition of Directive 97/81, it should be considered that the calculation of those rights is governed by the provisions of that directive, including with regard to the periods of service prior to its entry into force.
+Such a situation is, in that regard, to be distinguished from the situation, invoked by the United Kingdom Government in support of its arguments, of the colleagues of the appellant in the main proceedings who retired before expiry of the period for transposition of Directive 97/81.
+In the light of the foregoing, the answer to the question posed is that Directive 97/must be interpreted as meaning that, in a case such as that at issue in the main proceedings, periods of service prior to the deadline for transposing that directive must be taken into account for the purpose of calculating the retirement pension entitlement.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+Council Directive 97/81/EC of December concerning the Framework Agreement on part-time work concluded by UNICE, CEEP and the ETUC, as amended by Council Directive 98/23/EC of April 1998, must be interpreted as meaning that, in a case such as that at issue in the main proceedings, periods of service prior to the deadline for transposing Directive 97/81, as amended by Directive 98/23, must be taken into account for the
+ 
+purpose of calculating the retirement pension entitlement.
+ 
+Silva de Lapuerta
+Bonichot
+Arabadjiev
+Fernlund
+Rodin
+Delivered in open court in Luxembourg on November 2018.
+A. Calot Escobar
+Registrar
+K. Lenaerts
+President
+(
+*)	Language of the case: English.
+Top  

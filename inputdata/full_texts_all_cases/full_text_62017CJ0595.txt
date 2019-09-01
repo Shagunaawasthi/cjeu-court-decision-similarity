@@ -1,0 +1,122 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+October (
+*)
+(Reference for a preliminary ruling — Area of freedom, security and justice — Jurisdiction in civil and commercial matters — Regulation (EC) No 44/— Article — Jurisdiction clause in a distribution contract — Action for damages by the distributor based on the infringement of Article TFEU by the supplier)
+In Case C‑595/17,
+REQUEST for a preliminary ruling under Article TFEU from the Cour de cassation (Court of Cassation, France), made by decision of October 2017, received at the Court on October 2017, in the proceedings
+Apple Sales International,
+Apple Inc.,
+Apple retail France EURL
+v
+MJA, acting as liquidator of eBizcuss.com,
+THE COURT (Third Chamber),
+composed of M. Vilaras, President of the Fourth Chamber, acting as President of the Third Chamber, J. Malenovský, L. Bay Larsen, M. Safjan (Rapporteur), and D. Šváby, Judges,
+Advocate General: N. Wahl,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Apple Sales International, Apple Inc. and Apple retail France EURL, by F. Molinié, J.-C. Jaïs and C. Cavicchioli, lawyers,
+–
+MJA, acting as liquidator of eBizcuss.com, by J.-M. Thouvenin and L. Vidal, lawyers,
+–
+the French Government, by E. Armoët, E. de Moustier and D. Colas, acting as Agents,
+–
+the European Commission, by M. Wilderspin, G. Meeßen and M. Heller, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on July 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 12, p. 1).
+The request has been made in the context of proceedings between Apple Sales International, Apple Inc. and Apple retail France EURL, and MJA, acting as liquidator of eBizcuss.com (‘eBizcuss’), concerning an action for damages brought by the latter company in respect of an infringement of Article TFEU.
+Legal context
+European Union law
+Recitals 2, and of Regulation No 44/read:
+‘(2)
+Certain differences between national rules governing jurisdiction and recognition of judgments hamper the sound operation of the internal market. Provisions to unify the rules of conflict of jurisdiction in civil and commercial matters and to simplify the formalities with a view to rapid and simple recognition and enforcement of judgments from Member States bound by this Regulation are essential.
+…
+(11)
+The rules of jurisdiction must be highly predictable and founded on the principle that jurisdiction is generally based on the defendant’s domicile and jurisdiction must always be available on this ground save in a few well-defined situations in which the subject matter of the litigation or the autonomy of the parties warrants a different linking factor. The domicile of a legal person must be defined autonomously so as to make the common rules more transparent and avoid conflicts of jurisdiction.
+…
+(14)
+The autonomy of the parties to a contract, other than an insurance, consumer or employment contract, where only limited autonomy to determine the courts having jurisdiction is allowed, must be respected subject to the exclusive grounds of jurisdiction laid down in this Regulation.’
+Article 23(1) of Regulation No 44/2001, which is in Section of Chapter II thereof, headed ‘Prorogation of jurisdiction’, provides:
+‘If the parties, one or more of whom is domiciled in a Member State, have agreed that a court or the courts of a Member State are to have jurisdiction to settle any disputes which have arisen or which may arise in connection with a particular legal relationship, that court or those courts shall have jurisdiction. Such jurisdiction shall be exclusive unless the parties have agreed otherwise. Such an agreement conferring jurisdiction shall be either:
+(a)
+in writing or evidenced in writing, or
+(b)
+in a form which accords with practices which the parties have established between themselves, or
+(c)
+in international trade or commerce, in a form which accords with a usage of which the parties are or ought to have been aware and which in such trade or commerce is widely known to, and regularly observed by, parties to contracts of the type involved in the particular trade or commerce concerned.’
+French law
+At the material time in the main proceedings, Article of the Civil Code provided as follows:
+‘Any act of an individual, which causes damage to another, obliges the one whose fault has caused it, to make good the damage.’
+Article L 420-of the Commercial Code provides as follows:
+‘Concerted actions, agreements, express or tacit understandings or associations shall be prohibited, even through the direct or indirect intermediation of a group company established outside France, where they have the aim or may have the effect of preventing, restricting or distorting the free competition in a market, particularly when they are intended to:
+1.
+limit access to the market or the free exercise of competition by other undertakings;
+2.
+prevent prices being set by the free play of market forces, by artificially encouraging the increase or reduction of prices;
+3.
+limit or control production, markets, investment or technical progress;
+4.
+share markets or sources of supply.’
+Article L 420-of the Commercial Code is worded as follows:
+‘In the circumstances provided for in Article L 420-1, the abusive exploitation of a dominant position by an undertaking or by a group of undertakings in the internal market or in a substantial part of it shall be prohibited. Those abuses could consist in particular of a refusal to sell, tied sales or discriminatory sales conditions as well as the termination of an established business relationship on the sole basis that the partner refuses to meet terms of trade that are unjustified.
+Moreover, since it is capable of affecting the operation or the structure of competition, the abusive exploitation by an undertaking or by a group of undertakings of the state of economic dependence in which a customer or a supplier finds itself shall be prohibited. Those abuses could consist in particular of a refusal to sell, tied sales, discriminatory practices covered by Article L 442-or exclusive distribution arrangements.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+On October Apple Sales International, a company established under Irish law, entered into a contract with eBizcuss recognising the latter as an authorised reseller of Apple products. That contract, by which eBizcuss undertook to semi‑exclusively distribute its contractual partner’s products, contained a jurisdiction clause conferring jurisdiction on the Irish courts.
+That clause, drafted in English, was worded as follows in the final version of the distribution contract, dated December 2005:
+‘This Agreement and the corresponding relationship between the parties shall be governed by and construed in accordance with the laws of the Republic of Ireland and the parties shall submit to the jurisdiction of the courts of the Republic of Ireland. Apple [Sales International] reserves the right to institute proceedings against Reseller in the courts having jurisdiction in the place where Reseller has its seat or in any jurisdiction where a harm to Apple [Sales International] is occurring.’
+The parties to the main proceedings do not agree on the exact French translation of the words ‘and the corresponding relationship’, translating them either as ‘et la relation correspondante’ (the translation of eBizcuss) or as ‘et les relations en découlant’ (the translation of Apple Sales International).
+Despite that disagreement, the clause can be translated [in French] as follows.
+‘Le présent contrat et la relation correspondante (the translation of eBizcuss)/et les relations en découlant (the translation of Apple Sales International) entre les parties seront régis par et interprétés conformément au droit de l’Irlande et les parties se soumettent à la compétence des tribunaux de l’Irlande. Apple [Sales International] se réserve le droit d’engager des poursuites à l’encontre du revendeur devant les tribunaux dans le ressort duquel est situé le siège du revendeur ou dans tout pays dans lequel Apple [Sales International] subit un préjudice.’
+In April eBizcuss brought proceedings against Apple Sales International, Apple Inc., a company established under United States law, and Apple Retail France, a company established under French law, before the tribunal de commerce de Paris (Commercial Court, Paris, France), in respect of an action to establish liability for acts of unfair competition and abuse of a dominant position, on the basis of Article of the Civil Code, of Article L 420-of the Commercial Code and of Article TFEU.
+By judgment of September 2013, that court upheld the objection of lack of jurisdiction raised by Apple Sales International on the grounds that a jurisdiction clause conferring jurisdiction on the Irish courts was stipulated in the contract between that company and eBizcuss.
+By decision of April 2014, the cour d’appel de Paris (Court of Appeal, Paris, France) dismissed the appeal by eBizcuss against that judgment.
+By decision of October 2015, the Cour de cassation (Court of Cassation, France) quashed that judgment on the grounds that the cour d’appel de Paris (Court of Appeal, Paris) had infringed Article of Regulation No 44/2001, as interpreted by the Court of Justice in the judgment of May 2015, CDC Hydrogen Peroxide (C‑352/13, EU:C:2015:335), by taking account of the jurisdiction clause contained in the contract between eBizcuss and Apple Sales International, although that clause does not refer to disputes concerning liability incurred as a result of an infringement of competition law.
+By decision of October 2016, decided after a referral back to it by the Cour de cassation (Court of Cassation), the cour d’appel de Versailles (Court of Appeal, Versailles, France) upheld the appeal by eBizcuss and referred the case back to the tribunal de commerce de Paris (Commercial Court, Paris).
+Apple Sales International, Apple Inc. and Apple retail France lodged an appeal against that decision before the referring court, submitting, essentially, that provided that an independent action, within the meaning of competition law, arises from a contractual relationship, it is necessary to take account of a choice of forum clause, even where that clause does not expressly cover such an action and where no infringement of competition law has yet been found to exist by a national or European authority.
+The referring court states that it has become aware in the meantime of a judgment of the Supremo Tribunal de Justiça (Supreme Court, Portugal) of February 2016, Interlog and Taboada v Apple. That judgment also concerned Apple Sales International and a similar jurisdiction clause, drafted in general terms. The Supremo Tribunal de Justiça (Supreme Court) ruled that that clause applied to the parties in proceedings relating to the same allegation of abuse of a dominant position with regard to EU law, concluding that the Portuguese courts did not have jurisdiction.
+In those circumstances, the Cour de cassation (Court of Cassation) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Must Article of Regulation No 44/be interpreted as allowing a national court before which an action for damages has been brought by a distributor against its supplier on the basis of Article TFEU to apply a jurisdiction clause set out in the contract binding the parties?
+(2)
+If the first question is answered in the affirmative, must Article of Regulation No 44/be interpreted as allowing a national court before which an action for damages has been brought by a distributor against its supplier on the basis of Article TFEU to apply a jurisdiction clause within the contract binding the parties, including in cases where that clause does not expressly refer to disputes relating to liability incurred as a result of an infringement of competition law?
+(3)
+Must Article of Regulation No 44/be interpreted as allowing a national court before which an action for damages has been brought by a distributor against its supplier on the basis of Article TFEU to disregard a jurisdiction clause within the contract binding the parties where no infringement of competition law has been found to exist by a national or European authority?’
+Consideration of the questions referred
+The first and second questions
+By its first and second questions, which it is appropriate to examine together, the referring court seeks to ascertain, essentially, whether Article of Regulation No 44/must be interpreted as precluding the application, in the context of an action for damages brought by a distributor against its supplier on the basis of Article TFEU, of a jurisdiction clause, set out in the contract binding the parties, which does not expressly refer to disputes relating to liability incurred as a result of an infringement of competition law.
+In that regard, according to the Court’s settled case-law, it is for the national court to interpret the clause conferring jurisdiction invoked before it in order to determine which disputes fall within its scope (judgment of May 2015, CDC Hydrogen Peroxide, C‑352/13, EU:C:2015:335, paragraph and the case-law cited).
+However, a jurisdiction clause can concern only disputes which have arisen or which may arise in connection with a particular legal relationship, which limits the scope of a clause conferring jurisdiction solely to disputes which arise from the legal relationship in connection with which the agreement was entered into. The purpose of that requirement is to avoid a party being taken by surprise by the assignment of jurisdiction to a given forum as regards all disputes which may arise out of its relationship with the other party to the contract and stem from a relationship other than that in connection with which the agreement conferring jurisdiction was made (judgment of May 2015, CDC Hydrogen Peroxide, C‑352/13, EU:C:2015:335, paragraph and the case-law cited).
+Having regard to that purpose, the Court held that a clause which abstractly refers to disputes arising from contractual relationships does not extend to a dispute relating to the tortious liability that one party allegedly incurred as a result of its participation in an unlawful cartel (judgment of May 2015, CDC Hydrogen Peroxide, C‑352/13, EU:C:2015:335, paragraph 69).
+Given that the undertaking which suffered the loss could not reasonably foresee such litigation at the time that it agreed to the jurisdiction clause and that that undertaking had no knowledge of the unlawful cartel involving the other party to the contract at that time, such litigation could not be regarded as stemming from the contractual relationship (judgment of May 2015, CDC Hydrogen Peroxide, C‑352/13, EU:C:2015:335, paragraph 70).
+In the light of those considerations, the Court held that Article 23(1) of Regulation No 44/allows, in the case of actions for damages for an infringement of Article TFEU and Article of the Agreement on the European Economic Area of May (OJ L 1, p. 3), account to be taken of jurisdiction clauses contained in contracts for the supply of goods, provided that those clauses refer to disputes concerning liability incurred as a result of an infringement of competition law (judgment of May 2015, CDC Hydrogen Peroxide, C‑352/13, EU:C:2015:335, paragraph 72).
+In the light of that case-law, it is appropriate to examine whether that interpretation of Article of Regulation No 44/and the grounds on which it is based are also valid with regard to a jurisdiction clause invoked during a dispute that relates to the tortious liability allegedly incurred by one contracting party as a result of a breach of Article TFEU.
+That is the case where the alleged anti‑competitive conduct has no connection with the contractual relationship in the context of which the jurisdiction clause was agreed.
+However, while the anti‑competitive conduct covered by Article TFEU, namely an unlawful cartel, is in principle not directly linked to the contractual relationship between a member of that cartel and a third party which is affected by the cartel, the anti‑competitive conduct covered by Article TFEU, namely the abuse of a dominant position, can materialise in contractual relations that an undertaking in a dominant position establishes and by means of contractual terms.
+It must therefore be stated that, in the context of an action based on Article TFEU, taking account of a jurisdiction clause that refers to a contract and ‘the corresponding relationship’ cannot be regarded as surprising one of the parties within the meaning of the case-law mentioned at paragraph of the present judgment.
+In the light of all the foregoing, the answer to the first and second questions is that Article of Regulation No 44/must be interpreted as meaning that the application, in the context of an action for damages brought by a distributor against its supplier on the basis of Article TFEU, of a jurisdiction clause within the contract binding the parties is not excluded on the sole ground that that clause does not expressly refer to disputes relating to liability incurred as a result of an infringement of competition law.
+The third question
+By its third question, the referring court seeks to ascertain, in essence, whether Article of Regulation No 44/must be interpreted as meaning that a prerequisite for the application of a jurisdiction clause, in the context of an action for damages brought by a distributor against its supplier on the basis of Article TFEU, is the finding of an infringement of competition law by a national or European authority.
+That question must be answered in the negative.
+As the Advocate General observed in point of his Opinion, the existence or absence of a prior finding by a competition authority of an infringement of competition rules has no connection with the considerations that must prevail when determining whether a jurisdiction clause is to apply in an action for damages allegedly suffered as a result of an infringement of competition rules.
+In the context of Article of Regulation No 44/2001, a distinction dependent on the existence or absence of a prior finding by a competition authority of an infringement of competition law would also be contrary to the objective of foreseeability which underpins that provision.
+Moreover, in accordance with the Court’s settled case-law (see, to that effect, judgment of July 2006, Manfredi and Others, C‑295/to C‑298/04, EU:C:2006:461, paragraph and the case-law cited), and as mentioned in recitals 3, and of Directive 2014/104/EU of the European Parliament and of the Council of November on certain rules governing actions for damages under national law for infringements of the competition law provisions of the Member States and of the European Union (OJ L 349, p. 1), Articles and TFEU have direct effect in relations between individuals and create, for the individuals concerned, rights and obligations which national courts must enforce. It follows that the right of any person that considers himself or herself prejudiced by an infringement of competition law rules to seek compensation for the harm suffered is independent of the prior finding of such an infringement by a competition authority.
+In the light of the foregoing, the answer to the third question is that Article of Regulation No 44/must be interpreted as meaning that it is not a prerequisite for the application of a jurisdiction clause, in the context of an action for damages brought by a distributor against its supplier on the basis of Article TFEU, that there be a finding of an infringement of competition law by a national or European authority.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+1.
+Article of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters must be interpreted as meaning that the application, in the context of an action for damages brought by a distributor against its supplier on the basis of Article TFEU, of a jurisdiction clause within the contract binding the parties is not excluded on the sole ground that that clause does not expressly refer to disputes relating to liability incurred as a result of an infringement of competition law.
+ 
+2.
+Article of Regulation No 44/must be interpreted as meaning that it is not a prerequisite for the application of a jurisdiction clause, in the context of an action for damages brought by a distributor against its supplier on the basis of Article TFEU, that there be a finding of an infringement of competition law by a national or European authority.
+ 
+[Signatures]
+(
+*)	Language of the case: French.
+Top  

@@ -1,0 +1,114 @@
+
+JUDGMENT OF THE COURT (Tenth Chamber)
+September (
+*)
+(Reference for a preliminary ruling — Customs Union and Common Customs Tariff — Tariff and statistical nomenclature — Classification of goods — Fried instant noodles — Tariff subheading 19023010)
+In Case C‑471/17,
+REQUEST for a preliminary ruling under Article TFEU from the Finanzgericht Hamburg (Finance Court, Hamburg, Germany), made by decision of July 2017, received at the Court on August 2017, in the proceedings
+Kreyenhop & Kluge GmbH & Co. KG
+v
+Hauptzollamt Hannover,
+THE COURT (Tenth Chamber),
+composed of E. Levits, President of the Chamber, M. Berger (Rapporteur) and F. Biltgen, Judges,
+Advocate General: P. Mengozzi,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Kreyenhop & Kluge GmbH & Co. KG, by L. Harings and H. Henninger, Rechtsanwälte,
+–
+the European Commission, by A. Caeiros and M. Wasmeier, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of tariff subheading of the Combined Nomenclature in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1), in the version resulting from Commission Implementing Regulation (EU) No 927/of October (OJ L 304, p. 1) (‘the CN’).
+The request has been made in proceedings between Kreyenhop & Kluge GmbH & Co. KG and the Hauptzollamt Hannover (Principal Customs Office, Hanover, Germany) concerning the tariff classification of fried instant noodles in the CN.
+Legal context
+The CN
+The CN, introduced by Regulation No 2658/87, is based on the Harmonised Commodity Description and Coding System, drawn up by the Customs Cooperation Council, now the World Customs Organisation (WCO), and established by the International Convention on the Harmonised Commodity Description and Coding System, concluded in Brussels on June 1983. That convention, and the Protocol of Amendment thereto of June 1986, was approved on behalf of the European Economic Community by Council Decision 87/369/EEC of April (OJ L 198, p. 1).
+The general rules for the interpretation of the CN, which are in Part One, Section I, A, of the CN, state in particular:
+‘Classification of goods in the [CN] shall be governed by the following principles:
+1.
+The titles of sections, chapters and sub-chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings or notes do not otherwise require, according to the following provisions.
+…
+6.
+For legal purposes, the classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related subheading notes and, mutatis mutandis, to the above rules, on the understanding that only subheadings at the same level are comparable. For the purposes of this rule, the relative section and chapter notes also apply, unless the context requires otherwise.’
+Part II of the CN, entitled ‘Schedule of customs duties’, contains a Section I, relating to ‘Live animals; animal products’, Note of which provides:
+‘Except where the context otherwise requires, throughout the nomenclature any reference to “dried” products also covers products which have been dehydrated, evaporated or freeze-dried.’
+That second part of the CN also includes a Section IV, which includes, inter alia, Chapter 19, entitled ‘Preparations of cereals, flour, starch or milk; pastrycooks’ products’.
+Chapter of the CN includes heading 1902, which is worded as follows:
+‘Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared.’
+Heading of Chapter includes the following subheadings:
+ 
+‘– Uncooked pasta, not stuffed or otherwise prepared:
+– – Containing eggs
+– – Other
+…
+…
+– Stuffed pasta, whether or not cooked or otherwise prepared
+…
+…
+– Other pasta
+– – Dried
+– – Other
+…’
+ 
+Regulation (EC) No 635/Commission Regulation (EC) No 635/of April concerning the classification of certain goods in the Combined Nomenclature (OJ L 106, p. 10), contains, in the annex thereto, a table with three columns, the first containing a description of each of the goods concerned, the second containing the classification in the CN attributed to the goods and the third concerning the reasons for that classification.
+It followed from paragraph of that annex that a mixed product consisting of dried pre-cooked noodles made from wheat flour (approximately g) and spices (approximately g), prepared for retail sale in a bowl, ready to be consumed after the addition of spices and boiling water (not more than ml), was classified under CN subheading 19023010. According to the reasoning for the classification chosen, the essential character of the product was determined by the noodles, given their significant proportion in the composition of the product.
+Under Article of Commission Implementing Regulation (EU) 2015/of February (OJ L 31, p. 5), that paragraph has been deleted.
+Implementing Regulation (EU) No 767/Commission Implementing Regulation (EU) No 767/of July concerning the classification of certain goods in the Combined Nomenclature (OJ L 209, p. 12), contains, in the annex thereto, a table with three columns, the first containing a description of each of the goods concerned, the second containing the classification in the CN attributed to the goods and the third concerning the reasons for that classification.
+It follows from that annex that a product consisting in essence of a block of dried pre-cooked noodles falls within CN subheading 19023010. In the column concerning the description of the goods, that product is described as:
+‘A product consisting of a block of dried pre-cooked noodles (approximately g), a sachet of seasoning (approximately 3.g), a sachet of edible oil (approximately g) and a sachet of dried vegetables (approximately 0.g).
+The product is presented as a set (packaged together) put up for retail sale for the preparation of a noodle dish.
+According to the instructions printed on the packaging, boiling water has to be added before consumption.’
+Explanatory Notes to the CN
+Pursuant to Article 9(1) of Regulation No 2658/87, the European Commission is to adopt explanatory notes to the CN (‘the Explanatory Notes to the CN’).
+The Explanatory Notes to the CN, as published in the Official Journal of the European Union on March (OJ C 76, p. 1), are worded as follows with regard to subheading of the CN:
+‘Dried:
+For the purposes of this subheading, the term “dried” refers to products in a dry and brittle state with a low moisture content (up to approximately 12%), which have undergone either direct drying in the sun or an industrial drying process (for example, tunnel-drying or roasting or frying).’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+On February 2013, Kreyenhop & Kluge declared to customs, under CN tariff code applicable to pasta other than dried pasta, different instant noodle dishes which it had imported into the customs territory of the Union. Those dishes were packaged in gram plastic packs consisting of a block of instant fried noodles and one or more plastic sachets containing spices, paste, oils or dried ingredients. The pre-cooked noodles had, after being fried, a fat content of about 20%. According to the ‘preparation example’ on the package, approximately ml of boiling water should be poured over the contents of the package placed in a container. The referring court specifies that, even if, according to the indications on the packaging, the noodles are prepared in soup when water is added, they may also be consumed without further preparation, like potato chips.
+Not accepting the tariff classification used by Kreyenhop & Kluge, the customs authorities, by a tax assessment of February 2013, set a customs duty on the basis of CN subheading 21041000, on ‘Soups and broths and preparations therefor’.
+Kreyenhop & Kluge lodged an objection to that assessment. During the complaint procedure, the Commission adopted, on July 2014, Implementing Regulation No 767/2014, under which instant noodle dishes, comparable to those at issue in the present case, were classified not as soups or broths (CN heading 2104) but as pasta, falling under CN heading 1902. Within that latter heading, that implementing regulation classified those instant noodle dishes as being ‘dried’, falling within CN subheading 19023010. Following a discussion on that issue between the German customs authorities and the Commission, on March the Commission published a new version of the Explanatory Notes to the CN. It is clear from those that fried pasta must also be considered to be ‘dried’ within the meaning of subheading 19023010.
+Subsequently, the customs authorities, by an assessment of August 2015, fixed a customs duty for the products in question on the basis of CN subheading 19023010.
+As a complaint against that new assessment was rejected, Kreyenhop & Kluge brought an appeal on November before the referring court seeking to amend the notice so that the customs duty was to be assessed on the basis of CN subheading 19023090.
+The referring court takes the view, first of all, that Regulation No 635/2005, by which an instant noodle dish has been classified under CN subheading 19023010, is not applicable rationae materiae due to the lack of sufficient similarity of the product concerned with those at issue in the main proceedings. The decisive factor for the purposes of classifying the instant noodle dish to which that regulation relates is the quantity of water having to be added to the noodles. In the case in the main proceedings, however, the noodle/water ratio is different.
+That court takes the view, moreover, that if Implementing Regulation No 767/had to be regarded as applicable rationae materiae, it is not ratione temporis, since the imports at the origin of the contested tax assessment took place before the entry into force of that regulation. The same applies to the Explanatory Note concerning subheading 19023010, which was published only in the course of 2015.
+In those circumstances, according to the national court, the dispute pending before it concerns solely whether instant fried noodles, such as those at issue, must be regarded as being ‘dried’, within the meaning of CN subheading 19023010. As regards the wording of that subheading, the national court observes that the expression ‘dried’ is not defined. It considers that it generally refers to a product that has lost moisture. That would also be the case for fried pasta, because the food necessarily loses water when fried.
+However, considering that dried foods have been subjected to a drying process, the question then arises as to whether frying is part of that process. In that regard, the referring court is of the opinion that drying food constitutes a means of preservation, to be distinguished from cooking methods such as frying.
+It is of the opinion that, because of the fundamental differences in terms of food chemistry between frying and drying, it is appropriate to retain a narrow meaning of the term ‘dried’. Indeed, while frying is a cooking process causing, in addition to the incidental elimination of water, numerous complex chemical reactions, drying is a separation process involving only the extraction of moisture. In addition, the CN repeatedly distinguishes between prepared and preserved foods.
+Therefore having doubts as to the interpretation of CN subheading 19023010, the Finanzgericht Hamburg (Finance Court, Hamburg, Germany) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Are fried noodles “dried” pasta within the meaning of CN subheading 3010?’
+Consideration of the question referred
+By its question, the national court asks, in essence, whether the CN must be interpreted as meaning that subheading thereof covers instant noodle dishes, such as those at issue in the main proceedings, which are, in essence, composed of a block of noodles which have been pre-cooked and fried.
+As a preliminary point, it should be noted that the tariff classification of instant noodle dishes is the subject of both Regulation No 635/and Implementing Regulation No 767/2014.
+Those two classification regulations are however not applicable in the present case.
+First, as regards Regulation No 635/2005, it is settled law that a classification regulation is of general application in so far as it does not apply to an individual trader but, in general, to products which are the same as that examined by the Customs Code Committee. In the interpretation of a classification regulation, in order to determine its scope, account must be taken, inter alia, of its statement of reasons (judgment of March 2017, GROFA and Others, C‑435/and C‑666/15, EU:C:2017:232, paragraph and the case-law cited).
+In that regard, it must be held that Regulation No 635/is not directly applicable to the instant noodle dishes at issue in the main proceedings since, as the referring court points out, they are not identical to the products covered by that regulation.
+Admittedly, according to the case-law of the Court, if a classification regulation is not directly applicable to products which are not identical, but only similar to the product covered by that regulation, the latter is applicable by analogy to such products (judgment of March 2017, GROFA and Others, C‑435/and C‑666/15, EU:C:2017:232, paragraph and the case-law cited).
+However, in order for a classification regulation to be applied by analogy, the products to be classified and those covered by that regulation must be sufficiently similar. In that regard, it is also necessary to take into account the reasons given for that regulation (judgment of March 2017, GROFA and Others, C‑435/and C‑666/15, EU:C:2017:232, paragraph and the case-law cited).
+In the present case, however, the goods in question cannot be considered to be sufficiently similar, since Regulation No 635/does not show whether the product referred to in paragraph thereof consists of noodles which have been fried during their manufacture. However, it is precisely that characteristic which is decisive in the present case.
+On the other hand, as regards Implementing Regulation No 767/2014, it is sufficient to point out, without it being necessary to examine its applicability ratione materiae, that it was adopted only after the importation of the goods at issue in the main proceedings. However, a classification regulation cannot produce retroactive effects (judgment of July 2014, Panasonic Italia and Others, C‑472/12, EU:C:2014:2082, paragraph and the case-law cited).
+Those clarifications having been made, it should be borne in mind that, following the Court’s settled case-law, the decisive criterion for the classification of goods for customs purposes is in general to be sought in their objective characteristics and properties as defined in the wording of the relevant heading of the CN and of the notes to the section or chapter (judgment of February 2018, SAKSA, C‑185/17, EU:C:2018:108, paragraph and the case-law cited).
+In the present case, it is accepted that the noodles in question are pasta, within the meaning of CN subheading 190230. It is therefore necessary to determine whether, under CN subheading 19023010, pre-cooked and fried noodles may be considered to be dried.
+In that regard, it should be noted that the term ‘dried’, as used in CN subheading 19023010, is not defined. Admittedly, the Explanatory Note to that subheading, as it appears from the CN Explanatory Notes published by the Commission on March 2015, refers to frying as an example of ‘industrial drying’. Yet that note was not applicable at the time of the facts in the main proceedings (see judgment of May 2008, Ecco Sko, C‑165/07, EU:C:2008:302, paragraph 40). On the other hand, and in any event, it is settled case-law that the CN Explanatory Notes, while being an important aid to the interpretation of the scope of the various tariff headings, do not have legally binding force (see judgment of December 2016, LEK, C‑700/15, EU:C:2016:959, paragraph and the case-law cited).
+According to settled case-law, the meaning and scope of terms for which EU law provides no definition must be determined according to their meaning in everyday language whilst considering the context in which they occur and the purposes of the rules of which they form part (see judgment of March 2017, J. D., C‑4/16, EU:C:2017:153, paragraph and the case-law cited).
+The term ‘dried’, as used in CN subheading 19023010, is the past participle of the verb ‘to dry’, which means, in particular, ‘make dry’ or ‘become dry’. According to its usual meaning in everyday language, the adjective ‘dry’ refers to that ‘which is not or is slightly impregnated with liquid’, but also which is ‘dehydrated’.
+Therefore, since the manufacture of pasta involves necessarily, first of all, the use of liquid, pasta from which the moisture is extracted in the course of its manufacture in order to bring it to a dry state may, in general, be considered to be dried pasta. In contrast, in that regard the process by which that state has been reached is not decisive.
+As regards the noodles at issue in the main proceedings, it is clear from the file before the Court that they are noodles which have been first pre-cooked (steamed) and then fried. Next, those noodles have been packed, in a dry state, in the form of small blocks. Therefore, since at the end of the production process the noodles have been packaged in a dry state, they should be considered to be ‘dried’ pasta, within the meaning of CN subheading 19023010.
+In contrast, the argument of the referring court and Kreyenhop & Kluge that the expression ‘dried’, as used in CN subheading 19023010, must be understood as describing a product that has undergone a drying process in the strict sense of the term, cannot be accepted. According to them, the drying of food constitutes a means of preservation, which solely results in the extraction of moisture and which should be distinguished from cooking methods such as frying, which causes, in addition to the elimination of water, numerous complex chemical reactions. This is reflected in different CN subheadings, which accordingly distinguish between preserved foods and prepared or cooked foods.
+In that regard, it should first be pointed out that that interpretation of the term ‘dried’ does not find any basis in the wording of the CN. In so far as the referring court refers, in that context, to Note of CN Section I, it must be held, without it being necessary to take a view as to whether or not it applies to the whole of the CN, that in any event it cannot be inferred from that note that pre-cooked and fried pasta should not be regarded as being dried.
+Next, as regards the scheme of the CN, it should be noted that, under CN heading 1902, a distinction is made between ‘uncooked pasta, not stuffed or otherwise prepared’ (subheadings and 190219), ‘stuffed pasta, whether or not cooked or otherwise prepared’ (subheading 190220) and ‘other pasta’ (subheading 190230). It follows that the latter subheading, within which subheading (‘dried’ pasta) falls, necessarily covers cooked pasta or pasta, otherwise prepared, which is not stuffed. That is precisely the case for the noodles at issue in the main proceedings, which have been (pre-) cooked and fried.
+Finally, as the Commission points out, it is also important, in the interest of legal certainty and ease of verification (see, to that effect, judgment of October 2017, Lutz, C‑556/16, EU:C:2017:777, paragraph and the case-law cited) that the scope of CN subheading should not be limited to pasta whose dry state has been obtained by processes which are used solely for their preservation and which remove only water from the treated products, without changing them in any other way.
+Having regard to all of the foregoing considerations, the answer to the question referred is that the CN must be interpreted as meaning that subheading thereof covers instant noodle dishes, such as those at issue in the main proceedings, which are, in essence, composed of a block of pre-cooked and fried noodles.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Tenth Chamber) hereby rules:
+ 
+The Combined Nomenclature set out in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff, in the version resulting from Commission Implementing Regulation (EU) No 927/of October 2012, must be interpreted as meaning that subheading thereof covers instant noodle dishes, such as those at issue in the main proceedings, which are, in essence, composed of a block of pre-cooked and fried noodles.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

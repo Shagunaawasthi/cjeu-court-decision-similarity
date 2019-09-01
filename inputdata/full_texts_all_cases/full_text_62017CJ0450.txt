@@ -1,0 +1,269 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+May (
+*)
+(Appeal — Economic and monetary policy — Regulation (EU) No 1024/— Article 6(4) — Regulation (EU) No 468/— Article 70(1) — Prudential supervision of credit institutions — Tasks conferred on the European Central Bank (ECB) — Single supervisory mechanism — Performance of those tasks by the national competent authorities — ‘Less significant’ credit institution — ‘Particular circumstances’ justifying a credit institution being considered ‘less significant’)
+In Case C‑450/P,
+APPEAL under Article of the Statute of the Court of Justice of the European Union, brought on July 2017,
+Landeskreditbank Baden-Württemberg — Förderbank, established in Karlsruhe (Germany), represented by A. Glos, T. Lübbig andM. Benzing, Rechtsanwälte,
+appellant,
+the other parties to the proceedings being:
+European Central Bank (ECB), represented by E. Koupepidou and R. Bax, acting as Agents, and by H.-G. Kamann, Rechtsanwalt,
+defendant at first instance,
+European Commission, represented by W. Mölls and K.-P. Wojcik, acting as Agents,
+intervener at first instance,
+THE COURT (First Chamber),
+composed of J.-C. Bonichot, President of the Chamber, R. Silva de Lapuerta (Rapporteur), Vice-President of the Court, A. Rosas, L. Bay Larsen and M. Safjan, Judges,
+Advocate General: G. Hogan,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after hearing the Opinion of the Advocate General at the sitting on December 2018,
+gives the following
+Judgment
+By its appeal, the Landeskreditbank Baden-Württemberg — Förderbank (‘the Landeskreditbank’) seeks to have set aside the judgment of the General Court of the European Union of May 2017, Landeskreditbank Baden-Württemberg v ECB (T‑122/15, ‘the judgment under appeal’, EU:T:2017:337), by which the General Court dismissed its action seeking annulment of Decision ECB/SSM/15/of the European Central Bank (ECB) of January 2015, taken under Article 6(4) and Article 24(7) of Council Regulation (EU) No 1024/of October conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, p. 63) (‘the decision at issue’).
+Legal context
+Regulation No 1024/According to recital of Regulation No 1024/2013:
+‘The conferral of supervisory tasks implies a significant responsibility for the ECB to safeguard financial stability in the Union, and to use its supervisory powers in the most effective and proportionate way. ...’
+The first paragraph of Article of that regulation provides:
+‘This Regulation confers on the ECB specific tasks concerning policies relating to the prudential supervision of credit institutions, with a view to contributing to the safety and soundness of credit institutions and the stability of the financial system within the Union and each Member State, with full regard and duty of care for the unity and integrity of the internal market based on equal treatment of credit institutions with a view to preventing regulatory arbitrage.’
+Article of that regulation, headed ‘Tasks conferred on the ECB’, provides in paragraph 1:
+‘Within the framework of Article 6, the ECB shall, in accordance with paragraph of this Article, be exclusively competent to carry out, for prudential supervisory purposes, the following tasks in relation to all credit institutions established in the participating Member States:
+…’
+Article of that regulation provides:
+‘1.   The ECB shall carry out its tasks within a single supervisory mechanism [(SSM)] composed of the ECB and national competent authorities. The ECB shall be responsible for the effective and consistent functioning of the SSM.
+…
+4.   In relation to the tasks defined in Article except for points (a) and (c) of paragraph thereof, the ECB shall have the responsibilities set out in paragraph of this Article and the national competent authorities shall have the responsibilities set out in paragraph of this Article, within the framework and subject to the procedures referred to in paragraph of this Article, for the supervision of the following credit institutions, financial holding companies or mixed financial holding companies, or branches, which are established in participating Member States, of credit institutions established in non-participating Member States:
+–
+those that are less significant on a consolidated basis, at the highest level of consolidation within the participating Member States, or individually in the specific case of branches, which are established in participating Member States, of credit institutions established in non-participating Member States. The significance shall be assessed based on the following criteria:
+(i)
+size;
+(ii)
+importance for the economy of the Union or any participating Member State;
+(iii)
+significance of cross-border activities.
+With respect to the first subparagraph above, a credit institution or financial holding company or mixed financial holding company shall not be considered less significant, unless justified by particular circumstances to be specified in the methodology, if any of the following conditions is met:
+(i)
+the total value of its assets exceeds EUR billion;
+(ii)
+the ratio of its total assets over the GDP of the participating Member State of establishment exceeds 20%, unless the total value of its assets is below EUR billion;
+(iii)
+following a notification by its national competent authority that it considers such an institution of significant relevance with regard to the domestic economy, the ECB takes a decision confirming such significance following a comprehensive assessment by the ECB, including a balance-sheet assessment, of that credit institution.
+The ECB may also, on its own initiative, consider an institution to be of significant relevance where it has established banking subsidiaries in more than one participating Member States and its cross-border assets or liabilities represent a significant part of its total assets or liabilities subject to the conditions laid down in the methodology.
+Those for which public financial assistance has been requested or received directly from the [European Financial Stability Facility (EFSF)] or the [European Stability Mechanism (ESM)] shall not be considered less significant.
+Notwithstanding the previous subparagraphs, the ECB shall carry out the tasks conferred on it by this Regulation in respect of the three most significant credit institutions in each of the participating Member States, unless justified by particular circumstances.
+5.   With regard to the credit institutions referred to in paragraph 4, and within the framework defined in paragraph 7:
+…
+(b)
+when necessary to ensure consistent application of high supervisory standards, the ECB may at any time, on its own initiative after consulting with national competent authorities or upon request by a national competent authority, decide to exercise directly itself all the relevant powers for one or more credit institutions referred to in paragraph 4, including in the case where financial assistance has been requested or received indirectly from the EFSF or the ESM;
+…
+6.   Without prejudice to paragraph of this Article, national competent authorities shall carry out and be responsible for the tasks referred to in points (b), (d) to (g) and (i) of Article 4(1) and adopting all relevant supervisory decisions with regard to the credit institutions referred to in the first subparagraph of paragraph of this Article, within the framework and subject to the procedures referred to in paragraph of this Article.
+…
+The national competent authorities shall report to the ECB on a regular basis on the performance of the activities performed under this Article.
+7.   The ECB shall, in consultation with national competent authorities, and on the basis of a proposal from the Supervisory Board, adopt and make public a framework to organise the practical arrangements for the implementation of this Article. …
+8.   Wherever the ECB is assisted by national competent authorities or national designated authorities for the purpose of exercising the tasks conferred on it by this Regulation, the ECB and the national competent authorities shall comply with the provisions set out in the relevant Union acts in relation to the allocation of responsibilities and cooperation between competent authorities from different Member States.’
+Article of Regulation No 1024/states:
+‘1.   The ECB shall establish an Administrative Board of Review for the purposes of carrying out an internal administrative review of the decisions taken by the ECB in the exercise of the powers conferred on it by this Regulation after a request for review submitted in accordance with paragraph 5. The scope of the internal administrative review shall pertain to the procedural and substantive conformity with this Regulation of such decisions.
+…
+5.   Any natural or legal person may in the cases referred to in paragraph request a review of a decision of the ECB under this Regulation which is addressed to that person, or is of a direct and individual concern to that person. A request for a review against a decision of the Governing Council as referred to in paragraph shall not be admissible.
+6.   Any request for review shall be made in writing, including a statement of grounds, and shall be lodged at the ECB within one month of the date of notification of the decision to the person requesting the review, or, in the absence thereof, of the day on which it came to the knowledge of the latter as the case may be.
+7.   After ruling on the admissibility of the review, the Administrative Board of Review shall express an opinion within a period appropriate to the urgency of the matter and no later than months from the receipt of the request and remit the case for preparation of a new draft decision to the Supervisory Board. The Supervisory Board shall take into account the opinion of the Administrative Board of Review and shall promptly submit a new draft decision to the Governing Council. The new draft decision shall abrogate the initial decision, replace it with a decision of identical content, or replace it with an amended decision. The new draft decision shall be deemed adopted unless the Governing Council objects within a maximum period of working days.
+…
+9.   The opinion expressed by the Administrative Board of Review, the new draft decision submitted by the Supervisory Board and the decision adopted by the Governing Council pursuant to this Article shall be reasoned and notified to the parties.
+10.   The ECB shall adopt a decision establishing the Administrative Board of Review’s operating rules.
+…’
+Regulation (EU) No 468/Recital of Regulation (EU) No 468/of the European Central Bank of April establishing the framework for cooperation within the Single Supervisory Mechanism between the European Central Bank and national competent authorities and with national designated authorities (OJ L 141, p. 1), states:
+‘… This Regulation further develops and specifies the cooperation procedures established in the SSM Regulation between the ECB and the NCAs within the SSM as well as, where appropriate, with the national designated authorities, and thereby ensures the effective and consistent functioning of the SSM.’
+Under Article 1(1) of that regulation:
+‘This Regulation lays down rules on all of the following:
+(a)
+the framework referred to in Article 6(7) of Regulation [No 1024/2013], namely a framework to organise the practical arrangements for implementing Article of Regulation [No 1024/2013] concerning cooperation within the SSM, to include:
+(i)
+the specific methodology for the assessment and review of whether a supervised entity is classified as significant or less significant pursuant to the criteria laid down in Article 6(4) of Regulation [No 1024/2013], and the arrangements resulting from this assessment;
+…
+…’
+Article of that regulation, entitled ‘Particular circumstances leading to the classification of a significant supervised entity as less significant’, states:
+‘1.   Particular circumstances, as referred to in the second and fifth subparagraphs of Article 6(4) of Regulation [No 1024/2013] (hereinafter the “particular circumstances”) exist where there are specific and factual circumstances that make the classification of a supervised entity as significant inappropriate, taking into account the objectives and principles of Regulation [No 1024/2013] and, in particular, the need to ensure the consistent application of high supervisory standards.
+2.   The term “particular circumstances” shall be strictly interpreted.’
+Article of Regulation No 468/2014, entitled ‘Assessment of the existence of particular circumstances’, is worded as follows:
+‘1.   Whether particular circumstances exist that justify classifying what would otherwise be a significant supervised entity as less significant shall be determined on a case-by-case basis and specifically for the supervised entity or supervised group concerned, but not for categories of supervised entities.
+…’
+Decision 2014/360/EU
+Decision 2014/360/EU of the European Central Bank of April concerning the establishment of an Administrative Board of Review and its Operating Rules (OJ L 175, p. 47), established the Administrative Board of Review referred to in Article of Regulation No 1024/2013.
+Article 7(1) of that decision provides:
+‘Any natural or legal person to whom a decision of the ECB under Regulation [No 1024/2013] is addressed, or to whom such decision is of direct and individual concern, who wishes to request an internal administrative review … shall do so by filing a written notice of review with the Secretary, identifying the contested decision. The notice of review shall be submitted in one of the official languages of the Union.’
+Article of that decision provides:
+‘1.   The Administrative Board shall, within a time period appropriate to the urgency of the matter and not later than months from the date of receipt of the notice of review, adopt an opinion on the review.
+2.   The opinion shall propose whether the initial decision should be either abrogated, replaced with a decision of identical content or replaced with an amended one. In the latter case, the opinion shall contain proposals for the necessary amendments.
+…’
+Article of that decision states:
+‘The Administrative Board’s opinion, the new draft decision submitted by the Supervisory Board and the new decision adopted by the Governing Council shall be notified to the parties by the Secretary of the Governing Council including the relevant reasoning.’
+Background to the dispute
+The Landeskreditbank is a legal person governed by public law, and wholly owned by the Land (State) of Baden-Württemberg (Germany).
+On June 2014, the ECB informed the Landeskreditbank, in essence, that on account of its size it was subject solely to the ECB’s supervision rather than shared supervision under the SSM, pursuant to Article 6(4) of Regulation No 1024/and invited the Landeskreditbank to submit its observations.
+On July 2014, the Landeskreditbank disputed that analysis, arguing, inter alia, that there were particular circumstances within the meaning of that provision and Articles and of Regulation No 468/2014.
+On September 2014, the ECB adopted a decision classifying the Landeskreditbank as a ‘significant entity’ within the meaning of Article 6(4) of Regulation No 1024/2013.
+On October 2014, the Landeskreditbank requested that that decision be reviewed under Article 24(1), (5) and (6) of Regulation No 1024/2013, read in conjunction with Article of Decision 2014/360. A hearing was held on October before the Administrative Board of Review.
+On November 2014, the Administrative Board of Review gave an Opinion finding that the decision adopted by the ECB on September was lawful.
+By the decision at issue, the ECB, on January 2015, abrogated and replaced that decision, whilst maintaining the classification of the Landeskreditbank as a ‘significant entity’. The ECB stated, in essence, the following:
+–
+the classification of the Landeskreditbank as a ‘significant entity’ was not in contradiction with the objectives of Regulation No 1024/2013;
+–
+an entity’s risk profile is not a relevant question at the stage of its classification and Article of Regulation No 468/cannot be interpreted as including criteria that have no basis in Regulation No 1024/2013;
+–
+even if it did take the view that there were particular circumstances in the case of the Landeskreditbank, it would also have to ascertain whether such circumstances justified reclassifying the applicant as a ‘less significant’ entity;
+–
+under Article 70(2) of Regulation No 468/2014, the concept of ‘particular circumstances’ had to be interpreted restrictively and, therefore, it was only when direct supervision by the ECB was inappropriate that an entity could be reclassified from ‘significant’ to ‘less significant’;
+–
+taking into account the principle of proportionality for the purpose of interpretation did not require it to ascertain whether the application of the criteria laid down in Article 6(4) of Regulation No 1024/to an entity was proportionate and the examination of whether it was ‘inappropriate’ to classify an entity as ‘significant’ did not amount to conducting such an examination of proportionality;
+–
+the adequacy of national supervisory frameworks and their ability to apply high supervisory standards did not lead to a finding that the exercise of direct prudential supervision by the ECB was inappropriate, since Regulation No 1024/did not make it subject to proof that the national supervisory frameworks or national supervisory standards were inadequate.
+The procedure before the General Court and the judgment under appeal
+By application lodged at the Registry of the General Court on March 2015, the Landeskreditbank brought an action seeking annulment of the decision at issue.
+In support of its action, the Landeskreditbank put forward five pleas in law alleging, in essence, first, infringement of Article 6(4) of Regulation No 1024/and of Article of Regulation No 468/in the choice of criteria applied by the ECB; second, manifest errors of assessment of the facts; third, infringement of the obligation to state reasons; fourth, misuse of powers by the ECB arising from its failure to exercise its discretion; and, fifth, infringement by the ECB of its obligation to take into consideration all the relevant circumstances of the case.
+By the judgment under appeal, the General Court dismissed the Landeskreditbank’s action.
+Forms of order sought by the parties
+By its appeal, the Landeskreditbank claims that the Court should:
+–
+set aside the judgment under appeal;
+–
+annul the decision at issue, ordering the effects of the substituted decision of the ECB of September to be maintained;
+–
+in the alternative, set aside the judgment under appeal and refer the case back to the General Court; and
+–
+order the ECB to pay the costs.
+The ECB contends that the Court should:
+–
+dismiss the appeal, and
+–
+order the Landeskreditbank to pay the costs.
+The European Commission contends that the Court should:
+–
+dismiss the appeal, and
+–
+order the Landeskreditbank to pay the costs.
+The appeal
+In support of its appeal, the Landeskreditbank puts forward three grounds of appeal.
+The first ground of appeal
+By its first ground of appeal, the Landeskreditbank invokes an infringement of Union law in the interpretation and application of the second subparagraph of Article 6(4) of Regulation No 1024/and of Article of Regulation No 468/2014.
+That ground of appeal is divided into three parts.
+First part of the first ground of appeal
+– Arguments of the parties
+By the first part of its first ground of appeal, the Landeskreditbank submits, in essence, that the General Court misinterpreted the concept of ‘particular circumstances’ within the meaning of the second subparagraph of Article 6(4) of Regulation No 1024/and misinterpreted Article of Regulation No 468/and that, in particular, the General Court was wrong to not interpret those provisions in accordance with the principle of proportionality.
+According to the Landeskreditbank, Regulation No 1024/transferred to the ECB exclusive competence for prudential supervision of credit institutions only with regard to significant institutions, with the national authorities remaining competent for the prudential supervision of less significant institutions.
+In that regard, the Landeskreditbank takes the view that, in accordance with the principle of proportionality, the General Court should have interpreted the second subparagraph of Article 6(4) of Regulation No 1024/and Article of Regulation No 468/as meaning that an entity must be classified as being ‘less significant’ when, because of the specific and factual circumstances of the case, it appears that the direct prudential supervision of that entity by the national competent authorities would enable the objectives of Regulation No 1024/to be achieved at least as effectively as direct prudential supervision by the ECB.
+Furthermore, the Landeskreditbank claims that the General Court infringed the principle of interpretation ut res magis valeat quam pereat and the prohibition on requiring a probatio diabolica in so far as the General Court’s interpretation of the concept of ‘particular circumstances’ within the meaning of the second subparagraph of Article 6(4) of Regulation No 1024/and Article of Regulation No 468/deprives those provisions of their effectiveness by making it impossible to prove that such circumstances exist.
+The ECB and the Commission dispute the Landeskreditbank’s arguments.
+– Findings of the Court
+As the General Court rightly found in paragraph of the judgment under appeal, the interpretation by the General Court of the texts on the competence conferred on the ECB by the Council in relation to prudential supervision cannot be invalidated by the applicant’s arguments, which are based on the postulate that the national authorities retain, under Article 6(4) of Regulation No 1024/2013, their competence for the purposes of performing the tasks listed in Article 4(1)(b) and (d) to (i) thereof, in relation to those entities classified as ‘less significant’.
+As regards, first of all, the scope of the ECB’s competence for the direct prudential supervision of credit institutions, it should be recalled that Article of Regulation No 1024/2013, headed ‘Tasks conferred on the ECB’, provides in paragraph that, within the framework of Article of that regulation, the ECB is ‘exclusively competent’ to carry out, for prudential supervisory purposes, the tasks listed in Article 4(1) in relation to ‘all’ credit institutions established in the participating Member States, without drawing a distinction between significant institutions and less significant institutions.
+Thus, it follows from the wording of Article 4(1) of Regulation No 1024/that the ECB is exclusively competent to carry out the tasks stated in that provision in relation to all those institutions.
+It is true that, under Article 6(1) of Regulation No 1024/2013, the ECB is to carry out its tasks within an SSM composed of the ECB and national competent authorities, and is to be responsible for the effective and consistent functioning of the SSM.
+It is in that context that, in accordance with Article 6(6) of Regulation No 1024/2013, national competent authorities are to carry out and be responsible for the tasks referred to in Article 4(1)(b), (d) to (g) and (i) of that regulation and are authorised to adopt all relevant supervisory decisions in relation to the credit institutions referred to in the first subparagraph of Article 6(4), that is, those which, in accordance with the criteria stated in that latter provision, are ‘less significant’.
+The national competent authorities thus assist the ECB in carrying out the tasks conferred on it by Regulation No 1024/2013, by a decentralised implementation of some of those tasks in relation to less significant credit institutions, within the meaning of the first subparagraph of Article 6(4) of that regulation.
+According to recital of Regulation No 468/2014, that regulation further develops and specifies the cooperation procedures established in Regulation No 1024/between the ECB and the national competent authorities within the SSM, thus ensuring the effective and consistent functioning of that mechanism.
+Thus, under Article 1(1)(a) of Regulation No 468/2014, the purpose of that regulation is, inter alia, to lay down the framework, referred to in Article 6(7) of Regulation No 1024/2013, namely a framework organising the practical arrangements for implementing Article 6, which governs cooperation between the ECB and the national competent authorities within the SSM.
+In particular, in accordance with Article 1(1)(a)(i), Regulation No 468/includes, in Part IV, the rules on determining, in accordance with the criteria set out in Article 6(4) of Regulation No 1024/2013, the status of a supervised entity as significant or less significant and defines, in that context, the concept of ‘particular circumstances’, within the meaning of that latter provision, justifying the classification of a supervised entity as less significant even though it meets the criteria for classification as significant.
+In that regard, Article 70(1) of Regulation No 468/provides that specific and factual circumstances that make the classification of a supervised entity as significant inappropriate, taking into account the objectives and principles of Regulation No 1024/and, in particular, the need to ensure the consistent application of high supervisory standards, constitute such particular circumstances.
+It follows from the very wording of that provision that the relevant circumstances which justify, for the purposes of carrying out direct prudential supervision, the classification of an entity as less significant which, in principle, on the basis of the criteria stated in the second subparagraph of Article 6(4) of Regulation No 1024/2013, should be classified as significant, are only those relating to whether or not it is appropriate to classify that entity as significant.
+Consequently, direct prudential supervision of a significant entity by the national authorities is possible only when there are circumstances indicating that the classification of that entity as significant is inappropriate in order to achieve the objectives pursued by Regulation No 1024/2013.
+As the General Court noted in paragraphs and of the judgment under appeal, the wording of Article 70(1) of Regulation No 468/does not include any reference to an examination of the need for direct prudential supervision of a significant entity by the ECB and it does not follow from a literal interpretation of that provision that the fact that direct prudential supervision of that entity by the national authorities would be just as able to achieve the objectives of that regulation as supervision carried out by the ECB alone would justify classifying that entity as less significant.
+Consequently, as the General Court held in paragraphs 54, and of the judgment under appeal, with regard to the tasks stated in Article 4(1) of Regulation No 1024/2013, the Council conferred on the ECB exclusive competence, the decentralised implementation of which by the national authorities is enabled by Article of that regulation, under the SSM and under the control of the ECB, in relation to less significant credit institutions, within the meaning of the first subparagraph of Article 6(4), and in respect of some of the tasks, whilst conferring on the ECB exclusive competence for determining the content of the definition of ‘particular circumstances’ within the meaning of the second subparagraph of Article 6(4), which was implemented through the adoption of Articles and of Regulation No 468/2014.
+Next, it should be recalled that, in accordance with the second subparagraph of Article 6(4) of Regulation No 1024/2013, the classification of a credit institution, such as the Landeskreditbank, as less significant, the total value of whose assets exceeds EUR billion, is subject to the condition that particular circumstances, within the meaning of that provision, justify it being regarded as such.
+In that regard, the Landeskreditbank is wrong to submit that the General Court interpreted the second subparagraph of Article 6(4) of Regulation No 1024/and Article of Regulation No 468/without taking into account the principle of proportionality.
+It must be stated that the General Court, in paragraphs to of the judgment under appeal, interpreted those provisions whilst taking into account that principle.
+In particular, the General Court, in paragraph of the judgment under appeal, correctly recalled that the assessment of the proportionality of a measure must be reconciled with compliance with the discretion that may have been conferred on the EU institutions at the time it was adopted (see, to that effect, judgment of December 2006, Germany v Parliament and Council, C‑380/03, EU:C:2006:772, paragraph and the case-law cited).
+In that context, it is important to note that the provisions of Regulations No 1024/and No 468/give the ECB decision-making power which takes into account elements of fact, and impose conditions which are proportionate to those facts. Thus, according to the second subparagraph of Article 6(4) of Regulation No 1024/2013, an entity not considered less significant on the basis of the criteria stated in that provision may however be considered to be so if particular circumstances, which are defined in Article of Regulation No 468/2014, justify it.
+The circumstances referred to in those provisions are those in which direct prudential supervision of a significant entity by the national authorities would enable the objectives pursued by Regulation No 1024/to be better achieved than by direct prudential supervision of that entity by the ECB or, vice versa, the circumstances in which the latter supervision would not enable those objectives to be achieved as effectively as by direct prudential supervision of the relevant entity by those authorities.
+By contrast, in accordance with Article 6(5)(b) of Regulation No 1024/2013, if that is necessary to ensure a consistent application of high supervisory standards, the ECB may at any time, on its own initiative after consulting with national competent authorities or upon request by a national competent authority, decide to exercise directly itself all the relevant powers for one or more credit institutions referred to in Article 6(4).
+Those provisions relate to different criteria, namely, first, whether it is inappropriate to classify a supervised entity as significant and, second, the need for the ECB to exercise relevant powers.
+The comparison of those provisions, in paragraph of the judgment under appeal, confirms the General Court’s assessment, in paragraph of that judgment, that the EU legislature, by creating the SSM, in Article of Regulation No 1024/2013, reconciled the role of the Member States in the implementation of EU law with the fulfilment of the objectives of that regulation.
+It follows that the principle of proportionality was taken into consideration by the EU legislature and that the ECB is not required, as the General Court pointed out in paragraph of the judgment under appeal, to determine case-by-case whether, despite the application of the criteria set out in the second subparagraph of Article 6(4) of Regulation No 1024/2013, a significant institution should come under the direct supervision of the national authorities on the ground that they are better able to attain the objectives of that regulation.
+Consequently, the General Court did not err in law when, in paragraph of the judgment under appeal, it held that ‘the specific and factual circumstances that make the classification of a supervised entity as significant inappropriate’, referred to in Article 70(1) of Regulation No 468/2014, refer solely to specific factual circumstances entailing that direct prudential supervision by the national authorities is better able to attain those objectives and those principles, in particular, the need to ensure the consistent application of high supervisory standards, than by direct prudential supervision by the ECB.
+The validity of the General Court’s interpretation is reinforced by the fact that, according to Article 70(2) of Regulation No 468/2014, the term ‘particular circumstances’, referred to in Article 70(1) of that regulation and in the second and fifth subparagraphs of Article 6(4) of Regulation No 1024/2013, is to be strictly interpreted.
+Finally, the argument that the General Court’s interpretation of the concept of ‘particular circumstances’ within the meaning of the second subparagraph of Article 6(4) of Regulation No 1024/and Article of Regulation No 468/deprives those provisions of their effectiveness by making it impossible to prove that there are such circumstances, must be dismissed.
+As the Advocate General noted in point of his Opinion, nothing indicates that that interpretation, which is consistent with the wording and objectives of Regulations No 1024/and No 468/2014, would make it impossible for the Landeskreditbank to argue that there are ‘particular circumstances’ within the meaning of those provisions, and to adduce proof of their existence.
+In those circumstances, the General Court’s interpretation of the concept of ‘particular circumstances’ within the meaning of those provisions, is not vitiated by an error of law.
+It follows that the first part of the first ground of appeal must be rejected.
+Second part of the first ground of appeal
+– Arguments of the parties
+By the second part of its first ground of appeal, the Landeskreditbank submits that, by refusing, in paragraphs to of the judgment under appeal, to recognise that the ECB made a manifest error of assessment of the facts, the General Court vitiated that judgment by an error of law.
+In particular, the Landeskreditbank considers that the General Court should have examined, including on the basis of its own interpretation of the relevant provisions, its specific and factual arguments and should have verified whether, in accordance with those arguments, direct prudential supervision by the national competent authorities would have enabled the objectives of Regulation No 1024/to be better achieved than by direct supervision by the ECB.
+Furthermore, the Landeskreditbank submits that, even when the General Court examined its arguments that the diversity of the legal frameworks and of the supervisory authorities forming the parameters of its activity justified prudential supervision by the national authorities, the General Court made an error of assessment.
+The ECB and the Commission dispute the Landeskreditbank’s arguments.
+– Findings of the Court
+As is apparent from paragraphs 87, 88, 102, and of the judgment under appeal, since the Landeskreditbank’s arguments before the General Court consisted of submitting that direct prudential supervision by the German authorities was sufficient to achieve the objectives of Regulation No 1024/and to ensure the consistent application of high supervisory standards and that direct prudential supervision by the ECB was unnecessary in that regard, the General Court was fully entitled, in view of its interpretation of the concept of ‘particular circumstances’ within the meaning of the second subparagraph of Article 6(4) of Regulation No 1024/and Article of Regulation No 468/2014, the validity of which was confirmed in the examination of the first part of the first ground of this appeal, to regard those arguments as irrelevant.
+Furthermore, besides having participated only at the stage of the reply before the General Court, the Landeskreditbank’s mere statement that, because of the diversity of the legal frameworks and of the supervisory authorities forming the parameters of its activity, prudential supervision by the national authorities would enable the objectives of Regulation No 1024/to be better achieved than by prudential supervision by the ECB is manifestly insufficient for the purposes of establishing whether that prudential supervision is inappropriate and cannot oblige the General Court to verify whether there are any particular circumstances, within the meaning of those provisions.
+Consequently, the General Court did not err in law when, in paragraph of the judgment under appeal, it rejected the Landeskreditbank’s plea in law alleging that the ECB made manifest errors of assessment of the facts.
+It follows that the second part of the first ground of appeal must be rejected.
+Third part of the first ground of appeal
+– Arguments of the parties
+By the third part of its first ground of appeal, the Landeskreditbank submits that, in paragraphs to and of the judgment under appeal, the General Court was wrong to hold that the ECB could not be accused of having failed to exercise its discretion and of having infringed its obligation to investigate the facts by rejecting the Landeskreditbank’s arguments as irrelevant.
+The ECB and the Commission dispute the Landeskreditbank’s arguments.
+– Findings of the Court
+As has been noted in paragraph of the present judgment, the Landeskreditbank’s arguments before the General Court consisted, in essence, of submitting that the objectives of Regulation No 1024/could be achieved by direct prudential supervision by the German authorities, without direct prudential supervision by the ECB being necessary in that regard.
+In so far as those arguments are irrelevant for the purposes of interpreting the concept of ‘particular circumstances’ within the meaning of the second subparagraph of Article 6(4) of Regulation No 1024/and Article of Regulation No 468/2014, as follows from paragraph of the judgment under appeal and from paragraphs and of the present judgment, the General Court did not err in law by rejecting, in paragraphs and of the judgment under appeal, the fourth and fifth pleas in law of the Landeskreditbank alleging, respectively, that the ECB misused its power due to unlawfully not exercising its discretion and that the ECB infringed its obligation to examine and take into consideration all the relevant circumstances of the case, on the ground that the ECB could not be accused of having rejected such arguments or of having not taken into account, when applying Article 70(1), irrelevant circumstances in the light of the wording of that provision.
+The third part of the first ground of appeal must therefore be rejected.
+In the light of all the foregoing considerations, the first ground of appeal must be rejected.
+The second ground of appeal
+By its second ground of appeal, the Landeskreditbank alleges distortion of the decision at issue and an incorrect assessment of the requirements to state reasons relating to that decision.
+That ground of appeal is divided into two parts.
+First part of the second ground of appeal
+– Arguments of the parties
+By the first part of its second ground of appeal, the Landeskreditbank submits that the General Court, in paragraphs and of the judgment under appeal, distorted the decision at issue by incorrectly reproducing the reasoning of that decision and by replacing that reasoning with its own reasoning.
+In particular, the Landeskreditbank submits that the criterion according to which its classification as a significant entity could be excluded only if it could be shown that direct prudential supervision by the competent German authorities would enable the objectives of Regulation No 1024/to be better achieved than by supervision by the ECB is absent from that decision.
+The ECB and the Commission dispute the Landeskreditbank’s arguments.
+– Findings of the Court
+According to the Court’s settled case-law, the statement of reasons required by Article TFEU must be appropriate to the measure at issue and must disclose in a clear and unequivocal fashion the reasoning followed by the institution which adopted the measure in such a way as to enable the persons concerned to ascertain the reasons for the measure and to enable the competent Court to exercise its power of review (judgments of December 2013, Solvay v Commission, C‑455/P, not published, EU:C:2013:796, paragraph 90, and of March 2016, HeidelbergCement v Commission, C‑247/P, EU:C:2016:149, paragraph 16).
+In the present case, it is important to note that the decision at issue is a measure relating to the prudential supervision of a credit institution, adopted by the ECB, which has a broad discretion in that regard since, as stated in recital of Regulation No 1024/2013, the conferral of supervisory tasks implies a significant responsibility for the ECB to safeguard financial stability in the Union, and to use its supervisory powers in the most effective and proportionate way.
+It is also settled case-law that the requirement to state reasons must be assessed by reference to the circumstances of the case, in particular the content of the measure in question, the nature of the reasons given and the interest which the addressees of the measure, or other parties to whom it is of direct and individual concern, may have in obtaining explanations. It is not necessary for the reasoning to specify all the relevant facts and points of law, since the question whether the statement of reasons meets the requirements of Article TFEU must be assessed with regard not only to its wording but also to its context and to all the legal rules governing the matter in question (judgments of December 2013, Solvay v Commission, C‑455/P, not published, EU:C:2013:796, paragraph 91, and of March 2016, HeidelbergCement v Commission, C‑247/P, EU:C:2016:149, paragraph 16).
+In that regard, it should be recalled that, under Article 24(1) of Regulation No 1024/2013, the ECB is to establish an Administrative Board of Review for the purposes of carrying out an internal administrative review of the decisions taken by the ECB in the exercise of the powers conferred on it by that regulation.
+By its Decision 2014/360, adopted on the basis of Article of Regulation No 1024/2013, the ECB established that Administrative Board of Review.
+According to Article 24(7) of Regulation No 1024/2013, when the Administrative Board of Review receives a request for review of a decision taken by the ECB under that regulation, after ruling on the admissibility of that request, the Administrative Board of Review is to express an opinion and remit the case to the Supervisory Board of the ECB for preparation of a new draft decision. Article 16(2) of Decision 2014/provides that, by its opinion, the Administrative Board of Review is to propose whether the initial decision should be either abrogated, replaced with a decision of identical content or replaced with an amended decision and, in the latter case, the opinion shall contain proposals for the necessary amendments. Article 24(7) of Regulation No 1024/provides that the Supervisory Board is to take into account that opinion and is to promptly submit a new draft decision to the Governing Council which is to abrogate the initial decision, replace it with a decision of identical content, or replace it with an amended decision. That new draft decision is to be deemed adopted unless the Governing Council objects within a maximum period of working days.
+Furthermore, in accordance with Article 24(9) of Regulation No 1024/and Article of Decision 2014/360, the opinion expressed by the Administrative Board of Review, the new draft decision submitted by the Supervisory Board and the decision adopted by the Governing Council are to be reasoned and notified to the parties.
+It therefore follows from the provisions of Article of Regulation No 1024/and from Decision 2014/that that opinion, that new draft decision and that decision originate from the same institution, namely the ECB, and are part of the same internal administrative review procedure in relation to decisions taken by that institution in the exercise of the powers conferred on it by Regulation No 1024/and that, consequently, they are, as the Advocate General noted in point of his Opinion, inherently linked.
+Therefore, the General Court was fully entitled, in paragraphs 31, and of the judgment under appeal, to examine the decision at issue in the light of the Opinion of the Administrative Board of Review which, in accordance with Article 24(9) of Regulation No 1024/and Article of Decision 2014/360, had been notified to the Landeskreditbank.
+In the present case, the General Court noted that the Administrative Board of Review’s Opinion of November found that the decision adopted by the ECB on September 2014, which classified the Landeskreditbank as a ‘significant entity’, within the meaning of Article 6(4) of Regulation No 1024/2013, was lawful, and that, by the decision at issue, the ECB abrogated and replaced that decision, while maintaining that classification.
+Consequently, after finding, in paragraph of the judgment under appeal, that the Administrative Board of Review’s Opinion was part of the context of which the decision at issue formed a part and could, therefore, under the case-law cited in paragraph of the present judgment, be taken into account for the purpose of determining whether that decision contained a sufficient statement of reasons, the General Court did not err in law when it held, in paragraph of the judgment under appeal, that it necessarily followed from Article 24(1) and (7) of Regulation No 1024/that, in so far as that decision had ruled in conformity with that opinion, it was an extension of that opinion and the explanations contained therein could be taken into account for the purposes of determining whether the decision at issue contained a sufficient statement of reasons.
+In that context, the General Court also did not err in law when, for the purposes of determining whether the decision at issue contained a sufficient statement of reasons, in paragraph of the judgment under appeal, it read that decision and the Administrative Board of Review’s Opinion together, from which it held that it was apparent that, first, the ECB had considered that there could be particular circumstances only if attainment of the objectives of Regulation No 1024/could be better safeguarded through direct prudential supervision by the national authorities and that, second, the Landeskreditbank had not demonstrated that that condition was fulfilled in that regard.
+In those circumstances, the General Court did not distort the decision at issue.
+The first part of the second ground of appeal must therefore be rejected.
+The second part of the second ground of appeal
+– Arguments of the parties
+By the second part of its second ground of appeal, the Landeskreditbank submits that, as the General Court distorted the content of the decision at issue, it also made an error of assessment by disregarding the fact that that decision did not meet the requirements relating to the obligation to state reasons, as imposed by EU law.
+The Landeskreditbank submits, in particular, that the decision at issue is illogical and contradictory, that it does not indicate the grounds on which it is based and does not include an examination of the Landeskreditbank’s arguments, with the result that, contrary to what the General Court stated, it was not in a position to conduct judicial review of the merits of the grounds of that decision.
+The ECB and the Commission dispute the Landeskreditbank’s arguments.
+– Findings of the Court
+Since the second part of the second ground of appeal is based on the assumption, rejected by the Court of Justice when examining the first part of that ground of appeal, that the General Court distorted the content of the decision at issue, it must be rejected as being ineffective.
+In the light of all of the foregoing, the second ground of appeal must be rejected.
+The third ground of appeal
+Arguments of the parties
+By its third ground of appeal, the Landeskreditbank submits that the judgment under appeal is vitiated by a procedural error in so far as it contains elements which were not the subject of the proceedings.
+According to the Landeskreditbank, by rejecting the Landeskreditbank’s arguments on the ground that it had not pleaded that national prudential supervision would enable the objectives of Regulation No 1024/to be better achieved than by direct supervision by the ECB, even though that criterion had not been referred to during the procedures before the ECB and the General Court, the latter infringed the Landeskreditbank’s right to be heard and the adversarial principle.
+The Landeskreditbank submits that the same is true of the reference, in paragraph of the judgment under appeal, to the lack of any arrangement or collaboration between the authorities of Baden-Württemberg and the German federal authorities that might make cooperation easier with them than with the ECB.
+The ECB and the Commission dispute the Landeskreditbank’s arguments.
+Findings of the Court
+In the first place, the Landeskreditbank’s argument, that the criterion that could lead to the conclusion that there are particular circumstances within the meaning of the second subparagraph of Article 6(4) of Regulation No 1024/and Article 70(1) of Regulation No 468/2014, namely that direct prudential supervision by the national authorities would enable the objectives of Regulation No 1024/to be better achieved than by direct supervision by the ECB was not referred to during the proceedings, cannot be accepted.
+As the Advocate General noted in point of his Opinion, it is clear from the application and from the defence that that criterion was debated before the General Court by the parties, thus ensuring that the Landeskreditbank’s right to be heard and the adversarial principle were respected.
+Furthermore, as the General Court noted in paragraph of the judgment under appeal, the analysis of the first plea in law relied on by the Landeskreditbank in support of its action for annulment shows that the Landeskreditbank was able to understand the ECB’s reasoning and to challenge it through that plea, and the Court was able to conduct judicial review of the merits of the reasons in the decision at issue.
+Furthermore, the parties presented oral arguments and answered the questions put to them by the General Court at the hearing before it.
+In the second place, as regards the reference, in paragraph of the judgment under appeal, to there not being any arrangement or collaboration between the authorities of Baden-Württemberg and the German federal authorities that might make cooperation easier with them than with the ECB, it is sufficient to note that, by that reference, the General Court merely noted, in response to the argument put forward by the Landeskreditbank at the stage of its reply, according to which, in view of the diversity of the legal frameworks and of the supervisory authorities forming the parameters of its activity, prudential supervision by the German authorities is better able to ensure the consistent application of high supervisory standards than prudential supervision by the ECB, that, in the absence of specific evidence that could show that, for that purpose, a collaboration between the national authorities was easier than with the ECB, that argument had to be rejected as being unsubstantiated.
+Consequently, the General Court did not infringe the Landeskreditbank’s right to be heard and the adversarial principle.
+In those circumstances, the third ground of appeal must be rejected.
+It follows from all of the foregoing considerations that the appeal must be dismissed in its entirety.
+Costs
+In accordance with Article 184(2) of the Rules of Procedure, where an appeal is unfounded, the Court is to make a decision as to the costs.
+Under Article 138(1) of those rules, applicable to appeal proceedings by virtue of Article 184(1) thereof, the unsuccessful party is to be ordered to pay the costs, if they have been applied for in the successful party’s pleadings.
+Since the ECB has applied for costs and the Landeskreditbank has been unsuccessful, the latter should be ordered to bear its own costs and to pay those incurred by the ECB and the Commission.
+ 
+On those grounds, the Court (First Chamber) hereby:
+ 
+1.
+Dismisses the appeal;
+ 
+2.
+Orders the Landeskreditbank Baden-Württemberg — Förderbank to pay the costs.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

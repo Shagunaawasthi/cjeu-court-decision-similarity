@@ -1,0 +1,144 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+July (
+*)
+(Reference for a preliminary ruling — Textile fibre names and related labelling and marking requirements — Regulation (EU) No 1007/— Articles and — Pure textile products — Multi-fibre textile products — Labelling or marking methods)
+In Case C‑339/17,
+REQUEST for a preliminary ruling under Article TFEU from the Landgericht Köln (Regional Court, Cologne, Germany), made by decision of May 2017, received at the Court on June 2017, in the proceedings
+Verein für lauteren Wettbewerb eV
+v
+Princesport GmbH,
+THE COURT (Fifth Chamber),
+composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits, A. Borg Barthet, M. Berger (Rapporteur) and F. Biltgen, Judges,
+Advocate General: N. Wahl,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of
+–
+Verein für lauteren Wettbewerb eV, by I. Siegfried, Rechtsanwältin,
+–
+Princesport GmbH, by M. Liesen, Rechtsanwalt,
+–
+the German Government, by T. Henze and S. Eisenberg, acting as Agents,
+–
+the Czech Government, by M. Smolek, J. Vláčil and A. Kasalická, acting as Agents,
+–
+the European Commission, by K. Petersen and D. Kukovec, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 7(1) and Article 9(1) of Regulation (EU) No 1007/of the European Parliament and of the Council of September on textile fibre names and related labelling and marking of the fibre composition of textile products and repealing Council Directive 73/44/EEC and Directives 96/73/EC and 2008/121/EC of the European Parliament and of the Council (OJ L 272, p. 1).
+The request has been made in proceedings between Verein für lauteren Wettbewerb eV, an association whose aim is to combat unfair competition, and Princesport GmbH concerning labelling and marking requirements when Princesport promotes and distributes textile products on the internet.
+Legal context
+EU law
+Recital of Regulation No 1007/states:
+‘Labelling or marking of the fibre composition should be compulsory to ensure that correct and uniform information is made available to all consumers in the Union. However, this Regulation should not prevent economic operators from indicating, in addition, the presence of small quantities of fibres requiring particular attention to keep the original quality of the textile product. Where it is technically difficult to specify the fibre composition of a textile product at the time of its manufacture, it should be possible to state, on the label or marking, only those fibres which are known at the time of manufacture provided that they account for a certain percentage of the finished product.’
+Article of that regulation is worded as follows:
+‘This Regulation lays down rules concerning the use of textile fibre names and related labelling and marking of fibre composition of textile products … with a view to improving the functioning of the internal market and to providing accurate information to consumers.’
+Article of that regulation entitled ‘General requirement on the making available on the market of textile products’ provides:
+‘Textile products shall only be made available on the market provided that such products are labelled, marked or accompanied with commercial documents in compliance with this Regulation.’
+Under Article 5(1) of Regulation No 1007/2011:
+‘Only the textile fibre names listed in Annex I shall be used for the description of fibre compositions on labels and markings of textile products.’
+Article of that regulation, entitled ‘Pure textile products’, provides:
+‘1.   Only textile products exclusively composed of the same fibre may be labelled or marked as “100%”, “pure” or “all”.
+Those or similar terms shall not be used for other textile products.
+2.   Without prejudice to Article 8(3), a textile product containing no more than 2% by weight of extraneous fibres may also be treated as exclusively composed of the same fibre, provided this quantity is justified as being technically unavoidable in good manufacturing practice and is not added as a matter of routine.
+A textile product which has undergone a carding process may also be treated as exclusively composed of the same fibre if it contains no more than 5% by weight of extraneous fibres, provided this quantity is justified as being technically unavoidable in good manufacturing practice and is not added as a matter of routine.’
+Article of that regulation, entitled ‘Multi-fibre textile products’, provides in paragraphs and 5:
+‘1.   A textile product shall be labelled or marked with the name and percentage by weight of all constituent fibres in descending order.
+…
+5.   By way of derogation from paragraph of this Article, fibres not yet listed in Annex I may be designated by the term “other fibres”, immediately preceded or followed by their total percentage by weight.’
+Article 14(1) of Regulation No 1007/states:
+‘Textile products shall be labelled or marked to give an indication of their fibre composition whenever they are made available on the market.
+The labelling and marking of textile products shall be durable, easily legible, visible and accessible and, in the case of a label, securely attached.’
+Article of that regulation provides:
+‘1.   When making a textile product available on the market, the textile fibre composition descriptions referred to in Articles 5, 7, and shall be indicated in catalogues and trade literature, on packaging, labels and markings in a manner that is easily legible, visible, clear and in print which is uniform as regards its size, style and font. This information shall be clearly visible to the consumer before the purchase, including in cases where the purchase is made by electronic means.
+2.   Trade marks or the name of the undertaking may be given immediately before or after textile fibre composition descriptions referred to in Articles 5, 7, and 9.
+…
+Other information shall be always displayed separately.
+3.   The labelling or marking shall be provided in the official language or languages of the Member State on the territory of which the textile products are made available to the consumer, unless the Member State concerned provides otherwise.
+…’
+German law
+It is apparent from the order for reference that Verein für lauteren Wettbewerb alleges an infringement of certain provisions of the Gesetz gegen den unlauteren Wettbewerb (Law against unfair competition, ‘UWG’), both in the version in force up to December (‘the old version’) and in the version in force since that date (‘the new version’).
+Paragraph 4(11) of the UWG (old version) provided:
+‘A person shall be regarded as acting unfairly in particular where he
+…
+11.   infringes a statutory provision that is also intended to regulate market behaviour in the interests of market participants.’
+Paragraph 4(11) of the UWG has been replaced by Paragraph 3a of the UWG (new version). That provision provides as follows:
+‘A person shall be regarded as acting unfairly where he infringes a statutory provision that is also intended to regulate market behaviour in the interests of market participants and the infringement is liable to have a significantly adverse effect on the interests of consumers, other market participants or competitors.’
+Under Paragraph of the UWG:
+‘(1)   Any commercial practice which is unlawful under Paragraph or Paragraph may give rise to an order to cease and desist and, in the event of recurrence, an order to refrain or a prohibition order. The right to injunctive relief shall exist where there is a risk of such infringement of Paragraph or Paragraph 7.
+…
+(3)   The rights stemming from subparagraph shall be vested in:
+…
+2.
+associations with legal personality which exist for the promotion of commercial or independent professional interests, on condition that they include a considerable number of operators which distribute goods or services of the same or similar type on the same market, if such associations are actually in a position, in particular on the basis of their personnel, material and financial resources, to perform the tasks laid down in their statutes of promoting commercial or independent professional interests, and on condition that the infringement affects the interests of their members;
+3.
+qualified entities which prove that they are registered on the list of qualified entities provided for in Paragraph of the Unterlassungsklagengesetz (the German law on injunctions) or on the European Commission’s list provided for in Article 4(3) of Directive 2009/22/EC of the European Parliament and of the Council of April on injunctions for the protection of consumers’ interests (OJ L 110, p. 30);
+…’
+In the order for reference, the Landgericht Köln (Regional Court, Cologne, Germany) states that, according to the case-law of the Bundesgerichtshof (Federal Court of Justice, Germany), the provisions of Regulation No 1007/regulating the labelling of textile products serve to protect consumers and therefore constitute rules designed to regulate market behaviour within the meaning of Paragraph 3a of the UWG (new version) and Paragraph 4(11) of the UWG (old version).
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Claiming that Princesport does not comply with the labelling or marking requirements when promoting and distributing textile products exclusively composed of the same fibre on the internet and therefore infringes certain provisions of the UWG and Article 5(1), Article 9(1) and Article 16(1) of Regulation No 1007/2011, Verein für lauteren Wettbewerb brought an action against that company.
+On July 2016, a default judgment was entered against Princesport. The latter lodged an appeal against that judgment before the referring court. In that regard, Princesport submits, in essence, that Article of Regulation No 1007/does not lay down a requirement to designate pure textile products with the words ‘pure’ or ‘all’, but merely states that only those products may be designated with those words.
+Verein für lauteren Wettbewerb submits, on the contrary, that it is mandatory to designate pure textile products as such. To that end, it is only possible to choose between the three alternative descriptions listed in Article 7(1) of Regulation No 1007/2011, that is to say, ‘100%’, ‘pure’ or ‘all’. In addition, the obligation under Article of Regulation No 1007/to indicate percentages by weight of textile fibres used in a product also applies to products composed of the same fibre. Furthermore, the word ‘pure’ cannot be used alongside ‘100%’, but only in its place.
+Under those circumstances, the Landgericht Köln (Regional Court, Cologne) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Is Article 7(1) of [Regulation No 1007/2011] to be interpreted as meaning that it is mandatory to specify that the product is a pure textile product exclusively composed of the same fibre?
+(2)
+Is use of one of the three terms mentioned in Article of [Regulation No 1007/2011], namely ‘100%’, ‘pure’ or ‘all’, mandatory or is this merely an option, and not an obligation, for such products?
+(3)
+Does the obligation under Article 9(1) of [Regulation No 1007/2011] to label or to mark textile products with the name and percentage by weight of all constituent fibres also apply to pure textile products coming under Article of [Regulation No 1007/2011]?’
+Consideration of the questions referred
+Preliminary observations
+It should be pointed out that a situation such as the one at issue in the main proceedings, in which the textile products concerned are sold through an on-line catalogue, comes under the scope of Regulation No 1007/2011.
+Article 16(1) of that regulation expressly states that, when a textile product is made available on the market, the textile fibre composition descriptions referred to in Articles 5, 7, and must be indicated, in particular in catalogues, in a manner that is easily legible, visible and clear. In addition, that provision stipulates that this information should be clearly visible to the consumer before the purchase, including where the purchase is made by electronic means.
+It follows that the labelling and marking requirements, as laid down in particular in Articles and of Regulation No 1007/2011, apply when textile products are promoted and distributed on the internet.
+The first question
+By its first question, the referring court asks whether Article 7(1) of Regulation No 1007/must be interpreted to the effect that it imposes a requirement to specify on the label or marking of a textile product, such as those being marketed in the main proceedings, that the product is a pure textile product, exclusively composed of the same fibre.
+That question concerns the existence of a general obligation to label or mark pure textile products in order to give an indication of their fibre composition.
+In that regard, it must be pointed out that Article 7(1) of Regulation No 1007/2011, under which ‘only textile products exclusively composed of the same fibre may be labelled or marked as “100%”, “pure” or “all”’, does not contain such a general obligation and therefore does not provide an answer to the first question. That provision, first, stipulates what defines a pure textile product, that is to say, the fact that it is exclusively composed of the same fibre and, secondly, sets out the detailed rules for marking or labelling such a product.
+However, it is necessary to examine whether Regulation No 1007/makes provision for a general obligation to label or mark pure textile products in order to give an indication of their fibre composition.
+Even though, formally, the referring court has limited its first question to the interpretation of Article 7(1) of Regulation No 1007/2011, such a situation does not prevent the Court from providing the referring court with all the elements of interpretation of EU law which may be of assistance in adjudicating on the case before it, whether or not that court has specifically referred to them in that question (see, to that effect, judgments of June 2016Lesar, C‑159/15, EU:C:2016:451, paragraph 22, and of January 2017, Wortmann, C‑365/15, EU:C:2017:19, paragraph 33).
+It must be made clear, in the first place, that it follows unequivocally from Article and Article 14(1) of Regulation No 1007/2011, read in conjunction with recital of that regulation, that there is a general labelling or marking obligation for textile products, including for pure textile products, in order to give an indication of their fibre composition.
+First of all, Article of that regulation provides that only textile products which are labelled, marked or accompanied with commercial documents in compliance with that regulation may be made available on the market.
+Next, the first subparagraph of Article 14(1) of Regulation No 1007/expressly provides that ‘textile products shall be labelled or marked to give an indication of their fibre composition whenever they are made available on the market.’
+Finally, recital of that regulation states that the labelling or marking of the fibre composition ‘should be compulsory’.
+In the second place, the obligation to indicate, on the label or marking, the fibre composition of the textile product concerned makes it possible to ensure that correct and precise information is made available to consumers. Providing such information to all consumers in the European Union, according to Article of Regulation No 1007/2011, read in conjunction with recital 10, constitutes one of the aims of that regulation.
+In the light of the foregoing, the answer to the first question is that Article and the first subparagraph of Article 14(1) of Regulation No 1007/2011, read in conjunction with recital 10, must be interpreted to the effect that they impose a general labelling or marking obligation in order to give an indication of the fibre composition of all textile products, including those textile products defined in Article of that regulation.
+The second question
+By its second question, the referring court asks, in essence, whether Article 7(1) of Regulation No 1007/must be interpreted to the effect that it imposes a requirement to use, on the label or marking of a pure textile product, one of the three terms referred to in that provision, that is to say, ‘100%’, ‘pure’ or ‘all’.
+In that regard, it must be recalled that Article 7(1) of Regulation No 1007/provides that ‘only textile products exclusively composed of the same fibre may be labelled or marked as “100%”, “pure” or “all”’. Thus, only pure textile products exclusively composed of the same fibre ‘may’ bear a marking or labelling containing one of those three terms referred to in that provision.
+The use of the word ‘may’ in that provision demonstrates unequivocally that the use of the terms the terms ‘100%’, ‘pure’ or ‘all’ do not amount to an obligation, but merely to an option. Thus that provision makes it possible to mention, on the label or marking of the pure textile product in question, the name of the textile fibre of which it is composed without indicating one of the three terms.
+Moreover, it follows by contrary inference from the second subparagraph of Article 7(1) of Regulation No 1007/that ‘similar’ terms to those referred to in the first subparagraph of Article 7(1) may be used for pure textile products. Therefore the terms ‘100%’, ‘pure’ or ‘all’ are mere examples of terms which may appear on the labelling or marking in order to make it clear that the textile product in question is composed of the same fibre.
+In addition, such an interpretation of Article 7(1) of Regulation No 1007/is in keeping with the objective pursued by that regulation, as set out in paragraph above. A label or a marking containing the name of a single textile fibre makes it possible for consumers to have available the correct and precise information concerning the fibre composition of the textile product in question.
+It is apparent from the order for reference that, in the second question, the referring court also asks whether Article 7(1) of Regulation No 1007/must be interpreted to the effect that it precludes the possibility of using the three terms in that provision jointly.
+In that regard, it must be stated, first, that the actual wording of Article 7(1) of Regulation No 1007/does not prevent those terms from being used jointly. Secondly, such an interpretation of that provision is also in keeping with the objective pursued by that regulation, as set out in paragraph above.
+In any event, it must be pointed out that the possibility of using the three terms from that provision jointly on the label or marking of the pure textile product concerned is still limited, inasmuch as those terms, used to explain that that textile product is composed exclusively of the same fibre, are synonyms which would probably make any duplication superfluous.
+Moreover, it does not appear from the file submitted to the Court that a practice such as that at issue in the main proceedings constitutes an unfair or misleading commercial practice prohibited by Directive 2005/29/EC of the European Parliament and of the Council of May concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council, and Regulation (EC) No 2006/of the European Parliament and of the Council (‘the Unfair Commercial Practices Directive’) (OJ L 149, p. 22).
+In the light of the foregoing, the answer to the second question is that Article 7(1) of Regulation No 1007/must be interpreted to the effect that it does not impose a requirement to use, on the label or marking of a pure textile product, one of the three terms referred to in that provision, that is to say, ‘100%’, ‘pure’ or ‘all’. When those terms are used, they may be used jointly.
+The third question
+By its third question, the referring court asks, in essence, whether Article 9(1) of Regulation No 1007/must be interpreted to the effect that the obligation to indicate, on the label or marking, the name and percentage by weight of all the constituent fibres of the textile product in question also applies to a pure textile product.
+In that regard, it must be pointed out that Article of Regulation No 1007/applies to ‘multi-fibre textile products’, while Article of that regulation concerns ‘pure textile products’. Thus, each of those articles delimits its scope to a specific category of textile products. It follows that pure textile products could not fall within the scope of Article of that regulation, and so the requirements under Article 9(1) could not apply to such products.
+In addition, since a pure textile product, by its very definition, is composed exclusively of the same fibre, the obligation to state the percentage by weight of ‘all constituent fibres in descending order’ could not apply to such a product.
+Moreover, it must be pointed out that, if the obligation to indicate the percentage by weight of all constituent fibres of the textile product, as set out in Article 9(1) of Regulation No 1007/2011, applied to pure textile products, Article 7(1) of that regulation, which, as is clear from paragraph above, must be interpreted to the effect that the use of the terms ‘100%’, ‘pure’ or ‘all’ is merely an option, would then cease to serve any purpose.
+In addition, it is must be stated that the limitation of the scope of Article 9(1) of Regulation No 1007/does not undermine the objective of protecting consumers pursued by that regulation in accordance with Article 1, read in conjunction with recital 10.
+It is clear from paragraph above that the indication, on the label or marking, of the fibre composition of the pure textile product in question remains mandatory in any event.
+In the light of the foregoing, the answer to the third question is that Article 9(1) of Regulation No 1007/must be interpreted to the effect that the obligation to indicate, on the label or marking, the name and percentage by weight of all the constituent fibres of the textile product in question does not apply to pure textile products.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+1.
+Article and the first subparagraph of Article 14(1) of Regulation (EU) No 1007/of the European Parliament and of the Council of September on textile fibre names and related labelling and marking of the fibre composition of textile products and repealing Council Directive 73/44/EEC and Directives 96/73/EC and 2008/121/EC of the European Parliament and of the Council, read in conjunction with recital of that regulation, must be interpreted to the effect that they impose a general labelling or marking obligation in order to give an indication of the fibre composition of all textile products, including those textile products defined in Article of that regulation.
+ 
+2.
+Article 7(1) of Regulation No 1007/must be interpreted to the effect that it does not impose a requirement to use, on the label or marking of a pure textile product, one of the three terms referred to in that provision, that is to say, ‘100%’, ‘pure’ or ‘all’. When those terms are used, they may be used jointly.
+ 
+3.
+Article 9(1) of Regulation No 1007/must be interpreted to the effect that the obligation to indicate, on the label or marking, the name and percentage by weight of all the constituent fibres of the textile product in question does not apply to pure textile products.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

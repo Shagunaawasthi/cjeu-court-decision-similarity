@@ -1,0 +1,186 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+September (
+*)
+(Reference for a preliminary ruling — Directive 2005/29/EC — Unfair business-to-consumer commercial practices — Loan agreement secured by a mortgage — Mortgage enforcement proceedings — Revaluation of immovable property prior to its sale by auction — Validity of the enforceable instrument — Article — Adequate and effective means to combat unfair commercial practices — National court prohibited from assessing the existence of unfair commercial practices — Impossibility of staying the mortgage enforcement proceedings — Articles and — Code of good conduct — Non-legally binding nature of that code)
+In Case C‑109/17,
+REQUEST for a preliminary ruling under Article TFEU from the Juzgado de Primera Instancia no de Cartagena (Court of First Instance No 5, Cartagena, Spain), made by order of February 2017, received at the Court on March 2017, in the proceedings
+Bankia SA
+v
+Juan Carlos Marí Merino,
+Juan Pérez Gavilán,
+María de la Concepción Marí Merino,
+THE COURT (Fifth Chamber),
+composed of J.L. da Cruz Vilaça, President of the Chamber, A. Tizzano (Rapporteur), Vice-President of the Court, E. Levits, A. Borg Barthet and M. Berger, Judges,
+Advocate General: N. Wahl,
+Registrar: L. Carrasco Marco, Administrator,
+having regard to the written procedure and further to the hearing on February 2018,
+after considering the observations submitted on behalf of:
+–
+Bankia SA, by J.M. Rodríguez Cárcamo and A.M. Rodríguez Conde, abogados,
+–
+the Spanish Government, by M.J. García-Valdecasas Dorrego, acting as Agent,
+–
+Ireland, by A. Joyce, M. Browne and J. Quaney, acting as Agents, and by M. Gray, BL,
+–
+the European Commission, by J. Rius, N. Ruiz García and A. Cleenewerck de Crayencour, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on March 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article of Directive 2005/29/EC of the European Parliament and of the Council of May concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/of the European Parliament and of the Council (OJ L 149, p. 22).
+The request has been made in proceedings between Bankia SA and Mr Juan Carlos Marí Merino, Mr Juan Pérez Gavilán, and Ms María de la Concepción Marí Merino concerning mortgage enforcement proceedings.
+Legal context
+European Union law
+Directive 93/13/EEC
+Article 4(1) of Council Directive 93/13/EEC of April on unfair terms in consumer contracts (OJ L 95, p. 29) provides:
+‘Without prejudice to Article 7, the unfairness of a contractual term shall be assessed, taking into account the nature of the goods or services for which the contract was concluded and by referring, at the time of conclusion of the contract, to all the circumstances attending the conclusion of the contract and to all the other terms of the contract or of another contract on which it is dependent.’
+Article 6(1) of that directive provides:
+‘Member States shall lay down that unfair terms used in a contract concluded with a consumer by a seller or supplier shall, as provided for under their national law, not be binding on the consumer and that the contract shall continue to bind the parties upon those terms if it is capable of continuing in existence without the unfair terms.’
+Article 7(1) of that directive is worded as follows:
+‘Member States shall ensure that, in the interests of consumers and of competitors, adequate and effective means exist to prevent the continued use of unfair terms in contracts concluded with consumers by sellers or suppliers.’
+Directive 2005/Recitals 9, and of Directive 2005/state:
+‘(9)
+This Directive is without prejudice to individual actions brought by those who have been harmed by an unfair commercial practice. It is also without prejudice to Community and national rules on contract law …
+…
+(20)
+It is appropriate to provide a role for codes of conduct, which enable traders to apply the principles of this Directive effectively in specific economic fields. In sectors where there are specific mandatory requirements regulating the behaviour of traders, it is appropriate that these will also provide evidence as to the requirements of professional diligence in that sector. The control exercised by code owners at national or Community level to eliminate unfair commercial practices may avoid the need for recourse to administrative or judicial action and should therefore be encouraged. With the aim of pursuing a high level of consumer protection, consumers’ organisations could be informed and involved in the drafting of codes of conduct.
+…
+(22)
+It is necessary that Member States lay down penalties for infringements of the provisions of this Directive and they must ensure that these are enforced. The penalties must be effective, proportionate and dissuasive.’
+Article of that directive provides:
+‘For the purposes of this Directive:
+…
+(d)
+“business-to-consumer commercial practices” (hereinafter also referred to as commercial practices) means any act, omission, course of conduct or representation, commercial communication including advertising and marketing, by a trader, directly connected with the promotion, sale or supply of a product to consumers;
+…
+(f)
+“code of conduct” means an agreement or set of rules not imposed by law, regulation or administrative provision of a Member State which defines the behaviour of traders who undertake to be bound by the code in relation to one or more particular commercial practices or business sectors;
+…’
+Article 3(2) of that directive provides:
+‘This Directive is without prejudice to contract law and, in particular, to the rules on the validity, formation or effect of a contract.’
+The wording of Article 5(1) and (2) of that directive is as follows:
+‘1.   Unfair commercial practices shall be prohibited.
+2.   A commercial practice shall be unfair if:
+(a)
+it is contrary to the requirements of professional diligence,
+and
+(b)
+it materially distorts or is likely to materially distort the economic behaviour with regard to the product of the average consumer whom it reaches or to whom it is addressed, or of the average member of the group when a commercial practice is directed to a particular group of consumers.’
+Article of Directive 2005/provides:
+‘This Directive does not exclude the control, which Member States may encourage, of unfair commercial practices by code owners and recourse to such bodies by the persons or organisations referred to in Article if proceedings before such bodies are in addition to the court or administrative proceedings referred to in that Article.
+Recourse to such control bodies shall never be deemed the equivalent of foregoing a means of judicial or administrative recourse as provided for in Article 11.’
+Under Article of that directive:
+‘1.   Member States shall ensure that adequate and effective means exist to combat unfair commercial practices in order to enforce compliance with the provisions of this Directive in the interest of consumers.
+Such means shall include legal provisions under which persons or organisations regarded under national law as having a legitimate interest in combating unfair commercial practices, including competitors, may:
+(a)
+take legal action against such unfair commercial practices;
+and/or
+(b)
+bring such unfair commercial practices before an administrative authority competent either to decide on complaints or to initiate appropriate legal proceedings.
+It shall be for each Member State to decide which of these facilities shall be available and whether to enable the courts or administrative authorities to require prior recourse to other established means of dealing with complaints, including those referred to in Article 10. These facilities shall be available regardless of whether the consumers affected are in the territory of the Member State where the trader is located or in another Member State.
+It shall be for each Member State to decide:
+(a)
+whether these legal facilities may be directed separately or jointly against a number of traders from the same economic sector;
+and
+(b)
+whether these legal facilities may be directed against a code owner where the relevant code promotes non-compliance with legal requirements.
+2.   Under the legal provisions referred to in paragraph 1, Member States shall confer upon the courts or administrative authorities powers enabling them, in cases where they deem such measures to be necessary taking into account all the interests involved and in particular the public interest:
+(a)
+to order the cessation of, or to institute appropriate legal proceedings for an order for the cessation of, unfair commercial practices;
+or
+(b)
+if the unfair commercial practice has not yet been carried out but is imminent, to order the prohibition of the practice, or to institute appropriate legal proceedings for an order for the prohibition of the practice,
+even without proof of actual loss or damage or of intention or negligence on the part of the trader.
+…’
+Article of that directive is worded as follows:
+‘Member States shall lay down penalties for infringements of national provisions adopted in application of this Directive and shall take all necessary measures to ensure that these are enforced. These penalties must be effective, proportionate and dissuasive.’
+Spanish law
+The Law on Civil Procedure
+The first paragraph of Article of the Ley de Enjuiciamiento Civil (Law on Civil Procedure) provides:
+‘In the proceedings referred to in this chapter, an objection to enforcement by the party subject to enforcement may be upheld only if it is based on the following grounds:
+(1)   the extinguishment of the guarantee or guaranteed obligation …,
+(2)   an error in determining the enforceable amount, where the guaranteed debt is the balance resulting in the closure of an account between the party seeking enforcement and the party subject to enforcement …,
+(3)   in the case of enforcement concerning mortgaged movable property or movable property subject to a non-possessory pledge, the existence of another pledge, a movable or immovable mortgage, or a sequestration in respect of the same property, registered before the charge giving rise to the proceedings …,
+(4)   the unfairness of a contractual term constituting the basis for enforcement or having enabled the enforceable amount to be determined.’
+Article 698(1) of the Law on Civil Procedure provides:
+‘Any claim which is made by a debtor, third-party holder or any other interested party and which is not covered by the preceding articles, including claims concerning nullity of title or the maturity, certainty, extinguishment or amount of the debt, shall be dealt with in the appropriate legal proceedings, without ever having the effect of staying or hindering the court enforcement proceedings provided for in this chapter.’
+Royal Decree-Law 6/Article of Real Decreto-ley 6/de medidas urgentes de protección de deudores hipotecarios sin recursos (Royal Decree-Law 6/on urgent measures to protect mortgage debtors without resources) of March states that the aim of that decree-law is to establish measures to facilitate restructuring the mortgage debt of those suffering extraordinary difficulties in repaying the debt, together with mechanisms for making mortgage enforcement proceedings more flexible.
+Article of that royal decree-law provides:
+‘1.   The subscription, by credit institutions or by any other body carrying on lending or mortgage activities on a professional basis, to the Code of Good Practice included in this annex shall be voluntary.
+…
+4.   Any credit institution that has subscribed to the Code of Good Practice shall be necessarily bound by the provisions of that code where the debtor has shown that he is below the exclusion threshold.
+…
+9.   Institutions that have subscribed to the Code of Good Practice shall be required to inform their clients, in a suitable manner, of the possibility to invoke the provisions of the Code ...’
+Article of that royal decree-law provides:
+‘1.   Compliance with the Code of Good Practice by the institutions that have subscribed thereto shall be monitored by the supervisory committee established for that purpose.
+…
+4.   The supervisory committee shall receive and examine the information sent to it by the Bank of Spain in accordance with paragraphs and and shall publish a report on the level of compliance with the Code of Good Practice every six months.
+…
+6.   Complaints of non-compliance with the Code of Good Practice by credit institutions may be lodged with the Bank of Spain. Those complaints shall be treated in the same way as the other complaints which the Bank of Spain has the authority to process and resolve.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+On January Mr Marí Merino, Mr Gavilán and Ms Marí Merino entered into a loan agreement with Bankia secured by a mortgage in respect of a capital of EUR 166000, repayable over a 25-year period. That agreement set the amount of the ‘starting price’ of the mortgaged property, that is to say, the initial price of the property if it were to be sold at auction in accordance with Spanish law, at EUR 195900.
+Following an initial novation on January 2009, that agreement was novated again by notarial instrument of October 2013. In that second novation, the amount of the starting price of the property in question was reduced to EUR and the period for repayment of the outstanding loan capital of EUR was extended to years. In addition, the extrajudicial sale of the property was authorised and the agreement now states that that property is the habitual residence of Mr Marí Merino, Mr Gavilán and Ms Marí Merino.
+Using that novated loan agreement secured by a mortgage as an enforceable instrument, Bankia initiated mortgage enforcement proceedings. On March Mr Marí Merino, Mr Gavilán and Ms Marí Merino lodged an objection to those proceedings on the ground that that agreement contains unfair terms. First, the amount of the starting price was reduced to their detriment, with the extension of the period for repayment being merely a means of inducing the borrowers to accept the novation of the agreement. Accordingly, Bankia acted in a way that was contrary to the requirements of professional diligence inasmuch as it took advantage of restructuring the debt in order to alter the valuation of the property in question. Second, the conditions enabling the borrowers to avoid enforcement and to discharge the debt by giving the property in payment while remaining there as tenants were satisfied, in accordance with the Code of Good Banking Practice, so that, being bound by that code, Bankia should have accepted the giving of the property in payment as suggested by the defendants in the main proceedings.
+The referring court questions whether Bankia’s actions constitute unfair commercial practices for the purposes of Directive 2005/29.
+In that regard, that court explains that, under national law, an objection to mortgage enforcement proceedings may be based only on one of the grounds exhaustively listed in Article of the Law on Civil Procedure. Although the existence of an unfair term in the agreement being used as an enforceable instrument constitutes one such ground, this is not the case for the existence of unfair commercial practices, which can be reviewed only by way of a separate action. However, the bringing of such an action would not entail a stay of the mortgage enforcement proceedings, as the court adjudicating on the substance would not have jurisdiction to stay those proceedings according to Article of the Law on Civil Procedure.
+In that context, the referring court considers that, if EU law enabled it to review the unfair conduct of the seller or supplier during the mortgage enforcement proceedings, just as Directive 93/enables it to do with regard to unfair terms, it would be able to assess the validity of the novation of the loan agreement secured by a mortgage that took place on October 2013. In addition, if the Code of Good Banking Practice were binding on the credit institutions that have subscribed thereto, the defendants in the main proceedings could actually demand that Bankia accept the giving of the property in payment, which would put an end to both the enforcement of the mortgage and their personal liability.
+In those circumstances, the Juzgado de Primera Instancia no de Cartagena (Court of First Instance no 5, Cartagena, Spain) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Must Directive 2005/be interpreted as meaning that national legislation such as that currently regulating Spanish mortgage enforcement — Article et seq. in conjunction with Article 552(1) of the [Law on Civil Procedure] — which does not provide for the review by the courts, of their own motion or at the request of one of the parties, of unfair commercial practices, is contrary to Article of that directive because that national legislation hinders or prevents review by the courts of contracts or acts which may contain unfair commercial practices?
+(2)
+Must Directive 2005/be interpreted as meaning that national legislation such as the Spanish law which does not ensure actual compliance with the code of conduct if the party seeking enforcement of a debt decides not to apply that code (Articles and of [Royal Decree-Law 6/2012], read in conjunction with Article thereof) is contrary to Article of that directive?
+(3)
+Must Article of Directive 2005/be interpreted as precluding Spanish national legislation which does not allow a consumer, during mortgage enforcement proceedings, to request compliance with a code of conduct, in particular as regards the giving of a property in payment and extinguishment of the debt — Point of the Annex to [Royal Decree-Law 6/2012]?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks, in essence, whether Article of Directive 2005/is to be interpreted as precluding national legislation, such as that at issue in the main proceedings, which prohibits the court hearing mortgage enforcement proceedings from reviewing, of its own motion or at the request of the parties, the validity of the enforceable instrument in light of the existence of unfair commercial practices and, in any event, prohibits the court having jurisdiction to rule on the substance regarding the existence of those practices from adopting any interim measures, such as staying the mortgage enforcement proceedings.
+It should be noted from the outset that, according to Bankia, the reduction of the valuation of the mortgaged property in the case in the main proceedings cannot be considered a ‘commercial practice’ within the meaning of Article 2(d) of Directive 2005/29, given that it is not ‘directly connected’ with the promotion, sale or supply of a product or a service to a consumer. In any event, that reduction is not ‘unfair’ for the purposes of Article 5(2) of that directive. In those circumstances, since Directive 2005/is not applicable in the present case, there is no need to answer the first question referred.
+In that regard, it is sufficient to point out that the referring court would be required to verify whether Directive 2005/applies to the facts at issue in the main proceedings only if it were able, or obliged, to review the validity of the enforceable instrument in the light of that directive, an ability or obligation which is dependent on the answer to the first question put by that court.
+Consequently, it is necessary to answer the first question referred.
+In that regard, it should be borne in mind that, according to settled case-law, Directive 2005/seeks to ensure a high level of consumer protection by carrying out a complete harmonisation of the rules relating to unfair commercial practices (see, to that effect, judgment of April 2015, UPC Magyarország, C‑388/13, EU:C:2015:225, paragraph and the case-law cited).
+It is precisely in order to achieve such a high level of consumer protection that that directive establishes a general prohibition of unfair commercial practices that distort consumers’ economic behaviour (see, to that effect, judgment of December 2013, Trento Sviluppo and Centrale Adriatica, C‑281/12, EU:C:2013:859, paragraphs and 32).
+However, it is also settled case-law that that directive restricts itself to providing, in Article 5(1) thereof, that unfair commercial practices ‘shall be prohibited’ and that, accordingly, it leaves the Member States a margin of discretion as to the choice of national measures intended, in accordance with Articles and of that directive, to combat those practices, on condition that they are adequate and effective and that the penalties thus laid down are effective, proportionate and dissuasive (see, to that effect, judgment of April 2015, UPC Magyarország, C‑388/13, EU:C:2015:225, paragraphs and and the case-law cited).
+In addition, pursuant to recital of Directive 2005/29, that directive is without prejudice to, in particular, individual actions brought by those who have been harmed by an unfair commercial practice and without prejudice to EU and national rules on contract law, including, as is clear from Article 3(2) thereof, the rules on the validity, formation or effect of a contract.
+Consequently, a contract being used as an enforceable instrument cannot be declared invalid solely on the ground that it contains terms that are contrary to the general prohibition of unfair commercial practices laid down in Article 5(1) of that directive.
+It follows that it is not necessary for Member States to authorise the court hearing mortgage enforcement proceedings to review, whether of its own motion or at the request of the parties, the validity of the enforceable instrument in light of the existence of unfair commercial practices in order to give useful effect to Directive 2005/29.
+In that context, the referring court, making reference in particular to the judgment of March 2013, Aziz (C‑415/11, EU:C:2013:164), also questions whether Article of that directive, which requires, inter alia, that national measures intended to combat unfair commercial practices be adequate and effective, precludes national legislation, such as Articles and of the Law on Civil Procedure, pursuant to which the consumer is not only unable to object to mortgage enforcement proceedings by invoking the existence of unfair commercial practices forming the basis of the enforceable instrument, since the enforcement court is not empowered to conduct such a review, but is also required, to that end, to bring an action on the merits before another court which may not stay those mortgage enforcement proceedings.
+Contrary to, in particular, the European Commission’s assertions, the conclusion drawn by the Court in that judgment, delivered against the background of Directive 93/13, cannot be extended to Directive 2005/29, given that, although those directives aim to provide a high level of protection for consumers, they nonetheless pursue that objective by different means.
+Indeed, Directive 93/clearly provides, in Article 6(1) thereof, that unfair terms are not to be binding on the consumer.
+As that mandatory provision aims to replace the formal balance which the contract establishes between the rights and obligations of the parties with an effective balance which re-establishes equality between them, the national court is required to assess, even of its own motion, whether a contractual term falling within the scope of Directive 93/is unfair, compensating in this way for the imbalance which exists between the consumer and the seller or supplier (see, to that effect, judgment of June 2012, Banco Español de Crédito, C‑618/10, EU:C:2012:349, paragraphs and and the case-law cited).
+Taking that case-law into account, in paragraph of the judgment of March 2013, Aziz (C‑415/11, EU:C:2013:164), the Court held that procedural rules such as those deriving, in essence, from Articles and of the Law on Civil Procedure impaired the protection sought by that directive, in so far as they rendered it impossible for the court adjudicating on the substance — before which the consumer had brought proceedings claiming that the contractual term on which the right to seek enforcement was based was unfair in the light of Directive 93/— to grant interim relief capable of staying or terminating the mortgage enforcement proceedings, where such relief was necessary to ensure the full effectiveness of its final decision.
+That is not the case as regards Directive 2005/29.
+Indeed, as has been noted in paragraphs and above, that directive merely prohibits unfair commercial practices.
+In addition, first, Article of Directive 2005/merely requires Member States to ensure that adequate and effective means exist to combat unfair commercial practices, means which may consist in legal action against such practices or administrative proceedings with the possibility of legal review, the purpose of such actions and proceedings being to put an end to such practices. Second, under Article of that directive, it is for the Member States to lay down suitable penalties as regards traders using unfair commercial practices.
+Accordingly, solely on the basis of the provisions of that directive, a contractual term cannot be declared invalid even if it was agreed on between the parties to the contract on the basis of an unfair commercial practice.
+In those circumstances, the grant of interim measures, such as a stay of the mortgage enforcement proceedings, by the court hearing an action on the merits concerning the existence of such practices is not required by Directive 2005/in order to ensure the full effectiveness of the final decision of that court. In any event, that decision could not, solely on the basis of that directive, have consequences for the validity of the contract in question and, a fortiori, that of the enforceable instrument.
+For the same reason, although national legislation which does not provide for the possibility of staying mortgage enforcement proceedings, with the result that, where enforcement in respect of the mortgaged property takes place before the judgment of the court adjudicating on the substance declaring unfair the contractual term on which the mortgage is based and annulling the enforcement proceedings, that judgment would enable that consumer to obtain only subsequent protection of a purely compensatory nature, does not meet the requirements of Article 7(1) of Directive 93/(judgment of March 2013, Aziz, C‑415/11, EU:C:2013:164, paragraph 60), that is not the case as regards the requirements of Article of Directive 2005/29.
+Indeed, as that directive, as has been recalled in paragraph above, is without prejudice to individual actions brought by those who have been harmed by an unfair commercial practice and without prejudice to EU and national rules on contract law, compensatory protection may be considered one of the adequate and effective means to combat unfair commercial practices required by that provision.
+Consequently, legislation such as that at issue in the main proceedings does not impair the protection sought by Directive 2005/29.
+That being said, it should still be emphasised that, where the court hearing mortgage enforcement proceedings reviews the validity of the enforceable instrument in the light of Directive 93/13, whether of its own motion or, as does indeed appear to be the situation in the present case, at the request of the parties, it will be open to that court to assess, in the context of that review, the unfairness of a commercial practice on which that instrument was based.
+Although a finding that a commercial practice is unfair is not such as to establish, automatically and on its own, that a contractual term is unfair, it is one element among others on which the competent court may base its assessment of the unfairness of contractual terms, an assessment which, under Article 4(1) of Directive 93/13, must take all the circumstances of the particular case into account (see, to that effect, judgment of March 2012, Pereničová and Perenič, C‑453/10, EU:C:2012:144, paragraphs and 44).
+Of course, a finding that a commercial practice is unfair has no direct effect on whether the contract is valid from the point of view of Article 6(1) of Directive 93/(judgment of March 2012, Pereničová and Perenič, C‑453/10, EU:C:2012:144, paragraph 46).
+Having regard to the foregoing, the answer to the first question is that Article of Directive 2005/must be interpreted as not precluding national legislation, such as that at issue in the main proceedings, which prohibits the court hearing mortgage enforcement proceedings from reviewing, of its own motion or at the request of the parties, the validity of the enforceable instrument in light of the existence of unfair commercial practices and, in any event, prohibits the court having jurisdiction to rule on the substance regarding the existence of those practices from adopting any interim measures, such as staying the mortgage enforcement proceedings.
+The second and third questions
+By its second and third questions, which must be examined together, the referring court asks, in essence, whether Article of Directive 2005/is to be interpreted as precluding national legislation which does not confer a legally binding nature on a code of conduct such as those referred to in Article of that directive.
+Bankia and the Spanish Government consider that there is no need to answer those questions, given that, in any event, the Code of Good Banking Practice at issue in the main proceedings is not a code of conduct for the purposes of Article of Directive 2005/29.
+It should be noted, in that regard, that it is not for the Court to establish whether the Code of Good Banking Practice falls within the definition of a code of conduct provided in Article 2(f) of that directive.
+Moreover, as the doubts raised in that regard are not such as to rebut the presumption of relevance that attaches to any question referred for a preliminary ruling (judgment of September 2017, Andriciuc and Others, C‑186/16, EU:C:2017:703, paragraph 20), it is necessary to answer those questions.
+To that end, it should be borne in mind that Article 2(f) of that directive defines a ‘code of conduct’ as ‘an agreement or set of rules not imposed by law, regulation or administrative provision of a Member State which defines the behaviour of traders’.
+As can be seen from recital of Directive 2005/29, the role assigned by that directive to such codes is that of enabling the traders themselves to apply the principles of that directive effectively in specific economic fields, to comply with the requirements of professional diligence, and to avoid the need for recourse to administrative or judicial action.
+It is true that Article 6(2)(b) of Directive 2005/provides that non-compliance by a trader with a code of conduct may constitute an unfair commercial practice. However, that directive does not require the Member States to provide for there to be direct consequences for traders solely on the ground that they have not complied with a code of conduct after subscribing thereto.
+In those circumstances, the answer to the second and third questions is that Article of Directive 2005/must be interpreted as not precluding national legislation which does not confer a legally binding nature on a code of conduct such as those referred to in Article of that directive.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+1.
+Article of Directive 2005/29/EC of the European Parliament and of the Council of May concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/of the European Parliament and of the Council must be interpreted as not precluding national legislation, such as that at issue in the main proceedings, which prohibits the court hearing mortgage enforcement proceedings from reviewing, of its own motion or at the request of the parties, the validity of the enforceable instrument in light of the existence of unfair commercial practices and, in any event, prohibits the court having jurisdiction to rule on the substance regarding the existence of those practices from adopting any interim measures, such as staying the mortgage enforcement proceedings.
+ 
+2.
+Article of Directive 2005/must be interpreted as not precluding national legislation which does not confer a legally binding nature on a code of conduct such as those referred to in Article of that directive.
+ 
+[Signatures]
+(
+*)	Language of the case: Spanish.
+Top  

@@ -1,0 +1,188 @@
+
+JUDGMENT OF THE COURT (Ninth Chamber)
+April (
+*)
+(Reference for a preliminary ruling — Public procurement — Conclusion of accession agreements with an occupational provident fund responsible for managing contributions of occupational solidarity — Conclusion requiring the agreement of employees or their representatives — Directive 2014/24/EU — Articles and TFEU — Principles of equal treatment and of non-discrimination — Obligation of transparency)
+In Case C‑699/17,
+REQUEST for a preliminary ruling under Article TFEU from the Verwaltungsgerichtshof (Supreme Administrative Court, Austria), made by decision of November 2017, received at the Court on December 2017, in the proceedings brought by
+Allianz Vorsorgekasse AG,
+interveners:
+Bundestheater-Holding GmbH,
+Burgtheater GmbH,
+Wiener Staatsoper GmbH,
+Volksoper Wien GmbH,
+ART for ART Theaterservice GmbH,
+fair-finance Vorsorgekasse AG,
+THE COURT (Ninth Chamber),
+composed of K. Jürimäe, President of the Chamber, D. Šváby (Rapporteur) and N. Piçarra, Judges,
+Advocate General: G. Pitruzzella,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Allianz Vorsorgekasse AG, by P. Pallitsch, Rechtsanwalt,
+–
+Bundestheater-Holding GmbH, Burgtheater GmbH, Wiener Staatsoper GmbH, Volksoper Wien GmbH and ART for ART Theaterservice GmbH, by M. Oder, Rechtsanwalt,
+–
+fair-finance Vorsorgekasse AG, by S. Heid, Rechtsanwalt,
+–
+the Austrian Government, by G. Hesse, acting as Agent,
+–
+the European Commission, by P. Ondrůšek and K. Petersen, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Directive 2014/24/EU of the European Parliament and of the Council of February on public procurement and repealing Directive 2004/18/EC (OJ L 94, p. 65), as amended by Commission Delegated Regulation (EU) 2015/of November (OJ L 307, p. 5) (‘Directive 2014/24’), of Articles and TFEU, of the principles of equal treatment and non-discrimination as well as of the obligation of transparency.
+The request has been made in proceedings brought by Allianz Vorsorgekasse AG (‘Allianz’) concerning the application of the public procurement rules of the European Union to the conclusion between, on the one hand, Bundestheater-Holding GmbH, Burgtheater GmbH, Wiener Staatsoper GmbH, Volksoper Wien GmbH and ART for ART Theaterservice GmbH (together, ‘the companies in question’) and, on the other hand, fair-finance Vorsorgekasse AG (‘fair-finance’) of contracts in respect of the management and investment of contributions intended to finance severance payments made to the employees of the companies in question.
+Legal context
+EU law
+Recital of Directive 2014/states:
+‘The award of public contracts by or on behalf of Member States’ authorities has to comply with the principles of the Treaty on the Functioning of the European Union (TFEU), and in particular the free movement of goods, freedom of establishment and the freedom to provide services, as well as the principles deriving therefrom, such as equal treatment, non-discrimination, mutual recognition, proportionality and transparency. However, for public contracts above a certain value, provisions should be drawn up coordinating national procurement procedures so as to ensure that those principles are given practical effect and public procurement is opened up to competition.’
+Article 2(1)(5) of that directive provides:
+‘For the purposes of this Directive, the following definitions apply:
+…
+(5)
+“public contracts” means contracts for pecuniary interest concluded in writing between one or more economic operators and one or more contracting authorities and having as their object the execution of works, the supply of products or the provision of services’.
+Article of that directive, entitled ‘Threshold amounts’, provides:
+‘This Directive shall apply to procurements with a value net of value added tax (VAT) estimated to be equal to or greater than the following thresholds:
+…
+(c)
+EUR for public supply and service contracts awarded by sub-central contracting authorities and design contests organised by such authorities; that threshold shall also apply to public supply contracts awarded by central government authorities that operate in the field of defence, where those contracts involve products not covered by Annex III;
+…’
+Article of Directive 2014/24, entitled ‘Methods for calculating the estimated value of procurement’, provides:
+‘1.   The calculation of the estimated value of a procurement shall be based on the total amount payable, net of VAT, as estimated by the contracting authority, including any form of option and any renewals of the contracts as explicitly set out in the procurement documents.
+Where the contracting authority provides for prizes or payments to candidates or tenderers it shall take them into account when calculating the estimated value of the procurement.
+…
+13.   With regard to public service contracts, the basis for calculating the estimated contract value shall, where appropriate, be the following:
+(a)
+insurance services: the premium payable and other forms of remuneration;
+(b)
+banking and other financial services: the fees, commissions payable, interest and other forms of remuneration;
+…
+14.   With regard to public service contracts which do not indicate a total price, the basis for calculating the estimated contract value shall be the following:
+(a)
+in the case of fixed-term contracts, where that term is less than or equal to months: the total value for their full term;
+(b)
+in the case of contracts without a fixed term or with a term greater than months: the monthly value multiplied by 48.’
+Article of that directive, entitled ‘Specific exclusions for service contracts’, states:
+‘This Directive shall not apply to public service contracts for:
+…
+(g)
+employment contracts;
+…’
+Austrian law
+Paragraph of the Bundesvergabegesetz (Federal Law of on Procurement) (BGBl. I, 17/2006), in the version published in BGBl. I, 7/(‘the BVergG 2006’), provides as follows:
+‘1.   This Federal Law shall govern in particular
+public procurement procedures of services in the public sector (public procurement procedure), namely public procurement procedures for the execution of works, for the supply of goods or the provision of services, and the conclusion of works and services concession contracts by the contracting authorities, design contests organised by the contracting authorities, public works contracts with third parties by the works concessionnaires who are not contracting authorities and the conclusion of public works and service contracts, which are not awarded by the contracting authorities, but which are subsidised by them (2nd part),
+…’
+Paragraph of the BVergG on the award procedures excluded from the scope of that law states:
+‘This Federal Law shall not apply to:
+…
+12.
+employment contracts.
+…’
+Paragraph of that law, concerning threshold values, provides:
+‘1.   In public procurement, the procedures for contractors shall be above the threshold when the estimated contract value
+…
+2.
+amounts to EUR in all other supply and service contracts;
+…’
+Details on the method for calculating the estimated contract value in service contracts are set out in Article of that law as follows:
+‘1.   The following shall apply in contracts for services:
+1.
+insurance services: the premium payable and other forms of remuneration;
+2.
+banking and other financial services: the fees, commissions payable, interest and other forms of remuneration;
+…
+2.   In service contracts where no overall price is indicated, the estimated contract value shall apply as follows:
+…
+2.
+Contracts of indefinite duration or more than months, times the monthly remuneration to be paid.
+…’
+Paragraph of the betriebliches Mitarbeiter- und Selbstständigenvorsorgegesetz (Law on pensions for employed and self-employed persons) (BGBl. I, 100/2002), in the version published in BGBl. I, 34/(‘the BMSVG’), provides:
+‘For the purposes of this Federal Law, the following definitions shall apply:
+…
+3.   Acquired rights to severance pay: the rights of a beneficiary managed by a fund; these shall consist of
+–
+severance contributions paid to that fund after deduction of administrative charges or at least the acquired rights to the severance payment in respect of old age transferred to that fund after deduction of administrative charges, to be increased;
+–
+default interest paid to the fund for severance contributions or for rights to a severance payment in respect of old age, to be increased;
+–
+at least the acquired rights to a severance payment transferred to that fund by another fund, to be increased;
+–
+investments obtained.
+…’
+Under Paragraph 9(1) and (2) of the BMSVG:
+‘1.   The choice of fund must be made within the time limit by a company agreement under Paragraph 97(1)(1b) of the Arbeitsverfassungsgesetz (Law on labour relations) …
+2.   In respect of workers who are not represented by a works council, the employer must choose the company provident fund in a timely manner, unless the employer has already been obliged to choose a company provident fund in accordance with Paragraph 53(1) or has already chosen a company provident fund in accordance with Paragraph 65(1) and concluded an accession agreement. All employees must be informed in writing within week of the planned selection of the company provident fund. If at least one third of employees object in writing to the planned selection within a period of weeks, the employer must propose another company provident fund. …’
+Paragraph of the BMSVG provides that the accession agreement is to be concluded between the company provident fund and the employer who is affiliated with it.
+Paragraph of the BMSVG defines the company provident fund as being entitled to collect severance contributions and pension contributions from self-employed workers. That paragraph also provides that severance contributions paid to the fund are the property of the fund, which holds and manages them in a fiduciary capacity for the beneficiaries.
+Paragraph of the BMSVG, entitled ‘Administrative charges’, states:
+‘1.   Funds are entitled to deduct administrative charges from severance contributions received. Those administrative charges must be set for all contributors to a fund at a rate between 1% and 3.5% of the severance contributions.
+…
+3.   For the investment of assets accumulated in respect of the severance payment, the funds are entitled
+…
+2.
+to deduct from investment returns an indemnity for asset management which may not exceed 1% per financial year and from January 2005, 0.8% per financial year of the assets in respect of the severance payment …’
+Paragraph 27a of the BMSVG sets out a procedure for designating a fund in cases where the employer has not yet concluded an accession agreement with a fund, within a maximum period of months from the beginning of the employee’s employment relationship for which the employer must pay contributions for the first time. It is the responsibility of the competent health insurance body to instruct the employer to choose a fund within months, failing which a fund will be designated for the employer.
+Paragraph of the Arbeitsverfassungsgesetz (Law on labour relations) (BGBl. 22/1974), in the version published in BGBl. I, 71/2013, defines the company agreement as follows:
+‘Company agreements are written agreements concluded by the company owner, on the one hand, and the works council …, on the other hand, in matters the regulation of which is reserved by law or collective agreement for the company agreement.’
+Paragraph of the Law on labour relations, in the version published in BGBl. I, 71/2013, provides that the company agreements referred to in Paragraph of that law may be concluded in respect of the choice of staff provident fund.
+The dispute in the main proceedings and the question referred for a preliminary ruling
+In their capacity as employers, the companies in question are required under the BMSVG to transfer, in respect of their staff, a contribution equivalent to 1.53% of monthly pay to a company provident fund (‘the provident fund’) which manages and invests the amounts thus paid. In that regard, Paragraph of the BMSVG requires that the provident fund and the employer who is affiliated with it sign an accession agreement. Thus, at the end of his employment relationship, the worker is granted a severance payment by that fund, which represents, in essence, contributions paid, increased by the proceeds of the investments made and reduced by the administrative charges levied by that fund.
+In return for its activity of managing and investing the contributions received, the provident fund is authorised, pursuant to Paragraph of the BMSVG, on the one hand, to deduct administrative charges from those contributions and, on the other hand, to deduct a management fee from the investments made.
+Until 2016, an accession agreement linked each of the companies in question to Allianz. In February 2016, those companies published a contract notice at national level, announcing the opening of a selection procedure for the purpose of a possible change of provident fund. The contract, which referred to the companies in question, concerned the conclusion of an accession agreement and the transfer of acquired rights to a severance payment to the new fund.
+Allianz and fair-finance submitted tenders.
+On June 2016, the companies in question announced their intention to award that contract to fair-finance.
+Following Allianz’s request of June for annulment of the decision to award that contract, the companies in question retracted that decision on June and, on July 2016, withdrew from the procurement procedure opened in February 2016.
+At the same time, each of the companies in question concluded, on June 2016, an accession agreement with fair-finance before terminating, on June 2016, with effect from December 2016, each of the accession agreements with Allianz.
+On July 2016, Allianz brought an action before the Bundesverwaltungsgericht (Federal Administrative Court, Austria) seeking a declaration that the conclusion of the accession agreement with fair-finance by the companies in question without prior publication and without disclosing the award decision is unlawful. In support of that action, Allianz submits that the conclusion of the agreements at issue was subject to the BVergG 2006.
+On September 2016, the Bundesverwaltungsgericht (Federal Administrative Court) dismissed that action.
+Allianz brought an appeal on a point of law (‘Revision’) before the Verwaltungsgerichtshof (Supreme Administrative Court, Austria) against the decision dismissing that action.
+The Verwaltungsgerichtshof is uncertain, for several reasons, as to the applicability of the EU public procurement rules, that is to say, Directive 2014/and the fundamental rules derived from the FEU Treaty, to the conclusion of the agreements at issue in the main proceedings,
+In the first place, that court has doubts as to whether an accession agreement such as those at issue in the main proceedings may be covered by the derogation concerning ‘employment contracts’, provided for in Article 10(g) of Directive 2014/24, since, for the performance of its contribution management and investment services, the provident fund is not linked to the employer of the workers affected by a relationship of subordination. That interpretation, it states, is supported by the judgment of July 2010, Commission v Germany (C‑271/08, EU:C:2010:426), in which the Court held that an agreement between an employer and an undertaking providing pensions in respect of an occupational old-age pension cannot be covered by that derogation.
+In the second place, the referring court takes the view that the activities of accepting and investing contributions relating to severance payments should, for the following three reasons, be classified as banking transactions and not as insurance activities. First, the national regulation requires a banking licence in order to carry out activities in the field of occupational pensions. Second, in the context of those activities, unlike an undertaking providing pensions, the provident fund bears no risk. Third, the employer’s only consideration takes the form of a levy by that fund of administrative charges, the contributions paid monthly to that fund by the employer not being a consideration but capital to be managed. Therefore, taking as the basis for the calculation the administrative charges retained by the provident fund as remuneration, the referring court concludes that the market value amounts to EUR and that, consequently, it does not reach the threshold set out in respect of public service contracts in Article 4(c) of Directive 2014/24.
+In the third place, the referring court therefore asks whether, in this case, it is appropriate to interpret Directive 2014/or the fundamental rules and the general principles derived from the Treaty. In that regard, referring to the judgment of April 2017, Borta (C‑298/15, EU:C:2017:266), it takes the view that it is clearly in the interest of the European Union that, in order to forestall future differences of interpretation, that directive should be interpreted uniformly. The referring court observes that the description of economic transactions included in the BVergG is uniform in respect of all contracts, whether or not they reach the threshold, and that it is based on the provisions of Directive 2014/24, as is apparent from the explanatory memorandum featuring in the draft law submitted for the adoption of the BVergG 2006.
+In any event, even if the thresholds laid down by Directive 2014/are not reached, the referring court considers that it is appropriate to refer to Articles and TFEU, to the principles of equal treatment and non-discrimination and to the obligation of transparency. In that regard, referring to the case-law, the referring court concludes that, in the present case, there is some cross-border interest, having regard to the amount of the contract, its nature and that of the activity of managing and investing contributions at issue in the main proceedings, which does not require the physical presence of staff.
+In the fourth place, the referring court has doubts as to whether the conclusion of an accession agreement with a provident fund may be classified as ‘procurement’ within the meaning of Article 1(2) of Directive 2014/24. In so far as the choice of that fund must be made via a company agreement concluded between the employer and the staff represented by the works council, the latter may refuse to conclude an agreement proposed by the employer in his capacity as contracting authority. In the absence of an agreement between the employer and the works council, the choice of provident fund would ultimately be made by an ad hoc conciliation body, in accordance with Paragraph 27a of the BMSVG.
+Therefore, with reference to the judgment of July 2010, Commission v Germany (C‑271/08, EU:C:2010:426), the referring court expresses doubts as to whether public procurement law is applicable to circumstances such as those at issue in the main proceedings.
+In those circumstances, it is appropriate either to recognise the works council as having contracting-authority status, which is not provided for either by national law or by EU law, or to accept that the employer is bound by the choice of provident fund at the end of the procurement procedure, which has the effect of frustrating the establishment of a social dialogue between the employer and the works council.
+In that context, the Verwaltungsgerichtshof (Supreme Administrative Court) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Are the provisions of Directive 2014/… and Articles and TFEU, and the principles of equal treatment and non-discrimination and the obligation of transparency which derive from them in respect of public procurement, applicable to the conclusion of contracts by a contracting authority with company provident funds in respect of the management and investment of contributions in cases where the conclusion of the contract and hence the choice of provident fund requires the approval of the workforce or its representatives and can therefore not be done by the contracting authority alone?’
+Consideration of the question referred
+Since the question raised concerns both Directive 2014/and the fundamental rules derived from the Treaty, and in order to provide an answer which will be useful for resolving the dispute in the main proceedings, it is necessary to determine, at the outset, the rules applicable to an accession agreement such as those at issue in the main proceedings.
+In that regard, it is apparent from the order for reference that the contract at issue in the main proceedings has an estimated value of EUR 174000, which is below the threshold of EUR laid down in Article 4(c) of Directive 2014/24. Therefore, that directive is not applicable to that contract (judgment of April 2017, Borta, C‑298/15, EU:C:2017:266, paragraph and the case-law cited).
+The referring court nevertheless considers that the Court does have jurisdiction to rule on the question referred and that the interpretation of the provisions of that directive is justified on the ground that, as is apparent from the explanatory memorandum to the draft law submitted for the purpose of the adoption of the BVergG 2006, that law describes in a uniform manner all contracts, whether their value is below or above the thresholds, and is based on the provisions of Directive 2014/24.
+In that connection, it is apparent from the case-law that where, in regulating situations outside the scope of the EU measure concerned, national legislation seeks to adopt the same solutions as those adopted in that measure, it is clearly in the interest of the European Union that, in order to forestall future differences of interpretation, provisions taken from that measure should be interpreted uniformly (judgment of April 2017, Borta, C‑298/15, EU:C:2017:266, paragraph and the case-law cited).
+Thus, an interpretation by the Court of provisions of EU law in situations outside its scope is justified where those provisions have been made applicable to such situations by national law in a direct and unconditional way in order to ensure that internal situations and situations governed by EU law are treated in the same way (judgment of April 2017, Borta, C‑298/15, EU:C:2017:266, paragraph and the case-law cited).
+According to the information provided by the referring court, that does not, however, appear to be the position in the case in the main proceedings.
+It is not apparent either from the order for reference or from the file submitted to the Court that a provision of the BVergG makes Directive 2014/directly and unconditionally applicable to public contracts having a value which falls below the relevant threshold laid down in Article 4(c) of that directive.
+Although the explanatory memorandum to the draft law submitted in view of the adoption of the BVergG refers to that directive, that reference alone is not sufficient to establish and characterise the direct and unconditional link required.
+Therefore, the view must be taken that the referring court has not provided the Court with information which would enable it to find that the national legislature made a direct and unconditional reference to Directive 2014/24.
+It follows that, taking into account the contract value at issue in the main proceedings, it is not necessary to answer the question raised in regard to Directive 2014/24.
+However, with respect to a contract which, having regard to its value, does not come within the scope of Directive 2014/24, it is appropriate to take account of the fundamental rules and general principles of the Treaty, in particular Articles and TFEU and the principles of equal treatment and non-discrimination and the obligation of transparency which derive from them, provided that the contract at issue has a definite cross-border interest (judgment of April 2017, Borta, C‑298/15, EU:C:2017:266, paragraph 36).
+In that regard, a contract may display such an interest, having regard in particular to its value, in conjunction with the place where the service is to be carried out or the specific characteristics of the contract (see, to that effect, judgments of April 2015, Enterprise Focused Solutions, C‑278/14, EU:C:2015:228, paragraph 20, and of April 2018, Oftalma Hospital, C‑65/17, EU:C:2018:263, paragraph 40). It is for the referring court to assess whether such an interest exists (see, to that effect, judgment of July 2014, Consorzio Stabile Libor Lavori Pubblici, C‑358/12, EU:C:2014:2063, paragraph 25).
+In the present case, the referring court takes the view that the existence of a definite cross-border interest is established by referring, first, to the significant value of the contract, which is close to the threshold laid down in Article 4(c) of Directive 2014/24, and, second, to the nature of the contribution management and investment services at issue in the main proceedings, which do not require any physical presence of staff or tools in Austria, as those services can be carried out remotely.
+It follows that the question referred must be answered in the light of the fundamental rules and general principles of the Treaty, in particular Articles and TFEU.
+Therefore, the question referred must be understood as relating, in essence, to whether Articles and TFEU, the principles of equal treatment and non-discrimination and the obligation of transparency must be interpreted as meaning that they are applicable to the conclusion of an accession agreement between an employer, a body governed by public law, and a company provident fund, with regard to the management and investment of contributions intended to finance severance payments paid to the employees of that employer, even though the conclusion of such an agreement is not a matter solely for the employer, but requires the consent of either the staff or the works council.
+More specifically, the referring court asks whether, in the present case, the exercise of a right of co-decision by a works council, in accordance with Paragraph 9(1) of the BMSVG, or of a right of opposition of one third of the staff in a situation where there is no works council, in accordance with Paragraph 9(2) of that law, is liable to remove the conclusion of an accession agreement, such as those at issue in the main proceedings, from the scope of the fundamental rules derived from the Treaty and applicable to public procurement.
+It should be noted that the works council’s right of co-decision when choosing the provident fund, in accordance with Paragraph 9(1) of the BMSVG, and the right of opposition of one third of the staff at the time of that choice, in accordance with Paragraph 9(2) of that law, constitute two expressions of the fundamental right of collective bargaining.
+The Court has held that the fundamental nature of the right to collective bargaining, such as referred to in Article of the Charter of Fundamental Rights of the European Union, cannot, as such, signify that an employer is automatically excluded from having to respect the rules on public procurement under the Treaty. It cannot be considered as inherent in the very exercise of the right to bargain collectively that the fundamental rules derived from the Treaty and relating to the field of public procurement will be prejudiced (see, to that effect, judgment of July 2010, Commission v Germany, C‑271/08, EU:C:2010:426, paragraphs and 47).
+Thus, the fact that a contract follows from the application of a collective agreement does not, in itself, have the result of excluding that contract from the scope of the rules applicable to public procurement (see, to that effect, judgment of July 2010, Commission v Germany, C‑271/08, EU:C:2010:426, paragraph 50).
+Those principles must be applied to the case in the main proceedings. The argument that the companies in question could not take their decision autonomously, since the works councils have a right of co-decision under Paragraph 9(1) of the BMSVG and the staff have a right of opposition under Paragraph 9(2) of that law, cannot distinguish the case in the main proceedings from that which gave rise to the judgment of July 2010, Commission v Germany (C‑271/08, EU:C:2010:426), which concerned an old-age pension scheme. In that latter case, the contracting authorities’ decision-making autonomy was called into question, because those authorities, under the applicable collective agreement, could not, of their own accord, give preference to a particular tenderer. In response to that argument, the Court held that it was, however, sufficient that the employers concerned could have had an influence on the choice of their contracting party, at least indirectly, by means of a collective agreement.
+In the present case, it is apparent from Paragraphs and of the BMSVG that the accession agreement is concluded between the employer and the provident fund, which means that the employer exercises such an influence in respect of the choice of that fund.
+Therefore, it is appropriate to take the view that the exercise of one of the rights to bargain collectively set out in Paragraph of the BMSVG cannot allow a contracting authority, such as the one at issue in the main proceedings, to avoid its obligation to respect the fundamental rules of the Treaty, which include in particular the obligation of transparency resulting from Articles and TFEU.
+The obligation of transparency requires there to be a degree of publicity on the part of the contracting authority sufficient to enable, on the one hand, competition to be opened up and, on the other, the impartiality of the award procedure to be reviewed (judgment of December 2015, UNIS and Beaudout Père et Fils, C‑25/and C‑26/14, EU:C:2015:821, paragraph 39).
+It is therefore important that the rules relating to the award procedure should be applied transparently to all tenderers. The obligation of transparency, which is a corollary of the principle of equality, is designed essentially to ensure that any interested operator may take the decision to tender, in a public procurement procedure, on the basis of all relevant information and to ensure the elimination of any risk of favouritism or arbitrariness on the part of the contracting authority. It implies that all the conditions and detailed rules governing the award procedure must be drawn up in a clear, precise and unequivocal manner so that, first, all reasonably informed tenderers exercising ordinary care can understand their exact significance and interpret them in the same way and, second, the contracting authority is able to ascertain whether the bids submitted satisfy the criteria applying to the contract in question (see, to that effect, judgments of February 2016, Ince, C‑336/14, EU:C:2016:72, paragraph 87, and of June 2017, Unibet International, C‑49/16, EU:C:2017:491, paragraph 46).
+In the light of all of the foregoing considerations, the answer to the question referred is that Articles and TFEU, the principles of equal treatment and non-discrimination and the obligation of transparency must be interpreted as meaning that they are applicable to the conclusion of an accession agreement between an employer that is a body governed by public law, and a company provident fund, with regard to the management and investment of contributions intended to finance severance payments paid to the employees of that employer, even though the conclusion of such an agreement is not a matter solely for the employer, but requires the consent of either the staff or the works council.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Ninth Chamber) hereby rules:
+ 
+Articles and TFEU, the principles of equal treatment and non-discrimination and the obligation of transparency must be interpreted as meaning that they are applicable to the conclusion of an accession agreement between an employer that is a body governed by public law, and a company provident fund, with regard to the management and investment of contributions intended to finance severance payments paid to the employees of that employer, even though the conclusion of such an agreement is not a matter solely for the employer, but requires the consent of either the staff or the works council.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

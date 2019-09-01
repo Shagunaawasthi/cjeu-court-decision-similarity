@@ -1,0 +1,339 @@
+
+Case C-394/Marco Gambazzi
+v
+DaimlerChrysler Canada Inc.
+and
+CIBC Mellon Trust Company
+(Reference for a preliminary ruling from the Corte d’appello di Milano)
+(Brussels Convention – Recognition and enforcement of judgments – Grounds for refusal – Infringement of public policy in the State in which enforcement is sought – Exclusion of the defendant from the proceedings before the court of the State of origin because of failure to comply with
+         a court order)
+      
+Summary of the Judgment
+1.        Convention on jurisdiction and the enforcement of judgments – Recognition and enforcement – Definition of ‘judgment’ – Judgments
+            by default – Included – Conditions 
+(Convention of September 1968, Art. 25)
+2.        Convention on jurisdiction and the enforcement of judgments – Recognition and enforcement of judgments – Grounds for refusal
+            – Infringement of public policy in the State in which enforcement is sought – Assessment by the court of the State in which
+            enforcement is sought
+(Convention of September 1968, Art. 27(1))
+1.        Article of the Convention of September on Jurisdiction and the Enforcement of Judgments in Civil and Commercial
+         Matters, as amended by the Conventions on Accession of 1978, 1982, and 1996, refers, without distinction, to all judgments
+         given by a court or tribunal of a Contracting State. For such decisions to fall within the scope of the Convention, it is
+         sufficient if, before their recognition and enforcement are sought in a State other than the State of origin, they have been,
+         or have been capable of being, the subject in that State of origin and under various procedures, of an inquiry in adversarial
+         proceedings. Where the decisions of the national court took the form of a judgment and an order given in default of appearance
+         in civil proceedings which, as a rule, adhere to the adversarial principle, the fact that the court entered judgment as if
+         the defendant, who had entered appearance, was in default, cannot suffice to call into question the categorisation of those
+         decisions as judgments.
+      
+(see paras 22-23, 25)
+2.        Article 27(1) of the Convention of September on Jurisdiction and the Enforcement of Judgments in Civil and Commercial
+         Matters, as amended by the Conventions on Accession of 1978, 1982, and 1996,  must be interpreted as meaning that the
+         court of the State in which enforcement is sought may take into account, with regard to the public policy clause referred
+         to in that article, the fact that the court of the State of origin ruled on the applicant’s claims without hearing the defendant,
+         who entered appearance before it but who was excluded from the proceedings by order on the ground that he had not complied
+         with the obligations imposed by an order made earlier in the same proceedings, if, following a comprehensive assessment of
+         the proceedings and in the light of all the circumstances, it appears to it that that exclusion measure constituted a manifest
+         and disproportionate infringement of the defendant’s right to be heard. Review by the national court must relate not only
+         to the circumstances in which the decisions – the enforcement of which is sought – were taken, but also to the circumstances
+         in which, at an earlier stage, the injunctive orders were adopted, and in particular to verifying, first, the legal remedies
+         made available to the defendant and, second, that the abovementioned decisions offered the defendant the possibility of being
+         heard, in compliance with the adversarial principle and the full exercise of the rights of defence.
+      
+(see paras 41, 46, 48, operative part)
+  
+  
+JUDGMENT OF THE COURT (First Chamber)
+April (*)
+      
+(Brussels Convention – Recognition and enforcement of judgments – Grounds for refusal – Infringement of public policy in the State in which enforcement is sought – Exclusion of the defendant from the proceedings before the court of the State of origin because of failure to comply with
+         a court order)
+      
+In Case C‑394/07,
+REFERENCE for a preliminary ruling under the Protocol of June on the interpretation by the Court of Justice of the
+         Convention of September on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters, from the
+         Corte d’appello di Milano (Italy), made by decision of June 2007, received at the Court on August 2007, in the proceedings
+      
+Marco Gambazzi
+v
+DaimlerChrysler Canada Inc.,
+CIBC Mellon Trust Company,
+THE COURT (First Chamber),
+composed of P. Jann (Rapporteur), President of Chamber, M. Ilešič, A. Tizzano, A. Borg Barthet and J.-J. Kasel, Judges,
+Advocate General: J. Kokott,
+Registrar: M.‑A. Gaudissart, head of unit,
+having regard to the written procedure and further to the hearing on October 2008,
+after considering the observations submitted on behalf of:
+–        Mr Gambazzi, by B. Nascimbene and M. Condinanzi, avvocati,
+–        DaimlerChrysler Canada Inc. and CIBC Mellon Trust Company, by F. Alvino, S. Pravettoni and A. Anglani, avvocati,
+–        the Italian Government, by I.M. Braguglia, acting as Agent, assisted by W. Ferrante, avvocato dello Stato,
+–        the Greek Government, by T. Papadopoulou and O. Patsopoulou, acting as Agents,
+–        the United Kingdom Government, by Z. Bryanston-Cross and I. Rao, acting as Agents, and by M. Gray, Barrister,
+–        the Commission of the European Communities, by A.‑M. Rouchaud-Joët, E. Montaguti and N. Bambara, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on December 2008,
+gives the following
+Judgment
+This reference for a preliminary ruling relates to the interpretation of Article 27(1) of the Convention of September on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters (OJ L 304, p. 36), as amended by the
+         Convention of October on the Accession of the Kingdom of Denmark, Ireland and the United Kingdom of Great Britain and
+         Northern Ireland (OJ L 304, p. 1, and – amended version – p. 77), by the Convention of October on the Accession
+         of the Hellenic Republic (OJ L 388, p. 1), by the Convention of May on the Accession of the Kingdom of Spain
+         and the Portuguese Republic (OJ L 285, p. 1), and by the Convention of November on the Accession of the Republic
+         of Austria, the Republic of Finland and the Kingdom of Sweden (OJ C 15, p. 1) (‘the Brussels Convention’).
+      
+The reference was made in proceedings between Mr Gambazzi, domiciled in Lugano (Switzerland), and the companies DaimlerChrysler
+         Canada Inc. (‘DaimlerChrysler’) and CIBC Mellon Trust Company (‘CIBC’), which have their registered offices in Canada, in
+         relation to the enforcement in Italy of a judgment given and an order made in the United Kingdom.
+      
+ Legal context
+ The Brussels Convention
+The conditions under which judgments given in one Contracting State are recognised and enforced in another Contracting State
+         are governed by Articles to of the Brussels Convention, which appear in Title III (‘Recognition and Enforcement’).
+      
+Article of the Convention provides:
+      
+‘For the purposes of this Convention, ‘judgment’ means any judgment given by a court or tribunal of a Contracting State, whatever
+         the judgment may be called, including a decree, order, decision or writ of execution, as well as the determination of costs
+         or expenses by an officer of the court.’
+      
+Article 27(1) and (2) of the Convention provide:
+      
+‘A judgment shall not be recognised:
+(1)      if such recognition is contrary to public policy in the State in which recognition is sought;
+(2)      where it was given in default of appearance, if the defendant was not duly served with the document which instituted the proceedings
+         or with an equivalent document in sufficient time to enable him to arrange for his defence’.
+      
+Article of the Brussels Convention, which concerns the recognition of judgments, and the third paragraph of Article of the Convention, which concerns their enforcement, provide that:
+      
+‘Under no circumstances may a [‘the’] foreign judgment be reviewed as to its substance.’
+ The Lugano Convention
+The Convention on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters signed at Lugano on September
+         (OJ L 319, p. 9; ‘the Lugano Convention’) derives from the creation of the European Free Trade Association (EFTA)
+         and the establishment, between the contracting EFTA States and the Member States of the European Communities of a system similar
+         to that of the Brussels Convention.
+      
+Article 27(1) of the Lugano Convention provides:
+      
+‘A judgment shall not be recognised:
+(1)      if such recognition is contrary to public policy in the State in which recognition is sought’.
+According to the declaration by the representatives of the Governments of the States signatories to the Lugano Convention
+         which are members of the European Communities, it is ‘appropriate that the Court of Justice of the European Communities, when
+         interpreting the Brussels Convention, pay due account to the rulings contained in the case-law of the Lugano Convention’.
+         
+      
+Also, Article of Protocol on the uniform interpretation of the Lugano Convention imposes on each contracting State the
+         obligation to ‘pay due account to the principles laid down by any relevant decision delivered by courts of the other Contracting
+         States’.
+      
+ The main proceedings and the question referred for a preliminary ruling
+According to the order for reference and the observations submitted to the Court, in the context of a claim for damages with
+         interest brought by DaimlerChrysler and CIBC against Mr Gambazzi, the High Court of Justice (England & Wales), Chancery Division,
+         on February 1997, on application by DaimlerChrysler and CIBC, made an order which, on the one hand, restrained Mr Gambazzi
+         on a temporary basis from dealing with some of his assets (‘freezing order’) and, on the other hand, instructed him to disclose
+         details of his assets and certain documents in his possession concerning the principal claim (‘disclosure order’). On March
+         that order was served by the Swiss authorities on Mr Gambazzi, who entered an appearance in the proceedings before the
+         High Court.
+      
+Mr Gambazzi did not comply, or at least did not fully comply, with the disclosure order. The High Court then, on application
+         by DaimlerChrysler and CIBC, made on July an order which barred Mr Gambazzi from taking any further part in the proceedings
+         unless he complied, within the prescribed time-limit, with the obligations regarding disclosure of the information and documents
+         requested (‘unless order’).
+      
+Mr Gambazzi made several appeals against the freezing order, the disclosure order and the unless order. All those appeals
+         were dismissed.
+      
+On October 1998, the High Court made a new ‘unless order’. 
+      
+Since Mr Gambazzi did not, within the prescribed time-limit, completely fulfil the obligations laid down in the new order,
+         he was held to be in contempt of court and was excluded from the proceedings (‘debarment’).
+      
+By judgment of December 1998, supplemented by an order of March (‘the High Court judgments’), the High Court entered
+         judgment as if Mr Gambazzi was in default and allowed the applications of DaimlerChrysler and CIBC, ordering Mr Gambazzi to
+         pay them damages of CAD and CAD and USD 770, with interest and incidental expenses.
+      
+On application by DaimlerChrysler and CIBC, the Corte d’appello di Milano (Court of Appeal, Milan, Italy), by order of December 2004, declared the High Court judgments to be enforceable in Italy.
+      
+Mr Gambazzi appealed against that order. He claims that the High Court judgments cannot be recognised in Italy, on the ground
+         that they are contrary to public policy within the meaning of Article 27(1) of the Brussels Convention, because they were
+         made in breach of the rights of the defence and of the adversarial principle.
+      
+It was in those circumstances that the Corte d’appello di Milano, before which the appeal was brought, decided to stay the
+         proceedings and to refer to the Court of Justice the following question for a preliminary ruling:
+      
+‘On the basis of the public policy clause in Article 27(1) of the Brussels Convention, may the court of the State requested
+         to enforce a judgment take account of the fact that the court of the State which handed down that judgment denied the unsuccessful
+         party which had entered an appearance the opportunity to present any form of defence following the issue of a debarring order
+         as described [in the grounds of the present Order]? Or does the interpretation of that provision in conjunction with the principles
+         to be inferred from Article et seq. of the Convention, concerning the mutual recognition and enforcement of judgments within
+         the Community, preclude the national court from finding that civil proceedings in which a party has been prevented from exercising
+         the rights of the defence, on grounds of a debarring order made by the court because of that party’s failure to comply with
+         a court injunction, are contrary to public policy within the meaning of Article 27(1)?’
+      
+ The question referred for a preliminary ruling
+By this question, the national court asks essentially if, with regard to the public policy clause in Article 27(1) of the
+         Brussels Convention, the court of the State in which enforcement is sought may take into account the fact that the court of
+         the State of origin ruled on the plaintiff’s claims without hearing the defendant, who entered appearance before it but was
+         excluded from the proceedings by an order, on the ground that he had not complied with the obligations imposed by an order
+         adopted at an earlier stage.
+      
+ Categorisation of the High Court decisions with regard to Article of the Brussels Convention
+As a preliminary point, it must be examined whether the High Court’s decisions are judgments within the meaning of Article
+         of the Brussels Convention or if, as Mr Gambazzi maintains, they do not fall within that definition because they were adopted
+         in infringement of the adversarial principle and the right to a fair trial.
+      
+In that regard, it should be noted that Article of the Brussels Convention refers, without distinction, to all judgments
+         given by a court or tribunal of a Contracting State.
+      
+The Court has indeed made clear that all the provisions of the Brussels Convention, both those contained in Title II on jurisdiction
+         and those contained in Title III on recognition and enforcement, express the intention to ensure that, within the scope of
+         the objectives of the Convention, proceedings leading to the delivery of judicial decisions take place in such a way that
+         the rights of the defence are observed. However, it considered that, for such decisions to fall within the scope of the Convention,
+         it is sufficient if they are judicial decisions which, before their recognition and enforcement are sought in a State other
+         than the State of origin, have been, or have been capable of being, the subject in that State of origin and under various
+         procedures, of an inquiry in adversarial proceedings (Case 125/Denilauler [1980] ECR 1553, paragraph 13).
+      
+Thus, for example, judgments by default fall within the scope of the Brussels Convention, as follows from Article 27(2) of
+         the Convention, which refers expressly to default of appearance by the defendant. 
+      
+As the Advocate General noted in point of her Opinion, the High Court decisions took the form of a judgment and an order
+         given in default of appearance in civil proceedings which, as a rule, adhere to the adversarial principle. The fact that the
+         court entered judgment as if the defendant, who had entered appearance, was in default, cannot suffice to call into question
+         the categorisation of those decisions as judgments. That fact can be taken into consideration only with regard to the compatibility
+         of those decisions with the public policy of the State in which enforcement is sought.
+      
+ Consideration to be taken of the defendant’s exclusion (debarment) from the proceedings with regard to Article 27(1) of the
+            Brussels Convention
+In Case C-7/Krombach [2000] ECR I-1935, paragraph 23, the Court of Justice held that, while it is not for the Court to define the content of the
+         public policy of a Contracting State, it is none the less required to review the limits within which the courts of a Contracting
+         State may have recourse to that concept for the purpose of refusing recognition to a judgment emanating from a court in another
+         Contracting State.
+      
+In that regard, the Court explained that recourse to a public policy clause can be envisaged only where recognition or enforcement
+         of the judgment delivered in another Contracting State would be at variance to an unacceptable degree with the legal order
+         of the State in which enforcement is sought inasmuch as it infringes a fundamental principle. The infringement would have
+         to constitute a manifest breach of a rule of law regarded as essential in the legal order of the State in which enforcement
+         is sought or of a right recognised as being fundamental within that legal order (Krombach, paragraph 37).
+      
+With regard to the exercise of the rights of the defence, to which the question submitted for a preliminary ruling refers,
+         the Court has pointed out that this occupies a prominent position in the organisation and conduct of a fair trial and is one
+         of the fundamental rights deriving from the constitutional traditions common to the Member States and from the international
+         treaties for the protection of human rights on which the Member States have collaborated or of which they are signatories,
+         among which the European Convention for the Protection of Human Rights and Fundamental Freedoms, signed in Rome on November
+         1950, is of particular importance (see, to that effect, Krombach, paragraphs and 39).
+      
+It should, however, be borne in mind that fundamental rights, such as respect for the rights of the defence, do not constitute
+         unfettered prerogatives and may be subject to restrictions. However, such restrictions must in fact correspond to the objectives
+         of public interest pursued by the measure in question and must not constitute, with regard to the aim pursued, a manifest
+         or disproportionate breach of the rights thus guaranteed. 
+      
+The Government of the United Kingdom explained that the aim of the ‘freezing’, ‘disclosure’ and ‘unless’ orders is to ensure
+         the fair and efficient administration of justice.
+      
+It must be conceded that such an objective is capable of justifying a restriction on the rights of the defence. As observed
+         by the Italian and Greek Governments, the legal systems of most of the Member States provide for the imposition of sanctions
+         on persons who, in civil proceedings, adopt delaying tactics which would ultimately lead to a denial of justice.
+      
+Such sanctions may not, however, be manifestly disproportionate to the aim pursued, which is to ensure the efficient conduct
+         of proceedings in the interests of the sound administration of justice.
+      
+With regard to the sanction adopted in the main proceedings, the exclusion of Mr Gambazzi from any participation in the proceedings,
+         that is, as the Advocate General stated in point of her Opinion, the most serious restriction possible on the rights of
+         the defence. Consequently, such a restriction must satisfy very exacting requirements if it is not to be regarded as a manifest
+         and disproportionate infringement of those rights.
+      
+It is for the national court to assess, in the light of the specific circumstances of these proceedings, if that is the case.
+         
+      
+In that context, the parties to the main proceedings refer to a judgment of November of the Tribunal fédéral (Federal
+         Supreme Court) (Switzerland) (Case 4P082/2004). By that judgment, that court dismissed an appeal brought by CIBC and DaimlerChrysler
+         against a decision of the Tribunale d’appello del cantone Ticino (Court of Appeal of the Canton of Ticino, Switzerland) which
+         refused to recognise and enforce in Switzerland the High Court judgments against Mr Gambazzi on the basis of Article 27(1)
+         of the Lugano Convention. The Tribunal fédéral held that Mr Gambazzi’s exclusion from the High Court proceedings was not contrary
+         to Swiss public policy, but considered that other circumstances, to which the national court did not refer in the present
+         proceedings, nevertheless justified the application of the public policy clause.
+      
+In accordance with the declaration by the representatives of the Governments of the States signatories to the Lugano Convention
+         which are members of the European Communities, it is appropriate that the Court pay due account to the principles contained
+         in that Tribunal fédéral judgment and, in application of Article of Protocol on the uniform interpretation of that convention,
+         the national court is to pay due account to those principles. 
+      
+In that regard, it must be pointed out that the Tribunal fédéral refers, to give substance to the public policy clause, to
+         the right to a fair trial and the right to be heard, principles to which the Court itself referred in Krombach, and to which it has drawn attention in paragraphs and of this judgment.
+      
+With regard to the specific assessment of the conflict with Swiss public policy carried out in the present case by the Tribunal
+         fédéral in its abovementioned judgment, it should be noted that that assessment cannot formally bind the national court. That
+         is especially true in this case because the latter court must carry out its assessment with regard to Italian public policy.
+      
+In order to fulfil its task of interpretation described in paragraph of the present judgment, it is however for the Court
+         to explain the principles which it has defined by indicating the general criteria with regard to which the national court
+         must carry out its assessment.
+      
+To that end, it must be stated that the question of the compatibility of the exclusion measure adopted by the court of the
+         State of origin with public policy in the State in which enforcement is sought must be assessed having regard to the proceedings
+         as a whole in the light of all the circumstances (see, in that regard, Case C-341/Eurofood IFSC [2006] ECR I‑3813, paragraph 68).
+      
+That means taking into account, in the present case, not only the circumstances in which, at the conclusion of the High Court
+         proceedings, the decisions of that court – the enforcement of which is sought – were taken, but also the circumstances in
+         which, at an earlier stage, the disclosure order and the unless order were adopted.
+      
+With regard, first, to the disclosure order, it is for the national court to examine whether, and if so to what extent, Mr
+         Gambazzi had the opportunity to be heard as to its subject-matter and scope, before it was made. It is also for it to examine
+         what legal remedies were available to Mr. Gambazzi, after the disclosure order was made, in order to request its amendment
+         or revocation. In that regard, it must be established whether he had the opportunity to raise all the factual and legal issues
+         which, in his view, could support his application and whether those issues were examined as to the merits, in full accordance
+         with the adversarial principle, or whether on the contrary, he was able to ask only limited questions.
+      
+With regard to Mr Gambazzi’s failure to comply with the disclosure order, it is for the national court to ascertain whether
+         the reasons advanced by Mr Gambazzi, in particular the fact that disclosure of the information requested would have led him
+         to infringe the principle of protection of legal confidentiality by which he is bound as a lawyer and therefore to commit
+         a criminal offence, could have been raised in adversarial court proceedings.
+      
+Concerning, second, the making of the unless order, the national court must examine whether Mr Gambazzi could avail himself
+         of procedural guarantees which gave him a genuine possibility of challenging the adopted measure. 
+      
+Finally, with regard to the High Court judgments in which the High Court ruled on the applicants’ claims as if the defendant
+         was in default, it is for the national court to investigate the question whether the well-foundedness of those claims was
+         examined, at that stage or at an earlier stage, and whether Mr Gambazzi had, at that stage or at an earlier stage, the possibility
+         of expressing his opinion on that subject and a right of appeal. 
+      
+It must be underlined that verifying those points, to the extent that the sole purpose is to identify any manifest and disproportionate
+         infringement of the right to be heard, does not mean reviewing the High Court’s assessment of the merits, which would constitute
+         a review as to the substance of the judgment expressly prohibited by Article and the third paragraph of Article of the
+         Brussels Convention. The referring court must confine itself to identifying the legal remedies which were available to Mr.
+         Gambazzi and to verifying that they offered him the possibility of being heard, in compliance with the adversarial principle
+         and the full exercise of the rights of defence.
+      
+Following completion of such verification, it is for the national court to carry out a balancing exercise with regard to those
+         various factors in order to assess whether, in the light of the objective of the efficient administration of justice pursued
+         by the High Court, the exclusion of Mr Gambazzi from the proceedings appears to be a manifest and disproportionate infringement
+         of his right to be heard.
+      
+Consequently, the answer to the question referred is that Article 27(1) of the Brussels Convention is to be interpreted as
+         meaning that the court of the State in which enforcement is sought may take into account, with regard to the public policy
+         clause referred to in that article, the fact that the court of the State of origin ruled on the applicant’s claims without
+         hearing the defendant, who entered appearance before it but who was excluded from the proceedings by order on the ground that
+         he had not complied with the obligations imposed by an order made earlier in the same proceedings, if, following a comprehensive
+         assessment of the proceedings and in the light of all the circumstances, it appears to it that that exclusion measure constituted
+         a manifest and disproportionate infringement of the defendant’s right to be heard.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (First Chamber) hereby rules:
+Article 27(1) of the Convention of September on Jurisdiction and the Enforcement of Judgments in Civil and Commercial
+            Matters, as amended by the Convention of October on the Accession of the Kingdom of Denmark, Ireland and the United
+            Kingdom of Great Britain and Northern Ireland, by the Convention of October on the Accession of the Hellenic Republic,
+            by the Convention of May on the Accession of the Kingdom of Spain and the Portuguese Republic, and by the Convention
+            of November on the Accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden, is to
+            be interpreted as follows:
+the court of the State in which enforcement is sought may take into account, with regard to the public policy clause referred
+            to in that article, the fact that the court of the State of origin ruled on the applicant’s claims without hearing the defendant,
+            who entered appearance before it but who was excluded from the proceedings by order on the ground that he had not complied
+            with the obligations imposed by an order made earlier in the same proceedings, if, following a comprehensive assessment of
+            the proceedings and in the light of all the circumstances, it appears to it that that exclusion measure constituted a manifest
+            and disproportionate infringement of the defendant’s right to be heard.
+[Signatures]
+* Language of the case: Italian.
+      
+Top  

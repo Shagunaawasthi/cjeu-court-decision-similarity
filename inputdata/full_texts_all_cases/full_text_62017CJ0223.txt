@@ -1,0 +1,148 @@
+
+JUDGMENT OF THE COURT (Tenth Chamber)
+June (*)
+(Appeal — Common Customs Tariff — Autonomous customs duties on certain agricultural and industrial products — Applications for tariff suspensions — Regulation (EU) No 1344/— Tariff suspensions granted — Objection — Regulation (EU) No 1387/— Termination of the suspensions at issue — Comparable products available in sufficient quantities on the Union market)
+In Case C‑223/P,
+APPEAL under Article of the Statute of the Court of Justice of the European Union, brought on April 2017,
+Lubrizol France SAS, established in Rouen (France), represented by R. MacLean, Solicitor, and by A. Bochon, lawyer,
+appellant,
+the other parties to the proceedings being:
+Council of the European Union, represented by M. Balta and by F. Florindo Gijón, acting as Agents,
+defendant at first instance,
+European Commission, represented by A. Lewis and A. Caeiros, acting as Agents,
+intervener at first instance,
+THE COURT (Tenth Chamber),
+composed of E. Levits (Rapporteur), President of the Chamber, A. Borg Barthet and F. Biltgen, Judges,
+Advocate General: E. Tanchev,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+By its appeal, Lubrizol France SAS (‘Lubrizol’) asks the Court to set aside the judgment of the General Court of the European Union of February — Lubrizol France v Council (T‑191/14, not published, ‘the judgment under appeal’, EU:T:2017:90), by which that Court dismissed as unfounded the action brought by Lubrizol seeking the annulment of Articles and of Council Regulation (EU) No 1387/of December suspending the autonomous Common Customs Tariff duties on certain agricultural and industrial products and repealing Regulation (EU) No 1344/(OJ L 354, p. 201, ‘the regulation at issue’), to the extent that those measures deprived Lubrizol of its entitlement to three duty suspensions which it previously enjoyed under codes 80, and under the Integrated Tariff of the European Union (TARIC).
+ Legal context
+The Communication from the Commission concerning autonomous tariff suspensions and quotas (2011/C 363/) (OJ C 363, p. 6, ‘the Commission’s communication’) sets out, inter alia, the general guidelines by which the European Commission is bound in its proposals to the Council.
+Paragraph 3.of the Commission’s communication provides:
+‘In principle, unless the Union interest dictates otherwise, and in deference to international obligations, no tariff suspension or quota measure will be proposed in the following situations:
+where identical, equivalent or substitute products are manufactured in sufficient quantities within the Union. ... 
+...’
+Under paragraph 3.3, it is stated:
+‘Where there is some Union production of identical, equivalent or substitute products to the product to be imported but such production is insufficient to meet the requirements of all the relevant processing or manufacturing companies, tariff quotas (limited to the unavailable quantities) or partial tariff suspensions may be granted.’
+...’
+Paragraph 3.of the Commission’s communication is worded as follows:
+‘As far as possible, the equivalence of imported and Union products is assessed with reference to objective criteria, due account being taken of the essential chemical, physical and technical characteristics of each, their intended function and commercial use and, in particular, their mode of operation and their current or future availability on the Union market.
+...’
+Paragraph 4.5.3. of that communication states: 
+‘The Commission may reject an objection when it was sent late, the form was not sufficiently filled in, requested samples were not made available, contacts between the opposing and requesting companies were not made in due time (ca. working days) or the objection form contained misleading or inaccurate information.
+...’
+Annex IV to the Commission’s communication consists of a form which must be completed in order to object to an application for tariff suspension. Part II of that form requires the objector’s production capacity to be indicated.
+ Background to the dispute
+The General Court summarised the background to the case, in paragraphs to and of the judgment under appeal, as follows:
+‘The applicant ... is a company which manufactures and sells additives for engine oil, fuel and other industrial uses.
+On January and February 2012, the applicant filed three requests for suspension of the autonomous customs duties applied by the European Union covering a range of products which it was importing from companies connected with it and registered in the United States. One of the suspension applications was filed with the competent authorities of the Kingdom of Belgium and the other two were filed with those of the French Republic.
+The Kingdom of Belgium and the French Republic submitted the suspension requests to the Economic Tariff Questions Group (‘the ETQG’), whose task is to support the European Commission in the examination of requests for suspension of customs duties or tariff quota volumes, in accordance with paragraph 4.1.of the [Communication from the Commission].
+The examination of the suspension applications by the ETQG was concluded with the submission of a proposal for a regulation to the Council of the European Union for the adoption of the proposed duty suspensions.
+Council Regulation (EU) No 1232/of December amending Regulation (EU) No 1344/suspending the autonomous Common Customs Tariff duties on certain agricultural, fishery and industrial products (OJ L 350, p. 8) granted suspensions of customs duties for the products which were the subject of the applicant’s requests made to the competent Belgian and French authorities and listed those products in Annex I to Regulation [No 1344/2011], by allocating to each of them a specific code under the Integrated Tariff of the European Union (TARIC). ...
+After the entry into force of Regulation No 1232/2012, the competent Belgian and French authorities notified the applicant that a company established in the European Union (‘the objector’) had challenged the continued implementation of the suspensions granted by that regulation in respect of the products imported by the applicant.
+In emails of and May 2013, the applicant indicated to the objector that the objector’s products were not comparable to those covered by the customs duties suspensions, or that if they were, they could not replace the products imported, in that, since the resulting additive packages of the objector were different from those the applicant produced, those packages would not meet the specifications of its European customers. In addition, the applicant requested that the objector provide further information confirming, inter alia, whether the products which it manufactured could be substituted for the imported products, but it did not receive any reply from the objector.
+By emails of and July and August 2013, the objector replied to the applicant with clarifications concerning the three products presented as comparable to the products covered by the suspensions of customs duties under Regulation No 1232/2012. ...
+The ETQG met on and July 2013, and, although no other meeting was arranged, discussions nevertheless continued to take place. On September 2013, the Commission then decided not to reject the objections raised by the objector. Consequently, the Council adopted the [contested] regulation. Article of the regulation at issue provides that the autonomous Common Customs Tariff duties for the agricultural and industrial products listed in Annex I to that regulation are suspended and Article provides that Regulation No 1344/is repealed ... It follows that the suspensions of customs duties covering the products imported by the applicant were repealed, with effect from January 2014.’
+ The procedure before the General Court and the judgment under appeal
+By application lodged at the Court Registry on March 2014, the appellant brought an action for annulment of Articles and of the regulation at issue.
+By separate document lodged at the Court Registry on May 2014, the Council raised an objection of inadmissibility on the ground that the appellant was not entitled to bring an action for annulment on the basis of Article TFEU.
+By document lodged at the Court Registry on June 2014, the Commission applied for leave to intervene in support of the form of order sought by the Council.
+By order of September of the President of the Fifth Chamber of the General Court, the proceedings were stayed pending the decision of the Court of Justice in the case which has since given rise to the order of July 2015, Forgital Italy v Council (C‑84/P, not published, EU:C:2015:517).
+By order of the General Court of December 2015, the objection of inadmissibility was joined to the substance of the case and costs were reserved.
+After stating, in paragraph of the judgment under appeal, that, for the sake of economy of procedure, Lubrizol’s claim for annulment should be considered as a whole, the General Court examined the two pleas put forward, namely the first, alleging manifest error of assessment by the Council in deciding to terminate the suspensions at issue and the second, alleging breach of essential procedural requirements and safeguards in adopting the regulation at issue.
+As regards the first plea, the General Court first of all noted, in paragraph of the judgment under appeal, that the Council had a broad discretion with regard to the adoption of suspension measures, so that the EU judicature’s judicial review of such decisions must be confined to verifying whether the procedural rules and the duty to state reasons have been complied with, whether the facts have been accurately stated, and whether there has been a manifest error of assessment or a misuse of powers.
+After holding, in paragraphs to of the judgment under appeal, that the regulation at issue had been adopted in accordance with the procedure required by the Commission’s communication, the General Court went on to reject the appellant’s arguments in support of its first plea.
+In paragraph of the judgment under appeal, the General Court recognised that while the objector’s reply concerning its production capacity might lead to confusion, the fact remained that, in essence, it had simply stated that it was able to provide goods similar to those required for the production of the appellant’s products and that it was not the only undertaking in that regard.
+Next, in paragraph of the judgment under appeal, the General Court found that the Commission had the information necessary for the purposes of examining the objection raised by the objector, so that it concluded, in paragraph of that judgment, that the Council had not committed a manifest error in its assessment of the identity, the equivalence or the substitutability of the products in question.
+Finally, the General Court rejected the appellant’s other arguments in paragraphs to of the contested judgment.
+It thus took the view that the information contained in the form accompanying the objection showed clearly that the products in question were regarded by the objector as being substitutable.
+Similarly, the General Court found that the appellant had not provided sufficient relevant information to support its assertion that the imported products constituted unique products which were not substitutable.
+Furthermore, the General Court pointed out, in paragraph of the judgment under appeal, that the assessment of the criteria used for the purposes of examining the identity, the equivalence or the substitutability of the products in question is guided, according to the Commission’s communication, by the general interest of the Union and by that of economic operators, so that any technical and economic disadvantages as a result of the use of a substitute alone cannot be decisive.
+Regarding the examination of the criteria laid down in the Commission’s communication, the General Court stated that there was no hierarchy between them, so that the Commission had to take into account not only the technical criteria of the products in question but also those linked to their function and commercial use.
+As regards the second plea alleging a wrongful application of the procedures, the General Court found that the time limit laid down in paragraph 4.5.of the Commission’s communication concerned the first contact between the objector and the appellant. Therefore, it rejected the appellant’s objections relating to the answers submitted by the objector after the expiry of the above time limit and dismissed the action in its entirety.
+ Forms of order sought by the parties to the appeal
+The appellant claims that the Court should:
+–        set aside the judgment under appeal;
+–        partially annul the regulation at issue; and
+–        order the Council and the Commission to pay the costs.
+The Council contends that the Court should:
+–        dismiss the appeal; and
+–        order the appellant to pay the costs.
+ The appeal
+In support of its appeal, the appellant submits three grounds of appeal alleging, respectively, incorrect application of the criteria laid down in the Commission’s communication, distortion of the evidence, and failure to comply with requirements relating to the objection procedure as laid down in that communication.
+ The first ground of appeal
+ Arguments of the parties
+The first ground of appeal is divided into three parts.
+First, the appellant states that the General Court confined itself to a purely formal analysis of the documents and information provided by the objector during the objection procedure. In so doing, it was unable to draw the appropriate inferences from the objector’s assertion that it was not able to supply the product it produces in sufficient quantities to meet the appellant’s requirements.
+In particular, the General Court wrongly held, in paragraph of the judgment under appeal, that the fact that the objector had expressed its inability to supply the product it manufactures in sufficient quantities to meet the appellant’s requirements was irrelevant. The General Court relied on erroneous information, which was, in any event, submitted late, and also distorted the evidence.
+Second, the General Court did not take into account the arguments put forward by the appellant in the objection procedure as to the insufficient substitutability of the products in question, in particular in view of the differences highlighted as regards their chemical properties.
+Third, the General Court failed to censure the regulation at issue on the ground that the examination of the substitutability of the products in question had been conducted by favouring the assessment criteria relating to their function and commercial use, to the detriment of the technical and scientific criteria, which, however, showed the difference between those products.
+In any event, the Council’s assessment of the interchangeability of the products in question, which led to the adoption of the regulation at issue, was examined by the General Court on the basis of incorrect criteria. In that regard, if it had applied technical criteria, the General Court would have had to substitute its own assessment for that of the Council.
+The Council submits that the appellant’s first ground of appeal is inadmissible in so far as it merely requests a new assessment of the facts at the appeal stage.
+The Commission pleads, principally, the inadmissibility of the ground of appeal and, in the alternative, that that ground of appeal is unfounded; in particular, the General Court merely applied the case-law principles as to judicial review of the Council’s assessments in relation to the suspension of tariff duties, observing the requirements of the Commission’s communication.
+ Findings of the Court
+It must be pointed out, at the outset, that the General Court correctly noted, in paragraphs to of the judgment under appeal, the limits to review of Council decisions which the General Court is required to carry out in the context of the adoption of measures suspending tariff duties.
+Thus, it is common ground that, as the Council enjoys a broad discretion in that context, the EU judicature’s review of the Council’s decisions must be confined to verifying whether the procedural rules and the duty to state reasons have been complied with, whether the facts have been accurately stated, and whether there has been a manifest error of assessment or a misuse of powers.
+As regards the first part of the first ground of appeal, by which the appellant alleges that the General Court did not carry out a thorough analysis of the Council’s assessments and merely conducted a purely formal examination of the procedure, it should be noted, first, that, having regard to the extent of the judicial review, as noted in the preceding paragraph of this judgment, which the General Court is to conduct, it is certainly not for the General Court to substitute its own assessment of complex facts at issue, concerning applications for suspension of tariff duties, for that of the Council, since its review must be confined to that of manifest error of assessment.
+Second, in so far as the appellant alleges that the General Court failed to examine the evidence relied on by the Council, the General Court correctly pointed out, in paragraph of the judgment under appeal, that, in order to establish that an institution committed a manifest error in assessing complex facts so as to justify the annulment of the measure which it adopted, the evidence in support of such a claim must be sufficient to render the factual assessments adopted in that measure implausible.
+In that regard, first, it must be observed that, in alleging that the General Court did not take into consideration the fact that the objector had stated that it was not able to supply the replacement product in sufficient quantities, the appellant misreads the judgment under appeal.
+In paragraph of that judgment, the General Court held that the objector had never altered its statement concerning its production capacity; the objector had merely added a nuance to the terms used by the appellant in its comments on the objector’s objection.
+Second, as regards the alleged confusion between the terms ‘production capacity’ and availability in ‘sufficient quantities’, while it is true that the wording of paragraph 3.of the Commission’s communication uses the latter expression, the General Court cannot be criticised for inferring from the objector’s information relating to its production capacity, as it emerges from the objection form, that the substitute product was manufactured in sufficient quantities within the Union.
+The taking into account of the production capacity of a company objecting to a tariff suspension measure, which must be stated in the objection form, cannot constitute an error of law as regards the assessment of the availability of a substitute product in sufficient quantities.
+In any event, it must be held, first, that the appellant merely puts forward an understanding of the information given by the objector in the objection form as to the availability of the product manufactured by the latter that differs from the General Court’s understanding, and, second, that the appellant is asking for a new assessment of the facts by the Court of Justice at the appeal stage.
+In that regard, the General Court’s assessment of the facts of the case before it does not constitute a point of law falling within the scope of the Court’s power of review, unless the General Court’s findings are vitiated by a substantive error or a distortion which is manifest from the documents in the file (judgment of January 2017, Typke v Commission, C‑491/P, EU:C:2017:5, paragraph 58).
+In addition, the appeal must indicate precisely the contested elements of the judgment which the appellant seeks to have set aside and the legal arguments specifically advanced in support thereof. A ground of appeal does not meet those requirements where it does not contain any legal argument to demonstrate the manner in which the General Court allegedly erred in law, and merely constitutes a request for re-examination of the action brought at first instance, in breach of the rules imposed by both the Statute of the Court of Justice and its Rules of Procedure (order of February 2017, Šumelj and Others v Commission, C‑239/P, EU:C:2017:91, paragraph 24).
+The appellant has failed to show that the General Court’s findings are vitiated by a manifest distortion of the documents which were submitted to it, as it merely claims, in essence, that the General Court’s assessment of the facts is not in line with its interests.
+As regards the second part of the first ground of appeal, by which the appellant complains that the General Court did not attribute sufficient weight to the comments it had addressed to the objector in the objection procedure regarding differences between the products in question, it must be pointed out that, in paragraph of the judgment under appeal, the General Court found that the appellant had failed to provide evidence to support its allegation. Such a finding is all the more compelling in the light of the appellant’s pleadings, since, at the appeal stage, it was for the appellant to prove that the General Court distorted the facts submitted to it.
+In addition, it was in light of the lack of evidence to the contrary that the General Court held that the appellant’s argument, namely that none of the objector’s products could be regarded as identical, equivalent or substitutable to the appellant’s products benefiting from the suspensions at issue, could not lead to an assessment different from that made by the Council.
+As regards, lastly, the third part of the first ground of appeal, by which the appellant complains that the General Court favoured, in its review of the Council’s assessment of the substitutability of the products in question, the criteria relating to the function and commercial use of those products, to the detriment of the technical criteria, the General Court rightly held, in paragraph of the judgment under appeal, that such an assessment must be an overall assessment, since it did not appear to follow from paragraph 3.of the Commission’s communication that that provision establishes a hierarchy between the objective criteria which it lays down.
+In any event, the General Court recalled in paragraphs and of the judgment under appeal that the ETQG had carried out an examination of the essential chemical, physical and technical characteristics of the products in question, before concluding that the products were identical, similar or substitutable products.
+Consequently, and since, as is clear from paragraphs and of the present judgment, the General Court confined its review to that of a manifest error of assessment, it cannot be criticised for having endorsed the findings of the ETQG which took into account all the criteria set out in paragraph 3.of the Commission’s communication.
+Since the appellant has failed to show that the General Court committed an error of law, the first ground of appeal must be rejected as unfounded.
+ The second ground of appeal
+ Arguments of the parties
+By its second ground of appeal, the appellant claims, first, that the General Court substituted its own assessment of the identical, comparable or substitutable nature of the products at issue for that of the Council.
+Second, the General Court distorted the evidence by not finding that the objector had recognised its inability to provide the product it manufactures in the required quantity.
+The Council pleads the inadmissibility of the second ground of appeal on the ground that the appellant has not put forward any plea in law in support of its claims.
+The Commission pleads, primarily, that the second ground of appeal is inadmissible and in any case, unfounded.
+ Findings of the Court
+It must be pointed out that, in paragraphs and of the judgment under appeal, the General Court held, in the light of the evidence available to it, that the objector had not expressed its inability to provide the product manufactured by it in the required quantity but had explained that its product was not manufactured in the Union or in Turkey.
+The appellant does not show that the Council had a different understanding of the evidence than that of the General Court, since, in any event, the latter confirmed the findings of the Council.
+Furthermore, the appellant has failed to adduce evidence to support the conclusion that, in so doing, the General Court distorted the evidence.
+Accordingly, the second ground of appeal must be rejected as unfounded.
+ The third ground of appeal
+ Arguments of the parties
+By its third ground of appeal, the appellant claims that the General Court infringed the principles of the Commission’s communication, by stating in paragraph of the judgment under appeal, that the period of working days can apply only to the initiation of contact between the objector and the appellant and not to their subsequent exchanges.
+Thus, it adopted an imprecise understanding of ‘in due time’, an erroneous interpretation of ‘first contact’, and misconstrued the objection in the exchange between the parties, confusing their rights in such a procedure.
+The Council and the Commission contend that the second ground of appeal is inadmissible.
+In the alternative, the Commission considers that the ground of appeal is unfounded.
+ Findings of the Court
+It should be recalled that, in paragraph 4.5.of the Commission’s communication, the contacts between the company which objects to an application for tariff suspension and the company which submits it, must take place in due time, namely, approximately working days, otherwise the Commission may reject the objection.
+Thus, it follows from the very wording of that provision that the period of days is approximate and non-binding as regards the Commission’s decision. Consequently, that period is primarily addressed to the Commission, as it has the discretion to reject an objection if the latter has not been communicated within that period.
+It is not apparent, however, from the wording of that provision of paragraph 4.5.of the Commission’s communication that the period of days concerns all contacts between the company objecting to an application for suspension of autonomous duties and the company which submits that application. On the contrary, the exchanges must make it possible for the Commission to have at its disposal the most comprehensive information possible concerning the identical, comparable or substitutable nature of the product on which the objection is based. An overly restrictive limitation of the period during which such exchanges must take place might lead the Commission to adopt a decision on the objection without the relevant information for that purpose.
+Accordingly, the second ground of appeal must be rejected as unfounded.
+In view of all the foregoing considerations, the appeal must be dismissed in its entirety.
+ Costs
+Under Article 184(2) of the Rules of Procedure of the Court of Justice, where the appeal is unfounded or where the appeal is well founded and the Court itself gives final judgment in the case, the Court is to make a decision as to costs.
+Under Article 138(1) of those Rules, applicable to appeal proceedings by virtue of Article 184(1) thereof, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings. Since the Council has applied for costs against the appellant and the latter has been unsuccessful, it must be ordered to pay, in addition to its own costs, those incurred by the Council in the context of the present appeal.
+Pursuant to Article of those Rules, the Commission is to bear its own costs.
+On those grounds, the Court (Tenth Chamber) hereby:
+1.      Dismisses the appeal;
+2.      Orders Lubrizol France SAS to bear its own costs and to pay those incurred by the Council of the European Union;
+3.      Orders the European Commission to bear its own costs.
+Levits
+Borg Barthet
+Biltgen
+Delivered in open court in Luxembourg on June 2018.
+A. Calot Escobar
+ 
+E. Levits
+Registrar
+ 
+President of the Tenth Chamber
+*      Language of the case: English.
+Top  

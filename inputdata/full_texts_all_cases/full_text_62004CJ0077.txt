@@ -1,0 +1,254 @@
+
+Case C-77/Groupement d’intérêt économique (GIE) Réunion européenne and Others
+v
+Zurich España
+and
+Société pyrénéenne de transit d’automobiles (Soptrans)
+(Reference for a preliminary ruling from the Cour de cassation (France))
+(Brussels Convention – Request for interpretation of Article 6(2) and the provisions of Section 3, Title II – Jurisdiction in matters relating to insurance – Third-party proceedings between insurers – Multiple insurance situation)
+Opinion of Advocate General Jacobs delivered on February Judgment of the Court (First Chamber), May Summary of the Judgment
+1.     Convention on Jurisdiction and the Enforcement of Judgments – Jurisdiction in matters relating to insurance – Objective –
+            Protection of the weaker party – Scope – Third‑party proceedings between insurers – Excluded
+(Brussels Convention of September 1968, Title II, Section 3)
+2.     Convention on Jurisdiction and the Enforcement of Judgments – Special jurisdiction – Third‑party proceedings – Applicability
+            of third‑party proceedings based on multiple insurance – Condition – Existence of a connecting factor with the principal claim
+(Brussels Convention of September 1968, Art. 6(2)
+1.     Third‑party proceedings between insurers based on multiple insurance are not subject to the rules of special jurisdiction
+         in matters relating to insurance in Section of Title II of the Convention of September on Jurisdiction and the Enforcement
+         of Judgments in Civil and Commercial Matters, as amended by the Convention of October on the accession of the Kingdom
+         of Denmark, Ireland and the United Kingdom of Great Britain and Northern Ireland, by the Convention of October on
+         the accession of the Hellenic Republic, by the Convention of May on the accession of the Kingdom of Spain and the
+         Portuguese Republic and by the Convention of November on the accession of the Republic of Austria, the Republic of
+         Finland and the Kingdom of Sweden.
+      
+In affording the insured a wider range of jurisdiction than that available to the insurer and in excluding any possibility
+         of a clause conferring jurisdiction for the benefit of the insurer, the provisions of that section reflect an underlying concern
+         to protect the insured, who in most cases is faced with a predetermined contract, the clauses of which are no longer negotiable,
+         and is the weaker party economically. No special protection is justified since the parties concerned are professionals in
+         the insurance sector, none of whom may be presumed to be in a weaker position than the others.
+      
+(see paras 17, 20, 24, operative part 1)
+2.     Article 6(2) of the Convention of September on Jurisdiction and the Enforcement of Judgments in Civil and Commercial
+         Matters, as amended by the Convention of October on the accession of the Kingdom of Denmark, Ireland and the United
+         Kingdom of Great Britain and Northern Ireland, by the Convention of October on the accession of the Hellenic Republic,
+         by the Convention of May on the accession of the Kingdom of Spain and the Portuguese Republic and by the Convention
+         of November on the accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden, is applicable
+         to third‑party proceedings between insurers based on multiple insurance, in so far as there is a sufficient connection between
+         the original proceedings and the third‑party proceedings to support the conclusion that the choice of forum does not amount
+         to an abuse. 
+      
+It is for the national court seised of the original claim to verify the existence of such a connection, in the sense that
+         it must satisfy itself that the third‑party proceedings do not seek to remove the defendant from the jurisdiction of the court
+         which would be competent in the case.
+      
+(see paras 32, 36, operative part 2)
+  
+JUDGMENT OF THE COURT (First Chamber)
+May (*)
+      
+(Brussels Convention – Request for interpretation of Article 6(2) and the provisions of Section 3, Title II – Jurisdiction in matters relating to insurance – Third-party proceedings between insurers – Multiple insurance situation)
+In Case C-77/04,
+REFERENCE for a preliminary ruling, pursuant to the Protocol of June on the interpretation by the Court of Justice
+         of the Convention of September on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters, from
+         the Cour de Cassation (France), made by decision of January 2004, received at the Court on February 2004, in the proceedings
+      
+Groupement d’intérêt économique (GIE) Réunion européenne and Others,
+v
+Zurich España, 
+Société pyrénéenne de transit d’automobiles (Soptrans),
+THE COURT (First Chamber),
+composed of P. Jann, President of the Chamber, N. Colneric, J.N. Cunha Rodrigues (Rapporteur), M. Ilešič and E. Levits, Judges,
+Advocate General: F.G. Jacobs,
+Registrar: K.H. Sztranc, Administrator,
+having regard to the written procedure and further to the hearing on December 2004,
+after considering the observations submitted on behalf of;
+–       Groupement d’intérêt économique (GIE) Réunion européenne and Others, by M. Levis, avocat,
+–       Zurich España, by P. Alfredo and G. Thouvenin, avocats,
+–       the French Government, by G. de Bergues and A. Bodard-Hermant, acting as Agents,
+–       the Italian Government, by I.M. Braguglia, acting as Agent, and P. Gentili, avvocato dello Stato,
+–       the Commission of the European Communities, by A.‑M. Rouchaud-Joët, acting as Agent,
+after hearing the Opinion of the Advocate General at the sitting on February 2005,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 6(2) and the provisions of Section of Title
+         II of the Convention of September on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters
+         (OJ L 304, p. 36), as amended by the Convention of October on the accession of the Kingdom of Denmark, Ireland
+         and the United Kingdom of Great Britain and Northern Ireland (OJ L 304, p. 1, and – amended text – p. 77), by the Convention
+         of October on the accession of the Hellenic Republic (OJ L 388, p. 1), by the Convention of May on the
+         accession of the Kingdom of Spain and the Portuguese Republic (OJ L 285, p. 1) and by the Convention of November on the accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden (OJ C 15, p. 1) (‘the
+         Convention’). 
+      
+The reference was made in respect of proceedings in which the insurers of Société pyrénéenne de transit d’automobiles (‘Soptrans’)
+         sought to join Zurich Seguros, now Zurich España (‘Zurich’), as a third party for the purpose of apportionment between those
+         insurance companies of indemnification payable by Soptrans to General Motors España (‘GME’). 
+      
+ Legal background
+The first paragraph of Article of the Convention provides:
+‘Subject to the provisions of this convention, persons domiciled in a Contracting State shall, whatever their nationality,
+         be sued in the courts of that State.’
+      
+Article 6(2), which appears in Section of Title II of the Convention, entitled ‘Special jurisdiction’, is worded as follows:
+‘A person domiciled in a Contracting State may also be sued:
+…
+2.      as a third party in an action on a warranty or guarantee or in any other third party proceedings, in the court seised of the
+         original proceedings, unless these were instituted solely with the object of removing him from the jurisdiction of the court
+         which would be competent in his case;
+      
+…’.
+Articles to 12a make up Section 3, ‘Jurisdiction in matters relating to insurance’, of Title II of the Convention.
+Article of the Convention states:
+‘In matters relating to insurance, jurisdiction shall be determined by this Section, without prejudice to the provisions of
+         Articles and point 5’.
+      
+Under Article of the Convention:
+‘Without prejudice to the provisions of the third paragraph of Article 10, an insurer may bring proceedings only in the courts
+         of the Contracting State in which the defendant is domiciled irrespective of whether he is the policy-holder, the insured
+         or a beneficiary. ...’ 
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+The dispute in the main proceedings arises from damage sustained on August in the car park on which Soptrans, a company
+         established in France, stores new cars.
+      
+Soptrans is insured, in respect of the damage caused to those vehicles, by GIE Réunion européenne, Axa, successor in law to
+         Union des assurances de Paris, Winterthur, successor in law to La Neuchâteloise, Le Continent and Assurances Mutuelles de
+         France (‘the insurers’), all of whom have their head office or a branch in France.
+      
+A number of damaged vehicles belonged to GME and were insured by Zurich, which is established in Spain. Following a settlement
+         in the course of proceedings before a court in Saragossa (Spain) Soptrans undertook to pay ESP as compensation
+         to GME for damage sustained by the vehicles it owned. 
+      
+In parallel with those proceedings, Soptrans sued the insurers before the Tribunal de grande instance de Perpignan (Regional
+         Court, Perpignan) (France) seeking an order that they indemnify it in respect of the consequences of the action brought against
+         it in the Spanish court.
+      
+The insurers, in turn, sought to join Zurich as a third party before the Tribunal de grande instance, on the basis of Article
+         L. 121-of the French Insurance Code, which provides that, in cases of multiple insurance, the amount of indemnification
+         to be paid to the insured is to be divided proportionately between the various insurers. Zurich contested the jurisdiction
+         of the French court, claiming that the courts in Barcelona (Spain), where it has its head office, had jurisdiction.
+      
+By judgment of February 1999, the Tribunal de grande instance de Perpignan held that the French courts had jurisdiction
+         on the basis of Article 6(2) of the Convention. Zurich appealed against that decision to the Cour d’appel de Montpellier (Court
+         of Appeal, Montpellier) which took the view that in this case only the provisions of Section of Title II of the Convention
+         were applicable and declared that the French courts did not have jurisdiction to hear the third-party proceedings between
+         the insurers and Zurich.
+      
+The insurers then appealed to the Cour de Cassation (French Court of Cassation), on the grounds that third-party proceedings
+         based on multiple insurance were not within the scope of Article of the Convention and that the existence of a connection
+         between the original proceedings and the third-party proceedings was not one of the conditions for the application of Article
+         6(2) of the Convention.
+      
+Taking the view that, in those circumstances, the resolution of the dispute required an interpretation of the Convention,
+         the Cour de Cassation decided to stay proceedings and to refer the following two questions to the Court for a preliminary
+         ruling:
+      
+‘1.      Are third-party proceedings between insurers, based on alleged multiple insurance or co-insurance rather than on a re-insurance
+         agreement, covered as matters relating to insurance by the provisions of Section of Title II of the Brussels Convention
+         ...?
+      
+2.      Is Article 6(2) applicable when determining jurisdiction in the event of third-party proceedings between insurers and, if
+         so, is such application contingent on there being a connection between the various claims within the meaning of Article of the Convention or, at the very least, on evidence that there is sufficient connection between such claims to demonstrate
+         that the choice of forum does not amount to an abuse?’
+      
+ The questions referred for a preliminary ruling
+ The first question
+Section of Title II of the Convention concerns the rules of special jurisdiction in matters relating to insurance.
+According to settled case-law, it is apparent from a consideration of the provisions of Section in the light of the documents
+         leading to their enactment that, in affording the insured a wider range of jurisdiction than that available to the insurer
+         and in excluding any possibility of a clause conferring jurisdiction for the benefit of the insurer, they reflect an underlying
+         concern to protect the insured, who in most cases is faced with a predetermined contract the clauses of which are no longer
+         negotiable and is the weaker party economically (Case 201/Gerling and Others v Amministrazione del Tesoro dello Stato [1983] ECR 2503, paragraph and Case C-412/Group Josi [2000] ECR I-5925, paragraph 64).
+      
+That role of protecting the party deemed to be economically weaker and less experienced in legal matters implies, however,
+         that the application of the rules of special jurisdiction laid down to that end by the Convention should not be extended to
+         persons for whom such protection is not justified (Group Josi, paragraph 65).
+      
+In this case, as is clear from the file submitted to the Court, the insurers sought to bring Zurich before the Tribunal de
+         grande instance de Perpignan on the basis of Article L. 121-of the French Insurance Code, which permits an insurer who is
+         a defendant in proceedings brought by an insured to join any other insurers as third parties where there is a situation of
+         multiple insurance, in order to obtain their contribution to indemnifying the insured party. 
+      
+In those circumstances no special protection is justified since the parties concerned are professionals in the insurance sector,
+         none of whom may be presumed to be in a weaker position than the others.
+      
+As the Advocate General rightly pointed out in paragraph of his Opinion, support can be found for that view in particular
+         in Articles 8, and of the Convention, which clearly contemplate proceedings brought by a policy-holder, insured or injured
+         party, and in Article 11, which refers to proceedings brought against a policy-holder, insured, or beneficiary.
+      
+The authors of the Convention took as their premiss that the provisions of Section of Title II were applicable only to relations
+         characterised by an imbalance between the parties and established for that reason a body of rules on special jurisdiction
+         which favours the party regarded as economically weaker and less experienced in legal matters. Moreover, Article 12(5) of
+         the Convention excludes from that protective body of rules insurance contracts in which the insured enjoys considerable economic
+         power.
+      
+It is therefore consistent with the letter, spirit and purpose of the provisions in question to hold that they are not applicable
+         to relations between insurers in the context of third-party proceedings.
+      
+The answer to the first question is therefore that third-party proceedings between insurers based on multiple insurance are
+         not subject to the provisions of Section of Title II of the Convention.
+      
+ The second question
+Under Article 6(2) of the Convention, in the case of third-party proceedings, a person may be joined as a third party in the
+         court seised of the original proceedings, unless these were instituted solely with the object of removing him from the jurisdiction
+         of the court which would be competent in his case.
+      
+In the case before the national court, the insurers sought to join Zurich as a third party before the court in which Soptrans
+         was seeking an order that the insurers indemnify it for all the consequences of the action brought against it by GMS. 
+      
+The claims brought by Soptrans and by the insurers before the Tribunal de grande instance de Perpignan must therefore be regarded
+         respectively as original proceedings and third-party proceedings within the meaning of Article 6(2) of the Convention.
+      
+That classification is borne out by the Jenard Report on the Convention on Jurisdiction and the Enforcement of Judgments in
+         Civil and Commercial Matters (OJ C 59, p. 27), according to which an action within the meaning of Article 6(2) is defined
+         as ‘brought against a third party by the defendant in an action for the purpose of being indemnified against the consequences
+         of that action’.
+      
+The applicability, in this case, of Article 6(2) of the Convention remains however subject to compliance with the condition
+         requiring that the third-party proceedings should not have been instituted with the sole object of removing the party sued
+         from the jurisdiction of the court which would be competent in the case.
+      
+As both the Commission and the Advocate General, in paragraphs and of his Opinion, have emphasised, the existence of
+         a connection between the two sets of proceedings before the French courts is inherent in the very concept of third-party proceedings.
+      
+There is an inherent relation between an action brought against an insurer seeking indemnification for the consequences of
+         an insured event and proceedings whereby that insurer seeks contribution from another insurer considered to have provided
+         cover for the same event.
+      
+It is for the national court seised of the original claim to verify the existence of such a connection, in the sense that
+         it must satisfy itself that the third-party proceedings do not seek to remove the defendant from the jurisdiction of the court
+         which would be competent in the case.
+      
+It follows that Article 6(2) of the Convention does not require the existence of any connection other than that which is sufficient
+         to establish that the choice of forum does not amount to an abuse.
+      
+It should be added in that respect that, with regard to third party proceedings, Article 6(2) merely determines which court
+         has jurisdiction and is not concerned with conditions for admissibility properly so-called. As regards procedural rules, reference
+         must be made to the national rules applicable by the national court (Case C-365/Hagen [1990] ECR I-1845, paragraphs and 19).
+      
+However, the application of national procedural rules may not impair the effectiveness of the Convention. A court may not
+         apply conditions of admissibility laid down by national law which would have the effect of restricting the application of
+         the rules of jurisdiction laid down in the Convention (Hagen, paragraph 20).
+      
+In the light of the foregoing considerations, the answer to the second question must be that Article 6(2) of the Convention
+         is applicable to third-party proceedings between insurers based on multiple insurance, in so far as there is a sufficient
+         connection between the original proceedings and the third-party proceedings to support the conclusion that the choice of forum
+         does not amount to an abuse.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (First Chamber) hereby rules:
+1.      Third-party proceedings between insurers based on multiple insurance are not subject to the provisions of Section of Title
+            II of the Convention of September on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters,
+            as amended by the Convention of October on the accession of the Kingdom of Denmark, Ireland and the United Kingdom
+            of Great Britain and Northern Ireland, by the Convention of October on the accession of the Hellenic Republic, by
+            the Convention of May on the accession of the Kingdom of Spain and the Portuguese Republic and by the Convention of
+            November on the accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden.
+2.      Article 6(2) of the Convention is applicable to third-party proceedings between insurers based on multiple insurance, in so
+            far as there is a sufficient connection between the original proceedings and the third-party proceedings to support the conclusion
+            that the choice of forum does not amount to an abuse.
+[Signatures]
+** Language of the case: French.
+      
+Top  

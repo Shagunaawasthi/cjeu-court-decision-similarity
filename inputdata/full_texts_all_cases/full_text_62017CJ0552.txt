@@ -1,0 +1,114 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+December (
+*)
+(Reference for a preliminary ruling — Taxation — Harmonisation of fiscal legislation — Common system of value added tax (VAT) — Directive 2006/112/EC — Special scheme for travel agents — Supply of a holiday residence rented from other taxable persons — Additional services — Ancillary or principal services — Reduced rate of tax — Accommodation supplied by a travel agent in his own name)
+In Case C‑552/17,
+REQUEST for a preliminary ruling under Article TFEU from the Bundesfinanzhof (Federal Finance Court, Germany), made by decision of August 2017, received at the Court on September 2017, in the proceedings
+Alpenchalets Resorts GmbH
+v
+Finanzamt München Abteilung Körperschaften
+THE COURT (Fourth Chamber),
+composed of T. von Danwitz, President of the Seventh Chamber, acting as President of the Fourth Chamber, K. Jürimäe, C. Lycourgos, E. Juhász (Rapporteur) and C. Vajda, Judges,
+Advocate General: M. Bobek,
+Registrar: K. Malacek, Administrator,
+having regard to the written procedure and further to the hearing on July 2018,
+after considering the observations submitted on behalf of:
+–
+Alpenchalets Resorts GmbH, by M. Laukemann, Rechtsanwalt, and E. Meilinger,
+–
+the German Government, by T. Henze and R. Kanitz, acting as Agents,
+–
+the Netherlands Government, by M. Bulterman and M. Noort, acting as Agents,
+–
+the European Commission, by N. Gossement and B.-R. Killmann, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of the first subparagraph of Article 98(2) and Article of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1, ‘the VAT Directive’).
+The request has been made in the context of proceedings between Alpenchalets Resorts GmbH (‘Alpenchalets’) and the Finanzamt München (Munich Tax Office, Germany) concerning the taxation of the supply of holiday accommodation.
+Legal context
+European Union law
+Under Article 98(1) and (2) of the VAT Directive, in Title VIII thereof, entitled ‘Rates’, Member States may apply either one or two reduced rates and the reduced rates apply only to supplies of goods or services in the categories set out in Annex III to the VAT Directive.
+Annex III contains the ‘Lists of supplies of goods and services to which the reduced rates referred to in Article may be applied’ and point thereof lays down:
+‘accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites;
+…’
+Chapter 3, entitled ‘Special scheme for travel agents’, of Title XII of the VAT Directive, concerning ‘Special schemes’, includes Article which provides:
+‘1.   Member States shall apply a special VAT scheme, in accordance with this Chapter, to transactions carried out by travel agents who deal with customers in their own name and use supplies of goods or services provided by other taxable persons, in the provision of travel facilities.
+This special scheme shall not apply to travel agents where they act solely as intermediaries and to whom point (c) of the first paragraph of Article applies for the purposes of calculating the taxable amount.
+2.   For the purposes of this Chapter, tour operators shall be regarded as travel agents.’
+Article of that directive lays down:
+‘Transactions made, in accordance with the conditions laid down in Article 306, by the travel agent in respect of a journey shall be regarded as a single service supplied by the travel agent to the traveller.
+The single service shall be taxable in the Member State in which the travel agent has established his business or has a fixed establishment from which the travel agent has carried out the supply of services.’
+Under Article of that directive:
+‘The taxable amount and the price exclusive of VAT, within the meaning of point (8) of Article 226, in respect of the single service provided by the travel agent shall be the travel agent’s margin, that is to say, the difference between the total amount, exclusive of VAT, to be paid by the traveller and the actual cost to the travel agent of supplies of goods or services provided by other taxable persons, where those transactions are for the direct benefit of the traveller.’
+Article of the VAT Directive provides:
+‘If transactions entrusted by the travel agent to other taxable persons are performed by such persons outside the [Union], the supply of services carried out by the travel agent shall be treated as an intermediary activity exempted pursuant to Article 153.
+If the transactions are performed both inside and outside the [Union], only that part of the travel agent’s service relating to transactions outside the [Union] may be exempted.’
+Article of the VAT Directive lays down:
+‘VAT charged to the travel agent by other taxable persons in respect of transactions which are referred to in Article and which are for the direct benefit of the traveller shall not be deductible or refundable in any Member State.’
+German law
+The Umsatzsteuergesetz (Law on turnover tax) of February (BGBl. I, p. 386), as amended by the Law of December (BGBl. I, p. 3950) (‘the Law on VAT’), provides, in Paragraph 12, headed ‘Rates’:
+‘1.   The rate of tax amounts to 19% of the taxable amount of all taxable transactions (Paragraphs 10, 11, 25(3), 25a(3) and 25a(4)).
+2.   The rate of tax shall be reduced to 7% in respect of the following transactions:
+…
+11.   the letting of living and sleeping rooms which a trader keeps available for the short-term accommodation of guests, as well as the short-term letting of camping areas. The first sentence shall not apply to the supply of services which are not directly used for the letting, even if such services are covered by the rental charge.’
+Article of that law, headed ‘Taxation of travel services’ is worded as follows:
+‘1.   The following provisions shall apply to travel services supplied by a trader that are not intended for the purposes of the customer’s business, where the trader deals with customers in his own name and makes use of travel-related inputs. The service supplied by the trader is deemed to fall within the category of other services. If the trader provides several services of this nature to a customer in the context of one journey, those services will be deemed to be the supply of a single service falling within the other services category. The place at which the other service is provided shall be determined in accordance with Paragraph 3a(1). Travel-related inputs are supplies and other services provided by third parties which are for the direct benefit of the traveller.
+2.   Other services are exempt where the travel-related inputs attributed to them are provided on the territory of a third country. The trader shall establish that the condition for the exemption is met. The Bundesministerium der Finanzen (Federal Ministry of Finance) may, with the consent of the Bundesrat (Upper Chamber of the Parliament), determine by order the manner in which the trader must prove [that requirement].
+3.   The taxable value of other services shall be the difference between the amount paid by the customer for the service and the amount paid by the trader for travel-related inputs. Value added tax shall not form part of the taxable amount. Instead of calculating the taxable amount for each individual service supplied, the trader may calculate it either for groups of services or for all the services provided within the taxation period.
+4.   By way of exception to Paragraph 15(1), the trader may not deduct as input tax tax charged to that trader, separately, for travel-related inputs, as well as the amount of tax payable pursuant to Article 13b. Otherwise Paragraph shall apply in full.
+…’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+In the course of 2011, Alpenchalets rented residences in Germany, Austria, and Italy from their owners and let them, subsequently, in its own name, to individual customers as holiday rentals. In addition to accommodation, the services included the cleaning of the accommodation and, in some cases, a laundry and ‘bread roll’ service.
+Alpenchalets calculated VAT on the basis of its profit margin, in accordance with Paragraph of the Law on VAT, which covers travel services, and applied the standard tax rate. Subsequently, by its letter of May 2013, it requested an amendment of its tax assessment and the application of the reduced tax rate, pursuant to Paragraph 12(2) of the Law on VAT. The Munich Tax Office refused that request.
+Alpenchalets brought proceedings before the Finanzgericht (Finance Court, Germany) which dismissed the action on the ground that the ‘taxation of margins’ rule was applicable to the travel services at issue, in accordance with Paragraph of the Law on VAT, and that the application of the reduced rate of tax was not possible because the supply of a travel service under that provision was not included in the list of tax rate reductions set out in Paragraph 12(2) of that law.
+For the purpose of challenging that decision, Alpenchalets brought proceedings before the Bundesfinanzhof (Federal Finance Court, Germany).
+The referring court notes, first, that it follows from the judgment of November 1992, Van Ginkel (C‑163/91, EU:C:1992:435), that the special scheme for travel agents is applicable to the services of a travel agent which include only accommodation. While noting that that finding had been confirmed by the subsequent case-law of the Court, the referring court questions whether that finding ought to be re-examined, in the light of the judgment of June 2007, Ludwig (C‑453/05, EU:C:2007:369), in which a distinction was made between the principal and ancillary nature of the services.
+Second, the referring court takes the view that it is necessary to verify whether it is possible, in the case before it, to apply a reduced rate of VAT, although transactions carried out by travel agents, within the meaning of Article of the VAT Directive, are to be considered as such and in that capacity alone are not covered by Annex III of that directive. According to that court, in so far as the rental of holiday accommodation outside the special scheme for travel agents is subject to the reduced rate of VAT, it is possible to accept that that reduced rate applies to the supply of a similar service which is covered by that specific scheme.
+In those circumstances, the Bundesfinanzhof (Federal Finance Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is the supply of a service which consists essentially in the provision of holiday accommodation and in which additional service components are to be regarded merely as ancillary to the principal supply, in accordance with the judgment of the Court of Justice of the European Union of November 1992, Van Ginkel (C‑163/91, EU:C:1992:435), subject to the special scheme for travel agents under Article of [the VAT Directive]?
+(2)
+If the first question is answered in the affirmative, can that supply of service also be subject, in addition to the special scheme for travel agents under Article of [the VAT Directive], to the tax rate reduction for the provision of holiday accommodation, as referred to in Article 98(2) of [that directive] in conjunction with Annex III, point (12)?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks, in essence, whether Articles to of the VAT Directive must be interpreted as meaning that the mere supply by a travel agent of holiday accommodation rented from other taxable persons or such a supply of a holiday residence combined with the supply of additional ancillary services is covered by the special VAT scheme for travel agents.
+It must, first, be observed that, pursuant to Article of the VAT Directive, that special scheme applies only where the travel agent uses for the organisation of the journey supplies of goods and services bought in from other taxable persons (see, to that effect, judgment of October 2012, Kozak, C‑557/11, EU:C:2012:672, paragraphs and 21).
+The request for a preliminary ruling does not include any information as to whether or not the owners or operators of properties, who have leased their residences to Alpenchalets, are subject to VAT.
+Accordingly, the Court can only answer the first question on the assumption that those owners and operators of properties have the status of taxable persons for the purpose of VAT, which is a matter to be determined by the referring court.
+As is apparent from the wording of Article of the VAT Directive and the case-law of the Court, the special scheme for travel agents applies only where a travel agent uses goods or services supplied by third parties, in the provision of travel, which means that its own services, namely services which have not been bought in from third parties but supplied by the travel agent itself, are not covered by that scheme (see, to that effect, judgment of October 2012, Kozak, C‑557/11, EU:C:2012:672, paragraphs 18, 21, and 27).
+In that context, the single service rule to which the referring court refers and referred to in paragraph of the judgment of June 2007, Ludwig (C‑453/05, EU:C:2007:369), which applies under the normal VAT regime, cannot affect the assessment of that concept in the context of the special VAT scheme applicable to transactions carried out by travel agents (see, to that effect, judgment of October 2012, Kozak, C‑557/11, EU:C:2012:672, paragraph 24).
+As regards the application of that special scheme to the supply of a holiday residence bought in from third parties, it must be noted that, as pointed out by the referring court, the Court held, in paragraphs and of the judgment of November 1992, Van Ginkel (C‑163/91, EU:C:1992:435), that the mere supply of accommodation by a travel agent can be covered by the special scheme. In order to meet the needs of customers, travel agents offer widely different types of holidays and journeys, allowing the traveller to combine, as he wishes, transport, accommodation and any other services which those undertakings may provide. The exclusion from the field of application of Article of the VAT Directive of services supplied by a travel agent on the sole ground that they cover accommodation only would lead to a complicated tax system in which the VAT rules applicable would depend upon the constituents of the services offered to each traveller. Such a tax system would fail to comply with the aims of the Directive.
+Several judgments of the Court have confirmed that case-law.
+In the MyTravel case (judgment of October 2005, C‑291/03, EU:C:2005:591), the travel agent organised package holidays that combined accommodation with in-house transport, which it accordingly supplied itself. As is apparent from paragraph of that judgment, it was necessary to apportion the price of the package between the price covered by the special scheme and that of the in-house services. Carrying out that apportionment, the Court accepted that the special scheme can apply to the supply of accommodation only.
+It follows from paragraph of the judgment of October 2005, ISt (C‑200/04, EU:C:2005:608) that the special scheme for travel agents applies to a trader who offers to its customers, in return for a package price, in addition to services associated with language training and education, which it supplies itself, services bought in from other taxable persons, such as travel to the host State and and/or the stay in that State. The term ‘and/or’ demonstrates that one of those services can in itself be sufficient for that special scheme to apply.
+In its judgment of December 2010, Minerva Kulturreisen (C‑31/10, EU:C:2010:762, paragraph 21), the Court held that, although any service whatsoever supplied by a travel agent which is unrelated to a journey does not fall under the special scheme provided for in Article of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1, as amended), the provisions of Article having been included in Article of the VAT Directive, the supply by a travel agent of holiday accommodation comes within the scope of Article 26, even if that service covers accommodation only and not transport.
+The order of March 2012, Star Coaches (C‑220/11, EU:C:2012:120), does not enable a different conclusion to be reached.
+First, in paragraph of that order, the Court clearly confirmed the case-law stemming from the judgment of November 1992, Van Ginkel (C‑163/91, EU:C:1992:435).
+Second, the Court merely noted, in that case, that the transport services provided by a trader cannot be covered by Article of the VAT Directive where they are provided, through a subcontractor, not to the traveller himself but to travel agents and that transport operator does not have any other feature which is capable of making its services comparable to those of a travel agent or tour operator.
+Since the mere supply of holiday accommodation by the travel agent is sufficient for the special scheme under Articles to of the VAT Directive to apply, the importance of other supplies of goods or services, which may be combined with the supply of accommodation, cannot have a bearing on the legal classification of the situation at issue, that is to say, that that situation is covered by the special scheme for travel agents.
+Thus, it is not necessary to examine in the light of the case-law stemming from the judgment of June 2007, Ludwig (C‑453/05, EU:C:2007:369), whether those supplies of goods or services which are combined with the supply of accommodation by the travel agent are principal or ancillary in nature.
+Having regard to the foregoing, the answer to the first question is that Articles to of the VAT Directive must be interpreted as meaning that the mere supply by a travel agent of holiday accommodation rented from other taxable persons or such a supply of a holiday residence combined with the supply of additional ancillary services, regardless of the importance of those ancillary services, each amount to a single service covered by the special scheme for travel agents.
+The second question
+By its second question, the referring court asks, in essence, whether Article 98(2) of the VAT Directive must be interpreted as meaning that the supply of travel agent services consisting of the supply of holiday accommodation, covered by Article of the VAT Directive, can be subject to a reduced tax rate or one of the reduced rates set out in Article 98(2).
+In that regard, it must be noted that, according to the wording of Article itself, transactions made, in accordance with the conditions laid down in Article of that directive, by the travel agent in respect of a journey are regarded, for the purpose of their tax treatment, as a single service supplied by the travel agent to the traveller. It follows that, since the supply of holiday accommodation is covered by the special scheme for travel agents, its tax treatment is not subject to the rules applicable to the supply of holiday accommodation, but that treatment is determined by the special scheme established by the VAT Directive for single services supplied by travel agents.
+Moreover, it must be noted that, pursuant to Article 98(2), the reduced rate can apply only to goods or services in categories set out in Annex III to the VAT Directive.
+A single service supplied by travel agents as provided for in Article of that directive is not included therein.
+Accordingly, the reduced rate laid down in Article 98(2) of the VAT Directive does not apply to the supply of holiday accommodation covered by the special scheme for travel agents.
+The answer to the second question is, consequently, that Article 98(2) of the VAT Directive must be interpreted as meaning that the supply of travel agent services consisting of the supply of holiday accommodation, covered by Article of that directive, cannot be subject to a reduced tax rate or one of the reduced rates set out in Article 98(2).
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fourth Chamber) hereby rules:
+ 
+1.
+Articles to of Council Directive 2006/112/EC of November on the common system of value added tax must be interpreted as meaning that the mere supply by a travel agent of holiday accommodation rented from other taxable persons or such a supply of a holiday residence combined with the supply of additional ancillary services, regardless of the importance of those ancillary services, each amount to a single service covered by the special scheme for travel agents.
+ 
+2.
+Article 98(2) of Directive 2006/112/EC of November on the common system of value added tax must be interpreted as meaning that the supply of travel agent services consisting of the supply of holiday accommodation, covered by Article of that directive, cannot be subject to a reduced tax rate or one of the reduced rates set out in Article 98(2).
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

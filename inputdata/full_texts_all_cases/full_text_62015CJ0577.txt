@@ -1,0 +1,235 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+December (
+*)
+‛Appeal — Application to initiate an investigation into the Estonian and Finnish supervisory authorities — Decision of the European Banking Authority (EBA) — Board of Appeal decision of the European Supervisory Authorities — Regulation (EU) No 1093/— Articles and — Board of Appeal — Period allowed for commencing proceedings — Excusable error’
+In Case C‑577/P,
+APPEAL under Article of the Statute of the Court of Justice of the European Union brought on November 2015,
+SV Capital OÜ, established in Tallinn (Estonia), represented by M. Greinoman, vandeadvokaat,
+appellant,
+the other parties to the proceedings being:
+European Banking Authority (EBA), represented by J. Overett Somnier and Z. Giotaki, acting as Agents, and F. Tuytschaever, advocaat,
+defendant at first instance,
+supported by:
+European Commission, represented by W. Mölls and K.-P. Wojcik, acting as Agents,
+intervener at first instance,
+THE COURT (First Chamber),
+composed of R. Silva de Lapuerta (Rapporteur), President of the Chamber, J.-C. Bonichot, A. Arabadjiev, C.G. Fernlund and S. Rodin, Judges,
+Advocate General: P. Mengozzi,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+By its appeal, SV Capital OÜ asks the Court to set aside the judgment of the General Court of the European Union of September 2015, SV Capital v EBA (T‑660/14, EU:T:2015:608) (‘the judgment under appeal’) in so far as, by that judgment:
+—
+the General Court dismissed, as inadmissible, its action seeking annulment of Decision Cof the European Banking Authority (EBA) of February rejecting its request to initiate an investigation into the Estonian and Finnish financial sector supervisory authorities, pursuant to Article 17(2) of Regulation (EU) No 1093/of the European Parliament and of the Council of November establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC (OJ L 331, p. 12) (‘the EBA decision of February 2014’), because of an alleged breach of EU law and,
+—
+although the General Court dismissed, as partly inadmissible, its action seeking annulment of Decision 2014-C1-of the Board of Appeal of the European Supervisory Authorities of July dismissing the appeal brought against the EBA decision of February (‘the Board of Appeal decision of July 2014’), it annulled that decision.
+Legal context
+Directive 2006/48/EC
+Directive 2006/48/EC of the European Parliament and of the Council of June relating to the taking up and pursuit of the business of credit institutions (OJ L 177, p. 1), as amended by Directive 2010/76/EU of the European Parliament and of the Council of November (OJ L 329, p. 3) (‘Directive 2006/48’), provides in Article thereof:
+‘1.   The competent authorities shall grant an authorisation to the credit institution only when there are at least two persons who effectively direct the business of the credit institution.
+They shall not grant authorisation if these persons are not of sufficiently good repute or lack sufficient experience to perform such duties.
+…
+2.   Each Member State shall require that:
+(a)
+any credit institution which is a legal person and which, under its national law, has a registered office shall have its head office in the same Member State as its registered office; and
+(b)
+any other credit institution shall have its head office in the Member State which granted its authorisation and in which it actually carries on its business.’
+Article of Directive 2006/states:
+‘1.   Home Member State competent authorities shall require that every credit institution have robust governance arrangements, which include a clear organisational structure with well-defined, transparent and consistent lines of responsibility, effective processes to identify, manage, monitor and report the risks it is or might be exposed to, adequate internal control mechanisms, including sound administration and accounting procedures, and remuneration policies and practices that are consistent with and promote sound and effective risk management.
+2.   The arrangements, processes and mechanisms referred to in paragraph shall be comprehensive and proportionate to the nature, scale and complexity of the credit institution’s activities. The technical criteria laid down in Annex V shall be taken into account.’
+Article of that directive reads as follows:
+‘1.   The prudential supervision of a credit institution, including that of the activities it carries on accordance with Articles and 24, shall be the responsibility of the competent authorities of the home Member State, without prejudice to those provisions of this Directive which give responsibility to the competent authorities of the host Member State.
+2.   Paragraph shall not prevent supervision on a consolidated basis pursuant to this Directive.’
+Under Article of that directive:
+‘The competent authorities of the Member States concerned shall collaborate closely in order to supervise the activities of credit institutions operating, in particular through a branch, in one or more Member States other than that in which their head offices are situated. They shall supply one another with all information concerning the management and ownership of such credit institutions that is likely to facilitate their supervision and the examination of the conditions for their authorisation, and all information likely to facilitate the monitoring of such institutions, in particular with regard to liquidity, solvency, deposit guarantees, the limiting of large exposures, administrative and accounting procedures and internal control mechanisms.’
+Regulation No 1093/Recital of Regulation No 1093/2010, as amended by Directive 2014/17/EU of the Parliament and of the Council of February (OJ L 60, p. 34) (‘Regulation No 1093/2010’) states:
+‘It is necessary to ensure that the parties affected by decisions adopted by the [EBA] may have recourse to the necessary remedies. To protect effectively the rights of parties, and for reasons of procedural economy, where the [EBA] has decision-making powers, parties should be granted a right of appeal to a Board of Appeal. For reasons of efficiency and consistency, the Board of Appeal should be a joint body of the [European Supervisory Authorities], independent from their administrative and regulatory structures. The decisions of the Board of Appeal should be subject to appeal before the Court of Justice of the European Union.’
+Article 1(2) of Regulation No 1093/provides:
+‘The [EBA] shall act within the powers conferred by this Regulation and within the scope of Directive 94/19/EC [of the European Parliament and of the Council of May on deposit-guarantee schemes (OJ L 135, p. 5)], Directive 2002/87/EC [of the European Parliament and of the Council of December on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives 73/239/EEC, 79/267/EEC, 92/49/EEC, 92/96/EEC, 93/6/EEC and 93/22/EEC, and Directives 98/78/EC and 2000/12/EC of the European Parliament and of the Council (OJ L 35, p. 1)], Regulation (EC) No 1781/[of the European Parliament and of the Council of November on information on the payer accompanying transfers of funds (OJ L 345, p. 1)], Regulation (EU) No 575/of the European Parliament and of the Council of June on prudential requirements for credit institutions and investment firms [and amending Regulation (EU) No 648/(OJ L 176, p. 1)], Directive 2013/36/EU of the European Parliament and of the Council of June on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms[, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, p. 338)], and, to the extent that those acts apply to credit and financial institutions and the competent authorities that supervise them, within the relevant parts of Directive 2002/65/EC [of the European Parliament and of the Council of September concerning the distance marketing of consumer financial services and amending Council Directive 90/619/EEC and Directives 97/7/EC and 98/27/EC (OJ L 271, p. 16)], Directive 2005/60/EC [of the European Parliament and of the Council of October on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing (OJ L 309, p. 15)], Directive 2007/64/EC [of the European Parliament and of the Council of November 2007, on payment services in the internal market amending Directives 97/7/EC, 2002/65/EC, 2005/60/EC and 2006/48/EC and repealing Directive 97/5/EC (OJ L 319, p. 1),] and Directive 2009/110/EC [of the European Parliament and of the Council of September on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC (OJ L 267, p. 7)], including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the [EBA]. The [EBA] shall also act in accordance with Council Regulation (EU) No 1024/[of October conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, p. 63)].’
+Article of Regulation No 1093/states:
+‘1.   Where a competent authority has not applied the acts referred to in Article 1(2), or has applied them in a way which appears to be a breach of Union law, including the regulatory technical standards and implementing technical standards established in accordance with Articles to 15, in particular by failing to ensure that a financial institution satisfies the requirements laid down in those acts, the [EBA] shall act in accordance with the powers set out in paragraphs 2, and of this Article.
+2.   Upon a request from one or more competent authorities, the European Parliament, the Council, the Commission or the Banking Stakeholder Group, or on its own initiative, and after having informed the competent authority concerned, the [EBA] may investigate the alleged breach or non-application of Union law.
+Without prejudice to the powers laid down in Article 35, the competent authority shall, without delay, provide the [EBA] with all information which the [EBA] considers necessary for its investigation including as to how the acts referred to in Article 1(2) are applied in accordance with Union law.
+3.   The [EBA] may, not later than months from initiating its investigation, address a recommendation to the competent authority concerned setting out the action necessary to comply with Union law.
+The competent authority shall, within working days of receipt of the recommendation, inform the [EBA] of the steps it has taken or intends to take to ensure compliance with Union law.
+4.   Where the competent authority has not complied with Union law within month from receipt of the [EBA]’s recommendation, the Commission may, after having been informed by the [EBA] or on its own initiative, issue a formal opinion requiring the competent authority to take the action necessary to comply with Union law. The Commission’s formal opinion shall take into account the [EBA]’s recommendation.
+The Commission shall issue such a formal opinion no later than months after the adoption of the recommendation. The Commission may extend this period by month.
+The [EBA] and the competent authorities shall provide the Commission with all necessary information.
+5.   The competent authority shall, within working days of receipt of the formal opinion referred to in paragraph 4, inform the Commission and the [EBA] of the steps it has taken or intends to take to comply with that formal opinion.
+6.   Without prejudice to the powers of the Commission pursuant to Article TFEU, where a competent authority does not comply with the formal opinion referred to in paragraph within the period of time specified therein, and where it is necessary to remedy in a timely manner such non-compliance in order to maintain or restore neutral conditions of competition in the market or ensure the orderly functioning and integrity of the financial system, the [EBA] may, where the relevant requirements of the acts referred to in Article 1(2) are directly applicable to financial institutions, adopt an individual decision addressed to a financial institution requiring the necessary action to comply with its obligations under Union law including the cessation of any practice.
+The decision of the [EBA] shall be in conformity with the formal opinion issued by the Commission pursuant to paragraph 4.
+7.   Decisions adopted under paragraph shall prevail over any previous decision adopted by the competent authorities on the same matter.
+When taking action in relation to issues which are subject to a formal opinion pursuant to paragraph or a decision pursuant to paragraph 6, competent authorities shall comply with the formal opinion or the decision, as the case may be.
+8.   In the report referred to in Article 43(5), the [EBA] shall set out which competent authorities and financial institutions have not complied with the formal opinions or decisions referred to in paragraphs and of this Article.’
+Article of Regulation No 1093/relates to actions undertaken by the EBA in emergency situations.
+Article of Regulation No 1093/contains provisions on the settlement of disagreements between competent authorities in cross-border situations.
+Article of Regulation No 1093/provides:
+‘1.   Before taking the decisions provided for in this Regulation, the [EBA] shall inform any named addressee of its intention to adopt the decision, setting a time limit within which the addressee may express its views on the matter, taking full account of the urgency, complexity and potential consequences of the matter. This applies mutatis mutandis to recommendations as referred to in Article 17(3).
+2.   The decisions of the [EBA] shall state the reasons on which they are based.
+3.   The addressees of decisions of the [EBA] shall be informed of the legal remedies available under this Regulation.
+4.   Where the [EBA] has taken a decision pursuant to Article 18(3) or (4), it shall review that decision at appropriate intervals.
+5.   The decisions which the [EBA] takes pursuant to Articles 17, or shall be made public and shall state the identity of the competent authority or financial institution concerned and the main content of the decision, unless such publication is in conflict with the legitimate interests of financial institutions in the protection of their business secrets or could seriously jeopardise the orderly functioning and integrity of financial markets or the stability of the whole or part of the financial system of the Union.’
+According to Article 58(1) of Regulation No 1093/2010, the Board of Appeal is a joint body of the European Supervisory Authorities.
+Article of Regulation No 1093/states:
+‘1.   Any natural or legal person, including competent authorities, may appeal against a decision of the [EBA] referred to in Articles 17, and and any other decision taken by the [EBA] in accordance with the Union acts referred to in Article 1(2) which is addressed to that person, or against a decision which, although in the form of a decision addressed to another person, is of direct and individual concern to that person.
+2.   The appeal, together with a statement of grounds, shall be filed in writing at the [EBA] within months of the date of notification of the decision to the person concerned, or, in the absence of a notification, of the day on which the [EBA] published its decision.
+The Board of Appeal shall decide upon the appeal within months after the appeal has been lodged.
+3.   An appeal lodged pursuant to paragraph shall not have suspensive effect.
+However, the Board of Appeal may, if it considers that circumstances so require, suspend the application of the contested decision.
+4.   If the appeal is admissible, the Board of Appeal shall examine whether it is well founded. It shall invite the parties to the appeal proceedings to file observations on its own notifications or on communications from the other parties to the appeal proceedings, within specified time limits. Parties to the appeal proceedings shall be entitled to make oral representations.
+5.   The Board of Appeal may confirm the decision taken by the competent body of the [EBA], or remit the case to the competent body of the [EBA]. That body shall be bound by the Board of Appeal decision and that body shall adopt an amended decision regarding the case concerned.
+6.   The Board of Appeal shall adopt and make public its rules of procedure.
+7.   The decisions taken by the Board of Appeal shall be reasoned and shall be made public by the [EBA].’
+Article of Regulation No 1093/reads as follows:
+‘1.   Proceedings may be brought before the Court of Justice of the European Union, in accordance with Article TFEU, contesting a decision taken by the Board of Appeal or, in cases where there is no right of appeal before the Board of Appeal, by the [EBA].
+2.   Member States and the Union institutions, as well as any natural or legal person, may institute proceedings before the Court of Justice of the European Union against decisions of the [EBA], in accordance with Article TFEU.
+3.   In the event that the [EBA] has an obligation to act and fails to take a decision, proceedings for failure to act may be brought before the Court of Justice of the European Union in accordance with Article TFEU.
+4.   The [EBA] shall be required to take the necessary measures to comply with the judgment of the Court of Justice of the European Union.’
+Background to the dispute
+In the judgment under appeal, the General Court summarised the factual background to the dispute before it as follows:
+‘By letter of October 2012, the applicant, [SV Capital], requested the [EBA] to initiate an investigation, pursuant to Article of Regulation (EU) No 1093/..., into the Finnish and Estonian financial sector supervisory authorities (”the complaint”).
+In support of its complaint, the applicant invoked a breach of Articles and of Directive 2006/48/EC ... in that the supervisory authorities at issue failed to remove two directors of the branch of a Finnish bank, established in Estonia, who failed to satisfy the requirements of “sufficiently good repute [and] … sufficient experience” to direct the business of the credit institution at issue, within the meaning of Article 11(1) of that directive. In that regard, the applicant submitted that the directors in question made false statements in civil proceedings brought in Estonia against that branch.
+…
+By letter of January 2013, the EBA rejected the complaint as inadmissible on grounds of lack of competence and referred it to the Finnish and Estonian financial sector supervisory authorities ...
+By document of February 2013, the applicant lodged an appeal with the Board of Appeal of the European Supervisory Authorities (“the Board of Appeal”), pursuant to Article 60(1) of Regulation No 1093/2010, against the letter of January 2013.
+By Decision 2013-of June 2013, the Board of Appeal, first, declared the complaint admissible under Article of Directive 2006/48, read in the light of the EBA Guidelines of November on the assessment of the suitability of members of the management body and key function holders and, secondly, remitted the case to the competent body of the EBA for it to rule on the merits, in accordance with Article 60(5) of Regulation No 1093/2010.
+By Decision DC of October 2013, the EBA took formal note of the admissibility of the complaint, in accordance with Articles 2.and 2.of its Internal Processing Rules on Investigation regarding Breach of [EU] Law ..., without prejudice to Article 17(2) of Regulation No 1093/2010.
+By Decision ... of February ..., the EBA rejected the complaint on the basis that there were insufficient grounds for initiating an investigation under Article of Regulation No 1093/2010.
+By document of March 2014, the applicant lodged an appeal against the EBA decision [of February 2014] before the Board of Appeal.
+By Decision ... of July ..., the Board of Appeal dismissed the appeal brought against the EBA decision [of February 2014]. In essence, the Board of Appeal, first, declared the appeal against the EBA decision [of February 2014] admissible and, then, dismissed it in its entirety as unfounded.
+As regards, first, the examination of the admissibility of the appeal, the Board of Appeal took the view that the EBA decision [of February 2014] constituted, in the particular circumstances of the individual case, an act open to challenge on the basis of Article of Regulation No 1093/2010, which permits any natural or legal person to appeal against a decision of the EBA addressed to him.
+As regards, next, the examination of the substance of the appeal, the Board of Appeal considered, first, that the assessment carried out by the EBA, to the effect that the two directors implicated in the applicant’s complaint did not hold key functions within the financial institution concerned, was without error and that the claims relating to the third director had not been established. Secondly, the Board of Appeal stated that, in the light of the fact that the applicant was not amongst the entities entitled to request the EBA to initiate an investigation into an alleged breach of EU law, this case concerned a refusal on the part of that authority to initiate an investigation on its own initiative. Moreover, it found that, in the light of the evidence furnished by the applicant in support of its claim that there had been a breach of EU law and the [Internal Processing Rules on Investigation regarding Breach of EU Law], it had not been demonstrated that the EBA had erred in the exercise of its discretion. Thirdly, the Board of Appeal stated that the failure on the part of the EBA to have given the applicant the opportunity to be heard before adopting its decision, as required under Article 39(1) of Regulation No 1093/2010, did not constitute a procedural defect such as to invalidate that decision. Fourthly, it had not been shown that the procedure envisaged prior to the adoption of the EBA decision [of February 2014] was not followed. Fifthly and finally, the Board of Appeal found that no breach by the EBA of Article of the Charter of Fundamental Rights of the European Union had been established.’
+The procedure before the General Court and the judgment under appeal
+By its action, SV Capital sought annulment, on the one hand, of the EBA decision of February and, on the other, of the Board of Appeal decision of July 2014. SV Capital also sought to have the case remitted to the competent body of the EBA for the purposes of examining the merits of its complaint.
+In support of its application, SV Capital put forward five pleas in law. The EBA, supported by the Commission, pleaded that the action was inadmissible in its entirety, claiming that its refusal to initiate an investigation on its own initiative, on the basis of Article of Regulation No 1093/2010, produced no legal effects vis-à-vis SV Capital.
+With regard to the admissibility of the action, first, in so far as it sought annulment of the EBA decision of February 2014, the General Court held that, at the time when the application was made, SV Capital was time-barred from contesting the EBA decision. Accordingly, that part of the action was inadmissible.
+Next, with regard to the admissibility of the action in so far as it sought annulment of the Board of Appeal decision of July 2014, the General Court found that that decision constituted a challengeable act. Accordingly, that part of the action was admissible.
+Lastly, with regard to the admissibility of SV Capital’s action in so far as it sought to have the case remitted to the competent body of the EBA for the purposes of examining the merits of its complaint, the General Court noted that, in an action for annulment, the EU Courts do not have jurisdiction to issue directions to the EBA. Consequently, the General Court declared that head of claim inadmissible.
+As to the substance, the General Court raised of its own motion, under Article 60(1) and (2) of Regulation No 1093/2010, the question of the Board of Appeal’s competence to decide on the appeal brought before it against the EBA decision of February 2014, and it held that the Board of Appeal did not have the competence to do so.
+In those circumstances, and without examining the merits of the pleas raised by SV Capital, the General Court upheld the action, in so far as it sought annulment of the Board of Appeal decision of July 2014, on the ground that the Board of Appeal did not have competence. Consequently, the General Court annulled the Board of Appeal decision of July and dismissed the action before it as to the remainder.
+Procedure before the Court
+SV Capital claims that the Court should:
+—
+set aside the judgment under appeal in so far as (i) it declares the action seeking annulment of the EBA decision of February inadmissible, (ii) it declares the action seeking annulment of the Board of Appeal decision of July partly inadmissible and (iii) it rules on costs;
+—
+refer the case back to the General Court; and
+—
+order the defendant to pay the costs of the appeal and order the intervener to bear its own costs.
+The EBA contends that the Court should:
+—
+primarily:
+—
+set aside paragraph of the operative part of the judgment under appeal and dismiss the application against the Board of Appeal decision of July as inadmissible, and
+—
+dismiss the appeal in so far as it relates to paragraph of the operative part of the judgment under appeal;
+—
+in the alternative, dismiss the appeal in its entirety; and
+—
+order the appellant to pay the costs of the proceedings before the General Court and the Court of Justice.
+The Commission claims that the Court should:
+—
+set aside the judgment under appeal in respect of point of its operative part;
+—
+dismiss SV Capital’s application against the Board of Appeal decision of July as inadmissible;
+—
+dismiss the appeal in respect of point of the operative part of the judgment under appeal as unfounded; and
+—
+order the appellant to pay the costs of the proceedings before the General Court and the Court of Justice.
+The appeal
+Since the judgment under appeal relates, on the one hand, to an application for annulment of the EBA decision of February and, on the other, to an application for annulment of the Board of Appeal decision of July 2014, the Court must examine the various grounds of appeal in so far as they relate to either of those decisions.
+The first to third grounds of appeal, relating to the General Court dismissing, as unfounded, the claim that the Board of Appeal decision of July should be annulled
+Arguments of the parties
+By its first ground of appeal, SV Capital claims that it made clear, in its action before the General Court, that the action related to the Board of Appeal decision of July only in so far as it dismissed the appeal as to the substance. SV Capital asserts that it did not, however, contest the decision in respect of admissibility or costs. SV Capital submits that the General Court nevertheless took a view, of its own motion, as to the Board of Appeal’s competence and, therefore, ruled ultra petita.
+By its second ground of appeal, SV Capital contends that the General Court also erred in law by misconstruing Article 60(1) of Regulation No 1093/2010, as interpreted in the light of recital thereof. The appellant submits that, under Article 17(2) of that regulation, read in conjunction with Article thereof, the Board of Appeal was entitled to rule on the appeal brought against the EBA decision of February 2014.
+By its third ground of appeal, SV Capital claims that the General Court infringed Article 48(2) of its Rules of Procedure, in the version applicable until December 2014, by holding that the argument that the Board of Appeal was competent to hear and determine the appeal, as raised in the proceedings before the General Court, was inadmissible. In fact, the parties were requested by the General Court itself to express a view as to whether the Board of Appeal had competence, and the appellant had simply answered the question put to it.
+The EBA and the Commission contend that those grounds of appeal should be dismissed.
+Findings of the Court
+With regard to the first ground of appeal, by which the appellant claims that the General Court ruled ultra petita, it is sufficient to note that the EU judicature is required to raise of its own motion questions as to the competence of the authority whose measure is being challenged before it, even where none of the parties has made any application to that effect, when the lack of competence of the authority which adopted the measure adversely affecting a party constitutes an absolute bar to proceeding with the case that the Court not only may but must raise of its own motion.
+According to the Court’s case-law, the question as to the competence of the authority which adopted the measure must be raised by the Court of its own motion even though none of the parties has asked it to do so (see, to that effect, judgments of September 1982, Amylum v Council, 108/81, EU:C:1982:322, paragraph 28, and of July 2000, Salzgitter v Commission, C‑210/P, EU:C:2000:397, paragraph and the case-law cited).
+The first ground of appeal must therefore be rejected.
+With regard to the second ground of appeal, the Court notes that, pursuant to Article of Regulation No 1093/2010, an appeal may be brought against an EBA decision by natural or legal persons, including competent authorities, to which it is addressed or, even if it is not addressed to them, by persons which are directly and individually concerned by that decision.
+However, as the General Court pointed out in paragraph of the judgment under appeal, in order for an appeal to the Board of Appeal to lie against an EBA decision, that decision must be either one of the decisions referred to in Articles to of Regulation No 1093/or a decision taken in accordance with the Union acts referred to in Article 1(2) thereof.
+As the General Court was fully entitled to note in paragraphs to of the judgment under appeal, none of those conditions is satisfied in the present case.
+In the first place, the EBA decision of February is not based on Article 1(2) of Regulation No 1093/2010. As the General Court rightly noted in paragraph of the judgment under appeal, notwithstanding the fact that infringement of certain provisions of Directive 2006/was alleged in support of the SV Capital’s complaint, the EBA did not express any view in that decision on whether or not that directive had been infringed by the competent authorities or by the credit institution concerned.
+In the second place, it is common ground that that decision is not one of the decisions, referred to in Articles and of Regulation No 1093/2010, by which the EBA may require national supervisory authorities to take specific action, respectively, to address an emergency or to settle disagreements that may arise in cross-border situations between those authorities.
+In the third place, contrary to the requirements of Article 17(1) of Regulation No 1093/2010, no breach of the regulatory technical standards and implementing technical standards established in accordance with Articles to of that regulation was alleged in support of that complaint.
+In the fourth place, the appellant is not one of the entities expressly referred to in Article 17(2) of Regulation No 1093/which may request the EBA to initiate an investigation into an alleged breach or failure to apply EU law. In particular, the appellant does not claim to be a member of the Banking Stakeholder Group, established in accordance with Article of Regulation No 1093/2010.
+Moreover, the General Court’s finding that the appellant is not one of the entities expressly referred to in Article 17(2) of Regulation No 1093/is in no way altered, contrary to what the appellant seems to claim, by the fact that the EBA may initiate investigations on its own initiative.
+Therefore, since the General Court’s findings in the judgment under appeal are not vitiated by any error of law, the second ground of appeal must also be rejected.
+With regard to the third ground of appeal, the Court observes that, in response to a request made by the General Court, the appellant submitted before that court a line of arguments going beyond the scope of the question put by that court.
+The appellant claimed that the application for annulment brought before the General Court was made within the prescribed time limit, since the administrative procedure continued until July and the lodging of that application for annulment may be characterised as a case of unforeseeable circumstances for the purposes of Article of the Statute of the Court of Justice of the European Union.
+In that regard, the Court notes that the appellant’s claim that it submitted observations merely in response to the question put to it by the General Court has no factual basis. As the General Court correctly observed in paragraph of the judgment under appeal, SV Capital’s reply in fact included two new pleas in law.
+It follows that the General Court was fully entitled to find that that argument was inadmissible.
+The third ground of appeal must, therefore, also be rejected.
+The fourth to sixth grounds of appeal, relating to the General Court dismissing, as unfounded, the claim that the EBA decision of February should be annulled
+Arguments of the parties
+By its fourth ground of appeal, SV Capital claims that, in so far as it sought annulment of the EBA decision of February 2014, its application was made within the period laid down in Article TFEU, since the administrative procedure before the Board of Appeal continued until July in the name of the EBA and of the European Supervisory Authorities. According to the appellant, the Board of Appeal’s lack of competence may result in its decision being annulled, but cannot affect the period prescribed in Article TFEU. Therefore, there is no basis for the claim, in paragraph of the judgment under appeal, that it would have been possible to bring an action before the General Court against the EBA decision of February 2014, in parallel and concomitantly with an appeal before the Board of Appeal. In the appellant’s view, such an action before the General Court would have been inadmissible under Article TFUE in the absence of a final administrative act.
+By its fifth ground of appeal, SV Capital claims that the General Court infringed Article of the Statute of the Court of Justice of the European Union, since it was not possible to bring an action within two months of receipt of the decision of February on account of an excusable error. According to appellant, the fact that the Board of Appeal found that its appeal was admissible and examined the substance may have led to ‘a pardonable confusion’. Even if the Board of Appeal lacked competence to decide on the appeal seeking annulment of the EBA decision of February 2014, it never raised the argument that it was a matter for the General Court rather than the Board of Appeal to hear and determine the appeal. By ruling on the appeal before it, the Board of Appeal implied that it was the correct forum. Accordingly, the fact that the action was brought before the General Court after the expiry of two-month period following receipt of the EBA decision of February should be regarded as attributable to an excusable error.
+By its sixth ground of appeal, SV Capital submits that, by holding, in paragraph of the judgment under appeal, that the action for annulment of the EBA decision of February was inadmissible in any event since there was no challengeable act, the General Court misapplied Article TFEU and Articles 60(1) and 61(1) of Regulation No 1093/2010. In the appellant’s opinion, the action brought against that decision was admissible because the decision was addressed to the appellant and was of direct and individual concern to it.
+The EBA and the Commission contend that those grounds of appeal should be rejected.
+Findings of the Court
+The fourth ground of appeal relates to the considerations set out in paragraphs et seq. of the judgment under appeal, referring to the settled case-law that the time limit for bringing an action is a matter of public policy and the EU Courts must ascertain of their own motion whether that time limit has been observed (see, to that effect, order of September 2013, ClientEarth v Council, C‑573/P, not published, EU:C:2013:564, paragraph and the case-law cited).
+As is apparent from the sixth paragraph of Article TFEU, actions for annulment are to be brought within two months of the publication of the measure, or of its notification to the plaintiff, or, in the absence thereof, of the day on which it came to the knowledge of the latter, as the case may be. In the present case, SV Capital was given notification of the EBA decision on February 2014. Therefore, when the rules for calculating the time limits laid down in Articles and of the Rules of Procedure of the General Court, which correspond to Article and of the Rules of Procedure of the Court of Justice, are applied, at the time SV Capital brought the action before the General Court, namely on September 2014, it was time-barred from contesting the EBA decision, as the General Court found in paragraph of the judgment under appeal.
+The General Court also held, in paragraph of the judgment under appeal, that the appellant was not justified in pleading either a situation of force majeure, under the second paragraph of Article of the Statute of the Court of Justice of the European Union, or the existence of an excusable error.
+Those findings are not vitiated by any error of law.
+The Court has repeatedly held that no derogation from the application of the European Union’s rules on procedural time limits may be made save where the circumstances are quite exceptional, in the sense of being unforeseeable or amounting to force majeure, in accordance with the second paragraph of Article of the Statute of the Court of Justice of the European Union, since the strict application of those rules serves the requirements of legal certainty and the need to avoid any discrimination or arbitrary treatment in the administration of justice (order of November 2010, Internationale Fruchtimport Gesellschaft Weichert v Commission, C‑73/P, EU:C:2010:684, paragraph and case-law cited).
+Contrary to the appellant’s assertions, proceedings did not ‘continue’ after the EBA adopted its decision on February 2014, and the commencement of proceedings before the Board of Appeal did not affect the calculation of the time limit for bringing an action relating to a decision taken previously by the EBA, given its lack of competence.
+The fourth ground of appeal must therefore be dismissed.
+With regard to the fifth ground of appeal, alleging that SV Capital made an excusable error, it is apparent from the Court’s case-law that, in the context of the European Union’s rules on time limits for instituting proceedings, the concept of excusable error justifying a derogation from those rules can concern only exceptional circumstances in which, in particular, the conduct of the institution concerned has been, either alone or to a decisive extent, such as to give rise to a pardonable confusion in the mind of a party acting in good faith and displaying all the diligence required of a normally well-informed person (see order of November 2010, Internationale Fruchtimport Gesellschaft Weichert v Commission, C‑73/P, EU:C:2010:684, paragraph and case-law cited).
+In the present case, as the General Court noted in paragraph of the judgment under appeal, no specific assurance was provided to SV Capital as regards the Board of Appeal’s competence to hear and determine an appeal concerning the EBA decision which was subsequently adopted.
+In particular, contrary to the appellant’s assertions, neither the fact that the EBA failed to object on the ground that the Board of Appeal lacked competence to rule on an EBA decision nor the Board of Appeal’s erroneous conclusion that it had competence to do so can be characterised as conducts such as to give rise to a pardonable confusion in the mind of a party.
+It follows that the General Court was fully entitled to find that there was no excusable error such as to permit a derogation from the requirement to observe the prescribed time limit for instituting proceedings.
+The fifth ground of appeal must, therefore, be rejected.
+By its sixth ground of appeal, the appellant submits that, by the judgment under appeal, the General Court infringed Article TFEU and Articles 60(1) and 61(1) of Regulation No 1093/2010. In that respect, it is sufficient to note that, as is apparent from paragraph of the judgment under appeal, it was purely for the sake of completeness that the General Court stated that the action would have been dismissed as inadmissible on the ground that there was no challengeable act.
+It is settled case-law that complaints directed against grounds included in a judgment of the General Court purely for the sake of completeness cannot lead to the judgment being set aside and are therefore ineffective (see judgments of September 2010, Commission v Deutsche Post, C‑399/P, EU:C:2010:481, paragraph 75, and of March 2011, Anheuser-Busch v Budějovický Budvar, C‑96/P, EU:C:2011:189, paragraph and the case-law cited).
+Consequently, the sixth ground of appeal must be rejected as ineffective.
+The seventh to eleventh grounds of appeal
+Arguments of the parties
+SV Capital reiterates the following submissions, which are based on the arguments put forward in its action before the General Court, since that court did not rule on the substance of that action:
+—
+the EBA decision of February is vitiated by an error of fact;
+—
+the EBA failed to exercise its discretion in accordance with the applicable law and the limits of that discretion;
+—
+the EBA infringed Article 39(1) of Regulation No 1093/and Article of its Code of Good Administrative Behaviour;
+—
+the EBA infringed Articles 3.to 3.of its internal rules; and
+—
+in reviewing the appellant’s complaint and in making its decision, the EBA misused its power and acted unreasonably.
+The EBA and the Commission contend that those grounds of appeal are inadmissible.
+Findings of the Court
+According to settled case-law, it is apparent from Article TFEU, the first paragraph of Article of the Statute of the Court of Justice of the European Union and Articles 168(1)(d) and of the Rules of Procedure of the Court of Justice that an appeal must indicate precisely the contested elements of the judgment under appeal and also the legal arguments specifically advanced in support of the appeal, failing which the appeal or the ground of appeal in question will be dismissed as inadmissible (see, inter alia, judgment of July 2014, Telefónica and Telefónica de España v Commission, C‑295/P, EU:C:2014:2062, paragraph 29, and order of February 2015, Meister v Commission, C‑327/P, not published, EU:C:2015:99, paragraph 12). The seventh to eleventh grounds of appeal do not in any way relate to the judgment under appeal; rather, they concern the EBA decision of February 2014. For that reason alone, they must be rejected as inadmissible.
+It follows from all of the foregoing considerations that the appeal must be dismissed in its entirety.
+Costs
+In accordance with Article 184(2) of the Rules of Procedure of the Court of Justice, where the appeal is unfounded, the Court is to make a decision as to the costs. Under Article of those rules, which is applicable to the procedure on appeal by virtue of Article 184(1) thereof, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings.
+Since SV Capital has been unsuccessful and the EBA has applied for costs, SV Capital must be ordered to pay the costs of the appeal proceedings.
+Article 140(1) of the Rules of Procedure of the Court of Justice, which is applicable to the procedure on appeal by virtue of Article 184(1) thereof, provides that the Member States and institutions which have intervened in the proceedings are to bear their own costs.
+Accordingly, the Commission, which has intervened in the proceedings, must bear its own costs.
+ 
+On those grounds, the Court (First Chamber) hereby:
+ 
+1.
+Dismisses the appeal;
+ 
+2.
+Orders SV Capital OÜ to bear its own costs and, in addition, to pay the costs incurred by the European Banking Authority (EBA);
+ 
+3.
+Orders the European Commission to bear its own costs.
+ 
+Silva de Lapuerta
+Bonichot
+Arabadjiev
+Fernlund
+Rodin
+Delivered in open court in Luxembourg on December 2016.
+A. Calot Escobar
+Registrar
+R. Silva de Lapuerta
+President of the First Chamber
+(
+*)	* Language of the case: English.
+Top  

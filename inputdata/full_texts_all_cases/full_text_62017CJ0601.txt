@@ -1,0 +1,83 @@
+
+JUDGMENT OF THE COURT (Eighth Chamber)
+September (
+*)
+(Reference for a preliminary ruling — Air transport — Regulation (EC) No 261/— Article 8(1) — Reimbursement of the price of a ticket in the event of cancellation of a flight — Commission collected by a person acting as an intermediary between the passenger and the air carrier when the ticket was bought — Included)
+In Case C‑601/17,
+REQUEST for a preliminary ruling under Article TFEU from the Amtsgericht Hamburg (Local Court, Hamburg, Germany), made by decision of October 2017, received at the Court on October 2017, in the proceedings
+Dirk Harms,
+Ann-Kathrin Harms,
+Nick-Julius Harms,
+Tom-Lukas Harms,
+Lilly-Karlotta Harms,
+Emma-Matilda Harms
+v
+Vueling Airlines SA,
+THE COURT (Eighth Chamber),
+composed of J. Malenovský (Rapporteur), President of the Chamber, D. Šváby and M. Vilaras, Judges,
+Advocate General: Y. Bot,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Vueling Airlines SA, by B. Liebert, Rechtsanwältin,
+–
+the Polish Government, by B. Majczyna, acting as Agent,
+–
+the European Commission, by G. Braun and N. Yerrell, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 8(1)(a) of Regulation (EC) No 261/of the European Parliament and of the Council of February establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation (EEC) No 295/(OJ L 46, p. 1).
+The request has been made in proceedings between Mr and Mrs Harms and their four children, on the one hand, and Vueling Airlines SA, on the other, concerning the reimbursement of the price of tickets bought through the intermediary Opodo Ltd.
+Legal context
+Article 2(f) of Regulation No 261/defines the word ‘ticket’ as ‘a valid document giving entitlement to transport, or something equivalent in paperless form, including electronic form, issued or authorised by the air carrier or its authorised agent.’
+Article of that regulation, entitled ‘Cancellation’, provides, in paragraph thereof:
+‘In case of cancellation of a flight, the passengers concerned shall:
+(a)
+be offered assistance by the operating air carrier in accordance with Article 8;
+…’
+Article of Regulation No 261/2004, entitled ‘Right to reimbursement or re‑routing’, provides, in paragraph thereof:
+‘Where reference is made to this Article, passengers shall be offered the choice between:
+(a)
+–
+reimbursement within seven days, by the means provided for in Article 7(3), of the full cost of the ticket at the price at which it was bought …
+–
+a return flight to the first point of departure …
+…’
+Article of that regulation, entitled ‘Upgrading and downgrading’, provides, in paragraph thereof:
+‘If an operating air carrier places a passenger in a class lower than that for which the ticket was purchased, it shall within seven days, by the means provided for in Article 7(3), reimburse:
+(a)
+30% of the price of the ticket for all flights of kilometres or less, or
+(b)
+50% of the price of the ticket for all intra-Community flights of more than kilometres … and for all other flights between and kilometres, or
+(c)
+75% of the price of the ticket for all flights not falling under (a) or (b) …’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Mr Harms bought, on the website opodo.de, tickets allowing his wife, himself and their four children to fly from Hamburg (Germany) to Faro (Portugal) via Barcelona (Spain), by means of a flight operated by the airline company Vueling Airlines. Opodo invoiced Mr Harms an amount of EUR 1108.in respect of that purchase and sent him the corresponding confirmation, on which that amount was stated without further clarification. At the same time, Opodo transferred an amount of EUR 1031.to Vueling Airlines.
+The flight to be taken by the Harms family was not, however, carried out in accordance with the travel plan scheduled by Vueling Airlines, a situation which, in the view of the referring court, had to be regarded as a cancellation of a flight for the purposes of Regulation No 261/2004.
+Before the referring court, Mr and Mrs Harms, acting in their own name and on behalf of their four children, claim that Vueling Airlines is required, pursuant to Article 8(1)(a) of Regulation No 261/2004, to reimburse them the full amount of EUR 1108.which they were invoiced by Opodo. Vueling Airlines does not dispute that that claim is well founded in so far as it concerns the amount of EUR 1031.which was transferred to it by Opodo and was stated as the price of the tickets bought by Mr Harms. On the other hand, it contends that it does not have to reimburse him the difference between that amount and the amount of EUR 1108.collected by Opodo, submitting that the difference of EUR is not part of the price.
+In those circumstances, the Amtsgericht Hamburg (Local Court, Hamburg, Germany) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Must the concept of ‘reimbursement … by the means provided for in Article 7(3), of the full cost of the ticket at the price at which it was bought’ [set out in] Article 8(1)(a) of Regulation No 261/be interpreted as referring to the amount paid by the passenger for the ticket in question, or is it the amount which the defendant air carrier has actually received, where an intermediary undertaking is involved in the booking process and collects the difference between what the passenger pays and what the air carrier receives without disclosing this?’
+Consideration of the question referred
+By its question, the referring court asks, in essence, whether Regulation No 261/2004, and in particular Article 8(1)(a) thereof, must be interpreted as meaning that the price of the ticket to be taken into consideration for the purposes of determining the reimbursement owed by the air carrier to a passenger in the event of cancellation of a flight includes the difference between the amount paid by that passenger and the amount received by the air carrier, which corresponds to a commission collected by a person acting as an intermediary between those two parties.
+In accordance with Article 8(1)(a) of Regulation No 261/2004, read in conjunction with Article 5(1)(a) of that regulation, the onus is on the air carrier, in the event of cancellation of a flight, to offer assistance to the passengers concerned in the form of offering them, inter alia, reimbursement of their ticket, at the price at which it was bought, and, where necessary, a return flight to their first point of departure.
+The wording of Article 8(1)(a) of Regulation No 261/establishes a direct link between the concept of ‘ticket’ and the expression ‘price at which it was bought’, it being possible for the passengers concerned to buy such a ticket either directly from the air carrier or through an intermediary such as, inter alia, an authorised agent referred to in Article 2(f) of Regulation No 261/2004.
+When such an intermediary collects a commission from a passenger in that capacity, as in the case in the main proceedings, the question arises whether and to what extent that commission is a component of the price of the ticket to be reimbursed by the air carrier concerned to that passenger in the event of cancellation of the corresponding flight.
+In that regard, it should be noted generally that the objectives of Regulation No 261/are not only to ensure a high level of protection for passengers but also to strike a balance between the interests of passengers and those of air carriers (judgment of November 2009, Sturgeon and Others, C‑402/and C‑432/07, EU:C:2009:716, paragraph 67).
+In the light of those objectives, it must be considered that, while a commission collected by an intermediary from a passenger when a ticket was bought must, in principle, be regarded as a component of the price to be reimbursed to that passenger in the event of cancellation of the corresponding flight, its inclusion must nevertheless be subject to certain limits, in view of the interests of the air carriers which it affects.
+In that regard, Article 2(f) of Regulation No 261/defines a ‘ticket’ as a document or an equivalent in paperless form, including electronic form, issued or authorised by an air carrier or an agent authorised by such an air carrier. It follows from that definition that the various elements of such a ticket, including its price, must, if that ticket is not issued by the air carrier itself, in any event be authorised by it, and therefore cannot be set without its knowledge.
+That interpretation is supported by the Court’s case-law, from which it follows that the reimbursement of a part of the ‘price of the ticket’ provided for in Article 10(2)(a) to (c) of Regulation No 261/2004, in the event that the air carrier places a passenger in a class lower than that for which the ticket was purchased, must be determined by reference to solely ‘unavoidable’ components of that price, in the sense that it is necessary to pay them in order to avail of the service proposed by the air carrier in return (judgment of June 2016, Mennens, C‑255/15, EU:C:2016:472, paragraph 36).
+A component of the price of the ticket which is set without the knowledge of the air carrier cannot be regarded as necessary in order to avail of the service proposed by the air carrier.
+In the light of all the foregoing, the answer to the question referred is that Regulation No 261/2004, and in particular Article 8(1)(a) thereof, must be interpreted as meaning that the price of the ticket to be taken into consideration for the purposes of determining the reimbursement owed by the air carrier to a passenger in the event of cancellation of a flight includes the difference between the amount paid by that passenger and the amount received by the air carrier, which corresponds to a commission collected by a person acting as an intermediary between those two parties, unless that commission was set without the knowledge of the air carrier, which it is for the referring court to ascertain.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Eighth Chamber) hereby rules:
+ 
+Regulation (EC) No 261/of the European Parliament and of the Council of February establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation (EEC) No 295/91, and in particular Article 8(1)(a) thereof, must be interpreted as meaning that the price of the ticket to be taken into consideration for the purposes of determining the reimbursement owed by the air carrier to a passenger in the event of cancellation of a flight includes the difference between the amount paid by that passenger and the amount received by the air carrier, which corresponds to a commission collected by a person acting as an intermediary between those two parties, unless that commission was set without the knowledge of the air carrier, which it is for the referring court to ascertain.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

@@ -1,0 +1,147 @@
+
+JUDGMENT OF THE COURT (Eighth Chamber)
+October (*)
+(Failure of a Member State to fulfil obligations — Directive 95/60/EC — Fiscal marking of gas oils and kerosene — Refuelling of private pleasure craft)
+In Case C‑503/17,
+ACTION under Article TFEU for failure to fulfil obligations, brought on August 2017,
+European Commission, represented by F. Tomat and J. Tomkin, acting as Agents,
+applicant,
+v
+United Kingdom of Great Britain and Northern Ireland, represented by S. Brandon, acting as Agent, and by M. Gray, Barrister,
+defendant,
+THE COURT (Eighth Chamber),
+composed of M. Vilaras (Rapporteur), President of the Fourth Chamber, acting as President of the Eighth Chamber, J. Malenovský and M. Safjan, Judges,
+Advocate General: N. Wahl,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+By its application, the European Commission asks the Court to declare that, by allowing the use of marked fuel for the purposes of propelling private pleasure craft, the United Kingdom of Great Britain and Northern Ireland has failed to fulfil its obligations under Council Directive 95/60/EC of November on fiscal marking of gas oils and kerosene (OJ L 291, p. 46), and to order the United Kingdom to pay the costs.
+ Legal context
+ European Union law
+ Directive 2003/96/EC
+As is apparent from Article 2(1)(b) and Article 2(5) of Council Directive 2003/96/EC of October restructuring the Community framework for the taxation of energy products and electricity (OJ L 283, p.51), the term ‘energy products’, for the purposes of the directive, means, in particular, the products falling within Combined Nomenclature codes (‘CN codes’) to 2715, set out in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1), as amended by Commission Regulation (EC) No 2031/of August (OJ L 279, p. 1).
+In particular, CN code includes subheading CN 69, relating to gas oils intended for uses other than those covered by subheadings (gas oils for undergoing a specific process) and (gas oils for undergoing chemical transformation by a process other than those specified by subheading 61).
+Article of Directive 2003/states:
+‘1.       The levels of taxation which Member States shall apply to the energy products and electricity listed in Article may not be less than the minimum levels of taxation prescribed by this Directive.
+2.      For the purpose of this Directive “level of taxation” is the total charge levied in respect of all indirect taxes (except [value added tax (VAT)]) calculated directly or indirectly on the quantity of energy products and electricity at the time of release for consumption.’ 
+Article 7(1), first subparagraph, of that directive provides:
+‘As from January and from January 2010, the minimum levels of taxation applicable to motor fuels shall be fixed as set out in Annex I Table A.’
+Under Article 14(1) of that directive:
+‘In addition to the general provisions set out in [Council] Directive 92/12/EEC [of February on the general arrangements for products subject to excise duty and on the holding, movement and monitoring of such products (OJ L 76, p. 1)] on exempt uses of taxable products, and without prejudice to other Community provisions, Member States shall exempt the following from taxation under conditions which they shall lay down for the purpose of ensuring the correct and straightforward application of such exemptions and of preventing any evasion, avoidance or abuse:
+...
+(c)      energy products supplied for use as fuel for the purposes of navigation within Community waters (including fishing), other than private pleasure craft, and electricity produced on board a craft.
+For the purposes of this Directive “private pleasure craft” shall mean any craft used by its owner or the natural or legal person who enjoys its use either through hire or through any other means, for other than commercial purposes and in particular other than for the carriage of passengers or goods or for the supply of services for consideration or for the purposes of public authorities.’
+Article 18(1) of that directive states:
+‘By way of derogation from the provisions of the present directive, Member States are hereby authorised to continue to apply the reductions in the levels of taxation or exemptions set out in Annex II.
+Subject to a prior review by the Council, on the basis of a proposal from the Commission, this authorisation shall expire on December ...’ 
+Article 21(4) of Directive 2003/provides that:
+‘Member States may also provide that taxation on energy products and electricity shall become due when it is established that a final use condition laid down in national rules for the purpose of a reduced level of taxation or exemption is not, or is no longer, fulfilled.’ 
+Under point of Annex II to Directive 2003/96, the United Kingdom was authorised to derogate from the levels of taxation applicable to ‘navigation in private pleasure craft’.
+ Directive 95/According to the first to fourth recitals  of Directive 95/60:
+‘Whereas the Community measures envisaged by this Directive are not only necessary but also indispensable for the attainment of the objectives of the internal market; whereas these objectives cannot be achieved by Member States individually; ... whereas this Directive conforms with the principle of subsidiarity;
+Whereas [Council] Directive 92/82/EEC [of October on the approximation of the rates of excise duties on mineral oils (OJ L 316, p. 19), repealed and replaced by Directive 2003/96] lays down provisions in respect of the minimum rates of excise duty applicable to certain mineral oils and in particular to the different categories of gas oil and kerosene;
+Whereas the proper functioning of the internal market now requires that common rules be established for fiscal marking of gas oil and kerosene which have not borne duty at the full rate applicable to such mineral oils used as propellant;
+Whereas certain Member States should be allowed to derogate from the measures laid down in this Directive because of special national circumstances’.
+Article of the directive provides:
+‘1.      Without prejudice to national provisions on fiscal marking, Member States shall apply a fiscal marker in accordance with the provisions of this Directive to: 
+–        all gas oil falling within CN code which has been released for consumption ... and has been exempt from, or subject to, excise duty at a rate other than that laid down in Article 5(1) of Directive 92/82/EEC;
+...
+2.      Member States may allow exceptions to the application of the fiscal marker provided for in paragraph on grounds of public health or safety or for other technical reasons, provided they take appropriate fiscal supervision measures.’ 
+Article of that directive is worded as follows:
+‘Member States shall take the necessary steps to ensure that improper use of the marked products is avoided and, in particular, that the mineral oils in question cannot be used for combustion in the engine of a road-going motor vehicle or kept in its fuel tank unless such use is permitted in specific cases determined by the competent authorities of the Member States.
+Member States shall provide that the use of the mineral oils in question in the cases mentioned in the first subparagraph is to be considered as an offence under the national law of the Member State concerned. Each Member State shall take the measures required to give full effect to all the provisions of this Directive and shall, in particular, determine the penalties to be imposed in the event of failure to comply with the said measures; such penalties shall be commensurate with their purpose and shall have adequate deterrent effect.’ 
+ Directive 2008/118/EC
+Under Article 7(1) of Council Directive 2008/118/EC of December concerning the general arrangements for excise duty and repealing Directive 92/12/EEC (OJ L 9, p. 12), excise duty becomes chargeable at the time, and in the Member State, of release for consumption.
+Article of Directive 2008/provides:
+‘1.      Without prejudice to Article 36(1), where excise goods which have already been released for consumption in one Member State are held for commercial purposes in another Member State in order to be delivered or used there, they shall be subject to excise duty and excise duty shall become chargeable in that other Member State.
+For the purposes of this Article, “holding for commercial purposes” shall mean the holding of excise goods by a person other than a private individual or by a private individual for reasons other than his own use and transported by him ...
+2.      The chargeability conditions and rate of excise duty to be applied shall be those in force on the date on which duty becomes chargeable in that other Member State.
+...’ 
+ United Kingdom law
+The Hydrocarbon Oil Duties Act 1979, as amended by the Finance Act (‘the Act’), governs the taxation of fuel. In the meantime, following the expiry of the derogation period provided for in Article of Directive 2003/96, the United Kingdom had already amended the Act in order to ensure that the applicable minimum tax rate was consistent with the minimum rates laid down by Directive 2003/96. In particular, under section and Schedule 6, Part 1, of the Finance Act 2008, the level of excise duty, in the United Kingdom, on fuel used for private pleasure craft was brought into line with the rates laid down by that directive.
+Section 14E of the Act governs the taxation of fuel used for private pleasure craft. It provides as follows:
+‘Rebated heavy oil and bioblend: private pleasure craft
+(1)      This section applies in respect of rebated heavy oil or bioblend.
+(2)      The heavy oil or bioblend must not be used as fuel for propelling private pleasure craft.
+(3)      If, on the supply by a person (“the supplier”) of a quantity of the heavy oil or bioblend to another person, the other person makes a relevant declaration to the supplier —
+(a)      subsection (2) does not apply in relation to that heavy oil or bioblend, 
+and
+ (b)      the supplier must pay, in accordance with regulations, the amount specified in subsection (4) to the Commissioners.
+(4)      The amount is Q x R
+where
+Q is the quantity (in litres) of the heavy oil or bioblend, and
+R is the rate of the relevant rebate at the time of supply.
+(5)      The “relevant rebate” is—
+(a)      in the case of heavy oil upon which rebate was allowed under section 13ZA or 13AA(1), the rebate under that provision,
+(b)      in the case of heavy oil to which paragraph (a) does not apply, the rebate under section for that kind of heavy oil, and
+(c)      in the case of bioblend, the rebate under section 11(1)(b).
+(6)      The amount referred to in subsection (3)(b) is to be treated, for the purposes of section of the Finance Act (assessments to excise duty), as an amount of excise duty.
+...
+(7A)      A relevant declaration must include an acknowledgement that nothing in this section or done under it (including the making of the declaration) affects any restriction or prohibition under the law of a Member State other than the United Kingdom on the use of the heavy oil or bioblend as fuel for propelling craft outside United Kingdom waters ...
+(8)      In this section—
+“private pleasure craft” has the same meaning as in Article 14(1)(c) of [Directive 2003/96];
+“regulations” means regulations under section 24(1) made for the purposes of this section, and
+“relevant declaration”, in relation to a quantity of heavy oil or bioblend, means a declaration, made in the way and form specified by or under regulations, that the heavy oil or bioblend is to be used as fuel for propelling private pleasure craft.’ 
+ Pre-litigation procedure
+On June 2011, the Commission sent the United Kingdom a letter of formal notice stating that it had failed to fulfil its obligations under Directive 95/60. 
+The United Kingdom replied by letter of August 2011, disputing the infringements alleged against it. 
+On May 2012, the United Kingdom informed the Commission of a legislative measure intended to put an end to the alleged infringement. The measure consisted in the insertion of the provision which became subsection 7A of section 14E of the Act. 
+By letter of August 2012, the Commission informed the United Kingdom that the legislative amendment mentioned in its letter of May did not remedy the failure to fulfil obligations referred to in its letter of June 2011. 
+Having received no reply to its letter of August 2012, the Commission, on May 2013, sent a reasoned opinion to the United Kingdom.
+The United Kingdom answered that reasoned opinion by letter dated July 2013, restating the position that it had already set out in its response to the letter of formal notice.
+Taking the view that the legislation in force in the United Kingdom remains incompatible with EU law, the Commission decided to bring the present action.
+ The action
+The Commission puts forward a single complaint, alleging infringement of Directive 95/Arguments of the parties
+The Commission notes that the Member States’ obligation, arising from Article of Directive 95/60, to apply a marker to fuel subject to reduced rates of excise duty, is intended to make it easier to set such fuels apart from fuels taxed at the full rate and thus facilitate monitoring. The achievement of that objective would be impossible if Member States did not restrict the use of fiscal markers to fuels that are subject to reduced rates of duty and authorised their use also for fuel subject to excise duty at the full rate.
+It follows, according to the Commission, that Directive 95/prohibits the application of a fiscal marker to fuels taxed at the full rate. Such a ban is also apparent from Article of Directive 95/60, which requires Member States to prevent the improper use of marked products.
+Thus, by allowing, under section 14E of the Act, the use of marked oil as fuel for propelling private pleasure craft, the use of which is subject to the full rate of excise duty, the United Kingdom has failed to fulfil its obligations under Directive 95/60.
+The Commission takes the view that the interpretation of Directive 95/advocated by the United Kingdom, according to which a Member State may apply exactly the same marking to different fuels regardless of the rate of excise duty to which they are subject, would undermine the objective of the directive and negate its effet utile.
+Neither the possible introduction, by a Member State, of its own procedures seeking to prevent fraudulent use of gas oil, nor concerns as to the possible costs and disadvantages for private operators can justify the non-application of the provisions of Directive 95/60.
+According to the Commission, nor can the argument put forward in the pre-litigation procedure by the United Kingdom, that the competent authorities of other Member States have the possibility of requesting receipts in respect of fuel purchased in the United Kingdom in order to ensure that excise duty relating to that fuel has been paid, be upheld. Even if the owner of a private pleasure craft were in a position to produce a receipt for marked fuel, there is no guarantee that the fuel in the tanks of the vessel in question corresponds to the fuel to which the receipt relates.
+The Commission further states that section 14E(7A) of the Act does not constitute a measure capable of remedying the failure to fulfil obligations alleged against the United Kingdom, since that provision does not prohibit the use of marked oil outside the cases referred to in Article of Directive 95/60.
+Finally, the Commission disputes the United Kingdom’s claim that the argument based on the effet utile of Directive 95/was raised for the first time in the application initiating the proceedings and is inadmissible. It submits that, in both the letter of formal notice and in the reasoned opinion, it stated that the United Kingdom’s practice runs counter to both the wording and the purpose of that directive.
+The United Kingdom contends that it has complied with its obligations under Directive 95/60. The obligation under Article of that directive is met, since all fuels subject to reduced excise duty in the United Kingdom have the fiscal marker applied when they are released for consumption. The obligation arising under Article of that directive has also been met, since the United Kingdom implemented a reliable system of monitoring in order to ensure that the marked fuel is not used improperly and that, if it is used for a purpose subject to excise duty at the full rate, that duty is paid in full.
+According to the United Kingdom, the additional obligations which the Commission is seeking to impose on it are not derived either from Articles and or any other provision of Directive 95/60. The Commission itself concedes that the wording of Article of Directive 95/does not preclude the marking of products that subsequently become subject to the full rate of excise duty and that the argument that that course of action would deprive the directive of its effet utile was not put forward either in the letter of formal notice or in the reasoned opinion and is inadmissible.
+In any event, that submission cannot be upheld. According to the United Kingdom, Directive 95/is, as confirmed by the first recital thereof, a minimum harmonisation measure, which is is very open-textured and drafted in high-level general terms, giving Member States a discretion as to the measures to be taken. Moreover, both under Article 1(2) of Directive 95/and under Article thereof, Member States are allowed to adopt derogations.
+The United Kingdom further states that it follows from Directive 2008/that products bought in one Member State and then transported to another Member State are taxable only in the first Member State. Therefore, if the owner of a private pleasure craft were in a position to submit to the competent tax authorities from another Member State the receipt and logbook in order to establish that the fuel in the tank of that boat was purchased in the United Kingdom, the authorities would not need to monitor the amount of excise duty paid. Any administrative problems that arose could be solved easily by establishing common standards for tax receipts issued by Member States.
+Furthermore, according to the United Kingdom, it is clear from Article 21(4) of Directive 2003/that Member States may establish national procedures providing for a higher rate of duty to be applied to an energy product when its end-use no longer entitles it to the application of the reduced rate. That situation corresponds to the situation provided for by the legislation applicable in the United Kingdom on the use of marked fuel for the propulsion of private pleasure craft.
+In any event, it is apparent from the first and third recitals of Directive 95/that the latter is intended to ensure the proper functioning of the internal market. The Commission itself accepts that the United Kingdom’s current procedures do not lead to a situation where the minimum level of duty is not being paid. Any negative impacts on the functioning of the internal market resulting from the transposition measures adopted in the UK are so low as to fall within the de minimis rule.
+In that regard, the United Kingdom refers to the practical difficulties that would result from the application of Directive 95/in the manner envisaged by the Commission. It would require disproportionate measures in the present case, insofar as it would entail the need for distributors of boating fuel to install the necessary facilities, such as an additional storage tank, in order also to supply unmarked fuel to pleasure craft. Since such additional installations are not profitable, the majority of distributors would not make the necessary investments. In view of the particular geographic situation of the United Kingdom, whose coastline is km long in total, this would pose a significant practical problem for owners of pleasure craft and might even lead to a risk of accident, if the persons concerned were trying to store large quantities of fuel on board their boat, in order to cope with potential refuelling difficulties while en route.
+ Findings of the Court
+As a preliminary point, it should be noted that the United Kingdom raises the inadmissibility of the Commission’s complaint on the ground that it did not put forward any argument regarding the negation of the effet utile of Directive 95/in the letter of formal notice or in the reasoned opinion.
+In that regard, according to the Court’s case-law, although an action for failure to fulfil obligations must be based on the same grounds and pleas in law as the reasoned opinion, that requirement cannot go so far as to mean that in every case the statement of complaints set out in the operative part of the reasoned opinion and the form of order sought in the application must be exactly the same, provided that the subject matter of the proceedings as defined in the reasoned opinion has not been extended or altered (judgment of July 2010, Commission v Portugal, C‑171/08, EU:C:2010:412, paragraph 26). 
+In the present case, it is apparent from the documents before the Court that, in both the letter of formal notice and in the reasoned opinion which it sent to the United Kingdom, the Commission claimed, in essence, that the practice of the United Kingdom of authorising the use of marked gas oil as fuel for the propulsion of private pleasure craft, subject to the owner of the craft concerned making a declaration and paying the additional excise duty was contrary, in particular, to the ‘purpose’ and ‘objective’ of Directive 95/60.
+In those circumstances, the reference in the application to the ‘effet utile’ of Directive 95/60, a notion which is substantially equivalent to the ‘purpose’ and ‘objective’ of the directive, does not constitute an alteration or extension of the subject matter of the dispute. The Commission’s single complaint is therefore admissible.
+As to the substance of that complaint, it must be observed that it is clear from Article of Directive 95/60, read in the light of the third recital thereof, that Member States are required to apply a fiscal marker as provided for by that directive, inter alia, to gas oil which is not taxed at the full rate.
+Conversely, it is apparent from that provision that Member States may not apply that marker also to gas oil taxed at the full rate, without undermining the purpose of the marker.
+The objective pursued by Directive 95/60, which is to complement Directive 2003/and to promote the completion and functioning of the internal market (see, to that effect, judgment of September 2004, Meiland Azewijn, C‑292/02, EU:C:2004:499, paragraph 51), by allowing easy and quick identification of gas oil not subject to taxation at the full rate, could not be achieved if Member States were permitted to authorise the use of fiscal marking also for gas oil intended for use subject to taxation at the full rate.
+More specifically, accepting the argument put forward by the United Kingdom, that Article of Directive 95/does not preclude Member States from permitting the use of marked fuels for use subject to excise duty calculated at the full rate, would lead to the result that a Member State could claim to be complying with its obligations under that provision by applying a fiscal marker to all types of fuel sold on its territory, regardless of the rate of excise duty to which they are subject.
+None of the various provisions of EU law relied on by the United Kingdom justifies a different conclusion.
+First, Article 1(2) of Directive 95/60, which seeks to implement the intention of the EU legislature expressed in the fourth recital of that directive, permits Member States, in certain cases, not to apply, on grounds of public health or safety or for other technical reasons, the fiscal marker to fuel subject to excise duty at a rate other than the full rate.
+However, that provision does not allow Member States to apply the fiscal marker to fuel subject to excise duty at the full rate.
+Secondly, the first paragraph of Article of Directive 95/60, far from permitting Member States to authorise, in some cases, the use of marked products as fuel for engines normally operating with fuel subject to excise duty calculated at the full rate, requires them, on the contrary, to take ‘the necessary steps’ to ensure that improper use of the marked products is avoided.
+Thirdly, the fact that, pursuant to Directive 2008/118, if the excise duty relating to a volume of fuel has been paid in the Member State of release for consumption of that fuel, that volume is not subject to such duty in another Member State, does not mean that the tax authorities of another Member State may not check the actual payment of excise duty in the first Member State.
+The fiscal marking of gas oil which is exempt from tax or is taxed at a reduced rate, laid down by Directive 95/60, is designed precisely to facilitate such checks. It is irrelevant, in that regard, that there are other means of conducting checks, such as the production of a receipt proving payment of the additional excise duty, proposed by the United Kingdom.
+Fourthly, nor can the United Kingdom’s argument based on Article 21(4) of Directive 2003/be upheld. That provision relates to energy products intended for use which is tax exempt or is subject to a reduced level of taxation, where a final use condition has not been met, as a result of which, ultimately, it becomes apparent that those products must be subject to excise duty calculated at the full rate. It does not relate to energy products intended from the outset for use which is taxable at the full rate, such as the fuel intended for use in the engines of private pleasure craft.
+It should be added, in the light of the arguments put forward by the United Kingdom, that neither the reference to the principle of subsidiarity in the first recital of Directive 95/60, nor the fact that the directive does not fully harmonise issues relating to the fiscal marking of gas oil, can justify a practice of a Member State which is contrary to its obligations under that directive.
+Finally, as regards the United Kingdom’s arguments alleging, on the one hand, the problems that its national practice of allowing the use of marked gas oil for private pleasure craft — subject to payment of the additional excise duty — seeks to avoid, and, on the other, compliance with the principle of proportionality, it should be noted that, as that Member State itself acknowledges in its pleadings, that line of argument is based on the premiss that Directive 95/does not preclude such a practice. Since, for the reasons already given, that premiss is incorrect as regards the obligations laid down in Directive 95/60, that argument must also be rejected.
+In those circumstances, it must be held that, by allowing the use of marked fuel for the purposes of propelling private pleasure craft, even where that fuel is not subject to any exemption from or reduction in excise duty, the United Kingdom has failed to fulfil its obligations under Directive 95/60.
+ Costs
+Under Article 138(1) of the Rules of Procedure of the Court, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings. Since the Commission has applied for costs and the United Kingdom has been unsuccessful, the United Kingdom must be ordered to pay the costs.
+On those grounds, the Court (Eighth Chamber) hereby:
+1.      Declares that by allowing the use of marked fuel for the purposes of propelling private pleasure craft, even where that fuel is not subject to any exemption from or reduction in excise duty, the United Kingdom has failed to fulfil its obligations under Council Directive 95/60/EC of November on fiscal marking of gas oils and kerosene;
+2.      Orders the United Kingdom of Great Britain and Northern Ireland to pay the costs.
+Vilaras
+Malenovský
+Safjan
+Delivered in open court in Luxembourg on October 2018.
+A. Calot Escobar 
+ 
+K. Lenaerts
+Registrar 
+ 
+President
+*      Language of the case: English.
+Top  

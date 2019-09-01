@@ -1,0 +1,107 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+November (
+*)
+(Reference for a preliminary ruling — Directive 2009/72/EC — Article 3(2), (6) and (15) and Article 36(f) — Internal market in electricity — Hypothetical nature of the questions referred for a preliminary ruling — Inadmissibility of the request for a preliminary ruling)
+In Case C‑238/17,
+REQUEST for a preliminary ruling under Article TFEU from the Vilniaus miesto apylinkės teismas (District Court, City of Vilnius, Lithuania), made by decision of April 2017, received at the Court on May 2017, in the proceedings
+UAB ‘Renerga’
+v
+AB ‘Energijos skirstymo operatorius’,
+AB ‘Lietuvos energijos gamyba’,
+third parties:
+UAB ‘BALTPOOL’,
+Lietuvos Respublikos Vyriausybė,
+Achema AB,
+Achemos Grupė UAB,
+THE COURT (Third Chamber),
+composed of M. Vilaras, President of the Fourth Chamber, acting as President of the Third Chamber, J. Malenovský (Rapporteur), L. Bay Larsen, M. Safjan and D. Šváby, Judges,
+Advocate General: M. Szpunar,
+Registrar: M. Aleksejev, Administrator,
+having regard to the written procedure and further to the hearing on May 2018,
+after considering the observations submitted on behalf of:
+–
+UAB ‘Renerga’, represented initially by V. Radvila, K. Pabijanskas and G. Balčiūnas, advokatai, C. Malamataris, dikigoros, A. Wilhelm, Rechtsanwalt, E. Righini, avvocato, and C. Cluzel, avocat, and subsequently by V. Radvila, and K. Pabijanskas, advokatas, E. Righini, avvocato, and C. Cluzel, avocat,
+–
+AB ‘Energijos skirstymo operatorius ’ and AB ‘Lietuvos energijos gamyba’, by A. Žindul, advokatas,
+–
+UAB ‘BALTPOOL’, by A. Smaliukas and E. Junčienė, acting as Agents,
+–
+Achemos Grupė UAB, by G. Balčiūnas, advokatas,
+–
+the Lithuanian Government, by D. Kriaučiūnas and R. Dzikovič, acting as Agents,
+–
+the European Commission, by O. Beynet, Y.G. Marinova, A. Steiblytė and J. Jokubauskaitė, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on July 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 3(2), (6) and (15) and Article 36(f) of Directive 2009/72/EC of the European Parliament and of the Council of July concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC (OJ L 211, p. 55).
+The request has been made in proceedings brought by UAB ‘Renerga’ against AB ‘Energijos skirstymo operatorius’ and AB ‘Lietuvos energijos gamyba’ concerning the award of default interest for late payment of public service compensation to Renerga.
+Legal context
+EU law
+Recitals and of Directive 2009/state:
+‘(46)
+Respect for the public service requirements is a fundamental requirement of this Directive, and it is important that common minimum standards, respected by all Member States, are specified in this Directive, which take into account the objectives of consumer protection, security of supply, environmental protection and equivalent levels of competition in all Member States. It is important that the public service requirements can be interpreted on a national basis, taking into account national circumstances and subject to the respect of Community law.
+…
+(50)
+The public service requirements, including as regards the universal service, and the common minimum standards that follow from them need to be further strengthened to make sure that all consumers, especially vulnerable ones, are able to benefit from competition and fair prices. The public service requirements should be defined at national level, taking into account national circumstances; Community law should, however, be respected by the Member States. ...’
+Article 3(2), (6) and (15) of that directive provide:
+‘2.   Having full regard to the relevant provisions of the [EC] Treaty, in particular Article thereof, Member States may impose on undertakings operating in the electricity sector, in the general economic interest, public service obligations which may relate to security, including security of supply, regularity, quality and price of supplies and environmental protection, including energy efficiency, energy from renewable sources and climate protection. Such obligations shall be clearly defined, transparent, non-discriminatory, verifiable and shall guarantee equality of access for electricity undertakings of the Community to national consumers. In relation to security of supply, energy efficiency/demand-side management and for the fulfilment of environmental goals and goals for energy from renewable sources, as referred to in this paragraph, Member States may introduce the implementation of long-term planning, taking into account the possibility of third parties seeking access to the system.
+…
+6.   Where financial compensation, other forms of compensation and exclusive rights which a Member State grants for the fulfilment of the obligations set out in paragraphs and are provided, this shall be done in a non-discriminatory and transparent way.
+…
+15.   Member States shall, upon implementation of this Directive, inform the Commission of all measures adopted to fulfil universal service and public service obligations, including consumer protection and environmental protection, and their possible effect on national and international competition, whether or not such measures require a derogation from this Directive. They shall inform the Commission subsequently every two years of any changes to such measures, whether or not they require a derogation from this Directive.’
+Article 36(f) of that directive provides:
+‘In carrying out the regulatory tasks specified in this Directive, the regulatory authority shall take all reasonable measures in pursuit of the following objectives within the framework of their duties and powers as laid down in Article 37, in close consultation with other relevant national authorities including competition authorities, as appropriate, and without prejudice to their competencies:
+…
+(f)
+ensuring that system operators and system users are granted appropriate incentives, in both the short and the long term, to increase efficiencies in system performance and foster market integration.’
+Lithuanian law
+Directive 2009/was transposed into Lithuanian law by the Energetikos įstatymas (Law on Energy), the Elektros energetikos įstatymas (Law on Electricity) and the Atsinaujinančių išteklių energetikos įstatymas (Law on Energy from Renewable Sources).
+On July 2012, the Lithuanian Government adopted, on the basis of the Law on Electricity, Vyriausybės nutarimas Nr. ‘Dėl Viešuosius interesus atitinkančių paslaugų elektros energetikos sektoriuje teikimo tvarkos aprašo patvirtinimo’ (Government Resolution No on the approval of the procedure for the provision of public interest services in the electricity sector). Pursuant to point of that resolution, ‘public interest service [PIS] monies’ are managed in compliance with the framework for administration of PIS monies established by Vyriausybės nutarimas Nr. ‘Dėl Viešuosius interesus atitinkančių paslaugų elektros energetikos sektoriuje lėšų administravimo tvarkos aprašo patvirtinimo’ (Government Resolution No on the approval of the procedure for the administration of monies for public interest services in the electricity sector), adopted on September 2012.
+Point 18.of Government Resolution No provides for the possibility of temporarily suspending compensation for PIS provision under the procedure and conditions laid down in Government Resolution No 1157, if the PIS provider and/or connected persons fail to pay PIS monies, in whole or in part, for electricity actually consumed, in accordance with point of the latter resolution.
+‘Connected persons’ are defined in Government Resolution No (point 3, fifth paragraph). In point 26.1, that resolution provides that the distribution system operator, the purchasing undertaking and the administrator are to suspend the payment of monies to PIS providers if the PIS provider and/or connected persons fail to pay PIS monies for electricity actually consumed. That provision also specifies the circumstances in which the payment of PIS monies may be resumed. Point 26.of Resolution No provides that, if the PIS provider withdraws from a group of connected persons in which at least one person has not paid PIS monies, in whole or in part, for electricity consumed, the outstanding PIS monies for PIS provision are to be paid to it only when the formerly connected persons have paid all the monies due for electricity consumed until the time of withdrawal.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Renerga operates five power plants which produce electricity generated from renewable energy sources. The applicant feeds the electricity generated into the distribution network. Renerga forms part of Achemos Grupė UAB with Achema AB and other companies.
+Under contracts concluded on January and June between Renerga and the defendants in the main proceedings, Renerga undertakes to sell to the defendants, which are obliged in return to purchase and pay for, all the electricity that it produces and supplies to the distribution network. Under those contracts, the price that the defendants have to pay for that electricity to Renerga consists of the market price of electricity and of PIS monies corresponding to the difference between (i) the fixed rate applicable to electricity produced by Renerga under the terms and conditions provided for by the legislation and (ii) the market price.
+On February 2016, the administrator of PIS monies, UAB ‘BALTPOOL’, informed the defendants in the main proceedings that, pursuant to Government Resolutions No and No 1157, the payment of PIS monies to Renerga had to be suspended in its entirety until Achema or other persons connected to it had paid in full PIS monies that were due for electricity actually consumed. According to BALTPOOL, first, Achema had not completely fulfilled its obligation to pay PIS monies for electricity actually consumed and, second, Achema’s capital and the controlling interest in Renerga were held by Achemos Grupė, so that Achema and Renerga had to be regarded as connected persons.
+On February 2016, Energijos skirstymo operatorius informed Renerga that the payment of PIS monies owed to it was suspended. On March 2016, an analogous notification was given to Renerga by Lietuvos energijos gamyba, which indicated that the payment of PIS monies was suspended for an indefinite period and that Renerga would be paid only the market price for the electricity purchased.
+By letter of March to Renerga, BALTPOOL stated that on January an invoice had been sent to Achema for a total amount of EUR 794.15, including value added tax, the due date set by the invoice being February 2016. According to the order for reference, because Achema had still not paid this invoice on February 2016, the payment of PIS monies to Achema and to any person connected to it had to be suspended.
+As a result of the failure of the defendants in the main proceedings to fulfil their obligation to pay Renerga the full price due for the electricity that they had purchased, and specifically the PIS compensation which constituted part of the price of the electricity purchased, the defendants in the main proceedings accumulated a debt to Renerga amounting to EUR 199.81.
+This debt was discharged on April 2016, the date on which BALTPOOL adopted decisions, addressed to the defendants in the main proceedings, concerning the payment of the suspended PIS monies.
+On December 2016, Renerga brought an action before the Vilniaus miesto apylinkės teismas (District Court, City of Vilnius, Lithuania) seeking orders that Lietuvos energijos gamyba and Energijos skirstymo operatorius pay it, respectively, EUR 172.and EUR 572.in damages and default interest for late payment of PIS compensation, under the contracts for the purchase of electricity concluded on January and June 2013. In addition, Renerga requested that the defendants in the main proceedings be ordered to pay it interest on those sums at the annual rate of 8.05%.
+Since it took the view that the dispute calls for clarification regarding Directive 2009/72, the Vilniaus miesto apylinkės teismas (District Court, City of Vilnius) decided to stay proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Is the objective of “ensuring that system operators and system users are granted appropriate incentives, in both the short and the long term, to increase efficiencies in system performance and foster market integration”, laid down in Article 36(f) of Directive 2009/for the regulatory authority carrying out the regulatory tasks specified in Directive 2009/72, to be understood and interpreted as prohibiting a failure to grant incentives (a failure to pay PIS [public interest service] compensation) or their restriction?
+(2)
+Having regard to the fact that Article 3(2) of Directive 2009/provides that PIS obligations are to be clearly defined, transparent, non-discriminatory and verifiable, and Article 3(6) of Directive 2009/provides that financial compensation to PIS persons is to be determined in a non-discriminatory and transparent way, it is necessary to clarify the following:
+Are the provisions of Article 3(2) and (6) of Directive 2009/to be interpreted as prohibiting the incentivisation of PIS providers from being restricted if they properly fulfil the obligations assumed by them that are related to PIS provision?
+Is an obligation laid down in national law to suspend the payment of financial compensation received by PIS providers irrespective of the activities for PIS provision carried out by the PIS provider and of the fulfilment of the obligations assumed by it, but linking the ground for restricting (suspending) the payment of PIS compensation to, and making it dependent on, the performance by a person connected with the PIS provider (a controlling interest in which is held by the same undertaking as that which has a controlling interest in the PIS provider) of actions and obligations when accounting for the PIS consumption monies calculated for that undertaking, to be regarded as discriminatory, unclear and restrictive of fair competition for the purposes of the provisions of Article 3(2) and (6) of Directive 2009/72?
+Is an obligation laid down in national law to suspend the payment of financial compensation received by PIS providers, while the PIS providers remain obliged to continue to fulfil in full their PIS provision obligations and related contractual obligations to undertakings purchasing electricity, to be regarded as discriminatory, unclear and restrictive of fair competition for the purpose of the provisions of Article 3(2) and (6) of Directive 2009/72?
+(3)
+Under Article 3(15) of Directive 2009/which requires Member States to inform the European Commission every two years of changes to all measures adopted to fulfil universal service and public service obligations, is a Member State which has established in national legal measures legislation laying down grounds, rules and a mechanism for restricting compensation payable to PIS providers obliged to inform the European Commission of such new legislation?
+(4)
+Does the laying down by a Member State in national law of grounds, rules and a mechanism for restricting compensation payable to PIS providers offend against the objectives of implementation of Directive 2009/and against general principles of EU law (legal certainty, legitimate expectations, proportionality, transparency and non-discrimination)?’
+Admissibility of the request for a preliminary ruling
+The Commission disputes the admissibility of the request for a preliminary ruling on the ground that the interpretation of EU law that is sought is not relevant to the outcome of the main proceedings. It states that Renerga is not bound by public service obligations, within the meaning of Article 3(2) of Directive 2009/72, since neither the provisions of Government Resolutions No and No nor the contracts concluded with the defendants in the main proceedings impose public service obligations on electricity producers who use renewable energy sources, such as Renerga.
+In that regard, it must be borne in mind that, according to the Court’s settled case-law, in the context of the cooperation between the Court and the national courts provided for in Article TFEU, it is solely for the national court before which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine, in the light of the particular circumstances of the case, both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern the interpretation or the validity of a rule of EU law, the Court is in principle bound to give a ruling (judgment of November 2015, Hewlett-Packard Belgium, C‑572/13, EU:C:2015:750, paragraph and the case-law cited).
+However, it is apparent from settled case-law that a reference for a preliminary ruling from a national court can be rejected if EU law cannot be applied, either directly or indirectly, to the circumstances of the case (see, to that effect, judgment of July 2011, Agafiţei and Others, C‑310/10, EU:C:2011:467, paragraph 28).
+In the present case, the referring court seeks, by the set of questions referred by it for a preliminary ruling, in essence, to ascertain whether Directive 2009/72, more specifically Article 3(2), (6) and (15) and Article 36(f) thereof, and the general principles of EU law preclude the application of national provisions which provide for the possibility of suspending, for electricity producers, the payment of public service compensation, intended to promote the production of electricity from renewable energy sources, until persons connected to such producers pay the public service compensation due for the electricity that they have actually consumed.
+Article 3(2) of Directive 2009/provides that, having full regard to the relevant provisions of the EC Treaty, in particular Article thereof, Member States may impose on undertakings operating in the electricity sector, in the general economic interest, public service obligations which may relate to security, including security of supply, regularity, quality and price of supplies and environmental protection, including energy efficiency, energy from renewable sources and climate protection.
+However, it is not clear from the order for reference whether, in the particular circumstances of the main proceedings, Renerga was subject to public service obligations imposed, under that directive, by the Member State concerned.
+For this reason, the Court, pursuant to Article of its Rules of Procedure, sent a request for clarification to the referring court, which the latter responded to by letter of March 2018.
+In its response, the referring court stated that Lithuanian legislation did not impose a mandatory obligation on Renerga to produce and supply electricity from renewable energy sources. According to that court, Renerga was not included on the list of public service providers that was adopted by the Lithuanian Government, but voluntarily undertook to generate electricity and to sell it to the defendants in the main proceedings. The referring court also stated that the legal relations between Renerga and the defendants in the main proceedings were defined by the contracts concluded by them on January and June and were governed by civil law, and that these contracts could be terminated, so that it would be incorrect to state that Renerga was obliged to provide public services.
+Thus, the response provided by the referring court must be understood as meaning that the Member State concerned did not impose any public service obligation within the meaning of Article 3(2) of Directive 2009/on Renerga.
+It follows that the provisions of EU law whose interpretation is sought are not applicable, either directly or indirectly, to the circumstances of the case in the main proceedings and that, consequently, all of the questions referred in the context of that case are hypothetical.
+It follows from all of the foregoing considerations that the request for a preliminary ruling is inadmissible.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby:
+ 
+Declares that the request for a preliminary ruling from the Vilniaus miesto apylinkės teismas (District Court, City of Vilnius, Lithuania), made by decision of April 2017, is inadmissible.
+ 
+[Signatures]
+(
+*)	Language of the case: Lithuanian.
+Top  

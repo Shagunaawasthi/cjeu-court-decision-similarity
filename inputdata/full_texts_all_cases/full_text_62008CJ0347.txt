@@ -1,0 +1,324 @@
+
+Case C-347/Vorarlberger Gebietskrankenkasse
+v
+WGV-Schwäbische Allgemeine Versicherungs AG
+(Reference for a preliminary ruling from the Landesgericht Feldkirch)
+(Regulation (EC) No 44/– Articles 9(1)(b) and 11(2) – Jurisdiction in matters relating to insurance – Motor accident – Statutory assignment of the rights of an injured party in favour of a social security institution – Action for recovery against the insurer of a person allegedly liable – Objective of protecting the weaker party)
+Summary of the Judgment
+Judicial cooperation in civil matters – Jurisdiction and the enforcement of judgments in civil and commercial matters – Regulation
+            No 44/– Jurisdiction in insurance matters
+(Council Regulation No 44/2001, Arts 9(1)(b) and 11(2))
+The reference in Article 11(2) of Regulation No 44/on jurisdiction and the recognition and enforcement of judgments in
+         civil and commercial matters to Article 9(1)(b) thereof must be interpreted as meaning that a social security institution,
+         acting as the statutory assignee of the rights of the party directly injured in a motor accident, may not bring an action
+         directly in the courts of its Member State of establishment against the insurer of the person allegedly responsible for the
+         accident, where that insurer is established in another Member State. In that regard, Section of Chapter II of Regulation
+         No 44/establishes an autonomous system for the conferral of jurisdiction in matters of insurance with the purpose of
+         protecting the weaker party by rules of jurisdiction more favourable to his interests than the general rules provide for.
+         However, a social security institution cannot be considered to be an economically weaker party and less experienced legally
+         than a civil liability insurer, meaning that no special protection is justified in relations between those professionals in
+         the insurance sector.
+      
+(see paras 40-43, 47, operative part)
+  
+  
+JUDGMENT OF THE COURT (Third Chamber)
+September (*)
+      
+(Regulation (EC) No 44/– Articles 9(1)(b) and 11(2) – Jurisdiction in matters relating to insurance – Motor accident – Statutory assignment of the rights of an injured party in favour of a social security institution – Action for recovery against the insurer of a person allegedly liable – Objective of protecting the weaker party)
+In Case C‑347/08,
+REFERENCE for a preliminary ruling under Articles EC and EC from the Landesgericht Feldkirch (Austria), made by decision
+         of July 2008, received at the Court on July 2008, in the proceedings
+      
+Vorarlberger Gebietskrankenkasse
+v
+WGV-Schwäbische Allgemeine Versicherungs AG,
+THE COURT (Third Chamber),
+composed of A. Rosas, President of the Chamber, A. Ó Caoimh, J. Klučka (Rapporteur), U. Lõhmus and P. Lindh, Judges,
+Advocate General: P. Mengozzi,
+Registrar: R. Şereş, Administrator,
+having regard to the written procedure and further to the hearing on July 2009,
+after considering the observations submitted on behalf of:
+–        the Vorarlberger Gebietskrankenkasse by A. Wittwer, Rechtsanwalt,
+–        WGV-Schwäbische Allgemeine Versicherungs AG by A. Weber, Rechtsanwalt,
+–        the Austrian Government by C. Pesendorfer and G. Kunnert, acting as Agents,
+–        the Czech Government by M. Smolek, acting as Agent,
+–        the German Government by M. Lumma and J. Kemper, acting as Agents,
+–        the Spanish Government by J. López‑Medel Báscones, acting as Agent,
+–        the Italian Government by I. Bruni, acting as Agent, and W. Ferrante, avvocato dello Stato,
+–        the Commission of the European Communities by A.‑M. Rouchaud‑Joët and S. Grünheid, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 12, p. 1).
+      
+The reference has been made in the context of an action for recovery by the Vorarlberger Gebietskrankenkasse, established
+         in Dornbirn (Austria) (‘VGKK’), against WGV-Schwäbische Allgemeine Versicherungs AG, established in Stuttgart (Germany) (‘WGV-SAV’).
+      
+ Legal context
+ Community law
+ Regulation No 44/Recitals to in the preamble to Regulation No 44/provide:
+      
+‘(11) The rules of jurisdiction must be highly predictable and founded on the principle that jurisdiction is generally based on
+         the defendant’s domicile and jurisdiction must always be available on this ground save in a few well‑defined situations in
+         which the subject‑matter of the litigation or the autonomy of the parties warrants a different linking factor. The domicile
+         of a legal person must be defined autonomously so as to make the common rules more transparent and avoid conflicts of jurisdiction.
+      
+(12)      In addition to the defendant’s domicile, there should be alternative grounds of jurisdiction based on a close link between
+         the court and the action or in order to facilitate the sound administration of justice.
+      
+(13)      In relation to insurance, consumer contracts and employment, the weaker party should be protected by rules of jurisdiction
+         more favourable to his interests than the general rules provide for.’
+      
+The rules on jurisdiction enacted by Regulation No 44/appear in Chapter II thereof which comprises Articles to 31.
+      
+Article 2(1) of that regulation, which forms part of Section of Chapter II, entitled ‘General Provisions’, provides:
+      
+‘Subject to this Regulation, persons domiciled in a Member State shall, whatever their nationality, be sued in the courts
+         of that Member State.’
+      
+Article 3(1) in the same section of that regulation provides:
+      
+‘Persons domiciled in a Member State may be sued in the courts of another Member State only by virtue of the rules set out
+         in Sections to of this Chapter.’
+      
+In Articles to 14, Section 3, headed ‘Jurisdiction in matters relating to insurance’, of Chapter II, sets out the rules
+         on jurisdiction in matters relating to insurance.
+      
+Article of that regulation states:
+      
+‘In matters relating to insurance, jurisdiction shall be determined by this Section, without prejudice to Article and point
+         of Article 5.’
+      
+Article 9(1) of the regulation provides:
+      
+‘An insurer domiciled in a Member State may be sued:
+(a)      in the courts of the Member State where he is domiciled, or
+(b)      in another Member State, in the case of actions brought by the policyholder, the insured or a beneficiary, in the courts for
+         the place where the plaintiff is domiciled ...
+      
+…’
+Under Article 11(2) of Regulation No 44/2001:
+      
+‘Articles 8, and shall apply to actions brought by the injured party directly against the insurer, where such direct
+         actions are permitted.’
+      
+ Directive 2000/26/EC
+Directive 2000/26/EC of the European Parliament and of the Council of May on the approximation of the laws of the
+         Member States relating to insurance against civil liability in respect of the use of motor vehicles and amending Council Directives
+         73/239/EEC and 88/357/EEC (OJ L 181, p. 65), as amended by Directive 2005/14/EC of the European Parliament and of the
+         Council of May (OJ L 149, p. 14) (‘Directive 2000/26’), provides in Article 3, entitled ‘Direct right of action’:
+      
+‘Each Member State shall ensure that injured parties referred to in Article in accidents within the meaning of that provision
+         enjoy a direct right of action against the insurance undertaking covering the responsible person against civil liability.’
+      
+In order to define the term ‘injured party’, Article 2(d) of that directive refers to Article 1(2) of Council Directive 72/166/EEC
+         of April on the approximation of the laws of Member States relating to insurance against civil liability in respect
+         of the use of motor vehicles, and to the enforcement of the obligation to insure against such liability (OJ L 103, p. 1).
+      
+ Directive 72/Article 1(2) of Directive 72/provides that the expression ‘injured party’ means any person entitled to compensation in
+         respect of any loss or injury caused by vehicles.
+      
+ National law
+Under Paragraph 332(1) of the General Law on Social Security (Allgemeines Sozialversicherungsgesetz, ‘the ASVG’):
+      
+‘Where persons who are entitled to benefits under the provisions of this Federal law ... may claim compensation on the basis
+         of other legal provisions for the damage suffered by them as a result of the event insured against, the claim shall pass to
+         the insurer in so far as the latter has to provide benefits.’
+      
+Paragraph of the Civil Code (Allgemeines bürgerliches Gesetzbuch) provides:
+      
+‘The rights of the assignee shall be exactly the same as the rights of the assignor in respect of the assigned claim.’
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+On March 2006, a road traffic accident occurred on a motorway in Germany, involving Ms Gaukel, the driver of a vehicle
+         insured in Germany for civil liability with the WGV-SAV, and Ms Kerti, the driver of another vehicle. Ms Kerti had to brake
+         suddenly because of traffic. Ms Gaukel, the driver of the vehicle immediately behind, crashed into the back of Ms Kerti’s
+         vehicle. The crash resulted in a distortion to Ms Kerti’s spinal column and she had to undergo various types of medical treatment.
+         The doctors treating her also certified her as unfit to work from to March 2006. VGKK, a social security institution,
+         provided benefits to its insured, Ms Kerti.
+      
+During the period from January to August 2007, Ms Kerti was domiciled in Bludenz (Austria). Since then, she has
+         been resident in Ubstadt‑Weiher (Germany).
+      
+Basing itself on the statutory assignment of Ms Kerti’s rights in accordance with Paragraph of the ASVG, VGKK, by letter
+         of September 2006, applied for payment from WGV-SAV by October of the expenses which it had incurred in providing
+         benefits to its insured. VGKK claimed that the sole liability for the accident rested on WGV‑SAV’s insured.
+      
+As no payment was made, VGKK brought, on February 2008, an action for recovery in the Bezirksgericht Dornbirn (District
+         Court, Dornbirn) (Austria) against WGV-SAV. In disputing the substance of the action, WGV-SAV contended that the Bezirksgericht
+         Dornbirn lacked international jurisdiction to hear the action. It contended, first, that, in view of their origin, the rights
+         in dispute were those of Ms Kerti, who, at the time of lodging the action, was resident in Germany. Second, the dispute was
+         between two parties of equal status, so that the claimant did not qualify for protection under Regulation No 44/2001.
+      
+By order of May 2008, the Bezirksgericht Dornbirn dismissed the action on the ground of lack of international jurisdiction.
+      
+VGKK accordingly appealed to the Landesgericht Feldkirch (Regional Court, Feldkirch) (Austria) claiming that that court should
+         set aside the order of May and order the court of first instance to continue the proceedings.
+      
+The Landesgericht Feldkirch raises three arguments in favour of the jurisdiction of the Austrian courts. First of all, in
+         its view, VGKK should be considered to be the injured party, since, following the accident, it provided benefits to Ms Kerti.
+         Second, by reason of the statutory assignment pursuant to Paragraph of the ASVG, VGKK succeeded at the very moment of
+         the accident to all of Ms Kerti’s rights. Having assumed the legal position of its insured, it is that person’s rights and
+         not its own which VGKK claims in its action. Third, in the case of serious accidents involving personal injury, the directly
+         injured party retains his right to damages for pain and suffering as well as for damage to property. He can sue for that damage
+         in the court of his place of domicile. Rights to reimbursement of the costs of medical treatment and any pension benefits
+         will, in that case, be transferred to the social security institution. If that institution were unable to avail itself of
+         the same jurisdiction, it would thus have to bring an action for recovery before a court of another Member State. In those
+         circumstances, courts of different Member States would deliver judgments on the same facts, which would run counter to the
+         aims of Regulation No 44/2001, inasmuch as those courts might deliver conflicting judgments.
+      
+However, according to the national court, there are two arguments which do not support recognising the Austrian courts as
+         having jurisdiction. First, the objective of Directive 2000/is to protect the weaker party by making it substantially simpler
+         and easier to bring claims for compensation in the event of road accidents with a foreign element. Under reference to the
+         judgment in Case C‑463/FBTO Schadeverzekeringen [2007] ECR I‑11321, it considers that a social security institution cannot be considered to be a weaker party, deserving
+         of protection in the application of the rules on the international jurisdiction of courts. Second, Article 11(2) of Regulation
+         No 44/mentions only the injured party and not any statutory assignee.
+      
+It is in those circumstances that the Landesgericht Feldkirch decided to stay proceedings and to refer the following questions
+         to the Court of Justice for a preliminary ruling:
+      
+‘1.      Is the reference in Article 11(2) of [Regulation No 44/2001] to Article 9(1)(b) of that regulation to be interpreted as meaning
+         that a social security institution, to which the claims of the directly injured party have passed by operation of law (Paragraph
+         of the ... ASVG), may bring an action directly against the insurer in the courts for the place in a Member State where
+         the social security institution is established, provided that such a direct action is permitted and the insurer is domiciled
+         in a Member State?
+      
+2.      If the answer to Question is in the affirmative:
+Does that jurisdiction exist even if at the time of bringing the action the directly injured party is not permanently or ordinarily
+         resident in the Member State in which the social security institution is established?’
+      
+ The questions referred for a preliminary ruling
+ Preliminary observations
+It should be pointed out at the outset that there are differences between the different language versions of Article 11(2)
+         of Regulation No 44/2001. The French version uses the term ‘victime’, which, on a semantic interpretation, refers to the person
+         who directly suffered the damage. On the other hand, the version in German, which is the language of the case, uses the term
+         ‘der Geschädigte’, which means the ‘injured party’. Accordingly, that term may refer not only to persons who directly suffered
+         the damage, but also to persons who suffered it indirectly.
+      
+In this respect, it is settled case‑law that the need for a uniform interpretation of Community law makes it impossible for
+         the text of a provision to be considered, in case of doubt, in isolation; on the contrary, it requires that it be interpreted
+         also in the light of the versions existing in the other official languages (see Case 9/Koschniske [1979] ECR 2717, paragraph 6; Case C‑296/EMU Tabac and Others [1998] ECR I‑1605, paragraph 36; and Case C‑174/Zuid‑Hollandse Milieufederatie and Natuur en Milieu [2006] ECR I‑2443, paragraph 20) and by reference to the purpose and general scheme of the rules of which that provision
+         forms part (Case 30/Bouchereau [1977] ECR 1999, paragraph 14).
+      
+In the present case, it should be borne in mind, first, that, like the German version, other language versions of Article
+         11(2) of Regulation No 44/use a term equivalent to ‘the injured party’ (in French, ‘la personne lésée’). This is true
+         of the following language versions: Spanish (‘persona perjudicada’), Czech (‘poškozený’), Danish (‘skadelidte’), Estonian
+         (‘kahju kannatanud pool’), Italian (‘persona lesa’), Polish (‘poszkodowany’), Slovak (‘poškodený’) and Swedish (‘skadelidande’).
+         Second, in paragraph of its judgment in FBTO Schadeverzekeringen, the Court ruled that the purpose of the reference in Article 11(2) of Regulation No 44/is to add injured parties to
+         the list of plaintiffs contained in Article 9(1)(b) of that regulation, without restricting the category of persons having
+         suffered damage to those suffering it directly.
+      
+It follows that Article 11(2) of Regulation No 44/must be interpreted as referring to the injured party.
+      
+ Substance
+ The first question
+By its first question, the national court asks essentially whether the reference in Article 11(2) of Regulation No 44/to Article 9(1)(b) thereof is to be interpreted as meaning that a social security institution, statutory assignee of the rights
+         of the directly injured party in a motor accident, may bring an action directly before the courts of its Member State of establishment
+         against the insurer of the person allegedly liable for the accident, established in another Member State.
+      
+The Court has already held that the reference in Article 11(2) of Regulation No 44/to Article 9(1)(b) of that regulation
+         is to be interpreted as meaning that the courts for the place where an injured party is domiciled have jurisdiction as regards
+         an action brought directly against the insurer of the person allegedly responsible, provided that such an action is permitted
+         and that the insurer is domiciled in a Member State (FBTO Schadeverzekeringen, paragraph 31).
+      
+With regard to the insurance of the civil liability arising from motor accidents, it is apparent from Article 1(2) of Directive 72/and Article of Directive 2000/26, interpreted in the light of recital 16a of the latter directive, that the injured party
+         has the right to bring an action before the courts of his domicile against the insurer of the person allegedly responsible.
+      
+It is therefore necessary to examine whether a social security institution, acting as statutory assignee of the rights of
+         the person injured in a motor accident, also has that right.
+      
+In that regard, VGKK claims that it suffered loss in providing benefits to its insured. Consequently, it takes the view that
+         it must be considered to be an injured party, that concept falling to be construed autonomously. In addition, as the statutory
+         assignee of the rights of its insured, it assumed, pursuant to Austrian legislation, not only the latter’s substantive rights,
+         but also her procedural rights, including those laid down in Articles 9(1)(b) and 11(2) of Regulation No 44/2001. If this
+         were not the case, in other words, if distinctions were to be made within statutory assignments, then that form of legal substitution
+         would become devoid of meaning.
+      
+The Spanish Government maintains in particular that, if the directly injured party dies, his heirs, that is to say, the statutory
+         assignees of his rights, should be able to bring a claim for damages in the court of their place of domicile against the insurer
+         of the person allegedly liable, in the same way as the deceased, when alive, could have.
+      
+In order to ensure that Regulation No 44/is given full effect and an autonomous interpretation, reference should be made
+         principally to its general scheme and objectives (Case 201/Gerling Konzern Speziale Kreditversicherung and Others [1983] ECR 2503, paragraph 11; Case C‑295/Farrell [1997] ECR I‑1683, paragraphs and 13; Case C‑269/Benincasa [1997] ECR I‑3767, paragraph 12; and Case C‑433/Blijdenstein [2004] ECR I‑981, paragraph 24). Consequently, the application given to specific legal forms of substitution, such as a statutory
+         assignment, provided for by Austrian law and in the legal systems of the Member States, cannot have an effect on the interpretation
+         of the provisions of the regulation. A contrary interpretation would necessarily make the interpretation of Regulation No
+         44/dependent on the national law of the Member States and jeopardise the uniform application of that regulation in the
+         Community.
+      
+In that regard, recital in the preamble to Regulation No 44/provides that the rules of jurisdiction must be highly
+         predictable and founded on the principle that jurisdiction is generally based on the defendant’s domicile and that jurisdiction
+         must always be available on this ground, save in a few well‑defined situations in which the subject‑matter of the litigation
+         or the autonomy of the parties warrants a different linking factor.
+      
+Thus, that the courts of the Member State in which the defendant is domiciled are to have jurisdiction, whatever their nationality,
+         constitutes, in the general scheme of the regulation, the general principle laid down in Article 2(1) of Regulation No 44/(Case C‑89/Shearson Lehman Hutton [1993] ECR I‑139, paragraph 14; Case C‑265/Frahuil [2004] ECR I‑1543, paragraph 23; Case C‑103/Reisch Montage [2006] ECR I‑6827, paragraph 22; and Case C‑98/Freeport [2007] ECR I‑8319, paragraph 34).
+      
+Article 3(1) of that regulation derogates from that general principle. It provides that persons domiciled in a Member State
+         may be sued in the courts of another Member State, but only by virtue of the rules laid down in Sections to of Chapter
+         II of Regulation No 44/(Reisch Montage, paragraph 22, and Freeport, paragraph 34).
+      
+Consequently, the rules on jurisdiction derogating from the general principle cannot result in an interpretation which goes
+         beyond the situations expressly envisaged in Regulation No 44/(see, inter alia, Case 150/Bertrand [1978] ECR 1431, paragraph 17; Case C‑26/Handte [1992] ECR I‑3967, paragraph 14; Shearson Lehman Hutton, paragraph 16; Case C‑412/Group Josi [2000] ECR I‑5925, paragraph 49; and Freeport, paragraph 35).
+      
+Section of Chapter II of that regulation establishes an autonomous system for the conferral of jurisdiction in matters of
+         insurance (Case C‑112/Société financière et industrielle du Peloux [2005] ECR I‑3707, paragraph 29). The purpose of that section, according to recital in the preamble to Regulation No 44/2001,
+         is to protect the weaker party by rules of jurisdiction more favourable to his interests than the general rules provide for.
+      
+The protective role fulfilled by those provisions implies that the application of the rules of special jurisdiction laid down
+         to that end by Regulation No 44/should not be extended to persons for whom that protection is not justified.
+      
+It has not been argued that a social security institution, such as VGKK, is an economically weaker party and less experienced
+         legally than a civil liability insurer such as WGV‑SAV. In general, the Court has already held that no special protection
+         is justified where the parties concerned are professionals in the insurance sector, none of whom may be presumed to be in
+         a weaker position than the others (Case C‑77/GIE Réunion européenne and Others [2005] ECR I‑4509, paragraph 20).
+      
+Consequently, a social security institution, acting as statutory assignee of the rights of the directly injured party in a
+         motor accident, cannot rely on the combined provisions of Articles 9(1)(b) and 11(2) of Regulation No 44/in order to
+         bring an action directly before the courts of its Member State of establishment against the insurer of the person allegedly
+         responsible for the accident, where that insurer is established in another Member State.
+      
+In contrast, where the statutory assignee of the rights of the directly injured party may himself be considered to be a weaker
+         party, such an assignee should be able to benefit from special rules on the jurisdiction of courts laid down in those provisions.
+         This is particularly the situation, as the Spanish Government states, of the heirs of the person injured in an accident.
+      
+Moreover, the conclusion set out in paragraph above finds support in the case‑law of the Court concerning special rules
+         on consumer contracts laid down in Section of Title II of Regulation No 44/2001, which also has as its objective the protection
+         of the weaker party. The Court has held that where, in the exercise of its professional activity, a statutory assignee of
+         rights brings proceedings in order to pursue the assignor’s claim under a contract concluded by a consumer, it may not enjoy
+         the benefit of the rules of special jurisdiction concerning consumer contracts, since the purpose of those rules is to protect
+         the economically weaker and legally less experienced party (Shearson Lehman Hutton, paragraphs to 24).
+      
+Additional confirmation of the conclusion set out in paragraph above is provided by the judgment in Blijdenstein. In paragraph of that judgment, the Court interpreted Article 5(2) of the Convention of September on jurisdiction
+         and the enforcement of judgments in civil and commercial matters (OJ L 388, p. 36), as amended by the Convention of October on the Accession of the Kingdom of Denmark, Ireland and the United Kingdom of Great Britain and Northern Ireland (OJ L 304,
+         p. 1, and – amended version – p. 77), by the Convention of October on the Accession of the Hellenic Republic (OJ L 388,
+         p. 1) and by the Convention of May on the Accession of the Kingdom of Spain and the Portuguese Republic (OJ L 285,
+         p. 1), as not permitting a public body to bring in the courts of the contracting State in which it is established an action
+         for recovery seeking reimbursement of sums paid under public law to a maintenance creditor, to whose rights it is subrogated,
+         against the maintenance debtor domiciled in another contracting State, since that body is not a weaker party in relation to
+         the maintenance debtor.
+      
+Taking account of all of the foregoing, the answer to the first question is that the reference in Article 11(2) of Regulation
+         No 44/to Article 9(1)(b) thereof must be interpreted as meaning that a social security institution, acting as the statutory
+         assignee of the rights of the directly injured party in a motor accident, may not bring an action directly before the courts
+         of its Member State of establishment against the insurer of the person allegedly responsible for the accident, where that
+         insurer is established in another Member State.
+      
+ The second question
+In the light of the answer to the first question, it is not necessary to consider the second question referred by the national
+         court.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (Third Chamber) hereby rules:
+The reference in Article 11(2) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition
+            and enforcement of judgments in civil and commercial matters to Article 9(1)(b) thereof must be interpreted as meaning that
+            a social security institution, acting as the statutory assignee of the rights of the directly injured party in a motor accident,
+            may not bring an action directly in the courts of its Member State of establishment against the insurer of the person allegedly
+            responsible for the accident, where that insurer is established in another Member State.
+[Signatures]
+* Language of the case: German.
+      
+Top  

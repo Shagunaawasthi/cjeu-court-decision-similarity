@@ -1,0 +1,175 @@
+
+JUDGMENT OF THE COURT (Sixth Chamber)
+May (
+*)
+(Reference for a preliminary ruling — Environment — Scheme for greenhouse gas emission allowance trading within the European Union — Free allocation — Directive 2003/87/EC — Article 10a — Annex I — Decision 2011/278/EU — Annex I, Part — Determination of product benchmarks — Production of hydrogen — System boundaries of the product benchmark for hydrogen — Process element of separation of hydrogen in a rich gas stream which already contains hydrogen)
+In Case C‑229/17,
+REQUEST for a preliminary ruling under Article TFEU from the Verwaltungsgericht Berlin (Administrative Court, Berlin, Germany), made by decision of April 2017, received at the Court on May 2017, in the proceedings
+Evonik Degussa GmbH
+v
+Federal Republic of Germany,
+THE COURT (Sixth Chamber),
+composed of C.G. Fernlund, President of the Chamber, J.-C. Bonichot (Rapporteur) and A. Arabadjiev, Judges,
+Advocate General: M. Bobek,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Evonik Degussa GmbH, by S. Altenschmidt, Rechtsanwalt,
+–
+Bundesrepublik Deutschland, by G. Buchholz, Rechtsanwalt,
+–
+the German Government, by T. Henze, J. Möller and D. Klebs, acting as Agents,
+–
+the European Commission, by J.-F. Brakeland and A.C. Becker, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Directive 2003/87/EC of the European Parliament and of the Council of October establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC (OJ L 275, p. 32), as amended by Directive 2009/29/EC of the European Parliament and of the Council of April (OJ L 140, p. 63) (‘Directive 2003/87’), of Commission Decision 2011/278/EU of April determining transitional Union-wide rules for harmonised free allocation of emission allowances pursuant to Article 10a of Directive 2003/(OJ L 130, p. 1), and of Commission Decision 2013/448/EU of September concerning national implementation measures for the transitional free allocation of greenhouse gas emission allowances in accordance with Article 11(3) of Directive 2003/(OJ L 240, p. 27), as amended by Commission Decision (EU) 2017/of January (OJ L 19, p. 93) (‘Decision 2013/448’).
+The request has been made in proceedings between Evonik Degussa GmbH and the Bundesrepublik Deutschland (Federal Republic of Germany) concerning the refusal by the competent national authorities to allocate to it free greenhouse gas emission allowances (‘the allowances’) in the context of implementing a process of separation of hydrogen in a rich gas stream which already contains hydrogen.
+Legal context
+Directive 2003/Recital of Directive 2003/is worded as follows:
+‘Member States should have regard when allocating allowances to the potential for industrial process activities to reduce emissions.’
+The first paragraph of Article of that directive provides:
+‘This Directive establishes a scheme for … allowance trading within the Community … in order to promote reductions of greenhouse gas emissions in a cost-effective and economically efficient manner.’
+Article 2(1) of that directive, entitled ‘Scope’, provides:
+‘This Directive shall apply to emissions from the activities listed in Annex I and greenhouse gases listed in Annex II.’
+Article of that directive defines, in (b), the concept of ‘emissions’ as ‘the release of greenhouse gases into the atmosphere from sources in an installation or the release from an aircraft performing an aviation activity listed in Annex I of the gases specified in respect of that activity’ and, in (e), the concept of ‘installation’ as ‘a stationary technical unit where one or more activities listed in Annex I are carried out and any other directly associated activities which have a technical connection with the activities carried out on that site and which could have an effect on emissions and pollution’.
+Article 10a(1) of Directive 2003/provides:
+‘By December 2010, the Commission shall adopt Community-wide and fully-harmonised implementing measures for the allocation of the allowances referred to in paragraphs 4, 5, and 12, including any necessary provisions for a harmonised application of paragraph 19.
+Those measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 23(3).
+The measures referred to in the first subparagraph shall, to the extent feasible, determine Community-wide ex-ante benchmarks so as to ensure that allocation takes place in a manner that provides incentives for reductions in greenhouse gas emissions and energy efficient techniques, by taking account of the most efficient techniques, substitutes, alternative production processes, high efficiency cogeneration, efficient energy recovery of waste gases, use of biomass and capture and storage of CO2, where such facilities are available, and shall not provide incentives to increase emissions. No free allocation shall be made in respect of any electricity production, except for cases falling within Article 10c and electricity produced from waste gases. …
+For each sector and subsector, in principle, the benchmark shall be calculated for products rather than for inputs, in order to maximise greenhouse gas emissions reductions and energy efficiency savings throughout each production process of the sector or the subsector concerned.
+…’
+Annex I to that directive contains a table listing the categories of activities to which it applies. Among those activities listed is ‘the production of hydrogen (H2) and synthesis gas by reforming or partial oxidation with a production capacity exceeding tonnes per day’.
+Directive 2009/Recital of Directive 2009/states:
+‘... Furthermore, more predictability should be ensured and the scope of the system should be extended by including new sectors and gases with a view to both reinforcing a carbon price signal necessary to trigger the necessary investments and by offering new abatement opportunities, which will lead to lower overall abatement costs and the increased efficiency of the system.’
+Decision 2011/Recitals 1, 2, 4, and of Decision 2011/are worded as follows:
+‘(1)
+Article 10a of Directive [2003/87] requires that the Community-wide and fully-harmonised implementing measures for the allocation of free emission allowances should, to the extent feasible, determine ex-ante benchmarks so as to ensure that the free allocation of emission allowances takes place in a manner that provides incentives for reductions in greenhouse gas emissions and energy efficient techniques, by taking account of the most efficient techniques … Allocations must be fixed prior to the trading period so as to enable the market to function properly.
+(2)
+In defining the principles for setting ex-ante benchmarks in individual sectors or sub-sectors, the starting point should be the average performance of the 10% most efficient installations in a sector or sub-sector in the EU in the years 2007-2008. The benchmarks should be calculated for products rather than for inputs, in order to maximise greenhouse gas emissions reductions and energy efficiency savings throughout each production process of the sector or the sub-sector concerned.
+…
+(4)
+To the extent feasible, the Commission has developed benchmarks for products, as well as intermediate products that are traded between installations, produced from activities listed in Annex I to Directive [2003/87]. …
+(5)
+The Commission considered that setting a benchmark for a product was feasible where, taking into account the complexity of the production processes, product definitions and classifications were available that allow for verification of production data and a uniform application of the product benchmark across the Union for the purposes of allocating emission allowances. No differentiation was made on the basis of geography or on the basis of technologies, raw materials or fuels used, so as not to distort comparative advantages in carbon efficiency across the Union economy, and to enhance harmonisation of the transitional free allocation of emission allowances. No differentiation was made on the basis of geography or on the basis of technologies, raw materials or fuels used, so as not to distort comparative advantages in carbon efficiency across the Union economy, and to enhance harmonisation of the transitional free allocation of emission allowances.
+…
+(8)
+... In addition, the Commission has in accordance with Article 10a(1) of Directive [2003/87] analysed for all sectors for which a product benchmark is provided for in Annex I, on the basis of additional information received from several sources and on the basis of a dedicated study analysing most efficient techniques and reduction potentials at European and international level ...’
+Article of that decision provides:
+‘This Decision lays down transitional Union-wide rules for the harmonised free allocation of emission allowances under Directive [2003/87] from onwards.’
+Article of that decision provides:
+‘For the purposes of this Decision, the following definitions shall apply:
+…
+(b)
+“product benchmark sub-installation” means inputs, outputs and corresponding emissions relating to the production of a product for which a benchmark has been set in Annex I;
+(c)
+“heat benchmark sub-installation” means inputs, outputs and corresponding emissions not covered by a product benchmark sub-installation relating to the production, the import from an installation or other entity covered by the Union scheme, or both, of measurable heat which is:
+–
+consumed within the installation’s boundaries for the production of products, for the production of mechanical energy other than used for the production of electricity, for heating or cooling with the exception of the consumption for the production of electricity, or
+–
+exported to an installation or other entity not covered by the Union scheme with the exception of the export for the production of electricity;
+…’
+Article of that decision provides:
+‘1.   Based on the data collected in accordance with Article 7, Member States shall, for each year, calculate the number of emission allowances allocated free of charge from onwards to each incumbent installation on their territory in accordance with paragraphs to 8.
+2.   For the purpose of this calculation, Member States shall first determine the preliminary annual number of emission allowances allocated free of charge for each sub-installation separately as follows:
+(a)
+for each product benchmark sub-installation, the preliminary annual number of emission allowances allocated free of charge for a given year shall correspond to the value of this product benchmark as referred to in Annex I multiplied by the relevant product-related historical activity level;
+…’
+Annex I, Part 2, to Decision 2011/is entitled ‘Definition of product benchmarks and system boundaries with consideration of exchangeability of fuel and electricity’. The product benchmark for hydrogen is defined as follows:
+‘Product benchmark
+Definition of products covered
+Definition of processes and emissions covered (system boundaries)
+…
+Benchmark value
+(allowances/tonne
+…
+…
+…
+…
+…
+Hydrogen
+Pure hydrogen and mixtures of hydrogen and carbon monoxide having a hydrogen content >= 60% …
+All relevant process elements directly or indirectly linked to the production of hydrogen and the separation of hydrogen and carbon monoxide are included. …
+…
+8.…
+…
+…
+…
+…’
+Annex I, Part 3, to that decision shall determine the heat and fuel benchmarks as follows:
+‘Benchmark
+Benchmark value (allowances/TJ)
+Heat benchmark
+62.Fuel benchmark
+56.1’
+Decision 2013/Recital of Decision 2013/states:
+‘The Commission notes that for the purposes of allocating emission allowances, product benchmarks have been laid down in Decision [2011/278] taking into account the product definitions and the complexity of the production processes that allow for verification of production data and a uniform application of the product benchmarks across the Union. For the application of the product benchmarks, installations are divided into sub-installations, a product benchmark sub-installation being defined as inputs, outputs and corresponding emissions relating to the production of a product for which a benchmark has been set in Annex I to Decision [2011/278]. Benchmarks are thus established for products and not for processes. ...’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Evonik Degussa operates a hydrogen production installation within an industrial park in Marl (Germany), where chemical industry undertakings and their installations are located. For the production of pure hydrogen Evonik Degussa uses various industrial processes. One of those processes is fed by a source stream of ‘rich gas’ which is composed of waste gases emitted by the industrial park’s various installations. That rich gas contains approximately 85% to 95% of hydrogen, but also carbon monoxide, carbon dioxide and gaseous hydrocarbons.
+Evonik Degussa carries out hydrogenation of rich gas and then processes it as part of a pressure-swing adsorption process. In so doing, it separates the hydrogen from other substances contained in the rich gas in order to obtain a gas with a hydrogen volume of at least 99.95%.
+By decision of February 2014, the German authorities decided to allocate to Evonik Degussa allowances for the years 2013-2020. That decision makes clear that the activity of extracting hydrogen from rich gas was not taken into account for the purposes of the allocation.
+By decision of August 2015, the German authorities confirmed their original decision on the ground, inter alia, that the hydrogen was already present in the rich gas source streams, and it was not the result of a production by Evonik Degussa. They stated that the system of the product benchmark for hydrogen listed in Annex I, Part 2, to Decision 2011/and determining the allowances to be allocated only applies to hydrogen produced by reforming, by partial oxidation, by water-gas-shift reaction or by other conversion processes into hydrogen.
+In the appeal which it brought against that decision before the referring court, the Verwaltungsgericht Berlin (Administrative Court, Berlin, Germany), Evonik Degussa claims, in essence, that the production of hydrogen by purification of rich gases ought to have been taken into account for the allocation of allowances. To that end, it relies in particular on the wording of the product benchmark for hydrogen and the definition of that product set out in Annex I, Part 2, to Decision 2011/278. It argues that it is not apparent from that definition that, in order to be regarded as ‘hydrogen’ within the meaning of that product benchmark, the gas concerned should not be the result of a process of adsorption or purification, but of a direct chemical reaction.
+Recital of Decision 2013/and recital of Decision 2011/278, according to which the product benchmarks are established for a certain product and not on the basis of the processes used to obtain it, are said to support that interpretation. Similarly, a document issued by the Commission shows that the processes of adsorption and of purifying gases fall within the system boundaries defined by the product benchmark for hydrogen listed in Annex I, Part 2, to Decision 2011/278. Accordingly, the method of pressure-swing adsorption used by Evonik Degussa for the extraction of hydrogen contained in a rich gas mixture should be classified as a similar process to the chemical synthesis of hydrogen.
+In addition, in every hydrogen production process, that substance is already present in the chemical source substances. However, the allocation of allowances for hydrogen production is not therefore excluded, since only the pure product is decisive for the application of the product benchmark relating to it, with the result that a double allocation for the original product, namely rich gas, and the final product, namely hydrogen, is not possible.
+The referring court takes the view that the action brought by Evonik Degussa raises, in essence, the question whether the activity of ‘production of hydrogen’, referred to in Annex I to Directive 2003/87, includes the increase in the relative amount of hydrogen in a gas mixture to obtain a saleable product. If the answer is in the affirmative, Evonik Degussa’s action should be upheld and an additional allowance allocated to that undertaking.
+Such an additional allocation would also be due if two other conditions were satisfied, namely, first, that, as such, use of the process ‘separation of hydrogen and carbon monoxide’ within the meaning of Annex I to Decision 2011/278, falls within the definition of processes covered by the product benchmark for hydrogen and, second, that that process includes the purification of rich gases by pressure-swing adsorption.
+Should the product benchmark for hydrogen apply to hydrogen production by purification of rich gases, it would be necessary to determine the quantity of additional allowances to allocate to Evonik Degussa. In that context, questions relating to the application of the uniform cross-sectoral correction factor provided for in Article 10a(5) of Directive 2003/(‘the correction factor’) might arise.
+In those circumstances, the Verwaltungsgericht Berlin (Administrative Court, Berlin) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is there a “production of hydrogen” within the meaning of Annex I, Part 2, to Decision [2011/278], only in the case where a … hydrogen molecule … is produced by chemical synthesis from two H hydrogen atoms, or does the concept of “production” also include the process whereby, in the case of a hydrogenous gas mixture, the relative share of … hydrogen in that mixture is increased — without synthesis — by removal of the other gas components — whether by physical or chemical means — in order to obtain a “product … expressed as saleable (net) production and to 100% purity of the substance concerned” within the meaning of Annex I, Part 2, to Decision [2011/278]?
+(2)
+If the answer to Question is that the concept of production does not include the process of increasing the relative share of … hydrogen in a gas mixture, the following further question must be asked:
+Must the wording “relevant process elements directly or indirectly linked to the production of hydrogen and the separation of hydrogen and carbon monoxide” be interpreted as meaning that only both elements together (“and”) are covered by the system boundaries of the product benchmark for hydrogen described in Annex I, Part 2, to Decision [2011/278] or can the process element “separation of hydrogen and carbon monoxide” also operate in isolation within the system boundaries as an independent process element in its own right?
+(3)
+If the answer to Question is that the process element “separation of hydrogen and carbon monoxide” can also operate in isolation within the system boundaries as an independent process element in its own right, the following further question must be asked:
+Is the process element “separation of hydrogen and carbon monoxide” present only where … hydrogen is separated exclusively from … carbon monoxide, or is the process element “separation of hydrogen and carbon monoxide” also present where that process involves the separation of hydrogen not only from carbon monoxide but also from other substances, such as carbon dioxide …?
+(4)
+In the event that [Evonik Degussa] is to be recognised by judicial decision as being entitled to an additional allocation of free emission allowances, must paragraph of the operative part of the judgment of April 2016, Borealis Polyolefine and Others (C‑191/14, C‑192/14, C‑295/14, C‑389/and C‑391/to C‑393/14, EU:C:2016:311), be interpreted as meaning that:
+(a)
+the [correction factor] provided for in Article of, and Annex II to, Decision [2013/448], in its original version, is applicable to allocations for the years 2013-that were established by the competent authority of the Member State before March 2017; and
+(b)
+the [correction factor] provided for in Article of, and Annex II to, Decision [2013/448], in its original version, is applicable to additional allocations for the years 2013-that were awarded by judicial decision after March 2017; and
+(c)
+the [correction factor] provided for in Article of, and Annex II to, Decision [2013/448], … applicable after March 2017, is applicable to additional allocations for the years 2018-that were awarded by judicial decision after March 2017?’
+Consideration of the questions referred
+The first and second questions
+By its first and second questions, the referring court asks, in essence, whether Annex I, Part 2, to Decision 2011/must be interpreted as meaning that a process element which does not produce hydrogen by chemical synthesis, but only isolates hydrogen already contained in a gas mixture, falls within the system boundaries of the product benchmark for hydrogen.
+It should be noted that Decision 2011/was adopted by the Commission, as is apparent, in particular, from Article thereof, in order to determine, pursuant to Article 10a(1) of Directive 2003/87, the transitional Union-wide rules for the harmonised allocation of allowances. Although the measures thus adopted seek, as described in that latter provision, to amend the non-essential elements of Directive 2003/by supplementing it, the fact remains that the Commission was obliged, in that context, to respect the legal framework thus established by that directive (see, to that effect, judgment of July 2017, Czech Republic v Commission, C‑696/P, EU:C:2017:595, paragraph 51), including, in particular, its scope. It follows, furthermore, that it is necessary to interpret the provisions of Decision 2011/in the light of the requirements arising from Directive 2003/87.
+Article 10a(1) of that directive provides that, for each sector and sub-sector, in principle, the benchmark is to be calculated for products rather than for inputs in order to maximise greenhouse gas emissions reductions and energy efficiency savings throughout each production process of the sector or the sub-sector concerned.
+Accordingly, as is clear from recital of Decision 2011/278, the Commission has developed, to the extent feasible, benchmarks for products. As stated in that recital, the products covered by those benchmarks are those ‘produced from activities listed in Annex I to Directive 2003/87’.
+That approach is in accordance with the requirements of Directive 2003/87. That directive is to apply, in accordance with Article 2(1) thereof, to emissions from the activities listed in Annex I thereto. As is evident from Article 3(b) and (e), included in its scope are also emissions from activities directly associated with an activity listed in Annex I and which have a technical connection.
+As regards the production of hydrogen, Annex I to Directive 2003/defines that activity as ‘production of hydrogen (H2) … by reforming or partial oxidation’. It follows that its scope only covers the production of hydrogen by means of such processes and, in accordance with Article 3(b) and (e) of that directive, the activities which are directly associated with that form of hydrogen production, provided that they have a technical connection with that production.
+As is apparent, in particular, from paragraph of this judgment, the product benchmark for hydrogen, as defined in Annex I, Part 2, to Decision 2011/278, cannot include processes other than those falling within the scope of Directive 2003/87.
+In that regard, it should be recalled that that benchmark refers to ‘relevant process elements directly or indirectly linked to the production of hydrogen and the separation of hydrogen and carbon monoxide’.
+As regards, on the one hand, ‘production of hydrogen’, that concept must be interpreted in the light of the wording of Annex I to Directive 2003/as including hydrogen production by reforming or partial oxidation.
+On the other hand, as regards ‘the separation of hydrogen and carbon monoxide’, such a process does not consist of the production of hydrogen by chemical synthesis but the mere extraction of hydrogen already contained in a gas mixture.
+Therefore, in itself, that process is not covered by the product benchmark for hydrogen as defined in Annex I, Part 2, to Decision 2011/278. That process is, however, covered by the product benchmark for hydrogen provided that it is associated with the ‘production of hydrogen’ within the meaning of Annex I to Directive 2003/and Annex I, Part 2, to Decision 2011/and has a technical connection with that production.
+It follows, in particular, that an activity such as that of the applicant in the main proceedings, in so far as it consists solely of the separation of hydrogen from a rich gas mixture — which contains approximately 85% to 95% of hydrogen — cannot be considered as ‘production of hydrogen’ within the meaning of Annex I to Directive 2003/and of Annex I, Part 2, to Decision 2011/278.
+In addition, such an activity, whereby a rich gas mixture, which has not been obtained by a process of ‘production of hydrogen’ within the meaning of those provisions, is purified in order for hydrogen to be extracted from it, is not associated with ‘production of hydrogen’, but constitutes a separate activity which, therefore, is not covered by the product benchmark for hydrogen as referred to in Annex I, Part 2, to Decision 2011/278.
+That interpretation of Annex I, Part 2, to Decision 2011/is borne out by the objective of the allowance trading scheme, referred to in Article of Directive 2003/87, of promoting reductions of greenhouse gas emissions in a cost-effective and economically efficient manner.
+As is apparent from recital of Directive 2003/87, from recital of Directive 2009/and from recital of Decision 2011/278, the achievement of that objective implies the inclusion in that system of activities which have some potential to reduce greenhouse gas emissions. As confirmed by all the observations submitted to the Court, ‘production of hydrogen’ within the meaning of Annex I to Directive 2003/has such a potential because of the intensity of the emissions of greenhouse gases generated by that activity. By contrast, that is not the case of a process of separation of hydrogen contained in a rich gas mixture, such as that at issue in the main proceedings, which seeks only to achieve a higher amount of hydrogen present in a gas mixture.
+Moreover, on the same basis, the application of the product benchmark for hydrogen to a process of separation of hydrogen in a rich gas source stream which already contains hydrogen, such as that at issue in the main proceedings, would lead to an over-allocation of allowances. That benchmark was determined, as is apparent, in particular, from paragraphs to of this judgment, in respect of emissions associated with the production of hydrogen by reforming or partial oxidation. Had the Commission intended to find that such a process of separation in itself constituted hydrogen production falling within the boundaries of such a system, it should have set the product benchmark at a considerably lower level, as the Federal Republic of Germany submits in its written observations.
+In addition, to the extent that Evonik Degussa submits in its written observations that it should receive allowances in respect of its activity implementing the process of separation of hydrogen at issue in the main proceedings on the ground that the substances separated from the hydrogen contained in the rich gas are burnt in a furnace, it should be pointed out that the emissions thus generated may already be covered by a benchmark. That would, in particular, be the case if that furnace supplied the heat necessary for ‘the production of hydrogen’ or if a heat benchmark within the meaning of Article 3(c), and Annex I, Part 3, to Decision 2011/278, were to be applied. In such a case, the allocation of allowances to a process of separation of hydrogen would lead to a double allocation.
+The Court has already held that it is necessary to avoid emissions of installations being taken into account twice in the allocation of allowances, since Directive 2003/and Decision 2011/preclude double counting of emissions and the double allocation of allowances (see, to that effect, judgment of September 2016, Borealis and Others, C‑180/15, EU:C:2016:647, paragraphs to 73).
+In any event, the allocation, in this respect, of emission allowances to an installation such as that at issue in the main proceedings is contrary to the intention of the EU legislature to take into consideration only certain types of efficient energy recovery from waste gases in the setting of product benchmarks.
+It follows from all of the foregoing considerations that Annex I, Part 2, to Decision 2011/must be interpreted as meaning that a process, such as that at issue in the main proceedings, which does not produce hydrogen by chemical synthesis, but only isolates hydrogen already contained in a gas mixture, does not fall within the system boundaries of the product benchmark for hydrogen. It would be otherwise only if that process, first, is associated with ‘production of hydrogen’ within the meaning of Annex I to Directive 2003/and, second, have a technical connection with it.
+The third question
+In view of the answer to Questions and 2, there is no need to answer Question 3.
+The fourth question
+By its fourth question, the referring court asks the Court to interpret the judgment of April 2016, Borealis Polyolefine and Others (C‑191/14, C‑192/14, C‑295/14, C‑389/and C‑391/to C‑393/14, EU:C:2016:311), in the event that it has to grant the applicant in the main proceedings the right to additional allowances.
+In that regard, it is apparent from the order for reference that an additional allowance would have to be allocated to Evonik Degussa only if a process such as that at issue in the main proceedings, which simply consists of the separation of hydrogen contained in a rich gas mixture, falls within the system boundaries of the product benchmark for hydrogen.
+Consequently, in the light of the reply given to the first and second questions, it is not necessary to reply to the fourth question.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Sixth Chamber) hereby rules:
+ 
+Annex I, Part 2, to Commission Decision 2011/278/EU of April determining transitional Union-wide rules for harmonised free allocation of emission allowances pursuant to Article 10a of Directive 2003/87/EC of the European Parliament and of the Council must be interpreted as meaning that a process, such as that at issue in the main proceedings, which does not produce hydrogen by chemical synthesis, but only isolates hydrogen already contained in a gas mixture, does not fall within the system boundaries of the product benchmark for hydrogen. It would be otherwise only if that process, first, is associated with ‘production of hydrogen’ within the meaning of Annex I to Directive 2003/87/EC of the European Parliament and of the Council of October establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC, as amended by Directive 2009/29/EC of the European Parliament and of the Council of April and, second, have a technical connection with it.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

@@ -1,0 +1,67 @@
+
+ORDER OF THE COURT (Tenth Chamber)
+June (*)
+(Appeal — Article of the Rules of Procedure of the Court of Justice — Regulation (CE) No 6/— Article — Community design — Ground for invalidity — No individual character — Representation of an electrically operated lifting column)
+In Case C‑820/P,
+APPEAL under Article of the Statute of the Court of Justice of the European Union, brought on December 2018,
+Linak A/S, established in Nordborg (Denmark), represented by V. von Bomhard, Rechtsanwältin, and J. Fuhrmann, Rechtsanwalt,
+applicant,
+the other party to the proceedings being:
+European Union Intellectual Property Office (EUIPO)
+defendant at first instance,
+THE COURT (Tenth Chamber),
+composed of C. Lycourgos (Rapporteur), President of the Chamber, M. Ilešič and I. Jarukaitis, Judges,
+Advocate General: M. Szpunar,
+Registrar: A. Calot Escobar,
+having regard to the decision taken, after hearing the Advocate General, to give a decision by reasoned order in accordance with Article of the Rules of Procedure of the Court
+makes the following
+Order
+By its appeal, Linak A/S seeks to have set aside the judgment of the General Court of the European Union of October 2018, Linak v EUIPO — ChangZhou Kaidi Electrical (Electrically operated lifting column) (T‑368/17, not published, ‘the judgment under appeal’, EU:T:2018:695), by which that Court dismissed its action against the decision of the Third Board of Appeal of the European Union Intellectual Property Office (EUIPO) of March (Case R 1412/2015-3) concerning invalidity proceedings between Linak and ChangZhou Kaidi Electrical.
+In support of its appeal, the appellant relies on a single ground, alleging infringement of Article of Council Regulation (EC) No 6/of December on Community designs (OJ L 3, p. 1).
+ The appeal
+Under Article of its Rules of Procedure, where the appeal is, in whole or in part, manifestly inadmissible or manifestly unfounded, the Court may at any time, acting on a proposal from the Judge-Rapporteur and after hearing the Advocate General, decide by reasoned order to dismiss that appeal in whole or in part.
+That provision must be applied in the present case.
+On April 2019, the Advocate General took the following position:
+‘1.      By the first ground of appeal put forward in support of the appeal, the appellant submits that the General Court erred in law in the interpretation of Article of Regulation No 6/2002. That plea may be subdivided into three limbs:
+2.      For the reasons set out below, I propose that the Court should dismiss the appeal in the present case as being, in part, manifestly inadmissible and, in part, manifestly unfounded, and order the appellant to bear its own costs in accordance with Article of the Rules of Procedure of the Court.
+The first limb of the single ground of appeal alleging infringement of Article of Regulation No 6/3.      By the first limb, which consists of two parts, the appellant submits, in substance, that the General Court, first, failed to take account, when identifying the relevant informed user in the present case, of the nature of the product to which the design applies or in which it is incorporated and of the industrial sector to which that product belongs, and, second, as a result of that fact wrongly held, on the facts of the present case, that the definition of such an informed user includes not only professionals but also end consumers. According to the appellant, electrically operated lifting columns are in fact goods destined not for an end consumer who purchases furniture, but for furniture manufacturers.
+4.      With regard to the first part of the first limb, it should be noted that, contrary to the appellant’s submissions, the General Court took into account the nature of the goods concerned and the industrial sector to which they belong when assessing the individual character of the design, which includes identifying the relevant informed user.
+5.      With regard, in the first place, to the nature of the goods concerned, in paragraph of the judgment under appeal the General Court gave clear details of the goods at issue, namely electrically operated lifting columns. Furthermore, in identifying the relevant informed user in the present case, the General Court specified, in paragraphs and of the judgment under appeal, the sources from which information on those goods can be obtained and stated that the goods are items which can also be intended for sellers and distributors as well as users purchasing them for their own needs.
+6.      In the second place, as regards the industrial sector concerned, in paragraph of the judgment under appeal the General Court confirmed the Board of Appeal’s finding that in the present case that sector is the furniture industry.
+7.      In those circumstances, it must be held that the first part of the first limb is manifestly unfounded.
+8.      With regard to the second part of the first limb, by which the appellant criticises the General Court’s identification of the relevant informed user in the present case, it must be noted, first, that the General Court, in paragraph of the judgment under appeal, considered that such an informed user is both an end consumer who uses the electrically operated lifting columns for his own needs and a professional.
+9.      Next, in paragraph of the judgment under appeal, the General Court stated that the fact that one of the two groups of informed users, in this case end consumers, perceives the designs in question as producing the same overall impression suffices for a finding that the design at issue lacks individual character.
+10.      It is important to note in that regard that the appellant does not criticise the General Court for having failed to carry out an assessment of the overall impression produced by the design at issue on professionals and for having considered instead that it is sufficient to carry out such an assessment as regards one of the two groups of informed users. The appellant’s complaint concerns its view that the General Court erred in considering that the relevant informed user in the present case may be not only a salesperson or distributor but also an end consumer.
+11.      However, the identification of the relevant informed user in concreto, in the present case, forms part of the assessment of the facts which, unless those facts have been distorted, lies outside the scope of the review by the Court (see, by analogy, order of February 2016, Emsibeth v OHIM, C‑251/P, not published, EU:C:2016:83, paragraph 31).
+12.      Since the appellant has not alleged distortion of the facts under the second part of the single ground of appeal, that part is therefore manifestly inadmissible.
+13.      It follows that the first limb is in part manifestly unfounded and in part manifestly inadmissible.
+The second limb of the first ground of appeal, alleging infringement of Article of Regulation No 6/14.      Under the second limb, the appellant criticises the General Court for having given less weight to certain views of the design at issue which are not visible during the normal use of the goods. According to the appellant, it is clear from the case-law that all views of the design must be taken into account when assessing the overall impression produced by the design on the informed user.
+15.      That line of argument is based on a selective and, accordingly, manifestly erroneous reading of the judgment under appeal.
+16.      It is true that, in paragraph of the judgment under appeal, the General Court referred to the overall impression produced on the informed user by the design at issue when used in the usual manner, namely when it is incorporated into a table.
+17.      However, in paragraph of the judgment under appeal, the General Court expressly stated that, even where the designs are observed from all possible angles, the overall impression remains the same, having regard to the coincidence of the main features of the designs at issue.
+18.      Accordingly, the second limb must be dismissed as manifestly unfounded.
+The third limb of the single ground of appeal, alleging infringement of Article of Regulation No 6/19.      By the third limb, the appellant criticises the General Court for having confirmed, in paragraph of the judgment under appeal, the Board of Appeal’s finding that the differences between the designs at issue must be obvious in order to produce a different overall impression. In so doing, the General Court imposed a more stringent test than that provided for in Article of Regulation 6/2002.
+20.      That line of argument is based on a manifestly incorrect reading of the judgment under appeal and cannot succeed.
+21.      It is true that, in paragraph of the judgment under appeal, the General Court confirmed the finding of the Board of Appeal that the minor differences between the designs at issue will not be ‘obvious’ to an informed user and that consequently the designs at issue are too similar to be able to produce a different overall impression on the informed user.
+22.      However, it should be observed that the General Court, in paragraph of the judgment under appeal, recalled that the only differences existing between the designs at issue, pointed out by the Board of Appeal, are in the details of the finish and the thickness of the housing placed on top of the telescopic arm, the diameter and the shape of the telescopic arm and the colour of the designs at issue.
+23.      Subsequently, in paragraph of the judgment under appeal, the General Court held that those differences were not significant and did not affect the overall functioning or structure of the designs at issue.
+24.      Finally, having regard to those considerations, the General Court held in paragraph of the judgment under appeal that the word ‘obvious’ had been used by the Board of Appeal to allude to the fact that the differences between the designs at issue were not ‘sufficiently marked or significant’.
+25.      Accordingly, with regard to the nature of the differences between the designs at issue which makes it possible to recognise the individual character of a design and, contrary to the appellant's submissions, the General Court did not impose any criterion based on their obvious character in the exact meaning of the term.
+26.      In consequence, the third part of the single ground of appeal must be rejected as manifestly unfounded.
+27.      In the light of the foregoing, I consider that the single ground of the appeal must be rejected as being, in part, manifestly inadmissible and, in part, manifestly unfounded and, as a consequence, the appeal must be dismissed in its entirety.
+28.      I therefore propose that the Court dismiss the appeal, in accordance with Article of the Rules of Procedure, as, in part, manifestly inadmissible and, in part, manifestly unfounded, and that the appellant be ordered to bear its own costs.’
+For the same reasons as those given by the Advocate General, the appeal must be dismissed as, in part, manifestly inadmissible and, in part, manifestly unfounded.
+ Costs
+Under Article of the Rules of Procedure, applicable to appeal proceedings by virtue of Article 184(1) of those rules, a decision as to costs is to be given in the order which closes the proceedings. Since in this case the present order has been adopted before the appeal was served on the other parties and, consequently, before those parties could have incurred costs, the appellant must be ordered to bear its own costs.
+On those grounds, the Court (Tenth Chamber) hereby orders:
+1.      The appeal is dismissed as being, in part, manifestly inadmissible and, in part, manifestly unfounded.
+2.      Linak A/S shall bear its own costs.
+Luxembourg, June 2019.
+A. Calot Escobar
+ 
+C. Lycourgos
+Registrar
+ 
+President of the Tenth Chamber
+*      Language of the case: English.
+Top  

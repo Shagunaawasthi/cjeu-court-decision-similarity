@@ -1,0 +1,147 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+September (
+*)
+(Reference for a preliminary ruling — Judicial cooperation in civil and commercial matters — European order for payment procedure — Regulation (EC) No 1896/— Issue of an order for payment together with the application for the order — No translation of the application for the order — European order for payment declared enforceable — Application for review after expiry of the period for opposition — Service of judicial and extrajudicial documents — Regulation (EC) No 1393/— Applicability — Article and Annex II — Informing the addressee of the right to refuse to accept a document instituting proceedings that has not been translated — Lack of the standard form — Consequences)
+In Case C‑21/17,
+REQUEST for a preliminary ruling under Article TFEU from the Nejvyšší soud (Supreme Court, Czech Republic), made by decision of November 2016, received at the Court on January 2017, in the proceedings
+Catlin Europe SE
+v
+O.K. Trans Praha spol. s r.o.,
+THE COURT (Fifth Chamber),
+composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits, A. Borg Barthet, M. Berger and F. Biltgen (Rapporteur), Judges,
+Advocate General: M. Wathelet,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+O.K. Trans Praha spol. s r.o., by M. Laipold, advokát,
+–
+the Greek Government, by V. Karra, A. Dimitrakopoulou, M. Tassopoulou and E. Tsaousi, acting as Agents,
+–
+the Italian Government, by G. Palmieri, acting as Agent, and G. Rocchitta, avvocato dello Stato,
+–
+the Austrian Government, by C. Pesendorfer, acting as Agent,
+–
+the European Commission, by M. Šimerdová and M. Heller, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on May 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Regulation (EC) No 1896/of the European Parliament and of the Council of December creating a European order for payment procedure (OJ L 399, p. 1) and Regulation (EC) No 1393/of the European Parliament and of the Council of November on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents), and repealing Council Regulation (EC) No 1348/(OJ L 324, p. 79).
+The request has been made in proceedings between Catlin Europe SE and O.K. Trans Praha spol. s r.o. concerning a European order for payment procedure.
+Legal context
+Regulation No 1896/Article of Regulation No 1896/provides:
+‘1.   An application for a European order for payment shall be made using standard form A as set out in Annex I.
+2.   The application shall state:
+…
+(d)
+the cause of the action, including a description of the circumstances invoked as the basis of the claim and, where applicable, of the interest demanded;
+(e)
+a description of evidence supporting the claim;
+…’
+Article 12(2) of the regulation reads as follows:
+‘The European order for payment shall be issued together with a copy of the application form. …’
+Article 16(1) to (3) of the regulation provides:
+‘1.   The defendant may lodge a statement of opposition to the European order for payment with the court of origin …
+2.   The statement of opposition shall be sent within days of service of the order on the defendant.
+3.   The defendant shall indicate in the statement of opposition that he contests the claim, without having to specify the reasons for this.’
+Article of the regulation, ‘Review in exceptional cases’, provides:
+‘1.   After the expiry of the time limit laid down in Article 16(2) the defendant shall be entitled to apply for a review of the European order for payment before the competent court in the Member State of origin where:
+(a)
+(i)
+the order for payment was served by one of the methods provided for in Article 14,
+and
+(ii)
+service was not effected in sufficient time to enable him to arrange for his defence, without any fault on his part,
+or
+(b)
+the defendant was prevented from objecting to the claim by reason of force majeure or due to extraordinary circumstances without any fault on his part,
+provided in either case that he acts promptly.
+2.   After expiry of the time limit laid down in Article 16(2) the defendant shall also be entitled to apply for a review of the European order for payment before the competent court in the Member State of origin where the order for payment was clearly wrongly issued, having regard to the requirements laid down in this Regulation, or due to other exceptional circumstances.
+3.   If the court rejects the defendant’s application on the basis that none of the grounds for review referred to in paragraphs and apply, the European order for payment shall remain in force.
+If the court decides that the review is justified for one of the reasons laid down in paragraphs and 2, the European order for payment shall be null and void.’
+Article of the regulation states:
+‘All procedural issues not specifically dealt with in this Regulation shall be governed by national law.’
+Article of the regulation, ‘Relationship with Regulation (EC) No 1348/2000’, provides:
+‘This Regulation shall not affect the application of Council Regulation (EC) No 1348/of May on the service in the Member States of judicial and extrajudicial documents in civil and commercial matters [(OJ L 160, p. 37)].’
+Annex I to the regulation contains Form A, entitled ‘Application for a European order for payment’.
+Form E, by means of which the European order for payment is issued, appears in Annex V to the regulation.
+Regulation No 1393/Regulation No 1393/applies, as stated in Article 1(1), in civil and commercial matters where a judicial or extrajudicial document has to be transmitted from one Member State to another for service there.
+Article of the regulation, headed ‘Refusal to accept a document’, provides:
+‘1.   The receiving agency shall inform the addressee, using the standard form set out in Annex II, that he may refuse to accept the document to be served at the time of service or by returning the document to the receiving agency within one week if it is not written in, or accompanied by a translation into, either of the following languages:
+(a)
+a language which the addressee understands; or
+(b)
+the official language of the Member State addressed or, if there are several official languages in that Member State, the official language or one of the official languages of the place where service is to be effected.
+2.   Where the receiving agency is informed that the addressee refuses to accept the document in accordance with paragraph 1, it shall immediately inform the transmitting agency by means of the certificate provided for in Article and return the request and the documents of which a translation is requested.
+3.   If the addressee has refused to accept the document pursuant to paragraph 1, the service of the document can be remedied through the service on the addressee in accordance with the provisions of this Regulation of the document accompanied by a translation into a language provided for in paragraph 1. In that case, the date of service of the document shall be the date on which the document accompanied by the translation is served in accordance with the law of the Member State addressed. However, where according to the law of a Member State, a document has to be served within a particular period, the date to be taken into account with respect to the applicant shall be the date of the service of the initial document determined pursuant to Article 9(2).
+4.   Paragraphs 1, and shall also apply to the means of transmission and service of judicial documents provided for in Section 2.
+5.   For the purposes of paragraph 1, the diplomatic or consular agents, where service is effected in accordance with Article 13, or the authority or person, where service is effected in accordance with Article 14, shall inform the addressee that he may refuse to accept the document and that any document refused must be sent to those agents or to that authority or person respectively.’
+The standard form, entitled ‘Information to the addressee about the right to refuse to accept a document’, which appears in Annex II to the regulation, contains the following statement for the attention of the addressee of the document:
+‘You may refuse to accept the document if it is not written in or accompanied by a translation into either a language which you understand or the official language or one of the official languages of the place of service.
+If you wish to exercise this right, you must refuse to accept the document at the time of service directly with the person serving the document or return it to the address indicated below within one week stating that you refuse to accept it.’
+The standard form also contains a ‘declaration of the addressee’ which he is asked to sign in the event that he refuses to accept the document concerned, and which is worded as follows:
+‘I refuse to accept the document attached hereto because it is not written in or accompanied by a translation into either a language which I understand or the official language of the place of service.’
+Finally, the standard form states that, in that event, the addressee must indicate the language or languages which he understands from among the official languages of the European Union.
+In accordance with Article of the regulation:
+‘1.   Regulation (EC) No 1348/shall be repealed as from the date of application of this Regulation.
+2.   References made to the repealed Regulation shall be construed as being made to this Regulation …’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+According to the order for reference, O.K. Trans Praha, a company incorporated under Czech law, applied to the Okresní soud Praha-zapad (District Court, Prague West, Czech Republic) for a European order for payment against Catlin Innsbruck GmbH, a company established in Austria, the successor to which is Catlin Europe, established in Cologne (Germany).
+The Okresní soud Praha-zapad (District Court, Prague West) allowed the application, issuing the European order for payment sought on August 2012.
+The order was served on Catlin Europe on August and became enforceable on September 2012.
+On December 2012, in other words after the period for opposition laid down in Article 16(2) of Regulation No 1896/had expired, Catlin Europe applied for a review of the order under Article 20(2) of that regulation.
+In support of that application, Catlin Europe submitted that, in breach of Article 8(1) of Regulation No 1393/2007, it had not been informed by means of the standard form in Annex II to that regulation of its right to refuse to accept the document to be served where the document was not written in or accompanied by a translation into one of the languages mentioned in that provision.
+The copy of the application form for the order for payment which, in accordance with Article 12(2) of Regulation No 1896/2006, was annexed to the order for payment of August was indeed written in Czech only and was not accompanied by a translation into German.
+Catlin Europe argued that it had therefore been impossible for it to understand the document instituting proceedings, which constituted exceptional circumstances within the meaning of Article 20(2) of that regulation, justifying a review of the order on the basis of that provision.
+However, the application for review was dismissed by the Okresní soud Praha-zapad (District Court, Prague West) by decision of April 2013, upheld on appeal by the Krajský soud v Praze (Regional Court, Prague, Czech Republic) on June 2013.
+The appellate court considered that the European order for payment had been properly served on Catlin Europe in accordance with the requirements of Article of Regulation No 1896/2006. Furthermore, the lack of information on the addressee’s right to refuse to accept the document to be served under Article 8(1) of Regulation No 1393/could not make the order invalid or be grounds for reviewing it, since Regulation No 1896/does not provide for such a consequence.
+Catlin Europe appealed on a point of law to the Nejvyšší soud (Supreme Court, Czech Republic).
+That court is uncertain whether the failure in this case to comply with the requirements of Article 8(1) of Regulation No 1393/can be a ground for a review of the order as provided for in Article of Regulation No 1896/2006.
+In particular, Regulation No 1896/contains no provision governing the language in which the application for an order for payment must be served on the defendant. Furthermore, unlike Regulation No 1393/2007, Regulation No 1896/lays down specific rules based on the use of standard forms, set out in its annexes, which must essentially be completed using predefined numerical codes. The referring court is therefore uncertain whether it may be considered that a procedural error such as that relied on by Catlin Europe is capable of infringing the rights of the defence.
+In those circumstances, the Nejvyšší soud (Supreme Court) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Is Article 20(2) of Regulation [No 1896/2006] to be interpreted to the effect that a failure to notify the addressee of the possibility of refusing to accept the document to be served, as provided for under Article 8(1) of Regulation [No 1393/2007], gives grounds for a right on the part of the defendant (the addressee) to apply for review of the European order for payment under Article 20(2) of Regulation [No 1896/2006]?’
+Consideration of the question referred
+By its question the referring court essentially asks, first, whether Regulations No 1896/and No 1393/must be interpreted as meaning that, where a European order for payment is served on the defendant without the application for the order, annexed to the order, being written in or accompanied by a translation into a language he is deemed to understand, as required by Article 8(1) of Regulation No 1393/2007, the defendant must be duly informed, by means of the standard form in Annex II to Regulation No 1393/2007, of his right to refuse to accept the document in question. The referring court asks, second, what the consequences of the absence of that information are and, more particularly, whether it is capable of justifying an application for review of the European order for payment on the basis of Article 20(2) of Regulation No 1896/2006.
+As regards the first part of the question, relating to the applicability of the requirements of Article 8(1) of Regulation No 1393/in connection with the service of a European order for payment on the defendant together with the application form for the order in accordance with the requirements of Regulation No 1896/2006, it must be recalled to begin with that in that provision Regulation No 1393/expressly lays down the ability of the addressee of a document to be served to refuse to accept the document if it is not written in or accompanied by a translation into either a language which the addressee understands or the official language of the Member State addressed or, if there are several official languages in that Member State, the official language or one of the official languages of the place where service is to be effected.
+In this connection the Court has repeatedly held that the ability to refuse to accept the document to be served constitutes a right of the addressee of that document (see, to that effect, judgment of September 2015, Alpha Bank Cyprus, C‑519/13, EU:C:2015:603, paragraph 49; order of April 2016, Alta Realitat, C‑384/14, EU:C:2016:316, paragraph 61; and judgment of March 2017, Henderson, C‑354/15, EU:C:2017:157, paragraph 50).
+As the Court has also pointed out, the right to refuse to accept a document to be served stems from the need to protect the rights of defence of the addressee of that document, in accordance with the requirements of a fair hearing, enshrined in the second paragraph of Article of the Charter of Fundamental Rights of the European Union and Article 6(1) of the European Convention for the Protection of Human Rights and Fundamental Freedoms, signed in Rome on November 1950. While the main aim of Regulation No 1393/is to improve the efficiency and speed of judicial procedures and to ensure the proper administration of justice, the Court has held that those objectives cannot be attained by undermining in any way the rights of defence of the addressees of the documents in question (judgment of March 2017, Henderson, C‑354/15, EU:C:2017:157, paragraph and the case-law cited).
+It is important, therefore, not only to ensure that the addressee of a document actually receives the document in question, but also that he is able to know and understand effectively and completely the meaning and scope of the action brought against him abroad, so as to be able effectively to prepare his defence and assert his rights in the Member State of transmission (judgment of March 2017, Henderson, C‑354/15, EU:C:2017:157, paragraph and the case-law cited).
+For the right of refusal in Article 8(1) of Regulation No 1393/to be effective, the addressee of the document must be duly informed in advance, in writing, of the existence of the right (judgment of March 2017, Henderson, C‑354/15, EU:C:2017:157, paragraph and the case-law cited).
+In the system established by that regulation, that information is provided to him by means of the standard form in Annex II to the regulation (judgment of March 2017, Henderson, C‑354/15, EU:C:2017:157, paragraph and the case-law cited).
+As regards the scope which must be given to that standard form, the Court has held that Regulation No 1393/does not provide for any exceptions to its use (judgment of March 2017, Henderson, C‑354/15, EU:C:2017:157, paragraph and the case-law cited).
+From that consideration and from the aim pursued by the standard form in Annex II to Regulation No 1393/2007, as described in paragraphs and above, it may be deduced that the authority responsible for service is required, in all circumstances and without it having a margin of discretion in that regard, to inform the addressee of a document of his right to refuse to accept the document, by using systematically for that purpose that standard form (judgment of March 2017, Henderson, C‑354/15, EU:C:2017:157, paragraph and the case-law cited).
+As to whether the above considerations must also apply in connection with Regulation No 1896/2006, it should be noted that Article of that regulation explicitly states that it is without prejudice to the application of Regulation No 1348/2000. Regulation No 1348/was repealed and replaced by Regulation No 1393/2007, Article 25(2) of which provides that ‘references made to [Regulation No 1348/2000] shall be construed as being made to [Regulation No 1393/2007]’.
+Questions not regulated by Regulation No 1896/concerning service of a European order for payment together with the application for the order must therefore be decided, if necessary, in accordance with Regulation No 1393/2007.
+Moreover, it is beyond doubt that the application for the order, which is the document instituting proceedings for the purposes of issuing the European order for payment, must be classified as a document within the meaning of Article 8(1) of Regulation No 1393/2007.
+In addition, Article 12(2) of Regulation No 1896/provides that a European order for payment is to be issued together with a copy of the application form, so that service of the order on the defendant is accompanied also by service of the application. In the present case, both were served together.
+It follows that the requirements of Article 8(1) of Regulation No 1393/are applicable not only to service of the order itself but also to service of the application for the order. Consequently, both those documents must be served on the addressee in a language he is deemed to understand within the meaning of Article 8(1). To that end, service must be accompanied by the standard form in Annex II to that regulation, which informs the addressee of his right to refuse to accept the document.
+That conclusion is all the more compelling in that the European order for payment procedure established by Regulation No 1896/is not adversarial, as the national court decides solely on the basis of the applicant’s application without the defendant being informed of the existence of proceedings against him.
+It is thus not until the stage of service of the order that it is possible for the defendant to learn of the existence and content of the application. Respect for the rights of the defence, which Article 8(1) of Regulation No 1393/seeks to maintain, is therefore especially important in this context.
+The fact that in accordance with Regulation No 1896/the application for the order is made using a standard form, the model for which appears in Annex I to that regulation, is immaterial in this respect.
+Even if many of the boxes in the standard form can be filled in by using predefined codes, and are therefore easily understandable in so far as the explanations relating to those codes have been published in the Official Journal of the European Union in all the official languages of the European Union, the fact remains that the standard form also requires the applicant, as follows from Article 7(2)(d) and (e) of that regulation, to provide more detailed information describing the specific circumstances relied on as the basis of the claim and the evidence supporting the claim. The defendant must be able to learn of those matters in a language which he is deemed to understand, for the purpose of understanding effectively and completely the meaning and scope of the action brought against him abroad and, if necessary, to prepare his defence.
+In the light of the above, it must therefore be concluded that the compulsory and systematic character of the use of the standard form in Annex II to Regulation No 1393/applies in the same way to service of the European order for payment and to the accompanying service of the application for the order.
+As regards the second part of the question, relating to the consequences of failure to comply with that obligation, it is settled case-law that failure to attach the standard form in Annex II to Regulation No 1393/cannot render invalid either the document to be served or the procedure for service, as that consequence would be incompatible with the objective pursued by that regulation, which consists in providing a direct, rapid and effective means of transmission between Member States of documents in civil and commercial matters (judgment of March 2017, Henderson, C‑354/15, EU:C:2017:157, paragraph and the case-law cited).
+On the other hand, as the communication of that standard form is an essential formal requirement intended to safeguard the rights of defence of the addressee of the document, its omission must be remedied in accordance with the provisions of that regulation. The authority responsible for service must therefore immediately inform the addressee of the document of his right to refuse to accept it, by transmitting to him the standard form, pursuant to Article 8(1) of that regulation (see, to that effect, judgment of March 2017, Henderson, C‑354/15, EU:C:2017:157, paragraph and the case-law cited).
+For reasons that are the same as those set out in paragraphs to above, the same rules must apply by analogy for service of documents in connection with Regulation No 1896/2006.
+It follows that in a case in which, as in the main proceedings, service on the defendant of the application for the order for payment, written in a language other than those referred to in Article 8(1) of Regulation No 1393/2007, was not accompanied by the standard form in Annex II to that regulation, that omission, and the resulting lack of information of the addressee of the document of his right to refuse to accept it, must be remedied by providing the addressee with the standard form without delay and in accordance with the provisions of that regulation.
+Furthermore, according to the Court’s case-law, in the case of irregular service such as that at issue in the main proceedings, the European order for payment has not validly become enforceable and the period in which the defendant may lodge a statement of opposition has not started to run (see, by analogy, judgment of September 2014, eco cosmetics and Raiffeisenbank St. Georgen, C‑119/and C‑120/13, EU:C:2014:2144, paragraphs to and 48).
+In those circumstances, the question of review of the European order for payment under Article of Regulation No 1896/2006, as raised by the referring court, does not arise in the present case.
+In the light of all the above considerations, the answer to the question is that Regulations No 1896/and No 1393/must be interpreted as meaning that, where a European order for payment is served on the defendant without the application for the order, annexed to the order, being written in or accompanied by a translation into a language he is deemed to understand, as required by Article 8(1) of Regulation No 1393/2007, the defendant must be duly informed, by means of the standard form in Annex II to Regulation No 1393/2007, of his right to refuse to accept the document in question.
+If that formal requirement is omitted, the procedure must be regularised in accordance with the provisions of Regulation No 1393/2007, by communicating to the addressee the standard form in Annex II to that regulation.
+In that case, as a result of the procedural irregularity affecting the service of the European order for payment together with the application for the order, the order does not become enforceable and the period in which the defendant may lodge a statement of opposition cannot start to run, so that Article of Regulation No 1896/cannot apply.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+Regulation (EC) No 1896/of the European Parliament and of the Council of December creating a European order for payment procedure and Regulation (EC) No 1393/of the European Parliament and of the Council of November on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents), and repealing Council Regulation (EC) No 1348/must be interpreted as meaning that, where a European order for payment is served on the defendant without the application for the order, annexed to the order, being written in or accompanied by a translation into a language he is deemed to understand, as required by Article 8(1) of Regulation No 1393/2007, the defendant must be duly informed, by means of the standard form in Annex II to Regulation No 1393/2007, of his right to refuse to accept the document in question.
+ 
+If that formal requirement is omitted, the procedure must be regularised in accordance with the provisions of Regulation No 1393/2007, by communicating to the addressee the standard form in Annex II to that regulation.
+ 
+In that case, as a result of the procedural irregularity affecting the service of the European order for payment together with the application for the order, the order does not become enforceable and the period in which the defendant may lodge a statement of opposition cannot start to run, so that Article of Regulation No 1896/cannot apply.
+ 
+[Signatures]
+(
+*)	Language of the case: Czech.
+Top  

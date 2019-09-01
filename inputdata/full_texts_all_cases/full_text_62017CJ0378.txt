@@ -1,0 +1,149 @@
+
+JUDGMENT OF THE COURT (Grand Chamber)
+December (
+*)
+(Reference for a preliminary ruling — Equal treatment in employment — Directive 2000/78/EC — Prohibition of discrimination on grounds of age — Recruitment of police officers — National body established by law in order to ensure enforcement of EU law in a particular area — Power to disapply national legislation that conflicts with EU law — Primacy of EU law)
+In Case C‑378/17,
+REQUEST for a preliminary ruling under Article TFEU from the Supreme Court (Ireland), made by decision of June 2017, received at the Court on June 2017, in the proceedings
+Minister for Justice and Equality,
+Commissioner of An Garda Síochána
+v
+Workplace Relations Commission,
+notice parties:
+Ronald Boyle and Others,
+THE COURT (Grand Chamber),
+composed of K. Lenaerts, President, R. Silva de Lapuerta (Rapporteur), Vice-President, J.-C. Bonichot, A. Arabadjiev, T. von Danwitz, C. Toader and F. Biltgen, Presidents of Chambers, E. Levits, L. Bay Larsen, M. Safjan, C.G. Fernlund, C. Vajda and S. Rodin, Judges,
+Advocate General: N. Wahl,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on June 2018,
+after considering the observations submitted on behalf of:
+–
+the Minister for Justice and Equality, the Commissioner of An Garda Síochána and Ireland, by M. Browne, L. Williams and T. Joyce, acting as Agents, A. Kerr, Barrister-at-Law, and B. Murray, Senior Counsel,
+–
+the Workplace Relations Commission, by G. Gilmore, Barrister-at-Law, and C. Power, Senior Counsel, instructed by S. Larkin, Solicitor,
+–
+Ronald Boyle and Others, by D. Fennelly, Barrister-at-Law, instructed by M. Mullan, Solicitor,
+–
+the Czech Government, by M. Smolek, J. Vláčil and J. Pavliš, acting as Agents,
+–
+the European Commission, by H. Krämer and L. Flynn, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the question whether a national body established by law in order to ensure enforcement of EU law in a particular area must be able to disapply a rule of national law that is contrary to EU law.
+The request has been made in proceedings between (i) the Minister for Justice and Equality (Ireland) (‘the Minister’) and the Commissioner of An Garda Síochána (Commissioner of the national police force, Ireland) and (ii) the Equality Tribunal (Ireland), whose functions have, from 2015, been assumed by the Workplace Relations Commission (Ireland), concerning the jurisdiction of the Workplace Relations Commission to decide to disapply provisions of national law that are contrary to EU law.
+Legal context
+EU law
+As set out in Article of Council Directive 2000/78/EC of November establishing a general framework for equal treatment in employment and occupation (OJ L 303, p. 16):
+‘The purpose of this Directive is to lay down a general framework for combating discrimination on the grounds of religion or belief, disability, age or sexual orientation as regards employment and occupation, with a view to putting into effect in the Member States the principle of equal treatment.’
+In Article of Directive 2000/78, headed ‘Scope’, paragraph 1(a) provides:
+‘Within the limits of the areas of competence conferred on the [European Union], this Directive shall apply to all persons, as regards both the public and private sectors, including public bodies, in relation to:
+(a)
+conditions for access to employment, to self-employment or to occupation, including selection criteria and recruitment conditions, whatever the branch of activity and at all levels of the professional hierarchy, including promotion;
+...’
+In Chapter II of Directive 2000/78, headed ‘Remedies and enforcement’, Article 9(1) is worded as follows:
+‘Member States shall ensure that judicial and/or administrative procedures, including where they deem it appropriate conciliation procedures, for the enforcement of obligations under this Directive are available to all persons who consider themselves wronged by failure to apply the principle of equal treatment to them, even after the relationship in which the discrimination is alleged to have occurred has ended.’
+Irish law
+Article of the Bunreacht na hÉireann (Constitution of Ireland) provides:
+‘Justice shall be administered in courts established by law by judges appointed in the manner provided by this Constitution, and, save in such special and limited cases as may be prescribed by law, shall be administered in public.
+The Courts shall comprise:
+i
+Courts of First Instance;
+ii
+a Court of Appeal; and
+iii
+a Court of Final Appeal.
+1°   The Courts of First Instance shall include a High Court invested with full original jurisdiction in and power to determine all matters and questions whether of law or fact, civil or criminal.
+2°   Save as otherwise provided by this Article, the jurisdiction of the High Court shall extend to the question of the validity of any law having regard to the provisions of this Constitution, and no such question shall be raised (whether by pleading, argument or otherwise) in any Court established under this or any other Article of this Constitution other than the High Court, the Court of Appeal or the Supreme Court.’
+Article 37.of the Constitution of Ireland states:
+‘Nothing in this Constitution shall operate to invalidate the exercise of limited functions and powers of a judicial nature, in matters other than criminal matters, by any person or body of persons duly authorised by law to exercise such functions and powers, notwithstanding that such person or such body of persons is not a judge or a court appointed or established as such under this Constitution.’
+The national measures transposing Directive 2000/as far as concerns employment, including recruitment, are set out in the Employment Equality Acts to (‘the Equality Acts’), section 77(1) of which provides:
+‘A person who claims … to have been discriminated against … in contravention of [the Equality Acts] may … seek redress by referring the case to the Director General of the Workplace Relations Commission.’
+Section of the Equality Acts lays down various forms of redress that may be ordered by the Director General of the Workplace Relations Commission. He may make an order (i) for compensation in the form of arrears of remuneration (in the event of breach of the duty to provide equal remuneration) in respect of so much of the period of employment as begins not more than three years before the date of the referral under section 77(1) of the Equality Acts which led to the decision of the Director General, (ii) for equal remuneration from that date, (iii) for compensation for the effects of acts of discrimination or victimisation which occurred not earlier than six years before the date of the referral of the case under section of the Equality Acts, (iv) for equal treatment in whatever respect is relevant to the case, (v) that a person or persons specified in the order take a course of action which is specified therein or (vi) for reinstatement or re-engagement, with or without an order for compensation.
+Regulation 5(1)(c) of the Garda Síochána (Admissions and Appointments) Regulations 1988, as amended by the Garda Síochána (Admissions and Appointments) (Amendment) Regulations (‘the Admissions and Appointments Regulations’), provides:
+‘Subject to these Regulations, the Commissioner shall not admit a person as a trainee unless—
+...
+(c)
+he is satisfied that the person is at least 18, but under 35, years of age on the first day of the month in which an advertisement of the vacancy to which the admission relates was first published in a national newspaper;
+...’
+The main proceedings and the question referred for a preliminary ruling
+Ronald Boyle and two other persons (‘Mr Boyle and Others’) were excluded from the procedure for recruitment of new police officers to An Garda Síochána (national police force, Ireland) on the ground that they were above the maximum age for recruitment laid down by the Admissions and Appointments Regulations.
+Following that decision, Mr Boyle and Others brought complaints before the Equality Tribunal.
+They submitted that the setting of a maximum age for recruitment to the national police force constitutes discrimination prohibited both by Directive 2000/and by the provisions of Irish law transposing that directive.
+The Minister pleaded that the Equality Tribunal lacked jurisdiction on the ground that the measure which imposed the maximum age for recruitment to the national police force was a measure of national law, meaning that only courts established under the Constitution of Ireland had jurisdiction to decide, if necessary, to disapply such a provision. However, the Equality Tribunal decided that it would proceed to consider the complaints, nevertheless stating that it would, as part of that process, consider and decide the jurisdictional issue raised by the Minister.
+The Minister brought an action before the High Court (Ireland) for an order prohibiting the Equality Tribunal from acting in a manner contrary to law.
+The High Court upheld the Minister’s action by an order prohibiting the Equality Tribunal from ruling on the complaints of Mr Boyle and Others. The High Court held that the Equality Tribunal lacked jurisdiction to adopt a legally binding decision concluding that national law was incompatible with EU law, as that power was expressly reserved to the High Court under Article of the Constitution of Ireland.
+The Equality Tribunal appealed against that order to the referring court, the Supreme Court (Ireland).
+The referring court states that, as a matter of national law, the Equality Tribunal, now the Workplace Relations Commission, lacks jurisdiction to disapply provisions of national law that it considers to be contrary to EU law. Only the High Court enjoys such jurisdiction and may, on that basis, properly have an action brought before it which, if upheld, would entail disapplying a provision of national law, subject to an appeal before the Court of Appeal (Ireland) or before the referring court.
+The referring court holds, therefore, that, as a matter of national law, jurisdiction to hear cases relating to equality in employment is shared between, first, the Workplace Relations Commission, which has jurisdiction in most cases, and, second, the High Court, when the upholding of an application in that area would require, inter alia, disapplying rules of national law that conflict with EU law. The referring court is also of the view that, as a matter of national law and in order to ensure compliance with EU law, the High Court has jurisdiction to provide any remedy required to give effect to rights conferred by EU law.
+The Supreme Court then examines whether such a division of jurisdiction in the domestic legal order complies with the principles of equivalence and effectiveness laid down by the case-law of the Court of Justice.
+In that regard, it holds, first, that, since that division of jurisdiction is applicable in any legal field, whether governed by national or by EU law, the principle of equivalence is clearly observed.
+Second, it takes the view that that division of jurisdiction, under which cases involving the potential disapplication of rules of national law that are contrary to EU law must be commenced before the High Court, complies with the principle of effectiveness, as the High Court has jurisdiction to ensure observance of any right conferred by EU law and, in that context, to disapply, if necessary, the provisions of national law setting the maximum age for recruitment to the police service that may run counter to the provisions of EU law relating to equality in employment, in a manner which does not make the implementation of EU law excessively difficult.
+The Workplace Relations Commission contends that, as a body bound by the general obligation to ensure that national and EU law relating to equality in employment are complied with, it must have all the powers necessary for that purpose. Thus, it submits that the division of jurisdiction between the High Court and itself is not consistent with EU law, as that division prevents it from fulfilling that obligation.
+In that context, the Supreme Court decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Where
+(a)
+A national body is established by law and has a general jurisdiction conferred on it to inter alia ensure enforcement of Union law in a particular area; and
+(b)
+National law would require that such body not have jurisdiction in a limited category of case where an effective remedy would require the disapplication of national legislation on the basis of national or European law; and
+(c)
+Appropriate national courts would have a jurisdiction to make any appropriate order disapplying national legislation which was required to ensure compliance with the measure of European law in question, would have jurisdiction to entertain cases in which such a remedy was necessary, would have jurisdiction in such cases to provide any remedy mandated by Union law and where the remedy provided in the courts has been assessed, in accordance with the jurisprudence of the Court of Justice, as complying with the principles of equivalence and effectiveness
+Must the statutory body concerned nonetheless be taken to have a jurisdiction to entertain a complaint that national legislation was in breach of relevant Union law and, if upholding that complaint, disapply that legislation notwithstanding that national law would confer the jurisdiction in all cases, involving challenges to the validity of legislation on any ground or requiring the disapplication of legislation, on a court established under the Constitution rather than the body in question?’
+Admissibility of the request for a preliminary ruling
+The Czech Government contests the admissibility of the request for a preliminary ruling, stressing its vagueness and the fact that the referring court does not specify the provisions of Directive 2000/with which the national legislation supposedly conflicts.
+In that regard, it should be recalled that, according to the Court’s settled case-law, in the context of the cooperation between the Court and the national courts provided for in Article TFEU, it is solely for the national court before which the dispute has been brought, and which must assume responsibility for the subsequent judicial decision, to determine, in the light of the particular circumstances of the case, both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is in principle required to give a ruling (judgment of June 2017, Congregación de Escuelas Pías Provincia Betania, C‑74/16, EU:C:2017:496, paragraph and the case-law cited).
+It follows that questions relating to EU law enjoy a presumption of relevance. The Court may refuse to rule on a question referred by a national court for a preliminary ruling only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of June 2017, Congregación de Escuelas Pías Provincia Betania, C‑74/16, EU:C:2017:496, paragraph and the case-law cited).
+It is also important for the national court to set out the precise reasons why it was unsure as to the interpretation of EU law and why it considered it necessary to refer questions to the Court for a preliminary ruling (judgment of November 2013, Deutsche Lufthansa, C‑284/12, EU:C:2013:755, paragraph and the case-law cited).
+In the present instance, whilst the main proceedings have their origin in the complaints, lodged by unsuccessful applicants in a procedure for recruiting officers to the Irish police force, alleging that the setting by the Admissions and Appointments Regulations of a maximum age for recruitment is incompatible with Directive 2000/and the Equality Acts, it is clear, however, from the order for reference that, in the proceedings pending before it, the referring court harbours doubts as to the compatibility with EU law, in particular with the principle of primacy of EU law, of the division of jurisdiction between the High Court and the Workplace Relations Commission, as resulting from the interpretation of national law by the Supreme Court, under which the Workplace Relations Commission does not have the power to disapply a national provision which is supposedly contrary to that directive.
+It follows that the Court has before it the material necessary to give a useful answer to the question submitted to it and, therefore, that the request for a preliminary ruling is admissible.
+Consideration of the question referred
+By its question, the referring court asks, in essence, whether EU law, in particular the principle of primacy of EU law, must be interpreted as precluding national legislation, such as that at issue in the main proceedings, under which a national body established by law in order to ensure enforcement of EU law in a particular area lacks jurisdiction to decide to disapply a rule of national law that is contrary to EU law.
+It is apparent from the order for reference that, under Irish law, as interpreted by the Supreme Court, there is a division of jurisdiction between the courts designated as such by national law and the Workplace Relations Commission. On the one hand, the Workplace Relations Commission has jurisdiction to rule on complaints against measures or decisions allegedly incompatible with Directive 2000/and the Equality Acts and, on the other, the High Court has jurisdiction where the upholding of such a complaint would require a national provision contrary to EU law to be disapplied or struck down.
+In that regard, it should, first of all, be pointed out, as the Advocate General has noted in point of his Opinion, that a distinction must be drawn between the power to disapply, in a specific case, a provision of national law that is contrary to EU law and the power to strike down such a provision, which has the broader effect that that provision is no longer valid for any purpose.
+The Member States have the task of designating the courts and/or institutions empowered to review the validity of a national provision, and of prescribing the legal remedies and the procedures for contesting its validity and, where the action is well founded, for striking it down and, as the case may be, determining the effects of such striking down.
+On the other hand, in accordance with the Court’s settled case-law, the primacy of EU law means that the national courts called upon, in the exercise of their jurisdiction, to apply provisions of EU law must be under a duty to give full effect to those provisions, if necessary refusing of their own motion to apply any conflicting provision of national law, and without requesting or awaiting the prior setting aside of that provision of national law by legislative or other constitutional means (see, to that effect, judgments of March 1978, Simmenthal, 106/77, EU:C:1978:49, paragraphs 17, and 24, and of March 2018, SEGRO and Horváth, C‑52/and C‑113/16, EU:C:2018:157, paragraph and the case-law cited).
+Accordingly, any provision of a national legal system and any legislative, administrative or judicial practice which might impair the effectiveness of EU law by withholding from the national court having jurisdiction to apply such law the power to do everything necessary at the moment of its application to disregard national legislative provisions which might prevent directly applicable EU rules from having full force and effect are incompatible with the requirements which are the very essence of EU law (see, to that effect, judgments of March 1978, Simmenthal, 106/77, EU:C:1978:49, paragraph 22; of June 1990, Factortame and Others, C‑213/89, EU:C:1990:257, paragraph 20; and of September 2010, Winner Wetten, C‑409/06, EU:C:2010:503, paragraph 56).
+That would be the case if, in the event of a conflict between a provision of EU law and a national law, the solution of the conflict were to be reserved to an authority with a discretion of its own, other than the court called upon to apply EU law (judgment of September 2010, Winner Wetten, C‑409/06, EU:C:2010:503, paragraph and the case-law cited).
+As the Court has repeatedly held, that duty to disapply national legislation that is contrary to EU law is owed not only by national courts, but also by all organs of the State — including administrative authorities — called upon, within the exercise of their respective powers, to apply EU law (see, to that effect, judgments of June 1989, Costanzo, 103/88, EU:C:1989:256, paragraph 31; of September 2003, CIF, C‑198/01, EU:C:2003:430, paragraph 49; of January 2010, Petersen, C‑341/08, EU:C:2010:4, paragraph 80; and of September 2017, The Trustees of the BT Pension Scheme, C‑628/15, EU:C:2017:687, paragraph 54).
+It follows that the principle of primacy of EU law requires not only the courts but all the bodies of the Member States to give full effect to EU rules.
+It is in the light of those considerations that the question referred must be answered.
+In accordance with Article of Directive 2000/78, Member States are to ensure that judicial and/or administrative procedures, including where they deem it appropriate conciliation procedures, for the enforcement of obligations under that directive are available to all persons who consider themselves wronged by failure to apply the principle of equal treatment to them.
+It follows from that article that it is for the Member States to determine procedures for the enforcement of obligations resulting from Directive 2000/78.
+In the present instance, as is clear from the information set out in the request for a preliminary ruling, the Irish legislature chose to confer the specific power of ensuring compliance with Directive 2000/on the Workplace Relations Commission. Under section 77(1) of the Equality Acts, which lay down the measures transposing that directive into Irish law, any person who claims to have been discriminated against in contravention of the Equality Acts may seek redress for the harm that he or she considers he or she has sustained by referring the case to that commission.
+It is thus clear from the documents before the Court that the Workplace Relations Commission is a body established by the Irish legislature for the purpose of satisfying Ireland’s obligation under Article of Directive 2000/78.
+Against that background, if the Workplace Relations Commission, as a body upon which the national legislature has conferred the power to ensure enforcement of the principle — as given concrete expression by Directive 2000/and the Equality Acts — of non-discrimination in respect of employment and occupation, has before it a dispute involving observance of that principle, the principle of primacy of EU law requires it to provide, within the framework of that power, the legal protection which individuals derive from EU law and to ensure that EU law is fully effective, disapplying, if need be, any provision of national legislation that may be contrary thereto (see, to that effect, judgments of November 2005, Mangold, C‑144/04, EU:C:2005:709, paragraph 77; of January 2010, Kücükdeveci, C‑555/07, EU:C:2010:21, paragraph 53; and of April 2016, DI, C‑441/14, EU:C:2016:278, paragraph 35).
+Indeed, it would be contradictory if an individual were able to rely upon the provisions of EU law in a particular area before a body upon which national law has conferred jurisdiction over disputes in that area but that body were under no obligation to apply those provisions by refraining from applying provisions of national law which conflict with them (see, to that effect, judgment of June 1989, Costanzo, 103/88, EU:C:1989:256, paragraph 31).
+Furthermore, in so far as the Workplace Relations Commission must be considered to be a ‘court or tribunal’ within the meaning of Article TFEU (see, to that effect, judgment of March 2014, Z., C‑363/12, EU:C:2014:159), it may refer to the Court, pursuant to that article, questions of interpretation of relevant provisions of EU law and, as it is bound by the judgment in which the Court gives a preliminary ruling, it must forthwith apply that judgment, disapplying, if necessary, of its own motion conflicting provisions of national legislation (see, to that effect, judgment of April 2016, PFE, C‑689/13, EU:C:2016:199, paragraphs 32, 34, and 40).
+If a body such as the Workplace Relations Commission, entrusted by law with the task of ensuring that the obligations stemming from the implementation of Directive 2000/are implemented and complied with, were unable to find that a national provision is contrary to that directive and, consequently, were unable to decide to disapply that provision, the EU rules in the area of equality in employment and occupation would be rendered less effective (see, to that effect, judgment of September 2003, CIF, C‑198/01, EU:C:2003:430, paragraph 50).
+Rules of national law, even constitutional provisions, cannot be allowed to undermine the unity and effectiveness of EU law (judgment of September 2010, Winner Wetten, C‑409/06, EU:C:2010:503, paragraph 61).
+It follows from the principle of primacy of EU law, as interpreted by the Court in the case-law referred to in paragraphs to of the present judgment, that bodies called upon, within the exercise of their respective powers, to apply EU law are obliged to adopt all the measures necessary to ensure that EU law is fully effective, disapplying if need be any national provisions or national case-law that are contrary to EU law. This means that those bodies, in order to ensure that EU law is fully effective, must neither request nor await the prior setting aside of such a provision or such case-law by legislative or other constitutional means.
+Consequently, the fact, highlighted by the referring court, that in the present instance national law permits individuals to bring an action before the High Court founded on the alleged incompatibility of a national provision with Directive 2000/and allows the High Court, if it upholds the action, to disapply the national provision at issue is not capable of calling the above conclusion into question.
+In the light of the foregoing considerations, the answer to the question referred is that EU law, in particular the principle of primacy of EU law, must be interpreted as precluding national legislation, such as that at issue in the main proceedings, under which a national body established by law in order to ensure enforcement of EU law in a particular area lacks jurisdiction to decide to disapply a rule of national law that is contrary to EU law.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Grand Chamber) hereby rules:
+ 
+EU law, in particular the principle of primacy of EU law, must be interpreted as precluding national legislation, such as that at issue in the main proceedings, under which a national body established by law in order to ensure enforcement of EU law in a particular area lacks jurisdiction to decide to disapply a rule of national law that is contrary to EU law.
+ 
+Lenaerts
+Silva de Lapuerta
+Bonichot
+Arabadjiev
+von Danwitz
+Toader
+Biltgen
+Levits
+Bay Larsen
+Safjan
+Fernlund
+Vajda
+Rodin
+Delivered in open court in Luxembourg on December 2018.
+A. Calot Escobar
+Registrar
+K. Lenaerts
+President
+(
+*)	Language of the case: English.
+Top  

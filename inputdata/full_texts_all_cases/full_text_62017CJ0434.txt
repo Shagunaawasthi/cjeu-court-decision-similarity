@@ -1,0 +1,113 @@
+
+JUDGMENT OF THE COURT (Tenth Chamber)
+February (
+*)
+(Reference for a preliminary ruling — Harmonisation of fiscal legislation — Common system of value added tax (VAT) — Directive 2006/112/EC — Deduction of VAT — Determination of the taxable person liable for VAT — Retroactive application of a derogating measure — Principle of legal certainty)
+In Case C‑434/17,
+REQUEST for a preliminary ruling under Article TFEU from the Zalaegerszegi Közigazgatási és Munkaügyi Bíróság (Administrative and Labour Court, Zalaegerszeg, Hungary), made by decision of June 2017, received at the Court on July 2017, in the proceedings
+Human Operator Zrt.
+v
+Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága,
+THE COURT (Tenth Chamber),
+composed of K. Lenaerts, President of the Court, acting as President of the Tenth Chamber, F. Biltgen and E. Levits (Rapporteur), Judges,
+Advocate General: Y. Bot,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+the Hungarian Government, by M.Z. Fehér and G. Koós, acting as Agents,
+–
+the European Commission, by V. Bottka and A. Sipos and by L. Lozano Palacios, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Council Implementing Decision (EU) 2015/of December authorising Hungary to apply a measure derogating from Article of Directive 2006/112/EC on the common system of value added tax (OJ L 330, p. 53, ‘the Implementing Decision’), read together with Article of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1), as amended by Council Directive 2013/43/EU of July (OJ L 201, p. 4) (‘the VAT Directive’).
+The request has been made in proceedings between Human Operator Zrt. and Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága (Appeals Division of the National Tax and Customs Authority, Hungary, ‘the Appeals Division’) concerning the payment of value added tax (VAT) by a taxable person who has been supplied with services subject to VAT.
+Legal context
+European Union law
+VAT Directive
+Article of the VAT Directive provides:
+‘VAT shall be payable by any taxable person carrying out a taxable supply of goods or services, except where it is payable by another person in the cases referred to in Articles to 199b and Article 202.’
+According to Article of that directive:
+‘1.   Member States may provide that the person liable for payment of VAT is the taxable person to whom any of the following supplies are made:
+(a)
+the supply of construction work, including repair, cleaning, maintenance, alteration and demolition services in relation to immovable property, as well as the handing over of construction works regarded as a supply of goods pursuant to Article 14(3);
+(b)
+the supply of staff engaged in activities covered by point (a);
+…’
+Article 395(1) of the directive reads as follows:
+‘The Council, acting unanimously on a proposal from the Commission, may authorise any Member State to introduce special measures for derogation from the provisions of this Directive, in order to simplify the procedure for collecting VAT or to prevent certain forms of tax evasion or avoidance.’
+Implementing Decision
+By letters registered with the European Commission services on December and May 2015, Hungary requested authorisation to introduce a special measure derogating from Article of the VAT Directive, with regard to persons liable for VAT, in order to combat certain fraudulent practices in the temporary employment agencies sector. By the Implementing Decision the Council acceded to that request.
+Under Article of the Implementing Decision:
+‘By way of derogation from Article of [the VAT Directive], Hungary is authorised to provide that the person liable for payment of VAT is the taxable person to whom supplies of staff, engaged in activities other than those covered by point (a) of Article 199(1) of [the VAT Directive], are made.’
+According to Article of the Implementing Decision that derogation expires on December 2017.
+Hungarian law
+Article of the az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (Law No CXXVII of on value added tax), in the version applicable at the material time, which entered into force on January (‘the Law on VAT’) is worded as follows:
+‘1.   In connection with the supply of goods or services, if the taxable person acquiring the goods or services is liable for the VAT payable, VAT shall become chargeable:
+(a)
+upon receipt of the invoice or other document attesting to completion of the transaction,
+(b)
+at the time payment is received, or
+(c)
+on the 15th day of the month following the date of completion of the transaction.
+2.   of the options listed under paragraph 1, the one which occurs first shall be applied.’
+Article of that law provides:
+‘1.   The tax shall be paid by the taxable person receiving the goods or services:
+…
+(c)
+in connection with the supply of temporary employment or secondment services and supply of staff, or of the use of student recruitment services, for the supply of goods or services — also in situations in which the authorisation of the planning authority or a procedure for notifying that authority is not necessary;
+…
+3.   Paragraph shall be implemented if
+(a)
+all the parties involved in the transaction are taxpayers registered in the national territory and
+(b)
+none of the parties involved in the transaction has a legal status governed by this law under which it is not required to pay VAT.
+…’
+Article 294(1) of that law provides:
+‘Article 142(1)(c) of this law … shall apply for the first time, subject to the derogations established in paragraphs and 3, to transactions carried out on or after January 2015.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Human Operator is a commercial company with its registered office in Hungary whose business activities consist of staff recruitment, temporary employment services, and other forms of provision of human resources.
+In order to provide those services to its clients, Human Operator, by means of contracts for the supply of services, used the services of other commercial companies which made their workers available to the clients of Human Operator.
+Human Operator accepted the invoices received from those companies, drawn up in accordance with ordinary tax rules, which mentioned, as the subject matter of the services concerned ‘other supply of human resources’, and also mentioned the VAT, which was deducted by Human Operator.
+The Nemzeti Adó- és Vámhivatal Vas Megyei Adóigazgatósága (Regional Tax and Customs Office, Vas, part of the National Tax and Customs Authority, Hungary) (‘the first-level tax authority’) carried out an inspection of Human Operator in order to examine the VAT returns for January 2015.
+Following that inspection, on August 2016, the first-level tax authority issued a decision, by which it found a discrepancy in the amount of VAT of Hungarian forints (HUF) (approximately EUR 150000) and ordered Human Operator to pay that amount.
+The first-level tax authority held that, pursuant to Article of the Law on VAT, Human Operator was liable for VAT in respect of all transactions related to the declarations for January and fixed the amount of VAT due, taking as the basis for calculation the amounts mentioned in the invoices accepted by Human Operator with regard to the supplies of services at issue in the main proceedings.
+The first-level tax authority based its decision in that regard on the Implementing Decision which authorises the Hungarian Government, by way of derogation from Article of the VAT Directive, to apply the reverse charge procedure laid down in Article 142(1)(c) of the Law on VAT. The first-level tax authority inferred from that provision, which entered into force on January 2015, that the reverse charge procedure was applicable from that date, especially since, in its request mentioned in paragraph of the present judgment, the Hungarian Government had expressly requested that the derogation sought should apply from that date.
+By decision of January 2017, the Appeals Division, before which Human Operator lodged an appeal, confirmed the decision mentioned in paragraph of the present judgment.
+The first-level tax authority carried out other investigations of Human Operator in relation to other periods and issued six other decisions covering the period from February to July 2015. By those decisions, it ordered Human Operator to pay HUF (approximately EUR 1.million) in respect of VAT for that period.
+On and January 2017, the Appeals Division, before which Human Operator brought further appeals, confirmed the decisions of the first-level tax authority mentioned in the preceding paragraph.
+Considering that, in the absence of express provisions concerning its retroactive application, the Implementing Decision could not be applied by the Hungarian Government before its notification to Hungary on December 2015, Human Operator brought an action before the referring court against the decisions mentioned in paragraphs and of the present judgment.
+According to that court, the resolution of the dispute in the main proceedings requires the determination of the date of entry into force of the Implementing Decision and, therefore, the date from which the authorisation provided for in that decision became applicable.
+In those circumstances, the Zalaegerszegi Közigazgatási és Munkaügyi Bíróság (Administrative and Labour Court, Zalaegerszeg, Hungary) decided to stay the proceedings and to refer the following question to the Court for a preliminary ruling:
+‘Must [the Implementing Decision] be interpreted as precluding the Hungarian practice of considering that the provision of national law, approval of which derives from the abovementioned Implementing Decision and which establishes a derogation from Article of [the VAT Directive], entered into force on January 2015, the date from which it must be applied, when that Implementing Decision contains no provision concerning retroactivity of its effects or of its applicability and, in its request for authorisation to establish the derogation, Hungary indicated that date as the date of application?’
+Consideration of the question referred
+By its question, the referring court asks essentially whether EU law precludes national legislation which provides for the application of a measure derogating from Article of the VAT Directive before the EU act authorising that derogation is notified to the Member State which requested it, even though that EU act makes no mention of its entry into force or the date from which it is applicable and that, second, that Member State has expressed the wish that that derogation should apply with retroactive effect.
+In that connection, Article of the Implementing Decision authorises Hungary to derogate from the general rules of taxation, laid down in Article of the VAT Directive, by designating as liable for VAT the taxable person who receives the supply of staff in the context of activities which are not covered by Article 199(1)(a) thereof.
+Thus, Article 142(1)(c) of the Law on VAT provides that the recipient of the service is liable to pay VAT in the case of the supply of temporary employment or secondment services and supply of staff, or of the use of student recruitment services, for the supply of goods or services. That provision entered into force on January and, according to the order for reference, it has been applied by the Hungarian tax authorities since that date.
+The Implementing Decision, which authorises such derogation from Article of the VAT Directive, was notified to the Hungarian Government only on December 2015.
+Furthermore, that decision makes no mention of the date of its entry into force or the date from which the derogation for which it provides is applicable. Neither does it indicate the period during which it is effective, merely indicating the expiry date which is set as December 2017.
+In that connection, it should be noted, first of all, that, as regards Article of the VAT Directive, which allows Member States to introduce a reverse charge mechanism in the situations referred to in paragraph 1(a) to (g) thereof, whereby the person liable for the payment of VAT is the taxable person who is the recipient of the transaction subject to VAT, the Court has held that that provision is an exception to the normal rules in Article of that directive and must, for that reason, be strictly interpreted, which, however, must not have the result that that provision is deprived of its effectiveness (see, to that effect, judgments of June 2013, Promociones y Construcciones BJ 200, C‑125/12, EU:C:2013:392, paragraphs and and the case-law cited, and of April 2017, Farkas, C‑564/15, EU:C:2017:302, paragraph 25).
+Next, as the Implementing Decision contains no provisions fixing either the date of its entry into force or a starting date for the application of the derogation for which it provides, it is advisable to have recourse to generally recognised principles of interpretation in order to determine its effect ratione temporis, having regard both to wording of the regulation and to its objectives and general scheme (see, to that effect, judgment of November 1981, Meridionale Industria Salumi and Others, 212/to 217/80, EU:C:1981:270, paragraph 8).
+Therefore, in accordance with Article 297(2), third subparagraph, TFEU, which constitutes a general rule concerning the entry into force of decisions which designate an addressee, such decisions take effect by notification to their addressees. In the present case, since the Implementing Decision was notified to the Hungarian Government on December 2015, it must be held that it entered into force on that date.
+That finding cannot be invalidated by the observations of the Hungarian Government. Contrary to that government’s submissions, for the determination of the date from which the Implementing Decision took effect, it is irrelevant, first, that in its proposal for a Council implementing decision authorising Hungary to apply a measure derogating from Article of Directive 2006/(COM(2015) final), the Commission expressly stated that it had been informed that Hungary had started to apply the derogation requested without waiting for the adoption of the Implementing Decision, second, that Article of that decision fixed its expiry date as December and, third, that, in an email sent to Hungary by the Commission, the latter stated its intention to accede to the request of that Member State as regards the period of application of the derogation requested and recommended fixing a three-year period.
+It must be recalled that the principle of legal certainty, which is one of the general principles of EU law, requires, particularly, that rules of law be clear, precise and predictable in their effects (judgment of November 2008, Förster, C‑158/07, EU:C:2008:630, paragraph 67).
+That requirement of legal certainty must be observed all the more strictly in the case of rules liable to entail financial consequences, in order that those concerned may know precisely the extent of the obligations which those rules impose on them (judgment of April 2004, Sudholz, C‑17/01, EU:C:2004:242, paragraph and the case-law cited).
+It also held that, in order to comply with principles of legal certainty and the protection of legitimate expectations, the basic rules of EU law must, in principle, be interpreted as applying only to situations existing after their entry into force (see, to that effect, judgment of September 2002, Falck and Acciaierie di Bolzano v Commission, C‑74/P and C‑75/P, EU:C:2002:524, paragraph 119). Thus, in general, the principle of legal certainty precludes an EU measure from taking effect from a point in time before its publication or its notification, as the case may be, since the Court has ruled that it may exceptionally be otherwise, where the purpose to be achieved so demands and where the legitimate expectations of those concerned are duly respected (see, to that effect, judgments of September 1982, Amylum v Council, 108/81, EU:C:1982:322, paragraph 4; of April 2005, Goed Wonen, C‑376/02, EU:C:2005:251, paragraph and the case law cited; and of November 2006, Parliament v Council, C‑413/04, EU:C:2006:741, paragraph and the case-law cited).
+Therefore, having regard to the rule laid down in Article 297(2), third paragraph, TFEU, and in the absence of any indication in the Implementing Decision regarding its retroactive application, it cannot be held that that decision is applicable retroactively. It follows that the Hungarian Government was not in a position to introduce the reverse charge procedure for services which are not mentioned by Article 199(1)(a) of the VAT Directive before Hungary was notified of the Implementing Decision authorising that reverse charge procedure.
+Furthermore, in order to give a useful answer to the referring court as to the determination of the person liable for VAT in the circumstances at issue in the main proceedings, it must be recalled that whenever the provisions of a directive appear, so far as their subject matter is concerned, to be unconditional and sufficiently precise, they may be relied on before the national courts by individuals against the State where the State has failed to transpose the directive into national law within the time limit or has transposed it incorrectly (see, to that effect, judgments of February 2014, E.ON Global Commodities, C‑323/12, EU:C:2014:53, paragraph and the case-law cited, and of May 2014, Almos Agrárkülkereskedelmi, C‑337/13, EU:C:2014:328, paragraph and the case-law cited). The Court has also held that a provision of EU law is unconditional where it sets forth an obligation which is not qualified by any condition, or subject, in its implementation or effects, to the taking of any measure either by the institutions of the European Union or by the Member States (judgment of May 2014, Almos Agrárkülkereskedelmi, C‑337/13, EU:C:2014:328, paragraph and the case-law cited).
+In the present case, Article of the VAT Directive provides that VAT is payable by any taxable person carrying out a taxable supply of goods or services, except where it is payable by another person in the cases referred to in Articles to 199b and Article of that directive.
+Therefore, the Member State has no discretion as to the conditions of application ratione temporis of the general rule established by Article of the VAT Directive.
+If the conditions of application of the derogation laid down by Article 199(1)(a) of the VAT Directive are not satisfied, taxable persons may therefore rely on Article thereof before the national courts against the Member State concerned. Therefore, in the present case, the general rule laid down in Article of that directive is applicable, and it is the taxable persons who have supplied the services at issue in the main proceedings who are therefore liable to pay VAT for the period prior to the entry into force of the Implementing Decision.
+Having regard to the foregoing, the answer to the question referred is that EU law precludes national legislation which provides for the application of a measure derogating from Article of the VAT Directive before the EU act authorising that derogation has been notified to the Member State which requested it, despite the fact that that EU act does not mention the date of its entry into force or the date from which it applies, even if that Member State has expressed the wish for that derogation to apply with retroactive effect.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Tenth Chamber) hereby rules:
+ 
+European Union law precludes national legislation which provides for the application of a measure derogating from Article of Council Directive 2006/112/EC of November on the common system of value added tax, as amended by Council Directive 2013/43/EU of July 2013, before the EU act authorising that derogation has been notified to the Member State which requested it, despite the fact that that EU act does not mention the date of its entry into force or the date from which it applies, even if that Member State has expressed the wish for that derogation to apply with retroactive effect.
+ 
+[Signatures]
+(
+*)	Language of the case: Hungarian.
+Top  

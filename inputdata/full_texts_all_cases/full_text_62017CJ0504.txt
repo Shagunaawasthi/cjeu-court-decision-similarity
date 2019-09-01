@@ -1,0 +1,153 @@
+
+JUDGMENT OF THE COURT (Eighth Chamber)
+October (
+*)
+(Failure of a Member State to fulfil obligations — Taxation of energy products and electricity — Directive 2003/96/EC — Articles and — Application of the minimum levels of taxation applicable to motor fuels — Directive 95/60/EC — Fiscal marking of gas oils and kerosene — Refuelling of private pleasure craft)
+In Case C‑504/17,
+ACTION under Article TFEU for failure to fulfil obligations, brought on August 2017,
+European Commission, represented by F. Tomat and J. Tomkin, acting as Agents,
+applicant,
+v
+Ireland, represented by M. Browne, G. Hodge, J. Quaney and A. Joyce, acting as Agents, and by F. Callanan, Senior Counsel, and B. Doherty, Barrister-at-Law,
+defendant,
+THE COURT (Eighth Chamber),
+composed of M. Vilaras (Rapporteur), President of the Fourth Chamber, acting as President of the Eighth Chamber, J. Malenovský and M. Safjan, Judges,
+Advocate General: N. Wahl,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+By its action, the European Commission asks the Court to:
+–
+declare that, by not ensuring the application of the minimum levels of taxation applicable to motor fuels laid down by Council Directive 2003/96/EC of October restructuring the Community framework for the taxation of energy products and electricity (OJ L 283, p. 51), Ireland has failed to fulfil its obligations under Articles and of that directive;
+–
+declare that, by allowing the use of marked fuel for the purposes of propelling private pleasure craft, even where such fuel has not been subject to any exemption from or reduction in excise duty, Ireland has failed to fulfil its obligations under Council Directive 95/60/EC of November on fiscal marking of gas oils and kerosene (OJ L 291, p. 46); and
+–
+order Ireland to pay the costs.
+Legal context
+European Union law
+Directive 2003/As is apparent from Article 2(1)(b) and Article 2(5) of Directive 2003/96, the term ‘energy products’, for the purposes of the directive, means, in particular, the products falling within Combined Nomenclature codes (‘CN codes’) to 2715, set out in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1), as amended by Commission Regulation (EC) No 2031/of August (OJ L 279, p. 1).
+In particular, CN code includes subheading CN 27100069, relating to gas oils intended for uses other than those covered by subheadings (gas oils for undergoing a specific process) and (gas oils for undergoing chemical transformation by a process other than those specified by subheading 27100061).
+Article of Directive 2003/states:
+‘1.   The levels of taxation which Member States shall apply to the energy products and electricity listed in Article may not be less than the minimum levels of taxation prescribed by this Directive.
+2.   For the purpose of this Directive “level of taxation” is the total charge levied in respect of all indirect taxes (except [value added tax (VAT)]) calculated directly or indirectly on the quantity of energy products and electricity at the time of release for consumption.’
+Article 7(1), first subparagraph, of that directive provides:
+‘As from January and from January 2010, the minimum levels of taxation applicable to motor fuels shall be fixed as set out in Annex I Table A.’
+Under Article 14(1) of that directive:
+‘In addition to the general provisions set out in [Council] Directive 92/12/EEC [of February on the general arrangements for products subject to excise duty and on the holding, movement and monitoring of such products (OJ L 76, p. 1)] on exempt uses of taxable products, and without prejudice to other Community provisions, Member States shall exempt the following from taxation under conditions which they shall lay down for the purpose of ensuring the correct and straightforward application of such exemptions and of preventing any evasion, avoidance or abuse:
+...
+(c)
+energy products supplied for use as fuel for the purposes of navigation within Community waters (including fishing), other than private pleasure craft, and electricity produced on board a craft.
+For the purposes of this Directive “private pleasure craft” shall mean any craft used by its owner or the natural or legal person who enjoys its use either through hire or through any other means, for other than commercial purposes and in particular other than for the carriage of passengers or goods or for the supply of services for consideration or for the purposes of public authorities.’
+Article 18(1) of that directive states:
+‘By way of derogation from the provisions of the present directive, Member States are hereby authorised to continue to apply the reductions in the levels of taxation or exemptions set out in Annex II.
+Subject to a prior review by the Council, on the basis of a proposal from the Commission, this authorisation shall expire on December ...’
+Under point of Annex II to Directive 2003/96, Ireland was authorised to derogate from the levels of taxation applicable to ‘navigation in private pleasure craft’.
+Directive 95/According to the first to fourth recitals of Directive 95/60:
+‘Whereas the Community measures envisaged by this Directive are not only necessary but also indispensable for the attainment of the objectives of the internal market; whereas these objectives cannot be achieved by Member States individually; ... whereas this Directive conforms with the principle of subsidiarity;
+Whereas [Council] Directive 92/82/EEC [of October on the approximation of the rates of excise duties on mineral oils (OJ L 316, p. 19), repealed and replaced by Directive 2003/96] lays down provisions in respect of the minimum rates of excise duty applicable to certain mineral oils and in particular to the different categories of gas oil and kerosene;
+Whereas the proper functioning of the internal market now requires that common rules be established for fiscal marking of gas oil and kerosene which have not borne duty at the full rate applicable to such mineral oils used as propellant;
+Whereas certain Member States should be allowed to derogate from the measures laid down in this Directive because of special national circumstances’.
+Article of the directive provides:
+‘1.   Without prejudice to national provisions on fiscal marking, Member States shall apply a fiscal marker in accordance with the provisions of this Directive to:
+–
+all gas oil falling within CN code which has been released for consumption ... and has been exempt from, or subject to, excise duty at a rate other than that laid down in Article 5(1) of Directive 92/82/EEC;
+...
+2.   Member States may allow exceptions to the application of the fiscal marker provided for in paragraph on grounds of public health or safety or for other technical reasons, provided they take appropriate fiscal supervision measures.’
+The first paragraph of Article of that directive reads as follows:
+‘Member States shall take the necessary steps to ensure that improper use of the marked products is avoided and, in particular, that the mineral oils in question cannot be used for combustion in the engine of a road-going motor vehicle or kept in its fuel tank unless such use is permitted in specific cases determined by the competent authorities of the Member States.’
+Irish law
+The Finance Act 1999, as amended following the expiry on December of the derogation period provided for in Article 18(1) of Directive 2003/96, by the Finance Act 2008, includes a section 97A entitled ‘Private pleasure navigation’ which is worded as follows:
+‘(1)   Subject to subsections (2) and (3), heavy oil which has been taxed at the rate specified in Schedule for other heavy oil (referred to in this section as “marked gas oil”) may be used for private pleasure navigation.
+(2)   Where subsection (1) applies, the owner of the craft used for private pleasure navigation shall, not later than the first day of March following the calendar year in which the marked gas oil was purchased for such use, deliver to an officer —
+(a)
+a return, in such form as the Commissioners may require, of the quantity in litres of marked gas oil purchased in that calendar year, and
+(b)
+payment of an amount of mineral oil tax calculated at the rate of 32.cent per litre (which is the difference between the mineral oil tax rate for marked gas oil and the rate for heavy oil used for private pleasure navigation) on such quantity.
+(3)   The owner referred to in subsection (2) shall, together with vouched receipts for all purchases of the marked gas oil concerned, maintain a record of such purchases, in such form as the Commissioners may require.’
+Pre-litigation procedure
+On September 2013, the Commission sent Ireland a letter of formal notice, informing it that it had failed to fulfil its obligations under Articles and of Directive 2003/and under Directive 95/60.
+Ireland replied by letter of January 2014, disputing the infringements alleged against it.
+Not being satisfied with Ireland’s reply, the Commission, on April 2014, sent that Member State a reasoned opinion.
+Ireland answered that reasoned opinion by letter dated July 2014, restating the position that it had already set out in its response to the letter of formal notice.
+Taking the view that Ireland was still not fulfilling its obligations under Articles and of Directive 2003/and under Directive 95/60, the Commission decided to bring the present action.
+The action
+In support of its action, the Commission puts forward two complaints alleging infringement, on the one hand, of Directive 2003/and, on the other, of Directive 95/60.
+The first complaint, alleging infringement of Directive 2003/Arguments of the parties
+The Commission alleges that Ireland failed to ensure the effective application of the rates of excise duty laid down by Directive 2003/for diesel supplied to private pleasure craft. Although there are between and pleasure craft in Ireland, the number of returns submitted under section 97A of the Finance Act is alleged to be very low, namely declarations for each of the years and 2011, for and for 2012.
+As regards the scale of the infringement, the Commission observes that the infringement alleged against Ireland relates to an entire category of fuel consumption and the scope of the alleged infringement is far from negligible. The fact that that failure to fulfil obligations concerns the taxation of a specific category of fuel does not mean that it is not ‘to some degree, of a consistent and general nature’ or that it does not constitute a ‘repeated and persistent’ infringement within the meaning of the case-law of the Court.
+Finally, the Commission states that Ireland’s alleged failure to fulfil obligations does not concern the transposition of Directive 2003/96, but its application in practice, namely the failure to ensure the effective application of the minimum rates of excise duty laid down by that directive in relation to fuels used to propel private pleasure craft. The extent of the alleged failure is clear from both the pre-litigation procedure and the application.
+Ireland contends, first of all, that it is not clear whether the Commission is criticising the Irish regulations adopted in order to transpose Directive 2003/or the implementation of that legislation. To the extent that that distinction is of fundamental importance in an action for failure to fulfil obligations, it is for the Court to assess the admissibility of the action.
+To the extent that the present action should be declared admissible and the first complaint understood as being directed at the scope of the Irish legislation, Ireland argues that the tax rates applicable to fuels in Irish law are higher than the minimum rates defined by Directive 2003/and thereby comply with Articles and thereof.
+In the event that the first complaint should be understood as relating to the implementation of the Irish legislation, Ireland notes that the head of claim in the application relating to Articles and of Directive 2003/does not draw any distinction between different types of fuels or users and contains no specific reference to private pleasure craft. It follows that the Commission is therefore asking the Court to find that Ireland failed to fulfil its obligations under Articles and of Directive 2003/as regards all types of fuel and users covered by those articles. Such a claim is so broad in scope as to be unfounded.
+Ireland contends that it has made considerable efforts to ensure the effective collection of excise duty calculated at the appropriate rates, as provided for in Directive 2003/96. In that regard, Ireland provides detailed explanations concerning the fight against the practice of ‘scrubbing’ gas oil, which is the fraudulent elimination of the fiscal marker applied to gas oil intended for use that is subject to a reduced rate of taxation.
+It points out, however, that, given the very small share of gas oil intended for use in the engines of private pleasure craft, which is approximately 1.3% of the total consumption of gas oil in Ireland in 2003, it focused its efforts on gas oil used as fuel in road-going motor vehicles, which are much greater in number. Thus, the failure to fulfil obligations alleged by the Commission concerns only an insignificant part of the Irish fuel market. It follows that the Commission has not proved a failure by Ireland, which is, to some degree, of a consistent and general nature, to fulfil its obligations under Articles and of Directive 2003/96.
+Findings of the Court
+As a preliminary point, it must be observed that the failure to fulfil obligations alleged by the Commission against Ireland as part of the first complaint relates not to the transposition into Irish law of Directive 2003/96, but to the implementation of the Irish legislation transposing that directive.
+The Commission accuses Ireland, in essence, of having tolerated the situation in which the owners of private pleasure craft do not submit the return provided for in section 97A(2)(a) of the Finance Act or pay the additional tax provided for in subsection (b) of section 97A(2), and of not having taken any measures to combat that instance of tax evasion. An administrative practice is thus alleged to have developed in Ireland, the consequence of which is that, in practice, the gas oil used in the engines of private pleasure craft is not subject to the appropriate rate of excise duty pursuant to Directive 2003/96, but to the reduced rate applicable to marked gas oil, intended for different uses.
+In that regard, it should be recalled that an administrative practice of a Member State can be made the object of an action for failure to fulfil obligations when it is, to some degree, of a consistent and general nature (judgment of September 2016, Commission v Czech Republic, C‑525/14, EU:C:2016:714, paragraph and the case-law cited).
+In the present case, it should be noted that Ireland did not dispute the data relied on by the Commission relating, on the one hand, to the number of returns submitted under section 97A(1)(a) of the Finance Act for each of the years to and, on the other, to the estimated number of private pleasure craft in Ireland.
+A very low number of returns, compared to the estimated number of private pleasure craft in Ireland during the years concerned, as mentioned in paragraph of the present judgment, cannot be explained by the mere fact that one return may relate to several craft.
+As Ireland still fails to justify the negligible quantity of these returns, it must be noted that a very large number of private pleasure craft owners in Ireland do not pay excise duty, calculated at the appropriate rate provided for in Directive 2003/96, on gas oil used as fuel in their vessels. Those owners purchase marked gas oil, the purchase price of which includes only the excise duty calculated at the reduced rate, and do not submit the return provided for in section 97A(2)(a) of the Finance Act or pay the additional tax, although they are required to do so pursuant to subsection (b) of section 97A(2).
+Ireland has not claimed to have taken measures to combat that instance of tax evasion. It has, admittedly, described in detail the considerable efforts it made to combat tax fraud, but in a different area, namely that of gas oil used for road transport, which is not the subject of the action for failure to fulfil obligations.
+In those circumstances, it must be held that, in the present case, the Commission has adduced evidence of a failure by Ireland to fulfil its obligation to ensure the effective application of the rates of excise duty laid down by Directive 2003/on gas oil intended for use in the engines of private pleasure craft, which failure is, to some degree, of a consistent and general nature, within the meaning of the case-law referred to in paragraph of the present judgment.
+In the light of the foregoing, it must be held that the first complaint is well founded.
+Second complaint, alleging infringement of Directive 95/Arguments of the parties
+The Commission notes that the Member States’ obligation, arising from Article of Directive 95/60, to apply a marker to fuel subject to reduced rates of excise duty, is intended to facilitate the identification of such fuels and to mark them out from fuels taxed at the full rate. That marking facilitates supervision, allowing immediate verification of the tax treatment of a given quantity of fuel and the detection of any incorrect use thereof.
+The achievement of that objective would be impossible if a Member State did not restrict the use of fiscal markers to fuels that are subject to reduced rates of duty and authorised their use also for fuel subject to excise duty at the full rate. It follows, according to the Commission, that Directive 95/prohibits the application of a fiscal marker to fuels taxed at the full rate. Such a ban is also apparent from Article of Directive 95/60, which requires Member States to prevent the improper use of marked products.
+Since, under section 97A of the Finance Act 1999, Ireland expressly permits the use of marked gas oil as fuel for the propulsion of private pleasure craft, even though the owners of such vessels are required to use fuel subject to excise duty at the full rate, that Member State has failed to fulfil its obligations under Directive 95/60.
+Ireland’s argument, alleging that it follows a practice similar to that of the United Kingdom of Great Britain and Northern Ireland, cannot be upheld, since a Member State cannot justify its failure to fulfil obligations under EU law by the fact that other Member States are also failing to fulfil their obligations in a similar manner.
+Ireland submits that the Commission does not identify any specific provision of Directive 95/which the Irish legislation infringes; the Commission relies instead on its own interpretation of the objectives of that directive.
+Directive 95/should be interpreted in the light of the principle of subsidiarity, mentioned in the first recital thereof. In addition, taking into account the third and fourth recitals of the directive, Ireland submits that the provisions of that directive may not be interpreted as effecting a complete harmonisation of the relevant area.
+As regards Article of Directive 95/60, referred to by the Commission, Ireland states that the use of the terms ‘improper’ and ‘avoided’ in the first paragraph of that article implies that Member States are not required to prohibit all use of a marked product. That interpretation is confirmed by the example referred to in the part of the sentence starting with ‘in particular’ of the same paragraph, which permits the use, in vehicles, of a marked fuel ‘in specific cases determined by the competent authorities of the Member States’.
+In the present case, the use of marked fuel in private pleasure craft is permitted under section 97A of the Finance Act and, therefore, does not constitute ‘improper’ use. In any event, it would not have been possible to ‘avoid’ such use, in the specific circumstances of the present case. Furthermore, Article 1(2) of Directive 95/authorises Member States to derogate from the application of the fiscal marker provided for in Article 1(1) of the directive, in particular for technical reasons. It is precisely such reasons, in particular the lack of a second non-marked fuel distribution network for the requirements of pleasure craft, which justify the derogation introduced under section 97A of the Finance Act 1999.
+As regards the argument that the inspections carried out by Member States could be jeopardised if a marker was applied to fuels that have not been placed on the market at a reduced rate of taxation, Ireland submits that each inspection system must reflect the underlying rules of Directive 95/and not the other way around. Any national inspection system should reflect the possibility, provided for in Article of that directive, of permitting, in certain cases, a marker to be applied to fuel that has not been placed on the market at a reduced rate of tax.
+In that regard, Ireland submits that it is apparent from paragraph of the judgment of September 2004, Meiland Azewijn (C‑292/02, EU:C:2004:499), that, where a Member State authorises the addition of a marker to fuel, the authorities of another Member State may not legitimately take the view that it is improper.
+Finally, Ireland submits that the Commission’s arguments in support of the second complaint in its application contradict those relating to the first complaint, in so far as, concerning Directive 2003/96, the Commission asked the Court to declare that private pleasure craft do not pay, in Ireland, excise duty calculated at the full rate whereas, concerning Directive 95/60, it asked the Court to declare that those same boats pay the duties in full and that, therefore, the fiscal marker should not be applied to the fuel they use.
+Findings of the Court
+As a preliminary point, Ireland’s argument that the line of argument and form of order sought by the Commission in its application relating to the second complaint are inconsistent with those relating to the first complaint must be rejected.
+In the first complaint, the Commission in essence argues that, although gas oil used as fuel for private pleasure craft is subject in Ireland to excise duty calculated at the full rate, in practice, a large number of owners of crafts which, in accordance with the applicable Irish legislation, purchase marked gas oil subject to excise duty calculated at the reduced rate do not submit the return required by that legislation, nor do they pay the additional excise duty.
+In the second complaint, the Commission complains, in essence, that the Irish authorities infringed Directive 95/on the ground that they allow owners of private pleasure craft to purchase marked gas oil even though, in accordance with Directive 2003/and the applicable Irish legislation, gas oil used for private pleasure navigation is subject to excise duty calculated at the full rate.
+The first complaint thus relates to the non-compliance of the administrative practice followed by Ireland with Directive 2003/96, whereas the second complaint relates to whether the applicable Irish legislation is consistent with Directive 95/60. It must therefore be held that there is no contradiction between those two complaints or the arguments respectively submitted by the Commission in support thereof.
+Next, it must be observed that it is clear from Article of Directive 95/60, read in the light of the third recital thereof, that Member States are required to apply a fiscal marker as provided for by that directive, inter alia, to gas oil which is not taxed at the full rate.
+Conversely, it is apparent from that provision that Member States may not apply that marker also to gas oil taxed at the full rate, without undermining the purpose of the marker.
+As correctly noted by the Commission, the objective pursued by Directive 95/60, which is to complement Directive 2003/and to promote the completion and functioning of the internal market (see, to that effect, judgment of September 2004, Meiland Azewijn, C‑292/02, EU:C:2004:499, paragraph 51), by allowing easy and quick identification of gas oil not subject to taxation at the full rate, could not be achieved if Member States were permitted to authorise the use of fiscal marking also for gas oil intended for uses subject to taxation at the full rate.
+More specifically, the argument put forward by Ireland, that Article of Directive 95/does not preclude Member States from permitting the use of marked fuels for uses subject to excise duty calculated at the full rate, would lead to the result that a Member State could claim to be complying with its obligations under that provision by providing fiscal marking of all types of fuel sold on its territory, regardless of the rate of excise duty to which they are subject.
+Those findings are not called into question by Ireland’s argument relying on the fourth recital of Directive 95/60, according to which certain Member States should be allowed to derogate from the measures laid down in that directive because of special national circumstances.
+Contrary to what Ireland claims, no provision of Directive 95/permits a Member State to apply a fiscal marker, within the meaning of Article of that directive, also to fuel subject to excise duty calculated at the full rate.
+Article 1(2) of Directive 95/60, which seeks to implement the intention of the EU legislature expressed in the fourth recital of that directive, permits Member States, in certain cases, not to apply, on grounds of public health or safety or for other technical reasons, the fiscal marker to fuel subject to excise duty at a rate other than the full rate.
+However, that provision does not allow Member States to apply the fiscal marker to fuel subject to excise duty at the full rate.
+Nor does any such authorisation follow from the last part of the sentence of the first paragraph of Article of Directive 95/60.
+That provision requires Member States to take the necessary steps to ensure that improper use of marked products is avoided.
+That misuse includes, pursuant to that provision, the use of marked mineral oil for combustion in the engine of a road-going motor vehicle or its storage in the fuel tank of such a vehicle.
+Contrary to what Ireland contends, the last part of the sentence in the first paragraph of Article of Directive 95/60, pursuant to which the use of marked mineral oils, referred to in the previous paragraph, is not unfair where it is ‘permitted in specific cases determined by the competent authorities of the Member States’, cannot be interpreted as meaning that it authorises Member States to permit, in specific cases, the use of marked mineral oil as fuel for engines usually operating with fuel subject to excise duty calculated at the full rate, a fortiori where that use does not relate, as is the case of private pleasure craft, to ‘a road-going motor vehicle’.
+Some of the tax exemptions provided for in Directive 2003/could be applicable to road-going motor vehicles; it is important that the vehicles covered by those exemptions are able to use marked fuel without infringing Directive 95/and the national provisions adopted for its transposition.
+Finally, nor can Ireland’s argument relying on the guidance which may be derived from paragraph of the judgment of September 2004, Meiland Azewijn (C‑292/02, EU:C:2004:499), be upheld.
+As is apparent from paragraphs and of that judgment, it concerns the issue whether vehicles legally supplied with marked fuel in a Member State which had made use of a possibility under EU law to authorise that supply, may be used on the territory of another Member State, which had not availed itself of that possibility.
+Consequently, in the case which gave rise to that judgment, the fact that the purchase of marked fuel in that first Member State was permitted under EU law was not disputed. It follows that it is not possible to rely on that judgment in a case such as the present one, in which it is precisely the question whether the supply of marked fuel in the Member State concerned is consistent with EU law which is in dispute.
+In addition, it should further be pointed out that, unlike gas oil intended for use in private pleasure craft, which is at issue in the instant case, the fuel at issue in the case which gave rise to the judgment of September 2004, Meiland Azewijn (C‑292/02, EU:C:2004:499), was subject to a lower rate of excise duty, as is apparent from paragraph of that judgment.
+In the light of all of the foregoing, it must be held that the second complaint is also well founded.
+In those circumstances, it must be held that, by not ensuring that the minimum levels of taxation applicable to motor fuels laid down by Directive 2003/were applied to gas oil used as fuel for propelling private pleasure craft, and by permitting the use of marked fuel for propelling private pleasure craft, even where that fuel is not subject to any exemption from, or reduction in, excise duty, Ireland has failed to fulfil its obligations under Articles and of Directive 2003/and Directive 95/respectively.
+Costs
+Under Article 138(1) of the Rules of Procedure of the Court, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings. Since the Commission has applied for costs and Ireland has been unsuccessful, the latter must be ordered to pay the costs.
+ 
+On those grounds, the Court (Eighth Chamber) hereby:
+ 
+1.
+Declares that, by not ensuring that the minimum levels of taxation applicable to motor fuels laid down by Council Directive 2003/96/EC of October restructuring the Community framework for the taxation of energy products and electricity were applied to gas oil used as fuel for propelling private pleasure craft, and by permitting the use of marked fuel for propelling private pleasure craft, even where that fuel is not subject to any exemption from, or reduction in, excise duty, Ireland has failed to fulfil its obligations under Articles and of Directive 2003/and Council Directive 95/60/EC of November on fiscal marking of gas oils and kerosene respectively;
+ 
+2.
+Orders Ireland to pay the costs.
+ 
+Vilaras
+Malenovský
+Safjan
+Delivered in open court in Luxembourg on October 2018.
+A. Calot Escobar
+Registrar
+K. Lenaerts
+President
+(
+*)	Language of the case: English.
+Top  

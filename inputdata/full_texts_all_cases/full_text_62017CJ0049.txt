@@ -1,0 +1,125 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+June (
+*)
+(Reference for a preliminary ruling — Directive 2003/96/EC — Taxation of energy products and electricity — Article 21(3) — Chargeable event giving rise to taxation — Consumption of energy products produced within the curtilage of an establishment producing energy products — Energy products used for purposes other than as motor fuels or as heating fuels — Consumption of solvent as fuel at the coal tar distillation plant)
+In Case C‑49/17,
+REQUEST for a preliminary ruling under Article TFEU from the Østre Landsret (Eastern Regional Court, Denmark), made by decision of January 2017, received at the Court on February 2017, in the proceedings
+Koppers Denmark ApS
+v
+Skatteministeriet,
+THE COURT (First Chamber),
+composed of R. Silva de Lapuerta, President of the Chamber, C.G. Fernlund, A. Arabadjiev, S. Rodin and E. Regan (Rapporteur), Judges,
+Advocate General: M. Szpunar,
+Registrar: R. Schiano, Administrator,
+having regard to the written procedure and further to the hearing on January 2018,
+after considering the observations submitted on behalf of:
+–
+Koppers Denmark ApS, by L. Kjær, advokat,
+–
+the Danish Government, by C. Thorning, acting as Agent, and B. Søes Petersen, advokat,
+–
+the European Commission, by C. Perrin and R. Lyal, acting as Agents, and C. Bachmann, advokat,
+after hearing the Opinion of the Advocate General at the sitting on February 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 21(3) of Council Directive 2003/96/EC of October restructuring the Community framework for the taxation of energy products and electricity (OJ L 283, p. 51).
+The request has been made in proceedings between Koppers Denmark ApS (‘Koppers’) and the Skatteministeriet (Ministry of Taxation, Denmark) concerning the rejection of the request made to the latter by Koppers for a refund of the energy tax paid in respect of its consumption of solvent as fuel between October and December (‘the relevant period’).
+Legal context
+EU law
+Recitals to 7, 11, 12, and of Directive 2003/state:
+‘(2)
+The absence of Community provisions imposing a minimum rate of taxation on electricity and energy products other than mineral oils may adversely affect the proper functioning of the internal market.
+(3)
+The proper functioning of the internal market and the achievement of the objectives of other Community policies require minimum levels of taxation to be laid down at Community level for most energy products, including electricity, natural gas and coal.
+(4)
+Appreciable differences in the national levels of energy taxation applied by Member States could prove detrimental to the proper functioning of the internal market.
+(5)
+The establishment of appropriate Community minimum levels of taxation may enable existing differences in the national levels of taxation to be reduced.
+(6)
+In accordance with Article of the [EC] Treaty, environmental protection requirements must be integrated into the definition and implementation of other Community policies.
+(7)
+As a party to the United Nations Framework Convention on Climate Change, the Community has ratified the Kyoto Protocol. The taxation of energy products and, where appropriate, electricity is one of the instruments available for achieving the Kyoto Protocol objectives.
+…
+(11)
+Fiscal arrangements made in connection with the implementation of this Community framework for the taxation of energy products and electricity are a matter for each Member State to decide. In this regard, Member States might decide not to increase the overall tax burden if they consider that the implementation of such a principle of tax neutrality could contribute to the restructuring and the modernisation of their tax systems by encouraging behaviour conducive to greater protection of the environment and increased labour use.
+(12)
+Energy prices are key elements of Community energy, transport and environment policies.
+…
+(22)
+Energy products should essentially be subject to a Community framework when used as heating fuel or motor fuel. To that extent, it is in the nature and the logic of the tax system to exclude from the scope of the framework dual uses and non-fuel uses of energy products as well as mineralogical processes. Electricity used in similar ways should be treated on an equal footing.
+…
+(24)
+Member States should be permitted to apply certain other exemptions or reduced levels of taxation, where that will not be detrimental to the proper functioning of the internal market and will not result in distortions of competition.’
+Article of the directive provides:
+‘Member States shall impose taxation on energy products and electricity in accordance with this Directive.’
+Article of the directive provides:
+‘1.   For the purposes of this Directive, the term “energy products” shall apply to products:
+…
+(b)
+falling within CN codes 2701, and to 2715;
+…
+4.   This Directive shall not apply to:
+…
+(b)
+the following uses of energy products and electricity:
+–
+energy products used for purposes other than as motor fuels or as heating fuels,
+…
+However, Article shall apply to these energy products.’
+As set out in Article 21(3) of the directive:
+‘The consumption of energy products within the curtilage of an establishment producing energy products shall not be considered as a chargeable event giving rise to taxation, if the consumption consist[s] of energy products produced within the curtilage of the establishment. Member States may also consider the consumption of electricity and other energy products not produced within the curtilage of such an establishment and the consumption of energy products and electricity within the curtilage of an establishment producing fuels to be used for generation of electricity as not giving rise to a chargeable event. …’
+Danish law
+During the relevant period, solvent used as fuel was taxable in Denmark pursuant to Paragraph 1(3) of the mineralolieafgiftslov (Law on mineral oil tax), Paragraph 1(1)(1) of the kuldioxidafgiftslov (Law on carbon dioxide tax) and Paragraph 1(1) of the svovlafgiftslov (Law on sulphur tax).
+Article 21(3) of Directive 2003/was transposed into Danish law by Paragraph 7(3) of the Law on carbon dioxide tax and Paragraph 8(4) of the Law on sulphur tax.
+During the relevant period, Paragraph 7(3) of the Law on carbon dioxide tax was worded as follows:
+‘Energy products covered by Paragraph 2(1) used directly in the production of an equivalent energy product shall be exempt from carbon dioxide tax. This shall not apply, however, to energy products used as motor fuel.’
+During that period, Paragraph 8(4) of the Law on sulphur tax provided:
+‘Energy products covered by Paragraph used directly in the production of an equivalent energy product shall be exempt from sulphur tax. This shall not apply, however, to energy products used as motor fuel.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+At its plants in Nyborg (Denmark), Koppers makes, by refinement and distillation of coal tar, the following products: carbon pitch (for anode production), carbon black feedstock, creosote, naphthalene, naphthalene still residue (NSR) and solvent. Koppers’ main product is carbon pitch, which accounts for roughly 45% of its finished products. Koppers’ production of solvent accounts for about to 4% of its overall production.
+Koppers carries out its activities at two plants — a coal tar distillation plant and a naphthalene plant — which are interconnected and dependent on a common heat supply. Residues from the coal tar distillation plant are processed at the naphthalene plant, and solvent, produced as a by-product at the naphthalene plant, is used as fuel at the coal tar distillation plant. Solvent is also used as supporting fuel for burning distillation gas from the coal tar plant and the naphthalene plant. The heat from the burning process is reapplied at the plants.
+It is apparent from the documents before the Court that all the products produced by Koppers at its plants in Nyborg are classified under code or of the Combined Nomenclature set out in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1) and can be used as fuel. However, solvent is the only product produced at Koppers’ plants which Koppers uses as fuel and which, therefore, may be subject to energy taxes.
+Koppers initially declared its consumption of solvent as subject to tax but, by letters of November and December 2008, it requested a refund of the tax relating to the relevant period, contending that such consumption was exempt.
+On September 2010, SKAT (the tax authority, Denmark) adopted a decision stating that the consumption of solvent as fuel at the coal tar distillation plant was not exempt given that the solvent was not used in the production of equivalent energy, as the products produced are not taxable.
+Koppers appealed against that decision to the Landsskatteret (National Tax Tribunal, Denmark), which on June upheld the tax authority’s decision inter alia on the ground that Koppers’ consumption of solvent as fuel was not covered by Article 21(3) of Directive 2003/as the solvent was not used for the production of energy products falling within the directive’s scope.
+On September Koppers appealed against the decision of the Landsskatteret (National Tax Tribunal) to the Retten i Svendborg (District Court, Svendborg, Denmark), which decided, in the light of the issues of principle raised by the dispute, to refer the case to the Østre Landsret (Eastern Regional Court) ruling at first instance.
+According to the Østre Landsret (Eastern Regional Court), the outcome of the case before it turns on the interpretation of Article 21(3) of Directive 2003/96, and that interpretation gives rise to reasonable doubts.
+In those circumstances, the Østre Landsret (Eastern Regional Court) decided to stay proceedings and refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is Article 21(3) of Directive 2003/… to be interpreted as meaning that the consumption of self-produced energy products for the production of other energy products is tax exempt in a situation such as that in the main proceedings, in which the energy products produced are not used as motor fuels or as heating fuels?
+(2)
+Is Article 21(3) of Directive 2003/… to be interpreted as meaning that the Member States may restrict the scope of the exemption so as to cover only consumption of an energy product used in the production of an equivalent energy product (i.e. an energy product which, like the energy product consumed, is also subject to tax)?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks, in essence, whether Article 21(3) of Directive 2003/must be interpreted as meaning that the consumption of energy products, within the curtilage of an establishment that has produced them, for the purpose of producing other energy products falls within the exception, laid down in that provision, concerning the chargeable event giving rise to taxation where, in a situation such as that at issue in the main proceedings, the products produced by virtue of the main activity of the establishment concerned are used for purposes other than as motor fuels or as heating fuels.
+Whilst the wording of the first sentence of Article 21(3) of Directive 2003/refers to the consumption of energy products within the curtilage of an establishment producing energy products, it does not provide any detail regarding the purposes for which the end products produced by virtue of the main activity of such an establishment are used.
+In accordance with the Court’s settled case-law, when a literal interpretation of a provision of EU law does not permit its precise scope to be assessed, it must be interpreted by reference to the general scheme and the purpose of the rules of which it forms part (see, inter alia, judgment of September 2017, Austria Asphalt, C‑248/16, EU:C:2017:643, paragraph and the case-law cited).
+So far as concerns, first, the scheme of Directive 2003/96, Article 2(1) defines what is meant by ‘energy products’, for the purposes of the directive. As is apparent from the request for a preliminary ruling, all the products produced by Koppers may be classified, under that provision, as ‘energy products’ and that company might accordingly claim the benefit of the exception, laid down in Article 21(3) of the directive, concerning the chargeable event giving rise to taxation.
+However, as is apparent from recital of Directive 2003/96, the EU legislature considered that energy products should essentially be subject to a framework common to the Member States when used as heating fuel or motor fuel and that it is therefore in the nature and the logic of the tax system to exclude from the scope of the framework, in particular, energy products used for purposes other than as motor fuel or heating fuel. Thus, even though such products fall within the definition of ‘energy products’ for the purposes of Article 2(1) of Directive 2003/96, they are excluded from the scope of that directive by the first indent of Article 2(4)(b) thereof if they are not intended to be used as motor fuel or heating fuel (see, to that effect, judgment of July 2007, Fendt Italiana, C‑145/and C‑146/06, EU:C:2007:411, paragraphs and 43).
+Therefore, as the Danish Government and the European Commission submit, it is clear from Article 2(1) of Directive 2003/read in conjunction with Article 2(4) that the directive’s provisions apply to products which both are defined therein as energy products and fall within its scope.
+By way of exception, the EU legislature provided pursuant to the final sentence of Article 2(4)(b) of Directive 2003/that Article of the directive is, however, to apply to energy products which are excluded from the directive’s scope under the other provisions of Article 2(4). A similar exception was not envisaged in respect of Article 21(3) of the directive.
+As is apparent from the information provided by the referring court, inasmuch as the products produced by Koppers by virtue of its main activity are, in particular on account of their respective properties, not intended to be used as motor fuel or heating fuel, they are excluded from the scope of Directive 2003/96. Therefore, the consumption of solvent for the purpose of their production cannot fall within the exception, referred to in the first sentence of Article 21(3) of the directive, concerning the chargeable event giving rise to taxation.
+Second, that interpretation is borne out by the aims of Directive 2003/96. In this respect, it should be noted that, in making provision for a system of harmonised taxation of energy products and electricity, the directive seeks, as is apparent from recitals to 7, 11, and 24, to achieve a twofold objective, namely, first, to promote the proper functioning of the internal market in the energy sector, by avoiding, in particular, distortions of competition, and second, to further environmental policy objectives (see, to that effect, inter alia, judgments of September 2017, Hüttenwerke Krupp Mannesmann, C‑465/15, EU:C:2017:640, paragraph 26, and of March 2018, Cristal Union, C‑31/17, EU:C:2018:168, paragraphs and and the case-law cited).
+As the Danish Government submits in its written observations and as the Advocate General has observed in point of his Opinion, application of Article 21(3) of Directive 2003/to the production of ‘energy products’ within the meaning solely of Article 2(1) of the directive, when they are used for purposes other than as motor fuels or as heating fuels, would result in the creation of a gap in the system of harmonised taxation established by the directive, removing from taxation, in a situation such as that at issue in the main proceedings, energy products which are in principle subject thereto.
+In those circumstances, first, the consumption of energy products, such as the solvent at issue in the main proceedings, which should be an event subject to taxation under Article of Directive 2003/96, would benefit from the exception, provided for in Article 21(3) of that directive, concerning the chargeable event giving rise to taxation. Second, the lack of taxation of those products would not be offset by subsequent taxation of the energy products produced, as the latter are not intended to be used as motor fuel or heating fuel.
+Consequently, to hold that Article 21(3) of Directive 2003/is applicable in a situation such as that at issue in the main proceedings would be liable to have an adverse effect on the proper functioning of the internal market in the energy sector which, as noted in paragraph above, is one of the aims pursued by the establishment of such a system.
+The integrity of the system of harmonised taxation of energy products set up by Directive 2003/therefore requires the consumption of such products to be regarded as falling within the exception concerning the chargeable event giving rise to taxation, under the first sentence of Article 21(3) of the directive, only if it takes place for the purpose of producing products that are themselves subject to that taxation because they are used as motor fuel or heating fuel.
+That interpretation cannot be called into question by the argument put forward by Koppers that to interpret the term ‘energy products’ in Article 21(3) of Directive 2003/on the basis solely of the definition of that term in Article 2(1) of the directive is desirable on grounds of environmental protection and resource exploitation, as it would encourage undertakings to use the energy products that they have themselves produced.
+As noted in paragraph above, Directive 2003/has, in addition to promotion of the proper functioning of the internal market in the energy sector, the aim of furthering environmental policy objectives. However, it cannot be asserted that the requirement relating to use of the products produced as motor fuel or as heating fuel for the purpose of applying Article 21(3) of the directive would fail to have regard to that aim. On the contrary, it is apparent that, by means of that provision, the EU legislature reconciled the two objectives pursued by the directive.
+Indeed, the second sentence of Article 21(3) of Directive 2003/provides only for a power accorded to the Member States to consider in particular that the consumption of electricity and other energy products in order to produce energy products, where the products consumed are not themselves produced within the curtilage of the establishment, does not constitute a chargeable event giving rise to taxation.
+On the other hand, the exception concerning the chargeable event giving rise to taxation is a requirement, under the first sentence of Article 21(3) of Directive 2003/96, when the energy products consumed are themselves produced within the curtilage of the establishment. It follows that, by means of that obligation on the Member States, the EU legislature sought to encourage conditions of production aimed at energy efficiency.
+In the light of the foregoing, the answer to the first question is that Article 21(3) of Directive 2003/must be interpreted as meaning that the consumption of energy products, within the curtilage of an establishment that has produced them, for the purpose of producing other energy products does not fall within the exception, laid down in that provision, concerning the chargeable event giving rise to taxation where, in a situation such as that at issue in the main proceedings, the energy products produced by virtue of the main activity of that establishment are used for purposes other than as motor fuels or as heating fuels.
+The second question
+Given the answer to the first question, there is no need to answer the second question.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+Article 21(3) of Council Directive 2003/96/EC of October restructuring the Community framework for the taxation of energy products and electricity must be interpreted as meaning that the consumption of energy products, within the curtilage of an establishment that has produced them, for the purpose of producing other energy products does not fall within the exception, laid down in that provision, concerning the chargeable event giving rise to taxation where, in a situation such as that at issue in the main proceedings, the energy products produced by virtue of the main activity of that establishment are used for purposes other than as motor fuels or as heating fuels.
+ 
+[Signatures]
+(
+*)	Language of the case: Danish.
+Top  

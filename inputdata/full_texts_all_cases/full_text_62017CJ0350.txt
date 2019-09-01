@@ -1,0 +1,187 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+March (
+*)
+(Reference for a preliminary ruling — Regulation (EC) No 1370/— Public passenger transport services by rail and by road — Article — Award of public service contracts — Article 5(2) — Direct award — Concept of ‘internal operator’ — Authority exercising similar control — Article 8(2) — Transitional arrangements — Deadline for the expiry of the direct award)
+In Joined Cases C‑350/and C‑351/17,
+REQUESTS for a preliminary ruling under Article TFEU from the Consiglio di Stato (Council of State, Italy), made by decisions of April 2017, received at the Court on June 2017, in the proceedings
+Mobit Soc. cons. arl
+v
+Regione Toscana,
+interveners:
+Autolinee Toscane SpA,
+Régie Autonome des Transports Parisiens (RATP) (C‑350/17),
+and
+Autolinee Toscane SpA
+v
+Mobit Soc. cons. arl,
+interveners:
+Regione Toscana,
+Régie Autonome des Transports Parisiens (RATP) (C‑351/17),
+THE COURT (Fourth Chamber),
+composed of T. von Danwitz, President of the Seventh Chamber, acting as President of the Fourth Chamber, K. Jürimäe, C. Lycourgos, E. Juhász (Rapporteur) and C. Vajda, Judges,
+Advocate General: H. Saugmandsgaard Øe,
+Registrar: R. Schiano, Administrator,
+having regard to the written procedure and further to the hearing on June 2018,
+after considering the observations submitted on behalf of:
+–
+Mobit Soc. cons. arl, by P.L. Santoro, A. Bianchi, M. Siragusa, P. Merlino and M. Malena, avvocati,
+–
+Autolinee Toscane SpA, by M. Lombardo, G. Mazzei and G. Morbidelli, avvocati,
+–
+Regione Toscana, by L. Bora, L. Caso, S. Fidanzia and A. Gigliola, avvocati,
+–
+the Régie Autonome des Transports Parisiens (RATP), by S. Macchi di Cellere, avvocato, and by P. Delelis and E. Morgan de Rivery, avocats,
+–
+the Italian Government, by G. Palmieri, acting as Agent, and by F. Sclafani, avvocato dello Stato,
+–
+the French Government, by D. Colas, P. Dodeller, E. de Moustier and C. David, acting as Agents,
+–
+the Portuguese Government, by L. Inez Fernandes, M. Figueiredo and P. Leitão, acting as Agents,
+–
+the European Commission, by G. Gattinara and W. Mölls, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on October 2018,
+gives the following
+Judgment
+These requests for a preliminary ruling concern the interpretation of the provisions of Regulation (EC) No 1370/of the European Parliament and of the Council of October on public passenger transport services by rail and by road and repealing Council Regulations (EEC) Nos 1191/and 1107/(OJ L 315, p. 1).
+The requests have been made, first, in proceedings between Mobit Soc. cons. arl, an entity grouping together several undertakings active in the transport sector, and Regione Toscana (Region of Tuscany, Italy) and, secondly, in proceedings between Autolinee Toscane SpA and Mobit, concerning the award to Autolinee Toscane, by a tendering procedure, of the concession contract for the provision of local public transport services.
+Legal context
+EU law
+Recital of Regulation No 1370/states:
+‘Given that competent authorities and public service operators will need time to adapt to the provisions of this Regulation, provision should be made for transitional arrangements. With a view to the gradual award of public service contracts in line with this Regulation, Member States should provide the Commission with a progress report within the six months following the first half of the transitional period. The Commission may propose appropriate measures on the basis of these reports.’
+Article of that regulation, entitled ‘Definitions’, provides:
+‘For the purpose of this Regulation:
+(a)
+“public passenger transport” means passenger transport services of general economic interest provided to the public on a non-discriminatory and continuous basis;
+(b)
+“competent authority” means any public authority or group of public authorities of a Member State or Member States which has the power to intervene in public passenger transport in a given geographical area or any body vested with such authority;
+(c)
+“competent local authority” means any competent authority whose geographical area of competence is not national;
+…
+(f)
+“exclusive right” means a right entitling a public service operator to operate certain public passenger transport services on a particular route or network or in a particular area, to the exclusion of any other such operator;
+…
+(h)
+“direct award” means the award of a public service contract to a given public service operator without any prior competitive tendering procedure;
+(i)
+“public service contract” means one or more legally binding acts confirming the agreement between a competent authority and a public service operator to entrust to that public service operator the management and operation of public passenger transport services subject to public service obligations; depending on the law of the Member State, the contract may also consist of a decision adopted by the competent authority:
+–
+taking the form of an individual legislative or regulatory act, or
+–
+containing conditions under which the competent authority itself provides the services or entrusts the provision of such services to an internal operator;
+(j)
+“internal operator” means a legally distinct entity over which a competent local authority, or in the case of a group of authorities at least one competent local authority, exercises control similar to that exercised over its own departments;
+…’
+Article of that regulation, entitled ‘Public service contracts and general rules’, provides in paragraph 1:
+‘Where a competent authority decides to grant the operator of its choice an exclusive right and/or compensation, of whatever nature, in return for the discharge of public service obligations, it shall do so within the framework of a public service contract.’
+Article of Regulation No 1370/2007, concerning the ‘Mandatory content of public service contracts and general rules’, provides in paragraphs and 4:
+‘3.   The duration of public service contracts shall be limited and shall not exceed years for coach and bus services ...
+4.   If necessary, having regard to the conditions of asset depreciation, the duration of the public service contract may be extended by a maximum of 50% if the public service operator provides assets which are both significant in relation to the overall assets needed to carry out the passenger transport services covered by the public service contract and linked predominantly to the passenger transport services covered by the contract.
+If justified by costs deriving from the particular geographical situation, the duration of public service contracts specified in paragraph in the outermost regions may be extended by a maximum of 50%.
+If justified by the amortisation of capital in relation to exceptional infrastructure, rolling stock or vehicular investment and if the public service contract is awarded in a fair competitive tendering procedure, a public service contract may have a longer duration. In order to ensure transparency in this case, the competent authority shall transmit to the Commission within one year of the conclusion of the contract the public service contract and elements justifying its longer duration.’
+Under Article of that regulation, entitled ‘Award of public service contracts’:
+‘1.   Public service contracts shall be awarded in accordance with the rules laid down in this Regulation. …
+2.   Unless prohibited by national law, any competent local authority, whether or not it is an individual authority or a group of authorities providing integrated public passenger transport services, may decide to provide public passenger transport services itself or to award public service contracts directly to a legally distinct entity over which the competent local authority, or in the case of a group of authorities at least one competent local authority, exercises control similar to that exercised over its own departments. Where a competent local authority takes such a decision, the following shall apply:
+(a)
+for the purposes of determining whether the competent local authority exercises control, factors such as the degree of representation on administrative, management or supervisory bodies, specifications relating thereto in the articles of association, ownership, effective influence and control over strategic decisions and individual management decisions shall be taken into consideration. In accordance with Community law, 100% ownership by the competent public authority, in particular in the case of public-private partnerships, is not a mandatory requirement for establishing control within the meaning of this paragraph, provided that there is a dominant public influence and that control can be established on the basis of other criteria;
+(b)
+the condition for applying this paragraph is that the internal operator and any entity over which this operator exerts even a minimal influence perform their public passenger transport activity within the territory of the competent local authority, notwithstanding any outgoing lines or other ancillary elements of that activity which enter the territory of neighbouring competent local authorities, and do not take part in competitive tenders concerning the provision of public passenger transport services organised outside the territory of the competent local authority;
+(c)
+notwithstanding point (b), an internal operator may participate in fair competitive tenders as from two years before the end of its directly awarded public service contract under the condition that a final decision has been taken to submit the public passenger transport services covered by the internal operator contract to fair competitive tender and that the internal operator has not concluded any other directly awarded public service contract;
+(d)
+in the absence of a competent local authority, points (a), (b) and (c) shall apply to a national authority for the benefit of a geographical area which is not national, provided that the internal operator does not take part in competitive tenders concerning the provision of public passenger transport services organised outside the area for which the public service contract has been granted;
+…
+3.   Any competent authority which has recourse to a third party other than an internal operator, shall award public service contracts on the basis of a competitive tendering procedure, except in the cases specified in paragraphs 4, and 6. The procedure adopted for competitive tendering shall be open to all operators, shall be fair and shall observe the principles of transparency and non-discrimination. Following the submission of tenders and any preselection, the procedure may involve negotiations in accordance with these principles in order to determine how best to meet specific or complex requirements.
+…’
+Article of Regulation 1370/2007, entitled ‘Transition’, provides:
+‘1.   Public service contracts shall be awarded in accordance with the rules laid down in this Regulation. However, service contracts or public service contracts as defined in Directive [2004/17/EC of the European Parliament and of the Council of March coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors (OJ L 134, p. 1)] or [Directive 2004/18/EC of the European Parliament and of the Council of March on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts (OJ L 134, p. 114)] for public passenger transport services by bus or tram shall be awarded in accordance with the procedures provided for under those Directives where such contracts do not take the form of service concessions contracts as defined in those Directives. Where contracts are to be awarded in accordance with Directives 2004/17/EC or 2004/18/EC, the provisions of paragraphs to of this Article shall not apply.
+2.   Without prejudice to paragraph 3, the award of public service contracts [for transport] by rail and by road shall comply with Article as from December 2019. During this transitional period Member States shall take measures to gradually comply with Article in order to avoid serious structural problems in particular relating to transport capacity.
+Within six months after the first half of the transitional period, Member States shall provide the Commission with a progress report, highlighting the implementation of any gradual award of public service contracts in line with Article 5. On the basis of the Member States’ progress reports, the Commission may propose appropriate measures addressed to Member States.
+3.   In the application of paragraph 2, no account shall be taken of public service contracts awarded in accordance with Community and national law:
+(a)
+before July on the basis of a fair competitive tendering procedure;
+(b)
+before July on the basis of a procedure other than a fair competitive tendering procedure;
+(c)
+as from July and before December on the basis of a fair competitive tendering procedure;
+(d)
+as from July and before December on the basis of a procedure other than a fair competitive tendering procedure.
+The contracts referred to in (a) may continue until they expire. The contracts referred to in (b) and (c) may continue until they expire, but for no longer than years. The contracts referred to in (d) may continue until they expire, provided they are of limited duration comparable to the durations specified in Article 4.
+Public service contracts may continue until they expire where their termination would entail undue legal or economic consequences and provided that the Commission has given its approval.
+4.   Without prejudice to paragraph 3, the competent authorities may opt, in the second half of the transitional period specified in paragraph 2, to exclude from participation in the award of contracts by invitation to tender those public service operators which cannot provide evidence that the value of the public transport services for which they are receiving compensation or enjoy an exclusive right granted in accordance with this Regulation represents at least half the value of all the public transport services for which they are receiving compensation or enjoy an exclusive right. Such exclusion shall not apply to public service operators running the services which are to be tendered. For the application of this criterion, no account shall be taken of public service contracts awarded by emergency measure as referred to in Article 5(5).
+Where competent authorities make use of the option referred to in the first subparagraph, they shall do so without discrimination, exclude all potential public service operators meeting this criterion and inform the potential operators of their decision at the beginning of the procedure for the award of public service contracts.
+The competent authorities concerned shall inform the Commission of their intention to apply this provision at least two months before the publication of the invitation to tender.’
+Under Article of Regulation No 1370/2007, that regulation is to enter into force on December 2009.
+Regulation No 1370/was amended by Article 1(9)(a) of Regulation (EU) 2016/of the European Parliament and of the Council of December (OJ L 354, p. 22), which, having entered into force on December 2017, is not, however, applicable to the main proceedings. Article 8(2) of Regulation No 1370/2007, as amended, provides:
+‘Without prejudice to paragraph 3:
+(i)
+Article shall apply to the award of public service contracts for passenger transport services by road and by track-based modes other than rail such as metro or tramways from December 2019;
+…
+Until December 2019, Member States shall take measures to gradually comply with Article in order to avoid serious structural problems in particular relating to transport capacity.
+…’
+Italian law
+Article 18(1) of decreto legislativo n. — Conferimento alle regioni ed agli enti locali di funzioni e compiti in materia di trasporto pubblico locale, a norma dell’articolo 4, comma 4, della legge marzo 1997, n. (Legislative Decree No — Conferment of duties and powers in the area of public transport at local level to the regions and local bodies, under Article 4(4) of Law No of March 1997), of November (GURI No 287, December 1997, p. 4), seeks to exclude, as far as possible, regional and local transport services from being directly awarded, on the ground that such awards generally undermine market transparency and efficiency and, for that purpose, it requires service contracts to be concluded for a period not exceeding nine years and economy and efficiency criteria to be met.
+Article 18(2) of that legislative decree has the same objective, in limiting the participation in tendering procedures of entities who have previously been directly awarded contracts and authorising them to participate only when those entities comply with the principles set out in Article and Article 8(3) of Regulation No 1370/2007.
+Under Article 18(2)(A)(a) of the legislative decree, ‘Companies as well as their parent companies, companies forming part of the same group and subsidiaries which, in Italy or abroad, are awarded a contract in a manner not in accordance with the combined provisions of Articles and 8(3) of [Regulation No 1370/2007] and of a duration extending beyond December cannot participate in any procedure for an award of services, even one already initiated. That exclusion does not apply to undertakings which have been awarded the service forming the very purpose of the competitive tendering procedure.’
+The disputes in the main proceedings and the questions referred for a preliminary ruling
+By a notice published in the Official Journal of the European Union on October 2013, the Region of Tuscany launched a procedure for awarding a public local transport services concession contract within its territory. It is apparent from that notice that the concession was to be for a duration of months and for the annual provision of km of local transport by bus (with the possibility of approximately 20% variation).
+Invitations to tender were sent to the only two undertakings to have expressed an interest in participating in the tendering procedure, namely Mobit and Autolinee Toscane.
+Mobit is an Italian consortium company that groups together several undertakings operating in the transport sector.
+It is apparent from the file submitted to the Court that Autolinee Toscane, a company established in Italy, is a wholly-owned subsidiary of RATP Dev SA and RATP Dev Italia Srl, companies themselves wholly controlled by the Régie Autonome des Transports Parisiens (‘RATP’). RATP is a public institution established and controlled by the French State, which has awarded RATP the contracts for operating passenger transport networks and lines in the Île-de-France region (France) since 1948. The public transport service contract awarded to RATP in France, in force at the material time in the main proceedings, is set to expire on December 2039.
+On November 2015, the Region of Tuscany provisionally awarded the public transport services concession contract to Autolinee Toscane. It was definitively awarded to Autolinee Toscane by decision of March 2016.
+On April 2016, Mobit challenged that final award decision before the Tribunale amministrativo regoniale della Toscana (Regional Administrative Court of Tuscany, Italy). In support of its action, Mobit challenged the lawfulness of the tendering procedure, relying on pleas in law alleging that it was unlawful for Autolinee Toscane to participate in the tendering procedure and that there were irregularities in the tender submitted by that company and, in the alternative, that the entire procedure was unlawful.
+Autolinee Toscane lodged a counterclaim, seeking exclusion of the tender submitted by Mobit. RATP intervened in the proceedings in support of Autolinee Toscane.
+By judgment of October 2016, the Tribunale amministrativo regionale della Toscana (Regional Administrative Court of Tuscany) upheld both Mobit’s main action and Autolinee Toscane’s counterclaim, annulling the award decision, because of irregularities affecting the tenders submitted by both those entities in the light of the requirements laid down in the rules governing the invitation to tender.
+Both Mobit and Autolinee Toscane appealed against that judgment to the Consiglio di Stato (Council of State, Italy).
+In support of its appeal, Mobit argued, in particular, that the award decision infringed Article 2(b) and (j), Article 5(2) and Article 8(3) of Regulation No 1370/2007.
+In particular, Mobit submits that Autolinee Toscane ought to have been excluded from the award procedure pursuant to Article 5(2)(b) and (d) of Regulation No 1370/2007, since it is controlled by RATP, which is itself controlled by the French State and has been directly awarded a contract for the provision of transport services in Île-de-France. Consequently, Mobit submits that RATP must, in the light of the public transport services contract awarded to it in France, be classified as an ‘internal operator’ within the meaning of the abovementioned provisions. In that capacity, RATP, like the entities over which it exerts an influence, which include Autolinee Toscane, cannot participate in competitive tenders concerning the provision of public passenger transport services in the Île-de-France region.
+Considering that the interpretation of the provisions of Regulation No 1370/was necessary in order to resolve the disputes before it, the Consiglio di Stato (Council of State) decided to stay proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Does Article 5(2) of [Regulation 1370/2007] (in particular, the prohibition, laid down in subparagraphs (b) and (d), on the participation of internal operators in extra moenia tendering procedures) apply equally where a contract has been [directly] awarded prior to the entry into force of that regulation?
+(2)
+May a legal person governed by public law which has been directly awarded a contract by a State authority for the provision of local transport services and which has a direct relationship with the State authority in terms of organisation and control and whose capital is owned by the State (either wholly or in part, together with other public entities) be regarded, in the abstract, as an “internal operator” within the meaning of the regulation and, as the case may be, by analogy with the case-law on the subject of “in house provision”?
+(3)
+In the case of the direct award of a contract for the provision of services falling within the scope of [Regulation No 1370/2007], if, after that award, the State authority in question (while itself retaining sole power to award concessions) establishes a public administrative authority that has power to organise the services in question but does not have ‘similar control’ over the contractor, does that fact take the award in question outside the scope of the rules in Article 5(2) of the regulation?
+(4)
+If the date of expiry of a directly awarded contract falls after the end of the 30-year period ending on December (that period commencing on the date of entry into force of Regulation (EC) No 1370/2007) does that render the award inconsistent with the principles laid down in the combined provisions of Articles and 8(3) of the regulation, or may such an irregularity be regarded as automatically remedied, for all legal purposes, by an implied shortening of the length of the contract by operation of law (Article 8(3)), so as to fall within the 30-year period?’
+The request to have the oral procedure reopened
+By document lodged at the Court Registry on January 2019, Mobit requested the Court to order the oral part of the procedure to be reopened, pursuant to Article of the Rules of Procedure of the Court.
+In support of its request, Mobit argues that the Commission instituted a proceeding against the French Republic concerning the non-conformity with Article 8(3) of Regulation No 1370/of a French law on the expiry of the contract concluded with RATP for public transport in Île-de-France. In addition, it is apparent from three letters sent by RATP to the Commission, in the context of that proceeding on which no action was subsequently taken, that the Commission was convinced that the 30-year period laid down in Article 8(3) of Regulation No 1370/expired on a date earlier than that which it argued in its written observations to the Court in the present preliminary ruling proceedings. Mobit submits, in essence, that that interpretation of Article 8(3) of Regulation No 1370/would have considerable ramifications in the present case, so that that factor should be examined by the Court.
+Pursuant to Article of its Rules of Procedure, the Court may at any time, after hearing the Advocate General, order the oral part of the procedure to be reopened, in particular if it considers that it lacks sufficient information or where a party has, after the close of that part of the procedure, submitted a new fact which is of such a nature as to be a decisive factor for the decision of the Court, or where the case must be decided on the basis of an argument which has not been debated between the parties or the interested persons referred to in Article of the Statute of the Court of Justice of the European Union.
+That is not the situation here. First, the interested persons who have participated in the present procedure have been able to set out, both during the written and oral parts thereof, the matters of law which they considered relevant to answering the questions raised by the referring court, in particular as regards the interpretation of Article 8(3) of Regulation No 1370/2007. Secondly, the contention that, in the context of another procedure, the Commission has advocated an interpretation of that provision different from that put forward in the present case, cannot be considered capable of being a decisive factor for the decision which the Court is called upon to give in the present case.
+After hearing the Advocate General, the Court considers that it has sufficient information to answer the questions submitted by the referring court and that all the arguments necessary to determine the case at issue have been debated between the parties.
+The request for the oral part of the present procedure to be reopened must, therefore, be refused.
+Consideration of the questions referred
+It is apparent from the order for reference that the procedure at issue in the main proceedings relates to the award of a public local transport service concession contract within the territory of the Region of Tuscany. The award procedure was initiated by that region by the notice published in the Official Journal of the European Union on October and closed by the final award decision of March in favour of Autolinee Toscane. That procedure falls within the substantive scope of Regulation No 1370/2007.
+In support of the action brought against that award decision both before the first-instance court and the appeal court, Mobit argued that the award procedure at issue was unlawful in the light of Article 5(2) of Regulation No 1370/because of Autolinee Toscane’s participation.
+It is apparent from the questions submitted by the referring court that they are based on the premisses that RATP had been directly awarded a contract and Autolinee Toscane is wholly controlled by RATP, circumstances which if proven could, as the case may be, call in question the lawfulness of the award at issue on the basis of Article 5(2)(b) and (d) of Regulation No 1370/2007. The referring court questions, therefore, whether Article of that regulation is applicable to an award procedure such as that at issue in the main proceedings.
+In that regard, it should be observed that, according to settled case-law, in the procedure laid down by Article TFEU, providing for cooperation between national courts and the Court of Justice, it is for the latter to provide the referring court with an answer which will be of use to it and enable it to determine the case before it. With that in mind, the Court may have to reformulate the questions referred to it. Further, the Court may decide to take into consideration rules of EU law to which the national court has made no reference in the wording of its question (judgment of February 2017, Município de Palmela, C‑144/16, EU:C:2017:76, paragraph and the case-law cited).
+It must be found that, in the context of the present case, a preliminary issue arises in relation to the questions submitted by the referring court, namely whether or not Article of Regulation No 1370/is applicable ratione temporis for the purposes of determining whether a competent local authority, such as the Region of Tuscany — which on October launched a procedure for the award of a public service contract falling, in the light of its subject matter, within the substantive scope of Regulation No 1370/2007, and which closed that procedure on March by a definitive award decision — was required to comply with that article. The answer to that question entails examining whether the transitional arrangement laid down in the first subparagraph of Article 8(2) of Regulation No 1370/is applicable.
+Under Article thereof, Regulation No 1370/entered into force on December 2009, that is prior to both the date on which the procedure for awarding the public local transport services concession contract was opened and that on which the award decision at issue in the main proceedings was adopted.
+However, Article of that regulation, entitled ‘Transition’, provides in the first subparagraph of paragraph thereof that the award of contracts for public transport services by road must comply with Article of that regulation as from December 2019.
+It is apparent from the clear wording of the first subparagraph of Article 8(2) of Regulation No 1370/that that provision provides, as the Advocate General observed in point of his Opinion, for a transitional period of years, which runs from the date of entry into force of that regulation until December 2019, during which the competent authorities of the Member States are not yet required to comply with Article of that regulation when awarding a public service concession contract for the provision of road transport. The words ‘award of contracts’, in Article 8(2) of Regulation No 1370/2007, encompass the decision to conclude a public service contract for transport by rail or road with a company, regardless of the fact that that contract may expire after the date on which the transitional period ends, subject to compliance with the rules on the limitation of the duration of contracts, provided for in Articles 4(3) and (4) of Regulation No 1370/2007.
+Consequently, a final award decision may be adopted by a competent authority, during that transitional period, without having to comply with the rules laid down in Article of Regulation No 1370/2007.
+That interpretation is confirmed by recital of that regulation, from which it is abundantly clear that the EU legislature considered that provision should be made for transitional arrangements, given that competent authorities and public service operators need time to adapt to the provisions of Regulation No 1370/2007, after it enters into force.
+The same is true of the drafting history of Regulation No 1370/2007. Thus, in its revised proposal for a Regulation of the European Parliament and of the Council on public passenger transport services by rail and by road of July (COM(2005) final), the Commission suggested that provision should be made for half of public service contracts for transport, by value, to have to be awarded by each competent authority in accordance with that regulation within four or five years of its entry into force. It is apparent from the wording of Article 8(2) of Regulation No 1370/which was finally adopted by the EU legislature that, in deciding to disregard in the final version of that provision such a quantitative reference, the EU legislature preferred to allow the Member States a certain margin regarding implementation of Article of that regulation during the transitional period.
+The interpretation in paragraph above is also borne out by the fact, noted by the Advocate General in point of his Opinion, that the Commission submitted, on January 2013, a Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EC) No 1370/concerning the opening of the market for domestic passenger transport services by rail (COM(2013) final), which sought to restrict the scope of Article 8(2) of Regulation No 1370/2007, in providing that the ten-year transitional period to December would apply only to Article 5(3) of that regulation on the obligation on competent authorities to organise a competitive tendering procedure and that all other provisions of Article would be immediately applicable.
+However, when Regulation No 1370/was amended by Regulation 2016/2338, the EU legislature did not reproduce that proposal. Under the first sentence of the first subparagraph of Article 8(2) of Regulation No 1370/2007, as amended by Regulation 2016/2338, referred to in paragraph above, ‘Article shall apply to the award of public service contracts for passenger transport services by road and by track-based modes other than rail such as metro or tramways from December 2019’.
+It is, therefore, apparent from those details that the scope and date of expiry of the transitional arrangement laid down in the first sentence of the first subparagraph of Article 8(2) of Regulation No 1370/remained unchanged. Consequently, that transitional arrangement does indeed relate to all the provisions of Article of that regulation.
+It should be added that a Member State may indeed implement Article of Regulation No 1370/in advance, in the context of the measures taken to gradually comply with Article 5, provided for in the second sentence of the first subparagraph of Article 8(2) of that regulation.
+That was not, however, the case in the main proceedings as at the date on which the award procedure was opened, as confirmed at the hearing by the Region of Tuscany and the Italian Government.
+In addition, the transitional arrangement laid down in the first subparagraph of Article 8(2) of Regulation No 1370/does not grant the competent authorities an unlimited power to determine the duration of contracts for public passenger transport services by road.
+Under the first subparagraph of Article 8(2) of Regulation No 1370/2007, only the applicability of Article of that regulation to the awards of public services contracts for transport by rail or road is deferred.
+Under that first subparagraph of Article 8(2) of that regulation, the applicability of Article of Regulation No 1370/to the awards of public service contracts falling within that transitional arrangement is not, therefore, precluded.
+Consequently, in accordance with Article 4(3) of that regulation, the duration of a public service contract for transport by bus, such as that at issue in the main proceedings, cannot exceed years, subject to the cases referred to in Article 4(4) of that regulation, for which it allows an extension in certain conditions.
+In the present case, it is apparent that the public service concession contract for the provision of local transport was concluded between the Region of Tuscany and Autolinee Toscane for a duration of months, namely nine years, and, therefore, complies with the limitation of the duration of a contract provided for by Regulation No 1370/2007.
+In the light of the foregoing, the answer to the questions referred is that Article and Article 8(2) of Regulation No 1370/must be interpreted as meaning that Article of that regulation is not applicable to an award procedure which has been carried out before December 2019, so that a competent authority which awards, by an award decision closing a competitive tendering procedure, before that date, a public service concession contract for the provision of local passenger transport by road is not required to comply with Article of that regulation.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fourth Chamber) hereby rules:
+ 
+Article and Article 8(2) of Regulation (EC) No 1370/of the European Parliament and of the Council of October on public passenger transport services by rail and by road and repealing Council Regulations (EEC) Nos 1191/and 1107/must be interpreted as meaning that Article of Regulation No 1370/is not applicable to an award procedure which has been carried out before December 2019, so that a competent authority which awards, by an award decision closing a competitive tendering procedure, before that date, a public service concession contract for the provision of local passenger transport by road, is not required to comply with Article of that regulation.
+ 
+[Signatures]
+(
+*)	Language of the case: Italian.
+Top  

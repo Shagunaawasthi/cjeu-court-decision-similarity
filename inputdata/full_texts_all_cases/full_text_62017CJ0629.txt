@@ -1,0 +1,91 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+December (
+*)
+(Reference for a preliminary ruling — Intellectual property — Trade mark law — Directive 2008/95/EC — Article 3(1)(c) — Grounds for invalidity — Word marks which consist exclusively of signs or indications which may serve in trade to designate the characteristics of goods or services — Other characteristics of goods or services — Production facility for a product — Word mark composed of a sign designating wine products and of a geographical name, constituting a word element of the trade mark proprietor’s business name)
+In Case C‑629/17,
+REQUEST for a preliminary ruling under Article TFEU from the Supremo Tribunal de Justiça (Supreme Court, Portugal), made by decision of September 2017, received at the Court on October 2017, in the proceedings
+J. Portugal Ramos Vinhos SA
+v
+Adega Cooperativa de Borba CRL
+THE COURT (Fourth Chamber),
+composed of M. Vilaras (Rapporteur), President of the Chamber, R. Silva de Lapuerta, Vice-President, acting for the President of the Fourth Chamber, D. Šváby, S. Rodin and N. Piçarra, Judges,
+Advocate General: M. Campos Sánchez-Bordona,
+Registrar: M. Ferreira, principal administrator,
+having regard to the written procedure and further to the hearing on October 2018,
+after considering the observations submitted on behalf of:
+–
+J. Portugal Ramos Vinhos SA, by J.P. de Oliveira Vaz Miranda de Sousa, advogado,
+–
+Adega Cooperativa de Borba CRL, by C. de Almeida Carvalho, advogada,
+–
+the European Commission, by P. Costa de Oliveira and É. Gippini Fournier, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 3(1)(c) of Directive 2008/95/EC of the European Parliament and of the Council of October to approximate the laws of the Member States relating to trade marks (OJ L 299, p. 25).
+This request has been made in proceedings between J. Portugal Ramos Vinhos SA and Adega Cooperativa de Borba CRL, concerning an action for annulment, in particular, of the registration of the trade mark ‘adegaborba.pt’, of which the latter company is the proprietor.
+Legal context
+European Union law
+Article of Directive 2008/95, entitled ‘Signs of which a trade mark may consist’, provides:
+‘A trade mark may consist of any sign capable of being represented graphically, particularly words, including personal names, designs, letters, numerals, the shape of goods or of their packaging, provided that such signs are capable of distinguishing the goods or services of one undertaking from those of other undertakings.’
+Article 3(1) of the Directive, entitled ‘Grounds for refusal or invalidity’, provides:
+‘The following shall not be registered or, if registered, shall be liable to be declared invalid:
+…
+(b)
+trade marks which are devoid of any distinctive character;
+(c)
+trade marks which consist exclusively of signs or indications which may serve, in trade, to designate the kind, quality, quantity, intended purpose, value, geographical origin or the time of production of the goods or of rendering of the service, or other characteristics of the goods or service;
+…’
+Article of Regulation (EU) No 1308/of the European Parliament and of the Council of December establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/and (EC) No 1234/(OJ 2013, L 347, p. 671) provides:
+‘The registration of a trade mark that contains or consists of a protected designation of origin or a geographical indication which does not comply with the product specification concerned or the use of which falls under Article 103(2), and that relates to a product falling under one of the categories listed in Part II of Annex VII shall be:
+(a)
+refused if the application for registration of the trade mark is submitted after the date of submission of the application for protection of the designation of origin or geographical indication to the Commission and the designation of origin or geographical indication is subsequently protected; or
+(b)
+invalidated.’
+Portuguese law
+Article of Código da Propriedade Industrial (Industrial Property Code, hereinafter ‘CPI’), entitled ‘Exceptions’, reads as follows:
+‘— The following do not meet the conditions of the previous article:
+(a)
+trade marks which are devoid of any distinctive character;
+…
+(c)
+signs which consist exclusively of indications which may serve, in trade, to designate the kind, quality, quantity, intended purpose, value, geographical origin, the time or means of production of the goods or of rendering of the services, or other characteristics of the goods or services;
+…
+3.   — At the request of the applicant or the opponent, the Instituto Nacional da Propriedade Industrial [(National institution for industrial property, Portugal)] shall indicate, in the registration certificate, the constituent elements of the trade mark over which the applicant does not have an exclusive right of use.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+During 2012, the applicant in the main proceedings, J. Portugal Ramos Vinhos, brought an application for cancellation of the registration by Ageda Cooperativa de Borba of several national trade marks, one of which consisted of the word sign ‘adegaborba.pt’, which designated wine products.
+This action was dismissed, at first instance, by the Tribunal da Propriedade Intelectual (Intellectual Property Court, Portugal) and, on appeal, by the Tribunal da Relação de Lisboa (Lisbon Court of Appeal, Portugal).
+Both courts held that the word sign ‘adegaborba.pt’, when adopted by a producer from the Borba (Portugal) region, as in the present case, did not fall within the scope of Article 223(1)(c) of the CPI. More specifically, the Tribunal da Relação de Lisboa (Lisbon Court of Appeal) held that the term ‘adega’ was a distinctive term in the wine sector, designating wines coming from producers in the cooperative Adega Cooperativa de Borba.
+J. Portugal Ramos Vinhos appealed against the decision of the Tribunal da Relação de Lisboa (Lisbon Court of Appeal) to the referring court, the Supremo Tribunal de Justiça (Supreme Court, Portugal). That court explains that the dispute still before it concerns only the word sign ‘adegaborba.pt’, whose distinctive character must be determined.
+The referring court states that this trade mark was used by a legal person, the Adega Cooperativa de Borba, whose name thus includes the term ‘adega’.
+Furthermore, the referring court notes that Article 223(1)(c) of the CPI refers to indications designating the ‘means of production’ of goods, while Article 3(1)(c) of Directive 2008/does not explicitly refer to ‘means of production’ but mentions ‘other characteristics’ of the goods which can be regarded as descriptive of them.
+The referring court wonders in that regard whether the term ‘adega’ (‘cellar’), when used in the field of wine-making, should be considered as a purely descriptive term, in that it refers to a means of production of these goods, or if it refers to a mere characteristic of those goods, in addition to those set out in Directive 2008/95.
+In those circumstances, the Supremo Tribunal de Justiça (Supreme Court) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘In relation to the wording in Article [3](1)(c) of Directive 2008/95, “indications which may serve, in trade, to designate other characteristics of the goods or service”, when used in assessing the permissibility of the registration of signs or indications in order to designate wine products, must that wording be interpreted as covering, in the verbal expressions adopted as a mark including a geographical name protected as a designation of origin of wine, a reference to the word “adega” — in the sense of a term commonly used to identify the facilities and sites where the production process for such goods takes place — in the verbal expression adopted as a trade mark, in situations where that expression (“adega”) is one of the various word elements that make up the corporate name of the legal person seeking to register the trade mark?’
+Consideration of the question referred
+By its question, the referring court asks, in essence, whether Article 3(1)(c) of Directive 2008/must be interpreted as meaning that the registration of a trade mark composed of a word sign, such as that at issue in the main proceedings, designating wine products and including a geographical name, must be refused, where that sign contains, in particular, a term which is commonly used to designate facilities or sites in which those products are produced and is also one of the word elements making up the business name of the legal person seeking to register that trade mark.
+The Court has already held, regarding First Council Directive 89/104/EEC of December to approximate the laws of the Member States relating to trade marks (OJ L 40, p. 1), that Article (3)(1)(c) of that directive, whose wording is, in essence, identical to that of Article (3)(1)(c) of Directive 2008/95, pursues an aim that is in the public interest, which requires that signs or indications describing categories of goods or services for which registration is sought may be freely used by all, including as collective trade marks or as part of composite or graphic trade marks (judgments of May 1999, Windsurfing Chiemsee, C‑108/and C‑109/97, EU:C:1999:230, paragraph 25, and also of May 2003, Libertel, C‑104/01, EU:C:2003:244, paragraph 52).
+The Court has also interpreted Article 7(1)(c) of Council Regulation (EC) No 40/of December on the Community trade mark (OJ L 11, p. 1), whose wording is also essentially identical to that of Article 3(1)(c) of Directive 2008/95, as meaning that the signs and indications referred to in this provision are thus only those that may serve, in normal usage from a consumer’s point of view, to designate either directly or by reference to one of their essential characteristics, goods or services such as those in respect of which registration is sought (judgment of September 2001, Procter & Gamble v OHIM, C‑383/P, EU:C:2001:461, paragraph 39).
+By using, in Article 3(1)(c) of Directive 2008/95, the terms ‘the kind, quality, quantity, intended purpose, value, geographical origin or the time of production of the goods or of rendering of the service, or other characteristics of the goods or service’, the EU legislature made it clear, first, that those terms must all be regarded as characteristics of goods or services and, secondly, that that list is not exhaustive, since any other characteristics of goods or services may also be taken into account (see, to this effect, the judgment of March 2011, Agencja Wydawnicza Technopol v OHIM, C‑51/P, EU:C:2011:139, paragraph 49, and of July 2014BSH v OHIM, C‑126/P, not published, EU:C:2014:2065, paragraph 20).
+On that basis, the fact that the Union legislature chose to use the word ‘characteristic’ highlights the fact that the signs referred to in that provision are merely those which serve to designate a property, easily recognisable by the relevant class of persons, of the goods or the services in respect of which registration is sought (see, to this effect, the judgment of March 2011, Agencja Wydawnicza Technopol v OHIM, C‑51/P, EU:C:2011:139, paragraph 50, and of July 2014, BSH v OHIM, C‑126/P, not published, EU:C:2014:2065, paragraph 21).
+Therefore, a sign can be refused registration on the basis of Article 3(1)(c) of Regulation No 2008/only if it is reasonable to believe that it will actually be recognised by the relevant class of persons as a description of one of those characteristics (see, to this effect, the judgment of July 2014BSH v OHIM, C‑126/P, not published, EU:C:2014:2065, paragraph 22).
+As confirmed at the hearing, the relevant term in the main proceedings ‘adega’, has two meanings in Portuguese. The first corresponds to underground premises in which wine in particular is kept. The second refers to premises or facilities in which wine products, such as wine itself, are produced.
+Where, in a situation such as in the main proceedings, a term refers to the place of production of a product, such as wine, or to a facility in which is it produced, it is, in principle, an indication which may serve to designate a property of those goods, easily recognisable by the relevant class of people.
+Since, as a general rule, the relevant class of people will perceive the term ‘adega’ to be a reference to a facility in which wine is produced and stored, and, therefore, as a reference to properties of those goods, just as they do in regard to the geographical origin or the time of production of goods, mentioned by way of example in Article 3(1)(c) of Directive 2008/95.
+Therefore, a term designating such a facility constitutes a characteristic of those goods and falls within the scope of application of that provision. It must therefore be regarded as descriptive of the goods which it designates.
+It follows that, where a sign serving to designate goods associates two word elements, namely a descriptive term and a geographical name, such as ‘Borba’ in this case, relating to the geographical origin of those goods, which is also descriptive of them, the sign composed of those two word elements must be considered to be of a descriptive character and, as such, devoid of any distinctive character.
+The fact, even if proven, that such a geographical name constitutes a protected designation of origin by virtue of Regulation No 1308/is in no way capable of calling such an interpretation into question, since it is evident from Article of this regulation that, in essence, such a designation may not be registered as a commercial trade mark.
+Furthermore, the fact that a term used to designate a place of production of goods, or a facility in which the goods are produced, is part of various word elements of the corporate name of a legal person is irrelevant for the purposes of examining the descriptive character of that term, having regard to the fact that such an examination is carried out by reference to the goods for which registration of the trade mark is sought and by reference to its perception by the relevant public (see, to that effect, judgments of February 2004, Koninklijke KPN Nederland, C‑363/99, EU:C:2004:86, paragraph 75, and of July 2012, Smart Technologies v OHIM, C‑311/P, EU:C:2012:460, paragraph 24).
+It follows from all the foregoing considerations that the answer to the question referred is that Article 3(1)(c) of Directive 2008/must be interpreted as meaning that a trade mark consisting of a word sign, such as that at issue in the main proceedings, designating wine products and including a geographical name, must be refused registration, where that sign contains, in particular, a term which is commonly used to designate facilities or sites in which such products are produced and is also one of the word elements of the business name of the legal person seeking to register that trade mark.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fourth Chamber) hereby rules:
+ 
+Article 3(1)(c) of Directive 2008/95/EC of the European Parliament and of the Council of October to approximate the laws of the Member States relating to trade marks must be interpreted as meaning that the registration of a trade mark consisting of a word sign, such as that at issue in the main proceedings, designating wine products and including a geographical name, must be refused, where that sign contains, in particular, a term which is commonly used to designate facilities or sites in which those products are produced and is also one of the word elements of the business name of the legal entity seeking to register that trade mark.
+ 
+[Signatures]
+(
+*)	Language of the case: Portuguese.
+Top  

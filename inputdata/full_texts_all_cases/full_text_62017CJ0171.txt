@@ -1,0 +1,269 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+November (
+*)
+(Failure of a Member State to fulfil obligations — Directive 2006/123/EC — Articles to — Article TFEU — Freedom of establishment — Article TFEU — Freedom to provide services — National mobile payment system — Monopoly)
+In Case C‑171/17,
+ACTION under Article TFEU for failure to fulfil obligations, brought on April 2017,
+European Commission, represented by V. Bottka and H. Tserepa-Lacombe, acting as Agents,
+applicant,
+v
+Hungary, represented by M.Z. Fehér and G. Koós, acting as Agents,
+defendant,
+THE COURT (Fourth Chamber),
+composed of T. von Danwitz, President of the Seventh Chamber, acting as President of the Fourth Chamber, K. Jürimäe (Rapporteur), C. Lycourgos, E. Juhász, and C. Vajda, Judges,
+Advocate General: Y. Bot,
+Registrar: I. Illéssy, Administrator,
+having regard to the written procedure and further to the hearing on March 2018,
+after hearing the Opinion of the Advocate General at the sitting on June 2018,
+gives the following
+Judgment
+By its application, the European Commission asks the Court to find that, by instituting and maintaining in force the national mobile payment system governed by a nemzeti mobil fizetési rendszerről szóló 2011. évi CC. törvény (Magyar Közlöny 2011/164) (Law CC of on the national mobile payment system; ‘the mobile payment system law’) and by 356/2012. (XII. 13.) Korm. rendelet a nemzeti mobil fizetési rendszerről szóló törvény végrehajtásáról (Governmental Decree No 356/implementing the mobile payment system law; ‘the Governmental Decree’), Hungary has failed to fulfil its obligations under Article 15(2)(d) and Article 16(1) of Directive 2006/123/EC of the European Parliament and of the Council of December on services in the internal market (OJ L 376, p. 36), and, in the alternative, under Articles and TFEU.
+I. Legal context
+A. European Union law
+Recitals 8, 17, and of Directive 2006/state:
+‘(8)
+It is appropriate that the provisions of this directive concerning the freedom of establishment and the free movement of services should apply only to the extent that the activities in question are open to competition, so that they do not oblige Member States either to liberalise services of general economic interest or to privatise public entities which provide such services or to abolish existing monopolies for other activities or certain distribution services.
+…
+(17)
+This Directive covers only services which are performed for an economic consideration. Services of general interest are not covered by the definition in Article [TFEU] and therefore do not fall within the scope of this Directive. Services of general economic interest are services that are performed for an economic consideration and therefore do fall within the scope of this Directive. However, certain services of general economic interest, such as those that may exist in the field of transport, are excluded from the scope of this Directive and certain other services of general economic interest, for example, those that may exist in the area of postal services, are the subject of a derogation from the provision on the freedom to provide services set out in this Directive. …
+…
+(70)
+For the purposes of this directive, and without prejudice to Article [TFEU], services may be considered to be services of general economic interest only if they are provided in application of a special task in the public interest entrusted to the provider by the Member State concerned. This assignment should be made by way of one or more acts, the form of which is determined by the Member State concerned, and should specify the precise nature of the special task.
+…
+(72)
+Services of a general economic interest are entrusted with important tasks relating to social and territorial cohesion. The performance of these tasks should not be obstructed as a result of the evaluation process provided for in this directive. Requirements which are necessary for the fulfilment of such tasks should not be affected by this process while, at the same time, unjustified restrictions on the freedom of establishment should be addressed.’
+Article of the directive provides:
+‘…
+2.   This Directive does not deal with the liberalisation of services of general economic interest, reserved to public or private entities, nor with the privatisation of public entities providing services.
+3.   This Directive does not deal with the abolition of monopolies providing services nor with aids granted by Member States which are covered by [EU] rules on competition.
+This Directive does not affect the freedom of Member States to define, in conformity with [EU] law, what they consider to be services of general economic interest, how those services should be organised and financed, in compliance with State aid rules, and which specific obligations they should be subject to.
+…’
+Article 2(2) of that directive states:
+‘This directive shall not apply to the following activities:
+(a)
+non-economic services of general interest;
+…
+(i)
+activities which are connected with the exercise of official authority as set out in Article [TFEU];
+…’
+Article 4, point 7, of that directive defines ‘requirement’ as ‘any obligation, prohibition, condition or limit provided for in the laws, regulations or administrative provisions of the Member States or in consequence of case-law, administrative practice, the rules of professional bodies, or the collective rules of professional associations or other professional organisations adopted in the exercise of their legal autonomy ...’.
+Article of Directive 2006/123, entitled ‘Requirements to be evaluated’, provides:
+‘1.   Member States shall examine whether, under their legal system, any of the requirements listed in paragraph are imposed and shall ensure that any such requirements are compatible with the conditions laid down in paragraph 3. Member States shall adapt their laws, regulations or administrative provisions so as to make them compatible with those conditions.
+2.   Member States shall examine whether their legal system makes access to a service activity or the exercise of it subject to compliance with any of the following non-discriminatory requirements:
+…
+(d)
+requirements, other than those concerning matters covered by Directive 2005/36/EC [of the European Parliament and of the Council of September on the recognition of professional qualifications (OJ L 255, p. 22)] or provided for in other [EU] instruments, which reserve access to the service activity in question to particular providers by virtue of the specific nature of the activity;
+…
+3.   Member States shall verify that the requirements referred to in paragraph satisfy the following conditions:
+(a)
+non-discrimination: requirements must be neither directly nor indirectly discriminatory according to nationality nor, with regard to companies, according to the location of the registered office;
+(b)
+necessity: requirements must be justified by an overriding reason relating to the public interest;
+(c)
+proportionality: requirements must be suitable for securing the attainment of the objective pursued; they must not go beyond what is necessary to attain that objective and it must not be possible to replace those requirements with other, less restrictive measures which attain the same result.
+4.   Paragraphs 1, and shall apply to legislation in the field of services of general economic interest only in so far as the application of these paragraphs does not obstruct the performance, in law or in fact, of the particular task assigned to them.
+…’
+Article 16(1) of that directive is worded as follows:
+‘Member States shall respect the right of providers to provide services in a Member State other than that in which they are established.
+The Member State in which the service is provided shall ensure free access to and free exercise of a service activity within its territory.
+Member States shall not make access to or exercise of a service activity in their territory subject to compliance with any requirements which do not respect the following principles:
+(a)
+non-discrimination: the requirement may be neither directly nor indirectly discriminatory with regard to nationality or, in the case of legal persons, with regard to the Member State in which they are established;
+(b)
+necessity: the requirement must be justified for reasons of public policy, public security, public health or the protection of the environment;
+(c)
+proportionality: the requirement must be suitable for attaining the objective pursued, and must not go beyond what is necessary to attain that objective.’
+Article 17, point 1, of that directive provides that Article of the directive does not apply to services of general economic interest (‘SGEIs’), which are provided in another Member State, inter alia in the sectors set out in Article 17, point 1.
+B. Hungarian law
+1.
+ 
+The mobile payment system law
+The mobile payment system law changed the legal framework for mobile payment services with effect from April 2013, although it only became binding as from July 2014.
+Article 1(d) of that law provides:
+‘For the purposes of this law:
+…
+(d)
+mobile payment system shall mean any system in which a customer buys a service using an electronic marketing [(“e-commerce”)] system accessible wirelessly, using telecommunications equipment, digital equipment or other computing equipment.’
+Article of that law provides:
+‘The following shall be deemed to be a centralised mobile commerce service:
+(a)
+the public parking service (car parks) in accordance with a közúti közlekedésről szóló 1988. évi I. törvény (Law No I of on road traffic; “the Road Traffic Law”);
+(b)
+access to the road network for transport purposes for payment of a user charge or toll;
+(c)
+the passenger transport service supplied as a public service by a service provider in which the State or a local authority has a majority holding;
+…
+(d)
+any service not falling within the categories listed in points (a) to (c) above, provided as a public service by a body in which the State or a local authority has a majority holding.’
+Article of that law provides:
+‘(1)   The service provider is required to employ a mobile payment system to supply a service subject to centralised mobile commerce — with the exception of the service referred to in Article 2(d).
+(2)   The service provider shall fulfil its obligation under paragraph where it is:
+(a)
+wholly owned by the State, or
+(b)
+wholly owned by a body which is itself wholly owned by the State, using the uniform national system (“national mobile payment system”) operated by the government-appointed body (“national mobile payment body”).
+(3)   If the service provider offers the service referred to in Article 2(d) via a mobile payment system, it may offer that service using only the national mobile payment system.
+(4)   Operation of the national mobile payment system is a public service in respect of which the Minister for Information Technology and the national mobile payment body shall enter into a public service agreement.
+(5)   The operation of the national mobile payment system is an economic activity exclusive to the State, which the national mobile payment body shall carry out without a concession contract being concluded.
+…’
+2.
+ 
+The Governmental Decree
+The Governmental Decree, which entered into force on April 2013, contains the provisions implementing the mobile payment system law.
+Article of that decree provides:
+‘(1)   Unless otherwise specified, the fee to be paid by the client as a fee for the mobile payment product corresponds to the charge that the client would pay if he had purchased the service without using the national mobile payment system. The service provider may encourage the acquisition of the service as a mobile payment product by means of discounts.
+(2)   In addition to the fee for the mobile payment product in accordance with paragraph 1, the client shall pay the national mobile payment body a convenience fee in the amount indicated below, for the specified services:
+(a)
+[Hungarian] forints [(HUF)] per transaction in respect of the marketing of the public service for parking (car park),
+(b)
+[HUF] per transaction in respect of the marketing of tolls referred to in Article 33/A of the Road Traffic Law,
+…
+(3)   The national mobile payment body shall invoice the client for the convenience fee — if the purchase of the centralised mobile commerce service is completed — together with the fee for the centralised mobile commerce service.
+…’
+Article 24/A(1) of that decree provides:
+‘In addition to the fee for the mobile payment product in accordance with Article 8(1), the trader shall pay the national mobile payment body a convenience fee in the amount indicated below, for the specified services:
+(a)
+[HUF] per transaction in respect of the marketing of the public parking service (car park),
+(b)
+[HUF] per transaction in respect of the marketing of tolls in accordance with Article 33/A of the Road Traffic Law,
+(c)
+[HUF] per transaction in respect of the marketing of tolls according to the Law on tolls,
+(d)
+[HUF] per transaction in respect of the marketing of a public transport ticket,
+(e)
+[HUF] per transaction in respect of the services referred to in Article 2(d) of the mobile payment system law.’
+Article of that decree concerns the resale fee. Article 31(1) is worded as follows:
+‘The resale fee shall be calculated on the basis of the amount excluding [value added tax] of the fee payable by the client in accordance with Article 8(1) and shall be set at:
+(a)
+10% in respect of the marketing of the public parking service (car park),
+(b)
+5% in respect of the marketing of tolls in accordance with Article 33/A of the Road Traffic Law,
+(c)
+5% in respect of the marketing of a transport ticket,
+(d)
+5% in respect of the marketing of tolls according to the Law on tolls.’
+II. Pre-litigation procedure and the proceedings before the Court
+On December 2012, the Commission, finding that the application of the mobile payment system law and the Governmental Decree would lead to the operation by a single, State-controlled undertaking of a national mobile payment system the use of which is mandatory, opened EU Pilot procedure No 4372/12/MARK, in the context of which the Commission sent Hungary a request for information. The Hungarian authorities replied to that request on February 2013.
+The Commission, having found that reply to be inadequate and taking the view that, by the adoption of Article 3(2) to (5) of the mobile payment system law, Hungary had failed to fulfil its obligations under Articles and of Directive 2006/and Articles and TFEU, sent a letter of formal notice, on November 2013, to that Member State.
+By a letter of January 2014, Hungary responded to that letter of formal notice. It argued, first, that the Member States have a broad discretion in defining SGEIs, which the Commission may call into question only in the event of manifest error. The national mobile payment system in question is an SGEI, since it has certain specific characteristics as compared with ordinary economic activities, it is accessible to all and market forces alone could not provide the service in a satisfactory manner. Secondly, through a standardisation enabling uniform implementation, individualisation and interoperability, Hungary satisfies the requirements of mobile payment systems, which were defined by the Commission in particular in its Green Paper entitled ‘Towards an integrated European market for card, internet and mobile payments’ (COM(2011) final). Thirdly, it is in the public interest and not for economic reasons that that Member State has removed the services offered by the platform in question from the effects of competition. Mobile payment of parking spaces is thus the only payment method which enables calculation of the fee for the actual duration of parking. Fourthly, the private providers who previously offered that service have not suffered any loss that that Member State would be bound to make good, since they could continue, as resellers, to operate, in the same manner, the platform and the infrastructure which they had put in place. Fifthly, it is only through a central, national platform, based on an exclusive right, that it would be possible to offer customers a uniform and guaranteed service. Sixthly, Hungary argues that the national mobile payment system at issue operates as a monopoly providing services. Under Article 1(3) of Directive 2006/123, such a monopoly falls outside the scope of that directive.
+On July 2014, the Commission issued a reasoned opinion in which it maintained the position which it had set out in its letter of formal notice. Hungary replied to that reasoned opinion by letter of September 2014, in essence reiterating the observations it had made in its letter of January 2014.
+Since the Commission found the response provided by the Hungarian authorities to be unsatisfactory, it decided to bring the present proceedings.
+III. The action
+A. Preliminary observations
+As a preliminary point, it is appropriate to note that, since July 2014, Nemzeti Mobilfizetési Zrt., which is wholly owned by Magyar Fejlesztési Bank, and through it, the Hungarian State, operates the national mobile payment system at issue, the use of which is mandatory in various areas of application, namely public parking, provision of the road network for traffic use, transport of persons by a State undertaking and other services offered by a State body.
+The Commission explains that the mobile payment system law created a national monopoly of mobile payment services, since the Nemzeti Mobilfizetési Zrt.enjoys an exclusive right to conclude contracts with car park operators and to charge tolls for use of the road network. This creates an obstacle to entry to the wholesale market in mobile payments, which was previously open to competition.
+In its action the Commission claims, primarily, that, because of their restrictive nature, the mobile payment system law and the Governmental Decree instituting a national mobile payment system infringe Article 15(2)(d) and Article 16(1) of Directive 2006/123. In the alternative, it submits that that legislation constitutes an infringement of Articles and TFEU.
+B. The applicable provisions
+1.
+ 
+Arguments of the parties
+With regard to the applicability of Directive 2006/123, the Commission rejects the position adopted by Hungary during the pre-litigation procedure that the national mobile payment system in question has become an SGEI that does not fall within the scope of that directive, under Article 1(2) and (3) thereof.
+First, Article 1(2) and (3) of Directive 2006/123, read in conjunction with recital thereof, excludes from that directive only SGEIs and existing monopolies. However, the mobile payment system law granted an exclusive right to Nemzeti Mobilfizetési Zrt. after the entry into force of that directive.
+Secondly, the Commission does not share the opinion of Hungary that the service in question can be classified as an SGEI. Nevertheless, even assuming that that service could be classified as such, Directive 2006/applies, as confirmed by the fact that it provides for a number of safeguards and exceptions for SGEIs which do fall within its scope. Thus, in the opinion of the Commission, Article of that directive does not apply to SGEIs supplied in another Member State, by virtue of Article 17, point 1, thereof. In consequence, if it were established that a service, such as that at issue, is an SGEI, Article 15(2)(d) of Directive 2006/would remain applicable to it, as would Articles and TFEU.
+Thirdly, the Commission argues that Directive 2006/excludes from its scope, by virtue of Article 2(2)(a) and (i), ‘non-economic services of general interest’ and ‘activities which are connected with the exercise of official authority’. However, Hungary has not denied that the service in question constitutes an economic activity and has not been of the view either that this service is connected with the exercise of official authority.
+Fourthly, the Commission submits, by reference to the case-law of the Court, that, even if the service concerned effectively must, for whatever reason, be excluded from the scope of Directive 2006/123, the rules in question should nevertheless comply with Articles and TFEU.
+Hungary argues that neither Directive 2006/nor Articles and TFEU are applicable in the present case.
+First, the operation of the national mobile payment system in question constitutes an SGEI. Hungary states, in that regard, that, under Article 106(2) TFEU, Article of Protocol (No 26) on services of general interest, and Article 1(3) of Directive 2006/123, definition of activities that are considered to be SGEIs falls within the competence of the Member States. Hungary recalls, moreover, referring to certain Commission communications in the area of State aid, that the existence of an SGEI requires the presence of three conditions, namely that the service has specific characteristics as compared to other economic activities that could be regarded as constituting an SGEI, the service is accessible to all and that market forces alone do not lead to a satisfactory provision of the service.
+First of all, the Commission does not deny that the second of those conditions is satisfied.
+Next, with regard to the first condition, Hungary states that the mobile payment service in question is connected with the use of public services, the State being responsible for ensuring that users have access to those services in a uniform, convenient, immediate and affordable manner, regardless of the place of use. It is for reasons in the public interest and not on the basis of economic considerations that Hungary created a national mobile payment system.
+Hungary also argues that the mobile payment of parking fees cannot be regarded as a service of ‘convenience’, as the Commission claims. On the contrary, it constitutes the only solution which takes into account the interests of users, in so far as that payment method allows the fee corresponding to the actual period of parking to be calculated. In any event, it is clear from the judgment of February 2008, BUPA and Others v Commission (T‑289/03, EU:T:2008:29, paragraph 188), that ‘luxury’ services can be defined as SGEIs.
+Finally, as regards the third of those conditions, Hungary claims that the previous system did not allow the market to function in a satisfactory manner for consumers and for resellers, whether in terms of market conditions or geographical coverage. Thus, it states, in particular, that, prior to the establishment of the national mobile payment system at issue, car park operators did not offer mobile payment, so that the Commission’s claim that the largest market operator, EME Zrt., was present during in 90% of the public car parks is incorrect.
+The national mobile payment system is intended to remedy the deficiencies in the market’s previous way of operating. Its objective is, on the one hand, to implement coverage of the entire national territory and, on the other, management of the technical platform by the Hungarian State as effectively as possible in terms of cost and in as uniform a manner as possible. The proper functioning of a uniform and interoperable system requires the creation of a single platform, which is possible only on a centralised basis, since operators cannot establish such a platform and have no interest in doing so.
+Secondly, as regards the applicability of Directive 2006/to an SGEI, Hungary notes that that directive merely provides that it does not require Member States to liberalise SGEIs. It does not provide that it does not require Member States to liberalise ‘existing’ SGEIs. The argument on which the Commission relies in that regard would render the right of Member States to create SGEIs nugatory.
+Hungary therefore maintains its position that, in accordance with Article 1(2) of that directive, the services at issue in the present case do not fall within its scope. Another reason why the directive is not applicable flows from the fact that, by virtue of Article 1(3) thereof, it does not address the abolition of service monopolies.
+In any event, even if Directive 2006/were applicable, since the national mobile payment system at issue is, in the view of Hungary, an SGEI, it is appropriate, in accordance with Article 15(4) of that directive, not to take account of Article 15(2)(d) of that directive, referred to by the Commission, because its application would obstruct the achievement of the task given to that national system.
+2.
+ 
+Findings of the Court
+In so far as the Commission’s action is based, principally, on infringement of the provisions of Directive 2006/concerning the freedom of establishment and the freedom to provide services, it is appropriate, first of all, to respond to Hungary's argument that that directive is not applicable in the present case, under Article 1(2) and (3) of that directive, in order to assess, next, whether Articles and are applicable to the mobile payment service at issue.
+(a)
+ 
+Applicability of Directive 2006/Under Article 1(2) of Directive 2006/123, that directive does not deal with the liberalisation of SGEIs, reserved to public or private entities, nor with the privatisation of public entities providing services. Further, it is clear from Article 1(3) of the directive that it does not deal with the abolition of monopolies providing services nor with aids granted by Member States which are covered by EU rules on competition.
+In that regard, recital of Directive 2006/states that the provisions of that directive should apply only to the extent that the activities in question are open to competition, so that they do not oblige Member States either to liberalise SGEIs or to privatise public entities which provide such services or to abolish existing monopolies for other activities or certain distribution services.
+It follows that, as the Commission argues, Article 1(2) and (3) of Directive 2006/seeks to exclude from the scope of that directive only SGEIs, reserved to public or private entities, or monopolies which, unlike those introduced by the mobile payment system law and the Governmental Decree, existed at the date on which the directive entered into force.
+In addition, while it is true that Article 2(2)(a) and (i) of the directive excludes from its scope non-economic services of general interest and activities which are connected with the exercise of official authority, it is common ground that the service at issue does not fall within either of those categories.
+Consequently, Hungary’s arguments, alleging that the mobile payment system law and the Governmental Decree, fall outside, under Article 1(2) and (3) of Directive 2006/123, the scope of that directive, must be rejected.
+(b)
+ 
+The applicability of Articles and of Directive 2006/Since the Commission asks the Court to declare that the national mobile payment system governed by the mobile payment system law and by the Governmental Decree runs counter to Article 15(2)(d) and Article 16(1) of Directive 2006/123, it is necessary to determine whether, as Hungary argues, the mobile payment service at issue can be classified as an SGEI.
+Indeed, as the Advocate General observed in point of his Opinion, Directive 2006/contains specific provisions regarding the application of its provisions to SGEIs, namely Article 15(4) and Article thereof.
+Under Article of Protocol No on services of general interest, the Member States enjoy a wide discretion in providing, commissioning and organising SGEIs tailored as closely as possible to the needs of the users.
+The Member States are thus entitled, while complying with EU law, to define the scope and the organisation of their SGEIs, taking particular account of objectives pertaining to their national policy. In that regard, Member States enjoy a wide discretion which can be called into question by the Commission only in the event of manifest error (judgment of December 2017, Comunidad Autónoma del País Vasco and Others v Commission, C‑66/P to C‑69/P, EU:C:2017:999, paragraphs and 70).
+In particular, in the context of Directive 2006/123, that discretion has been reaffirmed by the EU legislature, in the second subparagraph of Article 1(3) of that directive, which states that the directive does not affect the freedom of Member States to define, in conformity with EU law, what they consider to be SGEIs, how those services should be organised and financed in compliance with the State aid rules, and to what specific obligations they should be subject.
+In accordance with the case-law of the Court, a service may be of general economic interest where that interest has specific characteristics in comparison to the general economic interest of other economic activities (see, to that effect, judgments of December 1991, Merci convenzionali porto di Genova, C‑179/90, EU:C:1991:464, paragraph 27; of June 1998, Corsica Ferries France, C‑266/96, EU:C:1998:306, paragraph 45; of May 2000, Sydhavnens Sten & Grus, C‑209/98, EU:C:2000:279, paragraph 75; and of March 2011, AG2R Prévoyance, C‑437/09, EU:C:2011:112, paragraphs and 72).
+In addition, recital of Directive 2006/states that, in order to be classified as an SGEI, a service needs to be provided in application of a special task of public interest entrusted to the provider by the Member State concerned.
+In that regard, the Commission submits that Hungary has made a manifest error of assessment in classifying the mobile payment service in question as an SGEI. However, it must be stated that the evidence on which the Commission bases its contention does not suffice to deprive that classification of its plausibility.
+It must be noted that the Commission argues, in essence, that, before the establishment of a national monopoly of mobile payment services, those services were already offered by operators active on the market. It is of the opinion that that market functioned satisfactorily, while recognising the existence of some issues, relating in particular to the lack of a standardised uniform platform and of interoperability.
+However, the mere fact that a service classified as an SGEI by a Member State is already provided by operators on the market concerned is not sufficient to show that that classification is vitiated by a manifest error of assessment.
+Indeed, as the Commission itself points out, referring to paragraph of the Communication from the Commission on the application of the European Union rules on State aid for compensation for the provision of services of general economic interest (OJ C 8, p. 4), the fact that a service is already provided on the market, but on unsatisfactory conditions not consistent with the public interest, as it is defined by the Member State concerned, is capable of justifying the classification of that service as an SGEI.
+This is the case in particular when a Member State takes the view, on the basis of the discretion which it has, that the market does not allow the objectives of continuity and access to the service that it has defined to be met.
+In the present case, Hungary argues that the national mobile payment system in question, which it classifies as an SGEI, aims to compensate for the failure of the market to ensure coverage of that service over the entire national territory, on uniform conditions for all users of that service. By covering the entire national territory, the mobile payment service is likely to be accessible to the entire Hungarian population irrespective of whether the region served provides any profit. In addition, that system seeks to ensure mobile payment for services of general economic interest such as public parking and public transport of persons and thus contributes to the meeting of a general economic interest.
+In that regard, it must be held that the Commission merely asserts that, contrary to Hungary’s submissions, that market functioned satisfactorily and that it would probably have grown, without, however, providing evidence to support those claims.
+In those circumstances, the Commission has not adduced any evidence to show that that Member State had made a manifest error of assessment in classifying that mobile payment service as an SGEI.
+Accordingly, for the purposes of the application, in this case, of the provisions of Directive 2006/123, it must be held that, first, as regards the freedom of establishment, the conformity of the relevant Hungarian legislation to Directive 2006/must be assessed in the light of Article 15(4) of that directive.
+In that regard, it must be stated, however, that, contrary to Hungary’s submissions, that provision does not automatically exclude SGEIs from the scope of Article of Directive 2006/123. Article 15(4) of that directive provides that paragraphs 1, and of that article are to apply to legislation in the field of SGEIs only to the extent that their application does not obstruct the performance, in law and in fact, of the particular task assigned to them.
+With regard, secondly, to the freedom to provide services, it is appropriate to note that, in accordance with Article 17, point 1, of Directive 2006/123, Article of that directive does not apply to services of general economic interest which are provided in another Member State. It is therefore necessary to consider, as the Commission submits in the alternative, the Hungarian legislation at issue in the light of Article TFEU.
+3.
+ 
+The complaints raised
+(a)
+ 
+Arguments of the parties
+The Commission is of the opinion that the introduction and the maintenance in force of the national mobile payment system at issue, under the mobile payment system law and the Governmental Decree infringe Article 15(2)(d) of Directive 2006/and Article TFEU.
+First, as regards the restrictive effect of the mobile payment system law and the Governmental Decree, the Commission is of the view that the operation of the national mobile payment system has become a State monopoly, making it impossible for other providers of mobile payments and mobile telephony to exercise their activity on the market concerned. The introduction of this system thus impedes access to the wholesale mobile payment market, irrespective of the methods of provision of service.
+Second, the Commission accepts that some of the factors put forward by Hungary during the pre-litigation procedure to justify the introduction of that national mobile payment system, in particular the protection of consumers and recipients of services, the fairness of commercial transactions and the fight against fraud, can be regarded as overriding reasons in the public interest. However, the Commission regards those reasons as incapable of justifying the restrictions brought about by the mobile payment system law, as they do not meet the requirements of necessity and proportionality.
+Third, with regard to necessity and proportionality, the Commission submits that the intervention of the Hungarian State was not necessary. Indeed, it has in no way been proven that the market, both in respect of public parking and the provision of the road network for traffic, previously functioned in an unsatisfactory manner. Although the Commission does not deny that standardisation has certain advantages for the expansion of mobile payment services, it nevertheless takes the view that the creation of a State monopoly was not the only or best way of achieving that objective.
+In addition, the Commission regards the Hungarian State’s intervention as disproportionate. Other less restrictive measures could have solved the problems in the functioning of the market reported by the Hungarian authorities. In particular, standardisation and interoperability could have been achieved through legislation while preserving the existing market structure. Similarly, a new State-owned body could have been created, one without exclusive rights. It would also have been possible to put in place a system of concessions for the operation of the platform of the national mobile payment system at issue or to create a monopoly only for a limited period.
+Hungary argues that, pursuant to Article 106(2) TFEU, Articles and TFEU are not applicable. Furthermore, the mobile payment system at issue is a State monopoly which it is appropriate to examine on the basis of Article TFEU, not on the basis of other provisions of the FEU Treaty. In the event that the Court should nonetheless consider that Articles and TFEU are applicable, Hungary contends that those provisions were not infringed.
+First, the rules on the national mobile payment system are not discriminatory, since the mobile payment system law and the Governmental Decree contain uniform rules for all providers in comparable situations. Hungary states, in that regard, that it is possible to allege discrimination only if the undertakings are subject to different regulations depending on their places of origin or establishment or their domestic or foreign origin.
+Secondly, the grounds advanced by Hungary as the objective and justification of the national mobile payment system at issue, in particular consumer protection and the fairness of commercial transactions or combating fraud, have been recognised in the Court’s case-law as overriding reasons in the public interest.
+Thirdly, the establishment and maintenance of that national mobile payment system were necessary and are consistent with the principle of proportionality.
+First of all, Hungary argues that, before July 2014, the relevant market was not working satisfactorily. It did not cover the whole of the national territory and there was no interoperability or operating platform. The market was thus made up of fragmented and closed systems.
+Next, according to Hungary, the establishment of that national mobile payment system is such as to stimulate competition and enable the provision of a satisfactory service.
+Finally, Hungary refutes the Commission’s argument that the earlier fragmented systems could integrate through the series of obligations imposed by legislation, cooperation and competition on the market, pointing out that that claim is not supported by any example at an international level. In any event, that Member State points out that since the service concerned is the responsibility of local authorities, it would have been necessary to use public procurement procedures. That would have meant, on the one hand, that the mobile payment system for parking would be established only in locations where the supplier could expect to obtain significant revenue, so that complete national coverage could not be guaranteed, and, on the other, that different suppliers would have been awarded the contracts by the various local authorities, which would have led to a total lack of interoperability.
+(b)
+ 
+Findings of the Court
+(1) The complaint alleging infringement of Article 15(2)(d) of Directive 2006/It must be borne in mind that each Member State is obliged, by virtue of the first sentence of Article 15(1) of Directive 2006/123, to examine whether, under their legal system, one or more of the requirements listed in Article 15(2) of that directive are imposed and, if so, to ensure that such requirements are compatible with the conditions of non-discrimination, necessity and proportionality laid down in Article 15(3) of that directive. In accordance with the second sentence of Article 15(1) of that directive, the Member States must adapt their laws, regulations or administrative provisions so as to make them compatible with those conditions (judgment of January 2018, X and Visser, C‑360/and C‑31/16, EU:C:2018:44, paragraph 129).
+In the first place, the concept of ‘requirement’ in Article 15(2) of Directive 2006/must be understood, in accordance with Article 4, point 7, of that directive, as referring, in particular, to ‘any obligation, prohibition, condition or limit provided for in the laws, regulations or administrative provisions of the Member States’ (see, to that effect, judgment of January 2018, X and Visser, C‑360/and C‑31/16, EU:C:2018:44, paragraph 119).
+The requirements that are thus to be assessed include, as follows from Article 15(2)(d) of Directive 2006/123, those which reserve access to the service activity in question to particular providers by virtue of the specific nature of the activity concerned and which relate neither to matters covered by Directive 2005/or to those laid down in other EU instruments.
+In the present case, it must be held that, as the Commission submits, the national mobile payment system governed by the mobile payment system law and the Governmental Decree constitutes a requirement, within the meaning of Article 15(2)(d) of Directive 2006/123. It is common ground that that system restricts access to the activity of providing mobile payment services to Nemzeti Mobilfizetési Zrt., by establishing a monopoly in favour of that public undertaking, without that monopoly constituting a requirement as regards the matters covered by Directive 2005/or a requirement laid down in other EU instruments.
+In the second place, the cumulative conditions listed in Article 15(3) of Directive 2006/relate, first, to the non-discriminatory nature of the requirements concerned, which cannot be directly or indirectly discriminatory on the basis of nationality or, with regard to companies, of the location of their registered office; secondly, to their necessity, that is to say they must be justified by an overriding reason in the public interest, and, thirdly, to their proportionality, it being necessary that those requirements are suitable for ensuring the achievement of the objective pursued, do not go beyond what is necessary to achieve that objective and that other less restrictive measures do not enable the same result to be achieved.
+In that regard, it must be noted that, in the present case, the requirement introduced by the mobile payment system law and the Governmental Decree is not such as to satisfy the condition relating to absence of less restrictive measures to attain the objective pursued.
+It is appropriate to note that Hungary has accepted that there are less restrictive measures which do not restrict the freedom of establishment to the same extent as those flowing from the mobile payment system law and the Governmental Decree and which enable the objectives relied on by the Hungarian Government to be achieved, such as, for example, a system of concessions based on a competitive process instead of the monopoly granted to Nemzeti Mobilfizetési Zrt.
+Since the requirements set out in Article 15(3) of Directive 2006/are cumulative, that finding is sufficient to establish non-compliance with that provision (see, to that effect, judgment of February 2016, Commission v Hungary, C‑179/14, EU:C:2016:108, paragraphs and 90).
+In the third place, it must be noted that, by virtue of Article 15(4) of Directive 2006/123, paragraphs 1, and of that article is to apply to legislation in the field of SGEIs only in so far as the application of those paragraphs does not obstruct the performance, in law or in fact, of the particular task assigned to them.
+In that context, it is therefore necessary to interpret Article thereof as meaning that that provision does not preclude national legislation imposing a requirement, within the meaning of Article 15(2)(d), provided that the requirement is necessary to the performance, in a cost-effective manner, of the particular public service task in question (see, to that effect, judgments of March 2011, AG2R Prévoyance, C‑437/09, EU:C:2011:112, paragraph 76, and of March 2017, Viasat Broadcasting UK v Commission, C‑660/P, EU:C:2017:178, paragraph 29).
+In that regard, although the Hungarian Government relies on the fact that the national mobile payment service governed by the mobile payment system law and the Governmental Decree constitutes an SGEI, that government has not stated the reasons for its view that the performance of the particular task with which the service is entrusted required the creation of a monopoly by granting exclusive rights to Nemzeti Mobilfizetési Zrt., even though it has acknowledged that there were less restrictive measures than the creation of that monopoly, able to allow the performance of that task, thus making even a limited review by the Court impossible.
+Having regard to the foregoing, the complaint alleging infringement of Article 15(2)(d) of Directive 2006/must be upheld. It is not necessary, therefore, to examine the complaint alleging infringement of Article TFEU.
+(2) The complaint alleging infringement of Article TFEU
+First, it is settled case-law that national legislation, such as the mobile payment system law and the Governmental Decree, under which exclusive rights to carry on an economic activity are conferred on a single, private or public, operator, constitutes a restriction of the freedom to provide services (see, to that effect, judgment of February 2016, Commission v Hungary, C‑179/14, EU:C:2016:108, paragraph and the case-law cited).
+That restriction cannot be justified unless it serves overriding reasons relating to the public interest, is suitable for securing the attainment of the public interest objective which it pursues and does not go beyond what is necessary in order to attain it (see, to that effect, judgment of February 2016, Commission v Hungary, C‑179/14, EU:C:2016:108, paragraph and the case-law cited).
+In that regard, without it being necessary to rule on the grounds put forward by the Hungarian Government to justify the restriction on the freedom to provide services resulting from the grant of a monopoly to Nemzeti Mobilfizetési Zrt., it must be held that, for the reasons set out in paragraph of this judgment, the measure concerned appears, in any event, disproportionate, since it is common ground that there were less restrictive measures, which restricted the freedom to provide services to a lesser extent than those flowing from the mobile payment system law and the Governmental Decree, enabling the objectives pursued to be achieved.
+With regard to Hungary’s argument that, by virtue of Article 106(2) TFEU, the introduction of the mobile payment system at issue lies outside the scope of Article TFEU on the ground that that system constitutes an SGEI, it must be recalled that, under Article 106(2) TFEU, undertakings entrusted with managing SGEIs are to be subject to the rules contained in the Treaties, in particular to the rules on competition, in so far as the application of such rules does not obstruct the performance, in law or in fact, of the particular tasks assigned to them.
+In that regard, in accordance with the case-law of the Court, it is for the Member State which relies on Article 106(2) TFEU to show that all the conditions for application of that provision are fulfilled (judgment of April 2010, Commission v Germany, C‑160/08, EU:C:2010:230, paragraph and the case-law cited).
+However, as has been noted in paragraph of this judgment, the Hungarian Government has not stated the reasons for its view that the performance of the particular task with which the service concerned is entrusted required the creation of a monopoly by granting exclusive rights to Nemzeti Mobilfizetési Zrt., even though it has acknowledged that there were less restrictive measures than the creation of that monopoly able to ensure the achievement of that task.
+It follows therefrom that Hungary’s line of argument based on Article 106(2) TFEU must be rejected.
+Finally, with regard to Hungary’s argument that Article TFEU is applicable to the present case, it is sufficient to recall that that provision concerns trade in goods and thus cannot concern a monopoly to provide services which does not affect the trade in goods between the Member States (see, to that effect, judgments of April 1974, Sacchi, 155/73, EU:C:1974:40, paragraph 10, and of May 1988, Bodson, 30/87, EU:C:1988:225, paragraph 10).
+It follows from the foregoing considerations that the complaint alleging an infringement of Article TFEU must be upheld.
+In the light of all the foregoing considerations, it must be found that, by instituting and maintaining in force the national mobile payment system governed by the mobile payment system law and by the Governmental Decree, Hungary has failed to fulfil its obligations under Article 15(2)(d) of Directive 2006/and Article TFEU.
+The action must be dismissed as to the remainder.
+IV. Costs
+Under Article 138(3) of the Rules of Procedure of the Court, where each party succeeds on some and fails on other heads, the parties are to bear their own costs. Since the Commission and Hungary have each succeeded on some and failed on other heads, they must be ordered to bear their own costs.
+ 
+On those grounds, the Court (Fourth Chamber) hereby:
+ 
+1.
+Declares that, by instituting and maintaining in force the national mobile payment system governed by a nemzeti mobil fizetési rendszerről szóló 2011. évi CC. törvény (Law CC of on the national mobile payment system) and by 356/2012. (XII. 13.) Korm. rendelet a nemzeti mobil fizetési rendszerről szóló törvény végrehajtásáról (Governmental Decree No 356/implementing the mobile payment system law), Hungary has failed to fulfil its obligations under Article 15(2)(d) of Directive 2006/123/EC of the European Parliament and of the Council of December on services in the internal market and Article TFEU;
+ 
+2.
+Dismisses the action as to the remainder;
+ 
+3.
+Orders the European Commission and Hungary to bear their own costs.
+ 
+[Signatures]
+(
+*)	Language of the case: Hungarian.
+Top  

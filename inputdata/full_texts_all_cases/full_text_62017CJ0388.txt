@@ -1,0 +1,180 @@
+
+JUDGMENT OF THE COURT (Ninth Chamber)
+February (
+*)
+(Reference for a preliminary ruling — Public procurement procedures in the transport sector — Directive 2004/17/EC — Scope — Article — Activities relating to the provision or operation of networks to provide a service to the public in the field of transport by railways — Award, by a public national railway undertaking providing transport services, of cleaning service contracts for trains belonging to that undertaking — No prior publication)
+In Case C‑388/17,
+REQUEST for a preliminary ruling under Article TFEU from the Högsta förvaltningsdomstolen (Supreme Administrative Court, Sweden), made by decision of June 2017, received at the Court on June 2017, in the proceedings
+Konkurrensverket
+v
+SJ AB,
+THE COURT (Ninth Chamber),
+composed of C. Lycourgos (Rapporteur), President of the Tenth Chamber, acting as President of the Ninth Chamber, E. Juhász and C. Vajda, Judges,
+Advocate General: M. Campos Sánchez-Bordona,
+Registrar: V. Giacobbo-Peyronnel, Administrator,
+having regard to the written procedure and further to the hearing on June 2018,
+after considering the observations submitted on behalf of:
+–
+the Konkurrensverket, by N. Otte Widgren, P. Karlsson and K. Sällfors, acting as Agents,
+–
+for SJ AB, by A. Ulfsdotter Forsell, advokat and M. Bogg, lawyer,
+–
+the European Commission, by E. Ljung Rasmussen, G. Tolstoy, P. Ondrůšek and K. Simonsson, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 5(1) of Directive 2004/17/EC of the European Parliament and of the Council of March coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors (OJ L 134, p. 1).
+The request has been made in proceedings between the Konkurrensverket (Competition Authority, Sweden) and SJ AB concerning the alleged disregard by that company of the rules on public procurement procedures when awarding contracts for cleaning services.
+Legal context
+European Union law
+Directive 2004/Article of Directive 2004/17, entitled, ‘Contracting entities’, provides in paragraph 2:
+‘This directive shall apply to contracting entities:
+(a)
+which are contracting authorities or public undertakings and which pursue one of the activities referred to in Articles to 7;
+(b)
+which, when they are not contracting authorities or public undertakings, have as one of their activities any of the activities referred to in Articles to 7, or any combination thereof and operate on the basis of special or exclusive rights granted by a competent authority of a Member State.’
+Article of Directive 2004/17, entitled ‘Transport services’, provides:
+‘1.   This directive shall apply to activities relating to the provision or operation of networks providing a service to the public in the field of transport by railway, automated systems, tramway, trolley bus, bus or cable.
+As regards transport services, a network shall be considered to exist where the service is provided under operating conditions laid down by a competent authority of a Member State, such as conditions on the routes to be served, the capacity to be made available or the frequency of the service.
+2.   This directive shall not apply to entities providing bus transport services to the public which were excluded from the scope of Directive 93/38/EEC [of the Council of June coordinating the procurement procedures of entities operating in the water, energy, transport and telecommunications sectors (OJ L 199, p. 84)] pursuant to Article 2(4) thereof.’
+Directive 2012/34/EU
+Directive 2012/34/EU of the European Parliament and of the Council of November establishing a single European railway area (OJ L 343, p. 32), brings together in one instrument several directives on rail transport which were recast. Those directives include Directive 2001/14/EC of the European Parliament and of the Council of February on the allocation of railway infrastructure capacity and the levying of charges for the use of railway infrastructure (OJ L 75, p. 29), as amended by Directive 2007/58/EC of the European Parliament and of the Council of October (OJ L 315, p. 44). Directive 2012/entered into force on December in accordance with Article of that directive.
+Article of that directive, headed ‘Definitions’, provides:
+‘For the purposes of this directive, the following definitions apply:
+(1)
+“railway undertaking” means any public or private undertaking licensed according to this directive, the principal business of which is to provide services for the transport of goods and/or passengers by rail with a requirement that the undertaking ensure traction; this also includes undertakings which provide traction only;
+(2)
+“infrastructure manager” means any body or firm responsible in particular for establishing, managing and maintaining railway infrastructure, including traffic management and control-command and signalling; the functions of the infrastructure manager on a network or part of a network may be allocated to different bodies or firms;
+…
+(18)
+“allocation” means the allocation of railway infrastructure capacity by an infrastructure manager;
+…
+(20)
+“congested infrastructure” means an element of infrastructure for which demand for infrastructure capacity cannot be fully satisfied during certain periods even after coordination of the different requests for capacity;
+…
+(22)
+“coordination” means the process through which the infrastructure manager and applicants will attempt to resolve situations in which there are conflicting applications for infrastructure capacity;
+…
+(25)
+“network” means the entire railway infrastructure managed by an infrastructure manager;
+(26)
+“network statement” means the statement which sets out in detail the general rules, deadlines, procedures and criteria for charging and capacity-allocation schemes, including such other information as is required to enable applications for infrastructure capacity;
+(27)
+“train path” means the infrastructure capacity needed to run a train between two places over a given period;
+…’
+Under Article of Directive 2012/34, entitled ‘Network statement’, which reproduces, in essence, the provisions of Article of Directive 2001/14, as amended by Directive 2007/58:
+‘1.   The infrastructure manager shall, after consultation with the interested parties, develop and publish a network statement which shall be obtainable against payment of a fee which shall not exceed the cost of publication of that statement. The network statement shall be published in at least two official languages of the Union. The content of the network statement shall be made available free of charge in electronic format on the web portal of the infrastructure manager and accessible through a common web portal. That web portal shall be set up by the infrastructure managers in the framework of their cooperation in accordance with Articles and 40.
+2.   The network statement shall set out the nature of the infrastructure which is available to railway undertakings, and contain information setting out the conditions for access to the relevant railway infrastructure. The network statement shall also contain information setting out the conditions for access to service facilities connected to the network of the infrastructure manager and for supply of services in these facilities or indicate a website where such information is made available free of charge in electronic format. The content of the network statement is laid down in Annex IV.
+3.   The network statement shall be kept up to date and amended as necessary.
+4.   The network statement shall be published no less than four months in advance of the deadline for requests for infrastructure capacity.’
+Article of Directive 2012/34, entitled ‘Applications’, provides in paragraphs and thereof:
+‘1.   Applicants may apply under public or private law to the infrastructure manager to request an agreement granting rights to use railway infrastructure against a charge as provided for in Section of Chapter IV.
+2.   Requests relating to the regular working timetable shall comply with the deadlines set out in Annex VII.’
+Article of that directive, entitled ‘Scheduling’, provides in paragraphs and thereof:
+‘1.   The infrastructure manager shall, as far as possible, meet all requests for infrastructure capacity including requests for train paths crossing more than one network, and shall, as far as possible, take account of all constraints on applicants, including the economic effect on their business.
+2.   The infrastructure manager may give priority to specific services within the scheduling and coordination process but only as set out in Articles and 49.’
+Article of the directive, ‘Coordination process’, provides:
+‘1.   During the scheduling process referred to in Article 45, where the infrastructure manager encounters conflicts between different requests, it shall attempt, through coordination of the requests, to ensure the best possible matching of all requirements.
+2.   Where a situation requiring coordination arises, the infrastructure manager shall have the right, within reasonable limits, to propose infrastructure capacity that differs from that which was requested.
+3.   The infrastructure manager shall attempt, through consultation with the appropriate applicants, to resolve any conflicts. Such consultation shall be based on the disclosure of the following information within a reasonable time, free of charge and in written or electronic form:
+…’
+In accordance with Article of that directive, entitled ‘Congested infrastructure’:
+‘1.   Where, after coordination of the requested train paths and consultation with applicants, it is not possible to satisfy requests for infrastructure capacity adequately, the infrastructure manager shall immediately declare that section of infrastructure on which this has occurred to be congested. This shall also be done for infrastructure which can be expected to suffer from insufficient capacity in the near future.
+2.   Where infrastructure has been declared to be congested, the infrastructure manager shall carry out a capacity analysis as provided for in Article 50, unless a capacity-enhancement plan, as provided for in Article 51, is already being implemented.
+…
+4.   The prioritising criteria are to take account of the importance of a service to society relative to any other service which will consequently be excluded.
+In order to guarantee the development of adequate transport services within this framework, in particular to comply with public-service requirements or to promote the development of national and international rail freight, Member States may take any measures necessary, under non-discriminatory conditions, to ensure that such services are given priority when infrastructure capacity is allocated.
+Member States may, where appropriate, grant the infrastructure manager compensation corresponding to any loss of revenue related to the need to allocate a given capacity to certain services pursuant to the second subparagraph.
+Those measures and that compensation shall include taking account of the effect of this exclusion in other Member States.
+…’
+Annex IV to that directive, headed ‘Content of the network statement’, provides:
+‘The network statement referred to in Article shall contain the following information:
+(1)
+A section setting out the nature of the infrastructure which is available to railway undertakings and the conditions of access to it. The information in this section shall be made consistent, on an annual basis, with, or shall refer to, the rail infrastructure registers to be published in accordance with Article of Directive 2008/57/EC.
+(2)
+A section on charging principles and tariffs. This shall contain appropriate details of the charging scheme as well as sufficient information on charges as well as other relevant information on access applying to the services listed in Annex II which are provided by only one supplier. It shall detail the methodology, rules and, where applicable, scales used for the application of Articles to 36, as regards both costs and charges. It shall contain information on changes in charges already decided upon or foreseen in the next five years, if available.
+(3)
+A section on the principles and criteria for capacity allocation. This shall set out the general capacity characteristics of the infrastructure which is available to railway undertakings and any restrictions relating to its use, including likely capacity requirements for maintenance. It shall also specify the procedures and deadlines which relate to the capacity-allocation process. It shall contain specific criteria which are employed during that process, in particular:
+(a)
+the procedures according to which applicants may request capacity from the infrastructure manager;
+(b)
+the requirements governing applicants;
+(c)
+the schedule for the application and allocation processes and the procedures which shall be followed to request information on the scheduling and the procedures for scheduling planned and unforeseen maintenance work;
+(d)
+the principles governing the coordination process and the dispute resolution system made available as part of this process;
+(e)
+the procedures which shall be followed and criteria used where infrastructure is congested;
+(f)
+details of restrictions on the use of infrastructure;
+(g)
+conditions by which account is taken of previous levels of utilisation of capacity in determining priorities for the allocation process.
+…’
+Swedish law
+Lagen (2007:1092) om upphandling inom områdena vatten, energi, transporter och posttjänster (Law (2007:1092) on procurement in the water, energy, transport and postal services sectors; ‘the Law on procurement’) transposes the provisions of Directive 2004/in Swedish law.
+The first subparagraph of Chapter 1, Paragraph 8, of the Law on procurement provides that the provision or operation of public networks in the form of transport by, inter alia, railway is covered by the law. It follows from the second subparagraph of Chapter 1, Paragraph 8, that a network intended to provide a public service in the field of transport services is deemed to exist if the service is provided in accordance with conditions which are laid down by a competent authority and which relate to the routes to be served, the transport capacity to be made available, the frequency of the service and similar conditions.
+Chapter 7, Paragraph 1, of the Law on procurement provides that the contracting entity intending to award a contract or conclude a framework agreement must, without exception, publish the contract notice.
+Under Chapter 17, Paragraphs and 2, of the Law on procurement, the supervisory authority may apply to the Administrative Court for an order that a contracting entity pay a special fine if the entity has concluded a contract with a supplier without prior publication of the contract notice.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+SJ is a limited company, wholly owned by the Swedish State, which pursues the activity of rail transport. In January 2012, SJ concluded two contracts of and million Swedish Crowns (SEK) respectively (approximately EUR and EUR 5895328), by which it awarded cleaning contracts for the trains operated by it, without having initiated a tendering procedure for the award of those contracts.
+In January 2013, the Konkurrensverket brought an action before the Förvaltningsrätten i Stockholm (Administrative Court, Stockholm, Sweden) for an order imposing a fine on SJ on the ground that that undertaking was bound to comply with publication requirements when awarding public contracts since it was active in the provision or operation of public transport networks within the meaning of Chapter 1, Paragraph 8, of the Law on procurement. SJ, taking the view that its activity does not fall within the scope of Paragraph thereof, contested the findings of the Konkurrensverket. The court upheld the arguments of SJ.
+The appeal brought by the Konkurrensverket before the Kammarrätten i Stockholm (Stockholm Administrative Court of Appeal, Sweden) was also dismissed.
+That court held, as did the court of first instance, that, since the Trafikverket (Transport Administration, Sweden), as the infrastructure manager, granted the train paths required for the activity of rail transport as such, with limited ability actively to influence how SJ provides its transport services, that administration could not be regarded as being an authority imposing conditions on that company for the performance of its activities. Accordingly, the appeal court took the view that the services provided by SJ could not be regarded as being provided under conditions determined by a competent authority within the meaning of Chapter 1, Paragraph 8, of the Law on procurement. It concluded therefrom that that company was not therefore required to comply with the Law on procurement when concluding the contracts in question.
+The Konkurrensverket brought an appeal in cassation against that judgment before the Högsta förvaltningsdomstolen (Supreme Administrative Court, Sweden), requesting that court to refer the matter to the Court of Justice for a preliminary ruling.
+In those circumstances, the Högsta förvaltningsdomstolen (Supreme Administrative Court) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Must the second subparagraph of Article 5(1) of Directive 2004/be interpreted as meaning that there is a network in the field of transport services when transport services on a State-administered rail network for national and international rail traffic are provided in accordance with provisions in national legislation which implement Directive 2012/34, which involve the allocation of railway infrastructure capacity on the basis of requests from railway companies and a requirement that all requests are to be met so far as possible?
+(2)
+Must the first subparagraph of Article 5(1) of Directive 2004/be interpreted as meaning that an activity which is carried out by a railway company such as is referred to in Directive 2012/and which entails the provision of transport services to the public on a rail network constitutes the provision or operation of a network as referred to in that provision of the directive?’
+The request for the oral procedure to be reopened
+Following the delivery of the Opinion of the Advocate General, by a document lodged at the Registry of the Court on October 2017, SJ requested the Court to reopen the oral part of the procedure on the ground that points and of the Opinion were based on certain aspects that had not been addressed in the written and oral phases of the present preliminary ruling proceedings, in particular Article of Directive 2004/17.
+In that regard, Article of the Rules of Procedure of the Court permits the Court, after hearing the Advocate General, to order at any time the reopening of the oral part of the procedure, in particular if it considers that it lacks sufficient information or where the case must be decided on the basis of a legal argument which has not been debated between the parties.
+In the present case, the Court considers that it has all the information necessary to rule on the request for a preliminary ruling before it and that the case does not have to be decided on the basis of the argument submitted in the application for reopening of the oral procedure on the potential application of Article of Directive 2004/17.
+Accordingly, there is no need to order that the oral part of the procedure be reopened.
+Consideration of the questions referred
+Preliminary observations
+By its questions, the referring court seeks, in essence, to determine whether SJ was required to initiate a tendering procedure for the award of service contracts for the cleaning of trains operated by it.
+In that regard, as the Advocate General recalls in point of his Opinion, it is not in dispute that SJ, as a company wholly owned by the State, is a public undertaking within the meaning of Article 2(1)(b) of Directive 2004/17. If the view can be taken that SJ carries out one of the activities referred to in Article of that directive, it can be regarded as being a contracting entity within the meaning of Article 2(2)(a) of that directive.
+SJ maintains that it does not carry out such activities. First, it argues that it does not operate on a ‘network’ within the meaning of the second subparagraph of Article 5(1) of that Directive. Second, it submits that its activities relating to the provision of transport services do not constitute activities of ‘provision’ or ‘operation’ of the network within the meaning of that article.
+The first question
+By its first question, the referring court asks, in essence, whether the second subparagraph of Article 5(1) of Directive 2004/must be interpreted as meaning that there is a network of rail transport services, within the meaning of that provision, where transport services are provided, in application of national legislation transposing Directive 2012/34, on a railway infrastructure managed by a national authority which allocates that infrastructure capacity and is required to meet the requests of railway undertakings provided that the limits of that capacity are not reached.
+In accordance with the second indent of Article 5(1) of Directive 2004/17, ‘as regards transport services, a network shall be considered to exist where the service is provided under operating conditions laid down by a competent authority of a Member State, such as conditions on the routes to be served, the capacity to be made available or the frequency of the service’.
+In order to assess whether such conditions exist in the case before it, the referring court asks what is the effect of the obligation on the Trafikverket, as the competent authority within the meaning of Article of Directive 2004/17, to satisfy all requests for allocation of transport capacity submitted by railway undertakings provided that the limits of that capacity are not reached.
+SJ notes that it provides rail transport services in full competition on the market and does not receive any State funding, that it obtains its revenue from the sale of tickets, that it has no priority as regards railway capacity when requesting train paths and that all the transport which it operates results from its own decisions.
+However, those elements alone, even if established, cannot exclude that the conditions under which a railway undertaking, such as SJ, provides its services were determined by a competent authority.
+In fact, examination of the legislation applicable shows this to be the case.
+It must be pointed out that Article 27(1) and (2) of Directive 2012/provides that the infrastructure manager, in the present case the Trafikverket, is to draw up and publish a network statement setting out the characteristics of the infrastructure and containing information setting out the conditions for access to the railway infrastructure. The content of the network statement is defined in Annex IV to that directive.
+In accordance with Annex IV, that document contains the principles and criteria for capacity allocation, including the requirements which candidates must meet, the procedures to be followed and the criteria to be used where infrastructure is congested or details of restrictions on the use of infrastructure.
+Thus, any request for infrastructure capacity must, under Directive 2012/34, be submitted to the infrastructure manager by a railway undertaking in accordance with the network statement drawn up by it and must comply with the principles and criteria set out in that document. It follows from those factors that the award of rights to use the railway infrastructure is subject to compliance by the applicant undertakings with requirements relating to both their capacity to submit an application and the conditions under which they will use that infrastructure. Consequently, such requirements significantly reduce the commercial freedom of applicant undertakings.
+Regarding the procedure for the examination of applications as such, although the railway infrastructure manager must, pursuant to Article of Directive 2012/34, endeavour as far as possible to meet all requests for infrastructure capacity, it is required, in accordance with Article of that directive, in the case of competing requests, to coordinate those requests in order to ensure the best match between them. It may thus, within reasonable limits, propose capacity that differs from that which was requested or may be unable to respond favourably to certain applications.
+Article of Directive 2012/lays down provisions for the event that the railway infrastructure is congested, in the context of which the infrastructure manager may establish prioritising criteria.
+In those circumstances, while accepting that the railway undertaking has a certain freedom to determine the conditions for the exercise of its transport activity, it must be held, having regard to the obligations and restrictions on it, taken as a whole, in particular the obligation of obtaining train paths and the conditions attached thereto, that the conditions under which it provides the transport service are laid down by a competent authority of a Member State, in this case the Trafikverket in the main proceedings, acting as the infrastructure manager.
+That assessment is also corroborated by the analysis of the legislative history of the second subparagraph of Article 5(1) of Directive 2004/17.
+Indeed, as the European Commission points out, Article 2(2)(c) of Council Directive 90/531/EEC of September on the procurement procedures of entities operating in the water, energy, transport and telecommunications sectors (OJ L 297, p. 1), which, in essence, Article 5(1) of Directive 2004/reproduces, was introduced to make the procurement of bus transport services subject to the provisions of Directive 90/and clarified that a transport network exists not only if it consists of a physical infrastructure such as railways, but also by a coordinated system of lines under specific conditions, such as in the field of transport by bus. By contrast, the EU legislature did not intend to limit, by that provision, the scope of public procurement procedures in the field of transport carried out on a physical network.
+Consequently, the answer to the first question is that the second subparagraph of Article 5(1) of Directive 2004/must be interpreted as meaning that there is a network of rail transport services, within the meaning of that provision, where transport services are provided, in application of national legislation transposing Directive 2012/34, on a railway infrastructure managed by a national authority which allocates infrastructure capacity even if that authority is required to meet the requests of railway undertakings provided that the limits of that capacity are not reached.
+The second question
+By its second question, the referring court asks, in essence, whether the first subparagraph of Article 5(1) of Directive 2004/must be interpreted as meaning that the activity pursued by a railway undertaking, consisting of providing public transport services using the rail network, constitutes a ‘provision’ or ‘operation of networks’ for the purposes of that directive.
+In accordance with the first subparagraph of Article 5(1) of Directive 2004/17, that directive is to apply to activities relating to the provision or operation of networks providing a service to the public in the field of transport by railway, automated systems, tramway, trolley bus, bus or cable.
+Consequently, that provision covers two types of activities, namely, on the one hand, the provision of networks and, on the other, the operation of networks.
+According to settled case-law, the meaning and scope of terms for which EU law provides no definition must be determined according to their meaning in everyday language whilst considering the context in which they occur and the purposes of the rules of which they form part (judgment of June 2018, Louboutin and Christian Louboutin, C‑163/16, EU:C:2018:423, paragraph 20).
+In that regard, the term ‘operation’ must be understood, in accordance with its usual meaning, as referring to the use of an object or the exercise of a right to earn income. Thus, the operation of networks by a railway undertaking consists of its exercise of the right to use the railway infrastructure to earn income.
+Such a definition differs from that which it is appropriate to give to the ‘provision of networks’.
+Indeed, as observed by the Advocate General in point of his Opinion, the ‘provision of networks’ is a prerogative of the infrastructure manager and not of the railway undertaking.
+As the Commission has pointed out, the ‘provision of networks’ was not included in the directives which preceded Directive 2004/17, namely Directive 90/and Directive 93/38, since that term was introduced in Directive 2004/to ensure that the procurement procedures for which it provides also apply to the management of physical networks, such as railways, railway facilities, tunnels, bridges and level crossings.
+In the light of the foregoing, it must be held that the activity of the ‘operation of networks’ refers to the exercise of the right of use of the railway network for the provision of transport services, while the activity of ‘provision of networks’ refers to the management of the network.
+In the light of the foregoing considerations, the answer to the second question is that the first subparagraph of Article 5(1) of Directive 2004/must be interpreted as meaning that the activity pursued by a railway undertaking, which consists of providing transport services to the public in exercising a right of use of the railway network, is an ‘operation of networks’ for the purposes of that directive.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Ninth Chamber) hereby rules:
+ 
+1.
+The second subparagraph of Article 5(1) of Directive 2004/17/EC of the European Parliament and of the Council of March coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors must be interpreted as meaning that there is a network of rail transport services, within the meaning of that provision, where transport services are provided, in application of national legislation transposing Directive 2012/34/EU of the European Parliament and of the Council of November establishing a single European railway area, on a railway infrastructure managed by a national authority which allocates infrastructure capacity even if that authority is required to meet the requests of railway undertakings provided that the limits of that capacity are not reached.
+ 
+2.
+The first subparagraph of Article 5(1) of Directive 2004/must be interpreted as meaning that the activity pursued by a railway undertaking, which consists of providing transport services to the public in exercising a right of use of the railway network, is an ‘operation of networks’ for the purposes of that directive.
+ 
+[Signatures]
+(
+*)	Language of the case: Swedish.
+Top  

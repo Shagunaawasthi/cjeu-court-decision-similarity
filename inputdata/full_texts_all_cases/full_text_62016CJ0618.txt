@@ -1,0 +1,182 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+September (
+*)
+(Reference for a preliminary ruling — Freedom of movement for persons — Article TFEU — Act of Accession — Chapter of Annex XII — Whether a Member State may derogate from Article 7(2) of Regulation (EU) No 492/and Article 7(3) of Directive 2004/38/EC — Polish national who has not completed a period of months’ registered work in the host Member State)
+In Case C‑618/16,
+REQUEST for a preliminary ruling under Article TFEU from the Upper Tribunal (Administrative Appeals Chamber) (United Kingdom), made by decision of November 2016, received at the Court on November 2016, in the proceedings
+Rafal Prefeta
+v
+Secretary of State for Work and Pensions,
+THE COURT (Fifth Chamber),
+composed of J.L. da Cruz Vilaça, President of the Chamber, A. Tizzano (Rapporteur), Vice-President of the Court, E. Levits, A. Borg Barthet and M. Berger, Judges,
+Advocate General: M. Wathelet,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on January 2018,
+after considering the observations submitted on behalf of
+–
+Mr Prefeta, by J. Power, Solicitor, T. Royston, Barrister, and R. Drabble QC,
+–
+the United Kingdom Government, by R. Fadoju and C. Crane, acting as Agents, and by K. Apps and D. Blundell, Barristers,
+–
+the European Commission, by D. Martin and J. Tomkin, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on February 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Annex XII to the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded (OJ L 236, p. 33, ‘the Act of Accession’), of Article 7(2) of Regulation (EU) No 492/of the European Parliament and of the Council of April on freedom of movement for workers within the Union (OJ L 141, p. 1), and of Article 7(3) of Directive 2004/38/EC of the European Parliament and of the Council of April on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States amending Regulation (EEC) No 1612/and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC (OJ L 158, p. 77).
+The request has been made in proceedings between Mr Rafal Prefeta and the Secretary of State for Work and Pensions (United Kingdom) (‘the SSWP’), concerning the latter’s refusal to grant Mr Prefeta an income-related Employment and Support Allowance.
+Legal context
+EU law
+The Act of Accession
+The Act of Accession lays down the conditions for accession of, inter alia, the Republic of Poland, and provides for adjustments to the Treaties.
+The second and fifth indents of Article of the act provide:
+‘For the purposes of this Act:
+...
+–
+the expression “present Member States” means the Kingdom of Belgium, the Kingdom of Denmark, the Federal Republic of Germany, the Hellenic Republic, the Kingdom of Spain, the French Republic, Ireland, the Italian Republic, the Grand Duchy of Luxembourg, the Kingdom of the Netherlands, the Republic of Austria, the Portuguese Republic, the Republic of Finland, the Kingdom of Sweden and the United Kingdom of Great Britain and Northern Ireland;
+...
+–
+the expression “new Member States” means the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic;
+...’
+Part Four of the Act of Accession contains the temporary provisions that apply in respect of the new Member States. Article 24, in Part Four of the act, provides:
+‘The measures listed in Annexes V, VI, VII, VIII, IX, X, XI, XII, XIII and XIV to this Act shall apply in respect of the new Member States under the conditions laid down in those Annexes.’
+Annex XII to the Act of Accession is entitled ‘List referred to in Article of the Act of Accession: Poland’. Chapter 2, paragraphs 1, 2, and of that Annex, concerning the free movement of persons, is worded as follows:
+‘1.   Article [45] and the first paragraph of Article [56] [TFEU] shall fully apply only, in relation to the freedom of movement of workers and the freedom to provide services involving temporary movement of workers as defined in Article of Directive 96/71/EC [of the European Parliament and of the Council of December concerning the posting of workers in the framework of the provision of services (OJ L 18, p. 1)] between Poland on the one hand, and Belgium, the Czech Republic, Denmark, Germany, Estonia, Greece, Spain, France, Ireland, Italy, Latvia, Lithuania, Luxembourg, Hungary, the Netherlands, Austria, Portugal, Slovenia, Slovakia, Finland, Sweden and the United Kingdom on the other hand, subject to the transitional provisions laid down in paragraphs to 14.
+2.   By way of derogation from Articles to of Regulation (EEC) No 1612/[of the Council of October on freedom of movement for workers within the Community (OJ English Special Edition (II), p. 475)] and until the end of the two-year period following the date of accession, the present Member States will apply national measures, or those resulting from bilateral agreements, regulating access to their labour markets by Polish nationals. The present Member States may continue to apply such measures until the end of the five year period following the date of the accession.
+Polish nationals legally working in a present Member State at the date of accession and admitted to the labour market of that Member State for an uninterrupted period of months or longer will enjoy access to the labour market of that Member State but not to the labour market of other Member States applying national measures.
+Polish nationals admitted to the labour market of a present Member State following accession for an uninterrupted period of months or longer shall also enjoy the same rights. The Polish nationals mentioned in the second and third subparagraphs above shall cease to enjoy the rights contained in those subparagraphs if they voluntarily leave the labour market of the present Member State in question.
+Polish nationals legally working in a present Member State at the date of accession, or during a period when national measures are applied, and who were admitted to the labour market of that Member State for a period of less than months shall not enjoy these rights.
+...
+5.   A Member State maintaining national measures or measures resulting from bilateral agreements at the end of the five-year period indicated in paragraph may, in case of serious disturbances of its labour market or threat thereof and after notifying the Commission, continue to apply these measures until the end of the seven-year period following the date of accession. In the absence of such notification, Articles to of Regulation [No 1612/68] shall apply.
+…
+9.   In so far as certain provisions of Directive 68/360/EEC [Council Directive of October on the abolition of restrictions on movement and residence within the Community for workers of Member States and their families (OJ, English Special Edition (II), p. 485)] may not be dissociated from those of Regulation [No 1612/68] whose application is deferred pursuant to paragraphs to and and 8, Poland and the present Member States may derogate from those provisions to the extent necessary for the application of paragraphs to and and 8.’
+Regulation No 492/Chapter I of Regulation No 492/is entitled ‘Employment, equal treatment and workers’ families’.
+Under Section of that chapter, entitled ‘Eligibility for employment’, Articles to of Regulation No 492/prohibit, in essence, any provisions laid down by law, regulation or administrative action, or any administrative practices of a Member State, where they limit application for and offers of employment, or the right of nationals from other Member States to take up and pursue employment, or subject these to conditions not applicable in respect of the nationals of that Member State.
+In Section of that chapter, entitled ‘Employment and equality of treatment’, Article 7(1) and (2) of the regulation states as follows:
+‘1.   A worker who is a national of a Member State may not, in the territory of another Member State, be treated differently from national workers by reason of his nationality in respect of any conditions of employment and work, in particular as regards remuneration, dismissal, and, should he become unemployed, reinstatement or re-employment.
+2.   He shall enjoy the same social and tax advantages as national workers.’
+Article of Regulation No 492/provides:
+‘Regulation [No 1612/68] is hereby repealed.
+References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex II.’
+Directive 2004/Article of Directive 2004/38, entitled ‘Right of residence for more than three months’, states:
+‘1.   All Union citizens shall have the right of residence on the territory of another Member State for a period of longer than three months if they:
+(a)
+are workers or self-employed persons in the host Member State; ...
+...
+3.   For the purposes of paragraph 1(a), a Union citizen who is no longer a worker or self-employed person shall retain the status of worker or self-employed person in the following circumstances:
+(a)
+he/she is temporarily unable to work as the result of an illness or accident;
+(b)
+he/she is in duly recorded involuntary unemployment after having been employed for more than one year and has registered as a job-seeker with the relevant employment office;
+(c)
+he/she is in duly recorded involuntary unemployment after completing a fixed-term employment contract of less than a year or after having become involuntarily unemployed during the first twelve months and has registered as a job-seeker with the relevant employment office. In this case, the status of worker shall be retained for no less than six months;
+(d)
+he/she embarks on vocational training. Unless he/she is involuntarily unemployed, the retention of the status of worker shall require the training to be related to the previous employment.
+...’
+Article of the directive, entitled ‘Exceptions’, provides in paragraphs and thereof:
+‘2.   Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC shall be repealed with effect from April 2006.
+3.   References made to the repealed provisions and Directives shall be construed as being made to this Directive.’
+United Kingdom law
+The Immigration (European Economic Area) Regulations 2006/(‘the Regulations’), adopted for the purpose of transposing Directive 2004/38, amended the Accession (Immigration and Worker Registration) Regulations 2004/1219. According to the latter regulations as amended (‘the Regulations’), the application to the United Kingdom of EU rules governing freedom of movement for workers was deferred as concerns nationals of eight of the Member States that acceded to the European Union on May 2004, including the Republic of Poland. These derogations, adopted on the basis of Article of the Act of Accession, remained in force until April 2011.
+The Regulations established a registration scheme (the Accession State Worker Registration Scheme) applicable to nationals of those eight Accession States working in the United Kingdom during the period from May to April 2011.
+Regulation of those Regulations, entitled ‘Accession State worker requiring registration’, provided:
+‘(1)   Subject to the following paragraphs of this regulation, “accession State worker requiring registration” means a national of a relevant accession State working in the United Kingdom during the accession period.
+...
+(4)   A national of a relevant accession State who legally works in the United Kingdom without interruption for a period of months falling partly or wholly after 30th April shall cease to be an accession State worker requiring registration at the end of that period of months.
+...
+(8)   For the purpose of paragraphs (3) and (4), a person shall be treated as having worked in the United Kingdom without interruption for a period of months if he was legally working in the United Kingdom at the beginning and end of that period and any intervening periods in which he was not legally working in the United Kingdom do not, in total, exceed days.
+...’
+Under Regulation 4(2) of those Regulations:
+‘A national of a relevant accession State shall not be entitled to reside in the United Kingdom for the purpose of seeking work by virtue of his status as a work seeker if he would be an accession State worker requiring registration if he began working in the United Kingdom.’
+Regulation 5(3) and (4) of the Regulations provided:
+‘(3)   Subject to paragraph (4), regulation 6(2) of the Regulations shall not apply to an accession State worker requiring registration who ceases to work.
+(4)   Where an accession State worker requiring registration ceases working for an authorised employer in the circumstances mentioned in regulation 6(2) of the Regulations during the one-month period beginning on the date on which the work begins, that regulation shall apply to that worker during the remainder of that one-month period.’
+Regulation 6(1) of the Regulations, concerning the circumstances in which a national of a Member State of the European Economic Area may enjoy an extended right of residence in the territory of the United Kingdom, provided, in the version applicable to the facts in the main proceedings:
+‘(1)   In these Regulations, “qualified person” means a person who is an EEA national and in the United Kingdom as:
+...;
+(b)
+a worker;
+...’
+Regulation 6(2) of those regulations, which laid down the conditions that a person who is no longer working must fulfil in order to retain the status of worker within the meaning of Regulation 6(1)(b), provided:
+‘Subject to regulation 7A(4), a person who is no longer working shall not cease to be treated as a worker for the purpose of paragraph (l)(b) if —
+(a)
+he is temporarily unable to work as the result of an illness or accident;
+(b)
+he is in duly recorded involuntary unemployment after having been employed in the United Kingdom, provided that he has registered as a jobseeker with the relevant employment office and
+(i)
+he was employed for one year or more before becoming unemployed;
+(ii)
+he has been unemployed for no more than six months; or
+(iii)
+he can provide evidence that he is seeking employment in the United Kingdom and has a genuine chance of being engaged;
+...’
+Under Regulation 7A(4) of the Regulations:
+‘Regulation 6(2) applies to an accession worker where he:
+(a)
+was a person to whom regulation 5(4) of the [Regulations] applied on April 2011; or
+(b)
+became unable to work, became unemployed or ceased to work, as the case may be, after May 2011.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Mr Prefeta, a Polish national, came to the United Kingdom in and worked there from July to March 2011, when his employment came to an end due to an injury sustained outside work.
+From his arrival in the United Kingdom, Mr Prefeta had the status of an ‘accession worker requiring registration’ within the meaning of regulation 2(1) of the Regulations. However, as he obtained a worker registration certificate only on January 2011, Mr Prefeta completed a total period of registered work of just two months and six days.
+After March 2011, being in duly recorded involuntary unemployment, Mr Prefeta registered as a jobseeker with the relevant national office. He received unemployment benefits on that basis from March 2011.
+On October, Mr Prefeta submitted a claim to the SSWP for income-related Employment and Support Allowance.
+It is apparent from the order for reference that that allowance, intended for categories of people whose capacity for work is limited by reason of their physical or mental condition, is available to workers within the meaning of regulation 6(1)(b) and (2) of the Regulations only, not to jobseekers.
+The SSWP therefore rejected Mr Prefeta’s claim, taking the view that Mr Prefeta had not shown that he had completed, before losing his job, an uninterrupted period of employment of months or longer while registered in accordance with the Regulations, which would have enabled him to retain his status as a worker within the meaning of regulations 6(1)(b) and 6(2) of the Regulations.
+Mr Prefeta brought proceedings against the SSWP’s decision before the First-tier Tribunal (Social Entitlement Chamber). That tribunal having dismissed his action, Mr Prefeta appealed against that decision before the Upper Tribunal (Administrative Appeals Chamber).
+In his appeal, Mr Prefeta submits, in essence, that regulation 5(3) of the Regulations prevented nationals of the relevant accession States who had not worked in the United Kingdom with a registration certificate for an uninterrupted period of months from retaining the status of worker, within the meaning of Article 7(3) of Directive 2004/38, and thereby enjoying equal treatment under Article 7(2) of Regulation No 492/2011. According to Mr Prefeta, national legislation contrary to those two articles could not be justified on the basis of the Act of Accession, since that act does not permit derogation from those articles.
+The SSWP contends, on the other hand, that the Regulations were compatible with the Act of Accession. In that regard, he observes that the second paragraph of Chapter of Annex XII to that Act of Accession provides that Polish nationals legally working during a period in which national measures are applied and who are admitted to the labour market of the Member State in question for a period of less than months are not to enjoy the rights granted to workers under Article 7(3) of Directive 2004/and Article 7(2) of Regulation No 492/2011.
+In those circumstances, the Upper Tribunal (Administrative Appeals Chamber) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Did Annex XII [to the Act of Accession] permit Member States to exclude Polish nationals from the benefits of Article 7(2) of Regulation [No 492/2011] and Article 7(3) of Directive [2004/38] where the worker, though he had belatedly complied with the national requirement that his employment be registered, had not yet worked for an uninterrupted registered 12-month period?
+(2)
+If the answer to the first question is “no”, may a Polish national worker in the circumstances in question rely on Article 7(3) of Directive [2004/38], which concerns retention of worker status?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks, in essence, whether Chapter of Annex XII to the Act of Accession must be interpreted as permitting, during the transitional period provided for by that act, the United Kingdom to exclude a Polish national from the benefits of Article 7(3) of Directive 2004/and Article 7(2) of Regulation No 492/when that person does not satisfy the requirement imposed by national law of having completed an uninterrupted 12-month period of registered work in the United Kingdom.
+In that regard, it should be noted, as a preliminary point, that paragraph of Chapter of Annex XII to the Act of Accession provides that Article and the first paragraph of Article of the EC Treaty (now Article and the first paragraph of Article TFEU, respectively) fully apply only subject to the transitional provisions laid down in paragraphs to of that chapter, in relation to the freedom of movement of workers and the freedom to provide services involving temporary movement of workers between Poland and the ‘present’ Member States. Those transitional provisions lay down, in essence, derogations from Articles to of Regulation No 1612/and, under certain conditions, from Directive 68/360.
+Admittedly, Chapter of Annex XII to the Act of Accession refers neither to Directive 2004/nor to Regulation No 492/2011, those instruments having been adopted after that act came into force. Nevertheless, it is clear from the very wording of Article 38(3) of that directive and Article of that regulation that the references made to Regulation No 1612/and Directive 68/360, repealed by those two acts, must be regarded as being made to the corresponding articles of Directive 2004/and Regulation No 492/2011, respectively.
+Accordingly, in order to answer the question asked by the referring court, it must be ascertained whether Chapter of Annex XII to the Act of Accession permitted the United Kingdom, in circumstances such as those in the main proceedings, not to apply Article 7(3) of Directive 2004/38. The application of Article 7(2) of Regulation No 492/2011, according to which the worker who is a national of a Member State is to enjoy, in the territory of another Member State, the same social and tax advantages as national workers, is based on the premiss that a person in Mr Prefeta’s situation who is no longer a worker must nevertheless be able to retain his status as a worker pursuant to Article 7(3) of Directive 2004/38.
+In that regard, it must be noted that, under paragraph of Chapter of Annex XII to the Act of Accession, it is only if certain provisions of Directive 2004/may not be dissociated from those of Regulation No 492/2011, whose application is deferred pursuant to paragraphs to 5, and of Chapter of Annex XII to that act, that the Republic of Poland and the ‘present’ Member States may derogate from those provisions of Directive 2004/to the extent necessary for the application of those paragraphs.
+It must therefore first be ascertained whether Article 7(3) of Directive 2004/may be dissociated from Articles to of Regulation No 492/2011, whose application was deferred as indicated above.
+In that regard, it is important to point out, as observed by the Advocate General in point of his Opinion, that the possibility for an EU citizen who has temporarily ceased to pursue an activity as an employed or self-employed person of retaining his status of worker on the basis of Article 7(3) of Directive 2004/38, as well as the corresponding right of residence under Article 7(1) of the directive, is based on the assumption that the citizen is available and able to re-enter the labour market of the host Member State within a reasonable period (see, by analogy, judgment of June 2014, Saint Prix, C‑507/12, EU:C:2014:2007, paragraphs to 41).
+Article 7(3)(a) of Directive 2004/concerns the situation of an EU citizen who is temporarily unable to work as the result of an illness or accident, which implies that that citizen will be able to pursue an activity as an employed or self-employed person again once that temporary inability to work has come to an end. Moreover, Article 7(3)(b) and (c) of that directive requires economically inactive EU citizens to register as jobseekers with the relevant employment office and Article 7(3)(d) of the directive requires such persons, under specific conditions, to embark on vocational training.
+Article 7(3) of Directive 2004/therefore covers situations in which the EU citizen’s re-entry on the labour market of the host Member State is foreseeable within a reasonable period. Consequently, the application of that provision may not be dissociated from that of the provisions of Regulation No 492/governing the eligibility for employment of a Member State national in another Member State, that is, Articles to of that regulation.
+Secondly, it must be ascertained whether it is necessary to derogate from Article 7(3) of Directive 2004/for the application of the derogations laid down in the transitional provisions in paragraphs to 5, and of Chapter of Annex XII to the Act of Accession.
+In that regard, it should be noted that the Court has previously held that the transitional provisions in Chapter of Annex XII to that act of accession are intended to prevent, following the accession to the European Union of new Member States, disturbances on the labour market of the existing Member States due to the immediate arrival of a large number of workers who are nationals of those new States (see, to that effect, judgment of February 2011, Vicoplus and Others, C‑307/to C‑309/09, EU:C:2011:64, paragraph and the case-law cited).
+In the present case, as observed by the United Kingdom Government and the Commission in their written observations, the Regulations were adopted by that Member State pursuant to the derogations laid down in the transitional provisions in paragraphs and of Chapter of Annex XII to the Act of Accession.
+The first sentence of paragraph of Chapter of Annex XII to that act of accession provides, in essence, that, by way of derogation from Articles to of Regulation No 492/and during the transitional period following the date of accession, the ‘present’ Member States are to apply measures regulating access to their labour markets by Polish nationals.
+It is therefore on that basis that regulation of the Regulations introduced into UK law the status of ‘accession State worker requiring registration’ covering accession State nationals working in the United Kingdom during the period of application of those regulations. Those regulations provided that the workers in question would no longer have that status once they had worked without interruption for a period of months falling partly or wholly after April as a registered worker on the territory of that Member State.
+For the duration of the period in which a national of a relevant accession State had that status, that national was required to obtain a work registration certificate from the competent national authorities and did not enjoy all the rights granted by EU law to nationals of one Member State moving to another Member State for work purposes. More specifically, regulations and of the Regulations restricted the right of an accession State national to reside in the United Kingdom as a jobseeker for the purpose of seeking work, as well as the ability of that national to retain his status as a worker and the corresponding right of residence when he ceased to pursue an activity as an employed or self-employed person.
+As the Commission pointed out, in essence, in its written observations, the derogation from Article 7(3) of Directive 2004/introduced by the United Kingdom was accordingly necessary in order to give full effect to the measures adopted by that Member State pursuant to the derogations laid down in the transitional provisions in paragraphs and of Chapter of Annex XII to the Act of Accession.
+If an accession State worker who had ceased to work as an employed or self-employed person without having first completed uninterrupted months of registered work in the United Kingdom had been able to rely on Article 7(3) of Directive 2004/in order to retain worker status as well as the corresponding right of residence under Article 7(1) of that directive, the United Kingdom would not have been able to give full effect to those derogations, intended, inter alia, to restrict the right of economically inactive accession State nationals to reside in the United Kingdom for the purpose of seeking work.
+Having regard to the foregoing considerations, the Court finds that paragraphs and of Chapter of Annex XII to the Act of Accession permitted the United Kingdom not to apply Article 7(3) of Directive 2004/in circumstances such as those of the case in the main proceedings.
+That finding cannot be called into question by the fact that, in the present case, before his employment ceased, Mr Prefeta had worked in the United Kingdom from July to March 2011, that is, for a period of approximately months.
+As observed, in essence, by the Advocate General in points to of his Opinion, it is apparent from the third subparagraph of paragraph of Chapter of Annex XII to the Act of Accession that Polish nationals were required to fulfil two cumulative conditions in order to avoid being caught by the derogations adopted on the basis of that instrument, that is, (i) they had to work for an uninterrupted period of months, and (ii) they had to be admitted to the labour market of the relevant Member State.
+As regards the second condition, it must be noted that the Regulations made admission to the labour market subject to obtaining a registration certificate from the competent national authorities.
+However, it is apparent from the case file before the Court that Mr Prefeta obtained a certificate registering his employment from the competent United Kingdom authorities only on January 2011, so that he must be regarded as having been admitted to the labour market of that Member State for a total period of just two months and six days, which is less than the months required under the third subparagraph of paragraph of Chapter of Annex XII to the Act of Accession.
+In those circumstances, as Mr Prefeta could not rely on Article 7(3) of Directive 2004/in order to retain his status as a worker after his employment ceased, he was not in a position to rely on Article 7(2) of Regulation No 492/either, as the latter provision covers Member State nationals who have that status (see, to that effect, judgments of July 2007, Geven, C‑213/05, EU:C:2007:438, paragraph 16, and of February 2013, N., C‑46/12, EU:C:2013:97, paragraphs and 49).
+Consequently, there is no need to ascertain whether Chapter of Annex XII to the Act of Accession permitted the United Kingdom not to apply Article 7(2) of Directive 492/in circumstances such as those of the case in the main proceedings.
+In the light of all the foregoing considerations, the answer to the first question is that Chapter of Annex XII to the Act of Accession must be interpreted as permitting, during the transitional period provided for by that act, the United Kingdom to exclude a Polish national, such as Mr Prefeta, from the benefits of Article 7(3) of Directive 2004/when that person does not satisfy the requirement imposed by national law of having completed an uninterrupted 12‑month period of registered work in the United Kingdom.
+The second question
+In the light of the answer given to the first question, there is no need to reply to the second question.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+Chapter of Annex XII to the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded, must be interpreted as permitting, during the transitional period provided for by that act, the United Kingdom of Great Britain and Northern Ireland to exclude a Polish national, such as Mr Rafal Prefeta, from the benefits of Article 7(3) of Directive 2004/38/EC of the European Parliament and of the Council of April on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States amending Regulation (EEC) No 1612/and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC, when that person has not satisfied the requirement imposed by national law of having completed an uninterrupted 12-month period of registered work in the United Kingdom.
+ 
+Da Cruz Vilaça
+Tizzano
+Levits
+Borg Barthet
+Berger
+Delivered in open court in Luxembourg on September 2018.
+A. Calot Escobar
+Registrar
+J.L. da Cruz Vilaça
+President of the Fifth Chamber
+(
+*)	Language of the case: English.
+Top  

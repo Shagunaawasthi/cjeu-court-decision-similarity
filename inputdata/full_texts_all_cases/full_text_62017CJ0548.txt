@@ -1,0 +1,112 @@
+
+JUDGMENT OF THE COURT (Sixth Chamber)
+November (
+*)
+(Reference for a preliminary ruling — Taxation — Value added tax (VAT) — Taxation of professional football player agencies — Payment by instalments and subject to a condition — Chargeable event, chargeability and collection of the tax)
+In Case C‑548/17,
+REQUEST for a preliminary ruling under Article TFEU from the Bundesfinanzhof (Federal Finance Court, Germany), made by decision of June 2017, received at the Court on September 2017, in the proceedings
+Finanzamt Goslar
+v
+baumgarten sports & more GmbH
+THE COURT (Sixth Chamber),
+composed of J.-C. Bonichot (Rapporteur), President of the First Chamber, acting as President of the Sixth Chamber, E. Regan and C.G. Fernlund, Judges,
+Advocate General: M. Szpunar,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of
+–
+baumgarten sports & more GmbH, by A. Brennecke,
+–
+the German Government, by T. Henze and R. Kanitz, acting as Agents,
+–
+the European Commission, by L. Lozano Palacios and A.C. Becker, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles and of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1; ‘the VAT Directive’).
+The request has been made in proceedings between the Finanzamt Goslar (Tax Office, Goslar, Germany) and baumgarten sports & more GmbH (‘the company’) concerning the value added tax (VAT) taxation of payments by instalments.
+Legal context
+EU law
+Article of the VAT Directive provides as follows:
+‘The chargeable event shall occur and VAT shall become chargeable when the goods or the services are supplied.’
+Article 64(1) of that directive provides:
+‘Where it gives rise to successive statements of account or successive payments, the supply of goods, other than that consisting in the hire of goods for a certain period or the sale of goods on deferred terms, as referred to in point (b) of Article 14(2), or the supply of services shall be regarded as being completed on expiry of the periods to which such statements of account or payments relate.’
+Under Article of that directive:
+‘Where a payment is to be made on account before the goods or services are supplied, VAT shall become chargeable on receipt of the payment and on the amount received.’
+Article of the VAT Directive is worded as follows:
+‘By way of derogation from Articles 63, and 65, Member States may provide that VAT is to become chargeable, in respect of certain transactions or certain categories of taxable person at one of the following times:
+(a)
+no later than the time the invoice is issued;
+(b)
+no later than the time the payment is received;
+(c)
+where an invoice is not issued, or is issued late, within a specified period from the date of the chargeable event.’
+Under Article of that directive:
+‘1.   In the case of cancellation, refusal or total or partial non-payment, or where the price is reduced after the supply takes place, the taxable amount shall be reduced accordingly under conditions which shall be determined by the Member States.
+2.   In the case of total or partial non-payment, Member States may derogate from paragraph 1.’
+German law
+Paragraph 13(1), point 1, of the Umsatzsteuergesetz (Law on turnover tax; ‘the UStG’) provides:
+‘Tax shall become chargeable
+1.
+on supplies of goods and other services,
+(a)
+in cases where tax is calculated on the basis of the remuneration agreed (Paragraph 16(1), first sentence), upon expiry of the tax period in which the supplies of goods or services were made. This shall also apply to part supplies. These are present where it is agreed that certain parts of an economically divisible supply are to be paid for separately. Where the remuneration or part remuneration is received before the supply or part supply has been made, tax shall become chargeable thereon upon expiry of the tax period in which the remuneration or part remuneration was received,
+(b)
+in cases where tax is calculated on the basis of the remuneration collected (Paragraph 20), upon expiry of the tax period in which the remuneration was received.’
+Paragraph of the UStG provides:
+‘(1)   If the taxable amount of a taxable transaction within the meaning of Paragraph 1(1), point 1, has changed, the trader who performed that transaction shall adjust the amount of tax owed in that regard. …
+(2)   Subparagraph shall apply mutatis mutandis where
+1.
+the remuneration agreed for a taxable supply of goods or other services or a taxable intra-Community acquisition has become unrecoverable. If the remuneration is received retroactively, the amount of the tax and the [input tax] deduction shall be readjusted.
+…’
+Paragraph 20, first sentence, of the UStG provides:
+‘On application, the Tax Office may allow a trader,
+1.   whose total turnover (Paragraph 19(3)) in the preceding calendar year did not exceed EUR 500000, or
+2.   who is exempt from the obligation to keep accounts and to draw up annual stock inventories under Paragraph of the Abgabenordnung (Tax Code), or
+3.   whose turnover derives from an activity as a member of a liberal profession within the meaning of Paragraph 18(1), point 1, of the Einkommensteuergesetz (Law on income tax),
+to calculate turnover tax on the basis of the remuneration received rather than on the basis of the remuneration agreed (Paragraph 16(1), first sentence).’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+The company provides agency business services in the professional football sector.
+When the company successfully places a player with a football club, it receives commission from that club, provided that the player subsequently signs an employment contract and holds a licence issued by the Deutsche Fußball Liga GmbH (German Football League).
+That commission is paid to the company in instalments every six months for as long as the player remains under a contract with that club and holds a German Football League licence.
+The company paid tax on its turnover on the basis of agreed remuneration, in accordance with Paragraph 13(1), point 1(a) of the UStG.
+In 2015, following a tax inspection, the Goslar Tax Office found that, having regard to the ‘accrual taxation’ rule, the company should have, as from 2012, paid tax on commission payments corresponding to fixed-term player contracts falling due in 2015, and issued an adjusted tax notice to that effect.
+The company, disagreeing with that method, brought the matter before the court of first instance and its claim was upheld. It successfully argued that the commission payments at issue were not certain and the VAT payable on them was chargeable only when they were actually received.
+The Goslar Tax Office appealed on a point of law (‘Revision’) against that judgment before the Bundesfinanzhof (Federal Finance Court, Germany).
+That court harbours doubts as to the interpretation to be given to Article of the VAT Directive, which lays down the rule that the tax payable on the supply of services becomes chargeable when the services are supplied. It asks whether that rule can be interpreted restrictively in order, in essence, to regard the service as not yet supplied when remuneration for that service is not due or is conditional, as is the case in the main proceedings.
+Depending on the answer to the first question, the referring court is also uncertain whether the fact that a taxable person makes an ‘[advance] payment’ to the tax authority is compatible with certain principles of VAT law and the general principles of equality and proportionality. Its uncertainty is based, in essence, on the comparison — central to the arguments before the courts adjudicating on the substance of the action — of the respective situations of a taxable person such as that in the main proceedings and of a taxable person that is taxed according to the ‘cash accounting’ method.
+The referring court is further uncertain, in connection with the requested interpretation of Article of the VAT Directive, as to the interpretation to be given to Article of the directive, relating to the reduction of the taxable amount, in certain circumstances, in particular in the event that the remuneration for the service is not paid. That court seeks to ascertain, in that regard, whether, in the event that the VAT Directive does not preclude the taxable person’s pre-financing the tax over several years, Member States may grant that reduction as from the ongoing taxable period, not, as the wording of that article seems to imply, after the service has been provided.
+In those circumstances, the Bundesfinanzhof (Federal Finance Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Account being taken of the task of tax collector for the tax authority that falls to the taxable person, must Article of [the VAT Directive] be interpreted restrictively as meaning that the amount receivable in respect of the supply of goods or services
+(a)
+is due or
+(b)
+is at least unconditionally owed?
+(2)
+If the answer to the first question is in the negative: is the taxable person obliged to pre-finance the VAT owed in respect of the supply of goods or services for a period of two years if he is not able to receive (part of) the remuneration for the goods or services supplied by him until two years after the taxable event has occurred?
+(3)
+If the answer to the second question is in the affirmative: account being taken of the powers conferred on them under Article 90(2) of [the VAT Directive], are the Member States entitled to assume, for the purposes of the tax period in which VAT first becomes chargeable, that there has been an adjustment as provided for in Article 90(1) of that directive in the case where the taxable person is not able to obtain the amount receivable, because it is not due, until two years after the taxable event has occurred?’
+Consideration of the questions referred
+It should be observed as a preliminary point that, according to settled case-law, in the procedure laid down by Article TFEU, providing for cooperation between national courts and the Court of Justice, it is for the latter to provide the referring court with an answer which will be of use to it and enable it to determine the case before it. With that in mind, the Court may have to reformulate the questions referred to it. Further, the Court may decide to take into consideration rules of EU law to which the national court has made no reference in the wording of its question (judgment of February 2017, Município de Palmela, C‑144/16, EU:C:2017:76, paragraph and the case-law cited).
+In the present case, the questions of the referring court stem from an uncertainty as to whether Article of the VAT Directive can interpreted restrictively, so that a service should not be regarded as having been ‘supplied’ for the purposes of that provision when the remuneration for that service is neither taxable nor due unconditionally, thus leading to partial chargeability of VAT.
+In that regard, it is apparent that Article 64(1) of the VAT Directive, in so far as it determines that a service must be regarded as having been ‘supplied’ where ‘it gives rise to successive statements of account or successive payments’, is also relevant for the application of VAT rules to a situation such as that in the main proceedings.
+It is therefore appropriate to consider that, by its questions, which should be examined together, the referring court asks, in essence, whether Article of the VAT Directive, read in conjunction with Article 64(1) thereof, must be interpreted as precluding the chargeable event and chargeability of a tax on the supply of agency services for professional football players by an agent, such as that at issue in the main proceedings, paid in conditional instalments over several years further to the placement, from being regarded as occurring or taking effect when the player is placed.
+It should be borne in mind that Article of the VAT Directive provides that the chargeable event for VAT occurs and VAT becomes chargeable when the services are supplied.
+Moreover, according to Article 64(1) of the directive, where the supply of services gives rise to successive payments, it is to be regarded as being completed, for the purposes of Article 63, on expiry of the periods to which such payments relate.
+It follows from the combined application of those two provisions that, in respect of the supply of services giving rise to successive payments, the chargeable event for VAT occurs and VAT becomes chargeable on expiry of the periods to which those payments relate (see, to that effect, judgment of September 2015, Asparuhovo Lake Investment Company, C‑463/14, EU:C:2015:542, paragraph 50).
+It falls, in principle, to the referring court to verify whether the supply of services at issue in the main proceedings ‘gives rise to successive statements of account or successive payments’ within the meaning of Article 64(1) of the VAT Directive.
+That being said, and in order to provide a useful answer to the referring court, it must be noted that such appears to be the case of a service such as that in the main proceedings, which entails negotiating the placement of a player for a certain number of seasons with a club, and remunerated by means of conditional payments in instalments over several years, further to the placement (see, by analogy, judgment of September 2015, Asparuhovo Lake Investment Company, C‑463/14, EU:C:2015:542, paragraph 49).
+It follows from the foregoing that, subject to the verifications which it falls to the referring court to carry out, the chargeable event and chargeability of a tax on the supply of a service such as that in the main proceedings must be regarded as occurring or taking effect not when the player is placed, but on expiry of the periods to which the payments made by the club relate.
+Having regard to all the foregoing considerations, the answer to the questions referred is that Article of the VAT Directive, read in conjunction with Article 64(1) thereof, must be interpreted as precluding the chargeable event and chargeability of a tax on the supply of agency services for professional football players by an agent, such as that at issue in the main proceedings, paid in conditional instalments over several years further to the placement, from being regarded as occurring or taking effect when the player is placed.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Sixth Chamber) hereby rules:
+ 
+Article of Council Directive 2006/112/EC of November on the common system of value added tax, read in conjunction with Article 64(1) thereof, must be interpreted as precluding the chargeable event and chargeability of a tax on the supply of agency services for professional football players by an agent, such as that at issue in the main proceedings, paid in conditional instalments over several years further to the placement, from being regarded as occurring or taking effect when the player is placed.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

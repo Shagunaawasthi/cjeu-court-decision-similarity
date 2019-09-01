@@ -1,0 +1,183 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+October (
+*)
+(Reference for a preliminary ruling — Approximation of laws — Road transport — Tax provisions — Directive 1999/62/EC — Charging of heavy goods vehicles for the use of certain infrastructures — Toll — Obligation of the Member States to establish effective, proportionate and dissuasive penalties — Flat-rate fine — Principle of proportionality — Direct applicability of the directive)
+In Case C‑384/17,
+REQUEST for a preliminary ruling under Article TFEU from the Szombathelyi Közigazgatási és Munkaügyi Bíróság (Administrative and Labour Court, Szombathely, Hungary), made by decision of June 2017, received at the Court on June 2017, in the proceedings
+Dooel Uvoz-Izvoz Skopje Link Logistic N&N
+v
+Budapest Rendőrfőkapitánya,
+THE COURT (Fifth Chamber),
+composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits, A. Borg Barthet, M. Berger (Rapporteur) and F. Biltgen, Judges,
+Advocate General: M. Bobek,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+the Hungarian Government, by G. Koós and Z. Fehér, acting as Agents,
+–
+the European Commission, by L. Havas and J. Hottiaux, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on June 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 9a of Directive 1999/62/EC of the European Parliament and of the Council of June on the charging of heavy goods vehicles for the use of certain infrastructures (OJ L 187, p. 42), as amended by Directive 2011/76/EU of the European Parliament and of the Council of September (OJ L 269, p. 1) (‘Directive 1999/62’).
+The request has been made in proceedings between Dooel Uvoz-Izvoz Skopje Link Logistic N&N (‘Link Logistic N&N’) and the Budapest Rendőrfőkapitánya (Chief of Police, Budapest, Hungary) concerning the imposition of a fine on Link Logistic N&N for using a section of motorway without paying the required toll.
+Legal context
+EU law
+Recitals 1, and of Directive 1999/read as follows:
+‘(1)
+The elimination of distortions of competition between transport undertakings in the Member States calls for both the harmonisation of levy systems and the establishment of fair mechanisms for charging infrastructure costs to hauliers;
+…
+(12)
+Existing distortions of competition cannot be eliminated solely by harmonising taxes or fuel excise duties; however, until technically and economically more appropriate forms of levy are in place, such distortions may be attenuated by the possibility of retaining or introducing tolls and/or user charges for the use of motorways; in addition Member States should be allowed to levy charges for the use of bridges, tunnels and mountain passes;
+…
+(15)
+The rates of user charges should be based on the duration of the use made of the infrastructure in question and be differentiated in relation to the costs caused by the road vehicles.’
+The first paragraph of Article of that directive provides:
+‘This Directive applies to vehicle taxes, tolls and user charges imposed on vehicles as defined in Article 2.’
+Article of the directive provides:
+‘For the purposes of this Directive:
+…
+(b)
+“toll” means a specified amount payable for a vehicle based on the distance travelled on a given infrastructure and on the type of the vehicle comprising an infrastructure charge and/or an external cost charge;
+…’
+Under Article 7(1) of the directive:
+‘Without prejudice to Article paragraph 1a, Member States may maintain or introduce tolls and/or user charges on the trans-European road network or on certain sections of that network, and on any other additional sections of their network of motorways which are not part of the trans-European road network under the conditions laid down in paragraphs 2, 3, and of this Article and in Articles 7a to 7k. This shall be without prejudice to the right of Member States, in compliance with the Treaty on the Functioning of the European Union, to apply tolls and/or user charges on other roads, provided that the imposition of tolls and/or user charges on such other roads does not discriminate against international traffic and does not result in the distortion of competition between operators.’
+Article 9a of the directive provides:
+‘Member States shall establish appropriate controls and determine the system of penalties applicable to infringements of the national provisions adopted under this Directive. They shall take all necessary measures to ensure that they are implemented. The penalties established shall be effective, proportionate and dissuasive.’
+Hungarian law
+The Law on road traffic
+Paragraph 20(1) of the Közúti közlekedésről szóló 1988. évi I. törvény (Law No I of on road traffic) (‘the Law on road traffic’) provides:
+‘A fine may be imposed on anyone who infringes the present law, specific legislation, or acts of Community law, relating to:
+…
+(m)
+distance-based tolls payable for the use of a toll section of road.
+…’
+Paragraph of the Law on road traffic provides:
+‘(1)   The person who operates the vehicle or, in the situation referred to in Paragraph 21/A(2), the person who has been entrusted with the use of the vehicle, shall be responsible for ensuring compliance, when operating or using the vehicle, with the provisions laid down in the specific laws, concerning:
+…
+(h)
+distance-based tolls payable for the use of a toll section of road.
+…
+(2)   In the event of an offence under subparagraph (1), the person who operates the vehicle or, in the situation referred to in Paragraph 21/A(2), the person who has been entrusted with the use of the vehicle, shall be ordered to pay an administrative fine of to [Hungarian] forints [(HUF) (approximately EUR to EUR 974)]. The amount of the fines applicable for offences under the different provisions shall be set by Government Decree. Where a single act constitutes an infringement of a number of rules and is examined in a single set of proceedings, the penalty shall be a fine the amount of which corresponds to the sum of the amounts of the fines laid down for each of those infringements.
+…
+(5)   The Government — taking account of subparagraph (1) — shall establish by decree the list of offences in respect of which an administrative fine may be imposed on the person operating the vehicle.’
+The Law on road tolls
+Paragraph 3(1) and (6) of the Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény (Law No LXVII of on distance-based tolls payable for the use of motorways, expressways and main roads) (‘the Law on road tolls’) provides:
+‘(1)   The use of toll sections of road by motor vehicles subject to tolls requires road use authorisation as specified in this law.
+…
+(6)   The operator of the motor vehicle … shall be responsible for ensuring compliance with the requirements in subparagraph (1) in respect of the motor vehicle that he operates.’
+Paragraph of the Law on road tolls provides:
+‘Save in the cases of exemption provided for in Paragraph 9, road use shall be unauthorised if:
+(a)
+prior to using a section of toll road, the person liable to pay the toll fails to purchase a route ticket for that section of toll road, and he does not have a valid agreement with the toll service provider for the submission of toll declarations under this law to the body responsible for collecting the toll and for toll payment,
+(b)
+the person liable to pay the toll uses a section of toll road under a toll or environment protection declaration for a lower toll or environment protection category than that which is applicable, or
+(c)
+the person liable to pay the toll holds, with respect to the motor vehicle concerned, a valid agreement to use a section of toll road with the toll service provider for the submission of toll declarations to the body responsible for collecting the toll and for toll payment under this law, but during the use of that section of the toll road, at least one of the conditions for the proper operation of the on-board unit, set out in a decree adopted pursuant to the powers conferred by this law, is not satisfied and, prior to using a section of toll road, the person liable to pay the toll failed to purchase a route ticket for that section of toll road.’
+Paragraph of that law provides:
+‘(1)   The amount of the fine shall be set in such a way as to encourage persons liable to pay the toll actually to pay the toll required.
+(2)   The revenue from the fines shall be paid into the central budget as a budgetary receipt entered under the heading referred to in Paragraph 14(4)(d) of the [Államháztartásról szóló 2011. évi CXCV. törvény (Law No CXCV of on the public finances)]. Payment of the fine shall be made in forints by transfer to the bank account defined by an act adopted under the present law.’
+Paragraph of the law provides:
+‘Unauthorised road use under this law shall qualify as an offence for which a fine may be imposed pursuant to the Law on road transport.’
+Paragraph 29/A(1), (4), (6) and (7) of the Law on road tolls, inserted by Law No LIV of with effect from November 2014, provides:
+‘(1)   In the circumstances set out in subparagraphs (2) to (4), applicants who present an application to the body designated to collect the toll (“the toll collector”) in accordance with the provisions of subparagraphs (6) and (7) (“the application”) shall be exempt under the provisions of this law from payment of the fine imposed for unauthorised road use under Paragraph 14(a) of this law, at a time between July and March 2014.
+…
+(4)   On the basis of an application that is well founded under subparagraph (7), the applicant shall be exempt from payment of the fine imposed for breach of Paragraph 14(a) where the fine was imposed on a section of a toll road or a road leading to it — within the period of validity of the route ticket and on no more than one occasion at a particular checkpoint for each direction of travel — which is functionally parallel, from the point of view of the road system, to the section in respect of which the vehicle in question had an authorisation to travel at the same period of time, and did not in fact use that authorisation during its period of validity.
+…
+(6)   In addition to what is provided for in subparagraphs (2) to (4), in order to obtain an exemption from the fine, before making the application, the applicant is required to have paid to the toll collector, in respect of each fine, a service charge in the sum of HUF [approximately EUR 39], including value added tax, and must show that this payment has been paid at the time that the application is lodged. …
+(7)   The application may be lodged within days following the entry into force of Law No LIV of amending [the Law on road tolls]. The toll collector, on the basis of the application lodged — where the content of the application complies with the requirements of this law and the information does not differ from the information held in the database of the toll collector — shall issue a certificate stating that the applicant may be exempt from payment of the fine since it satisfies the conditions under subparagraphs (2) and (4). Such a certificate shall not be issued where the data contained in the application does not accord with the information held in the database of the toll collector. The toll collector shall issue the certificate within days following receipt of the application. …’
+Government Decree No 410/Paragraph 1(1) of the Közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendelet (Government Decree No 410/on road traffic offences subject to an administrative fine, the amounts of the fines due in respect of road traffic offences, the use of fines and the conditions for cooperation in roadside checks) of December (‘Government Decree No 410/2007’) provides:
+‘In accordance with Paragraph 21(1) of [the Law on road traffic], in the event of an offence under the provisions in Paragraphs to 8/A, an administrative fine shall be imposed on the person responsible for operating the vehicle … in the amount laid down in this decree.’
+Paragraph 8/A of Government Decree No 410/states:
+‘(1)   In relation to Paragraph 21(1)(h) of [the Law on road traffic], in the event of an infringement of the provisions in Annex 9, the person responsible for operating the vehicle shall be required to pay a fine, the amount of which shall be determined according to the category of the vehicle.
+(2)   The person responsible for operating the vehicle shall not be penalised more than once by a fine referred to in subparagraph (1) for unauthorised road use with the same vehicle until eight hours have elapsed from the first finding of unauthorised road use with that vehicle.
+…’
+In accordance with Annex to that decree:
+‘A
+B
+ 
+ 
+ 
+BBB1. Infringement of the Law on road tolls
+Amount of the fine according to the category of the vehicle
+ 
+JJJ2. Infringement of Paragraph 14(a)
+3. Infringement of Paragraph 14(b)
+4. Infringement of Paragraph 14(c)
+000’
+Government Decree No 209/Paragraph 24(3) of the Az ED törvény végrehajtásáról szóló 209/(VI. 18.) Korm. rendelet (Government Decree No 209/implementing the Law on road tolls) of June (‘Government Decree No 209/2013’) states:
+‘A route ticket constitutes authorisation for a vehicle the parameters of which were specified at the time of purchase to use, without interruption, a specific route. The route ticket is non-transferable and neither the route nor the vehicle parameters specified at the time of purchase may be changed. A route ticket may be used for a journey begun on a day selected in advance, in accordance with the following provisions:
+(a)
+if the start of the validity period is the day the route ticket is purchased, the ticket shall be valid from the time of purchase until the end of the next day,
+(b)
+if it is purchased up to a maximum of days in advance, it shall be valid from the start of the specified calendar day until the end of the next day.’
+Paragraph 26(1)(a) of that decree provides:
+‘Before starting to use a section of toll road, the person liable to pay the toll shall ensure that he has a legal relationship with a toll service provider under which he is actually capable of using the [electronic toll] system operated by the toll collector, and shall thereby ensure that a route ticket is purchased that corresponds to the road actually used.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+On October 2015, at 19.34, a heavy goods vehicle in category Junder Government Decree No 410/operated by Link Logistic N&N, an undertaking registered in the former Yugoslav Republic of Macedonia, was travelling on a section of toll road in Hungary without a valid toll document and without the distance-based charge for that section having been paid.
+On the same day, at 19.52, the driver of the vehicle, after paying on his own initiative the charge of HUF (approximately EUR 63) due for the whole of the toll section of road he had intended to use, continued his journey on that section.
+The Vas Megye Rendőrfőkapitánya (Chief of Police, County of Vas, Hungary) nonetheless, by decision of January 2016, imposed an administrative fine of HUF (approximately EUR 532) on Link Logistic N&N, pursuant to Paragraphs to 21/B of the Law on road traffic and Paragraph 1(1) and Paragraph 8/A of Government Decree No 410/2007, on the ground that, contrary to Paragraph 14(a) of the Law on road tolls, the vehicle in question had travelled without the charge due having been paid in advance.
+The Chief of Police, Budapest confirmed that decision on the ground that, as regards the amount of the fine, the national legislation applicable leaves the administrative authority no margin of discretion. The authority is not allowed to take considerations of fairness into account and can only base its decision on the factors provided for by law, which do not include the circumstances relied on by Link Logistic N&N, such as the a posteriori purchase after a short lapse of time of a route ticket for the whole of the toll section, or the circumstances which may have prevented the purchase of a route ticket before the use of the toll section of road.
+Link Logistic N&N brought proceedings against the decision of the Chief of Police, Budapest, before the referring court, the Szombathelyi Közigazgatási és Munkaügyi Bíróság (Administrative and Labour Court, Szombathely, Hungary), arguing in particular that the Hungarian legislation is not consistent with EU law. It considers that, in so far as it had to pay a fine in an amount equal to that imposed on persons or undertakings who do not buy a route ticket at all, the amount is excessive.
+The referring court notes that in the cases in which judgment was given on March 2017, Euro-Team and Spirál-Gép (C‑497/and C‑498/15, EU:C:2017:229), the facts of which were similar to those of the main proceedings, the Court interpreted the requirement of proportionality in Article 9a of Directive 1999/and found that the amount of the fines imposed by the Hungarian legislation did not satisfy that requirement.
+The referring court, which has to adjudicate in the main proceedings, first asks whether that provision is directly applicable.
+Next, it considers that such a requirement is not unlimited. While the primacy of EU law and the Member States’ duty of loyal cooperation may mean that national law has to be disapplied where it is contrary to a provision of a directive that is not directly applicable, it is not necessary, and sometimes not even possible, to supplement national law substantively by means of a legal interpretation.
+The referring court therefore considers that an interpretation of national law in conformity with a directive cannot take the form of veiled legislative activity appropriating the powers of the national legislature and thus exceeding the powers of the bodies responsible for the application of the law.
+According to the referring court, it is not possible in the present case — without action by the national legislature — in an interpretation of national law in conformity with Directive 1999/62, to supplement Paragraph 21(2) of the Law on road traffic by inserting a requirement of proportionality, in so far as that provision refers to a decree for the determination of the actual amount of the fines and the Hungarian legislation to be applied and interpreted does not contain that requirement of proportionality.
+The referring court observes that the question whether, without the national legislature introducing a requirement of proportionality in national law, that law can be interpreted in conformity with EU law divides the experts and gives rise to differing opinions.
+In those circumstances, the Szombathelyi Közigazgatási és Munkaügyi Bíróság (Administrative and Labour Court, Szombathely) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Is the requirement of proportionality laid down in Article 9a of [Directive 1999/62] and interpreted by the Court of Justice of the European Union in its judgment of March in [Euro-Team and Spirál-Gép (C‑497/and C‑498/15, EU:C:2017:229)], a directly applicable provision of the directive?
+(2)
+If the requirement of proportionality laid down in [that provision as] interpreted by the Court of Justice of the European Union in its judgment of March in [Euro-Team and Spirál-Gép (C‑497/and C‑498/15, EU:C:2017:229)] is not a directly applicable provision of the directive:
+Does the interpretation of national law in conformity with EU law permit and require the court and the administrative authority of the Member State to supplement — in the absence of legislative action at national level — the relevant Hungarian legislation in the present proceedings with the substantive criteria of the requirement of proportionality laid down in the judgment of the Court of Justice of the European Union of March in [Euro-Team and Spirál-Gép (C‑497/and C‑498/15, EU:C:2017:229)]?’
+Consideration of the questions referred
+By its questions, which should be considered together, the referring court essentially asks whether the requirement of proportionality of the penalties determined by the Member States for infringements of the national provisions adopted under Directive 1999/62, which is laid down in Article 9a of the directive, is a directly applicable provision and, if not, whether the courts and administrative authorities of the Member State concerned may or must, with a view to an interpretation of national law in conformity with EU law, without action by the national legislature, supplement the national legislation concerned by adding substantive criteria defined by the case-law of the Court.
+Admissibility
+The Hungarian Government contests the admissibility of the questions, arguing with respect to the first question that, as the Court’s settled case-law can easily be applied in the main proceedings, an answer to that question is not necessary for the outcome of the main proceedings, and with respect to the second question that it is apparent from the referring court’s observations that it expects the Court to indicate to it how it should interpret national law in the main proceedings in a manner consistent with EU law, which is within the sole jurisdiction of the national court.
+As regards the first objection of inadmissibility, it must be recalled that, in the context of the cooperation between the Court and the national courts provided for in Article TFEU, it is solely for the national court, before which the dispute has been brought and which must assume responsibility for the subsequent judicial decision, to determine in the light of the particular circumstances of the case both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is, in principle, bound to give a ruling (see, inter alia, judgment of June 2018, Wirtschaftsakademie Schleswig-Holstein, C‑210/16, EU:C:2018:388, paragraph and the case-law cited).
+It follows that questions relating to EU law enjoy a presumption of relevance. The Court may refuse to rule on a question referred for a preliminary ruling by a national court only where it is quite obvious that the interpretation or assessment of the validity of a provision of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (see, inter alia, judgment of May 2018, Zheng, C‑190/17, EU:C:2018:357, paragraph 21).
+That is not the case here. First, the order for reference sets out the factual and legal context in sufficient detail to enable the scope of the questions referred to be determined. Next, the order for reference sets out clearly the referring court’s reasons for being uncertain as to the interpretation of Article 9a of Directive 1999/62, in particular the requirement of proportionality laid down in that article, as interpreted by the Court in its judgment of March 2017, Euro-Team and Spirál-Gép (C‑497/and C‑498/15, EU:C:2017:229). Finally, the interpretation sought is connected with the facts and purpose of the main action, and the questions asked are not hypothetical, since the Court’s answer will directly influence the fine which may or may not be imposed on the applicant in the main proceedings.
+As regard the second objection of inadmissibility, it is indeed settled case-law that it is not for the Court to rule on the interpretation of provisions of national law, that being within the exclusive jurisdiction of the national courts (judgment of June 2018, Grupo Norte Facility, C‑574/16, EU:C:2018:390, paragraph 32).
+However, the questions as formulated by the referring court concern the interpretation not of Hungarian law but of EU law, more particularly the requirement of proportionality as laid down in Article 9a of Directive 1999/and the consequences flowing from the judgment of March 2017, Euro-Team and Spirál-Gép (C‑497/and C‑498/15, EU:C:2017:229), which is within the jurisdiction of the Court.
+In the light of the above, the questions referred must be regarded as admissible.
+Substance
+Preliminary observations
+The principle of proportionality is one of the general principles of EU law underlying the constitutional traditions common to the Member States that must be observed by national legislation which falls within the scope of EU law or implements that law (see, inter alia, order of June 2014, Pańczyk,C‑28/14, not published, EU:C:2014:2003, paragraph 26). The principle of proportionality requires the Member States to adopt measures that are appropriate for attaining the objectives pursued and do not go beyond what is necessary for attaining them (see, to that effect, judgment of April 2018, Egenberger, C‑414/16, EU:C:2018:257, paragraph and the case-law cited).
+That principle, which is also guaranteed by Article 49(3) of the Charter of Fundamental Rights of the European Union (‘the Charter’), which provides that the severity of penalties must not be disproportionate to the criminal offence, is binding on Member States when they are implementing EU law, in accordance with Article 51(1) of the Charter.
+The severity of a penalty must thus correspond to the seriousness of the offence concerned, that requirement following both from Article 52(1) of the Charter and from the principle of proportionality of penalties in Article 49(3) of the Charter (see, to that effect, judgment of March 2018, Garlsson Real Estate and Others, C‑537/16, EU:C:2018:193, paragraph 56).
+It follows from the Explanations relating to the Charter of Fundamental Rights (OJ C 303, p. 17) that, under Article 52(3) of the Charter, in so far as the right guaranteed by Article of the Charter also corresponds to a right guaranteed by the European Convention for the Protection of Human Rights and Fundamental Freedoms signed at Rome on November (‘the ECHR’), its meaning and scope are the same as those laid down by the ECHR. Consequently, the requirements of the European Court of Human Rights concerning the proportionality of penalties apply to a case such as that in the main proceedings by the combined effect of Article 17(1), Article 51(1) and Article 52(1) and (3) of the Charter.
+Moreover, to ascertain whether there has been a violation of the right to property as enshrined in Article of Protocol No to the Convention for the Protection of Human Rights and Fundamental Freedoms signed at Paris on March 1952, which provides that every natural or legal person is entitled to the peaceful enjoyment of his possessions, the European Court of Human Rights assesses in the light of the circumstances of the case whether the financial penalties, criminal or administrative, mean an excessive burden or deprivation of property for the person subject to the penalties, so as to render the penalties disproportionate (see, inter alia, ECtHR, June 2013, S. C. Complex Herta Import Export S.R.L. Lipova v. Romania, CE:ECHR:2013:0618JUD001711804, § 38, and ECtHR, March 2014, Grande Stevens and Others v. Italy, CE:ECHR:2014:0304JUD001864010, § 199).
+It follows that the principle of proportionality requires, first, that the penalty imposed corresponds to the seriousness of the offence and, second, that the individual circumstances of the particular case are taken into account in determining the penalty and fixing the amount of the fine.
+The questions referred must be answered in the light of those considerations.
+Questions and It should be recalled that, according to settled case-law of the Court, whenever the provisions of a directive appear, so far as their subject matter is concerned, to be unconditional and sufficiently precise, they may be relied on before the national courts by individuals against a Member State where the State has failed to transpose the directive into national law within the period prescribed or where it has failed to transpose it correctly (judgment of February 2017, British Film Institute, C‑592/15, EU:C:2017:117, paragraph 13).
+In this respect, the nature, general scheme and wording of the provision in question must be considered (judgment of December 1974, van Duyn, 41/74, EU:C:1974:133, paragraph 12). That is the case in particular where the provision of the directive concerned lays down an obligation with no reservations or conditions which by its nature does not require the adoption of any further measure either of the EU institutions or of the Member States and leaves the Member States no discretionary power as regards its implementation (see, inter alia, judgments of December 1974, van Duyn, 41/74, EU:C:1974:133, paragraphs and 13, and of December 2010, Gavieiro Gavieiro and Iglesias Torres, C‑444/and C‑456/09, EU:C:2010:819, paragraph 79).
+It must therefore be examined in the present case whether the requirement of proportionality in Article 9a of Directive 1999/appears, so far as its subject matter is concerned, to be unconditional and sufficiently precise to be relied on by an individual against a Member State before the national authorities of that State.
+Under that provision, the Member States are to determine the system of penalties applicable to infringements of the national provisions adopted under the directive, and those penalties must be effective, proportionate and dissuasive.
+Consequently, for the principle of proportionality to be implemented in connection with Directive 1999/62, the Member States are required to adopt the legal measures needed in accordance with their national law, since Article 9a of the directive lays down an obligation which by its nature necessitates the intervention of a measure of those Member States, which have a wide margin of discretion when fulfilling that obligation.
+It should be observed in this connection that the directive does not contain more precise rules with regard to the establishment of those national penalties and, in particular, that it does not establish any express criterion for the assessment of the proportionality of such penalties (judgment of March 2017, Euro-Team and Spirál-Gép, C‑497/and C‑498/15, EU:C:2017:229, paragraph 38).
+Therefore, as it necessitates the intervention of the Member States and leaves them a wide margin of discretion, Article 9a of Directive 1999/cannot be regarded, so far as its subject matter is concerned, as unconditional and sufficiently precise, which rules out its having direct effect.
+A contrary interpretation would lead in practice to the removal of the discretionary power conferred on the national legislatures alone, for whom it is to design an appropriate system of penalties within the framework defined in Article 9a of Directive 1999/62.
+It follows that, in circumstances such as those of the main proceedings, the requirement of proportionality of penalties in Article 9a of Directive 1999/cannot be interpreted as requiring the national court to take the place of the national legislature.
+Consequently, Article 9a of Directive 1999/does not have direct effect and does not give individuals the right to rely on it before the national authorities in a situation such as that at issue in the main proceedings.
+It should be recalled, however, that according to settled case-law the Member States’ obligation arising from a directive to achieve the result envisaged by the directive and their duty under Article 4(3) TEU and Article TFEU to take all appropriate measures, whether general or particular, to ensure the fulfilment of that obligation are binding on all the authorities of the Member States including, for matters within their jurisdiction, the courts (see, inter alia, judgments of September 2016, Martínez Andrés and Castrejana López, C‑184/and C‑197/15, EU:C:2016:680, paragraph and the case-law cited, and of January 2018, Pantuso and Others, C‑616/and C‑617/16, EU:C:2018:32, paragraph 42).
+To fulfil that obligation, the principle of interpretation in conformity with EU law requires the national authorities to do everything within their power, taking the whole body of domestic law into consideration and applying the interpretative methods recognised by domestic law, with a view to ensuring that EU law is fully effective and to achieving an outcome consistent with the objective pursued by it (see, inter alia, judgments of July 2016, Pöpperl, C‑187/15, EU:C:2016:550, paragraph 43, and of June 2018, Crespo Rey, C‑2/17, EU:C:2018:511, paragraph and the case-law cited).
+However, that principle of interpretation of national law in conformity with EU law has certain limits. Thus the obligation for a national court to refer to EU law when interpreting and applying the relevant rules of domestic law is limited by general principles of law and cannot serve as the basis for an interpretation of national law that is contra legem (see, inter alia, judgment of July 2016, Pöpperl, C‑187/15, EU:C:2016:550, paragraph 44).
+Subject to verification by the referring court, it appears from the documents before the Court that an interpretation of national law in conformity with Article 9a of Directive 1999/might produce an interpretation contra legem, in that the national court would have to reduce the fine imposed on the applicant in the main proceedings even though the Hungarian legislation on road traffic offences specifies the amounts of fines precisely without providing for the possibility of reducing them or requiring them to be consistent with the principle of proportionality.
+However, it is also settled case-law that if such an interpretation is not possible the national court must fully apply EU law and protect the rights which EU law confers on individuals, disapplying if necessary any provision in so far as its application would, in the circumstances of the case, lead to a result contrary to EU law (judgment of July 2016, Pöpperl, C‑187/15, EU:C:2016:550, paragraph and the case-law cited).
+In the light of all the above considerations, the answer to the questions is, first, that the requirement of proportionality in Article 9a of Directive 1999/cannot be regarded as having direct effect and, second, that the national court must, by virtue of its duty to take all appropriate measures, whether general or particular, to ensure the implementation of that provision, interpret national law in conformity with that provision or, if such an interpretation is not possible, disapply any national provision in so far as its application would, in the circumstances of the case, lead to a result contrary to EU law.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+The requirement of proportionality in Article 9a of Directive 1999/62/EC of the European Parliament and of the Council of June on the charging of heavy goods vehicles for the use of certain infrastructures, as amended by Directive 2011/76/EU of the European Parliament and of the Council of September 2011, cannot be regarded as having direct effect.
+ 
+The national court must, by virtue of its duty to take all appropriate measures, whether general or particular, to ensure the implementation of that provision, interpret national law in conformity with that provision or, if such an interpretation is not possible, disapply any national provision in so far as its application would, in the circumstances of the case, lead to a result contrary to EU law.
+ 
+[Signatures]
+(
+*)	Language of the case: Hungarian.
+Top  

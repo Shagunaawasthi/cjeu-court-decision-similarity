@@ -1,0 +1,242 @@
+
+ARRÊT DE LA COUR (troisième chambre)
+novembre (
+*)
+« Renvoi préjudiciel – Adhésion des nouveaux États membres – République de Croatie – Mesures transitoires – Libre prestation des services – Directive 96/71/CE – Détachement de travailleurs – Détachement de ressortissants croates et d’États tiers en Autriche par l’intermédiaire d’une entreprise établie en Italie »
+Dans l’affaire C‑18/17,
+ayant pour objet une demande de décision préjudicielle au titre de l’article TFUE, introduite par le Verwaltungsgerichtshof (Cour administrative, Autriche), par décision du décembre 2016, parvenue à la Cour le janvier 2017, dans la procédure
+Danieli & C. Officine Meccaniche SpA,
+Dragan Panic,
+Ivan Arnautov,
+Jakov Mandic,
+Miroslav Brnjac,
+Nicolai Dorassevitch,
+Alen Mihovic
+contre
+Regionale Geschäftsstelle Leoben des Arbeitsmarktservice,
+LA COUR (troisième chambre),
+composée de M. M. Vilaras, président de la quatrième chambre, faisant fonction de président de la troisième chambre, MM. J. Malenovský, L. Bay Larsen (rapporteur), M. Safjan et D. Šváby, juges,
+avocat général : M. N. Wahl,
+greffier : Mme C. Strömholm, administrateur,
+vu la procédure écrite et à la suite de l’audience du février 2018,
+considérant les observations présentées :
+–
+pour Danieli & C. Officine Meccaniche SpA ainsi que pour MM. Panic, Arnautov, Mandic, Brnjac, Dorassevitch et Mihovic, par M. E. Oberhammer, Rechtsanwalt,
+–
+pour le gouvernement autrichien, par M. G. Hesse, en qualité d’agent,
+–
+pour le gouvernement allemand, par MM. T. Henze et D. Klebs, en qualité d’agents,
+–
+pour le gouvernement néerlandais, par Mme M. Bulterman et M. J. Langer, en qualité d’agents,
+–
+pour la Commission européenne, par MM. M. Kellerbauer et L. Malferrari, en qualité d’agents,
+ayant entendu l’avocat général en ses conclusions à l’audience du avril 2018,
+rend le présent
+Arrêt
+La demande de décision préjudicielle porte sur l’interprétation des articles et TFUE, de l’annexe V, chapitre 2, paragraphes et 12, de l’acte relatif aux conditions d’adhésion à l’Union européenne de la République de Croatie et aux adaptations du traité sur l’Union européenne, du traité sur le fonctionnement de l’Union européenne et du traité instituant la Communauté européenne de l’énergie atomique (JO 2012, L 112, p. 21, ci-après l’« acte d’adhésion de la Croatie ») ainsi que de la directive 96/71/CE du Parlement européen et du Conseil, du décembre 1996, concernant le détachement de travailleurs effectué dans le cadre d’une prestation de services (JO 1997, L 18, p. 1).
+Cette demande a été présentée dans le cadre d’un litige opposant Danieli & C. Officine Meccaniche SpA (ci-après « Danieli »), société italienne, et six travailleurs de nationnalité croate, russe et biélorusse à la Regionale Geschäftsstelle Leoben des Arbeitsmarktservice (bureau régional du service de l’emploi de Leoben, Autriche), une autorité relevant du ministre fédéral du Travail, des Affaires sociales et de la Protection des consommateurs, au sujet du détachement de ces travailleurs.
+Le cadre juridique
+Le droit de l’Union
+L’acte d’adhésion de la Croatie
+L’article de l’acte d’adhésion de la Croatie énonce :
+« Les mesures énumérées dans la liste figurant à l’annexe V s’appliquent à la Croatie dans les conditions définies par ladite annexe ».
+L’annexe V de l’acte d’adhésion de la Croatie est intitulée « Liste visée à l’article de l’acte d’adhésion : mesures transitoires » et le chapitre de cette annexe, intitulé « Libre circulation des personnes », prévoit, à ses paragraphes 1, et :
+« 1.   L’article et l’article 56, premier alinéa, [TFUE] ne s’appliquent pleinement que sous réserve des dispositions transitoires prévues aux paragraphes à pour ce qui est de la libre circulation des travailleurs et de la libre prestation des services impliquant une circulation temporaire de travailleurs, telle que définie à l’article 1er de la directive 96/71/CE, entre la Croatie, d’une part, et chacun des États membres actuels, d’autre part.
+2.   Par dérogation aux articles 1er à du règlement (UE) no 492/[du Parlement européen et du Conseil, du avril 2011, relatif à la libre circulation des travailleurs à l’intérieur de l’Union (JO 2011, L 141, p. 1),] et jusqu’à la fin d’une période de deux ans suivant la date d’adhésion, les États membres actuels appliqueront des mesures nationales, ou des mesures résultant d’accords bilatéraux, qui réglementent l’accès des ressortissants croates à leur marché du travail. Les États membres actuels peuvent continuer à appliquer ces mesures jusqu’à la fin de la période de cinq ans suivant la date d’adhésion.
+[...]
+12.   Pour faire face à des perturbations graves ou des menaces de perturbations graves dans certains secteurs sensibles des services sur le marché du travail en Allemagne et en Autriche qui pourraient surgir dans certaines régions à la suite d’une prestation de services transnationale, telle que définie à l’article 1er de la directive 96/71/CE, et aussi longtemps qu’elles appliquent à la libre circulation des travailleurs croates, en vertu des dispositions transitoires précitées, des mesures nationales ou des mesures résultant d’accords bilatéraux, l’Allemagne et l’Autriche peuvent, après en avoir averti la Commission, déroger à l’article 56, premier alinéa, [TFUE] en vue de limiter, dans le contexte de la prestation de services par des entreprises établies en Croatie, la circulation temporaire de travailleurs dont le droit d’accepter du travail en Allemagne et en Autriche est soumis à des mesures nationales.
+La liste des secteurs des services susceptibles d’être concernés par cette dérogation est la suivante :
+[...]
+– en Autriche :
+Secteur Code NACE (*), sauf autre indication
+[...]
+Construction et branches connexes
+45.à 45.4,
+Activités énumérées à l’annexe de la directive 96/71/CE
+[...]
+(*) NACE : voir R : Règlement (CEE) no 3037/du Conseil du octobre relatif à la nomenclature statistique des activités économiques dans la Communauté européenne [(JO 1990, L 293, p. 1)].
+[...]
+L’application du présent paragraphe n’a pas pour effet de créer, pour la circulation temporaire des travailleurs dans le contexte de la prestation de services transnationale entre l’Allemagne ou l’Autriche et la Croatie, des conditions qui soient plus restrictives que celles existant à la date de la signature du traité d’adhésion. »
+Les codes NACE 45.à 45.sont les suivants :
+« –Construction
+ 
+45.Préparation de sites
+ 
+ 
+45.Démolition d’immeubles et terrassements
+ 
+ 
+45.Forages et sondages
+ 
+45.Construction d’ouvrages complets ou de parties d’ouvrages ; génie civil
+ 
+ 
+45.Travaux de construction y compris ouvrages d’art
+ 
+ 
+45.Réalisation de couvertures et de charpentes de bâtiments
+ 
+ 
+45.Construction d’autoroutes, de routes, aérodromes, installations sportives
+ 
+ 
+45.Génie hydraulique
+ 
+ 
+45.Autres travaux spécialisés de construction
+ 
+45.Travaux d’installation
+ 
+ 
+45.Travaux d’installation électrique
+ 
+ 
+45.Activités d’isolation
+ 
+ 
+45.Plomberie
+ 
+ 
+45.Autres travaux d’installation
+ 
+45.Travaux de finition
+ 
+ 
+45.Plâtrerie
+ 
+ 
+45.Menuiserie intérieure en bois
+ 
+ 
+45.Revêtement des sols et des murs
+ 
+ 
+45.Peinture et vitrerie
+ 
+ 
+45.Autres travaux de finition »
+La directive 96/L’article 1er de la directive 96/dispose :
+« 1.   La présente directive s’applique aux entreprises établies dans un État membre qui, dans le cadre d’une prestation de services transnationale, détachent des travailleurs, conformément au paragraphe 3, sur le territoire d’un État membre.
+[...]
+3.   La présente directive s’applique dans la mesure où les entreprises visées au paragraphe prennent l’une des mesures transnationales suivantes :
+a)
+détacher un travailleur, pour leur compte et sous leur direction, sur le territoire d’un État membre, dans le cadre d’un contrat conclu entre l’entreprise d’envoi et le destinataire de la prestation de services opérant dans cet État membre, pour autant qu’il existe une relation de travail entre l’entreprise d’envoi et le travailleur pendant la période de détachement
+ou
+b)
+détacher un travailleur sur le territoire d’un État membre, dans un établissement ou dans une entreprise appartenant au groupe, pour autant qu’il existe une relation de travail entre l’entreprise d’envoi et le travailleur pendant la période de détachement
+ou
+c)
+détacher, en tant qu’entreprise de travail intérimaire ou en tant qu’entreprise qui met un travailleur à disposition, un travailleur à une entreprise utilisatrice établie ou exerçant son activité sur le territoire d’un État membre, pour autant qu’il existe une relation de travail entre l’entreprise de travail intérimaire ou l’entreprise qui met un travailleur à disposition et le travailleur pendant la période de détachement.
+4.   Les entreprises dans un État non membre ne peuvent pas obtenir un traitement plus favorable que les entreprises établies dans un État membre. »
+L’annexe de la directive 96/prévoit :
+« Les activités visées à l’article paragraphe deuxième tiret englobent toutes les activités dans le domaine de la construction qui visent la réalisation, la remise en état, l’entretien, la modification ou l’élimination de constructions, et notamment les travaux suivants :
+1)
+excavation
+2)
+terrassement
+3)
+construction
+4)
+montage et démontage d’éléments préfabriqués
+5)
+aménagement ou équipement
+6)
+transformation
+7)
+rénovation
+8)
+réparation
+9)
+démantèlement
+10)
+démolition
+11)
+maintenance
+12)
+entretien – travaux de peinture et de nettoyage
+13)
+assainissement. »
+Le droit autrichien
+L’article de l’Ausländerbeschäftigungsgesetz (loi sur l’emploi des étrangers, BGBl. 218/1975), dans sa version applicable au litige au principal (BGBl. I, 72/2013, ci-après l’« AuslBG »), est libellé comme suit :
+« Étrangers détachés par une entreprise
+Conditions d’emploi ; autorisation de détachement
+(1)   Les étrangers qui travaillent en tant que salariés d’un employeur étranger n’ayant pas de siège sur le territoire national doivent, sous réserve de dispositions contraires figurant ci-dessous, disposer d’une autorisation de travail. Si ces travaux ne durent pas plus de six mois, les étrangers doivent disposer d’une autorisation de détachement qui peut être délivrée pour une période maximale de quatre mois.
+[...]
+(12)   Les étrangers qui sont détachés en Autriche par une entreprise ayant son siège dans un autre État membre de l’Espace économique européen [(EEE)] pour effectuer un travail à caractère temporaire n’ont besoin ni d’autorisation de travail ni d’autorisation de détachement lorsque ceux-ci
+1.
+sont autorisés en bonne et due forme, pour une période allant au‑delà de la durée du détachement en Autriche, à exercer une activité dans l’État du siège et qu’ils sont employés de manière légale par l’entreprise qui les détache, et lorsque
+2.
+les conditions de salaire et de travail prévues par le droit autrichien, au sens de l’article 7b, paragraphe 1, points à 3, et paragraphe 2, de l’Arbeitsvertragsrechts-Anpassungsgesetz [(loi portant adaptation du droit des contrats de travail, BGBl. 459/1993)] ainsi que les dispositions applicables en matière de sécurité sociale sont respectées.
+Le service central de coordination, du ministère fédéral des Finances, chargé du contrôle du travail illégal en application de [l’AuslBG] et de la loi portant adaptation du droit des contrats de travail transmet sans délai la déclaration d’emploi d’étrangers détachés auprès d’une entreprise au bureau régional compétent du service de l’emploi, conformément à l’article 7b, paragraphes et 4, de la loi portant adaptation du droit des contrats de travail. Dans un délai de deux semaines à compter de la réception de la déclaration, le bureau régional du service de l’emploi confirme à l’entreprise concernée et au cocontractant bénéficiaire des prestations de travail que les conditions requises sont remplies (confirmation du détachement dans le cadre de l’Union) ou, dans le cas contraire, interdit le détachement. Sans préjudice de l’obligation de déclaration prévue à l’article 7b, paragraphes et 4, de la loi portant adaptation du droit des contrats de travail, l’emploi peut débuter, si les conditions sont remplies, même en l’absence de confirmation du détachement dans le cadre de l’Union. »
+L’article 32a de l’AuslBG prévoit :
+« Dispositions transitoires relatives à l’élargissement de l’Union européenne
+(1)   Les ressortissants des États membres de l’Union européenne qui, en date du 1er janvier 2007, ont adhéré à l’Union européenne conformément au traité [entre le Royaume de Belgique, la République tchèque, la Royaume de Danemark, la République fédérale d’Allemagne, la République d’Estonie, la République hellénique, le Royaume d’Espagne, la République française, l’Irlande, la République italienne, la République de Chypre, la République de Lettonie, la République de Lituanie, le Grand-Duché de Luxembourg, la République de Hongrie, la République de Malte, le Royaume des Pays-Bas, la République d’Autriche, la République de Pologne, la République portugaise, la République de Slovénie, la République slovaque, la République de Finlande, le Royaume de Suède et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (États membres de l’Union européenne) et la République de Bulgarie et la Roumanie,] relatif à l’adhésion de la République de Bulgarie et de la Roumanie à l’Union européenne [(JO 2005, L 157, p. 11)], ne bénéficient pas de la liberté de circulation des travailleurs, au sens de l’article 1er, paragraphe 2, point 1, sauf s’il sont des membres de la famille d’un ressortissant d’un autre État membre de l’EEE bénéficiant d’un droit de séjour en vertu du droit communautaire, conformément à l’article 52, paragraphe 1, points à 3, du Niederlassungs- und Aufenthaltsgesetz (loi relative à l’établissement et au séjour).
+[...]
+(11)   En vertu du traité [entre le Royaume de Belgique, la République de Bulgarie, la République tchèque, la Royaume de Danemark, la République fédérale d’Allemagne, la République d’Estonie, l’Irlande, la République hellénique, le Royaume d’Espagne, la République française, la République italienne, la République de Chypre, la République de Lettonie, la République de Lituanie, le Grand-Duché de Luxembourg, la République de Hongrie, la République de Malte, le Royaume des Pays-Bas, La République d’Autriche, la République de Pologne, la République portugaise, la Roumanie, la République de Slovénie, la République slovaque, la République de Finlande, le Royaume de Suède et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (États membres de l’Union européenne) et la République de Croatie] relatif à l’adhésion de la République de Croatie à l’Union européenne [(JO 2012, L 112, p. 10)], les paragraphes à sont, à compter de l’adhésion de la République de Croatie à l’Union, applicables mutatis mutandis aux ressortissants de la République de Croatie et aux employeurs ayant leur siège en Croatie. »
+Le litige au principal et les questions préjudicielles
+Danieli a accepté la commande d’une entreprise autrichienne portant sur la construction d’un laminoir à fil en Autriche. Cette société italienne a souhaité recourir, notamment, à quatre travailleurs croates ainsi qu’à un travailleur russe et à un travailleur biélorusse pour l’exécution de cette commande.
+Ladite société faisait partie d’un groupe de sociétés auquel appartenait également une société croate, Danieli Systec d.o.o., employeur de ces travailleurs croates ainsi qu’une autre société italienne, Danieli Automation SpA, employeur desdits travailleurs russe et biélorusse.
+Lesdits travailleurs croates étaient mis à la disposition de Danieli, mais restaient employés par cette société croate et assurés sociaux en Croatie. Quant aux travailleurs russe et biélorusse, ils étaient mis à la disposition de Danieli, tout en restant employés par Danieli Automation, et demeuraient assurés sociaux en Italie pendant la durée de leur mission en Autriche.
+Le janvier 2016, Danieli a, en vertu, notamment, de l’article 18, paragraphe 12, de l’AuslBG, notifié les données relatives à ces travailleurs au Zentrale Koordinationsstelle für die Kontrolle illegaler Beschäftigung (service central de la coordination pour le contrôle du travail illégal, Autriche) et a introduit des demandes de confirmation du détachement de ceux-ci dans le cadre de l’Union.
+Dans un courrier ultérieur, Danieli a indiqué qu’elle n’était pas l’employeur de cette main-d’œuvre, mais que celle-ci était mise à sa disposition par les sociétés croate et italienne susmentionnées, aux fins de la réalisation du projet de construction d’un laminoir à fil en Autriche.
+Le bureau régional du service de l’emploi de Leoben a rejeté les demandes de confirmation dudit détachement conformément à l’article 18, paragraphe 12, de l’AuslBG et il n’a pas autorisé le détachement des travailleurs concernés.
+Les recours introduits contre les décisions rejetant ces demandes ont été rejetés par le Bundesverwaltungsgericht (tribunal administratif fédéral, Autriche). Ce dernier a relevé que l’article 1er, paragraphe 3, sous a), de la directive 96/exige une « relation de travail entre l’entreprise d’envoi et le travailleur pendant la période de détachement ». Or, une telle relation ferait défaut en l’occurrence, puisque lesdits travailleurs ne seraient pas employés par Danieli.
+Danieli et les travailleurs concernés ont saisi le Verwaltungsgerichtshof (Cour administrative, Autriche) de recours en Revision contre les jugements du Bundesverwaltungsgericht (tribunal administratif fédéral).
+Dans ces conditions, le Verwaltungsgerichtshof (Cour administrative) a décidé de surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes :
+« 1)
+Convient-il d’interpréter les dispositions des articles et TFUE, de la directive [96/71], ainsi que des paragraphes et du chapitre 2[, intitulé “Libre circulation des personnes”,] de l’annexe V de [l’acte d’adhésion de la Croatie], en ce sens que [la République d]’Autriche est en droit de restreindre, par l’exigence d’une autorisation de travail, le détachement de travailleurs qui sont employés par une société ayant son siège en Croatie, lorsque le détachement de ces travailleurs intervient par leur mise à disposition d’une société établie en Italie en vue de la fourniture d’une prestation de services en Autriche par la société italienne et que l’activité des travailleurs croates pour la société italienne dans le cadre de la construction d’un laminoir à fil en Autriche se limite à la fourniture de cette prestation de services en Autriche et qu’il n’y a pas de relation de travail entre ces travailleurs et la société italienne ?
+2)
+Convient-il d’interpréter les articles et TFUE et la directive [96/71] en ce sens que [la République d’Autriche] est en droit de restreindre, par l’exigence d’une autorisation de travail, le détachement de travailleurs russe et biélorusse, employés par une société ayant son siège en Italie, lorsque le détachement de ces travailleurs intervient par leur mise à disposition d’une deuxième société établie en Italie en vue de la fourniture d’une prestation de services en Autriche par la deuxième société et que l’activité des travailleurs russe et biélorusse pour la deuxième société se limite à la fourniture de la prestation de services de cette société en Autriche et qu’il n’y a pas de relation de travail entre ces travailleurs et la deuxième société ? »
+Sur les questions préjudicielles
+Sur la première question
+Par sa première question, la juridiction de renvoi demande, en substance, si les articles et TFUE, l’annexe V, chapitre 2, paragraphes et 12, de l’acte d’adhésion de la Croatie ainsi que la directive 96/doivent être interprétés en ce sens que la République d’Autriche est en droit de restreindre, par l’exigence d’une autorisation de travail, le détachement de travailleurs croates qui sont employés par une entreprise ayant son siège en Croatie, lorsque le détachement de ces travailleurs intervient par leur mise à disposition d’une entreprise établie en Italie, en vue de la fourniture par ladite entreprise italienne d’une prestation de services en Autriche et en l’absence d’une relation de travail entre ces travailleurs et cette dernière entreprise.
+À titre liminaire, il importe de rappeler que, dans la situation qui sous‑tend la première question, Danieli, une entreprise italienne, a demandé au bureau régional du service de l’emploi compétent la confirmation du détachement sans autorisation de travail de quatre travailleurs croates mis à sa disposition par une entreprise croate, qu’elle a l’intention d’affecter à la construction d’un laminoir à fil en Autriche. Cette demande a été rejetée au motif que, pour ces travailleurs, une autorisation de travail est exigée.
+La question qui se pose est celle de savoir si le droit de l’Union s’oppose à l’exigence d’obtenir une telle autorisation de travail.
+À cet égard, il convient de relever qu’une entreprise telle que Danieli, qui est établie dans un État membre, en l’occurrence la République italienne, et qui a pour mission de construire, contre rémunération, un laminoir à fil pour une entreprise établie dans un autre État membre, à savoir la République d’Autriche, fournit un service, au sens des articles et TFUE.
+Or, aux termes de l’annexe V, chapitre 2, paragraphe 1, de l’acte d’adhésion de la Croatie, « [l]’article et l’article 56, premier alinéa, [TFUE] ne s’appliquent pleinement que sous réserve des dispositions transitoires prévues aux paragraphes à pour ce qui est de la libre circulation des travailleurs et de la libre prestation des services impliquant une circulation temporaire de travailleurs, telle que définie à l’article 1er de la directive [96/71], entre la Croatie, d’une part, et chacun des États membres actuels, d’autre part ».
+Afin d’établir si lesdites dispositions transitoires trouvent, le cas échéant, à s’appliquer, il convient de vérifier si la prestation de services fournie par Danieli, en tant qu’elle comporte le recours temporaire à des travailleurs croates mis à la disposition de cette entreprise par une entreprise croate, constitue une prestation de services impliquant une circulation temporaire de travailleurs, telle que mentionnée à l’article 1er de la directive 96/71, entre la République de Croatie, d’une part, et un autre État membre, d’autre part, au sens de l’annexe V, chapitre 2, paragraphe 1, de l’acte d’adhésion de la Croatie.
+En vertu de son article 1er, paragraphe 3, sous c), la directive 96/s’applique lorsqu’une entreprise établie dans un État membre détache, dans le cadre d’une prestation de services transnationale, en tant qu’entreprise de travail intérimaire ou en tant qu’entreprise qui met un travailleur à disposition, un travailleur auprès d’une entreprise utilisatrice qui soit est établie, soit exerce son activité sur le territoire d’un autre État membre, pour autant qu’il existe une relation de travail entre l’entreprise qui effectue la mise à disposition et ledit travailleur pendant la période de détachement.
+L’article 1er, paragraphe 3, sous c), la directive 96/peut ainsi notamment trouver à s’appliquer à une opération, telle que celle que Danieli entendait réaliser dans l’affaire au principal, par laquelle une entreprise établie dans un État membre détache, aux fins d’exécuter un contrat de prestations de services conclu avec une entreprise dans un autre État membre, des travailleurs mis à sa disposition par une entreprise établie dans un troisième État membre, pour autant que ladite opération réunit les conditions prévues à cette disposition.
+Selon la jurisprudence de la Cour, il y a détachement de travailleurs par leur mise à disposition, au sens de l’article 1er, paragraphe 3, sous c), de la directive 96/71, lorsque trois conditions sont réunies. Premièrement, la mise à disposition de main‑d’œuvre est une prestation de services fournie contre rémunération pour laquelle le travailleur reste au service de l’entreprise prestataire, sans qu’aucun contrat de travail soit conclu avec l’entreprise utilisatrice. Deuxièmement, cette mise à disposition se caractérise par la circonstance que le déplacement du travailleur dans l’État membre d’accueil constitue l’objet même de la prestation de services effectuée par l’entreprise prestataire. Troisièmement, dans le cadre d’une telle mise à disposition, le travailleur accomplit ses tâches sous le contrôle et la direction de l’entreprise utilisatrice (voir, en ce sens, arrêt du juin 2015, Martin Meat, C‑586/13, EU:C:2015:405, point et jurisprudence citée).
+En particulier, afin de déterminer si l’objet même de la prestation de services est le détachement du travailleur dans l’État membre d’accueil, il convient de prendre en compte notamment tout élément propre à indiquer que le prestataire de services ne supporte pas les conséquences de l’exécution non conforme de la prestation stipulée dans le contrat (arrêt du juin 2015, Martin Meat, C‑586/13, EU:C:2015:405, point 35).
+Or, ces conditions sont, ainsi que l’a relevé M. l’avocat général aux points à de ses conclusions, remplies par l’opération envisagée dans la procédure en cause au principal, telle que rappelée au point du présent arrêt.
+Premièrement, il ressort du dossier dont dispose la Cour que les travailleurs croates concernés devaient rester liés par une relation de travail à l’entreprise croate qui les détachait contre rémunération auprès de Danieli, sans qu’aucun contrat de travail soit conclu avec cette entreprise italienne.
+Deuxièmement, il ressort également dudit dossier que l’objet même de la prestation de services convenue entre l’entreprise croate et Danieli consistait à procéder au détachement de ces travailleurs croates en Autriche, aux fins d’exécuter le contrat de construction du laminoir à fil conclu avec l’entreprise autrichienne, Danieli demeurant seule responsable de l’exécution dudit contrat.
+Troisièmement, il est constant que, pendant leur détachement en Autriche, les travailleurs croates mis à disposition de Danieli par l’entreprise croate devaient accomplir leurs tâches sous le contrôle et la direction de l’entreprise utilisatrice, à savoir Danieli.
+Il s’ensuit que l’opération envisagée dans la procédure en cause au principal, en tant qu’elle comporte le déplacement temporaire de travailleurs croates mis à la disposition de Danieli par une entreprise croate, constitue la fourniture d’une prestation de services impliquant une circulation temporaire de travailleurs, telle que mentionnée à l’article 1er, paragraphe 3, sous c), de la directive 96/71, entre la République de Croatie, d’une part, et un État membre, d’autre part, au sens du chapitre 2, paragraphe 1, de l’annexe V de l’acte d’adhésion de la Croatie.
+Or, cette mise à disposition de main-d’œuvre relève également du champ d’application de l’annexe V, chapitre 2, paragraphe 2, de l’acte d’adhésion de la Croatie, aux termes duquel, par dérogation aux articles 1er à du règlement no 492/et jusqu’à la fin d’une période de deux ans suivant la date d’adhésion, les États membres actuels appliqueront des mesures nationales, ou des mesures résultant d’accords bilatéraux, qui réglementent l’accès des ressortissants croates à leur marché du travail. En effet, exclure la mise à disposition de main-d’œuvre du champ d’application de l’annexe V, chapitre 2, paragraphe 2, de l’acte d’adhésion de la Croatie risquerait de priver cette disposition d’une grande partie de son effet utile (voir, par analogie, arrêt du février 2011, Vicoplus e.a., C‑307/à C‑309/09, EU:C:2011:64, point 35).
+En revanche, ladite mise à disposition de main-d’œuvre ne relève pas de l’annexe V, chapitre 2, paragraphe 12, de l’acte d’adhésion de la Croatie, si, ainsi que l’ont fait valoir Danieli et la Commission, il s’avère que la construction du laminoir à fil en cause au principal n’implique que des opérations d’assemblage, d’installation et de mise en service d’une machine industrielle dans une structure existante, ce qu’il appartient à la juridiction de renvoi de vérifier. En effet, de telles opérations ne comptent pas parmi celles couvertes, s’agissant de la République d’Autriche, par les dérogations applicables aux secteurs intitulés « Construction et branches connexes » et identifiées par les codes NACE 45.à 45.4.
+En l’occurrence, il convient de constater qu’une réglementation d’un État membre qui, pendant la période transitoire prévue à l’annexe V, chapitre 2, paragraphe 2, de l’acte d’adhésion de la Croatie, continue à subordonner le détachement, au sens de l’article 1er, paragraphe 3, sous c), de la directive 96/71, de ressortissants croates sur le territoire de cet État membre à l’obtention d’une autorisation de travail est, en tant que mesure réglementant l’accès des ressortissants croates au marché du travail de ce même État, au sens de l’annexe V, chapitre 2, paragraphe 2, de l’acte d’adhésion de la Croatie, compatible avec les articles et TFUE (voir, par analogie, arrêt du février 2011, Vicoplus e.a., C‑307/à C‑309/09, EU:C:2011:64, points et 33).
+Or, la réglementation en cause au principal remplit toutes les conditions énoncées au point précédent.
+Eu égard à l’ensemble des considérations qui précèdent, il y a lieu de répondre à la première question que les articles et TFUE ainsi que l’annexe V, chapitre 2, paragraphe 2, de l’acte d’adhésion de la Croatie doivent être interprétés en ce sens qu’un État membre est en droit de restreindre, par l’exigence d’une autorisation de travail, le détachement de travailleurs croates qui sont employés par une entreprise ayant son siège en Croatie, lorsque le détachement de ces travailleurs intervient par leur mise à disposition, au sens de l’article 1er, paragraphe 3, sous c), de la directive 96/71, d’une entreprise établie dans un autre État membre, en vue de la fourniture d’une prestation de services dans le premier de ces États membres par cette dernière entreprise.
+Sur la seconde question
+Par sa seconde question, la juridiction de renvoi demande, en substance, si les articles et TFUE doivent être interprétés en ce sens qu’un État membre est en droit d’exiger que des ressortissants d’États tiers, mis à la disposition d’une entreprise établie dans un autre État membre, par une autre entreprise également établie dans cet autre État membre, en vue de la fourniture d’une prestation de services dans le premier de ces États membres, disposent d’une autorisation de travail.
+Selon une jurisprudence bien établie de la Cour, l’activité consistant, pour une entreprise, à mettre à disposition, contre rémunération, de la main‑d’œuvre qui reste au service de cette entreprise sans qu’aucun contrat de travail soit conclu avec l’utilisateur constitue une activité professionnelle qui réunit les conditions fixées à l’article 57, premier alinéa, TFUE et doit, dès lors, être considérée comme un service au sens de cette disposition (arrêt du septembre 2014, Essent Energie Productie, C‑91/13, EU:C:2014:2206, point 37).
+S’agissant du litige au principal, le service de mise à disposition de main-d’œuvre est fourni par une entreprise établie en Italie à une entreprise utilisatrice établie dans cet État membre laquelle, cependant, n’utilise cette main-d’œuvre qu’en Autriche, en vue de l’exécution de sa prestation de services.
+Les dispositions de l’article TFUE devant s’appliquer dans tous les cas où un prestataire de services offre des services sur le territoire d’un État membre autre que celui dans lequel il est établi, quel que soit le lieu où sont établis les destinataires de ces services (voir, en ce sens, arrêt du février 1991, Commission/France, C‑154/89, EU:C:1991:76, point 10), il importe de constater qu’un tel service de mise à disposition de main-d’œuvre entre deux entreprises établies dans le même État membre, lorsque ce service est fourni sur le territoire d’un État membre autre que celui dans lequel l’entreprise utilisatrice est établie, relève du champ d’application des articles et TFUE.
+La circonstance que la mise à disposition de main-d’œuvre en cause au principal concerne des travailleurs ressortissants d’États tiers est dépourvue d’incidence à cet égard (arrêt du septembre 2014, Essent Energie Productie, C‑91/13, EU:C:2014:2206, point 39).
+S’agissant du détachement de travailleurs d’un État tiers par une entreprise prestataire de services établie dans un État membre de l’Union, la Cour a déjà jugé qu’une réglementation nationale qui subordonne la fourniture de prestations de services sur le territoire national, par une entreprise établie dans un autre État membre, à la délivrance d’une autorisation administrative constitue une restriction à la libre prestation des services, au sens de l’article TFUE (arrêt du septembre 2014, Essent Energie Productie, C‑91/13, EU:C:2014:2206, point 45).
+Or, tel est le cas, en vertu de la réglementation en cause au principal, d’une prestation de services transfrontalière consistant en la mise à disposition, en Autriche, d’une main-d’œuvre issue d’États tiers.
+Toutefois, une réglementation nationale qui relève d’un domaine n’ayant pas fait l’objet d’une harmonisation au niveau de l’Union et qui s’applique indistinctement à toute personne ou entreprise exerçant une activité sur le territoire de l’État membre concerné peut, en dépit de son effet restrictif pour la libre prestation des services, être justifiée pour autant qu’elle répond à une raison impérieuse d’intérêt général et que cet intérêt n’est pas déjà sauvegardé par les règles auxquelles le prestataire est soumis dans l’État membre où il est établi, qu’elle est propre à garantir la réalisation de l’objectif qu’elle poursuit et qu’elle ne va pas au-delà de ce qui est nécessaire pour atteindre celui-ci (arrêt du septembre 2014, Essent Energie Productie, C‑91/13, EU:C:2014:2206, point 48).
+La matière relative au détachement de travailleurs salariés ressortissants d’un État tiers dans le cadre d’une prestation de services transfrontalière n’est pas, à ce jour, harmonisée au niveau de l’Union. Il y a donc lieu, dans ces conditions, d’examiner si les restrictions à la libre prestation des services qui découlent de la réglementation en cause au principal apparaissent justifiées par un objectif d’intérêt général et, le cas échéant, si elles sont nécessaires pour poursuivre effectivement et par les moyens appropriés cet objectif (arrêt du septembre 2014, Essent Energie Productie, C‑91/13, EU:C:2014:2206, point 49).
+À cet égard, il convient de rappeler que, si le souci d’éviter des perturbations sur le marché de l’emploi constitue, certes, une raison impérieuse d’intérêt général, les travailleurs employés par une entreprise établie dans un État membre et qui sont détachés dans un autre État membre en vue d’y effectuer une prestation de services ne prétendent cependant pas accéder au marché de l’emploi de ce second État membre, dès lors qu’ils retournent dans leur pays d’origine ou de résidence après l’accomplissement de leur mission (arrêt du septembre 2014, Essent Energie Productie, C‑91/13, EU:C:2014:2206, point 51).
+Or, le maintien, à titre permanent, par un État membre d’une exigence d’autorisation de travail pour les ressortissants d’États tiers qui sont mis à la disposition d’une entreprise opérant dans cet État membre, par une entreprise établie dans un autre État membre, excède ce qui est nécessaire pour atteindre l’objectif consistant à éviter des perturbations sur le marché de l’emploi (voir, en ce sens, arrêt du septembre 2014, Essent Energie Productie, C‑91/13, EU:C:2014:2206, point 56).
+À cet égard, l’obligation faite à une entreprise prestataire de services de fournir aux autorités autrichiennes les indications attestant que les travailleurs ressortissants d’États tiers sont en situation régulière, notamment en termes de résidence, d’autorisation de travail et de couverture sociale, dans l’État membre où cette entreprise les emploie, offrirait auxdites autorités, de manière moins restrictive et aussi efficace que l’exigence de l’autorisation de travail en cause au principal, des garanties quant à la régularité de la situation de ces travailleurs et au fait que ceux-ci exercent leur activité principale dans l’État membre où est établie l’entreprise prestataire de services (voir, en ce sens, arrêt du septembre 2014, Essent Energie Productie, C‑91/13, EU:C:2014:2206, point 57).
+Une telle obligation pourrait consister en une simple déclaration préalable, qui permettrait aux autorités autrichiennes de contrôler les indications fournies et de prendre les mesures nécessaires en cas d’irrégularité de la situation des travailleurs concernés. En outre, ladite obligation pourrait prendre la forme d’une notification succincte des documents requis, notamment lorsque la durée du détachement ne permet pas d’exercer un tel contrôle de manière efficace (voir, en ce sens, arrêt du septembre 2014, Essent Energie Productie, C‑91/13, EU:C:2014:2206, point 58).
+De même, l’obligation faite à une entreprise prestataire de services de signaler au préalable, aux autorités autrichiennes, la présence d’un ou de plusieurs travailleurs salariés détachés, la durée prévue de cette présence et la ou les prestations de services justifiant le détachement constituerait une mesure aussi efficace et moins restrictive que l’exigence de l’autorisation de travail en cause au principal. Elle serait de nature à permettre à ces autorités de contrôler le respect de la réglementation sociale autrichienne pendant la durée du détachement en tenant compte des obligations auxquelles cette entreprise est déjà soumise en vertu des règles de droit social applicables dans l’État membre d’origine. Combinée aux indications fournies par ladite entreprise au sujet de la situation des travailleurs concernés, visées au point du présent arrêt, une telle obligation permettrait auxdites autorités de prendre, le cas échéant, les mesures qui s’imposent au terme de la période prévue de détachement (voir, en ce sens, arrêt du septembre 2014, Essent Energie Productie, C‑91/13, EU:C:2014:2206, point 59).
+Eu égard à l’ensemble des considérations qui précèdent, il y a lieu de répondre à la seconde question que les articles et TFUE doivent être interprétés en ce sens qu’un État membre n’est pas en droit d’exiger que les ressortissants d’États tiers, mis à la disposition d’une entreprise établie dans un autre État membre, par une autre entreprise également établie dans cet autre État membre, en vue de la fourniture d’une prestation de services dans le premier de ces États membres, disposent d’une autorisation de travail.
+Sur les dépens
+La procédure revêtant, à l’égard des parties au principal, le caractère d’un incident soulevé devant la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l’objet d’un remboursement.
+ 
+Par ces motifs, la Cour (troisième chambre) dit pour droit :
+ 
+1)
+Les articles et TFUE, ainsi que l’annexe V, chapitre 2, paragraphe 2, de l’acte relatif aux conditions d’adhésion à l’Union européenne de la République de Croatie et aux adaptations du traité sur l’Union européenne, du traité sur le fonctionnement de l’Union européenne et du traité instituant la Communauté européenne de l’énergie atomique doivent être interprétés en ce sens qu’un État membre est en droit de restreindre, par l’exigence d’une autorisation de travail, le détachement de travailleurs croates qui sont employés par une entreprise ayant son siège en Croatie, lorsque le détachement de ces travailleurs intervient par leur mise à disposition, au sens de l’article 1er, paragraphe 3, sous c), de la directive 96/71/CE du Parlement européen et du Conseil, du décembre 1996, concernant le détachement de travailleurs effectué dans le cadre d’une prestation de services, d’une entreprise établie dans un autre État membre en vue de la fourniture d’une prestation de services dans le premier de ces États membres par cette dernière entreprise.
+ 
+2)
+Les articles et TFUE doivent être interprétés en ce sens qu’un État membre n’est pas en droit d’exiger que les ressortissants d’États tiers, mis à la disposition d’une entreprise établie dans un autre État membre, par une autre entreprise également établie dans cet autre État membre, en vue de la fourniture d’une prestation de services dans le premier de ces États membres, disposent d’une autorisation de travail.
+ 
+Signatures
+(
+*)	Langue de procédure : l’allemand.
+Top  

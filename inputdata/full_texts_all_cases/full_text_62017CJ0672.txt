@@ -1,0 +1,105 @@
+
+JUDGMENT OF THE COURT (Sixth Chamber)
+December (
+*)
+(Reference for a preliminary ruling — Value added tax (VAT) — Taxable amount — Reduction — Principle of fiscal neutrality)
+In Case C–672/17,
+REQUEST for a preliminary ruling under Article TFEU from the Tribunal Arbitral Tributário (Centro de Arbitragem Administrativa) (Tax Arbitration Tribunal (Centre for Administrative Arbitration), Portugal), made by decision of November 2017, received at the Court on November 2017, in the proceedings
+Tratave — Tratamento de Águas Residuais do Ave SA
+v
+Autoridade Tributária e Aduaneira,
+THE COURT (Sixth Chamber),
+composed of J.-C. Bonichot (Rapporteur), President of the First Chamber, acting as President of the Sixth Chamber, A. Arabadjiev and C.G. Fernlund, Judges,
+Advocate General: M. Wathelet,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Tratave — Tratamento de Águas Residuais do Ave SA, by A.G. Schwalbach, advogado,
+–
+the Portuguese Government, by L. Inez Fernandes, M. Figueiredo and R. Campos Laires, acting as Agents,
+–
+the European Commission, by A. Caeiros and L. Lozano Palacios, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of the principle of fiscal neutrality and of Article of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1) (‘the VAT Directive’).
+The request has been made in the context of proceedings brought by Tratave — Tratamento de Águas Residuais do Ave SA (‘Tratave’) against the Autoridade Tributária e Aduaneira (Tax and Customs Authority, Portugal) regarding the latter’s refusal to allow it to adjust the amount of value added tax (VAT) paid in relation to unpaid debts considered to be unrecoverable due to the insolvency of the debtors.
+Legal context
+EU law
+Article of the VAT Directive provides:
+‘In respect of the supply of goods or services, other than as referred to in Articles to 77, the taxable amount shall include everything which constitutes consideration obtained or to be obtained by the supplier, in return for the supply, from the customer or a third party, including subsidies directly linked to the price of the supply.’
+Article of the directive provides:
+‘1.   In the case of cancellation, refusal or total or partial non-payment, or where the price is reduced after the supply takes place, the taxable amount shall be reduced accordingly under conditions which shall be determined by the Member States.
+2.   In the case of total or partial non-payment, Member States may derogate from paragraph 1.’
+Article of that directive provides that ‘the initial deduction is to be adjusted where it is higher or lower than that to which the taxable person was entitled’.
+Article of that directive provides:
+‘1.   Adjustment shall, in particular, be made where, after the VAT return is made, some change occurs in the factors used to determine the amount to be deducted, for example where purchases are cancelled or price reductions are obtained.
+2.   By way of derogation from paragraph 1, no adjustment shall be made in the case of transactions remaining totally or partially unpaid or in the case of destruction, loss or theft of property duly proved or confirmed …
+However, in the case of transactions remaining totally or partially unpaid or in the case of theft, Member States may require adjustment to be made.’
+Article of the VAT Directive provides that ‘any document or message that amends and refers specifically and unambiguously to the initial invoice shall be treated as an invoice’.
+Article of that directive provides:
+‘Member States may impose other obligations which they deem necessary to ensure the correct collection of VAT and to prevent evasion, subject to the requirement of equal treatment as between domestic transactions and transactions carried out between Member States by taxable persons and provided that such obligations do not, in trade between Member States, give rise to formalities connected with the crossing of frontiers.
+The option under the first paragraph may not be relied upon in order to impose additional invoicing obligations over and above those laid down in Chapter 3.’
+Portuguese law
+Article 78(7)(b) of the Código do IVA (VAT Code) provides:
+‘Taxable persons may deduct … VAT debts which are deemed irrecoverable:
+…
+(b)
+in the context of insolvency proceedings when the insolvency is declared.’
+Article 78(11) of that code provides:
+‘In the cases provided for in paragraphs and 8(d), the total or partial cancellation of the charge shall be notified to the purchaser of the goods or services, if the purchaser is a taxable person, for rectification of the initial deduction.’
+Article 98(2) of the VAT Code provides:
+‘Without prejudice to special provisions, the right of deduction or reimbursement of overpaid tax may be exercised for a period of four years only, from the date on which the right of deduction or payment of the overpaid tax has arisen, respectively.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Tratave is a company established in Serzedelo (Portugal), which operates and manages municipal public services for the drainage, purification and disposal of waste water in the integrated clean-up system for the Vale do Ave (Portugal).
+Tratave is subject to VAT. In its VAT return for the month of July 2010, it decreased its tax base and adjusted the amount of VAT previously paid and passed on to eight customers, recipients of its services, which had been declared insolvent by judgments which had become final.
+This adjustment was reflected in a reduction in VAT, in favour of Tratave, of an amount of EUR 017.35.
+Following this statement, Tratave was the subject of a tax inspection in which the Tax and Customs Authority informed it that this correction was vitiated by illegality on the ground that certificates relating to the insolvency judgments which had become final had not been provided, and that the company had not fulfilled the requirement, laid down in Article 78(11) of the VAT Code, to give prior notice to its insolvent debtors of its intention to cancel VAT, in order for them to correct the deduction of VAT which they might have made.
+Consequently, on September 2014, that authority issued an additional VAT assessment to Tratave, for the period of July 2010, of EUR 017.with an amount of compensatory interest of EUR 216.41.
+On October 2014, Tratave paid those amounts.
+In January and February 2015, Tratave informed the debtors concerned of its intention to cancel the VAT amounts relating to outstanding claims.
+On February 2015, that company lodged an administrative appeal against the additional assessment of September 2014. This appeal gave rise to a rejection decision.
+On June 2015, Tratave brought a further appeal against that decision, which was also dismissed, on August 2016.
+On January 2017, Tratave brought an action before the Tribunal Arbitral Tributário (Centro de Arbitragem Administrativa) (Tax Arbitration Tribunal (Centre for Administrative Arbitration), Portugal), seeking annulment of the additional assessment of September and the decision rejecting its appeal.
+That court found that the requirement relating to the possession of certificates relating to insolvency judgments which had become final has no legal basis, but that Tratave should have complied with the requirement to give prior notice to the insolvent debtors of its intention to cancel the VAT relating to outstanding claims.
+That court also found that, in any event, this adjustment was subject to a limitation period of four years.
+It seeks to ascertain, however, whether such settlement procedures, provided for by national law, are in conformity with the principle of fiscal neutrality and the VAT Directive.
+It is in those circumstances that the Tribunal Arbitral Tributário (Centro de Arbitragem Administrativa) (Tax Arbitration Tribunal (Centre for Administrative Arbitration)) decided to stay the proceedings and refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Do the principle of neutrality and Article of the [VAT Directive] preclude national legislation such as Article 78(11) of the [VAT Code], which is interpreted to the effect that the tax may not be adjusted, in the event of non-payment, before the purchaser of the goods or service, being a taxable person, has been notified of the cancellation of the tax for the purposes of rectifying the deduction initially made?
+(2)
+If so, do the principle of neutrality and Article of the [VAT Directive] preclude national legislation such as Article 78(11) of the [VAT Code], which is interpreted to the effect that the tax may not be adjusted, in the event of non-payment, where the purchaser of the goods or service, being a taxable person, was not notified of the cancellation of the tax within the time-limit for deducting the tax laid down in Article 98(2) of the [VAT Code]?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks, in essence, whether the principle of neutrality and Article of Directive 2006/preclude national legislation, such as that at issue in the main proceedings, which provides that the reduction of the taxable amount for VAT, in the event of non-payment, cannot be made by the taxable person until it has given prior notice of its intention to cancel all or part of the VAT to the purchaser of goods or services, if that purchaser is a taxable person, for the purposes of correcting the deduction of VAT that the latter has made.
+As a preliminary point, it must be noted that although it is possible that the adjustment of the taxable amount made by Tratave for the month of July concerns VAT owed before the entry into force of the VAT Directive, namely January 2007, it is not in any event necessary to rule on which text of EU law is applicable, since the relevant provisions of the VAT Directive for this case are identical to those of the Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1), which preceded it.
+It must be recalled that, according to Article of the VAT Directive, the taxable amount, in respect of the supply of goods and services, is everything which constitutes the value of the consideration which has been or is to be obtained by the supplier or provider from the purchaser, the customer or a third party for such supplies, including subsidies directly linked to the price of such supplies.
+Article 90(1) of that directive, which relates to cases of cancellation, refusal or total or partial non-payment, or where the price is reduced after the supply takes place, requires the Member States to reduce the taxable amount and, consequently, the amount of VAT payable by the taxable person whenever, after a transaction has been concluded, part or all of the consideration has not been received by the taxable person. That provision embodies one of the fundamental principles of the VAT Directive, according to which the taxable amount is the consideration actually received and the corollary of which is that the tax authorities may not collect an amount of VAT exceeding the tax which the taxable person received (judgments of January 2012, Kraft Foods Polska, C‑588/10, EU:C:2012:40, paragraphs and 27; of May 2014, Almos Agrárkülkereskedelmi, C‑337/13, EU:C:2014:328, paragraph 22; and of December 2017, Boehringer Ingelheim Pharma, C‑462/16, EU:C:2017:1006, paragraph 32).
+Article 90(2) of the VAT Directive, however, allows Member States to derogate from this rule in the case of total or partial non-payment of the transaction price (judgments of May 2014, Almos Agrárkülkereskedelmi, C‑337/13, EU:C:2014:328, paragraph 23, and of October 2017, Lombard Ingatlan Lízing, C‑404/16, EU:C:2017:759, paragraph 27).
+In addition, under Article of the VAT Directive, Member States may impose the obligations which they deem necessary to ensure the correct collection of VAT and to prevent evasion, provided, inter alia, that that option is not relied upon in order to impose additional invoicing obligations over and above those laid down in Chapter of that directive (judgment of May 2014, Almos Agrárkülkereskedelmi, C‑337/13, EU:C:2014:328, paragraph 36).
+Given that Article 90(1) and Article of the VAT Directive do not, outside the limits laid down therein, specify either the conditions or the obligations which Member States may impose, it must be held that those provisions give Member States a margin of discretion, inter alia, as to the formalities to be complied with by taxable persons vis-à-vis the tax authorities, before reducing the taxable amount (judgments of January 2012, Kraft Foods Polska, C‑588/10, EU:C:2012:40, paragraph 23; of May 2014, Almos Agrárkülkereskedelmi, C‑337/13, EU:C:2014:328, paragraph 37; and of October 2017, Lombard Ingatlan Lízing, C‑404/16, EU:C:2017:759, paragraph 42).
+It is, however, apparent from the case-law that measures to prevent tax evasion or avoidance may not, in principle, derogate from the rules relating to the taxable amount except within the limits strictly necessary for achieving that specific aim. They must have as little effect as possible on the objectives and principles of the VAT Directive and may not therefore be used in such a way that they would have the effect of undermining the neutrality of VAT (judgments of January 2012, Kraft Foods Polska, C‑588/10, EU:C:2012:40, paragraph 28; of May 2014, Almos Agrárkülkereskedelmi, C‑337/13, EU:C:2014:328, paragraph 38; and of October 2017, Lombard Ingatlan Lízing, C‑404/16, EU:C:2017:759, paragraph 43).
+Consequently, the formalities to be complied with by taxable persons in order to exercise, vis-à-vis the tax authorities, the right to reduce the taxable amount for VAT, must be limited to those which make it possible to provide proof that, after the transaction has been concluded, part or all of the consideration will definitely not be received. In that regard, it is for the national courts to ascertain whether that is true of the formalities required by the Member State concerned (judgments of May 2014, Almos Agrárkülkereskedelmi, C‑337/13, EU:C:2014:328, paragraph 39, and of October 2017, Lombard Ingatlan Lízing, C‑404/16, EU:C:2017:759, paragraph 44).
+In the present case, a requirement such as that in the main proceedings — which makes the corresponding reduction of the taxable amount of a taxable person contingent, in the case of non-payment, on that person giving prior notice to his debtor, if the latter is a taxable person, of his intention to cancel a part or all of the VAT –– falls within the scope of both Article 90(1) and Article of the VAT Directive (see, by analogy, judgment of January 2012, Kraft Foods Polska, C‑588/10, EU:C:2012:40, paragraphs and 25).
+With respect to the principles of fiscal neutrality and proportionality, it must be observed that this requirement, which enables the debtor to be informed of the fact that he must adjust the VAT amount, which he may have been able to deduct as input tax, is likely to contribute not only to ensuring the correct collection of VAT and the avoidance of tax evasion but also to eliminating the risk of loss of tax revenue (see, by analogy, judgment of January 2012, Kraft Foods Polska, C‑588/10, EU:C:2012:40, paragraphs and 33).
+In this respect, the obligation of the insolvent debtor to identify its outstanding debts and its creditors, to which Tratave refers in asserting the unnecessary character of the requirement at issue in the main proceedings and, therefore, a breach of the principle of neutrality, cannot constitute a formality that is capable of ensuring sufficient compliance with these objectives, if only because that obligation of identification is complied with solely at the debtor’s initiative.
+Furthermore, as is apparent from the order for reference, the fact that the taxable person, the supplier of the goods or services, gives prior notice of the adjustment of the taxable amount to the insolvent debtor must enable the Member State to act in due time, in the context of the insolvency proceedings, to recover the VAT which could have been deducted as input tax by that debtor.
+Given that compliance with the requirement in question in the main proceedings enables the taxable person, a supplier of goods or services, to recover all the excess VAT paid to the tax authorities in respect of unpaid debts, that requirement does not, in principle, undermine the neutrality of VAT (see, by analogy, judgment of January 2012, Kraft Foods Polska, C‑588/10, EU:C:2012:40, paragraph 37).
+Finally, the Portuguese Government maintained that that notice is not subject to any particular formal requirements and may therefore be satisfied by any appropriate means. It is also apparent from the order for reference that it is a step that is ‘very easy to fulfil’ and ‘not very onerous’.
+Such a requirement, therefore, does not appear to be excessively onerous for the taxable person, the supplier of goods or services (see, by analogy, judgment of January 2012, Kraft Foods Polska, C‑588/10, EU:C:2012:40, paragraph 34), a matter which is nevertheless for the referring court to ascertain.
+In the light of all the foregoing considerations, the answer to the first question is that the principle of neutrality as well as Articles and of the VAT Directive must be interpreted as not precluding national legislation, such as that at issue in the main proceedings, which provides that the reduction of the taxable amount for VAT, in the event of non-payment, cannot be made by the taxable person until it has given prior notice of its intention to cancel all or part of the VAT to the purchaser of goods or services, if that purchaser is a taxable person, for the purposes of correcting the deduction of VAT that the latter has made.
+The second question
+By its second question, the referring court asks whether the principle of fiscal neutrality and Article of the VAT Directive preclude national legislation, such as that at issue in the main proceedings, which makes the reduction of the taxable amount for VAT, in the event of non-payment, contingent on the fact that the cancellation of the tax is notified to the purchaser of the goods or services, if the purchaser is a taxable person, within a limitation period of four years.
+However, since this question is raised only in the case where the first question is answered in the affirmative, there is no need to answer it.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Sixth Chamber) hereby rules:
+ 
+The principle of neutrality as well as Articles and of Council Directive 2006/112/EC of November on the common system of value added tax must be interpreted as not precluding national legislation, such as that at issue in the main proceedings, which provides that the reduction of the taxable amount for value added tax (VAT), in the event of non-payment, cannot be made by the taxable person until it has given prior notice of its intention to cancel all or part of the VAT to the purchaser of goods or services, if that purchaser is a taxable person, for the purposes of correcting the deduction of VAT that the latter has made.
+ 
+[Signatures]
+(
+*)	Language of the case: Portuguese.
+Top  

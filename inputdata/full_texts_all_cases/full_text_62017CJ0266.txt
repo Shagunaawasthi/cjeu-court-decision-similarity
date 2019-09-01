@@ -1,0 +1,277 @@
+
+JUDGMENT OF THE COURT (Fourth Chamber)
+March (
+*)
+(Reference for a preliminary ruling — Transport — Public passenger transport services by rail and by road — Regulation (EC) No 1370/— Article 5(1) and (2) — Direct award — Contracts for public passenger transport services by bus and tram — Conditions — Directive 2004/17/EC — Directive 2004/18/EC)
+In Joined Cases C‑266/and C‑267/17,
+TWO REQUESTS for a preliminary ruling under Article TFEU from the Oberlandesgericht Düsseldorf (Higher Regional Court, Düsseldorf, Germany), made by decisions of May 2017, received at the Court on May 2017, in the proceedings
+Rhein-Sieg-Kreis
+v
+Verkehrsbetrieb Hüttebräucker GmbH,
+BVR Busverkehr Rheinland GmbH,
+interveners:
+Regionalverkehr Köln GmbH (C‑266/17),
+and
+Rhenus Veniro GmbH & Co. KG
+v
+Kreis Heinsberg,
+intervener:
+WestVerkehr GmbH (C‑267/17),
+THE COURT (Fourth Chamber),
+composed of T. von Danwitz, President of the Seventh Chamber, acting as President of the Fourth Chamber, K. Jürimäe, C. Lycourgos, E. Juhász (Rapporteur) and C. Vajda, Judges,
+Advocate General: M. Campos Sánchez-Bordona,
+Registrar: L. Carrasco Marco, Administrator,
+having regard to the written procedure and further to the hearing on May 2018,
+after considering the observations submitted on behalf of:
+–
+Rhein-Sieg-Kreis, by G. Landsberg and J. Struß, Rechtsanwälte,
+–
+Rhenus Veniro GmbH & Co. KG, by C. Antweiler, Rechtsanwalt,
+–
+Verkehrsbetrieb Hüttebräucker GmbH, by C. Antweiler, Rechtsanwalt,
+–
+BVR Busverkehr Rheinland GmbH, by W. Tresselt, Rechtsanwalt,
+–
+Kreis Heisberg, by S. Schaefer, M. Weber and D. Marszalek, Rechtsanwälte,
+–
+the Austrian Government, by M. Fruhmann, acting as Agent,
+–
+the European Commission, by W. Mölls, P. Ondrůšek and J. Hottiaux, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2018,
+gives the following
+Judgment
+These requests for a preliminary ruling concern the interpretation of Article 5(1) and (2) of Regulation (EC) No 1370/of the European Parliament and of the Council of October on public passenger transport services by rail and by road and repealing Council Regulations (EEC) Nos 1191/and 1107/(OJ L 315, p. 1).
+The requests have been made in two sets of proceedings between, first, Rhein-Sieg-Kreis (the Rhein-Sieg District, Germany), of the one part, and Verkehrsbetrieb Hüttebräucker GmbH and BVR Busverkehr Rheinland GmbH, of the other, and, between secondly, Rhenus Veniro GmbH & Co. KG (‘Rhenus Veniro’) and Kreis Heinsberg (Heinsberg District, Germany), concerning intended direct awards of public contracts for passenger transport services by bus.
+Legal context
+Regulation 1370/Article of Regulation No 1370/2007, entitled ‘Purpose and scope’, provides:
+‘1.   The purpose of this Regulation is to define how, in accordance with the rules of Community law, competent authorities may act in the field of public passenger transport to guarantee the provision of services of general interest which are among other things more numerous, safer, of a higher quality or provided at lower cost than those that market forces alone would have allowed.
+To this end, this Regulation lays down the conditions under which competent authorities, when imposing or contracting for public service obligations, compensate public service operators for costs incurred and/or grant exclusive rights in return for the discharge of public service obligations.
+2.   This Regulation shall apply to the national and international operation of public passenger transport services by rail and other track-based modes and by road, except for services which are operated mainly for their historical interest or their tourist value. …
+…’
+Article of that regulation, entitled ‘Definitions’, is worded as follows:
+‘For the purpose of this Regulation:
+(a)
+“public passenger transport” means passenger transport services of general economic interest provided to the public on a non-discriminatory and continuous basis;
+(b)
+“competent authority” means any public authority or group of public authorities of a Member State or Member States which has the power to intervene in public passenger transport in a given geographical area or any body vested with such authority;
+(c)
+“competent local authority” means any competent authority whose geographical area of competence is not national;
+…
+(h)
+“direct award” means the award of a public service contract to a given public service operator without any prior competitive tendering procedure;
+(i)
+“public service contract” means one or more legally binding acts confirming the agreement between a competent authority and a public service operator to entrust to that public service operator the management and operation of public passenger transport services subject to public service obligations; depending on the law of the Member State, the contract may also consist of a decision adopted by the competent authority:
+–
+taking the form of an individual legislative or regulatory act, or
+–
+containing conditions under which the competent authority itself provides the services or entrusts the provision of such services to an internal operator;
+(j)
+“internal operator” means a legally distinct entity over which a competent local authority, or in the case of a group of authorities at least one competent local authority, exercises control similar to that exercised over its own departments;
+…’
+Article of that regulation, entitled ‘Award of public service contracts’, provides:
+‘1.   Public service contracts shall be awarded in accordance with the rules laid down in this Regulation. However, service contracts or public service contracts as defined in Directive [2004/17/EC of the European Parliament and of the Council of March coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors (OJ L 134, p. 1)] or [Directive 2004/18/EC of the European Parliament and of the Council of March on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts (OJ L 134, p. 114)] for public passenger transport services by bus or tram shall be awarded in accordance with the procedures provided for under those Directives where such contracts do not take the form of service concessions contracts as defined in those Directives. Where contracts are to be awarded in accordance with Directives [2004/17] or [2004/18], the provisions of paragraphs to of this Article shall not apply.
+2.   Unless prohibited by national law, any competent local authority, whether or not it is an individual authority or a group of authorities providing integrated public passenger transport services, may decide to provide public passenger transport services itself or to award public service contracts directly to a legally distinct entity over which the competent local authority, or in the case of a group of authorities at least one competent local authority, exercises control similar to that exercised over its own departments. Where a competent local authority takes such a decision, the following shall apply:
+(a)
+for the purposes of determining whether the competent local authority exercises control, factors such as the degree of representation on administrative, management or supervisory bodies, specifications relating thereto in the articles of association, ownership, effective influence and control over strategic decisions and individual management decisions shall be taken into consideration. In accordance with Community law, 100% ownership by the competent public authority, in particular in the case of public-private partnerships, is not a mandatory requirement for establishing control within the meaning of this paragraph, provided that there is a dominant public influence and that control can be established on the basis of other criteria;
+(b)
+the condition for applying this paragraph is that the internal operator and any entity over which this operator exerts even a minimal influence perform their public passenger transport activity within the territory of the competent local authority, notwithstanding any outgoing lines or other ancillary elements of that activity which enter the territory of neighbouring competent local authorities, and do not take part in competitive tenders concerning the provision of public passenger transport services organised outside the territory of the competent local authority;
+(c)
+notwithstanding point (b), an internal operator may participate in fair competitive tenders as from two years before the end of its directly awarded public service contract under the condition that a final decision has been taken to submit the public passenger transport services covered by the internal operator contract to fair competitive tender and that the internal operator has not concluded any other directly awarded public service contract;
+(d)
+in the absence of a competent local authority, points (a), (b) and (c) shall apply to a national authority for the benefit of a geographical area which is not national, provided that the internal operator does not take part in competitive tenders concerning the provision of public passenger transport services organised outside the area for which the public service contract has been granted;
+(e)
+if subcontracting under Article 4(7) is being considered, the internal operator shall be required to perform the major part of the public passenger transport service itself.
+3.   Any competent authority which has recourse to a third party other than an internal operator, shall award public service contracts on the basis of a competitive tendering procedure, except in the cases specified in paragraphs 4, and 6. The procedure adopted for competitive tendering shall be open to all operators, shall be fair and shall observe the principles of transparency and non-discrimination. Following the submission of tenders and any preselection, the procedure may involve negotiations in accordance with these principles in order to determine how best to meet specific or complex requirements.
+…’
+Article of that regulation, entitled ‘Publication’, provides in paragraph 2:
+‘Each competent authority shall take the necessary measures to ensure that, at least one year before the launch of the invitation to tender procedure or one year before the direct award, the following information at least is published in the Official Journal of the European Union:
+(a)
+the name and address of the competent authority;
+(b)
+the type of award envisaged;
+(c)
+the services and areas potentially covered by the award.
+Competent authorities may decide not to publish this information where a public service contract concerns an annual provision of less than kilometres of public passenger transport services.
+…’
+Directive 2004/Article of Directive 2004/17, entitled ‘Definitions’, provides:
+‘1.   For the purposes of this Directive, the definitions set out in this Article shall apply.
+2.   
+(a)
+“Supply, works and service contracts” are contracts for pecuniary interest concluded in writing between one or more of the contracting entities referred to in Article 2(2), and one or more contractors, suppliers, or service providers;
+…
+(d)
+“Service contracts” are contracts other than works or supply contracts having as their object the provision of services referred to in Annex XVII.
+…
+3.   ...
+(b)
+A “service concession” is a contract of the same type as a service contract except for the fact that the consideration for the provision of services consists either solely in the right to exploit the service or in that right together with payment.
+…’
+Article of that directive, entitled ‘Transport services’, provides, in paragraph 1:
+‘This Directive shall apply to activities relating to the provision or operation of networks providing a service to the public in the field of transport by railway, automated systems, tramway, trolley bus, bus or cable.
+As regards transport services, a network shall be considered to exist where the service is provided under operating conditions laid down by a competent authority of a Member State, such as conditions on the routes to be served, the capacity to be made available or the frequency of the service.’
+Article of that directive, entitled ‘Works and service concessions’, states:
+‘This Directive shall not apply to works and service concessions which are awarded by contracting entities carrying out one or more of the activities referred to in Articles to 7, where those concessions are awarded for carrying out those activities.’
+Article of that directive, entitled ‘Service contracts listed in Annex XVII A’, provides:
+‘Contracts which have as their object services listed in Annex XVII A shall be awarded in accordance with Articles to 59.’
+Article of Directive 2004/17, entitled ‘Service contracts listed in Annex XVII B’, provides:
+‘Contracts which have as their object services listed in Annex XVII B shall be governed solely by Articles and 43.’
+Article of that directive, entitled ‘Technical specifications’, establishes in particular the detailed rules in accordance with which the technical specifications must be formulated in the contract documentation.
+Under Article of that directive, entitled ‘Contract award notices’:
+‘1.   Contracting entities which have awarded a contract or a framework agreement shall, within two months of the award of the contract or framework agreement, send a contract award notice as referred to in Annex XVI under conditions to be laid down by the Commission in accordance with the procedure referred to in Article 68(2).
+…
+4.   In the case of contracts awarded for services listed in Annex XVII B, the contracting entities shall indicate in the notice whether they agree to publication.
+…’
+Annexes XVII A and XVII B to Directive 2004/17, entitled ‘Services within the meaning of Article 31’ and ‘Services within the meaning of Article 32’ respectively, both contain a table which refers, with regard to each of the categories of service which it defines, to the United Nations Central Product Classification reference numbers (‘the CPC reference numbers’). As regards category of Annex XVII A, which corresponds to ‘Land transport services’, the CPC reference numbers are (except 71235), and 87304. As for category of Annex XVII B, which corresponds to ‘Rail transport services’, the CPC reference number is 711. The CPC reference number relates, in particular, to urban and suburban regular and special passenger transportation and to regular interurban passenger transportation other than the interurban, urban and suburban railway transport services of passengers, to which the CPC reference number relates.
+Directive 2004/Article of Directive 2004/18, entitled ‘Definitions’, provides:
+‘1.   For the purposes of this Directive, the definitions set out in paragraphs to shall apply.
+2.   ...
+(d)
+“Public service contracts” are public contracts other than public works or supply contracts having as their object the provision of services referred to in Annex II.
+…
+4.   “Service concession” is a contract of the same type as a public service contract except for the fact that the consideration for the provision of services consists either solely in the right to exploit the service or in this right together with payment.
+…’
+Under Article of that directive, entitled ‘Granting of special or exclusive rights: non-discrimination clause’:
+‘Where a contracting authority grants special or exclusive rights to carry out a public service activity to an entity other than such a contracting authority, the act by which that right is granted shall provide that, in respect of the supply contracts which it awards to third parties as part of its activities, the entity concerned must comply with the principle of non-discrimination on the basis of nationality.’
+Article of that directive, entitled ‘Contracts in the water, energy, transport and postal services sectors’, provides in the first paragraph thereof:
+‘This Directive shall not apply to public contracts which, under [Directive 2004/17], are awarded by contracting authorities exercising one or more of the activities referred to in Articles to of that Directive and are awarded for the pursuit of those activities, or to public contracts excluded from the scope of that Directive under Article 5(2) and Articles 19, and thereof.’
+Article of Directive 2004/18, entitled ‘Service concessions’, is worded as follows:
+‘Without prejudice to the application of Article 3, this Directive shall not apply to service concessions as defined in Article 1(4).’
+Article of that directive, entitled ‘Service contracts listed in Annex II A’, states:
+‘Contracts which have as their object services listed in Annex II A shall be awarded in accordance with Articles to 55.’
+Article of that directive, entitled ‘Service contracts listed in Annex II B’, provides:
+‘Contracts which have as their object services listed in Annex II B shall be subject solely to Article and Article 35(4).’
+Annexes II A and II B to that same directive contain a table similar to those in Annex XVII A and Annex XVII B to Directive 2004/17.
+Directive 2014/24/EU
+In accordance with Article thereof, Directive 2014/24/EU of the European Parliament and of the Council of February on public procurement and repealing Directive 2004/(OJ L 94, p. 65), repealed and replaced Directive 2004/with effect from April 2016.
+Article of Directive 2014/24, entitled ‘Public contracts between entities within the public sector’, provides:
+‘1.   A public contract awarded by a contracting authority to a legal person governed by private or public law shall fall outside the scope of this Directive where all of the following conditions are fulfilled:
+(a)
+the contracting authority exercises over the legal person concerned a control which is similar to that which it exercises over its own departments;
+(b)
+more than 80% of the activities of the controlled legal person are carried out in the performance of tasks entrusted to it by the controlling contracting authority or by other legal persons controlled by that contracting authority; and
+(c)
+there is no direct private capital participation in the controlled legal person with the exception of non-controlling and non-blocking forms of private capital participation required by national legislative provisions, in conformity with the Treaties, which do not exert a decisive influence on the controlled legal person.
+A contracting authority shall be deemed to exercise over a legal person a control similar to that which it exercises over its own departments within the meaning of point (a) of the first subparagraph where it exercises a decisive influence over both strategic objectives and significant decisions of the controlled legal person. Such control may also be exercised by another legal person, which is itself controlled in the same way by the contracting authority.
+2.   Paragraph also applies where a controlled legal person which is a contracting authority awards a contract to its controlling contracting authority, or to another legal person controlled by the same contracting authority, provided that there is no direct private capital participation in the legal person being awarded the public contract with the exception of non-controlling and non-blocking forms of private capital participation required by national legislative provisions, in conformity with the Treaties, which do not exert a decisive influence on the controlled legal person.
+3.   A contracting authority, which does not exercise over a legal person governed by private or public law control within the meaning of paragraph 1, may nevertheless award a public contract to that legal person without applying this Directive where all of the following conditions are fulfilled.
+(a)
+the contracting authority exercises jointly with other contracting authorities a control over that legal person which is similar to that which they exercise over their own departments;
+(b)
+more than 80% of the activities of that legal person are carried out in the performance of tasks entrusted to it by the controlling contracting authorities or by other legal persons controlled by the same contracting authorities; and
+(c)
+there is no direct private capital participation in the controlled legal person with the exception of non-controlling and non-blocking forms of private capital participation required by national legislative provisions, in conformity with the Treaties, which do not exert a decisive influence on the controlled legal person.
+For the purposes of point (a) of the first subparagraph, contracting authorities exercise joint control over a legal person where all of the following conditions are fulfilled:
+(i)
+the decision-making bodies of the controlled legal person are composed of representatives of all participating contracting authorities. Individual representatives may represent several or all of the participating contracting authorities;
+(ii)
+those contracting authorities are able to jointly exert decisive influence over the strategic objectives and significant decisions of the controlled legal person; and
+(iii)
+the controlled legal person does not pursue any interests which are contrary to those of the controlling contracting authorities;
+4.   A contract concluded exclusively between two or more contracting authorities shall fall outside the scope of this Directive where all of the following conditions are fulfilled:
+(a)
+the contract establishes or implements a cooperation between the participating contracting authorities with the aim of ensuring that public services they have to perform are provided with a view to achieving objectives they have in common;
+(b)
+the implementation of that cooperation is governed solely by considerations relating to the public interest; and
+(c)
+the participating contracting authorities perform on the open market less than 20% of the activities concerned by the cooperation.
+5.   For the determination of the percentage of activities referred to in point (b) of the first subparagraph of paragraph 1, point (b) of the first subparagraph of paragraph and point (c) of paragraph 4, the average total turnover, or an appropriate alternative activity-based measure such as costs incurred by the relevant legal person or contracting authority with respect to services, supplies and works for the three years preceding the contract award shall be taken into consideration.
+Where, because of the date on which the relevant legal person or contracting authority was created or commenced activities or because of a reorganisation of its activities, the turnover, or alternative activity-based measure such as costs, are either not available for the preceding three years or no longer relevant, it shall be sufficient to show that the measurement of activity is credible, particularly by means of business projections.’
+Directive 2014/25/EU
+In accordance with Article thereof, Directive 2014/25/EU of the European Parliament and of the Council of February on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/(OJ L 94, p. 243), repealed and replaced Directive 2004/with effect from April 2016.
+Article of Directive 2014/25, entitled ‘Contracts between contracting authorities’, contains provisions in essence similar to those of Article of Directive 2014/24.
+The disputes in the main proceedings and the questions referred for a preliminary ruling
+Case C‑266/The Rhein-Sieg District, a local authority having the status of competent authority within the meaning of Article 2(b) of Regulation No 1370/2007, set up, in conjunction with other local authorities having that same status, the Zweckverband Verkehrsverbund Rhein-Sieg (Rhein-Sieg special purpose transport association, Germany), for the purposes of shared performance of tasks specified in the Gesetz über den öffentlichen Personennahverkehr in Nordrhein-Westfalen (Law on local public passenger transport in North Rhine-Westphalia).
+Under its rules, that special purpose transport association is responsible, inter alia, for establishing the amount of tariffs.
+Regionalverkehr Köln GmbH is a public transport company which is directly or indirectly owned by passenger transport authorities, which include the Rhein-Sieg District.
+Regionalverkehr Köln provides public transport services for the Rhein-Sieg District, and for other authorities having an indirect or direct holding in Regionalverkehr Köln, on the basis of the tasks conferred before Regulation No 1370/entered into force. In addition to those activities, it provides bus transport services for four municipalities in which there is a ‘municipal bus’ service, on the basis of contracts from the period before the entry into force of that regulation, which were not awarded on the basis of a competitive tender procedure.
+On August 2015, the shareholders’ meeting of the Regionalverkehr Köln amended the latter’s articles of association, so that in relation to the conclusion, amendment or termination of a transport contract the only shareholder entitled to vote is one which itself or whose indirect or direct owner awards a transport services contract referred to in Article 5(2) of Regulation No 1370/2007. According to the order for reference, that resolution is temporarily ineffective pursuant to final judgment of the Oberlandesgericht Düsseldorf (Higher Regional Court, Düsseldorf, Germany).
+It is apparent from the documents before the Court that, in accordance with Article 7(2) of Regulation No 1370/2007, on September the Rhein-Sieg District had published in the Supplement to the Official Journal of the European
+Union a prior information notice concerning the intended direct award of a contract for the provision of public passenger transport services by bus not taking the form of a service concession contract for the purposes of Directives 2004/and 2004/18.
+That contract, which concerned the annual provision of several million kilometres of journeys, was to be awarded to Regionalverkehr Köln as internal operator, in accordance with Article 5(2) of Regulation No 1370/2007, for a duration of months as from December 2016.
+Following the publication of that notice, Verkehrsbetrieb Hüttebräucker and BVR Busverkehr Rheinland challenged the intended direct award before the Vergabekammer (Public Procurement Chamber, Germany), contending in particular that the contract at issue in the main proceedings did not fall within the scope of Article 5(2) of Regulation No 1370/2007, since it did not take the form of a service concession contract.
+The Vergabekammer (Public Procurement Chamber) prohibited the contract at issue in the main proceedings from being directly awarded to Regionalverkehr Köln, on the ground that the conditions for the application of Article 5(2) of Regulation No 1370/were not satisfied. To that effect, it found that the control which the Rhein-Sieg District ought to have exercised over that company did not exist and that, in addition, that company provided public passenger transport services in territories other than that administered by the contracting authority, which was likely to preclude any direct award of the transport contract.
+The Rhein-Sieg District appealed to the Oberlandesgericht Düsseldorf (Higher Regional Court, Düsseldorf).
+The Oberlandesgericht Düsseldorf (Higher Regional Court, Düsseldorf) states that, as regards transport services contracts not taking the form of service concessions contracts, Article 5(2) of Regulation No 1370/is the subject of diverging case-law at the national level.
+According to some courts, those provisions are not intended to apply to contracts for passenger transport services by bus and tram which do not take the form of service concessions contracts, since Article 5(1) of Regulation No 1370/expressly provides that those contracts remain governed by Directives 2004/and 2004/18, which does not, however, preclude them from being awarded directly, in accordance with the general regime established on the basis of those directives.
+Conversely, other courts, including the Oberlandesgericht Düsseldorf (Higher Regional Court, Düsseldorf) itself, consider that, inasmuch as direct contract awards are not subject to the provisions of Directives 2004/and 2004/18, Article 5(2) of Regulation No 1370/which governs the direct award of contracts for passenger transport services must, as a special rule and in accordance with the judgment of October 2016, Hörmann Reisen (C‑292/15, EU:C:2016:817), apply to direct awards of contracts for passenger transport services by bus even when those contracts do not take the form of public service concessions.
+Given such a difference in interpretation, the Oberlandesgericht Düsseldorf (Higher Regional Court, Düsseldorf) asks whether Article 5(2) of Regulation No 1370/is, as a rule, applicable in a case such as that in the main proceedings.
+In addition, should the answer be in the affirmative, that court is uncertain whether that provision is indeed intended to apply to the case in the main proceedings, having regard to the specific and concrete circumstances mentioned in the order for reference, and raises the question of the date on which the conditions for the application of the provision must be met.
+In those circumstances the Oberlandesgericht Düsseldorf (Higher Regional Court, Düsseldorf) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Does Article 5(2) of Regulation No 1370/apply to contracts which are not contracts which, within the meaning of the first sentence of Article 5(1) of Regulation No 1370/2007, take the form of service concessions contracts as defined in Directives [2004/17] or [2004/18]?
+If Question is answered in the affirmative:
+(2)
+Where an individual competent authority awards a public service contract directly to an internal operator in accordance with Article 5(2) of Regulation No 1370/2007, is the joint exercise of control by that authority together with the other shareholders of the internal operator precluded if the power to intervene in public passenger transport in a given geographical area (Article 2(b) and (c) of Regulation No 1370/2007) is divided between the individual competent authority and a group of authorities which provides integrated public passenger transport services, for example where the power to award public service contracts to an internal operator remains with the individual competent authority but the responsibility for tariffs is transferred to a special purpose transport association to which, in addition to the individual authority, further authorities competent in their geographical areas belong?
+(3)
+Where an individual competent authority awards a public service contract directly to an internal operator in accordance with Article 5(2) of Regulation No 1370/2007, is the joint exercise of control by that authority together with the other shareholders of the internal operator precluded if, according to that operator’s articles of association, in the case of resolutions concerning the conclusion, amendment or termination of a public service contract referred to in Article 5(2) of Regulation No 1370/2007, the only shareholder entitled to vote is the one which itself or whose indirect or direct owner awards a public service contract to the internal operator in accordance with Article 5(2) of Regulation No 1370/2007?
+(4)
+Does point (b) of the second sentence of Article 5(2) of Regulation No 1370/permit the internal operator also to perform public passenger transport services for other competent local authorities within their territory (including through routes or other part services which enter the territory of neighbouring competent local authorities) if these are not awarded through organised competitive tender procedures?
+(5)
+Does point (b) of the second sentence of Article 5(2) of Regulation No 1370/permit the internal operator also to perform public passenger transport activity outside the territory of the commissioning authority for other authorities on the basis of public service contracts covered by the transitional provisions of Article 8(3) of Regulation No 1370/2007?
+(6)
+On which date must the requirements of Article 5(2) of Regulation No 1370/be satisfied?’
+Case C‑267/The Heinsberg District, a local authority having the status of competent authority within the meaning of Article 2(b) of Regulation No 1370/is a member, together with other local authorities, of the Zweckverband Aachener Verkehrsverbund (Aachen special purpose transport association, Germany), formed to promote and support local public transport passenger services for its members.
+It is apparent from the documents before the Court that, in accordance with Article 7(2) of Regulation No 1370/2007, on March the Heinsberg District had published in the Supplement to the Official Journal of the European
+Union a prior information notice concerning the intended direct award of a contract for the provision of public passenger transport services by bus and other motor vehicles.
+It was envisaged in that prior information notice that that contract, which was for several million kilometres of journeys to be provided from January 2018, would be awarded directly to an internal operator, in this case WestVerkehr GmbH, in accordance with Article 5(2) of Regulation No 1370/2007.
+Rhenus Veniro brought an action before the Vergabekammer Rheinland (Public Procurement Board of the Land of Rhineland-Palatinate, Germany) against the planned direct award, which that board dismissed.
+Rhenus Veniro brought an appeal before the Oberlandesgericht Düsseldorf (Higher Regional Court, Düsseldorf), arguing that, as regards public transport services by bus or by tram, Article 5(2) of Regulation No 1370/is intended to apply only in cases where the contracts concerned take the form of service concessions contracts.
+For the same reasons as those referred to in Case C‑266/17, that court asks whether Article 5(2) of Regulation No 1370/is, as a rule, applicable in a case such as that in Case C-267/17.
+In addition, should the answer be in the affirmative, that court is uncertain whether that provision is indeed intended to apply to the case in the main proceedings, having regard to the specific and concrete circumstances mentioned in the order for reference, and raises the question of the date on which the conditions for the application of the provision must be met.
+In those circumstances the Oberlandesgericht Düsseldorf (Higher Regional Court, Düsseldorf) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is Article 5(2) of Regulation No 1370/applicable to directly awarded public service contracts within the meaning of Article 2(i) of the regulation which do not, for the purposes of the second sentence of Article 5(1) of the regulation, take the form of service concessions contracts under Directives [2004/17] or [2004/18]?
+And if Question is answered in the affirmative:
+(2)
+Do Article 2(b) and Article 5(2) of Regulation No 1370/presume, as is conveyed by the word “or”, an exclusive competence either of an individual authority or of a group of authorities, or do those provisions also permit an individual authority to be a member of a group of authorities and to assign specific tasks to the group but at the same time to retain the power to intervene under Article 2(b) and to be the competent local authority within the meaning of Article 5(2) of the regulation?
+(3)
+Does point (e) of the second sentence of Article 5(2) of Regulation No 1370/2007, which lays down the requirement to perform the major part of the public passenger transport service itself, prevent the internal operator from having that major part of the services performed by a wholly owned subsidiary?
+(4)
+At what point in time must the conditions governing direct awards laid down in Article 5(2) of Regulation No 1370/be met: at the time of publication of an intended direct award pursuant to Article of Regulation No 1370/or not until the time of the direct award itself?’
+By decision of the President of the Court of March 2018, Cases C‑266/and C‑267/were joined for the purposes of the oral part of the procedure and of the judgment.
+The request to have the oral part of the procedure reopened
+By documents lodged at the Court Registry on September 2018, Verkehrsbetrieb Hüttebräucker and BVR Busverkehr Rheinland, in Case C‑266/17, and Rhenus Veniro, in Case C‑267/17, requested the Court to order the oral part of the procedure to be reopened, pursuant to Article of the Rules of Procedure of the Court.
+In support of their requests, Verkehrsbetrieb Hüttebräucker and Rhenus Veniro submit that the interpretation of Article 5(2) of Regulation No 1370/2007, as adopted by the Advocate General in his Opinion, does not take sufficient account of the arguments that were submitted, in particular, at the hearing and which militate against that interpretation. In addition, some of the arguments developed in their written observations, in particular on the importance of Article 9(1) of Regulation No 1370/for the interpretation of Article 5(2) of that regulation were not debated at the hearing.
+BVR Busverkehr Rheinland, for its part, claims that the Advocate General was wrong to consider that the third question raised by the referring court in Case C‑266/could be hypothetical, when the amendment to the articles of association of Regionalverkehr Köln on August is now applicable.
+In that regard, it must be borne in mind, first, that the Statute of the Court of Justice of the European Union and the Rules of Procedure of the Court of Justice make no provision for the interested parties referred to in Article of the Statute to submit observations in response to the Advocate General’s Opinion (judgment of March 2018, Achmea, C‑284/16, EU:C:2018:158, paragraph and the case-law cited).
+Secondly, under the second paragraph of Article TFEU, the Advocate General, acting with complete impartiality and independence, is to make, in open court, reasoned submissions on cases which, in accordance with the Statute of the Court of Justice of the European Union, require the Advocate General’s involvement. The Court is not bound either by the Advocate General’s conclusion or by the reasoning which led to that conclusion. Consequently, a party’s disagreement with the Opinion of the Advocate General, irrespective of the questions that he examines in his Opinion, cannot in itself constitute grounds justifying the reopening of the oral procedure (judgment of March 2018, Achmea, C‑284/16, EU:C:2018:158, paragraph and the case-law cited).
+Nevertheless, the Court may at any time, after hearing the Advocate General, order the reopening of the oral part of the procedure, in accordance with Article of its Rules of Procedure, in particular if it considers that it lacks sufficient information or where the case must be decided on the basis of an argument which has not been debated between the interested persons (judgment of March 2018, Achmea, C‑284/16, EU:C:2018:158, paragraph and the case-law cited).
+In the present case, it must be pointed out that, in order to request the reopening of the oral part of the procedure, Verkehrsbetrieb Hüttebräucker, BVR Busverkehr Rheinland and Rhenus Veniro dispute the Advocate General’s Opinion by using arguments already developed in their written observations or at the hearing.
+Since the Court has therefore all the information necessary to rule on the requests for a preliminary ruling, it must, having heard the Advocate General, refuse the requests for the oral part of the procedure to be reopened.
+Admissibility
+In Case C‑266/17, the Republic of Austria submits that the request for a preliminary ruling is inadmissible, on the ground that the referring court has failed to state, in the order for reference, the means of transport concerned by the public contract at issue in the main proceedings and that it is, therefore, impossible to ascertain whether the transport concerned is a transport service by rail or by bus, or indeed a service combining both those means of transport.
+In Case C‑267/17, the Republic of Austria contends that the request for a preliminary ruling is in part inadmissible, since, according to the referring court’s findings, the public contract at issue in the main proceedings relates not only to buses, but also to other motor vehicles. Rhenus Veniro also contends that the first question referred in that case is inadmissible, on the ground that it is hypothetical.
+In the present case, as regards Case C‑266/17, it is true that the order for reference does not expressly specify that the contract at issue in the main proceedings relates to a contract for transport services by bus.
+However, it is apparent from the documents before the Court, and in particular from the prior information notice of September mentioned in the order for reference, that Case C‑266/relates to a contract for passenger transport services by bus.
+As regards Case C‑267/17, while the contract at issue in the main proceedings does indeed relate to a passenger transport service by bus and ‘by other motor vehicles’, it is still the case that the request for a preliminary ruling remains relevant as regards passenger transport by bus, so that the Court’s answer shall be given on the basis of that premiss.
+In addition, contrary to Rhenus Veniro’s claims, the order for reference demonstrates the relevance of the first question referred in that case, since the referring court states that it must decide on the challenge to the direct award of a contract for passenger transport services by bus and that it is unsure which legal rules are applicable to such a direct award.
+It follows that both requests for a preliminary ruling are admissible.
+Consideration of the questions referred
+By its first question in Case C‑266/and its first question in Case C‑267/17, the referring court asks, in essence, whether Article 5(2) of Regulation No 1370/applies to the direct award of contracts for public passenger transport services by bus which do not take the form of service concessions contracts for the purposes of Directives 2004/and 2004/18.
+In that regard, the Court points out that, while the first sentence of Article 5(1) of Regulation No 1370/provides that ‘public service contracts shall be awarded in accordance with the rules laid down in this Regulation’, the second sentence of Article 5(1) adds that, ‘however, service contracts or public service contracts as defined in Directives [2004/17] or [2004/18] for public passenger transport services by bus or tram shall be awarded in accordance with the procedures provided for under those Directives where such contracts do not take the form of service concessions contracts as defined in those Directives’, and the third sentence of Article 5(1) states that ‘where contracts are to be awarded in accordance with Directives [2004/17] or [2004/18], the provisions of paragraphs to of this Article shall not apply’.
+In this instance, in both cases in the main proceedings, the referring court seems to envisage that the direct award of contracts for public passenger transport services by bus is governed, where those contracts do not take the form of service concessions contracts, not by the public procurement rules laid down by Directives 2004/and 2004/18, but by those of Article 5(2) of Regulation No 1370/2007, with those latter provisions, as lex specialis, intended to replace the general rules for direct awards.
+It must, however, be pointed out that the general scheme and origin of EU public procurement legislation cannot lead to such an interpretation.
+In that regard, it must be found that, as the Commission stated in its observations, pursuant to Articles and of Directive 2004/17, read in conjunction with category of Annex XVII A to that directive, and to Articles and of Directive 2004/18, read in conjunction with category of Annex II A to that directive, contracts for transport services by bus and by tram are subject to the entirety of the public procurement procedures laid down in those directives. By contrast, transport services by rail and by metro are subject, pursuant to Articles and of Directive 2004/17, read in conjunction with category of Annex XVII B to that directive, and to Article of Directive 2004/18, read in conjunction with category of Annex II B to that directive, only to a very limited number of those directives’ provisions, in particular to Articles and of Directive 2004/and to Articles and of Directive 2004/18. As regards transport service concessions contracts, they are not subject to any provision of Directive 2004/17, pursuant to Article of that directive, and are subject only to Article of Directive 2004/18, pursuant to Article of that directive.
+Article 5(1) of Regulation No 1370/makes concessions contracts and contracts for passenger transport services by rail and by metro subject to the rules laid down in Article 5(2) to (6) of that regulation whereas, for contracts for transport services by bus and by tram, it refers to Directives 2004/and 2004/18.
+It follows from this that, since there are no rules in those directives specifically governing the award of public contracts in relation to contracts for passenger transport services by rail and by metro, and the award of contracts in the form of services concessions, the EU legislature, in the context of Article 5(2) to (6) of Regulation No 1370/2007, introduced a specific body of award rules applicable to those contracts and concessions, including as regards the direct award of such contracts.
+Since contracts for public passenger transport services by bus and by tram not relating to concessions had already been made subject, as is apparent from paragraph above, to Directives 2004/and 2004/prior to the adoption of Regulation No 1370/2007, new legislation was not felt to be necessary for the awards of such contracts which, therefore, remain as a matter of course subject, as the case may be, to the application of Directive 2004/or Directive 2004/18.
+In that regard, the Court points out that the case-law on the direct award of public contracts has been developed on the basis, and in consideration, of those directives, which implies that the origin and rationale of the direct award regime is to be found there.
+According to the Court’s case-law, the direct awards regime which applies to the situations falling within the scope of Directives 2004/and 2004/constitutes an exception to the application of the procedures provided for by those directives (see, to that effect, judgment of May 2014, Datenlotsen Informationssysteme, C‑15/13, EU:C:2014:303, paragraph 25) and is, therefore, intrinsically linked to those two directives and their legal regime.
+In the judgment of November 1999, Teckal (C‑107/98, EU:C:1999:562, paragraph 50), which was the first to acknowledge that the specific nature of direct awards gives grounds for not applying the public procurement rules, the Court held that while, for the purposes of applying those rules in accordance with Article 1(a) of Council Directive 93/36/EEC of June coordinating procedures for the award of public supply contracts (OJ L 199, p. 1), it is, in principle, sufficient if the contract was concluded between, on the one hand, a local authority and, on the other, a person legally distinct from that local authority, the position can be otherwise in the case where the public authority, which is a contracting authority, exercises over the separate entity in question a control which is similar to that which it exercises over its own departments and that entity carries out the essential part of its activities with the controlling public authority or authorities. Following that judgment, the Court made clear the conditions for applying that regime, in particular in the judgments of January 2005, Stadt Halle and RPL Lochau (C‑26/03, EU:C:2005:5), and of May 2006, Carbotermo and Consorzio Alisei (C‑340/04, EU:C:2006:308), and then in the context of Directives 2004/and 2004/18, in the judgments of September 2009, Sea (C‑573/07, EU:C:2009:532), and of May 2014, Datenlotsen Informationssysteme (C‑15/13, EU:C:2014:303).
+In addition, it must be pointed out that Directives 2014/and 2014/25, which repealed and replaced Directives 2004/and 2004/respectively, both (in Article of Directive 2014/and Article of Directive 2014/25), codified and made clear the Court’s case-law on direct awards.
+Even though that codification of the general regime for direct awards does not apply ratione temporis to the disputes in the main proceedings, it demonstrates that the EU legislature intended that regime to be linked to Directives 2014/and 2014/25.
+That incorporation of the direct award regime within the scope of the public procurement directives means that, in practice, any recourse to that type of award presupposes the application of those directives.
+It follows from this that Article 5(2) of Regulation No 1370/does not apply to the direct award of contracts for public passenger transport services by bus which do not take the form of service concessions contracts.
+In the light of the foregoing, the answer to the first question in Case C‑266/and the first question in Case C‑267/is that Article 5(2) of Regulation No 1370/does not apply to the direct award of contracts for public passenger transport services by bus which do not take the form of service concessions contracts for the purposes of Directives 2004/and 2004/18.
+Since the first question in Case C‑266/and the first question in Case C‑267/have been answered in the negative, there is no need to answer the other questions referred.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fourth Chamber) hereby rules:
+ 
+Article 5(2) of Regulation (EC) No 1370/of the European Parliament and of the Council of October on public passenger transport services by rail and by road does not apply to the direct award of contracts for public passenger transport services by bus which do not take the form of service concessions contracts for the purposes of Directive 2004/17/EC of the European Parliament and of the Council of March coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors and Directive 2004/18/EC of the European Parliament and of the Council of March on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

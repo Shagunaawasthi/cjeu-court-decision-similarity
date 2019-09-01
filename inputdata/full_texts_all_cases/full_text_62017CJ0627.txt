@@ -1,0 +1,100 @@
+
+JUDGMENT OF THE COURT (Tenth Chamber)
+November (
+*)
+(Reference for a preliminary ruling — Regulation (EC) No 861/— European Small Claims Procedure — Articles 2(1) and 3(1) — Scope — Concept of ‘parties’ — Cross-border disputes)
+In Case C‑627/17,
+REQUEST for a preliminary ruling under Article TFEU from the Okresný súd Dunajská Streda (District Court, Dunajská Streda, Slovak Republic), made by decision of September 2017, received at the Court on November 2017, in the proceedings
+ZSE Energia, a.s.
+v
+RG,
+intervener:
+ZSE Energia CZ, s.r.o.,
+THE COURT (Tenth Chamber),
+composed of F. Biltgen, President of the Eighth Chamber, acting as President of the Tenth Chamber, E. Levits (Rapporteur) and M. Berger, Judges,
+Advocate General: H. Saugmandsgaard Øe,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+the Slovak Government, by B. Ricziová, acting as Agent,
+–
+the Portuguese Government, by M.J. Castello-Branco, L. Inez Fernandes and M. Figueiredo, acting as Agents,
+–
+the European Commission, by M. Heller and A. Tokár, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 2(1) and Article 3(1) of Regulation (EC) No 861/of the European Parliament and of the Council of July establishing a European Small Claims Procedure (OJ L 199, p. 1), as amended by Council Regulation (EU) No 517/of May (OJ L 158, p. 1) (‘Regulation No 861/2007’).
+The request has been made in proceedings between ZSE Energia, a.s. and RG concerning the recovery of a debt of a principal amount of EUR 423.74.
+Legal context
+European Union law
+Regulation No 861/Recital of Regulation No 861/reads:
+‘... The obstacles to obtaining a fast and inexpensive judgment are exacerbated in cross-border cases. It is therefore necessary to establish a European procedure for small claims … . The objective of such a procedure should be to facilitate access to justice. ...’
+Recital of that regulation reads:
+‘The European Small Claims Procedure should simplify and speed up litigation concerning small claims in cross-border cases, whilst reducing costs, by offering an optional tool in addition to the possibilities existing under the laws of the Member States, which will remain unaffected. ...’
+Recital of that regulation is worded as follows:
+‘In order to facilitate the commencement of the European Small Claims Procedure, the claimant should make an application by filling in a standard claim form and lodging it with the court or tribunal. ...’
+The first paragraph of Article of that regulation provides:
+‘This Regulation establishes a European procedure for small claims (hereinafter referred to as the European Small Claims Procedure), intended to simplify and speed up litigation concerning small claims in cross-border cases, and to reduce costs. The European Small Claims Procedure shall be available to litigants as an alternative to the procedures existing under the laws of the Member States.’
+Article 2(1) of Regulation No 861/provides:
+‘This Regulation shall apply, in cross-border cases, to civil and commercial matters, whatever the nature of the court or tribunal, where the value of a claim does not exceed EUR at the time when the claim form is received by the court or tribunal with jurisdiction, excluding all interest, expenses and disbursements. It shall not extend, in particular, to revenue, customs or administrative matters or to the liability of the State for acts and omissions in the exercise of State authority (acta jure imperii).’
+Article of that regulation is worded as follows:
+‘1.   For the purposes of this Regulation, a cross-border case is one in which at least one of the parties is domiciled or habitually resident in a Member State other than the Member State of the court or tribunal seised.
+…
+3.   The relevant moment for determining whether there is a cross-border case is the date on which the claim form is received by the court or tribunal with jurisdiction.’
+Article 4(3) of that regulation states:
+‘Where a claim is outside the scope of this Regulation, the court or tribunal shall inform the claimant to that effect. Unless the claimant withdraws the claim, the court or tribunal shall proceed with it in accordance with the relevant procedural law applicable in the Member State in which the procedure is conducted.’
+Article of that regulation is worded as follows:
+‘Subject to the provisions of this Regulation, the European Small Claims Procedure shall be governed by the procedural law of the Member State in which the procedure is conducted.’
+Slovak law
+Under Paragraph of Law No 160/establishing the Code of Contentious Civil Procedure, in its version applicable to the main dispute, the term ‘parties to the procedure’ refers to the applicant and to the defendant.
+An intervener is defined in Paragraph of that code as a person who participates in the proceedings together with the applicant or the defendant and has a legal interest in the outcome of the proceedings.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+ZSE Energia, established in Bratislava (Slovak Republic), seised the referring court with a request concerning a claim amounting to EUR 423.74, excluding late‑payment interest, pursuant to the European small claims procedure.
+ZSE Energia filed its application to the referring court using form A in Annex I to Regulation No 861/2007, indicating itself as Claimant 1.
+On that form, furthermore, ZSE Energia CZ, s.r.o., established in the Czech Republic, was indicated as Claimant 2. The request in question indicated that ZSE Energia CZ had entered into an agreement with ZSE Energia, under which ZSE Energia CZ undertook, on a commission basis, to manage and recover some of ZSE Energia’s claims, including the claim against RG, who is domiciled in Vojka nad Dunajom (Slovak Republic).
+Claimant affirmed to the referring court, in a separate document appended to the claim form, that under Paragraph of the Code of Contentious Civil Procedure, it is taking part in the pending proceedings as an intervener, inasmuch as it has a legal interest in the outcome of the proceedings.
+The referring court requested both Claimants and to rectify Form A by using Form B of Annex II to Regulation No 861/2007. It drew attention to the fact that, while the claim form at issue provided data relating to two claimants, the form indicated that the claim was to be paid only to Claimant 1. Taking the view that Claimant was not the genuine applicant, it requested either that only Claimant be indicated in the claim form or that it be specified in that form what claim the respondent was required to pay to Claimant 2.
+In response to that request, ZSE Energia submitted a duly corrected Form A to the referring court that mentioned ZSE Energia alone as ‘claimant’ while ZSE Energia CZ was there listed only as ‘intervener’.
+The referring court was then unsure whether the question before it constituted a cross-border case coming within the scope of Regulation No 861/2007.
+In those circumstances, the Okresný súd Dunajská Streda (District Court, Dunajská Streda, Slovak Republic) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Must the term “one of the parties” used in Article 3(1) of Regulation No 861/be interpreted as also including the “intervener”, that is, an individual participating in the proceedings who is neither the claimant (applicant) nor the respondent (defendant), but who intervenes in the proceedings in order to support the arguments put forward by the claimant (applicant) or the respondent (defendant)?
+(2)
+In the event that the “intervener” is not to be regarded as a “party” for the purposes of Article 3(1) of Regulation No 861/2007:
+Does a procedure commenced using Form A ... between a claimant (applicant) and a respondent (defendant) come within the scope of Regulation No 861/under Article 2(1) of that regulation, read in conjunction with Article 3(1) thereof, if those parties are domiciled in the same Member State as the Member State in which the court or tribunal seised is situated, and only the “intervener” is domiciled in a different Member State?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks, in essence, whether Article 3(1) of Regulation No 861/must be interpreted as meaning that the concept of ‘parties’ covers solely the applicant and defendant in the main proceedings or whether it also includes an ‘intervener’ participating in the proceedings in support of one of those parties.
+In that regard, it must be noted, first, that Article 3(1) of Regulation No 861/does not define the concept of ‘parties’, nor does it refer to the law of the Member States on that issue. According to settled case-law, the need for uniform application of EU law and the principle of equality require that the terms of a provision of EU law which makes no express reference to the law of the Member States for the purpose of determining its meaning and scope must normally be given an autonomous and uniform interpretation throughout the European Union (see, inter alia, judgment of August 2018, Bichat and Others, C‑61/17, C‑62/and C‑72/17, EU:C:2018:653, paragraph and the case-law cited).
+In those circumstances, the concept of ‘parties’ referred to in Article 3(1) of that regulation must be given an autonomous and uniform interpretation within the legal order of the European Union.
+In that regard, it must first be stated that it cannot be inferred with certitude, solely from the wording of Article 3(1) of Regulation No 861/2007, that the concept of ‘parties’ does not also include the concept of ‘intervener’.
+Secondly, regarding the doubts expressed by the referring court as to the interpretation of the concept of ‘parties’ on account of a possible inconsistency in the Slovak-language version of Regulation No 861/2007, it must be recalled that the provisions of EU law must be interpreted and applied in a uniform manner, in the light of the versions established in all of the languages of the European Union. Where there is divergence between the various language versions of an EU legislative text, the provision in question must be interpreted by reference to the purpose and general scheme of the rules of which it forms part (judgment of March 2016, Alo and Osso, C‑443/and C‑444/14, EU:C:2016:127, paragraph 27).
+Regarding the general scheme of Regulation No 861/2007, it must be noted, as the referring court has done, that that regulation provides solely for the rights and obligations of the applicant and defendant in the main proceedings. It follows that Forms A and C in Annexes I and III to that regulation must be filled in respectively by the applicant, that is, the ‘claimant’, as regards Form A, and by the defendant, that is, the ‘respondent’, as regards Form C. By contrast, aside from the forms that Regulation No 861/reserves for the court having jurisdiction, no other section is provided for other persons who may be involved in the dispute in the main proceedings.
+It therefore follows from the general scheme of Regulation No 861/that the participation of parties intervening in the disputes covered by that regulation was not envisaged.
+This assessment is confirmed by the very objective of Regulation No 861/2007. Recitals and and Article of that regulation underline the fact that the purpose of the European procedure, which is optional, is three-fold. Its aim is to allow for the resolution of small claims in cross-border cases in a simpler and faster manner whilst reducing costs. Such an objective could not, however, be achieved if the procedure established were to allow for the participation of a third person, such as an intervener.
+In that context, it must also be borne in mind, as the Slovak Government and the Commission have pointed out in their observations, that the EU legislature expressed, during the adoption of Regulation (EU) 2015/of the European Parliament and of the Council of December amending Regulation (EC) No 861/(OJ L 341, p. 1), its desire not to extend the definition of cross‑border disputes, despite the Commission’s proposition to that effect (COM(2013) final). That will of the EU legislature would be disregarded if the fact that an intervener was domiciled in a Member State other than that of the applicant and defendant were sufficient to extend the scope of Regulation No 861/to a dispute such as that in the main proceedings.
+In the light of all of the foregoing considerations, the answer to the first question is that Article 3(1) of Regulation No 861/must be interpreted as meaning that the concept of ‘parties’ covers solely the applicant and defendant in the main proceedings.
+The second question
+By its second question, the referring court asks, in essence, whether Article 2(1) and Article 3(1) of Regulation No 861/must be interpreted as meaning that a dispute comes within the scope of that regulation when the applicant and the defendant are domiciled in the same Member State as the court or tribunal seised.
+In this regard, it is sufficient to note that Article 2(1) of Regulation No 861/explicitly limits the scope of that regulation to cross-border disputes. Article 3(1) of that regulation, as interpreted by the Court in paragraph of the present judgment, defines a cross-border dispute as a dispute in which the applicant and/or the defendant has his domicile or habitual residence in a Member State other than that of the court or tribunal seised.
+Consequently, a dispute such as the one in the main proceedings, in which the applicant and the defendant are domiciled in the same Member State as the court seised, does not come within the scope of Regulation No 861/2007.
+For the sake of completeness, it must be recalled that, according to recital of Regulation No 861/2007, that regulation is a tool offered, when the conditions for its applicability are fulfilled, in addition to the possibilities existing under the laws of the Member States.
+Thus, the applicable procedural law in the Member State in which the proceedings take place remains applicable when a claim does not come within the scope of Regulation No 861/2007. In such a situation, according to Article 4(3) of that regulation, it is for the referring court to inform the claimant to that effect and, if he does not withdraw his claim, to proceed with it in accordance with the applicable national procedural law.
+In the light of all the foregoing considerations, the answer to the second question is that Article 2(1) and Article 3(1) of Regulation No 861/must be interpreted as meaning that a dispute such as that in the main proceedings, in which the applicant and the defendant have their domicile or their habitual residence in the same Member State as the court or tribunal seised, does not come within the scope of that regulation.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Tenth Chamber) hereby rules:
+ 
+1.
+Article 3(1) of Regulation (EC) No 861/of the European Parliament and of the Council of July establishing a European Small Claims Procedure, as amended by Council Regulation (EU) No 517/of May 2013, must be interpreted as meaning that the concept of ‘parties’ covers solely the applicant and the defendant in the main proceedings.
+ 
+2.
+Article 2(1) and Article 3(1) of Regulation No 861/2007, as amended by Regulation No 517/2013, must be interpreted as meaning that a dispute such as that in the main proceedings, in which the applicant and the defendant have their domicile or their habitual residence in the same Member State as the court or tribunal seised, does not come within the scope of that regulation.
+ 
+[Signatures]
+(
+*)	Language of the case: Slovak.
+Top  

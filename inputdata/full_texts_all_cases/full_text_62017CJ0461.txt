@@ -1,0 +1,259 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+November (
+*)
+(Reference for a preliminary ruling — Environment — Directive 92/43/EEC — Conservation of natural habitats — Conservation of wild fauna and flora — Road construction project — Appropriate assessment of effects on the environment — Extent of the obligation to state reasons — Directive 2011/92/EU — Assessment of the implications of certain projects — Annex IV, Point — Article 5(3)(d) — Meaning of the concept of ‘main alternatives’)
+In Case C‑461/17,
+REQUEST for a preliminary ruling under Article TFEU from the High Court (Ireland), made by decision of May 2017, received at the Court on July 2017, in the proceedings
+Brian Holohan,
+Richard Guilfoyle,
+Noric Guilfoyle,
+Liam Donegan
+v
+An Bord Pleanála,
+intervening parties:
+National Parks and Wildlife Service (NPWS),
+THE COURT (Second Chamber),
+composed of A. Prechal, President of the Third Chamber, acting as President of the Second Chamber, C. Toader (Rapporteur), and A. Rosas, Judges,
+Advocate General: J. Kokott,
+Registrar: K. Malacek, Administrator,
+having regard to the written procedure and further to the hearing on May 2018,
+after considering the observations submitted on behalf of:
+–
+B. Holohan, R. Guilfoyle, N. Guilfoyle and L. Donegan, by D. Browne and C. Hugues, both Barristers-at-law, and by P. O’Higgins and J. Devlin, both Senior Counsel, instructed by C. Herlihy, L. O’Sullivan and B. Harrington, Solicitors,
+–
+An Bord Pleanála, by F. Valentine, Barrister-at-law, and N. Butler, Senior Counsel, instructed by M. Larkin and A. Doyle, solicitors,
+–
+Ireland, by M. Browne, G. Hodge and A. Joyce, acting as Agents, and by G. Simons, Senior Counsel, and M. Gray, Barrister-at-law,
+–
+the Czech Government, by M. Smolek, J. Vláčil and L. Dvořáková, acting as Agents,
+–
+the United Kingdom Government, initially by G. Brown, acting as Agent, and by C. Banner, Barrister, and subsequently by R. Fadoju and J. Kraehling, acting as Agents, and by T. Buley and C. Banner, Barristers,
+–
+the European Commission, by C. Hermes, E. Manhaeve and M. Noll-Ehlers, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on August 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Council Directive 92/43/EEC of May on the conservation of natural habitats and of wild fauna and flora (OJ L 206, p. 7; ‘the Habitats Directive’) and of Directive 2011/92/EU of the European Parliament and of the Council of December on the assessment of the effects of certain public and private projects on the environment (OJ L 26, p. 1; ‘the EIA Directive’).
+The request has been made in proceedings where the opposing parties are Mr Brian Holohan, Mr Richard Guilfoyle, Mr Noric Guilfoyle and Mr Liam Donegan, on the one hand, and An Bord Pleanála (Ireland) (the Planning Board; ‘the Board’), on the other, concerning the granting of development consent for a project to extend the northern ring-road of the city of Kilkenny (Ireland) (‘the development project’).
+Legal context
+European Union law
+The Habitats Directive
+The first and third recitals of the Habitats Directive state:
+‘… the preservation, protection and improvement of the quality of the environment, including the conservation of natural habitats and of wild fauna and flora, are an essential objective of general interest pursued by the Community, as stated in Article [TFEU];
+...
+... the main aim of this Directive being to promote the maintenance of biodiversity, taking account of economic, social, cultural and regional requirements, this Directive makes a contribution to the general objective of sustainable development; ... the maintenance of such biodiversity may in certain cases require the maintenance, or indeed the encouragement, of human activities.’
+Article of that directive provides:
+‘For the purposes of this directive:
+...
+(e)
+conservation status of a natural habitat means the sum of the influences acting on a natural habitat and its typical species that may affect its long-term natural distribution, structure and functions as well as the long-term survival of its typical species within the territory referred to in Article 2.
+The [conservation] status of a natural habitat will be taken as “favourable” when:
+–
+its natural range and areas it covers within that range are stable or increasing, and
+–
+the specific structure and functions which are necessary for its long-term maintenance exist and are likely to continue to exist for the foreseeable future, and
+...
+(k)
+site of Community importance means a site which, in the biogeographical region or regions to which it belongs, contributes significantly to the maintenance or restoration at a favourable conservation status of a natural habitat type in Annex I or of a species in Annex II and may also contribute significantly to the coherence of Natura referred to in Article 3, and/or contributes significantly to the maintenance of biological diversity within the biogeographic region or regions concerned.
+...
+(l)
+special area of conservation means a site of Community importance designated by the Member States through a statutory, administrative and/or contractual act where the necessary conservation measures are applied for the maintenance or restoration, at a favourable conservation status, of the natural habitats and/or the populations of the species for which the site is designated;
+...’
+Article of the Habitats Directive provides:
+‘1.   The aim of this Directive shall be to contribute towards ensuring bio-diversity through the conservation of natural habitats and of wild fauna and flora in the European territory of the Member States to which the Treaty applies.
+2.   Measures taken pursuant to this Directive shall be designed to maintain or restore, at favourable conservation status, natural habitats and species of wild fauna and flora of Community interest.
+3.   Measures taken pursuant to this Directive shall take account of economic, social and cultural requirements and regional and local characteristics.’
+Article 3(1) of the Habitats Directive is worded as follows:
+‘A coherent European ecological network of special areas of conservation shall be set up under the title Natura 2000. This network, composed of sites hosting the natural habitat types listed in Annex I and habitats of the species listed in Annex II, shall enable the natural habitat types and the species’ habitats concerned to be maintained or, where appropriate, restored at a favourable conservation status in their natural range.
+...’
+Article of that directive provides:
+‘1.   For special areas of conservation, Member States shall establish the necessary conservation measures involving, if need be, appropriate management plans specifically designed for the sites or integrated into other development plans, and appropriate statutory, administrative or contractual measures which correspond to the ecological requirements of the natural habitat types in Annex I and the species in Annex II present on the sites.
+2.   Member States shall take appropriate steps to avoid, in the special areas of conservation, the deterioration of natural habitats and the habitats of species as well as disturbance of the species for which the areas have been designated, in so far as such disturbance could be significant in relation to the objectives of this Directive.
+3.   Any plan or project not directly connected with or necessary to the management of the site but likely to have a significant effect thereon, either individually or in combination with other plans or projects, shall be subject to appropriate assessment of its implications for the site in view of the site’s conservation objectives. In the light of the conclusions of the assessment of the implications for the site and subject to the provisions of paragraph 4, the competent national authorities shall agree to the plan or project only after having ascertained that it will not adversely affect the integrity of the site concerned and, if appropriate, after having obtained the opinion of the general public.
+4.   If, in spite of a negative assessment of the implications for the site and in the absence of alternative solutions, a plan or project must nevertheless be carried out for imperative reasons of overriding public interest, including those of a social or economic nature, the Member State shall take all compensatory measures necessary to ensure that the overall coherence of Natura is protected. It shall inform the Commission of the compensatory measures adopted.
+Where the site concerned hosts a priority natural habitat type and/or a priority species, the only considerations which may be raised are those relating to human health or public safety, to beneficial consequences of primary importance for the environment or, further to an opinion from the Commission, to other imperative reasons of overriding public interest.’
+In accordance with Article of the Habitats Directive, obligations arising under Article 6(2) to (4) of that directive are to apply to special protection areas (‘SPAs’) within the meaning of Directive 2009/147/EC of the European Parliament and of the Council of November on the conservation of wild birds (OJ L 20, p. 7; ‘the Birds Directive’).
+The Birds Directive
+The fourth subparagraph of Article 4(1) of the Birds Directive provides:
+‘Member States shall classify in particular the most suitable territories in number and size as [SPAs] for the conservation of these species in the geographical sea and land area where this Directive applies.’
+The EIA Directive
+Article of the EIA Directive provides:
+‘1.   This Directive shall apply to the assessment of the environmental effects of those public and private projects which are likely to have significant effects on the environment.
+2.   For the purposes of this Directive, the following definitions shall apply:
+(a)
+“project” means:
+–
+the execution of construction works or of other installations or schemes,
+–
+other interventions in the natural surroundings and landscape including those involving the extraction of mineral resources;
+(b)
+“developer” means the applicant for authorisation for a private project or the public authority which initiates a project;
+(c)
+“development consent” means the decision of the competent authority or authorities which entitles the developer to proceed with the project;
+(d)
+“public” means one or more natural or legal persons and, in accordance with national legislation or practice, their associations, organisations or groups;
+(e)
+“public concerned” means the public affected or likely to be affected by, or having an interest in, the environmental decision-making procedures referred to in Article 2(2). For the purposes of this definition, non-governmental organisations promoting environmental protection and meeting any requirements under national law shall be deemed to have an interest;
+(f)
+“competent authority or authorities’ means that authority or those authorities which the Member States designate as responsible for performing the duties arising from this Directive.
+...’
+Article 2(1) of that directive provides:
+‘Member States shall adopt all measures necessary to ensure that, before consent is given, projects likely to have significant effects on the environment by virtue, inter alia, of their nature, size or location are made subject to a requirement for development consent and an assessment with regard to their effects. These projects are defined in Article 4.’
+Article of that directive is worded as follows:
+‘The environmental impact assessment shall identify, describe and assess in an appropriate manner, in the light of each individual case and in accordance with Articles to 12, the direct and indirect effects of a project on the following factors:
+(a)
+human beings, fauna and flora;
+(b)
+soil, water, air, climate and the landscape;
+(c)
+material assets and the cultural heritage;
+(d)
+the interaction between the factors referred to in points (a), (b) and (c).’
+Article 4(1) of the EIA Directive provides:
+‘Subject to Article 2(4), projects listed in Annex I shall be made subject to an assessment in accordance with Articles to 10.’
+Article of that directive provides:
+‘1.   In the case of projects which, pursuant to Article 4, are to be made subject to an environmental impact assessment in accordance with this Article and Articles to 10, Member States shall adopt the necessary measures to ensure that the developer supplies in an appropriate form the information specified in Annex IV inasmuch as:
+(a)
+the Member States consider that the information is relevant to a given stage of the consent procedure and to the specific characteristics of a particular project or type of project and of the environmental factors likely to be affected;
+(b)
+the Member States consider that a developer may reasonably be required to compile this information having regard, inter alia, to current knowledge and methods of assessment.
+...
+3.   The information to be provided by the developer in accordance with paragraph shall include at least:
+...
+(c)
+the data required to identify and assess the main effects which the project is likely to have on the environment;
+(d)
+an outline of the main alternatives studied by the developer and an indication of the main reasons for his choice, taking into account the environmental effects;
+...’
+Point of Annex IV to that directive, that annex being headed ‘Information referred to in Article 5(1)’ is worded as follows:
+‘A description of the aspects of the environment likely to be significantly affected by the proposed project, including, in particular, population, fauna, flora, soil, water, air, climatic factors, material assets, including the architectural and archaeological heritage, landscape and the interrelationship between the above factors.’
+Article 3(2) of Directive 2014/52/EU of the European Parliament and of the Council of April amending Directive 2011/(OJ L 124, p. 1) provides:
+‘Projects shall be subject to the obligations referred to in Article and Articles to of [the EIA Directive] prior to its amendment by this Directive where, before May 2017:
+(a)
+the procedure regarding the opinion referred to in Article 5(2) of the [EIA Directive] was initiated; or
+(b)
+the information referred to in Article 5(1) of the [EIA Directive] was provided.’
+Irish law
+Section 177V(1) in Part XAB of the Planning and Development Act states:
+‘An appropriate assessment carried out under this Part shall include a determination by the competent authority under Article 6(3) of the Habitats Directive as to whether or not a draft land use plan or proposed development would adversely affect the integrity of a European site and an appropriate assessment shall be carried out by the competent authority, in each case where it has made a determination under Section 177U(4) that an appropriate assessment is required, before ... consent is given for the proposed development.’
+Section 177V(2) of that act provides:
+‘In carrying out an appropriate assessment under subsection (1) the competent authority shall take into account each of the following matters: (a) the Natura impact report or Natura impact statement, as appropriate; (b) any supplemental information furnished in relation to any such report or statement; (c) if appropriate, any additional information sought by the authority and furnished by the applicant in relation to a Natura impact statement; (d) any additional information furnished to the competent authority at its request in relation to a Natura impact report; (e) any information or advice obtained by the competent authority; (f) if appropriate, any written submissions or observations made to the competent authority in relation to the application for consent for proposed development; (g) any other relevant information.’
+Section 217B of the Planning and Development Act allows the Board to request further information from the roads authorities, and to invite the roads authorities to make specified alterations to the terms of a proposed road development.
+Section of the Roads Act states:
+‘(2)
+An environmental impact statement shall contain the following specified information:
+...
+(d)
+an outline of the main alternatives studied by the developer and an indication of the main reasons for his choice, taking into account the environmental effects …’
+According to Section 50(5) of that act, a scoping opinion, that is, a written opinion on the information to be contained in such an environmental impact statement, must be provided if requested by the developer.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+The applicants in the main proceedings seek to obtain an order of certiorari annulling the Board’s decision of July concerning the development project consent granted to Kilkenny County Council (Ireland). That development project includes the provision of approximately 1.kilometres of single carriageway road, the construction of one roundabout and the adaptation of a second, the provision of a footpath and a cycle track along the city side and various other works.
+The proposed road crosses two Natura sites: the River Nore SPA, designated by Ireland under the Birds Directive, and the River Barrow and River Nore site of Community importance (the ‘SIC’), listed as an SIC under the Habitats Directive since 2004.
+The applicants in the main proceedings claim, in essence, that (i) the Board erred in failing to consider the environmental effects of the main alternatives studied; (ii) the appropriate assessment purportedly carried out was deficient; and (iii) the Board erred in approving the proposed development and the Natura Impact Statement (‘NIS’) submitted by Kilkenny County Council, as that council had failed to carry out pre-consent ecological surveys.
+The referring court states that the developer, namely Kilkenny County Council, drew up the NIS for the development project in May 2013. According to that court, the NIS, which was based on a document drafted by the National Parks and Wildlife Service (Ireland) on July on conservation objectives, setting out objectives to be achieved for the purposes of classification as a special area of conservation, does not fully examine the effects on species other than those for which the River Barrow and River Nore site was listed and does not address the effects on protected species or habitats to be found outside the boundaries of the sites concerned.
+In December the developer also drew up an Environmental Impact Statement (‘the EIS’) and on December made an application to the Board for consent for the development project.
+Following opposition and a hearing in April 2014, a report by the Board’s inspector in relation to that application was published in June 2014. In her report, the inspector concluded that the information in that application, the EIS and the NIS was not adequate and that significant further information was required. The inspector sought greater information on, inter alia, the construction phase, a scientific baseline study, and scaled drawings indicating the location or possible location of protected species or habitats, as well as additional information on the option of ‘spanning’, consisting of the construction of a bridge across the floodplain. Notwithstanding that inspection report, the competent authority took the decision, in July 2014, to grant consent for the development project.
+According to the referring court, the EIS does not deal in detail with the option of ‘spanning’, on the ground that that option was discounted by Kilkenny County Council ‘at an early stage’ in favour of a ‘more cost effective solution’. The referring court adds that the EIS also fails explicitly to analyse the effects of the project in question on all the species identified in the EIS.
+In those circumstances, the High Court (Ireland) decided to stay proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+whether [the Habitats Directive] has the effect that a Natura impact statement must identify the entire extent of the habitats and species for which the site is listed;
+(2)
+whether [the Habitats Directive] has the effect that the potential impact on all species (as opposed to only protected species) which contribute to and are part of a protected habitat must be identified and discussed in a Natura impact statement;
+(3)
+whether [the Habitats Directive] has the effect that a Natura impact statement must expressly address the impact of the proposed development on protected species and habitats both located on the [special conservation area] as well as species and habitats located outside its boundaries;
+(4)
+whether [the EIA Directive], as amended, has the effect that an environmental impact statement must expressly address whether the proposed development will significantly impact on the species identified in the statement;
+(5)
+whether an option that the developer considered and discussed in the environmental impact assessment, and/or that was argued for by some of the stakeholders, and/or that was considered by the competent authority, amounts to a “main alternative” within the meaning of Article 5(3)(d) of [the EIA Directive], as amended, even if it was rejected by the developer at an early stage;
+(6)
+whether [the EIA Directive], as amended, has the effect that an environmental impact assessment should contain sufficient information as to the environmental impact of each alternative as to enable a comparison to be made between the environmental desirability of the different alternatives; and/or that it must be made explicit in the environmental impact statement as to how the environmental effects of the alternatives were taken into account;
+(7)
+whether the requirement in Article 5(3)(d) of [the EIA Directive], as amended, that the reasons for the developer’s choice must be made by “taking into account the environmental effects”, applies only to the chosen option or also to the main alternatives studied, so as to require the analysis of those options to address their environmental effects;
+(8)
+whether it is compatible with the attainment of the objectives of [the Habitats Directive] that details of the construction phase (such as the compound location and haul routes) can be left to post-consent decision, and if so whether it is open to a competent authority to permit such matters to be determined by unilateral decision by the developer, within the context of any development consent granted, to be notified to the competent authority rather than approved by it;
+(9)
+whether [the Habitats Directive] has the effect that a competent authority is obliged to record, with sufficient detail and clarity to dispel any doubt as to the meaning and effect of such opinion, the extent to which scientific opinion presented to it argues in favour of obtaining further information prior to the grant of development consent;
+(10)
+whether [the Habitats Directive] has the effect that the competent authority is required to give reasons or detailed reasons for rejecting a conclusion by its inspector that further information or scientific study is required prior to the grant of development consent; and
+(11)
+whether [the Habitats Directive] has the effect that a competent authority, when conducting an appropriate assessment, must provide detailed and express reasons for each element of its decision.’
+Consideration of the questions referred
+The Habitats Directive
+First, it must be recalled that Article of the Habitats Directive imposes upon the Member States a series of specific obligations and procedures designed, as is clear from Article 2(2) of that directive, to maintain, or as the case may be, restore, at a favourable conservation status, natural habitats and species of wild fauna and flora of interest for the European Union, in order to attain that directive’s more general objective, which is to ensure a high level of environmental protection as regards the sites protected pursuant to it (judgment of April 2018, Commission v Poland (Białowieża Forest), C‑441/17, EU:C:2018:255, paragraph and the case-law cited).
+More specifically, Article 6(3) of the Habitats Directive establishes an assessment procedure intended to ensure, by means of an ex ante examination, that a plan or project not directly connected with or necessary to the management of the site concerned but likely to have a significant effect on it is authorised only to the extent that it will not adversely affect the integrity of that site. That provision thus prescribes two stages. The first stage, envisaged in that provision’s first sentence, requires the Member States to carry out an appropriate assessment of the implications for a protected site of a plan or project when there is a likelihood that the plan or project will have a significant effect on that site. The second stage, which is envisaged in the second sentence of Article 6(3) of the Habitats Directive and which occurs following the aforesaid appropriate assessment, allows such a plan or project to be authorised on condition that it will not adversely affect the integrity of the site concerned (see, to that effect, judgment of July 2016, Orleans and Others, C‑387/and C‑388/15, EU:C:2016:583, paragraphs to and the case-law cited).
+The first three questions
+By its first three questions, which can be examined together, the referring court seeks, in essence, to ascertain whether Article 6(3) of the Habitats Directive must be interpreted as meaning that an ‘appropriate assessment’ must, on the one hand, catalogue all the habitat types and species for which a site is protected, and, on the other, identify and examine both the effects of the proposed project on the species present on the site, but for which that site has not been listed, and the effects on habitat types and species to be found outside the boundaries of that site.
+Under Article 6(3) of the Habitats Directive, an appropriate assessment of the implications of a plan or project for the site concerned implies that, before the plan or project is approved, all the aspects of the plan or project which can, either individually or in combination with other plans or projects, affect the conservation objectives of that site must be identified, in the light of the best scientific knowledge in the field. The competent national authorities are to authorise an activity on the protected site only if they have made certain that it will not adversely affect the integrity of that site. That is so when there is no reasonable scientific doubt as to the absence of such effects (judgment of November 2016, Lesoochranárske zoskupenie VLK, C‑243/15, EU:C:2016:838, paragraph and the case-law cited).
+The assessment carried out under that provision may not have lacunae and must contain complete, precise and definitive findings and conclusions capable of dispelling all reasonable scientific doubt as to the effects of the proposed works on the protected area concerned (judgment of July 2018, Grace and Sweetman, C‑164/17, EU:C:2018:593, paragraph and the case-law cited).
+In order for the integrity of a site as a natural habitat not to be adversely affected for the purposes of the second sentence of Article 6(3) of the Habitats Directive, the site needs to be preserved at a favourable conservation status; this entails the lasting preservation of the constitutive characteristics of the site concerned that are connected to the presence of a natural habitat type whose preservation was the objective justifying the designation of that site in the list of sites of Community importance, in accordance with that directive (judgment of April 2018, Commission v Poland (Białowieża Forest), C‑441/17, EU:C:2018:255, paragraph and the case-law cited).
+Taking account of those conservation objectives, the Court must determine the extent of the obligation to carry out an appropriate assessment of the implications of a plan or project for a site in question.
+Since, as stated in paragraphs and of the present judgment, all aspects which might affect those objectives must be identified and since the assessment carried out must contain complete, precise and definitive findings in that regard, it must be held that all the habitats and species for which the site is protected must be catalogued. A failure, in that assessment, to identify the entirety of the habitats and species for which the site has been listed would be to disregard the abovementioned requirements and, therefore, as observed, in essence, by the Advocate General in point of her Opinion, would not be sufficient to dispel all reasonable scientific doubt as to the absence of adverse effects on the integrity of the protected site (see, to that effect, judgment of April 2017, Commission v Germany, C‑142/16, EU:C:2017:301, paragraph 33).
+It must also be added that, since the assessment must clearly demonstrate why the protected habitat types and species are not affected, it may be sufficient to establish, as observed by the Advocate General in point of her Opinion, that only certain protected habitat types and species are present in the part of the protected area that is affected by the project and that the other protected habitat types and species present on the site are not liable to be affected.
+As regards other habitat types or species, which are present on the site, but for which that site has not been listed, and with respect to habitat types and species located outside that site, it must be recalled that the Habitats Directive, as follows from the wording of Article 6(3) of that directive, subjects ‘[a]ny plan or project not directly connected with or necessary to the management of the site but likely to have a significant effect thereon’ to the environmental protection mechanism of that provision. In that regard, as stated by the Advocate General in points and of her Opinion, the conservation objective pursued by the Habitats Directive, recalled in paragraph of the present judgment, entails that typical habitats or species must be included in the appropriate assessment, if they are necessary to the conservation of the habitat types and species listed for the protected area.
+In the light of the foregoing, the answer to the first three questions is that Article 6(3) of the Habitats Directive must be interpreted as meaning that an ‘appropriate assessment’ must, on the one hand, catalogue the entirety of habitat types and species for which a site is protected, and, on the other, identify and examine both the implications of the proposed project for the species present on that site, and for which that site has not been listed, and the implications for habitat types and species to be found outside the boundaries of that site, provided that those implications are liable to affect the conservation objectives of the site.
+The eighth question
+By its eighth question, which the Court can deal with in the second place, the referring court seeks, in essence, to ascertain whether Article 6(3) of the Habitats Directive must be interpreted as meaning that it enables the competent authority to grant to a plan or project development consent which leaves for later decision the determination of certain parameters relating to the construction phase, such as the location of the construction compound and haul routes, and, if so, whether those parameters may, at that later stage, be determined unilaterally by the developer and merely notified to that authority.
+It must be recalled that it is clear from Article 6(3) of the Habitats Directive that competent national authorities are not to agree to a plan or project that is not directly connected with or necessary to the management of the site but is likely to have a significant effect thereon, unless they have first ascertained by means of an appropriate assessment that it will not adversely affect the integrity of the site concerned.
+In accordance with the case-law cited in paragraphs and of the present judgment, an appropriate assessment of the implications of a plan or project for a protected site entails, first, that, before that plan or project is approved, all aspects of that plan or project that might affect the conservation objectives of that site are identified. Second, such an assessment cannot be considered to be appropriate if it contains lacunae and does not contain complete, precise and definitive findings and conclusions capable of dispelling all reasonable scientific doubt as to the effects of the plan or project on that site. Third, all aspects of the plan or project in question which may, either individually or in combination with other plans or projects, affect the conservation objectives of that site must be identified, in the light of the best scientific knowledge in the field.
+Those obligations, in accordance with the wording of Article 6(3) of the Habitats Directive, are borne not by the developer, even if the developer is, as in this case, a public authority, but by the competent authority, namely the authority that the Member States designate as responsible for performing the duties arising from that directive.
+It follows that that provision requires the competent authority to catalogue and assess all aspects of a plan or project that might affect the conservation objectives of the protected site before granting the development consent at issue.
+As also observed by the Advocate General in points and of her Opinion, only those parameters as to the effects of which there is no scientific doubt that they might affect the site can be entirely left to be decided later by the developer.
+In the light of the foregoing, the answer to the eighth question is that Article 6(3) of the Habitats Directive must be interpreted as meaning that the competent authority is permitted to grant to a plan or project development consent which leaves the developer free to determine later certain parameters relating to the construction phase, such as the location of the construction compound and haul routes, only if that authority is certain that the development consent granted establishes conditions that are strict enough to guarantee that those parameters will not adversely affect the integrity of the site.
+The 9th, 10th and 11th questions
+By its 9th, 10th and 11th questions, which can be dealt with together, the referring court seeks, in essence, to ascertain whether Article 6(3) of the Habitats Directive must be interpreted as meaning that, where the competent authority rejects the findings in a scientific expert opinion recommending that additional information be obtained, the ‘appropriate assessment’ must include an explicit and detailed statement of reasons capable of ensuring certainty that, notwithstanding such an opinion, there is no reasonable scientific doubt as to the environmental impact of the work envisaged on the site that is the subject of those findings.
+It follows, in particular from the Court’s case-law in relation to Article 6(3) of the Habitats Directive, as summarised in paragraph of the present judgment, that the assessment carried out under Article 6(3) of that Directive may not have lacunae and must contain complete, precise and definitive findings and conclusions capable of dispelling all reasonable scientific doubt as to the effects of the proposed works on the protected area concerned.
+If there are no such conclusions capable of dispelling all reasonable doubt as to the adequacy of the information available, the assessment cannot be considered to be ‘appropriate’, within the meaning of Article 6(3) of the Habitats Directive.
+In circumstances such as those in the main proceedings, that requirement entails that the competent authority should be in a position to state to the requisite legal standard the reasons why it was able, prior to the granting of development consent, to achieve certainty, notwithstanding the opinion of its inspector asking that it obtain additional information, that there is no reasonable scientific doubt with respect to the environmental impact of the work envisaged on the site concerned.
+In the light of the foregoing, the answer to the 9th, 10th and 11th questions is that Article 6(3) of the Habitats Directive must be interpreted as meaning that, where the competent authority rejects the findings in a scientific expert opinion recommending that additional information be obtained, the ‘appropriate assessment’ must include an explicit and detailed statement of reasons, capable of dispelling all reasonable scientific doubt concerning the effects of the work envisaged on the site concerned.
+The EIA Directive
+While the request for a preliminary ruling refers to the amendments made by Directive 2014/52, it must be noted that, in accordance with Article 3(2) of that directive, those amendments are applicable only if certain procedural stages have been completed after May 2017.
+In the main proceedings, the contested decision was adopted on July 2014.
+It follows that examination of the questions relating to the EIA Directive must have regard to the original version of that directive.
+The fourth question
+By its fourth question, the referring court seeks, in essence, to ascertain whether Article 5(1) and (3) of, and Annex IV to, the EIA Directive must be interpreted as meaning that they require the developer to supply information that expressly addresses the potentially significant impact on all the species identified in the statement that is supplied pursuant to those provisions.
+Under Article 5(1) of the EIA Directive, the developer is to supply the information specified in Annex IV to that directive. Point of that annex specifically prescribes in that regard that, included in the information to which Article 5(1) of the EIA Directive applies, there should be ‘a description of the aspects of the environment likely to be significantly affected by the proposed project, including, in particular, … fauna, flora, … and the interrelationship between the above factors’. Article 5(3)(c) of that directive further requires the developer to include ‘the data required to identify and assess the main effects which the project is likely to have on the environment’.
+As observed by the Advocate General in points and of her Opinion, it follows from those provisions that the obligation imposed does not extend to all effects on all species present, but is restricted to the significant effects, a concept to be interpreted in the light of Article 1(1) and Article 2(1) of the EIA Directive, according to which projects that are likely to have significant effects on the environment must be subject to an assessment of their effects.
+In the light of the foregoing, the answer to the fourth question is that Article 5(1) and (3) of, and Annex IV to, the EIA Directive must be interpreted as meaning that the developer is obliged to supply information that expressly addresses the significant effects of its project on all species identified in the statement that is supplied pursuant to those provisions.
+The fifth, sixth and seventh questions
+By its fifth, sixth and seventh questions, which can be examined together, the referring court seeks, in essence, to ascertain whether Article 5(3)(d) of the EIA Directive must be interpreted as meaning that the developer must supply information in relation to the environmental effects both of the chosen option and of all the main alternatives studied by the developer, together with the reasons for his choice, taking into account their environmental effects, even if such an alternative was rejected at an early stage.
+In accordance with Article of the EIA Directive, one of its objectives is to ensure that the effects of projects on the environment are identified, described and assessed.
+In that regard, Article of the EIA Directive lists the information, specified in Annex IV, that the developer is to supply in an appropriate form to the competent authorities, in order to enable the latter to carry out an environmental impact assessment with respect to the proposed project.
+In particular, Article 5(3)(d) of the EIA Directive states that the developer must provide at least ‘an outline of the main alternatives studied by the developer and an indication of the main reasons for his choice, taking into account the environmental effects’.
+It is stated explicitly in the wording of that provision that the developer is obliged to supply to the competent authorities an outline of the main alternatives studied by him and an indication of the main reasons for his choice, taking into account the environmental effects.
+In that regard, first, it must be observed that the EIA Directive contains no definition of the concept of ‘main alternatives’, as referred to in Article 5(3)(d) of the EIA Directive. The Court must, however, hold, as did the Advocate General in points and of her Opinion, that the decisive factor, in order to identify those alternatives that should be regarded as ‘main’ alternatives, is whether or not those alternatives influence the environmental effects of the project. In that regard, the time when an alternative is rejected by the developer is of no relevance.
+Further, since, according to Article 5(3)(d) of the EIA Directive, only an outline of those alternatives must be supplied, it must be held that that provision does not require the main alternatives studied to be subject to an impact assessment equivalent to that of the approved project. That said, that provision requires the developer to indicate the reasons for his choice, taking into account at least the environmental effects. One of the aims of imposing on the developer the obligation to outline the main alternatives is that reasons for his choice should be stated.
+That obligation on the developer ensures that, thereafter, the competent authority is able to carry out a comprehensive environmental impact assessment that catalogues, describes and assesses, in an appropriate manner, the effects of the approved project on the environment, in accordance with Article of the EIA Directive.
+Last, it must be observed that the outline referred to in that provision must be supplied with respect to all the main alternatives that were studied by the developer, whether those were initially envisaged by him or by the competent authority or whether they were recommended by some stakeholders.
+In the light of the foregoing, the answer to the fifth, sixth and seventh questions is that Article 5(3)(d) of the EIA Directive must be interpreted as meaning that the developer must supply information in relation to the environmental impact of both the chosen option and of all the main alternatives studied by the developer, together with the reasons for his choice, taking into account at least the environmental effects, even if such an alternative was rejected at an early stage.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+1.
+Article 6(3) of Council Directive 92/43/EEC of May on the conservation of natural habitats and of wild fauna and flora must be interpreted as meaning that an ‘appropriate assessment’ must, on the one hand, catalogue the entirety of habitat types and species for which a site is protected, and, on the other, identify and examine both the implications of the proposed project for the species present on that site, and for which that site has not been listed, and the implications for habitat types and species to be found outside the boundaries of that site, provided that those implications are liable to affect the conservation objectives of the site.
+ 
+2.
+Article 6(3) of Directive 92/must be interpreted as meaning that the competent authority is permitted to grant to a plan or project consent which leaves the developer free to determine subsequently certain parameters relating to the construction phase, such as the location of the construction compound and haul routes, only if that authority is certain that the development consent granted establishes conditions that are strict enough to guarantee that those parameters will not adversely affect the integrity of the site.
+ 
+3.
+Article 6(3) of Directive 92/must be interpreted as meaning that, where the competent authority rejects the findings in a scientific expert opinion recommending that additional information be obtained, the ‘appropriate assessment’ must include an explicit and detailed statement of reasons capable of dispelling all reasonable scientific doubt concerning the effects of the work envisaged on the site concerned.
+ 
+4.
+Article 5(1) and (3) of, and Annex IV to, Directive 2011/92/EU of the European Parliament and of the Council of December on the assessment of the effects of certain public and private projects on the environment, must be interpreted as meaning that the developer is obliged to supply information that expressly addresses the significant effects of its project on all species identified in the statement that is supplied pursuant to those provisions.
+ 
+5.
+Article 5(3)(d) of Directive 2011/must be interpreted as meaning that the developer must supply information in relation to the environmental impact of both the chosen option and of all the main alternatives studied by the developer, together with the reasons for his choice, taking into account at least the environmental effects, even if such an alternative was rejected at an early stage.
+ 
+Prechal
+Toader
+Rosas
+Delivered in open court in Luxembourg on November 2018.
+A. Calot Escobar
+Registrar
+K. Lenaerts
+President
+(
+*)	Language of the case: English.
+Top  

@@ -1,0 +1,127 @@
+
+JUDGMENT OF THE COURT (Ninth Chamber)
+February (
+*)
+(Reference for a preliminary ruling — Taxation — Value added tax (VAT) — Directive 2006/112/CE — Article 143(1)(d) — Exemptions from VAT on importation — Imports followed by an intra-Community transfer — Subsequent intra-Community supply — Tax evasion — Refusal of the exemption — Conditions)
+In Case C‑531/17,
+REQUEST for a preliminary ruling under Article TFEU from the Verwaltungsgerichtshof (Administrative Court, Austria), made by decision of June 2017, received at the Court on September 2017, in the proceedings
+Vetsch Int. Transporte GmbH
+intervener:
+Zollamt Feldkirch Wolfurt,
+THE COURT (Ninth Chamber),
+composed of K. Jürimäe (Rapporteur), President of the Chamber, E. Juhász and C. Vajda, judges,
+Advocate General: J. Kokott,
+Registrar: K. Malacek, Administrator,
+having regard to the written procedure and further to the hearing on June 2018,
+after considering the observations submitted on behalf of:
+–
+Vetsch Int. Transporte GmbH, by P. Csoklich, Rechtsanwalt,
+–
+Zollamt Feldkirch Wolfurt, by G. Kofler, acting as Agent,
+–
+the Austrian Government, by F. Koppensteiner, D. Schwab and C. Pesendorfer, acting as Agents,
+–
+the Greek Government, by M. Tassopoulou and G. Papadaki, acting as Agents,
+–
+the European Commission, by B.-R. Killmann and F. Clotuche-Duvieusart, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 143(d) of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1; ‘the VAT Directive’) and Article 143(1)(d) of that directive, as amended by Council Directive 2009/69/EC of June (OJ L 175, p. 12) (‘the amended VAT Directive’).
+The request has been made in proceedings between Vetsch Int. Transporte GmbH (‘Vetsch’) and the Zollamt Feldkirch Wolfurt (Customs Office, Feldkirch Wolfurt, Austria; ‘the Customs Office’) concerning the exemption from value added tax (VAT) of imports of goods from Switzerland into Austria for onward transfer to Bulgaria.
+Legal context
+EU law
+It is apparent from the order for reference that the declarations for release for free circulation at issue in the main proceedings were submitted between December and July 2011. Since the VAT Directive was amended, inter alia, by Directive 2009/69, the period for the transposition of which expired on January 2011, the provisions of the VAT Directive and those of the amended VAT Directive are applicable to the main proceedings.
+The VAT Directive
+Article 2(1)(d) of the VAT Directive provides:
+‘The following transactions shall be subject to VAT:
+…
+(d)
+the importation of goods.’
+The first subparagraph of Article 17(1) of that directive is worded as follows:
+‘The transfer by a taxable person of goods forming part of his business assets to another Member State shall be treated as a supply of goods for consideration.’
+Article of that directive states:
+‘1.   Member States shall exempt the supply of goods dispatched or transported to a destination outside their respective territory but within the [European Union], by or on behalf of the vendor or the person acquiring the goods, for another taxable person, or for a non-taxable legal person acting as such in a Member State other than that in which dispatch or transport of the goods began.
+2.   In addition to the supply of goods referred to in paragraph 1, Member States shall exempt the following transactions:
+…
+(c)
+the supply of goods, consisting in a transfer to another Member State, which would have been entitled to exemption under paragraph and points (a) and (b) if it had been made on behalf of another taxable person.’
+Article of that directive provides:
+‘Member States shall exempt the following transactions:
+…
+(d)
+the importation of goods dispatched or transported from a third territory or a third country into a Member State other than that in which the dispatch or transport of the goods ends, where the supply of such goods by the importer designated or recognised under Article as liable for payment of VAT is exempt under Article 138;
+…’
+Pursuant to Article of the VAT Directive:
+‘On importation, VAT shall be payable by any person or persons designated or recognised as liable by the Member State of importation.’
+The amended VAT Directive
+Article 2(1)(d) and Articles and of the amended VAT Directive are drafted in identical terms to the corresponding articles of the VAT Directive. However, Article of the amended VAT Directive states:
+‘1.   Member States shall exempt the following transactions:
+…
+(d)
+the importation of goods dispatched or transported from a third territory or a third country into a Member State other than that in which the dispatch or transport of the goods ends, where the supply of such goods by the importer designated or recognised under Article as liable for payment of VAT is exempt under Article 138;
+…
+2.   The exemption provided for in paragraph 1(d) shall apply in cases when the importation of goods is followed by the supply of goods exempted under Article 138(1) and (2)(c) only if at the time of importation the importer has provided to the competent authorities of the Member State of importation at least the following information:
+(a)
+his VAT identification number issued in the Member State of importation or the VAT identification number of his tax representative, liable for payment of the VAT, issued in the Member State of importation;
+(b)
+the VAT identification number of the customer to whom the goods are supplied in accordance with Article 138(1), issued in another Member State, or his own VAT identification number issued in the Member State in which the dispatch or transport of the goods ends when the goods are subject to a transfer in accordance with Article 138(2)(c);
+(c)
+the evidence that the imported goods are intended to be transported or dispatched from the Member State of importation to another Member State.
+However, Member States may provide that the evidence referred to in point (c) be indicated to the competent authorities only upon request.’
+Austrian law
+The Umsatzsteuergesetz (Law on turnover tax; ‘the UStG 1994’) provides, under the first subparagraph of Paragraph 6(3) of the annex containing provisions relating to the internal market, that the importation of goods used by the declarant directly following importation for making intra-Community supplies shall be exempt; the declarant must provide accounting evidence to show that the conditions laid down in Paragraph of the Annex to the UStG are met. The exemption is applicable only where the person for whose undertaking the goods have been imported makes the subsequent intra-Community supply.
+Pursuant to Paragraph 26(1) of the UStG 1994, the provisions concerning customs duties apply mutatis mutandis to import VAT.
+Paragraph 71a of the Zollrechts-Durchführungsgesetz (Law on the implementation of customs law) provides that in cases of exemption from import VAT under Paragraph 6(3) of the Annex to the UStG containing provisions relating to the internal market, the declarant is liable for the import VAT debt incurred pursuant to Article 204(1) of Council Regulation (EEC) No 2913/of October establishing the Community Customs Code (OJ L 302, p. 1; ‘the Customs Code’) even where that person may not yet be regarded as a debtor under Article 204(3) of the Customs Code.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Vetsch is an Austrian limited liability company which operates a forwarding business.
+In the period between December and July 2011, that company submitted to the Customs Office, as the indirect representative of two companies established in Bulgaria, K and B, declarations for release for free circulation in relation to goods imported from Switzerland. In each of those declarations, Vetsch applied for the exemption set out in Paragraph 6(3) of the annex to the UStG containing provisions relating to the internal market, referring to ‘customs procedure 42’. The goods concerned were therefore released for free circulation with exemption from import VAT.
+However, by decision of September 2011, the Customs Office requested Vetsch to pay import VAT on the goods concerned, in accordance with Article 204(1) of the Customs Code, on the ground that the conditions for the exemption claimed in the declarations were not met. Vetsch thus became liable for payment of the VAT. On January 2012, the Customs Office dismissed the appeal lodged by Vetsch against that decision.
+Vetsch’s action against that decision of the Customs Office before the Bundesfinanzgericht (Federal Finance Court, Austria) was dismissed as unfounded by decision of March 2016.
+It is apparent from the order for reference that that court considered it established that the vendor of the goods at issue in the main proceedings had given the right of disposal over those goods to the Bulgarian recipients while the goods were in Switzerland, that is to say, prior to customs clearance in Austria. It did not consider it established that the recipients no longer had that right of disposal in Bulgaria. The recipients had declared the intra-Community acquisitions of the goods concerned, but were liable for tax evasion in Bulgaria as they had declared incorrectly that they had made an exempt intra-Community supply of the goods at issue to Vetsch.
+Vetsch brought an appeal on a point of law before the referring court against the decision of the Bundesfinanzgericht (Federal Finance Court).
+The referring court states that, under Austrian law, import VAT is payable where the condition for exemption of the transfer following importation into Austria laid down in Article 138(2)(c) of the VAT Directive is not met. In such a case, the national law provides that the person liable for payment of that tax is the person who was required to fulfil that condition, namely, in the present case, the Bulgarian recipients concerned, of which Vetsch is the indirect representative. In the case in the main proceedings, Vetsch is nevertheless considered jointly and severally liable for payment of the tax.
+According to that court, the exemption from import VAT under Article 143(d) of the VAT Directive and Article 143(1)(d) of the amended VAT Directive depends on whether the intra-Community transfer is exempt pursuant to Article 138(2)(c) of the VAT Directive.
+It notes in that respect that the Bundesfinanzgericht (Federal Finance Court) found that the conditions for qualifying for such an exemption had not been fulfilled, on the basis of the case-law of the Court of Justice to the effect that a taxable person must be refused the right to VAT exemption, under Article 138(1) of the VAT Directive, where that person committed tax evasion or where he knew or should have known that the transaction which he had carried out was part of a tax fraud committed by the purchaser and had not taken every reasonable step within his power to prevent it. In that respect, it observes that the Court has treated intra-Community transfer in the same way as intra-Community supply.
+In the view of the referring court, the case-law of the Court of Justice concerns situations where the tax evasion related to the transaction in which VAT was deducted, exempted or refunded or the transaction upstream or downstream of it. However, the circumstances of the dispute in the main proceedings are different to those which gave rise to that case-law.
+The referring court states that the Bundesfinanzgericht (Federal Finance Court) found that the two Bulgarian companies, whose intra-Community transfer is at issue, had filed tax returns in which they had declared the intra-Community acquisition in Bulgaria. It considered the tax evasion to have occurred only downstream, namely in connection with the declaration of a further intra-Community supply of the goods at issue carried out by those companies on the resale of the goods to Vetsch. Those companies wrongly declared that intra-community supply to be exempt. The Bundesfinanzgericht (Federal Finance Court) based its decision on the premiss that no such supply had taken place. It is apparent from the request for a preliminary ruling that the Bundesfinanzgericht (Federal Finance Court) did not consider it established that, at the date of the intra-Community transfer of the goods to Bulgaria, those companies already intended to evade tax in respect of a subsequent transaction concerning those goods.
+According to the referring court, it is apparent from the case-law of the Court of Justice that the right to VAT deduction or exemption in respect of an intra-Community supply is to be refused where tax evasion is committed by the taxable person himself.
+In that regard, it notes that that case-law applies not only where the taxable person committed the offence of tax evasion but also where the taxable person knew or should have known that the transaction which he carried out was part of a tax fraud committed by the supplier or by another trader acting upstream or downstream in the supply chain.
+The referring court is thus uncertain as to the relevance of that case-law in a situation such as that in the main proceedings, given that the tax evasion in question occurred only downstream in the supply chain, after the intra-Community transfer at issue and the intra-Community acquisition subsequent to that transfer.
+In those circumstances, the Verwaltungsgerichtshof (Upper Administrative Court, Austria) decided to stay proceedings and to refer to the Court of Justice the following questions for a preliminary ruling:
+‘(1)
+Is the exemption under Article of [the VAT Directive] for an intra-Community transfer from a Member State to be refused where the taxable person carrying out that transfer to another Member State does in fact declare in the other Member State the intra-Community acquisition linked to the intra-Community transfer, but commits tax evasion in connection with a subsequent taxable transaction concerning the goods in the other Member State by wrongfully declaring an exempt intra-Community supply from that other Member State?
+(2)
+Is it relevant to the answer to Question whether the taxable person had intended at the time of the intra-Community transfer to commit tax evasion in respect of a subsequent transaction concerning those goods?’
+Consideration of the questions referred
+The first question
+As a preliminary point, it should be noted that the first question relates to the exemption from VAT laid down in Article of the VAT Directive. However, it is apparent from the information contained in the order for reference that the national court seeks to ascertain whether, in a situation such as that in the main proceedings, the VAT exemption available for the importation into a Member State of goods dispatched from a third country, in compliance with the conditions laid down in Article 143(d) of the VAT Directive and Article 143(1)(d) of the amended VAT Directive, is to be refused where those goods were subsequently transferred to a person in another Member State who committed tax evasion, in connection with those goods, following that transfer.
+In the light of the foregoing considerations, by its first question, the referring court must be regarded as asking, in essence, whether Article 143(d) of the VAT Directive and Article 143(1)(d) of the amended VAT Directive must be interpreted as meaning that the exemption from import VAT laid down in those provisions is not available to an importer designated or recognised as liable for payment of that tax, within the meaning of Article of that directive, where the recipient of the intra-Community transfer of goods effected after that import commits tax evasion in connection with a transaction which is subsequent to that transfer and is not linked to that transfer.
+Under Article 143(d) of the VAT Directive and Article 143(1)(d) of the amended VAT Directive, the Member States are to exempt the importation of goods dispatched or transported from a third territory or a third country into a Member State other than that in which the dispatch or transport of the goods ends, where the supply of such goods by the importer designated or recognised under Article of the directive as liable for payment of VAT is exempt under Article thereof.
+As the Court has previously held, exemption from import VAT is thus subject to the importer subsequently making an intra-Community supply which is itself exempt under Article of the VAT Directive, and it therefore depends on compliance with the substantive conditions laid down in that article (judgment of June 2018, Enteco Baltic, C‑108/17, EU:C:2018:473, paragraph 47). The same applies where, as in the present case, the supply of goods consists in the transfer of those goods to another Member State.
+Article 138(1) of the VAT Directive provides that Member States are to exempt the supply of goods dispatched or transported to a destination outside their respective territories but within the European Union, by or on behalf of the vendor or the person acquiring the goods, for another taxable person, or for a non-taxable legal person acting as such in a Member State other than that in which dispatch or transport of the goods began. Pursuant to Article 138(2)(c) of that directive, in addition to the supply of goods referred to in paragraph 1, Member States are to exempt the supply of goods, consisting of a transfer to another Member State, which would have been entitled to exemption under, inter alia, paragraph if it had been made on behalf of another taxable person.
+For the purposes of exemption from VAT, an intra-Community transfer, which is defined in the first subparagraph of Article 17(1) of the VAT Directive as the transfer by a taxable person of goods forming part of his business assets to another Member State, is to be treated, in particular, as an intra-Community supply in respect of which there is provision for exemption from VAT in Article of that directive (see, as regards the corresponding provisions of Sixth Council Directive 77/388/EEC of May on the harmonisation of the laws of the Member States relating to turnover taxes — Common system of value added tax: uniform basis of assessment (OJ L 145, p. 1), judgment of October 2016, Plöckl, C‑24/15, EU:C:2016:791, paragraph 29).
+In the present case, in the light of the information provided by the referring court, it must be concluded, subject to verification to be carried out by that court, that the intra-Community transfer at issue in the main proceedings meets the conditions laid down in Article of the VAT Directive, to which reference is made in Article 143(d) of that directive and Article 143(1)(d) of the amended VAT Directive.
+Furthermore, there is nothing in the order for reference to support the conclusion that the imports of goods at issue in the main proceedings did not satisfy the other conditions for exemption from import VAT laid down in the latter two provisions referred to in paragraph above.
+It is thus appropriate to proceed on the premiss that the imports of goods at issue in the main proceedings fulfil the conditions for exemption from import VAT laid down in Article 143(d) of the VAT Directive and Article 143(1)(d) of the amended VAT Directive.
+The referring court is, however, uncertain about the effect of a fraudulent transaction, carried out in connection with an intra-Community supply after the goods in question had been imported and then transferred on, on the right to the VAT exemptions in question. Nonetheless, that court does not express any doubt as to the lawfulness of the import and the transfer that preceded the intra-Community supply affected by the tax evasion.
+As the Commission noted in the observations it submitted to the Court, in a situation such as that in the main proceedings, first, the import followed by an intra-Community transfer and, secondly, the intra-Community supply to which the tax evasion relates, must be regarded as transactions that are independent of one another.
+It should be noted that Article 143(d) of the VAT Directive and Article 143(1)(d) of the amended VAT Directive in fact entail a dual exemption: first, an exemption from VAT which, under Article of the VAT Directive, is normally payable on imports and, secondly, an exemption in respect of the intra-Community supply or transfer which followed such imports.
+Thus, where the conditions laid down in Article 143(d) of the VAT Directive and Article 143(1)(d) of the amended VAT Directive are fulfilled, VAT on goods dispatched or transported from a third country into the European Union is payable, in principle, for the first time, not in the Member State into whose territory they were first imported, but in the Member State in which that dispatch or transport ends. As the Advocate General stated in point of her Opinion, those provisions pursue an objective of simplification intended to facilitate cross-border trade by not allowing, as a result of the import exemption, the right to deduct the import VAT payable at that point, which would otherwise be available.
+In a situation such as that in the main proceedings, in which the tax evasion was committed in Bulgaria, in connection with an intra-Community supply from that Member State, it is for the Bulgarian authorities to refuse to grant the VAT exemption relating to that supply.
+Once it has been established that that tax evasion does not relate to the transfer on which the right to the exemption from import VAT, as laid down in Article 143(d) of the VAT Directive and Article 143(1)(d) of the amended VAT Directive, depends was granted, that exemption cannot be denied to the importer designated or recognised as liable for payment of that tax, within the meaning of Article of that directive, in a situation where, as is apparent from the order for reference, there is no evidence to support the conclusion that the importer knew or ought to have known that the supply subsequent to the import entailed tax evasion on the part of the Bulgarian recipients.
+In the light of all the foregoing considerations, the answer to the first question is that Article 143(d) of the VAT Directive and Article 143(1)(d) of the amended VAT Directive must be interpreted as meaning that the exemption from import VAT laid down in those provisions may not be refused in respect of an importer designated or recognised as liable for payment of that tax, within the meaning of Article of the VAT Directive, in a situation, such as that in the main proceedings, in which, first, the recipient of the intra-Community transfer of goods effected after that import commits tax evasion in connection with a transaction which is subsequent to that transfer and is not linked to that transfer and, secondly, there is no evidence to support the conclusion that the importer knew or ought to have known that that subsequent transaction entailed tax evasion on the part of the recipient.
+The second question
+By its second question, the referring court asks what would be the implications, in the light of the answer to its first question, if it were established that the recipient of the goods transferred had intended, at the time of the intra-Community transfer of those goods, to commit tax evasion in respect of a subsequent transaction concerning the goods.
+It is apparent from the order for reference that such an intention has not been established in the present case. In those circumstances, that question is hypothetical and therefore inadmissible.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Ninth Chamber) hereby rules:
+ 
+Article 143(d) of Council Directive 2006/112/EC of November on the common system of value added tax and Article 143(1)(d) of that directive, as amended by Council Directive 2009/69/EC of June 2009, must be interpreted as meaning that the exemption from import value added tax laid down in those provisions may not be refused in respect of an importer designated or recognised as liable for payment of that tax, within the meaning of Article of Directive 2006/112, in a situation, such as that in the main proceedings, in which, first, the recipient of the intra-Community transfer of goods effected after that import commits tax evasion in connection with a transaction which is subsequent to that transfer and is not linked to that transfer and, secondly, there is no evidence to support the conclusion that the importer knew or ought to have known that that subsequent transaction entailed tax evasion on the part of the recipient.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

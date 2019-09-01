@@ -1,0 +1,211 @@
+
+JUDGMENT OF THE COURT (Seventh Chamber)
+October (
+*)
+(Reference for a preliminary ruling — Asylum policy — Directive 2013/32/EU — Article 46(2) — Appeal against a decision refusing to grant refugee status but granting subsidiary protection status — Admissibility — Lack of a sufficient interest where the subsidiary protection status granted by a Member State offers the same rights and benefits as those offered by the refugee status under Union and national law — Relevance of the applicant’s particular circumstances for the purposes of examining whether the rights and benefits are identical)
+In Case C‑662/17,
+REQUEST for a preliminary ruling under Article TFEU from the Vrhovno sodišče (Supreme Court, Slovenia), made by decision of November 2017, received at the Court on November 2017, in the proceedings
+E.G.
+v
+Republika Slovenija,
+THE COURT (Seventh Chamber),
+composed of A. Prechal (Rapporteur), President of the Third Chamber, acting as President of the Seventh Chamber, C. Toader and A. Rosas, Judges,
+Advocate General: M. Campos Sánchez-Bordona,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+E.G., by D. Bulog, odvetnica,
+–
+the Slovenian Government, by J. Morela, višja državna odvetnica,
+–
+the Netherlands Government, by P. Huurnink and M.K. Bulterman, acting as Agents,
+–
+the European Commission, by M. Condou-Durande and by M. Žebre, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 46(2) of Directive 2013/32/EU of the European Parliament and of the Council of June on common procedures for granting and withdrawing international protection (OJ L 180, p. 60).
+The request has been made in proceedings between E.G., an Afghan national, and the Republika Slovenija (Republic of Slovenia), represented by the Ministrstvo za notranje zadeve (Ministry of the Interior) concerning the latter’s rejection of an application for refugee status lodged by E.G.
+Legal context
+European Union law
+Directive 2011/95/EU
+Recitals 8, and of Directive 2011/95/EU of the European Parliament and of the Council of December on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection, and for the content of the protection granted (OJ L 337, p. 9) state:
+‘(8)
+In the European Pact on Immigration and Asylum, adopted on and October 2008, the European Council noted that considerable disparities remain between one Member State and another concerning the grant of protection and the forms that protection takes and called for new initiatives to complete the establishment of a Common European Asylum System, provided for in the Hague Programme [adopted by the European Council on November setting the objectives to be implemented in the area of freedom, security and justice in the period 2005-2010], and thus to offer a higher degree of protection.
+(9)
+In the Stockholm Programme [adopted in 2010], the European Council reiterated its commitment to the objective of establishing a common area of protection and solidarity, based on a common asylum procedure and a uniform status, in accordance with Article [TFEU], for those granted international protection, by at the latest.
+…
+(39)
+While responding to the call of the Stockholm Programme for the establishment of a uniform status for refugees or for persons eligible for subsidiary protection, and with the exception of derogations which are necessary and objectively justified, beneficiaries of subsidiary protection status should be granted the same rights and benefits as those enjoyed by refugees under this Directive, and should be subject to the same conditions of eligibility.’
+Article 2(d) to (g) of that directive, entitled ‘Definitions’, provides:
+‘For the purpose of this Directive:
+…
+(d)
+“refugee” means a third-country national who, owing to a well-founded fear of being persecuted for reasons of race, religion, nationality, political opinion or membership of a particular social group, is outside the country of nationality and is unable or, owing to such fear, is unwilling to avail himself or herself of the protection of that country, or a stateless person, who, being outside of the country of former habitual residence for the same reasons as mentioned above, is unable or, owing to such fear, unwilling to return to it, and to whom Article does not apply;
+(e)
+“refugee status” means the recognition by a Member State of a third-country national or a stateless person as a refugee;
+(f)
+“person eligible for subsidiary protection” means a third-country national or a stateless person who does not qualify as a refugee but in respect of whom substantial grounds have been shown for believing that the person concerned, if returned to his or her country of origin, or in the case of a stateless person, to his or her country of former habitual residence, would face a real risk of suffering serious harm as defined in Article 15, and to whom Article 17(1) and (2) does not apply, and is unable, or, owing to such risk, unwilling to avail himself or herself of the protection of that country;
+(g)
+“subsidiary protection status” means the recognition by a Member State of a third-country national or a stateless person as a person eligible for subsidiary protection;
+…’
+Article of the directive, entitled ‘More favourable standards’, provides:
+‘Member States may introduce or retain more favourable standards for determining who qualifies as a refugee or as a person eligible for subsidiary protection, and for determining the content of international protection, in so far as those standards are compatible with this Directive.’
+Article of the directive lists the cases in which a third-country national or stateless person is to cease to be a refugee. Paragraph 1(e) of that article provides that such is the case where the person in question can no longer, because the circumstances in connection with which he or she has been recognised as a refugee have ceased to exist, continue to refuse to avail himself or herself of the protection of the country of nationality.
+Article of Directive 2011/provides rules for the exclusion of refugee status.
+Article of that directive contains rules for the revocation of, ending of or refusal to renew refugee status.
+Article of the directive, entitled ‘Cessation’, provides, in paragraph 1:
+‘A third-country national or a stateless person shall cease to be eligible for subsidiary protection when the circumstances which led to the granting of subsidiary protection status have ceased to exist or have changed to such a degree that protection is no longer required.’
+Article of the directive provides rules for cases in which eligibility for subsidiary protection is excluded.
+Article of Directive 2011/contains the rules for the revocation of, ending of or refusal to renew subsidiary protection status.
+Under Article of that directive, contained in Chapter VII thereof, on ‘Content of international protection’:
+‘1.   This Chapter shall be without prejudice to the rights laid down in the Geneva Convention.
+2.   This Chapter shall apply both to refugees and persons eligible for subsidiary protection unless otherwise indicated.
+3.   When implementing this Chapter, Member States shall take into account the specific situation of vulnerable persons such as minors, unaccompanied minors …
+…
+5.   The best interests of the child shall be a primary consideration for Member States when implementing the provisions of this Chapter that involve minors.’
+Article of that directive provides:
+‘1.   Member States shall respect the principle of non-refoulement in accordance with their international obligations.
+2.   Where not prohibited by the international obligations mentioned in paragraph 1, Member States may refoule a refugee, whether formally recognised or not, when:
+(a)
+there are reasonable grounds for considering him or her as a danger to the security of the Member State in which he or she is present; or
+(b)
+he or she, having been convicted by a final judgment of a particularly serious crime, constitutes a danger to the community of that Member State.
+3.   Member States may revoke, end or refuse to renew or to grant the residence permit of (or to) a refugee to whom paragraph applies.’
+Article of Directive 2011/95, entitled ‘Residence permits’, provides:
+‘1.   As soon as possible after international protection has been granted, Member States shall issue to beneficiaries of refugee status a residence permit which must be valid for at least years and renewable, unless compelling reasons of national security or public order otherwise require, and without prejudice to Article 21(3).
+…
+2.   As soon as possible after international protection has been granted, Member States shall issue to beneficiaries of subsidiary protection status and their family members a renewable residence permit which must be valid for at least year and, in case of renewal, for at least years, unless compelling reasons of national security or public order otherwise require.’
+Directive 2013/It is clear from Article of Directive 2013/that the purpose of that directive is to establish common procedures for granting and withdrawing international protection pursuant to Directive 2011/95.
+Under Article 10(2) of Directive 2013/32:
+‘When examining applications for international protection, the determining authority shall first determine whether the applicants qualify as refugees and, if not, determine whether the applicants are eligible for subsidiary protection.’
+Article of Directive 2013/32, headed ‘The right to an effective remedy’, which is the only provision in Chapter V, headed ‘Appeal procedures’, states as follows:
+‘1.   Member States shall ensure that applicants have the right to an effective remedy before a court or tribunal, against the following:
+(a)
+a decision taken on their application for international protection, including a decision:
+(i)
+considering an application to be unfounded in relation to refugee status and/or subsidiary protection status;
+…
+(c)
+a decision to withdraw international protection pursuant to Article 45.
+2.   Member States shall ensure that persons recognised by the determining authority as eligible for subsidiary protection have the right to an effective remedy pursuant to paragraph against a decision considering an application unfounded in relation to refugee status.
+Without prejudice to paragraph 1(c), where the subsidiary protection status granted by a Member State offers the same rights and benefits as those offered by the refugee status under Union and national law, that Member State may consider an appeal against a decision considering an application unfounded in relation to refugee status inadmissible on the grounds of insufficient interest on the part of the applicant in maintaining the proceedings.
+…’
+Slovenian law
+Article of the Zakon o mednarodni zaščiti (Law on International Protection) (Uradni list RS No 16/17, ‘the ZMZ-1’) provides:
+‘(1)   In Slovenia, “international protection” shall refer to refugee status and subsidiary protection status.
+(2)   The status of refugee shall be granted to a citizen of a third country who, entertaining a well-founded fear of being persecuted on account of his belonging to a particular race or ethnic group or to a particular religion, or because of his citizenship, his membership of a particular social group or his political opinions, has left the country of which he is a citizen and cannot or, because of that fear, does not wish to avail himself of the protection offered by that country, or to a stateless person who is no longer in the country of his habitual residence and, because of a well-founded fear, cannot or does not wish to return to that country, provided that there are no grounds of exclusion of the kind provided for in Article 31(1) of this Law.
+(3)   The status of subsidiary protection shall be granted to a citizen of a third country or a stateless person who does not satisfy the requirements for the grant of refugee status, if there are substantial grounds for believing that the person concerned would run a real risk of suffering severe harm if he should return to his country of origin or to the country of his last habitual residence, as provided by Article of this Law, and there are no grounds of exclusion of the kind referred to in Article 31(2) of this Law.’
+Article 66(1) of the ZMZ-1, which governs the procedure for extending international protection, provides:
+‘days before the expiry of that protection, the ministry shall give written notice to the persons enjoying subsidiary protection of the conditions for the extension of subsidiary protection, the consequences of failure to apply for an extension and the possibility of applying for reopening of the procedure. That notice shall also include the form by which a person granted subsidiary protection may request subsidiary protection to be extended in Slovenia.’
+Article of the ZMZ-1, which determines the grounds for which eligibility for international protection ceases, provides in paragraph and 2:
+‘(1)   Refugee status ceases when the person concerned:
+–
+voluntarily accepts the protection of the State of which he is a citizen,
+–
+voluntarily reacquires his citizenship, after losing it,
+–
+acquires a new citizenship and enjoys the protection of the country which granted it to him,
+–
+voluntarily re-settles in the country he had abandoned and outside of which he has stayed for fear of persecution,
+–
+can no longer refuse protection granted by the country of which he is a citizen since the circumstances on the basis of which he was granted refugee status no longer exist,
+–
+is, as a stateless person, able to return to his last country of habitual residence since his circumstances are no longer those on the basis of which he was granted refugee status.
+(2)   Subsidiary protection status ceases when the circumstances on the basis of which he was granted that status cease to exist or change in such a way that such protection becomes unnecessary.’
+Article 90(1) of the ZMZ-reads as follows:
+‘A person granted international protection is entitled:
+–
+to receive information concerning the status, rights and obligations of a person who receives international protection in Slovenia,
+–
+to stay in Slovenia,
+–
+to receive pecuniary compensation for private accommodation,
+–
+to health assistance,
+–
+to social security,
+–
+to education,
+–
+to employment and work,
+–
+to assistance to facilitate social integration.’
+Under Article of the ZMZ-1:
+‘(1)   The decision granting refugee status in Slovenia takes effect for those persons, from the day of notification, as a permit to reside indefinitely in the Republic of Slovenia as well.
+(2)   The decision granting or extending the status of subsidiary protection in Slovenia takes effect, in relation to those persons, as from the day of notification also as a permit to reside for a specified period in the Republic of Slovenia, for as long as that protection lasts.
+(3)   The Ministry shall issue the residence permit referred to in paragraphs (1) and (2) of the present article in the format laid down by the Law on the entry, exit and stay of foreigners in Slovenia.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+E.G., who states that he was born on December 2001, crossed the Slovenian border on December having travelled alone or with his cousin by foot, lorry and train, through Turkey, Greece, Serbia and Croatia from Iran, where he had been living with his parents from about one year old.
+On being taken in at the Crisis Centre for Minors, Koper (Slovenia), E.G. applied, on December 2015, for eligibility for international protection with the Ministry of the Interior.
+By decision of February 2016, that ministry, having invited E.G. to an individual interview, which was held on January 2016, took the view that he was not eligible for refugee status, but that he could be granted subsidiary protection status until attaining full age, that is to say on December 2019.
+E.G. brought an action against that decision, which was upheld by judgments of the Upravno sodišče (Administrative Court, Slovenia) of April and September 2016. In the latter of those judgments, the decision was annulled and the case referred back to the Ministry of the Interior.
+On February 2017, that ministry adopted a fresh decision identical to that of the decision of February 2016.
+That decision was, inter alia, based on the ground that, if E.G. returned to Afghanistan, he would be left alone, without the support of his family, and would, as a minor, become an easy target for physical violence, human trafficking, sexual abuse or work in inhumane or dangerous conditions, so that he would run a serious risk of inhuman or degrading treatment.
+Since the action brought against that decision was dismissed by a judgment of the Upravno sodišče (Administrative Court) of May 2017, an administrative appeal against judgment was brought before the referring court, the Vrhovno sodišče (Supreme Court, Slovenia), in which E.G. challenges the rejection of his application for refugee status.
+The referring court notes that, in support of his appeal, E.G. claimed, inter alia, that he intends to integrate himself into Slovenian society, learn Slovenian and finish his schooling in that Member State, but that, for that to be possible, he must be granted refugee status, because only that status would give him a sufficient level of protection, as opposed to subsidiary protection status, which would end once he attained full age, on December 2019.
+That Court considers that, having regard to the identical nature of the rights conferred by each status of international protection in Slovenian law, in accordance with Article 90(1) of the ZMZ-1, the issue arises of whether, in respect of both Slovenian law and EU law, in particular of Article 46(2) of Directive 2013/32, the action brought against the contested decision, in so far as it rejects the application for refugee status, is inadmissible on the ground of insufficient interest on the part of the applicant in maintaining the proceedings where he has been granted subsidiary protection status.
+The referring court considers that the issue arises, in that context, of whether, for the purpose of recognising a sufficient interest on the part of the applicant, it is necessary to examine whether, as regards the applicant’s particular circumstances, granting refugee status would confer on him more rights than those afforded by subsidiary protection status or whether it is sufficient for there to be legislation which draws a distinction between the ancillary rights that are based on the rights granted by both forms of international protection, irrespective of whether that distinction also concerns the applicant directly.
+In that regard, the referring court states, that, under Article 92(1) of the ZMZ-1, refugee status, in contrast to subsidiary protection status, allows the applicant to acquire a residence permit of indefinite duration and certain related ancillary rights, including the right to vote in local elections, in principle, the right to a passport valid for years or the right to family reunification, allowing family members to obtain a residence permit of indefinite duration.
+That court considers, however, that, despite that difference relating, in particular, to the duration of the residence permit issued under each status of international protection, it could be considered that each status and, therefore, the related residence permits, have essentially the same duration and thus confer the same rights and benefits, within the meaning of Article 46(2) of Directive 2013/32.
+Refugee status ends as soon as the protection is no longer necessary, as does subsidiary protection status, and subsidiary protection, despite the fact that it is granted for a specified period, is extended for as long as there are reasons for extending it.
+Furthermore, the referring court states that it tends towards an approach according to which the difference in abstracto between the duration of each form of international protection is irrelevant for the purpose of ascertaining whether there is a legal interest under Article 46(2) of Directive 2013/32. To hold otherwise would entail an applicant always having a legal interest in bringing an appeal on account of the different rules prescribed for both forms of protection in terms of their respective duration.
+Therefore, if it were necessary to ascertain whether a legal interest exists, not in abstracto but in concreto, it would be for the person granted subsidiary protection to establish whether, in the circumstances, his legal situation could be improved by granting refugee status. That would not apply to the present case. If refugee status were granted to E.G., it would not be granted for an indefinite period, but granted to him for a period limited to his minority, since the applicant applied for protection on account of his being a minor.
+In those circumstances, the Vrhovno sodišče (Supreme Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is the appellant’s interest within the meaning of the second subparagraph of Article 46(2) of Directive [2013/32] to be interpreted to the effect that subsidiary protection status does not grant the same rights and benefits as refugee status if, under national law, foreign nationals granted international protection do enjoy the same rights and benefits but a different approach is adopted in defining the duration or cessation of international protection, inasmuch as refugee status is granted to refugees for an indefinite period but ceases when the circumstances on the basis of which it was granted cease, whereas subsidiary protection is granted for a specified period and is extended if the reasons for it continue to exist?
+(2).
+Must the appellant’s interest within the meaning of the second subparagraph of Article 46(2) of Directive [2013/32] be interpreted to the effect that subsidiary protection status does not offer the same rights and benefits as refugee status, if, under national law, foreign nationals granted international protection do enjoy the same rights and benefits but the ancillary rights on which those rights and benefits are based are different?
+(3)
+Is it necessary, in the light of the appellant’s individual situation, to examine whether, in view of his particular circumstances, the grant of refugee status would confer on him more rights and benefits than those afforded by the grant of subsidiary protection, or whether, for the interest referred to in the second subparagraph of Article 46(2) of Directive [2013/32] to continue to exist, it is sufficient for there to be legislative provisions that draw a distinction between the ancillary rights that are based on the rights and benefits of the two forms of international protection?’
+Consideration of the questions referred
+By its three questions, which it is appropriate to consider together, the referring court asks, in essence, whether the second subparagraph of Article 46(2) of Directive 2013/must be interpreted as meaning that subsidiary protection status granted under legislation of a Member State, such as that at issue in the main proceedings, offers the ‘same rights and benefits as those offered by the refugee status under Union and national law’, within the meaning of that provision, so that a court of that Member State may dismiss an appeal brought against a decision considering an application unfounded in relation to refugee status but granting subsidiary protection status as inadmissible on the grounds of insufficient interest on the part of the applicant in maintaining the proceedings, and whether, if it is found that the rights and benefits afforded by each international protection status under the applicable national legislation are not identical, such an appeal may nevertheless be dismissed as inadmissible where it is ascertained that, having regard to the applicant’s particular circumstances, granting refugee status could not confer on him more rights and benefits than granting subsidiary protection status, in so far as the applicant does not, or has not yet, relied on rights which are granted by virtue of refugee status, but which are not granted, or which are granted only to a limited extent, by virtue of subsidiary protection status.
+In that regard, it must be borne in mind that it is clear from recitals 8, and of Directive 2011/that the EU legislature intended to establish a uniform status for all beneficiaries of international protection and that it accordingly chose to afford beneficiaries of subsidiary protection the same rights and benefits as those enjoyed by refugees, with the exception of derogations which are necessary and objectively justified (judgment of March 2016, Alo and Osso, C‑443/and C‑444/14, EU:C:2016:127, paragraph 32).
+In addition, it is clear from Article of Directive 2011/that Member States may introduce or retain more favourable standards both in relation to eligibility for international protection and to the content of the rights conferred by international protection in so far as those standards are compatible with that directive.
+It follows that, although Directive 2011/has put in place a scheme of rights and benefits which, as a general rule, is the same for all beneficiaries of international protection, certain rights and benefits enjoyed by persons regarded as refugees are not granted, or not granted to the same extent, to beneficiaries of subsidiary protection status, Member States being able, however, in their legislation transposing that directive, to bring the rights and benefits conferred by that status in line with those related to refugee status.
+The second subparagraph of Article 46(2) of Directive 2013/allows a Member State to provide that an appeal against a decision considering an application for refugee status unfounded but granting subsidiary protection status may be dismissed as inadmissible on the ground that the applicant has no sufficient interest in maintaining the proceedings where the subsidiary protection status granted by that Member State offers the ‘same rights and benefits’ as those offered by the refugee status under Union and national law.
+That provision provides for a derogation from the obligation imposed on the Member States by Article of Directive 2013/to provide for a right to an effective remedy before a court or tribunal against a decision rejecting an application for international protection (see, to that effect, judgment of July 2017, Sacko, C‑348/16, EU:C:2017:591, paragraph 28).
+The first paragraph of Article 46(2) of Directive 2013/indeed provides expressly that that right to a remedy must, in principle, also be available where, as in the present case, a decision is at issue which rejects an application for refugee status as unfounded but grants subsidiary protection status.
+Furthermore, the requirement thus imposed on the Member States to provide for such a right to a remedy corresponds to the right enshrined in Article of the Charter of Fundamental Rights of the European Union (‘the Charter’), entitled ‘Right to an effective remedy and to a fair trial’, which provides that everyone whose rights and freedoms guaranteed by the law of the Union are violated has the right to an effective remedy before a court or tribunal (judgment of July 2017, Sacko, C‑348/16, EU:C:2017:591, paragraph 30).
+It follows that the characteristics of the remedy provided for in Article of Directive 2013/must be determined in a manner that is consistent with Article of the Charter, which constitutes a reaffirmation of the principle of effective judicial protection (judgment of July 2017, Sacko, C‑348/16, EU:C:2017:591, paragraph 31).
+The principle of effective judicial protection of the rights which individuals derive from EU law comprises various elements; in particular, the rights of the defence, the principle of equality of arms, the right of access to a court or tribunal and the right to be advised, defended and represented (judgment of July 2017, Sacko, C‑348/16, EU:C:2017:591, paragraph 32).
+Therefore, the derogation from the right to a remedy set out in the second subparagraph of Article 46(2) of Directive 2013/must be interpreted narrowly in so far as it amounts to a derogation from the right to an effective remedy before a court or tribunal against any decision rejecting an application for international protection imposed by Article of that directive and to a restriction of the fundamental right to effective judicial protection enshrined in Article of the Charter.
+It follows that that derogation from the right to an effective remedy must be interpreted as applying only if the rights and benefits offered by subsidiary protection status, granted by the Member State concerned, are genuinely identical to those offered by refugee status under Union law and the applicable national law.
+As to whether, in the present case, the condition that the rights and benefits be identical is satisfied — the sole condition required by the second subparagraph of Article 46(2) of Directive 2013/— the Court notes, first of all, that the referring court, whilst referring in its first question to a distinction between each status drawn under Slovenian law in respect of the ‘approach … in defining the duration or cessation of international protection’, also cites the rules laid down in the ZMZ-1, Article 92(1) of which provides that a refugee is to be granted a permit to reside for an indefinite period, whereas, under Article 92(2), subsidiary protection provides entitlement only to a permit to reside for a specified period.
+Those rules relating to the duration of the residence permits governed by each status of international protection in question are intended to transpose Article of Directive 2011/into Slovenian law by determining different minimum requirements for each status in terms of the validity of the residence permit and laying down, in that regard, that a permit of at least three years must be granted to refugees whereas a permit of at least one year must be granted to beneficiaries of subsidiary protection status.
+As maintained by the Netherlands Government and the Commission, those minimum requirements in respect of the right to reside in the Member State in which international protection is applied for concern the content of the respective rights afforded by each status and, therefore ‘rights and benefits’ within the meaning of the second subparagraph of Article 46(2) of Directive 2013/32.
+The Court must therefore conclude that, as far as concerns the right to reside, subsidiary protection status, as laid down in the Slovenian legislation, does not grant the same rights and benefits as those offered by refugee status under Union and national law, since, as is clear from the findings reached by the referring court set out in paragraph above, the duration of the residence permit related to subsidiary protection status is not in line with the duration of the residence permit issued to persons to whom refugee status is granted.
+In that regard, it should be noted that there is a clear difference between, on the one hand, a residence permit for an indefinite period granted to refugees under Slovenian law, despite the fact that its validity will expire as soon as, inter alia, the conditions for granting refugee status are no longer satisfied, and, on the other hand, a residence permit for a limited period conferred, under Slovenian law, on persons granted subsidiary protection status, despite the fact that the latter permit may be extended for a further period in accordance with a procedure laid down for such purposes and that validity thereof will expire as soon as, inter alia, the conditions for granting that status are no longer satisfied.
+In the present case, E.G, as a person to whom subsidiary protection status was granted, was granted a residence permit for a specified period of less than three years, more specifically from February to December 2019. Had E.G. been granted refugee status, he would have been entitled, in accordance with Article 24(1) of Directive 2011/95, to a residence permit valid for at least three years, that is, at least, until February 2020.
+By contrast, as maintained by the Netherlands Government and the Commission, the rules of Slovenian law relating to the grant, expiry, revocation or extension of each status of international protection, to which the referring court refers in its first question, do not concern the content of the rights conferred by each status, but the determination of the status concerned.
+Those rules are prescribed, imperatively and separately, for each status of international protection in question in Chapters III to VI of Directive 2011/95.
+Those rules, contrary to those relating to the content of the rights conferred by such status, cannot therefore be taken into account as ‘rights and benefits’ within the meaning of the second subparagraph of Article 46(2) of Directive 2013/32.
+Next, the referring court asks whether, for the purposes of ascertaining whether, in respect of the applicable national law, the rights and benefits granted under each international protection status of EU law are equivalent, it is important to note that some ‘ancillary’ rights, which it defines as rights on which those rights and benefits under each status of international protection are based are not the same for each status.
+In that regard, suffice it to note that, having regard also to the fact that the second subparagraph of Article 46(2) of Directive 2013/must be interpreted narrowly, implying that that provision can apply only if the rights and benefits conferred by each international protection status in question are genuinely identical, such ancillary rights, as the rights directly granted by each status on which they are based, including the right to vote in local elections, in principle, the right to a passport valid for years or the right to family reunification, allowing family members to obtain a residence permit of indefinite duration, which, according to the referring court, Slovenian law grants to refugees, but does not grant, or at least not to the same extent, to beneficiaries of subsidiary protection, are rights which must be taken into account in ascertaining whether, for the purposes of the second subparagraph of Article 46(2), the rights and benefits granted by each status of international protection are identical.
+Lastly, in ascertaining whether the condition laid down in the second subparagraph of Article 46(2) of Directive 2013/is satisfied in respect of the rights and benefits conferred by each status of international protection in question being identical, the referring court asks whether account must be taken of the particular circumstances of the applicant to the effect that, even if the rights and benefits are not identical, there would, in any event, not be a sufficient interest in bringing an appeal against a decision refusing to grant him refugee status, resulting in the inadmissibility of the appeal, if granting that status would not afford him, in view of his particular circumstances, more rights and benefits than granting him subsidiary protection status.
+The question of whether the condition laid down in the second subparagraph of Article 46(2) of Directive 2013/is satisfied that the rights associated with each status of international protection concerned are identical must be assessed on the basis of an evaluation of the national legislation in question as a whole, and not on the basis of the particular circumstances of the applicant in question.
+First of all, to interpret the second subparagraph of Article 46(2) of Directive 2013/otherwise, to the effect that account would need to be taken of the particular circumstances of the applicant in question, is not supported by the wording of that provision. It is clear from that wording that the provision applies solely in a situation where the rights and benefits conferred under each international protection status are genuinely identical.
+Next, such an interpretation would also not be compatible with the need to interpret that provision narrowly, as has been set out in paragraph above.
+Lastly, it would be difficult to reconcile such an interpretation with the need to ensure certainty in the application of the second subparagraph of Article 46(2) of Directive 2013/and the need to avoid inequality of treatment in its application.
+If it were the case that, as regards the legislation of a Member State, the condition is not satisfied that the rights and benefits conferred by each status of international protection in question are genuinely identical, and that is the case in Slovenian law as regards residency entitlement and certain ‘ancillary’ rights, an applicant must be able to bring an appeal against a decision refusing to grant him refugee status but granting him subsidiary protection status, even if that applicant does not rely, or has not yet relied, on one of the rights being granted differently under each status of international protection in question.
+In any event, although E.G. does not appear, or does not yet appear, to rely on certain ancillary rights which are granted differently under each status of international protection, the same does not hold true of the right to reside, since the primary objective of the applicant’s appeal is precisely to obtain a longer and more stable residency entitlement, which would enable him, inter alia, to pursue his studies in Slovenia beyond full age.
+Furthermore, if the rights and benefits afforded by each status of international protection in question were genuinely not identical, such as in the case at issue in the main proceedings, and that appeal were nevertheless required to be dismissed as inadmissible on the ground of a lack of a sufficient interest in maintaining the proceedings, the fundamental right to an effective remedy before a court or tribunal, as enshrined in Article of the Charter, would not be respected.
+In the light of all of the foregoing considerations, the answer to the questions referred is that:
+–
+The second subparagraph of Article 46(2) of Directive 2013/must be interpreted as meaning that subsidiary protection status, granted under legislation of a Member State such as that at issue in the main proceedings, does not offer the ‘same rights and benefits as those offered by the refugee status under Union and national law’, within the meaning of that provision, so that a court of that Member State may not dismiss an appeal brought against a decision considering an application unfounded in relation to refugee status but granting subsidiary protection status as inadmissible on the grounds of insufficient interest on the part of the applicant in maintaining the proceedings where it is found that, under the applicable national legislation, those rights and benefits afforded by each international protection status are not genuinely identical.
+–
+Such an appeal may not be dismissed as inadmissible, even if it is found that, having regard to the applicant’s particular circumstances, granting refugee status could not confer on him more rights and benefits than granting subsidiary protection status, in so far as the applicant does not, or has not yet, relied on rights which are granted by virtue of refugee status, but which are not granted, or are granted only to a limited extent, by virtue of subsidiary protection status.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Seventh Chamber) hereby rules:
+ 
+The second subparagraph of Article 46(2) of Directive 2013/32/EU of the European Parliament and of the Council of June on common procedures for granting and withdrawing international protection must be interpreted as meaning that subsidiary protection status, granted under legislation of a Member State such as that at issue in the main proceedings, does not offer the ‘same rights and benefits as those offered by the refugee status under Union and national law’, within the meaning of that provision, so that a court of that Member State may not dismiss an appeal brought against a decision considering an application unfounded in relation to refugee status but granting subsidiary protection status as inadmissible on the grounds of insufficient interest on the part of the applicant in maintaining the proceedings where it is found that, under the applicable national legislation, those rights and benefits afforded by each international protection status are not genuinely identical.
+ 
+Such an appeal may not be dismissed as inadmissible, even if it is found that, having regard to the applicant’s particular circumstances, granting refugee status could not confer on him more rights and benefits than granting subsidiary protection status, in so far as the applicant does not, or has not yet, relied on rights which are granted by virtue of refugee status, but which are not granted, or are granted only to a limited extent, by virtue of subsidiary protection status.
+ 
+[Signatures]
+(
+*)	Language of the case: Slovenian.
+Top  

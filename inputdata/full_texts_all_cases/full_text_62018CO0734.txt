@@ -1,0 +1,58 @@
+
+ORDER OF THE COURT (Seventh Chamber)
+March (*)
+(Appeal — Article of the Rules of Procedure of the Court — European Union trade mark — Application for registration of the word mark SEVENFRIDAY — Opposition proceedings — Rejection of the application for registration — Regulation (EC) No 207/— Article 8(1)(b) — Appeal manifestly inadmissible)
+In Case C‑734/P,
+APPEAL under Article of the Statute of the Court of Justice of the European Union, brought on November 2018,
+Sevenfriday AG, established in Zurich (Switzerland), represented by M. Mostardini, F. Mellucci, S. Pallavicini and G. Bellomo, lawyers,
+applicant,
+the other parties to the proceedings being:
+European Union Intellectual Property Office (EUIPO),
+defendant at first instance,
+Seven SpA, established in Leinì (Italy), 
+intervener at first instance,
+THE COURT (Seventh Chamber),
+composed of T. von Danwitz, President of the Chamber, M. Berger (Rapporteur) and P.G. Xuereb, Judges,
+Advocate General: M. Campos Sánchez-Bordona,
+Registrar: A. Calot Escobar,
+having decided, after hearing the Advocate General, to give a decision by reasoned order, pursuant to Article of the Rules of Procedure of the Court of Justice,
+makes the following
+Order
+By its appeal, Sevenfriday AG seeks to have set aside the judgment of the General Court of the European Union of September 2018, Sevenfriday v EUIPO — Seven (SEVENFRIDAY) (T‑448/17, not published, ‘the judgment under appeal’, EU:T:2018:617), by which the General Court dismissed its action seeking the annulment of the decision of the Second Board of Appeal of the European Union Intellectual Property Office (EUIPO) of May (Case R 2291/2016-2), relating to opposition proceedings between Seven Spa and Sevenfriday.
+In support of its appeal, the appellant relies on a single ground, alleging infringement of Article 8(1)(b) of Council Regulation (EC) No 207/of February on the European Union trade mark (OJ L 78, p. 1).
+ The appeal
+Under Article of its Rules of Procedure, where the appeal is, in whole or in part, manifestly inadmissible or manifestly unfounded, the Court may at any time, acting on a proposal from the Judge-Rapporteur and after hearing the Advocate General, decide by reasoned order to dismiss that appeal in whole or in part.
+That provision must be applied in the present case.
+On February 2019, the Advocate General took the following Position:
+‘1.      By its appeal, the appellant, [Sevenfriday], seeks to have set aside [the judgment under appeal], by which the General Court dismissed, in its entirety, its action seeking the annulment of the decision of the Second Board of Appeal of [EUIPO] of May (Case R 2291/2016-2), relating to opposition proceedings between Sevenfriday and [Seven].
+2.      In its decision, EUIPO took the view that a likelihood of confusion existed in the mind of the relevant public, between the marks at issue, within the meaning of Article 8(1)(b) of [Regulation No 207/2009], in so far as their low degree of similarity was offset by the identity of the goods that they cover in Class of the Nice Agreement concerning the International Classification of Goods and Services for the Purposes of the Registration of Marks of June 1957, as revised and amended.
+3.      In support of its appeal, the appellant raises a single ground, alleging infringement of Article 8(1)(b) of Regulation No 207/2009.
+4.      For the reasons stated hereinafter, I propose that the Court should, in accordance with Article of the Rules of Procedure, dismiss the appeal as manifestly inadmissible.
+5.      By the first part of the single ground of appeal, the appellant criticises, in essence, the General Court for having concluded that the word element “seven” of the earlier EU work mark SEVEN had an average degree of distinctiveness, when it regards it as low, and, consequently, for having conferred on Seven a monopoly not only over a number expressing a quantity, but also over a complex combination of words containing that element, such as the name of the mark applied for.  Moreover, it considers, in the alternative, that that element “seven” should fall under the prohibition of registration referred to in Article 7(1)(c) and (d) of Regulation No 207/2009.
+6.      It follows from Article 168(1)(b) and Article 169(2) of the Rules of Procedure of the Court of Justice that an appeal must identify precisely the contested points in the grounds of the judgment which the appellant seeks to have set aside and indicate precisely the legal arguments specifically advanced in support of the appeal, failing which the appeal or ground of appeal concerned is inadmissible (order of September 2018, Holistic Innovation Institute v REA, C‑241/P, not published, EU:C:2018:704, paragraph and the case-law cited).
+7.      Accordingly, an appeal which merely repeats or reproduces verbatim the pleas in law and arguments previously submitted to the General Court does not satisfy the requirements to state reasons under those provisions.  However, the points of law examined at first instance may be argued again in the course of an appeal, provided that the appellant challenges the interpretation or application of EU law by the General Court. Indeed, if an appellant could not thus base his appeal on pleas in law and arguments already relied on before the General Court, an appeal would be deprived of part of its purpose (see, to that effect, judgment of December 2015, Italy v Commission, C‑280/P, EU:C:2015:792, paragraph and the case-law cited).
+8.      In the present case, however, the appellant does not cite any paragraphs of the judgment under appeal or identify the ones it is contesting. In addition, the arguments it raises reiterate verbatim the arguments succinctly put before the General Court, with the result that it is in fact merely criticising the decision of the Second Board of Appeal of EUIPO the annulment of which it seeks without identifying specifically the error of law that allegedly vitiates the findings made by the Court in paragraphs to of the judgment under appeal. 
+9.      As regards the appellant’s alternative argument, concerning the applicability of Article 7(1)(c) and (d) of Regulation No 207/2009, it should be pointed out that the General Court examined, in those paragraphs of the judgment under appeal, the distinctiveness of the figurative or word element “seven”, under Article 8(1)(b) of that regulation, without it being deemed necessary to redefine the legal basis of the action, since that action had been brought, by the appellant, on the basis of that latter provision and not of Article 7(1)(c) and (d) of Regulation No 207/2009. Accordingly, it is not for the Court of Justice to change the subject  matter of the proceedings before the General Court, in accordance with the second sentence of Article 170(1) of the Rules of Procedure, in so far as its jurisdiction, in an appeal, is limited to assessing the findings in law on the pleas argued at first instance (order of February 2015, Fundação Calouste Gulbenkian v OHIM, C‑414/P, not published, EU:C:2015:157, paragraph 52).
+10.      It follows that the first branch of the single ground of appeal must be rejected as clearly inadmissible.
+11.      By the second part of the single ground of appeal, the appellant complains, in essence, that the General Court wrongly concluded that there was a likelihood of confusion between the marks at issue in finding them to be similar to an average degree. It is of the view, contrary to what the Court decided, that the element “friday” is dominant in the mark applied for and has a higher level of distinctiveness than the element “seven” of the earlier mark SEVEN. In addition, it calls into question the Court’s assessment in concluding that the name of its trade mark introduces a new concept.
+12.      It should be recalled that, according to the settled case-law of the Court of Justice, it follows from Article TFEU and from the first paragraph of Article of the Statute of the Court of Justice of the European Union that an appeal lies on points of law only. The General Court thus has exclusive jurisdiction to find and assess the relevant facts and evidence. The assessment of that evidence and those facts thus does not, save where the clear sense of the evidence has been distorted, constitute a point of law which is subject as such to review by the Court of Justice on appeal (order of January 2019, Lion’s Head Global Partners v EUIPO, C‑553/P, not published, EU:C:2019:21, paragraph (Position of the Advocate General, point and the case-law cited)).
+13.      In the present case, it should be noted, first of all, that the appellant’s argument relating to the absence of a likelihood of confusion between the marks at issue seeks only to call into question the General Court’s assessment of the facts without claiming any error of law capable of invalidating the reasoning followed by EUIPO and subsequently confirmed by the Court in paragraphs and of the judgment under appeal.
+14.      Moreover, regarding the appellant’s argument relating to the dominant and distinctive natures of the word element of its trade mark, it must be recalled that the findings made by the General Court in relation to it, in paragraphs and of the judgment under appeal, fall within its exclusive jurisdiction to appraise the facts (see, by analogy, order of September 2018, Krasnyiy oktyabr v EUIPO, C‑248/P, not published, EU:C:2018:699, paragraph (Position of the Advocate General, points to 9)) and therefore do not raise a question of law subject to review by the Court of Justice.
+15.      Last, regarding the appellant’s argument aimed at disputing the assessment of the conceptual similarity between the marks at issue, it must be held that it merely calls into question the factual assessment made by the General Court in paragraphs to of the judgment under appeal, which is not subject to review by the Court of Justice, either (see, to that effect, judgment of September 2007, Nestlé v OHIM, C‑193/P, not published, EU:C:2007:539, paragraphs and 53, and order of January 2018, Monster Energy v EUIPO, C‑678/P, not published, EU:C:2018:24, paragraph and the case-law cited).
+16.      Since the appellant has moreover not alleged distortion of the facts under the second part of the single ground of appeal, that part must therefore be rejected as manifestly inadmissible.
+17.      In the light of all those considerations, it is necessary to reject the single ground of appeal and the appeal as manifestly inadmissible and to order the appellant to pay the costs, in accordance with Articles and 184(1) of the Rules of Procedure.’
+For the same reasons as those given by the Advocate General, the appeal must be dismissed as being manifestly inadmissible.
+ Costs
+Under Article of the Rules of Procedure, applicable to appeal proceedings by virtue of Article 184(1) of those rules, a decision as to costs is to be given in the order which closes the proceedings.  Since in this case the present order has been adopted before the appeal was served on the other parties and, consequently, before those parties could have incurred costs, the appellant must be ordered to bear its own costs.
+On those grounds, the Court (Seventh Chamber) hereby orders:
+1.      The appeal is dismissed as manifestly inadmissible.
+2.      Sevenfriday AG shall bear its own costs.
+Luxembourg, March 2019.
+A. Calot Escobar
+ 
+T. von Danwitz
+Registrar
+ 
+      President of the Seventh Chamber
+*      Language of the case: English.
+Top  

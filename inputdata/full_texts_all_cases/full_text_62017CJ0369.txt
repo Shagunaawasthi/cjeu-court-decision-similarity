@@ -1,0 +1,191 @@
+
+JUDGMENT OF THE COURT (Second Chamber)
+September (
+*)
+(Reference for a preliminary ruling — Area of freedom, security and justice — Borders, asylum and immigration — Refugee status or subsidiary protection status — Directive 2011/95/EU — Article — Exclusion from subsidiary protection status — Grounds — Conviction for a serious crime — Determination of seriousness on the basis of the penalty provided for under national law — Whether permissible — Need for an individual assessment)
+In Case C‑369/17,
+REQUEST for a preliminary ruling under Article TFEU from the Fővárosi Közigazgatási és Munkaügyi Bíróság (Budapest Administrative and Labour Court, Hungary), made by decision of May 2017, received at the Court on June 2017, in the proceedings
+Shajin Ahmed
+v
+Bevándorlási és Menekültügyi Hivatal,
+THE COURT (Second Chamber),
+composed of M. Ilešič, President of the Chamber, A. Rosas (Rapporteur), C. Toader, A. Prechal and E. Jarašiūnas, Judges,
+Advocate General: P. Mengozzi,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Mr Shajin Ahmed, by G. Győző, ügyvéd,
+–
+the Hungarian Government, by M.Z. Fehér, G. Koós and M.M. Tátrai, acting as Agents,
+–
+the Czech Government, by M. Smolek, J. Vláčil and A. Brabcová, acting as Agents,
+–
+the French Government, by E. Armoët, E. de Moustier and D. Colas, acting as Agents,
+–
+the Netherlands Government, by M.H.S. Gijzen and M.K. Bulterman, acting as Agents,
+–
+the European Commission, by A. Tokár and M. Condou-Durande, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 17(1)(b) of Directive 2011/95/EU of the European Parliament and of the Council of December on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection, and for the content of the protection granted (OJ L 337, p. 9).
+The request has been made in the context of a dispute between Mr Shajin Ahmed, an Afghan national, and the Bevándorlási és Menekültügyi Hivatal (Immigration and Asylum Office, Hungary), formerly the Bevándorlási és Állampolgársági Hivatal (Immigration and Nationality Office, Hungary) (‘the Office’), concerning the Office’s refusal to grant Mr Ahmed’s application for international protection.
+Legal context
+International law
+The Convention relating to the Status of Refugees, signed in Geneva on July (United Nations Treaty Series, Vol. 189, p. 150, No (1954)), entered into force on April 1954. It was supplemented and amended by the Protocol relating to the Status of Refugees, concluded in New York on January 1967, which itself entered into force on October (‘the Geneva Convention’).
+Article of the Geneva Convention, following the definition, in section A, of the term ‘refugee’, states in section F:
+‘The provisions of this Convention shall not apply to any person with respect to whom there are serious reasons for considering that:
+(a)
+he has committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes;
+(b)
+he has committed a serious non-political crime outside the country of refuge prior to his admission to that country as a refugee;
+(c)
+he has been guilty of acts contrary to the purposes and principles of the United Nations.’
+EU law
+Article 78(1) and (2) TFEU states:
+‘1.   The [European] Union shall develop a common policy on asylum, subsidiary protection and temporary protection with a view to offering appropriate status to any third-country national requiring international protection and ensuring compliance with the principle of non‑refoulement. This policy must be in accordance with the [Geneva Convention] and other relevant treaties.
+2.   For the purposes of paragraph 1, the European Parliament and the Council, acting in accordance with the ordinary legislative procedure, shall adopt measures for a common European asylum system comprising:
+(a)
+a uniform status of asylum for nationals of third countries, valid throughout the Union;
+(b)
+a uniform status of subsidiary protection for nationals of third countries who, without obtaining European asylum, are in need of international protection;
+…’
+Directive 2011/95, adopted on the basis of Article 78(2)(a) and (b) TFEU, repealed Council Directive 2004/83/EC of April on minimum standards for the qualification and status of third country nationals or stateless persons as refugees or as persons who otherwise need international protection and the content of the protection granted (OJ L 304, p. 12).
+Recitals 3, 4, 8, 9, 12, 23, 24, and of Directive 2011/are worded as follows:
+‘(3)
+The European Council at its special meeting in Tampere on and October agreed to work towards establishing a Common European Asylum System, based on the full and inclusive application of the Geneva Convention …
+(4)
+The Geneva Convention … [provides] the cornerstone of the international legal regime for the protection of refugees.
+…
+(8)
+In the European Pact on Immigration and Asylum, adopted on and October 2008, the European Council noted that considerable disparities remain between one Member State and another concerning the grant of protection and the forms that protection takes and called for new initiatives to complete the establishment of a Common European Asylum System, provided for in the Hague Programme [adopted by the European Council on November setting the objectives to be implemented in the area of freedom, security and justice in the period 2005-2010], and thus to offer a higher degree of protection.
+(9)
+In the Stockholm Programme [adopted in 2010], the European Council reiterated its commitment to the objective of establishing a common area of protection and solidarity, based on a common asylum procedure and a uniform status, in accordance with Article [TFEU], for those granted international protection, by at the latest.
+…
+(12)
+The main objective of this Directive is, on the one hand, to ensure that Member States apply common criteria for the identification of persons genuinely in need of international protection, and, on the other hand, to ensure that a minimum level of benefits is available for those persons in all Member States.
+…
+(23)
+Standards for the definition and content of refugee status should be laid down to guide the competent national bodies of Member States in the application of the Geneva Convention.
+(24)
+It is necessary to introduce common criteria for recognising applicants for asylum as refugees within the meaning of Article of the Geneva Convention.
+…
+(33)
+Standards for the definition and content of subsidiary protection status should also be laid down. Subsidiary protection should be complementary and additional to the refugee protection enshrined in the Geneva Convention.
+…
+(39)
+While responding to the call of the Stockholm Programme for the establishment of a uniform status for refugees or for persons eligible for subsidiary protection, and with the exception of derogations which are necessary and objectively justified, beneficiaries of subsidiary protection status should be granted the same rights and benefits as those enjoyed by refugees under this Directive, and should be subject to the same conditions of eligibility.’
+Article of Directive 2011/provides:
+‘For the purposes of this Directive the following definitions shall apply:
+(a)
+“international protection” means refugee status and subsidiary protection status as defined in points (e) and (g);
+…
+(f)
+“person eligible for subsidiary protection” means a third-country national or a stateless person who does not qualify as a refugee but in respect of whom substantial grounds have been shown for believing that the person concerned, if returned to his or her country of origin, or in the case of a stateless person, to his or her country of former habitual residence, would face a real risk of suffering serious harm as defined in Article 15, and to whom Article 17(1) and (2) does not apply, and is unable, or, owing to such risk, unwilling to avail himself or herself of the protection of that country;
+(g)
+“subsidiary protection status” means the recognition by a Member State of a third-country national or a stateless person as a person eligible for subsidiary protection;
+…’
+In Chapter III of Directive 2011/95, entitled ‘Qualification for being a refugee’, Article 12, entitled ‘Exclusion’, provides, in its paragraphs and 3:
+‘2.   A third-country national or a stateless person is excluded from being a refugee where there are serious reasons for considering that:
+(a)
+he or she has committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes;
+(a)
+he or she has committed a serious non-political crime outside the country of refuge prior to his or her admission as a refugee, which means the time of issuing a residence permit based on the granting of refugee status; particularly cruel actions, even if committed with an allegedly political objective, may be classified as serious non-political crimes;
+(c)
+he or she has been guilty of acts contrary to the purposes and principles of the United Nations as set out in the Preamble and Articles and of the Charter of the United Nations [signed in San Francisco on June 1945].
+3.   Paragraph applies to persons who incite or otherwise participate in the commission of the crimes or acts mentioned therein.’
+Under the title ‘Revocation of, ending of or refusal to renew refugee status’, Article of Directive 2011/95, which features in Chapter IV, provides, in its paragraph 4:
+‘Member States may revoke, end or refuse to renew the status granted to a refugee by a governmental, administrative, judicial or quasi-judicial body, when:
+(a)
+there are reasonable grounds for regarding him or her as a danger to the security of the Member State in which he or she is present;
+(b)
+he or she, having been convicted by a final judgment of a particularly serious crime, constitutes a danger to the community of that Member State.’
+Chapter V of Directive 2011/95, entitled ‘Qualification for subsidiary protection’, includes Article 17, entitled ‘Exclusion’, according to which:
+‘1.   A third-country national or a stateless person is excluded from being eligible for subsidiary protection where there are serious reasons for considering that:
+(a)
+he or she has committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes;
+(b)
+he or she has committed a serious crime;
+(c)
+he or she has been guilty of acts contrary to the purposes and principles of the United Nations as set out in the Preamble and Articles and of the Charter of the United Nations;
+(d)
+he or she constitutes a danger to the community or to the security of the Member State in which he or she is present.
+2.   Paragraph applies to persons who incite or otherwise participate in the commission of the crimes or acts mentioned therein.
+3.   Member States may exclude a third-country national or a stateless person from being eligible for subsidiary protection if he or she, prior to his or her admission to the Member State concerned, has committed one or more crimes outside the scope of paragraph which would be punishable by imprisonment, had they been committed in the Member State concerned, and if he or she left his or her country of origin solely in order to avoid sanctions resulting from those crimes.’
+Hungarian law
+Article of the menedékjogról szóló 2007. évi LXXX. törvény (Law No LXXX of on the right to asylum) (Magyar Közlöny 2007/83; ‘the Law on the right to asylum’), states the following:
+‘1.   No foreign national to whom one of the grounds for exclusion set out in Article 1, section D, E or F of the Geneva Convention applies may be granted refugee status.
+2.   The term “serious non-political crime” within the meaning of Article 1(F)(b) of the Geneva Convention means any act in which — having regard to all the relevant circumstances, such as the purpose of the offence, its motive, the manner in which it was committed, the means used or envisaged — the criminal aspects of the offence prevail over its political aspects and for which, under Hungarian law, the penalty is a custodial sentence of five years or more.’
+Article 11(3) of that law provides:
+‘The asylum authority shall revoke the granting of refugee status if the refugee has been definitively sentenced by a court for having committed a crime for which Hungarian law provides for a custodial sentence of five years or more.’
+Article of the Law on the right to asylum, which governs grounds for exclusion from subsidiary protection status, provides:
+‘Subsidiary protection status shall not be granted to a foreign national
+(a)
+where there are serious reasons for considering that
+(aa)
+he or she has committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments;
+(ab)
+he or she has committed a serious crime for which Hungarian law provides for a custodial sentence of five years or more;
+(ac)
+he or she has committed crimes contrary to the purposes and principles of the United Nations;
+(b)
+[when his or her] stay on national territory constitutes a danger to national security.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Mr Ahmed obtained refugee status by decision of the Office of October on account of the risk of persecution that he faced in his country of origin, as his father was a high-ranking officer in the Najibullah regime.
+Criminal proceedings were subsequently brought in Hungary against Mr Ahmed, in the course of which he requested that the consulate of the Islamic Republic of Afghanistan be fully informed of the outcome.
+Taking the view that it could be inferred from the request for protection which Mr Ahmed had voluntarily sent to his country of origin that the risk of persecution had ceased to exist, the Office initiated of its own motion a procedure to review his refugee status in 2014.
+By a final judgment of May 2014, the Fővárosi Ítélőtábla (Budapest Regional Court of Appeal, Hungary) imposed on Mr Ahmed a custodial sentence of two years and loss of civic rights for four years, for attempted murder. By a judgment of July 2014, the Budapest Környéki Törvényszék (Budapest Regional Court, Hungary) imposed on him a custodial sentence of four years and loss of civic rights for three years, for attempted blackmail.
+By decision of November 2014, the Office withdrew Mr Ahmed’s refugee status pursuant to Article 11(3) of the Law on the right to asylum.
+On June 2015, Mr Ahmed filed a new application for refugee status and subsidiary protection status, which was rejected by the Office by decision of December 2015.
+Mr Ahmed brought an action against that decision before the Fővárosi Közigazgatási és Munkaügyi Bíróság (Budapest Administrative and Labour Court, Hungary). That court upheld the action and ordered the Office to initiate a new administrative procedure.
+In the course of that new procedure, the Office, while noting the existence of an obstacle to refoulement, dismissed Mr Ahmed’s application both for refugee status and for subsidiary protection status by decision of October 2016. The Office took the view that subsidiary protection could not be granted to Mr Ahmed due to the existence of a ground for exclusion within the meaning of the Law on the right to asylum, in that Mr Ahmed had committed a crime for which Hungarian law provides a custodial sentence of five years or more. In that regard, the Office took account of the sentences imposed on Mr Ahmed, as set out in the judgments referred to in paragraph of the present judgment.
+Mr Ahmed brought an action against that decision before the referring court, which is the Fővárosi Közigazgatási és Munkaügyi Bíróság (Budapest Administrative and Labour Court), in so far as, by that decision, the Office dismissed his application for the granting of subsidiary protection status.
+According to Mr Ahmed, by using as a ground for exclusion from subsidiary protection status the fact that a person has committed a crime punishable, under Hungarian law, by five years’ imprisonment, the national legislation removes all discretion from the administrative bodies responsible for applying that law and the courts responsible for reviewing the legality of the decisions made by those bodies. The expression ‘he or she has committed a serious crime’ in Article 17(1)(b) of Directive 2011/95, which relates to grounds for exclusion from subsidiary protection status, implies, he submits, an obligation to assess all the circumstances of the individual case concerned.
+The referring court notes that, according to the Hungarian legislation, the same criterion, namely, the fact that a person has been sentenced for having ‘committed a crime for which Hungarian law provides for a custodial sentence of five years or more’, serves as the basis both for revocation of refugee status, as provided for in Article 11(3) of the Law on the right to asylum, and for exclusion from subsidiary protection status, as follows from Article 15(a)(ab) of that law. By contrast, Directive 2011/lays down different criteria for revocation of refugee status and for exclusion from subsidiary protection status.
+In that regard, the referring court states, concerning the revocation of refugee status, that Article 14(4)(b) of Directive 2011/uses as a criterion the conviction of the person concerned for a ‘particularly serious’ crime, implying that the convicted person clearly represents a danger to the community of the Member State in question, whereas, according to Article 17(1)(b) of that directive, exclusion from eligibility for subsidiary protection is based on the commission of a ‘serious crime’, suggesting that the offending conduct is less serious than that referred to in Article 14(4)(b) of the directive.
+In the referring court’s view, the criterion used by Hungarian law, consisting of taking into consideration the duration of the penalty provided, does not make it possible to assess the seriousness of the crime actually committed.
+Defining the concept of ‘serious crime’ on the basis of the sole criterion of the penalty provided would lead to any offence which may be punished, under Hungarian law, by a custodial sentence of five years or more, including offences for which the maximum possible penalty is a custodial sentence of five years, automatically being treated as serious. Moreover, a ground for exclusion based on the penalty provided could not take account of the fact that execution of the penalty might be suspended.
+According to the referring court, the terms used in Article 14(4) and Article 17(1) of Directive 2011/imply a thorough assessment of all the circumstances of the individual case concerned and, for that case, the decision of the criminal court.
+The referring court therefore considers it necessary to clarify the interpretation of Article 17(1)(b) of Directive 2011/95, which concerns exclusion from subsidiary protection status, in the light of, inter alia, the Court of Justice’s interpretation of Article 12(2)(b) and (c) of Directive 2004/83, now Article 12(2)(b) and (c) of Directive 2011/95, relating to exclusion from refugee status, in the judgment of November 2010, B and D (C‑57/and C‑101/09, EU:C:2010:661, paragraph 87), according to which the competent authority of the Member State concerned cannot apply that provision until it has undertaken, for each individual case, an assessment of the specific facts within its knowledge, with a view to determining whether there are serious reasons for considering that the acts committed by the person in question, who otherwise satisfies the conditions for refugee status, are covered by one of the two grounds for exclusion laid down by that provision.
+In those circumstances, the Fővárosi Közigazgatási és Munkaügyi Bíróság (Budapest Administrative and Labour Court) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Does it follow from the expression “he or she has committed a serious crime” used in Article 17(1)(b) of [Directive 2011/95] that the penalty provided for a specific crime under the law of the particular Member State may constitute the sole criterion to determine whether the person claiming subsidiary protection may be excluded from it?’
+Consideration of the question referred
+By its question, the referring court asks, in essence, whether Article 17(1)(b) of Directive 2011/must be interpreted as precluding legislation of a Member State pursuant to which the applicant for subsidiary protection is deemed to have ‘committed a serious crime’ within the meaning of that provision, which may exclude him from that protection, on the basis of the sole criterion of the penalty provided for a specific crime under the law of that Member State.
+In that regard, it should be noted that the concept of ‘serious crime’ in Article 17(1)(b) of Directive 2011/is not defined in that directive, nor does that directive contain any express reference to national law for the purpose of determining the meaning and scope of that concept.
+The same is true with regard to the concept of ‘particularly serious crime’ referred to in Article 14(4)(b) of Directive 2011/95, relating to the revocation of refugee status, and the concept of ‘serious non‑political crime’, referred to in Article 12(2)(b) of that directive, relating to exclusion from refugee status.
+According to the Czech and Hungarian Governments, as the EU legislature has not defined the concept of ‘serious crime’ in the context of applications for international protection, it is for the legislature of the Member States to define that concept. Against this, Mr Ahmed, the French and Netherlands Governments and the European Commission submit that that concept must, in the context of applications for international protection, be interpreted by taking into account the objectives and general principles of EU law applicable to refugees and that Article 17(1)(b) of Directive 2011/must, accordingly, be interpreted in the light of the Geneva Convention, in particular Article 1(F)(b) thereof, and of Article 12(2)(b) of that directive, which reproduces, in essence, the content of that provision.
+In this regard, it must be recalled at the outset that, in accordance with the need for a uniform application of EU law and the principle of equality, the wording of a provision of EU law which makes no express reference to the law of the Member States for the purpose of determining its meaning and scope must normally be given an autonomous and uniform interpretation throughout the European Union, and that interpretation must take into account, inter alia, the context of that provision and the objective pursued by the rules of which it is part (see, to that effect, judgments ofJuly 2016, JZ, C‑294/PPU, EU:C:2016:610, paragraphs to 37; of July 2017, Ouhrami, C‑225/16, EU:C:2017:590, paragraph 38; and of April 2018, A and S, C‑550/16, EU:C:2018:248, paragraph 41).
+It is apparent from recital of Directive 2011/that one of its main objectives is to ensure that all Member States apply common criteria for the identification of persons genuinely in need of international protection. It also follows from Article 78(1) TFEU that the common policy which the European Union is to develop on asylum, subsidiary protection and temporary protection with a view to offering appropriate status to any third-country national requiring international protection and ensuring compliance with the principle of non-refoulement must be in accordance with the Geneva Convention.
+In that context, it should be noted that, like Directive 2004/83, Directive 2011/95, in connection with the concept of ‘international protection’, refers to two separate systems of protection, namely the system governing refugee status and the system relating to subsidiary protection status (see, as regards Directive 2004/83, judgment of May 2014, N., C‑604/12, EU:C:2014:302, paragraph 26).
+As is apparent from recitals and of Directive 2011/95, subsidiary protection is intended to be complementary and additional to the protection of refugees enshrined in the Geneva Convention (judgment of March 2016, Alo and Osso, C‑443/and C‑444/14, EU:C:2016:127, paragraph 31).
+It is apparent from recitals 4, and of Directive 2011/that the Geneva Convention constitutes the cornerstone of the international legal regime for the protection of refugees and that the provisions of that directive for determining who qualifies for refugee status and the content thereof were adopted to guide the competent authorities of the Member States in the application of that convention on the basis of common concepts and criteria (judgment of March 2016, Alo and Osso, C‑443/and C‑444/14, EU:C:2016:127, paragraph and the case-law cited).
+The Court of Justice had held on numerous occasions that the provisions of that directive, like those of Directive 2004/83, must, consequently, be interpreted in the light of its general scheme and purpose, and in a manner consistent with the Geneva Convention and the other relevant treaties referred to in Article 78(1) TFEU (judgments of November 2010, B and D, C‑57/and C‑101/09, EU:C:2010:661, paragraph 78; of March 2016, Alo and Osso, C‑443/and C‑444/14, EU:C:2016:127, paragraph 29; and of January 2017, Lounani, C‑573/14, EU:C:2017:71, paragraph 42).
+While those considerations are, in so far as they pertain to the Geneva Convention, relevant solely in relation to the conditions for determining who qualifies for refugee status and the content of that status, since the system laid down by the convention applies only to refugees and not to beneficiaries of subsidiary protection status, it is, however, apparent from recitals 8, and of Directive 2011/that the EU legislature intended to establish a uniform status for all beneficiaries of international protection (see, to that effect, judgment of March 2016, Alo and Osso, C‑443/and C‑444/14, EU:C:2016:127, paragraphs and 32).
+As regards the grounds for exclusion from subsidiary protection status, it must be noted that the EU legislature drew inspiration from the rules applicable to refugees in order to extend them, so far as possible, to beneficiaries of subsidiary protection status.
+The content and structure of Article 17(1)(a) to (c) of Directive 2011/95, concerning exclusion from eligibility for subsidiary protection, bear similarities to Article 12(2)(a) to (c) of that directive, relating to exclusion from refugee status, which itself reproduces, in essence, the content of Article 1(F)(a) to (c) of the Geneva Convention.
+It is clear, furthermore, from the preparatory documents relating to Directive 2011/95, in the same way as those relating to Directive 2004/(see sections 4.and of the explanatory memorandum concerning the proposal for a directive presented by the Commission on October (COM(2001) final) (OJ C E, p. 325) and the proposal for a directive presented by the Commission on October (COM(2009) final)), that Article 17(1)(a) to (c) of Directive 2011/follows from the EU legislature’s intention to introduce grounds for exclusion from subsidiary protection similar to those applicable to refugees.
+Nevertheless, while those grounds for exclusion are structured around the concept of ‘serious crime’, the scope of the ground for exclusion laid down by Article 17(1)(b) of Directive 2011/is broader than that of the ground for exclusion from refugee status laid down by Article 1(F)(b) of the Geneva Convention and Article 12(2)(b) of Directive 2011/95.
+While the ground for exclusion from refugee status laid down by that provision refers to a serious non-political crime committed outside the country of refuge prior to admission of the person concerned as a refugee, the ground for exclusion from subsidiary protection laid down by Article 17(1)(b) of Directive 2011/refers more generally to a serious crime and is therefore limited neither territorially nor temporally, or as to the nature of the crimes at issue.
+It should be recalled that, in the judgment of November 2010, B and D (C‑57/and C‑101/09, EU:C:2010:661, paragraph 87), the Court held that it is clear from the wording of Article 12(2)(b) and (c) of Directive 2004/83, now Article 12(2)(b) and (c) of Directive 2011/95, that the competent authority of the Member State concerned cannot apply that provision until it has undertaken, for each individual case, an assessment of the specific facts within its knowledge, with a view to determining whether there are serious reasons for considering that the acts committed by the person in question, who otherwise satisfies the conditions for refugee status, are covered by one of the two grounds for exclusion laid down by that provision.
+It follows that any decision to exclude a person from refugee status must be preceded by a full investigation into all the circumstances of his individual case and cannot be taken automatically (see, to that effect, judgment of November 2010, B and D, C‑57/and C‑101/09, EU:C:2010:661, paragraphs and 93).
+Such a requirement must be transposed to decisions to exclude a person from subsidiary protection.
+Like the grounds for exclusion from refugee status, the purpose underlying the grounds for exclusion from subsidiary protection is to exclude from subsidiary protection status persons who are deemed to be undeserving of the protection which that status entails and to maintain the credibility of the Common European Asylum System, which includes both the approximation of rules on the recognition of refugees and the content of refugee status and measures on subsidiary forms of protection, offering an appropriate status to any person in need of such protection (see, to that effect, as regards Directive 2004/and refugee status, judgment of November 2010, B and D, C‑57/and C‑101/09, EU:C:2010:661, paragraphs and 115).
+It must be noted that Article 17(1)(b) of Directive 2011/permits a person’s exclusion from subsidiary protection status only where there are ‘serious reasons’ for taking the view that he has committed a serious crime. That provision sets out a ground for exclusion which constitutes an exception to the general rule stipulated by Article of Directive 2011/and therefore calls for strict interpretation.
+According to the referring court, the Law on the right to asylum leads, however, to any offence which may be punished, under Hungarian law, by a custodial sentence of five years or more automatically being classified as a serious crime.
+The Commission correctly observes that that classification can cover a wide range of conduct of varying degrees of seriousness. In the Commission’s view, it is necessary for the authority or the competent national court ruling on the application for subsidiary protection to be able to examine, on the basis of criteria other than that of the penalty provided, whether the offence committed by the applicant, who otherwise satisfies the conditions for subsidiary protection status, is of such seriousness that it must lead to the rejection of his application for international protection.
+In that regard, it is important to note that, while the criterion of the penalty provided for under the criminal legislation of the Member State concerned is of particular importance when assessing the seriousness of the crime justifying exclusion from subsidiary protection pursuant to Article 17(1)(b) of Directive 2011/95, the competent authority of the Member State concerned may apply the ground for exclusion laid down by that provision only after undertaking, for each individual case, an assessment of the specific facts brought to its attention with a view to determining whether there are serious grounds for taking the view that the acts committed by the person in question, who otherwise satisfies the qualifying conditions for the status applied for, come within the scope of that particular ground for exclusion (see, by analogy, judgments of November 2010, B and D, C‑57/and C‑101/09, EU:C:2010:661, paragraph 87, and of January 2017, Lounani, C‑573/14, EU:C:2017:71, paragraph 72).
+That interpretation is supported by the report of the European Asylum Support Office (EASO) for the month of January 2016, entitled ‘Exclusion: Articles and of the Qualification Directive (2011/95/EU)’, which recommends, in paragraph 3.2.on Article 17(1)(b) of Directive 2011/95, that the seriousness of the crime that could result in a person being excluded from subsidiary protection be assessed in the light of a number of criteria such as, inter alia, the nature of the act at issue, the consequences of that act, the form of procedure used to prosecute the crime, the nature of the penalty provided and the taking into account of whether most jurisdictions also classify the act at issue as a serious crime. The EASO refers, in that regard, to a number of decisions taken by the highest courts of the Member States.
+Similar recommendations are, furthermore, set out in the Handbook on Procedures and Criteria for determining Refugee Status under the Convention and the Protocol relating to the Status of Refugees (United Nations High Commissioner for Refugees (UNHCR), 1992, paragraphs to 157).
+In the light of the foregoing considerations, the answer to the question referred is that Article 17(1)(b) of Directive 2011/must be interpreted as precluding legislation of a Member State pursuant to which the applicant for subsidiary protection is deemed to have ‘committed a serious crime’ within the meaning of that provision, which may exclude him from that protection, on the basis of the sole criterion of the penalty provided for a specific crime under the law of that Member State. It is for the authority or competent national court ruling on the application for subsidiary protection to assess the seriousness of the crime at issue, by carrying out a full investigation into all the circumstances of the individual case concerned.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Second Chamber) hereby rules:
+ 
+Article 17(1)(b) of Directive 2011/95/EU of the European Parliament and of the Council of December on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection, and for the content of the protection granted, must be interpreted as precluding legislation of a Member State pursuant to which the applicant for subsidiary protection is deemed to have ‘committed a serious crime’ within the meaning of that provision, which may exclude him from that protection, on the basis of the sole criterion of the penalty provided for a specific crime under the law of that Member State. It is for the authority or competent national court ruling on the application for subsidiary protection to assess the seriousness of the crime at issue, by carrying out a full investigation into all the circumstances of the individual case concerned.
+ 
+[Signatures]
+(
+*)	Language of the case: Hungarian.
+Top  

@@ -1,0 +1,86 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+February (
+*)
+(Reference for a preliminary ruling — Judicial cooperation in civil matters — European small claims procedure — Regulation (EC) No 861/— Article — ‘Unsuccessful party’ — Costs of proceedings — Apportionment — Article — Procedural law of the Member States)
+In Case C‑554/17,
+REQUEST for a preliminary ruling under Article TFEU from the Svea hovrätt (Court of Appeal, Stockholm, Sweden), made by decision of September 2017, received at the Court on September 2017, in the proceedings
+Rebecka Jonsson
+v
+Société du Journal L’Est Républicain,
+THE COURT (Third Chamber),
+composed of M. Vilaras, President of the Fourth Chamber, acting as President of the Third Chamber, J. Malenovský, L. Bay Larsen (Rapporteur), M. Safjan and D. Šváby, Judges,
+Advocate General: P. Mengozzi,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of
+–
+Ms Jonsson, by S. Teste, jur. kand.,
+–
+the Croatian Government, by T. Galli, acting as Agent,
+–
+the Austrian Government, by G. Eberhard, acting as Agent,
+–
+the Finnish Government, by S. Hartikainen, acting as Agent,
+–
+the European Commission, by K. Simonsson and M. Heller, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article of Regulation (EC) No 861/of the European Parliament and of the Council of July establishing a European small claims procedure (OJ L 199, p. 1).
+The request has been made in proceedings between Ms Rebecka Jonsson, a Swedish resident, and the Société du Journal L’Est Républicain, established in France (‘L’Est Républicain’), concerning a claim for reimbursement of the costs of proceedings.
+Legal context
+EU law
+Recital of Regulation No 861/is worded as follows:
+‘The unsuccessful party should bear the costs of the proceedings. The costs of the proceedings should be determined in accordance with national law. Having regard to the objectives of simplicity and cost-effectiveness, the court or tribunal should order that an unsuccessful party be obliged to pay only the costs of the proceedings, including for example any costs resulting from the fact that the other party was represented by a lawyer or another legal professional, or any costs arising from the service or translation of documents, which are proportionate to the value of the claim or which were necessarily incurred.’
+Article of that regulation states:
+‘This Regulation establishes a European procedure for small claims (hereinafter referred to as the “European Small Claims Procedure”), intended to simplify and speed up litigation concerning small claims in cross-border cases, and to reduce costs. ...’
+Article 2(1) of that regulation is worded as follows:
+‘This Regulation shall apply, in cross-border cases, to civil and commercial matters, whatever the nature of the court or tribunal, where the value of a claim does not exceed EUR at the time when the claim form is received by the court or tribunal with jurisdiction, excluding all interest, expenses and disbursements. ...’
+Article of that regulation provides:
+‘The unsuccessful party shall bear the costs of the proceedings. However, the court or tribunal shall not award costs to the successful party to the extent that they were unnecessarily incurred or are disproportionate to the claim.’
+Under the heading ‘Applicable procedural law’, Article of Regulation No 861/provides:
+‘Subject to the provisions of this Regulation, the European Small Claims Procedure shall be governed by the procedural law of the Member State in which the procedure is conducted.’
+Swedish law
+Under Paragraph of Chapter of the rättegångsbalken (Code of Judicial Procedure):
+‘The unsuccessful party shall pay the opponent’s costs, provided that no alternative order is made.’
+Paragraph of that code provides:
+‘If there are many claims in the same case and the parties are successful in part and unsuccessful in part, each party shall bear its own costs or an adjusted amount shall be awarded, and/or, in so far as it is possible to distinguish between the costs of different parts of the case, the payment obligation shall be determined accordingly. If the party is unsuccessful only to an insignificant degree, it may, however, receive full payment for its costs.
+The above shall apply mutatis mutandis if the party’s claim is upheld only in part.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+In early 2012, Ms Jonsson filmed a person falling into a river after the line broke while that person was bungee jumping. She found a sequence from her film, as well as a still picture from that film, on the website of L’Est Républicain.
+Taking the view that her exclusive right to exploit that film and that picture had been infringed, Ms Jonsson brought an action before the Attunda Tingsrätt (District Court, Attunda, Sweden), claiming that L’Est Républicain should be ordered to pay her damages in the amount of EUR in respect of the harm suffered, by way of compensation for publication of the film (EUR 379) and picture (EUR 211) on the internet, compensation for failure to identify her as the author of the film (EUR 542) and of the picture (EUR 317), and compensation for infringement of copyright, processing and manipulation of the film (EUR 284) and of the picture (EUR 217). She also claimed reimbursement of her legal costs totalling 652.Swedish kroner (SEK) (approximately EUR 1530).
+L’Est Républicain disputed that claim in its entirety and sought an order requiring Ms Jonsson to pay it costs of EUR which it had incurred in regard to translations.
+The court of first instance upheld Ms Jonsson’s claim in part by granting her EUR in damages, of which EUR corresponded to compensation for exploitation of the film, EUR compensation for the picture, EUR compensation for failure to identify the author of the picture and EUR to compensation for the harm incurred by the deliberate or negligent exploitation of the film and EUR for such use of the picture.
+Furthermore, that court held that each party should bear its own costs.
+As she took the view that she had been unsuccessful at first instance only to an insignificant degree, Ms Jonsson brought an appeal against that judgment before the referring court, limiting her appeal to the part of the judgment relating to the costs. Accordingly, she claimed that L’Est Républicain should pay all of the costs which she had incurred at first instance.
+That court takes the view that Regulation No 861/does not contain any clarification as to the apportionment of costs in a situation such as that at issue in the case pending before it.
+In those circumstances, the Svea hovrätt (Court of Appeal, Stockholm, Sweden) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Does Article of [Regulation No 861/2007] constitute an obstacle to the application of a national provision under which the costs of proceedings may be set off or adjusted depending on whether the parties were successful in part and unsuccessful in part, where there are a number of claims in the proceedings or where a claim is upheld only in part?
+(2)
+If the answer to the first question is in the affirmative, how is the expression “unsuccessful party” in Article of [Regulation No 861/2007] specifically to be interpreted?’
+Consideration of the questions referred
+By its questions, which it is appropriate to examine together, the referring court asks, in essence, whether Article of Regulation No 861/must be interpreted as precluding national legislation under which, where a party succeeds only in part, the national court may order each party to the proceedings to bear its own procedural costs or apportion those costs between those parties.
+As the first sentence of Article provides, ‘the unsuccessful party shall bear the costs of the proceedings’.
+In order to determine whether a situation such as that at issue in the main proceedings, in which a party is successful only in part, comes within the scope of that article, it is necessary to determine whether the expression ‘the unsuccessful party’ refers solely to the case in which a party is entirely unsuccessful in its claims or whether that expression also covers the situation where a party is unsuccessful only in part.
+It follows from the very wording of Article of Regulation No 861/that it does not contain any information as to that latter situation.
+In that regard, it must be noted that, where one party is partially unsuccessful in its claims, the other party is unsuccessful as well. However, should that article be interpreted as covering situations in which a party is only partially unsuccessful in its claims, that interpretation would deprive that article of its effectiveness in that it would not allow the national court to determine which party is to bear the costs of the proceedings.
+In addition, had the EU legislature taken the view that situations in which a party succeeds only in part should also be included within the scope of Article of Regulation No 861/2007, that clarification ought to have been included in the regulation, all the more so because that regulation harmonises only partially the procedural rules applicable to small claims.
+It follows that the first sentence of Article of that regulation must be interpreted as covering only situations in which one of the parties is wholly unsuccessful in its claims.
+Furthermore, it must be observed that, as follows from Article of Regulation No 861/2007, subject to the provisions of that regulation, the European Small Claims Procedure is to be governed by the procedural law of the Member State in which the procedure is conducted. In addition, recital of that regulation states that the unsuccessful party should bear the costs of the proceedings, which should be determined in accordance with national law.
+Therefore, under Article of that regulation, read in conjunction with recital thereof, in a case such as that at issue in the main proceedings, in which a party is only partially successful, procedural matters relating to the apportionment of the costs of the proceedings between the parties remain governed by the national law of the Member States.
+In that regard, it must be pointed out that, in the absence of harmonisation of domestic mechanisms for the apportionment of procedural costs and subject to the provisions of Regulation No 861/2007, the procedural rules for determining such apportionment are a matter for the domestic legal order of each Member State, in accordance with the principle of the procedural autonomy of the latter. However, those rules must not be less favourable than those governing similar domestic actions (principle of equivalence) or such as to make it in practice impossible or excessively difficult to exercise the rights conferred by EU law (principle of effectiveness) (see, by analogy, judgment of December 2012, Szyrocka, C‑215/11, EU:C:2012:794, paragraph and the case-law cited).
+It follows that, where a party is successful only in part, the national court remains, theoretically, free to determine the apportionment of the costs of the proceedings according to the rules provided for in national law, on condition that the national procedural rules on the apportionment of the costs of proceedings in small cross-border claims are not less favourable than the procedural rules governing similar situations subject to domestic law and that the procedural requirements relating to the apportionment of those costs of proceedings do not result in the persons concerned foregoing the use of that European small claims procedure by requiring the applicant, when largely successful, nonetheless to bear his procedural costs or a substantial portion of those costs.
+Having regard to all of the foregoing considerations, the answer to the questions referred is that Article of Regulation No 861/must be interpreted as not precluding national legislation under which, where a party succeeds only in part, the national court may order each of the parties to the proceedings to bear its own procedural costs or may apportion those costs between those parties. In such a situation, the national court remains, theoretically, free to apportion the amount of those costs, provided that the national procedural rules on the apportionment of procedural costs in small cross-border claims are not less favourable than the procedural rules governing similar situations subject to domestic law and that the procedural requirements relating to the apportionment of those procedural costs do not result in the persons concerned foregoing the use of that European small claims procedure by requiring an applicant, when he has been largely successful, nonetheless to bear his own procedural costs or a substantial portion of those costs.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+Article of Regulation (EC) No 861/of the European Parliament and of the Council of July establishing a European Small Claims Procedure must be interpreted as not precluding national legislation under which, where a party succeeds only in part, the national court may order each of the parties to the proceedings to bear its own procedural costs or may apportion those costs between those parties. In such a situation, the national court remains, theoretically, free to apportion the amount of those costs, provided that the national procedural rules on the apportionment of procedural costs in small cross-border claims are not less favourable than the procedural rules governing similar situations subject to domestic law and that the procedural requirements relating to the apportionment of those procedural costs do not result in the persons concerned foregoing the use of that European small claims procedure by requiring an applicant, when he has been largely successful, nonetheless to bear his own procedural costs or a substantial portion of those costs.
+ 
+[Signatures]
+(
+*)	Language of the case: Swedish.
+Top  

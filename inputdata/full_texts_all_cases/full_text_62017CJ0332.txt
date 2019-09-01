@@ -1,0 +1,102 @@
+
+JUDGMENT OF THE COURT (Eighth Chamber)
+September (
+*)
+(Reference for a preliminary ruling — Consumer protection — Directive 2011/83/EU — Article — Consumer contracts — Telephone communications — Practice of a telecommunication services provider consisting in offering its customers who have already concluded a contract a speed dial number at a rate higher than the basic rate)
+In Case C-332/17,
+REQUEST for a preliminary ruling under Article TFEU from the Riigikohus (Supreme Court, Estonia), made by decision of May 2017, received at the Court on June 2017, in the proceedings
+Starman AS
+v
+Tarbijakaitseamet,
+THE COURT (Eighth Chamber),
+composed of J. Malenovský, President of the Chamber, M. Safjan and D. Šváby (Rapporteur), Judges,
+Advocate General: M. Wathelet,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Starman AS, by A. Jõks, vandeadvokaadid, and by C. Ginter,
+–
+the Estonian Government, by N. Grünberg, acting as Agent,
+–
+the Polish Government, by B. Majczyna, acting as Agent,
+–
+the European Commission, by A. Cleenewerck de Crayencour, K. Toomus and N. Ruiz García, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article of Directive 2011/83/EU of the European Parliament and of the Council of October on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council (OJ L 304, p. 64).
+The request has been made in proceedings between Tarbijakaitseamet (Consumer Protection Board, Estonia, ‘the Board’) and Starman AS, a telecommunication and Internet services provider, concerning an order by which the Board directed Starman to cease offering a speed dial number at a rate higher than the basic rate to consumers who have already concluded a contract with it.
+Legal context
+European Union law
+Recitals 4, and of Directive 2011/are worded as follows:
+‘(4)
+... The harmonisation of certain aspects of consumer distance and off-premises contracts is necessary for the promotion of a real consumer internal market striking the right balance between a high level of consumer protection and the competitiveness of enterprises, while ensuring respect for the principle of subsidiarity.
+(5)
+... Therefore the full harmonisation of consumer information and the right of withdrawal in distance and off-premises contracts will contribute to a high level of consumer protection and a better functioning of the business-to-consumer internal market.
+…
+(7)
+Full harmonisation of some key regulatory aspects should considerably increase legal certainty for both consumers and traders. Both consumers and traders should be able to rely on a single regulatory framework based on clearly defined legal concepts regulating certain aspects of business-to-consumer contracts across the Union. The effect of such harmonisation should be to eliminate the barriers stemming from the fragmentation of the rules and to complete the internal market in this area. Those barriers can only be eliminated by establishing uniform rules at Union level. Furthermore consumers should enjoy a high common level of protection across the Union.’
+Article of Directive 2011/defines its subject matter as follows:
+‘The purpose of this Directive is, through the achievement of a high level of consumer protection, to contribute to the proper functioning of the internal market by approximating certain aspects of the laws, regulations and administrative provisions of the Member States concerning contracts concluded between consumers and traders.’
+Article of that directive, entitled ‘Level of harmonisation’, provides:
+‘Member States shall not maintain or introduce, in their national law, provisions diverging from those laid down in this Directive, including more or less stringent provisions to ensure a different level of consumer protection, unless otherwise provided for in this Directive.’
+Under the first subparagraph of Article 13(1) of that directive:
+‘The trader shall reimburse all payments received from the consumer, including, if applicable, the costs of delivery without undue delay and in any event not later than days from the day on which he is informed of the consumer’s decision to withdraw from the contract in accordance with Article 11.’
+Article of the directive, headed ‘Fees for the use of means of payment’, provides that:
+‘Member States shall prohibit traders from charging consumers, in respect of the use of a given means of payment, fees that exceed the cost borne by the trader for the use of such means.’
+Article of Directive 2011/83, entitled ‘Communication by telephone’, is worded as follows:
+‘Member States shall ensure that where the trader operates a telephone line for the purpose of contacting him by telephone in relation to the contract concluded, the consumer, when contacting the trader is not bound to pay more than the basic rate.
+The first subparagraph shall be without prejudice to the right of telecommunication services providers to charge for such calls.’
+Article of that directive, entitled ‘Imperative nature of the Directive’, lays down:
+‘If the law applicable to the contract is the law of a Member State, consumers may not waive the rights conferred on them by the national measures transposing this Directive.
+Any contractual terms which directly or indirectly waive or restrict the rights resulting from this Directive shall not be binding on the consumer.’
+Estonian law
+Paragraph of the Võlaõigusseadus (Law of obligations) of September (RT I 2001, 81,487, ‘the VÕS’), headed ‘Invoicing restrictions for contracts concluded with a consumer’, states in paragraphs and 4:
+‘(3)   If a trader allows a consumer to contact him in order to communicate messages or expressions of will relating to a contract, or in connection with other circumstances relating to the performance of the contract, by calling a phone number specified by the trader, that trader may not demand that the consumer make an additional payment for it.
+(4)   Any agreement which derogates from the requirements laid down in this Paragraph and which is to the detriment of the consumer shall be void.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Starman is a provider of telecommunication and Internet services. That company makes available to consumers who have already concluded a contract with it, for matters relating to that contract, first, a landline number at the basic rate and, second, a speed dial number at a rate higher than the basic rate when calling from a mobile phone. All consumers are made aware of that speed dial number, inter alia on the homepage of Starman’s website, in the standard contracts and in the general terms and conditions of those contracts.
+On June 2015, the Board issued an order against Starman, based on the finding that making available a speed dial number at a rate higher than the basic rate to consumers who have already concluded a contract with that company is contrary to Paragraph 281(3) of the VÕS and Article of Directive 2011/83, on which that provision of national law is based.
+The Board ordered Starman to cease to offer consumers such a speed dial number and to offer only a landline or mobile telephone number at the basic rate. In accordance with that order, a speed dial number could be used only if the related additional costs were borne by the trader.
+Starman brought an action for annulment of that order before the Tallinna Halduskohus (Administrative Court, Tallin, Estonia). That company claims, on the contrary, that Paragraph 281(3) of the VÕS and Article of Directive 2011/do not prohibit the additional offer of a speed dial number at a higher rate than the basic rate to consumers who have concluded a contract if the trader does not make income from it and as long as a landline number at the basic rate is also offered, in parallel, to consumers in a comprehensible and easily accessible way. In those circumstances, a consumer is able to choose freely from the two numbers offered the number which he intends to use. According to Starman, the Board’s order extends the effect of Directive 2011/83, since it prohibits, in essence, the use of speed dial numbers, and therefore goes beyond the obligations imposed by that directive and its consumer protection objective.
+The action for annulment having been rejected by both the Tallinna Halduskohus (Administrative Court, Tallin) and the Tallinna Ringkonnakohus (Court of Appeal, Tallin, Estonia), Starman brought an appeal in cassation before the Riigikohus (Supreme Court, Estonia).
+The referring court states that, in order to resolve the dispute in the main proceedings, an interpretation of the words ‘the consumer … is not bound to pay’ set out in the first subparagraph of Article of Directive 2011/is necessary. That court considers that those words may be interpreted as meaning that a consumer who has already concluded a contract must not have to rely on, as the only valid option for contacting the trader, a number at a rate higher than the basic rate. That interpretation does not preclude the consumer from being required to bear additional costs when he has freely chosen to use the number with a higher rate.
+In that regard, the referring court is uncertain whether the additional costs linked to the use of a speed dial number at a rate higher than the basic rate can be imposed on a consumer who has already concluded a contract, where that consumer has chosen that means of communication, even though he was given, in parallel, the option of using a number at the basic rate. According to the referring court, if those additional costs were to be charged to the trader, this could lead to a situation in which traders cease to offer speed dial numbers to all consumers, which would go beyond the requirements laid down in Article of Directive 2011/and the objective of that directive. In addition, the question of the extent to which the trader must inform the consumer of the existence of a number at the basic rate and of differences in call prices, where the consumer uses a speed dial number at a higher rate for issues not related to the contract concluded, would not be settled.
+The referring court mentions the judgment of March 2017, Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main (C‑568/15, EU:C:2017:154), in which the Court ruled on the concept of ‘basic rate’ within the meaning of Article of Directive 2011/83. That court states that, since the facts at issue in the case in the main proceedings differ from those of the case which gave rise to that judgment, that judgment does not provide an answer to all its questions. The referring court points out in particular that in the last-mentioned case, consumers were not given, unlike in the case in the main proceedings, a choice between several contact numbers.
+In those circumstances, the Riigikohus (Supreme Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is Article of Directive [2011/83] to be interpreted as meaning that a trader can make available a telephone number for which a higher rate than the normal rate applies if the trader, in addition to the telephone number at a higher rate, also offers consumers, in a comprehensible and easily accessible way, a landline number at the basic rate for the purposes of contacting him in relation to a contract concluded?
+(2)
+If the answer to Question is in the affirmative, does Article of Directive [2011/83] preclude a situation in which a consumer who voluntarily uses a telephone number with a higher rate for contacting a trader in relation to a contract concluded, even though the trader provides a telephone number at the basic rate in a comprehensible and easily accessible manner, is obliged to pay the higher rate for contacting the trader?
+(3)
+If the answer to Question is in the affirmative, does the limitation in Article of Directive [2011/83] oblige the trader to also specify everywhere, along with the speed dial number, a landline number at the normal rate and information on the differences in price?’
+Consideration of the questions referred
+The first and second questions
+By its first and second questions, which it is appropriate to examine together, the referring court asks, in essence, whether the first subparagraph of Article of Directive 2011/must be interpreted as precluding a situation in which, if a trader has made available to all its customers one or more speed dial numbers at a rate higher than the basic rate, consumers who have concluded a contract with the trader in question pay more than the basic rate when contacting that trader by telephone in relation to that contract.
+In accordance with the first subparagraph of Article of Directive 2011/83, Member States must ensure that, where the trader operates a telephone line for the purpose of communications regarding the contract concluded, consumers, when contacting the trader, are not bound to pay more than the basic rate for calls to that line.
+However, the wording of that provision does not on its own make it possible to determine whether, where the trader operates several telephone lines, including also lines that are accessible through speed dial numbers, all those lines must be subject to a rate not exceeding the basic rate.
+Therefore, the interpretation of the first subparagraph of Article of Directive 2011/must take into account not only the wording of that provision but also the context in which it occurs and the objectives of the rules of which it is part (see, by analogy, judgment of March 2017, Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main, C‑568/15, EU:C:2017:154, paragraph and the case-law cited).
+As regards, in the first place, the context of that provision, the Court has inferred from Articles and of Directive 2011/that, in principle, it is not for the consumer to bear charges other than ordinary charges if he exercises rights provided for by that directive, and that potential additional costs are therefore to be borne by the trader (see, to that effect, judgment of March 2017, Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main, C‑568/15, EU:C:2017:154, paragraphs to 26).
+It follows, therefore, from the context of Article of Directive 2011/that, where a consumer exercises his rights under the directive by means of telephone calls, a trader may impose on him only those costs that do not exceed the cost corresponding to the basic rate.
+As regards, in the second place, the objective pursued by Directive 2011/83, it follows from Article of that directive that it seeks to achieve a high level of consumer protection.
+In order to achieve that objective, Directive 2011/undertakes, as is apparent from recitals 4, and 7, full harmonisation of certain essential aspects of contracts concluded between consumers and traders. That harmonisation is intended to have the effect of eliminating the barriers created by fragmented regulation, in order to enable consumers to benefit from a high common level of protection across the Union.
+Furthermore, it follows from Article of Directive 2011/that the level of consumer protection ensured by the Member States’ national provisions cannot deviate from that laid down by the directive, unless the latter provides otherwise. It is clear that Article of Directive 2011/does not constitute an exception to the Member States’ obligation not to deviate from the level of protection laid down by that directive.
+Consequently, the objective of a high common level of consumer protection across the Union pursued by Directive 2011/will be jeopardised if a consumer has to pay more than the basic rate when calling the speed dial number of a trader with whom he has concluded a contract, in particular where that consumer contacts the trader to clarify matters relating to the performance of that contract or exercise guaranteed rights.
+In the light of the foregoing considerations, the first subparagraph of Article of Directive 2011/must be interpreted as precluding a trader from charging a consumer who has already concluded a contract with him a higher rate than the basic rate, where that consumer contacts him by telephone in relation to that contract, regardless of the type of telephone numbers offered by the trader.
+This interpretation is in no way called into question by the fact that the trader has informed the consumer in a comprehensible and easily accessible manner of the existence of a telephone number at the basic rate. That information does not release the trader from his obligation not to charge a consumer who has already concluded a contract with him more than the basic rate where the consumer contacts him by telephone in relation to that contract.
+Similarly, the fact that the consumer, when contacting the trader, chose voluntarily to use the speed dial number with a higher rate than the basic rate has no bearing on that interpretation. If Articles and of Directive 2011/are read together, it is apparent that the consumer cannot voluntarily waive his rights under the directive and pay more than the basic rate when he contacts a trader by telephone.
+It follows from all of the above considerations that the answer to the first and second questions is that the first subparagraph of Article of Directive 2011/must be interpreted as precluding a situation in which, if a trader has made available to all its customers one or more speed dial numbers at a rate higher than the basic rate, consumers who have concluded a contract with the trader in question pay more than the basic rate when contacting that trader by telephone in relation to that contract.
+The third question
+In view of the answer to the first and second questions, there is no need to answer the third question.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Eighth Chamber) hereby rules:
+ 
+The first subparagraph of Article of Directive 2011/83/EU of the European Parliament and of the Council of October on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council must be interpreted as precluding a situation in which, if a trader has made available to all its customers one or more speed dial numbers at a rate higher than the basic rate, consumers who have concluded a contract with the trader in question pay more than the basic rate when contacting that trader by telephone in relation to that contract.
+ 
+[Signatures]
+(
+*)	Language of the case: Estonian.
+Top  

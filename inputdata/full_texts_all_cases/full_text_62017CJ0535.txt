@@ -1,0 +1,134 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+February (
+*)
+(Reference for a preliminary ruling — Judicial cooperation in civil matters — Jurisdiction and the enforcement of judgments in civil and commercial matters — Regulation (EC) No 44/and Regulation (EC) No 1346/— Scope of those regulations — Bankruptcy of a bailiff — Action brought by the liquidator in charge of administering and liquidating the bankruptcy)
+In Case C–535/17,
+REQUEST for a preliminary ruling under Article TFEU from the Hoge Raad der Nederlanden (Supreme Court of the Netherlands), made by decision of September 2017, received at the Court on September 2017, in the proceedings
+NK, liquidator in the bankruptcies of PI Gerechtsdeurwaarderskantoor BV and of PI,
+v
+BNP Paribas Fortis NV,
+THE COURT (First Chamber),
+composed of R. Silva de Lapuerta (Rapporteur), Vice-President of the Court, acting as President of the First Chamber, A. Arabadjiev, E. Regan, C.G. Fernlund and S. Rodin, Judges,
+Advocate General: M. Bobek,
+Registrar: R. Schiano, Administrator,
+having regard to the written procedure and further to the hearing on July 2018,
+after considering the observations submitted on behalf of:
+–
+NK, liquidator in the bankruptcies of PI Gerechtsdeurwaarderskantoor BV and of PI, by B.I. Kraaipoel, T.V.J. Bil, P.M. Veder and R.J.M.C. Rosbeek, advocaten,
+–
+BNP Paribas Fortis NV, by F.E. Vermeulen and R.J. van Galen, advocaten,
+–
+the Portuguese Government, by L. Inez Fernandes, M. Figueiredo and P. Lacerda, acting as Agents,
+–
+the European Commission, by R. Troosters and M. Heller, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on October 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 1(2)(b) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 12, p. 1), of Article 4(1) and Article of Council Regulation (EC) No 1346/of May on insolvency proceedings (OJ L 160, p. 1), and of Article of Regulation (EC) No 864/of the European Parliament and of the Council of July on the law applicable to non-contractual obligations (‘Rome II’) (OJ L 199, p. 40).
+The request has been made in proceedings between NK — acting in his capacity as liquidator in the bankruptcies of PI Gerechtsdeurwaarderskantoor BV and PI (‘the liquidator’) — and BNP Paribas Fortis NV (‘Fortis’) concerning the recovery by the liquidator, in bankruptcy proceedings opened in the Netherlands, of a sum unduly debited by one of the bankrupt parties from an account with Fortis in Belgium.
+Legal context
+Regulation No 1346/Recitals 4, 6, and of Regulation No 1346/state:
+‘(4)
+It is necessary for the proper functioning of the internal market to avoid incentives for the parties to transfer assets or judicial proceedings from one Member State to another, seeking to obtain a more favourable legal position (forum shopping).
+…
+(6)
+In accordance with the principle of proportionality this Regulation should be confined to provisions governing jurisdiction for opening insolvency proceedings and judgments which are delivered directly on the basis of the insolvency proceedings and are closely connected with such proceedings. In addition, this Regulation should contain provisions regarding the recognition of those judgments and the applicable law which also satisfy that principle.
+(7)
+Insolvency proceedings relating to the winding-up of insolvent companies or other legal persons, judicial arrangements, compositions and analogous proceedings are excluded from the scope of the [Convention of September on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters (OJ L 304, p. 36), as amended by the Convention of November on the accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden (OJ C 15, p. 1)].
+…
+(23)
+This Regulation should set out, for the matters covered by it, uniform rules on conflict of laws which replace, within their scope of application, national rules of private international law. Unless otherwise stated, the law of the Member State of the opening of the proceedings should be applicable (lex concursus). This rule on conflict of laws should be valid both for the main proceedings and for local proceedings; the lex concursus determines all the effects of the insolvency proceedings, both procedural and substantive, on the persons and legal relations concerned. It governs all the conditions for the opening, conduct and closure of the insolvency proceedings.’
+Article 3(1) of that regulation is worded as follows:
+‘The courts of the Member State within the territory of which the centre of a debtor’s main interests is situated shall have jurisdiction to open insolvency proceedings. In the case of a company or legal person, the place of the registered office shall be presumed to be the centre of its main interests in the absence of proof to the contrary.’
+Article of that regulation provides:
+‘1.   Save as otherwise provided in this Regulation, the law applicable to insolvency proceedings and their effects shall be that of the Member State within the territory of which such proceedings are opened, hereafter referred to as the “State of the opening of proceedings”.
+2.   The law of the State of the opening of proceedings shall determine the conditions for the opening of those proceedings, their conduct and their closure. It shall determine in particular:
+…
+(c)
+the respective powers of the debtor and the liquidator;
+…
+(e)
+the effects of insolvency proceedings on current contracts to which the debtor is party;
+(f)
+the effects of the insolvency proceedings on proceedings brought by individual creditors, with the exception of lawsuits pending;
+…
+(h)
+the rules governing the lodging, verification and admission of claims;
+…
+(m)
+the rules relating to the voidness, voidability or unenforceability of legal acts detrimental to all the creditors.’
+Pursuant to Article of that regulation:
+‘Article 4(2)(m) shall not apply where the person who benefited from an act detrimental to all the creditors provides proof that:
+–
+the said act is subject to the law of a Member State other than that of the State of the opening of proceedings, and
+–
+that law does not allow any means of challenging that act in the relevant case.’
+Regulation No 44/Article of Regulation No 44/2001, concerning the scope of that regulation, is worded as follows:
+‘1.   This Regulation shall apply in civil and commercial matters whatever the nature of the court or tribunal. It shall not extend, in particular, to revenue, customs or administrative matters.
+2.   This Regulation shall not apply to:
+(a)
+the status or legal capacity of natural persons, rights in property arising out of a matrimonial relationship, wills and succession;
+(b)
+bankruptcy, proceedings relating to the winding-up of insolvent companies or other legal persons, judicial arrangements, compositions and analogous proceedings;
+(c)
+social security;
+(d)
+arbitration.
+…’
+Regulation No 864/Article of Regulation No 864/is worded as follows:
+‘In assessing the conduct of the person claimed to be liable, account shall be taken, as a matter of fact and in so far as is appropriate, of the rules of safety and conduct which were in force at the place and time of the event giving rise to the liability.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+PI was a bailiff from until his removal from office in December 2008. For the purposes of his bailiff practice, PI was the holder of a current account opened in Belgium with Fortis. That account was the one which was intended to credit the persons whose debts he sought to recover.
+In PI established PI Gerechtsdeurwaarderskantoor BV (‘PI.BV’), a company governed by Netherlands law, of which he was the sole shareholder and administrator. The purpose of that company was to run PI’s bailiff practice, the assets of which he contributed to PI.BV, including the current account with Fortis. PI.BV was also the holder of a third-party account with another bank, established in the Netherlands, which held the funds of about clients of the bailiff practice.
+In the period from to September 2008, PI transferred, by way of electronic transfer, a total sum of EUR from that third-party account to the account with Fortis. A few days later, from to October 2008, PI withdrew EUR in cash from the current account with Fortis. That act was classified as embezzlement of funds and PI was sentenced to imprisonment in that respect.
+The bankruptcy of PI.BV was declared on June and was followed by the personal bankruptcy of PI, which was declared on March 2010.
+Within the context of those bankruptcy proceedings, the liquidator brought an action before the Rechtbank Maastricht (District Court, Maastricht, Netherlands) seeking an order that Fortis pay the sum of EUR 550000. In support of his claim, the liquidator stated that Fortis had incurred liability towards the general body of creditors of PI.BV and PI by fully cooperating, in breach of its statutory obligations, with the cash withdrawals made by PI, thereby causing loss to the creditors of the two bankrupt estates.
+The Rechtbank Maastricht (District Court, Maastricht) declared that it had jurisdiction to hear the liquidator’s claim. That decision was upheld by the Gerechtshof ’s-Hertogenbosch (Court of Appeal, ’s-Hertogenbosch, Netherlands), by interim judgment of June 2013, on the ground that the liquidator’s claim had its basis in the bankruptcies of PI and PI.BV and therefore came within the scope of Regulation No 1346/2000.
+In that context, by final judgment, the Rechtbank Maastricht (District Court, Maastricht) ordered Fortis to pay the sum of EUR for the loss suffered by the creditors.
+On appeal, the Gerechtshof ’s-Hertogenbosch (Court of Appeal, ’s-Hertogenbosch) issued an interim judgment on February 2016, holding that, because it had already ruled on the jurisdiction of the Netherlands courts by its interim judgment of June 2013, it could not, in principle, examine that issue again. However, the Gerechtshof ’s-Hertogenbosch (Court of Appeal, ’s-Hertogenbosch) indicated in the interim judgment of February that it followed from the judgments of the Court of September 2014, Nickel & Goeldner Spedition (C‑157/13, EU:C:2014:2145), and of June 2015, Comité d’entreprise de Nortel Networks and Others (C‑649/13, EU:C:2015:384), that the arguments put forward by Fortis — according to which the decision on the jurisdiction of the Netherlands courts, set out in the interim judgment of June 2013, was incorrect — were a priori well founded, so that it authorised an interim appeal on a point of law in that respect.
+In addition, the Gerechtshof ’s-Hertogenbosch (Court of Appeal, ’s-Hertogenbosch) considered that the action brought by the liquidator against Fortis was a ‘Peeters-Gatzen’ action, the principle of which was laid down by the Hoge Raad der Nederlanden (Supreme Court of the Netherlands) by judgment of January 1983. Under a Peeters-Gatzen action, in certain circumstances, the liquidator may bring a claim, for damages arising from an unlawful act, against a third party who was involved in causing the loss suffered by the general body of creditors, even if such a claim was not available to the bankrupt party itself. According to that case-law, the proceeds of such a claim brought by the liquidator in the interests of all the creditors accrue to the estate.
+The liquidator appealed to the referring court, the Hoge Raad der Nederlanden (Supreme Court of the Netherlands), against the judgment of the Gerechtshof ’s-Hertogenbosch (Court of Appeal, ’s-Hertogenbosch) of February 2016. Fortis, for its part, brought a cross-appeal against the same judgment, criticising the Gerechtshof ’s-Hertogenbosch (Court of Appeal, ’s-Hertogenbosch) inter alia for declaring that it had jurisdiction on the basis of Regulation No 1346/to hear the action brought by the liquidator.
+The referring court considers that there is reasonable doubt as to whether a Peeters-Gatzen action must be regarded as an action which is governed only by rules specific to insolvency proceedings, so that, as a result, that action falls outside the scope of Regulation No 44/2001.
+The referring court also expresses doubts as to whether the classification of the action in the context of assessing jurisdiction is always decisive for identifying the applicable law so that, by virtue of Article of Regulation No 1346/2000, there is always a link between jurisdiction and the applicable law.
+Finally, where the substantive law applicable to the claim, and consequently to the Peeters-Gatzen action, is Netherlands law, the referring court asks whether, in such a situation, in assessing the wrongfulness of certain conduct, it is nevertheless necessary to take into account, by analogy with Article of Regulation No 864/2007, read in conjunction with Article of Regulation No 1346/2000, the rules of safety and conduct in force at the place of the alleged wrongful act, such as financial rules of conduct for banks.
+Accordingly, the Hoge Raad der Nederlanden (Supreme Court of the Netherlands) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Is a claim for damages against a third party brought by the liquidator, pursuant to the task assigned to him in Article 68(1) of the Law on insolvency of administering and liquidating the bankrupt estate, on behalf of all the creditors of the bankrupt, on the grounds that that third party acted wrongfully towards the creditors, the proceeds of which, if the claim succeeds, accrue to the estate, covered by the exception in Article 1(2)(b) of [Regulation No 44/2001]?
+(2)
+If Question is answered in the affirmative and the claim concerned is therefore covered by [Regulation No 1346/2000], is that claim then governed by the law of the Member State in whose territory the insolvency proceedings are opened under Article 4(1) of that regulation, both as regards the power of the liquidator to bring that claim and as regards the substantive law applicable to that claim?
+(3)
+If Question is answered in the affirmative, should the courts of the State of the opening of insolvency proceedings then take account, whether or not by analogy, of:
+(a)
+the provisions of Article of [Regulation No 1346/2000], in the sense that the defendant can defend itself against a claim brought by the liquidator for the benefit of all the creditors by proving that its conduct did not result in it being liable, if assessed on the basis of the law which would have been applicable to the claim if it had been brought not by the liquidator but by an individual creditor as a result of a wrongful act;
+(b)
+the provisions of Article of [Regulation No 864/2007] read in conjunction with Article of [Regulation No 1346/2000], that is to say, with the rules of safety and conduct in force at the place of the alleged wrongful act, such as financial rules of conduct for banks?’
+Consideration of the questions referred
+Question By its first question, the referring court asks, in essence, whether Article 1(1) and (2)(b) of Regulation No 44/must be interpreted as meaning that an action, such as that at issue in the main proceedings, concerning a claim for damages arising from liability for a wrongful act, brought by the liquidator in insolvency proceedings and the proceeds of which, if the claim succeeds, accrue to the general body of creditors, is covered by the concept of ‘civil and commercial matters’ within the meaning of Article 1(1), and therefore falls within the material scope of that regulation.
+In this respect, it should be noted that, relying in particular on the preparatory documents relating to the Convention of September on jurisdiction and the enforcement of judgments in civil and commercial matters (‘the Brussels Convention’), which was replaced by Regulation No 44/2001, the Court has held that that regulation and Regulation No 1346/must be interpreted in such a way as to avoid any overlap between the rules of law that those texts lay down and any legal vacuum. Accordingly, actions excluded under Article 1(2)(b) of Regulation No 44/from the scope of that regulation because they come under ‘bankruptcy, proceedings relating to the winding-up of insolvent companies or other legal persons, judicial arrangements, compositions and analogous proceedings’ fall within the scope of Regulation No 1346/2000. Conversely, actions which fall outside the scope of Article 3(1) of Regulation No 1346/fall within the scope of Regulation No 44/(judgment of November 2017, Tünkers France and Tünkers Maschinenbau, C‑641/16, EU:C:2017:847, paragraph 17).
+The Court also noted that, as stated inter alia in recital of Regulation No 44/2001, the intention of the EU legislature was to provide for a broad definition of the concept of ‘civil and commercial matters’ in Article 1(1) of that regulation, and consequently to provide that the regulation should be broad in its scope. By contrast, the scope of Regulation No 1346/2000, in accordance with recital of that regulation, should not be broadly interpreted (judgment of November 2017, Tünkers France and Tünkers Maschinenbau, C‑641/16, EU:C:2017:847, paragraph 18).
+The Court has held that only actions which derive directly from insolvency proceedings or which are closely connected with them are excluded from the scope of the Brussels Convention and, subsequently, Regulation No 44/(see, to that effect, judgments of February 1979, Gourdain, 133/78, EU:C:1979:49, paragraph 4, and of April 2012, F-Tex, C‑213/10, EU:C:2012:215, paragraphs and 24). Consequently, only those actions, as described, fall within the scope of Regulation No 1346/(see, to that effect, judgment of November 2017, Tünkers France and Tünkers Maschinenbau, C‑641/16, EU:C:2017:847, paragraph and the case-law cited).
+Moreover, that same criterion, as stated in the Court’s case-law on the interpretation of the Brussels Convention, was set out in recital of Regulation No 1346/in order to delimit the subject matter of that regulation, and was confirmed by Regulation (EU) 2015/of the European Parliament and of the Council of May on insolvency proceedings (OJ L 141, p. 19), not applicable ratione temporis to the present case, which provides in Article that the courts of the Member State within the territory of which insolvency proceedings have been opened have jurisdiction for any action which derives directly from the insolvency proceedings and is closely linked with them.
+The decisive criterion adopted by the Court to identify the area within which an action falls is not the procedural context of which that action is part, but the legal basis of the action. According to that approach, it must be determined whether the right or obligation which forms the basis of the action has its source in the ordinary rules of civil and commercial law or in derogating rules specific to insolvency proceedings (judgments of September 2014, Nickel & Goeldner Spedition, C‑157/13, EU:C:2014:2145, paragraph 27; of November 2017, Tünkers France and Tünkers Maschinenbau, C‑641/16, EU:C:2017:847, paragraph 22; and of December 2017, Valach and Others, C‑649/16, EU:C:2017:986, paragraph 29).
+First, the fact that, after the opening of insolvency proceedings, a claim is brought by the liquidator appointed in those proceedings and that he acts in the interests of the creditors does not substantially amend the nature of the claim, which is independent from the insolvency proceedings and remains subject, in terms of the substance of the matter, to the rules of ordinary law (see, by analogy, judgments of September 2009, German Graphics Graphische Maschinen, C‑292/08, EU:C:2009:544, paragraphs and 33, and of September 2014, Nickel & Goeldner Spedition, C‑157/13, EU:C:2014:2145, paragraph 29).
+Secondly, according to the case-law of the Court, it is the closeness of the link between a court action and the insolvency proceedings that is decisive for the purposes of deciding whether the exclusion in Article 1(2)(b) of Regulation No 44/is applicable (judgment of November 2017, Tünkers France and Tünkers Maschinenbau, C‑641/16, EU:C:2017:847, paragraph and the case-law cited).
+In the present case, first of all, it is apparent from the order for reference that the Peeters-Gatzen action — which was accepted for the first time in the case-law of the Hoge Raad der Nederlanden (Supreme Court of the Netherlands) by judgment of January — can be brought by the liquidator in the interests of all the creditors as part of his general task, recognised in the relevant national law, of administering and liquidating the bankrupt estate. Next, the proceeds of that action, if the claim succeeds, accrue to the estate for the benefit of all the creditors in order to be distributed according to the rules of the liquidation plan. In addition, to rule on such an action brought during the course of the insolvency proceedings, it is not necessary to examine the individual position of each creditor concerned and the third party against which the action has been brought cannot use against the liquidator the defences which it would have available against the creditors individually.
+It is clear that all the features of the Peeters-Gatzen action mentioned in the preceding paragraph form part of the procedural context of that action. Although such an action is brought in the course of insolvency proceedings, it is the liquidator, pursuant to his task of administering and liquidating the estate in accordance with the relevant national law, who brings the action in the interests of all the creditors, and the proceeds of it consequently accrue to the estate.
+Also, according to the case-file submitted to the Court, the action brought by the liquidator against Fortis is an action for liability for a wrongful act. The purpose of such an action is therefore for Fortis to be found liable on the basis of an alleged failure to fulfil its monitoring obligations, under which it ought to have refused the cash withdrawals made by PI amounting to EUR 550000, because, according to the liquidator, the withdrawals gave rise to the loss suffered by the creditors.
+Therefore, having regard to these factors, such an action is based on the ordinary rules of civil and commercial law and not on the derogating rules specific to insolvency proceedings.
+Finally, even if, in the main proceedings, the existence of a link with insolvency proceedings is undeniable, since an action brought by the liquidator in the interests of the creditors is concerned, the fact remains that, as is apparent from the documents before Court, such an action may be brought by the creditors individually, whether before, during or after the conduct of the insolvency proceedings.
+In those circumstances, as noted by the Advocate General in point of his Opinion, an action such as that at issue in the main proceedings, which may be brought by the creditor himself, so that it does not fall under the exclusive competence of the liquidator, and is independent of the opening of insolvency proceedings, cannot be considered a direct and inherent result of those proceedings.
+It must be held, therefore, that such an action is based not on derogating rules specific to insolvency proceedings but, on the contrary, on the ordinary rules of civil and commercial law, and therefore does not fall outside the scope of Regulation No 44/2001.
+Having regard to those considerations, the answer to the first question is that Article 1(1) and (2)(b) of Regulation No 44/must be interpreted as meaning that an action, such as that at issue in the main proceedings, concerning a claim for damages arising from liability for a wrongful act, brought by the liquidator in insolvency proceedings and the proceeds of which, if the claim succeeds, accrue to the general body of creditors, is covered by the concept of ‘civil and commercial matters’ within the meaning of Article 1(1), and therefore falls within the material scope of that regulation.
+Questions and Since the second and third questions were asked only in the event of the Court deciding that an action such as that at issue in the main proceedings falls within the exclusion in Article 1(2)(b) of Regulation No 44/2001, there is no need to answer those questions.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+Article 1(1) and (2)(b) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters must be interpreted as meaning that an action, such as that at issue in the main proceedings, concerning a claim for damages arising from liability for a wrongful act, brought by the liquidator in insolvency proceedings and the proceeds of which, if the claim succeeds, accrue to the general body of creditors, is covered by the concept of ‘civil and commercial matters’ within the meaning of Article 1(1), and therefore falls within the material scope of that regulation.
+ 
+[Signatures]
+(
+*)	Language of the case: Dutch.
+Top  

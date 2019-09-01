@@ -1,0 +1,93 @@
+
+ORDER OF THE COURT (Seventh Chamber)
+October (
+*)
+(Appeal — Article of the Rules of Procedure of the Court — EU trade mark — Regulation (EC) No 207/— Article 52(1)(a) — Invalidity proceedings — Word mark TSA LOCK — Rejection of the application for a declaration of invalidity — Relevant date for the examination of an absolute ground for nullity — Appeal in part manifestly inadmissible and in part manifestly unfounded)
+In Case C‑326/P,
+APPEAL under Article of the Statute of the Court of Justice of the European Union, brought on May 2018,
+Safe Skies LLC, established in New York (United States), represented by V. Schwepler, Rechtsanwältin,
+appellant,
+the other parties to the proceedings being:
+European Union Intellectual Property Office (EUIPO),
+defendant at first instance,
+Travel Sentry Inc., established in Windermere (United States),
+intervener at first instance,
+THE COURT (Seventh Chamber),
+composed of A. Rosas, President of the Chamber, A. Prechal and E. Jarašiūnas (Rapporteur), Judges,
+Advocate General: P. Mengozzi,
+Registrar: A. Calot Escobar,
+having decided, after hearing the Advocate General, to give a decision by reasoned order, pursuant to Article of the Rules of Procedure of the Court of Justice,
+makes the following
+Order
+By its appeal, Safe Skies LLC asks the Court to set aside the judgment of the General Court of the European Union of March 2018, Safe Skies v EUIPO — Travel Sentry (TSA LOCK) (T‑60/17, not published, EU:T:2018:164, ‘the judgment under appeal’), by which the General Court dismissed its action for annulment of the decision of the Fourth Board of Appeal of the European Union Intellectual Property Office (EUIPO) of November (Case R 233/2016-4) relating to invalidity proceedings brought by Safe Skies against Travel Sentry Inc.
+In support of its appeal, the appellant relies on a single ground, alleging infringement of Article 52(1)(a) of Council Regulation (EC) No 207/of February on the European Union trade mark (OJ L 78, p. 1) as amended by Regulation (EU) 2015/of the European Parliament and of the Council of December (OJ L 341, p. 21) (‘Regulation No 207/2009’).
+The appeal
+Pursuant to Article of the Rules of Procedure of the Court, where the appeal is, in whole or in part, manifestly inadmissible or manifestly unfounded, the Court may at any time, acting on a proposal from the Judge-Rapporteur and after hearing the Advocate General, decide by reasoned order to dismiss that appeal in whole or in part.
+That provision must be applied in the present case.
+On September 2018, the Advocate General took the following position:
+‘1.
+For the reasons set out below, I propose that the Court, in accordance with Article of the Rules of Procedure, dismiss the appeal by which Safe Skies asks it to set aside the judgment under appeal, by which the General Court dismissed its action seeking annulment of the decision of the Fourth Board of Appeal of EUIPO of November 2016, as being, in part, manifestly inadmissible and, in part, manifestly unfounded. In those circumstances, the appellant should bear its own costs, in accordance with Article of the Rules of Procedure, applicable to the procedure on appeal pursuant to Article 184(1) of those rules.
+2.
+According to the appellant’s single ground of appeal, in paragraph of the judgment under appeal, the General Court infringed Articles and of Regulation No 207/by finding that the only relevant date for the purpose of assessing whether there are absolute grounds for refusal of registration of the mark at issue in invalidity proceedings is that of the filing of the application for registration of that mark.
+3.
+In the judgment under appeal, the General Court held that the only relevant date for the purpose of assessing whether there are absolute grounds for refusal in invalidity proceedings is that of the filing of the application for registration of the contested mark. In addition, the General Court held that the possibility of taking into consideration material dated after the filing of the application for registration, far from weakening that interpretation, reinforces it. In applying that reasoning, the General Court, in paragraph of the judgment under appeal, excluded from the assessment of the contested mark’s conformity with Article of Regulation No 207/the pieces of evidence dated after the filing of the application for registration of the contested mark and which contained material which did not concern the situation at that date.
+4.
+First, the appellant complains that the General Court did not take account of the evidence dated after the date of filing of the application for registration of the contested mark but before that registration. According to the appellant, the possibility recognised by case-law to take account of material dated after the application for registration of a mark confirms the relevance not only of the circumstances at the date that application is filed but also the circumstances at the date the mark in question is registered. The appellant thus seeks to claim that the relevant date for the purpose of assessing whether there are absolute grounds for refusal in invalidity proceedings is the date of registration of the mark at issue.
+5.
+In that regard, it is necessary to note, as did the General Court in paragraph of the judgment under appeal, that it is settled case-law that the only relevant date for the purpose of assessing an application for a declaration of invalidity based on Article 52(1)(a) of Regulation No 207/is that of the filing of the application for registration of the contested mark (see, to that effect, judgment of June 2009, Frosch Touristik v OHIM — DSR touristik (FLUGBÖRSE), T‑189/07, EU:T:2009:172, paragraphs and and the case-law cited).
+6.
+I would note that the Court explained that such a conclusion is based on a parallelism between Article 52(1)(a) of Regulation No 207/and Article 7(3) of that regulation. Indeed, Article 7(3) of Regulation No 207/2009, to which Article 52(1)(a) of that regulation refers, must be interpreted as meaning that the distinctive character of a mark must have been acquired through use before the filing of the application. Thus, an applicant cannot rely, during the registration procedure, on the distinctive character acquired through use after the filing of the application for registration (order of April 2010, OHIM v Frosch Touristik, C‑332/P, not published, EU:C:2010:225, paragraph and the case-law cited). That interpretation concerning the relevant date for the purpose of assessing whether there are absolute grounds for refusal is, according to the Court, also applicable in invalidity proceedings, as provided for in Article of Regulation No 207/2009, when a mark has been registered contrary to the provisions of Article of that regulation (see, to that effect, order of April 2010, OHIM v Frosch Touristik, C‑332/P, not published, EU:C:2010:225, paragraph 54).
+7.
+Although it is true that the Court, in its order of October 2004, Alcon v OHIM (C‑192/P, EU:C:2004:587, paragraph and the case-law cited), agreed that the General Court could take account of material which, despite post-dating the filing of the application for registration of the mark at issue, enabled the drawing of conclusions on the situation as it was on the date of the application, it made it clear that doing so served only to confirm or better assess the scope of the use of that mark during the relevant period, as well as the real intentions of the proprietor of that mark during the same period.
+8.
+In those circumstances, the General Court was fully entitled to consider, in paragraph of the judgment under appeal, that the fact that the case-law allows material subsequent to the filing of the application for registration of the contested mark to be taken into account, far from weakening the interpretation that the only relevant date for assessing whether there are absolute grounds for refusal in invalidity proceedings is that of the filing of the application, reinforces it (see, to that effect, judgment of June 2009, Frosch Touristik v OHIM — DSR touristik (FLUGBÖRSE), T‑189/07, EU:T:2009:172, paragraphs and and the case-law cited).
+9.
+It follows that the appellant’s argument cannot succeed and must, in my opinion, be rejected as manifestly unfounded.
+10.
+Second, the appellant claims that the General Court’s finding that the only relevant date for the purpose of assessing whether there are absolute grounds for refusal in invalidity proceedings is the date of filing of the application for registration is contrary to the wording of Articles and of Regulation No 207/2009. According to the appellant, it can be inferred from the express reference in those articles to the registration of the mark that EUIPO must also take into account new developments during the period of registration.
+11.
+It must be noted, in that regard, that, as the Court had already held in paragraph of the order of April 2010, OHIM v Frosch Touristik (C‑332/P, not published, EU:C:2010:225), Article of Regulation No 207/2009, which refers to Article of that regulation, merely sets out the various situations in which an EU mark may be declared invalid but does not give any indication as to the relevant date for assessing the absolute grounds for invalidity. By using the wording “shall not be registered” in Article 7(1) of Regulation No 207/2009, and the trade mark “has been registered” in Article 52(1)(a) of that regulation, the EU legislature sets out the circumstances in which a mark must be refused registration or declared invalid and not the material date for the examination of absolute grounds for refusal or absolute grounds for invalidity (see, to that effect, judgment of June 2009, Frosch Touristik v OHIM — DSR touristik (FLUGBÖRSE), T‑189/07, EU:T:2009:172, paragraph 23, confirmed by order of April 2010, OHIM v Frosch Touristik, C‑332/P, not published, EU:C:2010:225, paragraph 57).
+12.
+Accordingly, the appellant’s arguments relating to the wording of the relevant provisions are, to my mind, manifestly unfounded.
+13.
+Third, the appellant complains that, in paragraph of the judgment under appeal, the General Court excluded certain evidence from the assessment of the contested mark’s conformity with Article of Regulation No 207/2009.
+14.
+As regards the evidence dated after the filing of the application for registration of the contested mark but before the registration of that mark, the appellant claims that such evidence should have been taken into consideration for the purpose of assessing the conformity of that mark.
+15.
+In doing so, the appellant attempts to call into question the date held by the Court as being the relevant date for the purpose of assessing absolute grounds of refusal in invalidity proceedings, namely the date of filing of the application for registration of the contested mark, and to replace it with the date of registration of that mark. Such an argument manifestly contradicts the case-law cited above.
+16.
+Regarding the documents dated after the date of registration of the contested mark, the appellant alleges that, contrary to what the General Court has held, all evidence which establishes the circumstances at the date of filing of the application for registration of the contested mark or at the date of its registration should have be considered relevant.
+17.
+In that regard, it is necessary to draw a distinction between the documents allowing conclusions to be drawn as to the circumstances at the date of registration of the mark at issue and those allowing conclusions to be drawn as to the circumstances at the date of filing of the application for registration of that mark.
+18.
+As regards the evidence allowing conclusions to be drawn as to the circumstances at the date of registration of the mark at issue, it must be noted once again that the only relevant date for the purpose of the assessment in invalidity proceedings is the date of filing of the application for registration of the mark at issue. It follows that evidence dated after the application for registration of that mark, which allows conclusions to be drawn as to the situation at the date of that mark’s registration, is irrelevant with respect to the assessment of grounds of absolute refusal in invalidity proceedings.
+19.
+As regards the evidence which allows conclusions to be drawn as to the circumstances at the date of filing of the application for registration of the mark at issue, I note that the appellant does not contest the interpretation made by the General Court in paragraph of the judgment under appeal, according to which account may be taken of evidence which, despite being dated after the filing of the application for registration of that mark, allows conclusions to be drawn as to the circumstances at the time of filing. In actual fact, the appellant criticises the General Court for having wrongly considered that certain evidence submitted by the appellant was unable to provide information on the situation at the time of the filing of the application for registration of the contested mark.
+20.
+In my opinion, by that argument, the appellant does not raise a question of law but simply contests the General Court’s assessment of the facts in finding that the documents in question contained material that did not relate to the situation at the date of filing of the application for registration of the contested mark.
+21.
+In that regard, it must be borne in mind that, in accordance with Article TFEU and the first paragraph of Article of the Statute of the Court of Justice of the European Union, an appeal lies on points of law only. The appraisal of the facts and the assessment of evidence do not, save where they distort the evidence, constitute a point of law which is subject, as such, to review by the Court of Justice on appeal (order of May 2016, Gat Microencapsulation v EUIPO, C‑639/P, not published, EU:C:2016:376). In the present case, no allegation of distortion has been made by the appellant.
+22.
+As a result, the appellant’s third argument is, to my mind, in part, manifestly inadmissible and, in part, manifestly unfounded.
+23.
+Since it is certain that none of the appellant’s arguments can succeed, the appeal in its entirety should be found to be, in part, manifestly inadmissible and, in part, manifestly unfounded.’
+For the same reasons as those given by the Advocate General, the appeal must be dismissed as being, in part, manifestly inadmissible and, in part, manifestly unfounded.
+Costs
+Pursuant to Article of the Rules of Procedure, which is applicable to the procedure on appeal pursuant to Article 184(1) thereof, a decision as to costs is to be given in the order which closes the proceedings. Since the present order was adopted before the appeal was served on the other parties to the proceedings and, therefore, before they could have incurred costs, it is appropriate to decide that the appellant is to bear its own costs.
+ 
+On those grounds, the Court (Seventh Chamber) hereby orders:
+ 
+1.
+The appeal is dismissed as, in part, manifestly inadmissible and, in part, manifestly unfounded.
+ 
+2.
+Safe Skies LLC shall bear its own costs.
+ 
+Luxembourg, October 2018.
+A. Calot Escobar
+Registrar
+A. Rosas
+President
+(
+*)	Language of the case: English.
+Top  

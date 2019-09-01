@@ -1,0 +1,149 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+April (
+*)
+(Reference for a preliminary ruling — Area of freedom, security and justice — Judicial cooperation in civil matters — Lugano II Convention — Jurisdiction and recognition and enforcement of judgments in civil and commercial matters — Title II, Section (Articles to 21) — Jurisdiction over individual contracts of employment)
+In Case C‑603/17,
+REQUEST for a preliminary ruling under Article TFEU from the Supreme Court of the United Kingdom, made by decision of October 2017, received at the Court on October 2017, in the proceedings
+Peter Bosworth,
+Colin Hurley
+v
+Arcadia Petroleum Limited and Others,
+THE COURT (First Chamber),
+composed of R. Silva de Lapuerta (Rapporteur), Vice-President of the Court, acting as President of the First Chamber, A. Arabadjiev, E. Regan, C.G. Fernlund and S. Rodin, Judges,
+Advocate General: H. Saugmandsgaard Øe,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on September 2018,
+after considering the observations submitted on behalf of:
+–
+Mr Bosworth and Mr Hurley, by A. Briggs QC and D. Foxton QC, R. Eschwege, Barrister, and T. Greeno and A. Forster, Solicitors,
+–
+Arcadia Petroleum Limited and Others, by M. Howard QC, F. Pilbrow and N. Venkatesan, Barristers, and S. Trevan, J. Kelly and T. Snelling, Solicitors,
+–
+the European Commission, by M. Heller and M. Wilderspin, acting as Agents,
+–
+the Swiss Government, by M. Schöll, acting as Agent,
+after hearing the Opinion of the Advocate General at the sitting on January 2019,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of the provisions of Section of Title II (Articles to 21) of the Convention on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters, signed on October 2007, the conclusion of which was approved on behalf of the Community by Council Decision 2009/430/EC of November (OJ L 147, p. 1; ‘the Lugano II Convention’).
+The request has been made in proceedings between Mr Peter Bosworth and Mr Colin Hurley, on the one hand, and Arcadia Petroleum Limited and other companies, on the other, concerning a claim for damages for the loss those companies claim to have suffered as a result of alleged fraud by Mr Bosworth and Mr Hurley.
+Legal context
+Article of the Lugano II Convention provides:
+‘A person domiciled in a State bound by this Convention may, in another State bound by this Convention, be sued:
+1.
+(a)
+in matters relating to a contract, in the courts for the place of performance of the obligation in question;
+(b)
+for the purpose of this provision and unless otherwise agreed, the place of performance of the obligation in question shall be:
+–
+in the case of the sale of goods, the place in a State bound by this Convention where, under the contract, the goods were delivered or should have been delivered;
+–
+in the case of the provision of services, the place in a State bound by this Convention where, under the contract, the services were provided or should have been provided.
+(c)
+if (b) does not apply then subparagraph (a) applies;
+...
+3.
+in matters relating to tort, delict or quasi-delict, in the courts for the place where the harmful event occurred or may occur;
+...’
+Under Article 18(1) of that convention:
+‘In matters relating to individual contracts of employment, jurisdiction shall be determined by this Section, without prejudice to Articles and 5(5).’
+Article 20(1) of that convention states:
+‘An employer may bring proceedings only in the courts of the State bound by this Convention in which the employee is domiciled.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Arcadia London, Arcadia Singapore and Arcadia Switzerland are companies engaged in the business of trading physical crude oil and oil derivatives. They belong to the Arcadia Group, which is 100% owned by Farahead Holdings Ltd.
+Mr Bosworth and Mr Hurley are British nationals who are domiciled in Switzerland and who, at the material time, were chief executive officer (CEO) and chief financial officer (CFO), respectively, of the Arcadia Group. They were also directors of Arcadia London, Arcadia Singapore and Arcadia Switzerland and were each party to a contract of employment with one of those companies drafted by themselves or at their direction.
+By an application lodged on February 2015, Arcadia London, Arcadia Singapore, Arcadia Switzerland and Farahead Holdings (together ‘Arcadia’) commenced proceedings in the High Court of Justice (England & Wales), Queen’s Bench Division (Commercial Court) (United Kingdom), against a number of parties, including Mr Bosworth and Mr Hurley. Arcadia sought compensation for the damage which the Arcadia Group claimed to have sustained as a result of fraudulent transactions involving the companies in that group.
+The proceedings brought by Arcadia were based on claims of unlawful means conspiracy, breach of fiduciary duty and breach of express and/or implied contractual duties pursuant to Mr Bosworth’s and Mr Hurley’s contracts of employment.
+By a document of March 2015, Mr Bosworth and Mr Hurley challenged the jurisdiction of the United Kingdom courts to hear and determine Arcadia’s damages claims against them on the ground that those claims fell within the provisions of Section of Title II of the Lugano II Convention concerning the rules on jurisdiction over individual contracts of employment, and that, under those rules, the claims should be brought before the courts of the State in which Mr Bosworth and Mr Hurley are domiciled, that is to say, the Swiss courts.
+Following that challenge, Arcadia amended its application. It withdrew its claims for breach of contract and for breach of contract as unlawful means in the context of the tort of conspiracy.
+By a judgment of April 2015, the High Court of Justice (England & Wales), Queen’s Bench Division (Commercial Court), declared that it had jurisdiction over the claims in unlawful means conspiracy and breach of fiduciary duty, invoked in support of the claim for damages, save, as regards the claim for breach of fiduciary duty, in respect of any breach alleged to have occurred whilst Mr Bosworth and Mr Hurley were parties to contracts of employment with one of the companies of the Arcadia Group, since, according to that court, any such claims are matters relating to individual contracts of employment and fall, pursuant to Article 20(1) of the Lugano II Convention, within the jurisdiction of the Swiss courts.
+Mr Bosworth and Mr Hurley appealed against that judgment to the Court of Appeal (England & Wales) (Civil Division) (United Kingdom).
+That court dismissed the appeal by judgment dated August 2016. Mr Bosworth and Mr Hurley brought an appeal against that judgment before the referring court.
+In those circumstances, the Supreme Court of the United Kingdom decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+What is the correct test for determining whether a claim advanced by an employer against an employee or former employee (“an employee”) constitutes a “matter relating to” an individual contract of employment within the meaning of Section to Title II (Articles to 21) of the Lugano [II] Convention?
+(a)
+Is it sufficient for a claim advanced by an employer against an employee to fall within Articles to [of the Lugano II Convention] that the conduct complained of could also have been pleaded by the employer as a breach of the employee’s individual contract of employment — even if the claim actually advanced by the employer does not rely on, complain of, or plead any breach of that contract, but is (for example) advanced on one or more of the different bases indicated in paragraphs and of the Statement of Facts and Issues?
+(b)
+Alternatively, is the correct test that a claim advanced by an employer against an employee falls within Articles to [of the Lugano II Convention] only if the obligation on which the claim is actually based is an obligation in the contract of employment? If this is the correct test, does it follow that a claim which is based only on breach of an obligation which arose independently of the contract of employment (and, if relevant, is not an obligation which was “freely consented to” by the employee) does not fall within Section 5?
+(c)
+If neither of the above is the correct test, what is the correct test?
+(2)
+If a company and an individual enter into a “contract” (within the meaning of Article 5(1) of the [Lugano II] Convention), to what extent is it necessary for there to be a relationship of subordination between the company and the individual for that contract to constitute an “individual contract of employment” for the purposes of Section [of that convention]? Can such a relationship exist where the individual is able to determine (and does determine) the terms of his contract with the company and has control and autonomy over the day-to-day operation of the company’s business and the performance of his own duties, but the shareholder(s) of the company have the power to procure the termination of the relationship?
+(3)
+If Section to Title II of the Lugano [II] Convention only applies to claims which, but for Section 5, would fall within Article 5(1) of the Lugano [II] Convention, what is the correct test to determine whether a claim falls within Article 5(1)?
+(a)
+Is the correct test that a claim falls within Article 5(1) if the conduct complained of could be pleaded as a breach of contract, even if the claim actually pleaded by the employer does not rely on, complain of, or plead any breach of that contract?
+(b)
+Alternatively, is the correct test that a claim falls within Article 5(1) [of the Lugano II Convention] only if the obligation on which it is actually based is a contractual obligation? If that is the correct test, does it follow that a claim which is based only on breach of an obligation which arose independently of the contract (and, if relevant, is not an obligation “freely consented to” by the defendant) does not fall within Article 5(1)?
+(c)
+If neither of the above is the correct test, what is the correct test?
+(4)
+In circumstances in which:
+–
+Companies A and B both form part of a group of companies;
+–
+Defendant X performs, de facto, the role of CEO of that group of companies (as Mr Bosworth did for the Arcadia Group of companies: Statement of Facts and Issues, paragraph 14); X is employed by one group company, company A (and so is an employee of company A) (as Mr Bosworth was from time to time in circumstances set out in the Statement of Facts and Issues, paragraph 15); and is not, as a matter of domestic law, employed by company B;
+–
+Company A brings claims against X, and those claims fall within Articles to [of the Lugano II Convention]; and
+–
+The other group company, company B, also brings claims against X in respect of like conduct to that which forms the basis of company A’s claims against X;
+what is the correct test for determining whether company B’s claim falls within Section [of the Lugano II Convention]? In particular:
+(a)
+Does the answer depend on whether there was, as between X and company B, an “individual contract of employment” within the meaning of Section [of the Lugano II Convention] and, if so, what is the correct test for determining whether there was such a contract?
+(b)
+Is company B to be treated as the “employer” of X for the purposes of Section to Title II of the [Lugano II] Convention, and/or do company B’s claims against X (in [the fourth indent of paragraph 4] above) fall within Articles to [of the Lugano II Convention] in the same way that company A’s claims against X fall within Articles to 21? In particular:
+(i)
+Does company B’s claim fall within Article [of the Lugano II Convention] only if the obligation on which it is actually based is an obligation in the contract of employment between company B and X?
+(ii)
+Alternatively, does the claim fall within Article [of the Lugano II Convention] if the conduct complained of in the claim would have constituted a breach of an obligation in the contract of employment between company A and X?
+(c)
+If neither of the foregoing is the correct test, what is the correct test?’
+The request for the oral part of the procedure to be reopened
+Following delivery of the Opinion of the Advocate General, Mr Bosworth and Mr Hurley lodged a document at the Court Registry requesting that the oral part of the procedure be reopened, pursuant to Article of the Rules of Procedure of the Court of Justice. In support of their request they submit, in essence, that the Advocate General, in point of his Opinion, based his assessment on matters of fact that were incorrect and do not correspond to those established by the referring court.
+In accordance with Article of the Rules of Procedure, the Court may at any time, after hearing the Advocate General, order the opening or reopening of the oral part of the procedure, in particular if it considers that it lacks sufficient information or where a party has, after the close of that part of the procedure, submitted a new fact which is of such a nature as to be a decisive factor for the decision of the Court, or where the case must be decided on the basis of an argument which has not been debated between the parties or the interested persons referred to in Article of the Statute of the Court of Justice of the European Union.
+That is not the case here. The Court, after hearing the Advocate General, considers that it does have all the information necessary to give a ruling, and that the case does not have to be examined in the light of any new fact which is of such a nature as to be a decisive factor for the decision of the Court or in the light of any argument which has not been debated before it.
+Consequently, the Court considers that it is not necessary to order that the oral part of the procedure be reopened.
+Consideration of the questions referred
+Since the first, third and fourth questions are based on the assumption that Mr Bosworth’s and Mr Hurley’s contracts with certain companies in the Arcadia Group constituted ‘individual contracts of employment’ within the meaning of the provisions of Section of Title II (Articles to 21) of the Lugano II Convention, the Court considers it appropriate to examine, first of all, the second question.
+The second question
+By its second question, the referring court asks, in essence, whether the provisions of Section of Title II (Articles to 21) of the Lugano II Convention must be interpreted as meaning that a contract between a company and a natural person can be treated as an ‘individual contract of employment’, within the meaning of those provisions, where that person is able to determine or does determine the terms of that contract and has control and autonomy over the day-to-day operation of that company’s business and the performance of his own duties, but the shareholder(s) of that company have the power to procure the termination of that contract.
+In the light of the identical wording of those provisions and the provisions of Section of Chapter II (Articles to 21) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 12, p. 1), the Court’s interpretation of the latter provisions is capable of being applied to those of Section of Title II (Articles to 21) of the Lugano II Convention (see, to that effect, judgment of December 2014, H, C‑295/13, EU:C:2014:2410, paragraphs and 32).
+In order to determine whether the provisions of Section of Title II (Articles to 21) of the Lugano II Convention are applicable to a situation such as that at issue in the main proceedings, it is necessary to consider whether Mr Bosworth and Mr Hurley can be regarded as having been party to an ‘individual contract of employment’, within the meaning of Article 18(1) of that convention, with one of the companies in the Arcadia Group, and whether they can therefore be classified as ‘employees’, within the meaning of Article 18(2) of that convention (see, to that effect, judgment of September 2015, Holterman Ferho Exploitatie and Others, C‑47/14, EU:C:2015:574, paragraph 34).
+In that regard, it should be pointed out that that any such classification cannot be determined on the basis of national law (judgment of September 2015, Holterman Ferho Exploitatie and Others, C‑47/14, EU:C:2015:574, paragraph 36) and that, in order to ensure that the Lugano II Convention, in particular Article thereof, is fully effective, the legal concepts it uses must be given an independent interpretation common to all the contracting parties (see, to that effect, judgments of July 2012, Mahamdia, C‑154/11, EU:C:2012:491, paragraph 42, and of September 2015, Holterman Ferho Exploitatie and Others, C‑47/14, EU:C:2015:574, paragraph 37).
+As regards the concept of ‘employee’, it must also be recalled that, as the Court has consistently held, that concept must be defined in accordance with objective criteria which distinguish the employment relationship by reference to the rights and duties of the persons concerned. The essential feature of an employment relationship is that, for a certain period of time, a person performs services for and under the direction of another person, in return for which he receives remuneration (see, in particular, judgment of September 2007, Kiiski, C‑116/06, EU:C:2007:536, paragraph and the case-law cited).
+It follows that an employment relationship implies the existence of a hierarchical relationship between the worker and his employer, and that the issue whether such a relationship exists must, in each particular case, be assessed on the basis of all the factors and circumstances characterising the relationship between the parties (judgments of September 2015, Holterman Ferho Exploitatie and Others, C‑47/14, EU:C:2015:574, paragraph 46, and of November 2018, Sindicatul Familia Constanţa and Others, C‑147/17, EU:C:2018:926, paragraph 42).
+It should, moreover, be noted that, according to the wording of the provisions of Section of Title II (Articles to 21) of the Lugano II Convention, the conclusion of a contract is not a condition for the application of the rules of special jurisdiction laid down in those provisions, and therefore that, as the Advocate General, in essence, indicated in points to of his Opinion, the absence of any formal contract does not preclude the existence of an employment relationship that falls within the concept of ‘individual contract of employment’ within the meaning of those provisions.
+However, such a relationship can be treated as an ‘individual contract of employment’ within the meaning of the provisions of Section of Title II (Articles to 21) of the Lugano II Convention only if there is a relationship of subordination between the company and the director concerned.
+In the present case, it should be noted that, according to the information provided by the referring court, Mr Bosworth and Mr Hurley were, respectively, chief executive officer and chief financial officer of the Arcadia Group, that they were directors of Arcadia London, Arcadia Singapore and Arcadia Switzerland, that they were each party to a contract of employment with one of those companies drafted by themselves or at their direction and that they acted at all material times on behalf of all Arcadia Group companies.
+It is also apparent from the order for reference that Mr Bosworth and Mr Hurley exercised control over by whom, where and on what terms they were employed.
+In the circumstances, it appears that Mr Bosworth and Mr Hurley had an ability to influence Arcadia that was not negligible and that, therefore, it must be concluded that there was no relationship of subordination (see, to that effect, judgment of September 2015, Holterman Ferho Exploitatie and Others, C‑47/14, EU:C:2015:574, paragraph 47), irrespective of whether or not they held part of the share capital of Arcadia.
+The fact that Mr Bosworth and Mr Hurley were answerable to the Arcadia Group’s shareholders who, through Farahead Holdings, had the power to ‘hire and fire’ them, is irrelevant in that regard.
+As the Advocate General noted in point of his Opinion, neither the general directives which a director may be given by the shareholders of the company he directs for the orientation of that company’s business nor the legal mechanisms for control by shareholders point, in themselves, to the existence of a relationship of subordination, and therefore the mere fact that the shareholders have the power to revoke a directorship is not sufficient for the conclusion to be drawn that such a relationship exists.
+It follows from this that a contract concluded between a company and the director of that company does not constitute, in circumstances such as those at issue in the main proceedings, an ‘individual contract of employment’ within the meaning of Section of Title II (Articles to 21) of the Lugano II Convention.
+Having regard to the above, the answer to the second question is that the provisions of Section of Title II (Articles to 21) of the Lugano II Convention must be interpreted as meaning that a contract between a company and a natural person performing the duties of director of that company does not create a relationship of subordination between them and cannot, therefore, be treated as an ‘individual contract of employment’, within the meaning of those provisions, where, even if the shareholder(s) of that company have the power to procure the termination of that contract, that person is able to determine or does determine the terms of that contract and has control and autonomy over the day-to-day operation of that company’s business and the performance of his own duties.
+The first, third and fourth questions
+In view of the answer given to the second question, there is no need to answer the first, third and fourth questions.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+The provisions of Section of Title II (Articles to 21) of the Convention on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters, signed on October 2007, the conclusion of which was approved on behalf of the Community by Council Decision 2009/430/EC of November 2008, must be interpreted as meaning that a contract between a company and a natural person performing the duties of director of that company does not create a relationship of subordination between them and cannot, therefore, be treated as an
+‘individual contract of employment
+’, within the meaning of those provisions, where, even if the shareholder(s) of that company have the power to procure the termination of that contract, that person is able to determine or does determine the terms of that contract and has control and autonomy over the day-to-day operation of that company’s business and the performance of his own duties.
+ 
+Silva de Lapuerta
+Arabadjiev
+Regan
+Fernlund
+Rodin
+Delivered in open court in Luxembourg on April 2019.
+A. Calot Escobar
+Registrar
+K. Lenaerts
+President
+(
+*)	Language of the case: English.
+Top  

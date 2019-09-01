@@ -1,0 +1,142 @@
+
+JUDGMENT OF THE COURT (Grand Chamber)
+November (
+*)
+(Reference for a preliminary ruling — Article TFEU — Freedom to provide services — Restrictions — Services in the internal market — Directive 2006/123/EC — Labour law — Posting of workers in order to carry out construction works — Reporting of workers — Retention and translation of payslips — Suspension of payments — Payment of a security by the recipient of the services — Surety for a possible fine to be imposed on the service provider)
+In Case C‑33/17,
+REQUEST for a preliminary ruling under Article TFEU from the Bezirksgericht Bleiburg/Okrajno Sodišče Pliberk (District Court, Bleiburg, Austria), made by decision of January 2017, received at the Court on January 2017, in the proceedings
+Čepelnik d.o.o.
+v
+Michael Vavti,
+THE COURT (Grand Chamber),
+composed of K. Lenaerts, President, R. Silva de Lapuerta, Vice-President, A. Arabadjiev, M. Vilaras, E. Regan and C. Toader, Presidents of Chambers, A. Rosas, E. Juhász, L. Bay Larsen (Rapporteur), M. Safjan, D. Šváby, C.G. Fernlund and C. Vajda, Judges,
+Advocate General: N. Wahl,
+Registrar: M. Aleksejev, Administrator,
+having regard to the written procedure and further to the hearing on February 2018,
+after considering the observations submitted on behalf of:
+–
+Čepelnik d.o.o., by R. Grilc, R. Vouk, M. Škof and M. Ranc, Rechtsanwälte, and M. Erman, odvetnica,
+–
+the Austrian Government, by G. Hesse, acting as Agent,
+–
+the Czech Government, by M. Smolek, J. Pavliš and J. Vláčil, acting as Agents,
+–
+the French Government, by E. de Moustier and R. Coesme, acting as Agents,
+–
+the Hungarian Government, by M.M. Tátrai, M.Z. Fehér and G. Koós, acting as Agents,
+–
+the Polish Government, by B. Majczyna, acting as Agent,
+–
+the Slovenian Government, by A. Grum, acting as Agent,
+–
+the Slovak Government, by B. Ricziová, acting as Agent,
+–
+the European Commission, by M. Kellerbauer, L. Malferrari and M. Kocjan, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on May 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article TFEU and Directive 2014/67/EU of the European Parliament and of the Council of May on the enforcement of Directive 96/71/EC concerning the posting of workers in the framework of the provision of services and amending Regulation (EU) No 1024/on administrative cooperation through the Internal Market Information System (‘the IMI Regulation’) (OJ L 159, p. 11).
+The request has been made in proceedings between Čepelnik d.o.o. and Mr Michael Vavti concerning the payment of EUR claimed by Čepelnik from Mr Vavti pursuant to a contract for works.
+Legal context
+EU law
+Recitals and of Directive 2006/123/EC of the European Parliament and of the Council of December on services in the internal market (OJ L 376, p. 36) read as follows:
+‘(7)
+This Directive establishes a general legal framework which benefits a wide variety of services while taking into account the distinctive features of each type of activity or profession and its system of regulation. … Provision should be made for a balanced mix of measures involving targeted harmonisation, administrative cooperation, the provision on the freedom to provide services and encouragement of the development of codes of conduct on certain issues. That coordination of national legislative regimes should ensure a high degree of Community legal integration and a high level of protection of general interest objectives, especially protection of consumers, which is vital in order to establish trust between Member States. This Directive also takes into account other general interest objectives, including the protection of the environment, public security and public health as well as the need to comply with labour law.
+…
+(14)
+This Directive does not affect terms and conditions of employment, including maximum work periods and minimum rest periods, minimum paid annual holidays, minimum rates of pay as well as health, safety and hygiene at work, which Member States apply in compliance with Community law, nor does it affect relations between social partners, including the right to negotiate and conclude collective agreements, the right to strike and to take industrial action in accordance with national law and practices which respect Community law, nor does it apply to services provided by temporary work agencies. This Directive does not affect Member States’ social security legislation.’
+Article 1(6) of Directive 2006/provides:
+‘This Directive does not affect labour law, that is any legal or contractual provision concerning employment conditions, working conditions, including health and safety at work and the relationship between employers and workers, which Member States apply in accordance with national law which respects Community law. Equally, this Directive does not affect the social security legislation of the Member States.’
+Austrian law
+Paragraph 7b of the Arbeitsvertragsrechts-Anpassungsgesetz (Law adapting employment contract law, BGBl. 459/1993), in the version applicable to the dispute in the main proceedings (‘the AVRAG’), provides in subparagraphs and 8:
+‘3.   Employers within the meaning of subparagraph are to report the employment of workers who are posted to Austria in order to perform work, one week at the latest before the start of work, to the Central Coordinating Body for the monitoring of illegal employment …
+…
+8.   A person who, as an employer within the meaning of subparagraph 1,
+1.
+contrary to subparagraph does not make, or does not make in good time or completely, the declaration or the declaration of subsequent amendments to the information (amending declaration) …
+…
+commits an administrative offence and shall be punished by the district administrative authority by a fine for each worker …’
+Paragraph 7i(4) of the AVRAG reads as follows:
+‘A person who
+1.
+as employer within the meaning of Paragraph 7, 7a(1) or 7b(1) and (9), contrary to Paragraph 7d, does not have the pay documents available …
+…
+commits an administrative offence and shall be punished by the district administrative authority by a fine for each worker …’
+Paragraph 7m of the AVRAG provides:
+‘1.   Where there is reasonable suspicion of an administrative offence under Paragraph 7b(8), 7i or 7k(4), and if it is to be presumed on the basis of certain facts that prosecution or enforcement of penalties will be impossible or substantially more difficult for reasons connected with the person of the employer (contractor) or the person hiring out workers, the tax authorities in connection with investigations under Paragraph 7f and the construction workers’ leave and employment termination payment fund may require in writing the person commissioning the works, or in the case of hiring out of workers the employer, not to pay the price still owed for the works or the remuneration still owed for hiring out workers, or parts thereof (suspension of payments). …
+…
+3.   Where there is reasonable suspicion of an administrative offence under Paragraph 7b(8), 7i or 7k(4), and if it is to be presumed on the basis of certain facts that prosecution or enforcement of penalties will be impossible or substantially more difficult for reasons connected with the person of the employer (contractor) or the person hiring out workers, the district administrative authority may, by a decision, order the person commissioning the works, or in the case of hiring out of workers the employer, to pay the price still owed for the works or the remuneration still owed for hiring out workers, or parts thereof, as security within a reasonable time. …
+…
+5.   Payment under subparagraph shall have the effect, for the person commissioning the works or the employer, of releasing him from his debt as against the contractor or the person hiring out workers, to the extent of the payment.
+…’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Čepelnik is a limited liability company established in Slovenia.
+It concluded a contract with Mr Vavti for construction works in Mr Vavti’s house in Austria for a total amount of EUR 12200.
+They agreed on a down payment of EUR 7000, which was paid by Mr Vavti.
+On March the Finanzpolizei/Finančna policija (Financial Police, Austria) made an on-site check and found, first, that the employment of two posted workers on the site had not been reported by Čepelnik to the competent national authority, in breach of Paragraph 7b(8)(1) of the AVRAG in conjunction with Paragraph 7b(3) of the AVRAG, and, second, that Čepelnik did not have payslips in German available for four posted workers, in breach of Paragraph 7i(4)(1) of the AVRAG in conjunction with the first and second sentences of Paragraph 7d(1) of the AVRAG.
+As a result of that finding, the Financial Police ordered Mr Vavti to suspend payments for the works. It also requested the Bezirkshauptmannschaft Völkermarkt/Okrajno glavarstvo Velikovec (District Administrative Authority, Völkermarkt, Austria) to require him to pay a security in an amount equivalent to the price still owed for the works, namely EUR 5200.
+On March the District Administrative Authority, Völkermarkt, acceded to that request and ordered Mr Vavti to pay a security of EUR as a guarantee of the fine that might be imposed on Čepelnik in subsequent proceedings. Mr Vavti did not raise an objection against that decision, and he paid the security on April 2016.
+By decisions of and October 2016, Čepelnik was fined EUR and EUR respectively for the two administrative offences alleged by the Financial Police at the inspection on March 2016. On November Čepelnik appealed against those decisions. The appeals were pending on the date of the order for reference.
+After completing the works, Čepelnik sought payment of the sum of EUR from Mr Vavti. When he did not pay that sum, Čepelnik brought proceedings before the referring court.
+Before the referring court Mr Vavti submits that, having paid a security of EUR to the District Administrative Authority, Völkermarkt, he no longer owes that sum to Čepelnik. In accordance with the applicable Austrian legislation, the payment of the security released him from the debt.
+In those circumstances, the Bezirksgericht Bleiburg/Okrajno Sodišče Pliberk (District Court, Bleiburg, Austria) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Are Article TFEU and [Directive 2014/67] to be interpreted as prohibiting a Member State from ordering a person in that State who has commissioned works to suspend payments and pay a security equal to the price still owed for the works, if the suspension of payments and the payment of the security serve solely to guarantee payment of a possible fine, to be imposed only subsequently in separate proceedings against a service provider established in another Member State?
+(2)
+If that question is answered in the negative:
+(a)
+Are Article TFEU and [Directive 2014/67] to be interpreted as prohibiting a Member State from ordering a person in that State who has commissioned works to suspend payments and pay a security equal to the price still owed for the works, if the service provider established in another Member State on whom a fine is to be imposed has no legal remedy against the decision ordering the payment of a security in the proceedings relating to the security, and if an appeal against that decision by the domestic person commissioning the works has no suspensory effect?
+(b)
+Are Article TFEU and [Directive 2014/67] to be interpreted as prohibiting a Member State from ordering a person in that State who has commissioned works to suspend payments and pay a security equal to the price still owed for the works solely because the service provider is established in another Member State?
+(c)
+Are Article TFEU and [Directive 2014/67] to be interpreted as prohibiting a Member State from ordering a person in that State who has commissioned works to suspend payments and pay a security equal to the price still owed for the works, even though that sum is not yet due and the final price has not yet been determined on account of counterclaims and rights of retention?’
+Consideration of the questions referred
+Admissibility
+The Austrian Government submits, as a preliminary point, that the request for a preliminary ruling is inadmissible because an answer by the Court to the questions referred is not necessary for the referring court to be able to deliver judgment in the main proceedings.
+It submits that the questions relate to administrative proceedings in which the person commissioning works is ordered to suspend payments and pay a security, whereas the referring court is hearing only a civil action concerning the price of the works still due following the payment of the security. In the civil proceedings the referring court must confine itself to taking account of the releasing effect on the person commissioning the works of the payment of the security ordered, without being able to amend or annul the decision imposing that security. Such a decision can be contested only in separate administrative proceedings.
+It must be recalled that, in the context of the cooperation between the Court and the national courts provided for in Article TFEU, it is solely for the national court, before which the dispute has been brought and which must assume responsibility for the subsequent judicial decision, to determine in the light of the particular circumstances of the case both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is, in principle, bound to give a ruling (judgment of June 2018, Wirtschaftsakademie Schleswig-Holstein, C‑210/16, EU:C:2018:388, paragraph and the case-law cited).
+It follows that questions on the interpretation of EU law referred by a national court in the factual and legislative context which that court is responsible for defining, the accuracy of which is not a matter for the Court to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its object, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of September 2016, Petruhhin, C‑182/15, EU:C:2016:630, paragraph and the case-law cited).
+In the present case, it is apparent from the order for reference that the dispute in the main proceedings is closely linked to the effects of the measures that are the subject of the questions referred, in that the answer to the question of the compatibility of those measures with EU law could influence the outcome of the dispute. The referring court explains that Mr Vavti based his refusal — which gave rise to the dispute — to pay Čepelnik the sum of EUR corresponding to the price still owed for the works on the fact that under Paragraph 7m(5) of the AVRAG the payment of the security of EUR which had been required of him under Paragraph 7m(3) of the AVRAG had had the effect of releasing him from his debt towards Čepelnik.
+In those circumstances, it cannot be considered that the interpretation of EU law sought bears no relation to the actual facts of the main action or its object.
+Furthermore, as the Austrian Government’s argument concerning the inadmissibility of the reference for a preliminary ruling is based in part on the fact that national law does not allow the referring court, in the main proceedings, to make a decision relating to the fines imposed on Čepelnik, it must be recalled that, since in proceedings of the kind provided for in Article TFEU the interpretation of national law falls exclusively to the referring court (judgment of June 2015, Gauweiler and Others, C‑62/14, EU:C:2015:400, paragraph 28), that argument cannot suffice to rebut the presumption of relevance referred to in paragraph above.
+It follows from the above that the request for a preliminary ruling is admissible.
+Substance
+By its questions, which should be considered together, the referring court essentially asks whether Article TFEU and Directive 2014/must be interpreted as precluding legislation of a Member State, such as that at issue in the main proceedings, under which the competent authorities can order a commissioning party established in that Member State to suspend payments to his contractor established in another Member State, or even to pay a security in an amount equivalent to the price still owed for the works in order to guarantee payment of the fine which might be imposed on that contractor in the event of a proven infringement of the labour law of the first Member State.
+Preliminary observations
+It should be noted at the outset that, as the Advocate General observes in point of his Opinion, it may be deduced from the observations submitted to the Court that Directive 2014/67, the period for the transposition of which expired on June in accordance with Article of the directive, was transposed into Austrian law by legislation enacted in June which entered into force on January 2017. Since the facts at issue in the main proceedings took place in March 2016, Directive 2014/is not applicable to them, and the questions referred need not be answered in so far as they refer to that directive (see, by analogy, judgment of December 2014, De Clercq and Others, C‑315/13, EU:C:2014:2408, paragraphs to 51).
+In addition, several interested parties who have submitted observations to the Court submit that the Court should also base its answer to the questions referred on Directive 2006/123.
+In this respect, it must be observed that, under Article 1(6) of that directive, it ‘does not affect labour law’.
+According to that provision, the concept of ‘labour law’ within the meaning of that directive covers legal or contractual provisions concerning employment conditions, working conditions, including health and safety at work, and the relationship between employers and workers, which Member States apply in accordance with national law which respects EU law.
+Article 1(6) of Directive 2006/123, read in the light of recital of the directive, thus defines ‘labour law’ broadly.
+That provision does not distinguish between substantive rules of labour law, on the one hand, and rules relating to the measures provided for in order to ensure compliance with those substantive rules and those intended to ensure the effectiveness of the penalties imposed in the event of non-compliance with those rules, on the other.
+It should also be observed that, as may be seen from recital of that directive, by adopting the directive the EU legislature intended to ensure that a balance was observed between the objective of eliminating obstacles to the freedom of establishment of providers and the free movement of services, on the one hand, and, on the other, the requirement of ensuring a high level of protection of objectives in the general interest, including the need to comply with labour law (see, by analogy, judgment of July 2013, Femarbel, C‑57/12, EU:C:2013:517, paragraph 39).
+The establishment by national legislation such as that at issue in the main proceedings of deterrent measures for the purpose of ensuring compliance with the substantive rules of labour law and with rules intended to ensure the effectiveness of penalties imposed in the event of non-compliance with those substantive rules contributes to ensuring a high level of protection of the objective in the general interest consisting in the need to comply with labour law.
+It follows that the concept of ‘labour law’ within the meaning of Article 1(6) of Directive 2006/covers such national legislation.
+In the light of the above, it must be concluded that Directive 2006/does not apply to measures such as those laid down by the national legislation at issue in the main proceedings, although, in accordance with the wording of Article 1(6) of that directive, that conclusion does not dispense with the obligation to ascertain whether such legislation is consistent with EU law, in particular Article TFEU, mentioned in the referring court’s questions.
+Restriction of the freedom to provide services
+It must be recalled at the outset that, according to settled case-law of the Court, all measures which prohibit, impede or render less attractive the exercise of the freedom to provide services must be regarded as restrictions of that freedom (judgment of May 2017, Vanderborght, C‑339/15, EU:C:2017:335, paragraph and the case-law cited).
+Moreover, according to settled case-law, Article TFEU confers rights not only on the provider of services himself but also on the recipient of those services (judgments of October 2012, X, C‑498/10, EU:C:2012:635, paragraph 23, and of December 2014, De Clercq and Others, C‑315/13, EU:C:2014:2408, paragraph 52).
+It is clear that measures such as those at issue in the main proceedings which require a commissioning party to suspend the payments owed to his contractor and to pay a security in an amount equivalent to the price still owed for the works where there are reasonable grounds for suspecting an administrative offence by the service provider against the national legislation in the field of labour law are liable both to dissuade commissioning parties from the Member State concerned from having recourse to service providers established in another Member State and to dissuade those service providers from offering their services to those commissioning parties.
+As the Advocate General observes in points and of his Opinion, such measures are liable in particular, first, to bring forward the time when the recipient of the services is required to pay the price still owed for the works and thus to deprive him of the possibility, provided for as a general rule by the applicable national legislation, of retaining part of that sum as compensation for faulty or late performance of the works. Second, those measures are liable to deprive service providers established in other Member States of the right to claim from their Austrian customers payment of the price still owed for the works, and thereby expose them to the risk of delayed payment.
+Consequently, measures such as those provided for by the national legislation at issue in the main proceedings must be regarded as a restriction of the freedom to provide services.
+Justification for the restriction of the freedom to provide services
+According to well-established case-law of the Court, national measures which are liable to restrict or to make less attractive the exercise of the fundamental freedoms guaranteed by the FEU Treaty may nonetheless be permitted where they serve overriding reasons in the public interest, are appropriate for attaining their objective, and do not go beyond what is necessary to attain that objective (judgment of May 2017, Lahorgue, C‑99/16, EU:C:2017:391, paragraph and the case-law cited).
+In the present case, the Austrian Government argues that the restriction of the freedom to provide services at issue in the main proceedings is justified by the objectives of the social protection of workers and of combating fraud, particularly social security fraud, and preventing abuse.
+On this point, it must be observed that the social protection of workers and combating fraud, particularly social security fraud, and preventing abuse are objectives that are among the overriding reasons in the public interest capable of justifying a restriction of the freedom to provide services (see, to that effect, judgments of December 2012, Commission v Belgium, C‑577/10, EU:C:2012:814, paragraph 45, and of December 2014, De Clercq and Others, C‑315/13, EU:C:2014:2408, paragraph and the case-law cited).
+Measures such as those provided for by the national legislation at issue in the main proceedings which are intended in particular to ensure the effectiveness of the penalties that might be inflicted on the service provider in the event of an infringement of the legislation on labour law may be regarded as appropriate for ensuring that those objectives are realised.
+As regards the proportionality of such legislation with respect to those objectives, it must be observed, first, that it makes it possible for the competent authorities to require the commissioning party to suspend his payments to the service provider and to pay a security in the amount of the price still owed for the works, on the basis of ‘reasonable suspicion of an administrative offence’ against the national rules in the field of labour law. That legislation thus allows such measures to be adopted even before a finding is made by the competent authority of an administrative offence disclosing fraud, in particular social security fraud, or abuse or a practice capable of affecting the protection of workers.
+Next, that legislation does not provide that the service provider against whom there is such reasonable suspicion can, before the adoption of those measures, put forward his observations on the acts of which he is accused.
+Finally, the amount of the security that may be required from the recipient of the services corresponds, in accordance with the national legislation at issue in the main proceedings, to the price still owed for the works at the time of the adoption of that measure. Since the amount of the security may thus be fixed by the competent authorities without taking account of possible construction faults or other defective performance of the contract for works by the service provider, it could exceed, perhaps substantially, the amount that the commissioning party would in principle have to pay on completion of the works.
+For each of the reasons set out in the three preceding paragraphs, national legislation such as that at issue in the main proceedings must be regarded as going beyond what is necessary for attaining the objectives of the protection of workers and combating fraud, in particular social security fraud, and preventing abuse.
+In the light of all the foregoing, the answer to the questions referred is that Article TFEU must be interpreted as precluding legislation of a Member State, such as that at issue in the main proceedings, under which the competent authorities can order a commissioning party established in that Member State to suspend payments to his contractor established in another Member State, or even to pay a security in an amount equivalent to the price still owed for the works in order to guarantee payment of the fine which might be imposed on that contractor in the event of a proven infringement of the labour law of the first Member State.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Grand Chamber) hereby rules:
+ 
+Article TFEU must be interpreted as precluding legislation of a Member State, such as that at issue in the main proceedings, under which the competent authorities can order a commissioning party established in that Member State to suspend payments to his contractor established in another Member State, or even to pay a security in an amount equivalent to the price still owed for the works in order to guarantee payment of the fine which might be imposed on that contractor in the event of a proven infringement of the labour law of the first Member State.
+ 
+[Signatures]
+(
+*)	Languages of the case: German and Slovenian.
+Top  

@@ -1,0 +1,589 @@
+
+Case C-306/European Commission
+v
+Kingdom of Spain
+(Failure of a Member State to fulfil obligations – Directives 93/37/EEC and 2004/18/EC – Procedures for the award of public works contracts – Urban development legislation of the Autonomous Community of Valencia)
+Summary of the Judgment
+1.        Approximation of laws – Procedures for the award of public works contracts, public supply contracts and public service contracts
+            – Directives 93/and 2004/– Public works contracts – Definition – Mixed contracts – Rules applicable 
+(European Parliament and Council Directive 2004/18, Art. 1(2)(b); Council Directive 93/37, Art. 1(a))
+2.        Actions for failure to fulfil obligations – Proof of failure – Burden of proof on Commission – Presumptions – Not permissible
+(Art. EC; European Parliament and Council Directive 2004/18, Art. 1(2)(b); Council Directive 93/37, Art. 1(c))
+1.        The concept of ‘public works contracts’ within the meaning of Article 1(a) of Directive 93/37, concerning the coordination
+         of procedures for the award of public works contracts, and of Article 1(2)(b) of Directive 2004/18, on the coordination of
+         procedures for the award of public works contracts, public supply contracts and public service contracts, covers ‘contracts
+         for pecuniary interest’, concluded in writing between one or more economic operators and one or more contracting authorities
+         and having as their object either the execution, or both the design and execution, of works related to one of the activities
+         referred to in Annex II to Directive 93/or Annex I to Directive 2004/or of a work defined in Article 1(c) of Directive
+         93/or Article 1(2)(b) of Directive 2004/18, or the execution, by whatever means, of a work corresponding to the requirements
+         specified by the contracting authority. A contract may be deemed to be a ‘public works contract’ only if its subject-matter
+         corresponds to that definition. Works which are incidental to, and not the subject‑matter of, the contract do not justify
+         its qualification as a public works contract.
+      
+When a contract contains elements relating both to a public works contract and to another type of contract, it is the main
+         object of the contract that determines which body of rules of European Union law on public contracts is, in principle, to
+         be applied. That determination must be made in the light of the essential obligations which predominate and which, as such,
+         characterise the transaction, as opposed to those which are only ancillary or supplementary in nature and are required by
+         the very object of the contract.
+      
+(see paras 88-91)
+2.        In proceedings under Article EC for failure to fulfil obligations, it is for the Commission to prove that failure. It
+         is the Commission, indeed, which must place before the Court all the information needed to enable the Court to establish that
+         failure, and in so doing the Commission may not rely on any presumptions.
+      
+When the action concerns the classification as public works contracts, within the meaning of Directive 93/37, concerning the
+         coordination of procedures for the award of public works contracts, or Directive 2004/18, on the coordination of procedures
+         for the award of public works contracts, public supply contracts and public service contracts, of contracts concluded between
+         a local authority and a developer, and the Commission confines itself to putting forward the argument that the urban development
+         contracts at issue must be classified as ‘public works contracts’ on the ground that the main object of such contracts is,
+         for the purposes of Articles 1(c) of Directive 93/and 1(2)(b) of Directive 2004/18, a work of urban development, without
+         proving this, the condition precedent to a declaration of such a failure to fulfil obligations is lacking and the action must
+         be dismissed. 
+      
+(see paras 92, 94, 98-99)
+  
+  
+JUDGMENT OF THE COURT (Third Chamber)
+May (*)
+      
+(Failure of a Member State to fulfil obligations – Directives 93/37/EEC and 2004/18/EC – Procedures for the award of public works contracts – Urban development legislation of the Autonomous Community of Valencia)
+In Case C‑306/08,
+ACTION under Article EC for failure to fulfil obligations, brought on July 2008,
+European Commission, represented by A. Alcover San Pedro, D. Kukovec and M. Konstantinidis, acting as Agents,
+      
+applicant,
+v
+Kingdom of Spain, represented by M. Muñoz Pérez, acting as Agent,
+      
+defendant,
+THE COURT (Third Chamber),
+composed of K. Lenaerts, President of the Chamber, D. Šváby (Rapporteur), R. Silva de Lapuerta, E. Juhász and T. von Danwitz,
+         Judges,
+      
+Advocate General: N. Jääskinen,
+Registrar: R. Şereş, Administrator,
+having regard to the written procedure and further to the hearing on May 2010,
+after hearing the Opinion of the Advocate General at the sitting on September 2010,
+gives the following
+Judgment
+By its action, the European Commission seeks a declaration that by awarding ‘integrated action programmes’ (‘IAPs’) pursuant,
+         successively, to Law 6/of November regulating urban development activities in the Valencian Community (Ley 6/1994,
+         de de noviembre, Reguladora de la Actividad Urbanística de la Communidad Valenciana (‘the LRAU’)) and to Valencian Urban
+         Development Law 16/of December (Ley 16/2005, de de diciembre, Urbanística Valenciana (‘the LUV’)), the Kingdom
+         of Spain has failed to fulfil its obligations under Council Directive 93/37/EEC of June concerning the coordination
+         of procedures for the award of public works contracts (OJ L 199, p. 54), as amended by Commission Directive 2001/78/EC
+         of September (OJ L 285, p. 1; ‘Directive 93/37’), and under Directive 2004/18/EC of the European Parliament and
+         of the Council of March on the coordination of procedures for the award of public works contracts, public supply contracts
+         and public service contracts (OJ L 134, p. 114), respectively.
+      
+ Legal context
+ European Union legislation
+ Directive 92/50/EEC
+The 16th recital in the preamble to Council Directive 92/50/EEC of June relating to the coordination of procedures
+         for the award of public service contracts (OJ L 209, p. 1) states:
+      
+‘… public service contracts, particularly in the field of property management, may from time to time include some works; …
+         it results from Directive 71/305/EEC that, for a contract to be a public works contract, its object must be the achievement
+         of a work; …, in so far as these works are incidental rather than the object of the contract, they do not justify treating
+         the contract as a public works contract’. 
+      
+Article of Directive 92/provides:
+      
+‘Contracts which have as their object services listed in Annex IA shall be awarded in accordance with the provisions of Titles
+         III to VI.’ 
+      
+Category No in Annex IA to Directive 92/mentions, among others, ‘[a]rchitectural services; engineering services and
+         integrated engineering services; urban planning and landscape architectural services; related scientific and technical consulting
+         services; technical testing and analysis services’.
+      
+ Directive 93/Article of Directive 93/provides:
+      
+‘For the purpose of this Directive:
+(a)      “public works contracts” are contracts for pecuniary interest concluded in writing between a contractor and a contracting
+         authority as defined in (b), which have as their object either the execution, or both the execution and design, of works related
+         to one of the activities referred to in Annex II or a work defined in (c) below, or the execution, by whatever means, of a
+         work corresponding to the requirements specified by the contracting authority; 
+      
+…
+(c)      a “work” means the outcome of building or civil engineering works taken as a whole that is sufficient of itself to fulfil
+         an economic and technical function; 
+      
+(d)      “public works concession” is a contract of the same type as that indicated in (a) except for the fact that the consideration
+         for the works to be carried out consists either solely in the right to exploit the construction or in this right together
+         with payment;
+      
+…’
+Article 6(6) of Directive 93/requires contracting authorities to observe the principle of non-discrimination. 
+      
+Articles and of Directive 93/set forth the common advertising rules and provide, in particular, for the publication
+         in full of contract notices in the Official Journal of the European Communities and the time-limits for the receipt of tenders and for the dispatch of the contract documents and additional information.
+      
+Articles to of Directive 93/lay down the qualitative selection criteria applicable to contractors among which are
+         criteria concerning the evaluation of the technical abilities of contractors.
+      
+ Directive 2004/Recital in the preamble to Directive 2004/is in the following terms: 
+      
+‘A contract shall be deemed to be a public works contract only if its subject-matter specifically covers the execution of
+         activities listed in Annex I, even if the contract covers the provision of other services necessary for the execution of such
+         activities. Public service contracts, in particular in the sphere of property management services, may, in certain circumstances,
+         include works. However, in so far as such works are incidental to the principal subject-matter of the contract, and are a
+         possible consequence thereof or a complement thereto, the fact that such works are included in the contract does not justify
+         the qualification of the contract as a public works contract.’ 
+      
+Article of Directive 2004/provides:
+      
+‘1.      For the purposes of this Directive, the definitions set out in paragraphs to shall apply.
+2(a)      “Public contracts” are contracts for pecuniary interest concluded in writing between one or more economic operators and one
+         or more contracting authorities and having as their object the execution of works, the supply of products or the provision
+         of services within the meaning of this Directive.
+      
+(b)      “Public works contracts” are public contracts having as their object either the execution, or both the design and execution,
+         of works related to one of the activities within the meaning of Annex I or a work, or the realisation, by whatever means,
+         of a work corresponding to the requirements specified by the contracting authority. A “work” means the outcome of building
+         or civil engineering works taken as a whole which is sufficient of itself to fulfil an economic or technical function.
+      
+…
+(d)      “Public service contracts” are public contracts other than public works or supply contracts having as their object the provision
+         of services referred to in Annex II.
+      
+…
+3.      “Public works concession” is a contract of the same type as a public works contract except for the fact that the consideration
+         for the works to be carried out consists either solely in the right to exploit the work or in this right together with payment.
+         
+      
+4.      “Service concession” is a contract of the same type as a public service contract except for the fact that the consideration
+         for the provision of services consists either solely in the right to exploit the service or in this right together with payment.
+         
+      
+…’
+Article of Directive 2004/requires contracting authorities to observe the principles of non-discrimination, equal treatment
+         and transparency.
+      
+Article of Directive 2004/prohibits the disclosure of information which economic operators have forwarded to contracting
+         authorities confidentially. 
+      
+Article of Directive 2004/provides that ‘[w]ithout prejudice to the application of Article 3, this Directive shall not
+         apply to service concessions as defined in Article 1(4)’.
+      
+Article of Directive 2004/lays down the rules applicable to the submission of variants by tenderers where the criterion
+         for award is that of the most economically advantageous tender. 
+      
+Article of Directive 2004/sets out the contract award criteria and requires the contracting authority to specify, where
+         the award is made to the most economically advantageous tender, the relative weighting which it gives to each of the criteria
+         chosen.
+      
+Category No in Annex IIA to Directive 2004/mentions, among others, ‘[a]rchitectural services; engineering services and
+         integrated engineering services; urban planning and landscape architectural services; related scientific and technical consulting
+         services; technical testing and analysis services’. 
+      
+ Legislation of the Autonomous Community of Valencia
+ IAPs
+The LRAU and the LUV provide for two regimes for implementing urban planning, namely isolated action, in cases of single parcels
+         of land involving their being built upon, and integrated action, which covers joint development of two or more parcels in
+         accordance with a single programme converting those parcels into plots for construction (Article 6(2) and (3) of the LRAU
+         and Articles and of the LUV).
+      
+The IAP is the planning instrument which governs the implementation of integrated action (Article 12G of the LRAU and Article
+         39(a) of the LUV). Its purpose is to determine the scope of the integrated action and the works which are to be executed,
+         to fix the time-limits applicable, to establish the technical and financial conditions governing its management, to regulate
+         the undertakings and obligations of the agent of urban development (‘the developer’) by defining its relations with the owners
+         concerned and with the administration and to determine the guarantees to ensure the observance of those obligations and the
+         penalties applicable (Article 29(2) of the LRAU and Article 117(1) of the LUV). 
+      
+In particular, IAPs must make specific provision to attain the following necessary objectives: urban development of all the
+         plots; connection of the plots concerned to and their integration with the existing infrastructure, energy, communications
+         and public services networks; obtaining, for the administration free of charge, plots for public services; obtaining, for
+         the administration free of charge, the legally applicable right to build for the public land bank; management of the legal
+         conversion of the plots concerned and the equitable division of the costs and benefits between the parties concerned (Article
+         of the LRAU and Article of the LUV).
+      
+Although the implementation of isolated action may be public or private, that of IAPs is always public, and the administration
+         is entitled to decide whether their management will be direct or indirect (Article 7(1) and (2) of the LRAU and Article 117(4)
+         of the LUV). Management is direct when all the works and investments are financed by public funds and managed by the administration,
+         its bodies, entities, or public undertakings (Article 7(2) of the LRAU and Article 117(4) of the LUV) without the right to
+         receive any commercial profit (Article 128(4) of the LUV). On the other hand, in cases of indirect management, the administration
+         delegates the status of developer to an individual, whether or not he is the owner of the plots, selected by a competitive
+         public tendering procedure (Article 7(2) of the LRAU and Article 117(4) of the LUV). 
+      
+ Indirect management
+Within the framework of indirect management of IAPs, the developer is the public agent responsible for the development and
+         for the execution of the urban planning activities designated by the IAP, which include, in any event, the preparation of
+         the technical documents established in the bases, the proposal for and management of the corresponding land consolidation
+         project, as well as the recourse to the building contractor responsible for the implementation of the planning project, in
+         the cases and according to the conditions laid down by law. The developer will have to finance the cost of the investments,
+         works, installations, and compensation necessary for the execution of the programme, which will have to be guaranteed in and
+         according to sufficient proportions, the cost of which can be passed on to the ownership of the building plots arising therefrom
+         either by compensation in developed plots or by payment in cash by the owners of the developed plots resulting from the integrated
+         action (Article 29(9A) of the LRAU and Articles and 162(1) of the LUV). Those costs include, in particular, the costs of
+         the urban development works and the developer’s commercial profit, which is limited, under the LUV, to 10% of the development
+         costs (Article 67(1) of the LRAU and Article of the LUV). 
+      
+The owners concerned by integrated action may cooperate in it, by contributing their undeveloped plots and receiving, in exchange,
+         developed plots. They may, in particular, either participate proportionally in the development costs by granting a part of
+         their plots to the developer, or by paying in cash, as consideration to the developer, their proportion of the development
+         costs (Article 29(9B) of the LRAU and Article 162(2) of the LUV). 
+      
+Owners who expressly decline to cooperate may seek expropriation on the basis of the original value of the plots concerned
+         (Article 29(9C) of the LRAU and Article 162(3) of the LUV).
+      
+The administration exercises, of its own motion or at the developer’s request, its public rights and powers such as expropriation
+         or compulsory consolidation where they are necessary to implement an IAP (Articles 29(10), and of the LRAU and Articles
+         162(3) and of the LUV).
+      
+ The award and approval procedure 
+–       The LRAU
+Under Article of the LRAU, the procedure may be commenced on the initiative of a public body or of an individual, whether
+         or not he owns the plots to be developed.
+      
+Under Article 45(1) of the LRAU, any individual may request the administration to make public a technical tender for an IAP
+         which must contain a copy of the development certificate issued by the competent administration or of its request covering
+         the minimum conditions for connection and integration of the proposal for integrated action, as well as the preliminary draft
+         of the development with descriptions of the development works to be carried out. 
+      
+Under the terms of Article 45(2) of the LRAU, the administration may either reject that request or submit it to a public inquiry,
+         if appropriate with observations or alternatives. 
+      
+Article of the LRAU provides that publication of the proposal for an IAP drawn up by an individual or, in the case of a
+         public initiative, by the competent administration, is to be in a general information journal and in the Official Journal
+         of the Autonomous Community of Valencia. In accordance with the same provision, during the public information phase, observations
+         or technical tenders are accepted. At the conclusion of the public information phase, tenderers may submit legal and financial
+         tenders. Observations and technical tenders are to be submitted, in open envelopes, within a period of days from the publication
+         of the proposal for the IAP and legal and financial tenders, in closed envelopes, within five days following the expiry of
+         the previous period, which may be extended by days. 
+      
+Article 46(2) of the LRAU mentions the documents which are to form part, first, of the technical tender, namely, in particular,
+         the description of the development works, and, second, of the legal and financial tender including the detailed rules concerning
+         relations between the developer and the owners, any agreements already existing with the latter, an estimate, even if preliminary
+         and approximate, of the costs of the development works and the developer’s consideration with reference to correction indices
+         in relation to the estimate of the costs of the development works. 
+      
+Under Article of the LRAU, the administration may either reject all the tenders and, if appropriate, decide to manage the
+         IAP directly, or approve the IAP defining its content by the selection of a technical tender and a legal and financial tender
+         from those submitted, making the partial amendments to them which it considers expedient. Concurrently, the administration
+         may award the IAP to the tenderer of a legal and financial tender relating to the most appropriate technical tender. That
+         award is to be made according to the award criteria which are mentioned in it, including the guarantees or possibilities of
+         collaboration of the owners concerned to facilitate or ensure the implementation of the integrated action. 
+      
+The administration and the developer are to execute an urban development agreement containing, in accordance with Article
+         32(c) of the LRAU, their respective undertakings, the time‑limits, the guarantees provided by the developer, as well as the
+         penalties laid down for the developer’s breach of its obligations. 
+      
+Article of the LRAU provides for a simplified procedure on the initiative of an individual. 
+      
+Under Article 67(3) of the LRAU, the costs initially provided for in the IAP may be re-evaluated during the approval of the
+         development project for objective reasons which were not foreseeable by the developer. 
+      
+–       The LUV
+Under Article of the LUV, the procedure for the award and approval of an IAP may be commenced on the initiative of a public
+         body or of an individual, whether or not they are owners of the plots.
+      
+Under Article 130(2) of the LUV, individuals may accompany their request with a planning document specifying the detailed
+         or structural arrangement of the development which is proposed as well as documents referred to in Article 131(2)(a) to (e)
+         of the LUV. 
+      
+Under Article 130(3) of the LUV, the administration may reject the individual’s request, commence the procedure for indirect
+         management, or decide to have recourse to direct management. 
+      
+Under the terms of Article 130(5) of the LUV, the administration’s failure to respond is taken to be agreement, if the tender
+         submitted by the first tenderer involves execution of the structural planning directives in force and the administration does
+         not reply to the request within a period of three months.
+      
+Under Article 131(2) of the LUV, the decision to commence the procedure for indirect management of an IAP also implies approval
+         of the particular specifications governing the procedure for the award of the IAP. They must state whether variants are accepted,
+         define the aspects for which tenderers may propose variants and lay down the minimum conditions which they must fulfil.
+      
+According to the terms of Article 132(2) and (4) of the LUV, the public competition for the award of an IAP must be published,
+         at least, in the Official Journal of the European Union and in the Official Journal of the Autonomous Community of Valencia, irrespective of the IAP’s estimated value.
+      
+Under Article of the LUV, tenderers’ tenders are to contain the documents relating to the capacities required, to the
+         technical tender and to the legal and financial tender.
+      
+The criteria for evaluating the technical and professional capacity of tenderers are set out in Article of the LUV.
+      
+The content of the technical tender is specified in Article of the LUV. 
+      
+The content of the legal and financial tender is, for its part, specified in Article of the LUV, under which it must contain
+         terms governing relations between the developer and the owners concerned and, in particular, the detailed rules concerning
+         the consideration for it as well as sufficient information to enable the owners to ascertain the financial consequences which
+         the tender in question involves for them. The financial and legal tender must establish, in particular, the expected development
+         costs, the developer’s profit and the exchange coefficient applicable in case of payment in plots.
+      
+Article 135(3) of the LUV sets out the criteria for the award of the IAP which will have to be evaluated as regards the technical
+         tender. 
+      
+Article 135(4) of the LUV sets out the criteria for the award of the IAP which will have to be evaluated as regards the legal
+         and financial tender, particularly the amount of the development costs as well as the lowest proportion of building plots
+         or rights to build made available to the developer by compulsory consolidation or the highest proportion of its own or its
+         associates’ plots which must be used to comply with the special obligations to build arising from approval of the IAP. 
+      
+Article of the LUV contains provisions applicable to the award and approval of the IAP. Under Article 137(5) of the LUV,
+         if the IAP amends structural planning, approval by the administration is conditional on the final authorisation of the regional
+         government.
+      
+Article of the LUV requires the contract with the developer to be executed in the form of an administrative document within
+         a month following the date of the award of the contract. That article lists the matters which must be included in the contract.
+         
+      
+Under Article 143(4)(d) of the LUV, in the event of termination of the contract with the developer, the administration may
+         request tenderers who submitted legal and financial tenders relating to the technical tender which was accepted to pursue
+         the execution of the programme, and, alternatively, launch a call for tenders on the basis of the technical tender accepted
+         at the conclusion of the first call for tenders. 
+      
+Under Article 155(6) and (7) of the LUV, the administration may make amendments to the development project contained in the
+         tender accepted on the award of an IAP where the changes thus made represent an increase not exceeding 20% of the cost of
+         the development works.
+      
+According to Article 168(3) of the LUV, the maximum amount of the development costs may not be increased unless they are re-evaluated,
+         which may not involve an increase of the part of the development costs corresponding to the developer’s profit.
+      
+As regards the execution of the development works, the LUV requires that it be entrusted to a building contractor selected
+         by the developer within the framework of a public competition, in accordance with the rules for the award of public contracts.
+         Neither the developer concerned nor undertakings linked to it may participate in that public competition.
+      
+Under the first transitional provision of the LUV, IAPs commenced before its entry into force, which was on February 2006,
+         are governed by the LRAU provided that, before that date, they were the object of municipal approval or the maximum period
+         for making an express decision on that approval had expired.
+      
+ The pre-litigation procedure and the Commission’s action
+Following complaints, the Commission, by a letter of formal notice of March 2005, informed the Kingdom of Spain that several
+         provisions of the LRAU relating to the award of IAPs were, in its view, contrary to Directives 93/and 92/50. The Kingdom
+         of Spain replied to that letter of formal notice by a letter of March 2005, claiming that the award of IAPs did not constitute
+         a contract governed by those directives. It referred, also, to the draft adoption of the LUV, which also gave rise to contacts
+         and an exchange of letters between it and the Commission.
+      
+Since it was not satisfied by the Kingdom of Spain’s explanations and since it considered the award of IAPs under the LRAU
+         constituted a failure to fulfil its obligation under those directives, the Commission, on December 2005, issued a reasoned
+         opinion with which that Member State had to comply within a period of three weeks expiring on January 2006.
+      
+In its reply dated January to the reasoned opinion, the Kingdom of Spain referred to the adoption of the LUV repealing
+         the LRAU, the entry into force of the LUV being envisaged for February 2006. Following exchanges with the Commission, that
+         Member State, by letter of March 2006, made some additional observations. 
+      
+In the light of the persistence of the alleged infringement and the expiry of the time‑limit laid down for the transposition
+         of Directive 2004/18, the Commission, on April 2006, sent the Kingdom of Spain an additional letter of formal notice to
+         which the latter replied by letter of July 2006. 
+      
+Since it considered, first, that the LUV and, second, the award of IAPs under the LRAU between March and January
+         constituted breach, in particular, of Directive 2004/18, the Commission issued an additional reasoned opinion dated October 2006.
+      
+Since the Kingdom of Spain maintained its position in its reply, dated January 2007, to the additional reasoned opinion,
+         the Commission brought the present action, seeking from the Court a declaration that the Kingdom of Spain has: 
+      
+–        by awarding IAPs pursuant to the LRAU, failed to fulfil its obligations under Articles 1, 6(6), 11, and to of Directive
+         93/37; and
+      
+–        by awarding IAPs pursuant to the LUV, failed to fulfil its obligations under Articles 2, 6, 24, 30, 31(4)(a) and of Directive
+         2004/18.
+      
+ The application to reopen the oral procedure
+By letter dated November 2010, the Commission requested that the oral procedure be reopened, submitting, in essence, that
+         the issue of the competent administration’s financial participation, as analysed by the Advocate General in his Opinion, constitutes
+         an essential element of the dispute and requires additional clarification.
+      
+In that regard, it is appropriate to note that the Court may of its own motion, or on a proposal from the Advocate General,
+         or at the request of the parties, order the reopening of the oral procedure in accordance with Article of the Rules of
+         Procedure if it considers that it lacks sufficient information, or that the case must be dealt with on the basis of an argument
+         which has not been debated between the parties (see, in particular, Case C‑42/Liga Portuguesa de Futebol Profissional and Bwin International [2009] ECR I‑7633, paragraph and the case-law cited). 
+      
+However, neither the Statute of the Court of Justice of the European Union nor its Rules of Procedure make provision for the
+         parties to submit observations in response to the Advocate General’s Opinion (see Liga Portuguesa de Futebol Profissional and Bwin International, paragraph 32).
+      
+The Court considers, having heard the Advocate General, that it has all the material necessary for it to decide the dispute
+         before it and that the case does not have to be examined in the light of arguments that have not been the subject of discussion
+         before it. Therefore, there is no need to order the reopening of the oral procedure. 
+      
+ The action 
+ Admissibility
+The Kingdom of Spain raises the partial inadmissibility of the action so far as it concerns breach of Directive 93/by the
+         LRAU. In that regard, the Kingdom of Spain considers that the fact that the first reasoned opinion could require that the
+         LRAU be adapted to Directive 93/instead of referring to Directive 2004/18, the time‑limit for the transposition of which
+         into domestic law was on the point of expiring, can be criticised.
+      
+In the Kingdom of Spain’s submission, the LRAU ceased to be applied on the entry into force of the LUV and the Commission
+         has not established the approval of a significant number of IAPs under the LRAU during the period prior to the LUV coming
+         into effect. Furthermore, the Kingdom of Spain submits that, where national and Community legislation was repealed, as in
+         this case, more than two years before the bringing of proceedings, there is no longer any point in pursuing the proceedings.
+      
+In that respect, it is with regard to the legislation in force on January 2006, the date on which the period prescribed
+         in the first reasoned opinion of December expired, that it must be decided whether the alleged infringement occurred.
+         On that date both the LRAU and Directive 93/were in force.
+      
+As regards the time at which the Commission chose to bring the proceedings against the Kingdom of Spain, it is sufficient
+         to observe that it is for the Commission, in performing the task conferred upon it by Article EC, to ensure that the provisions
+         of the Treaty are applied and verify whether the Member States have acted in accordance with those provisions. If the Commission
+         considers that a Member State has infringed provisions of the Treaty, it is for it to determine whether it is expedient to
+         take action against that State and what provisions the State has infringed, and to choose the time at which it will initiate
+         infringement proceedings; the considerations which determine its choice of time cannot affect the admissibility of its action
+         (see Case C‑35/Commission v Italy [1998] ECR I‑3851, paragraph 27; Case C‑33/Commission v Luxembourg [2005] ECR I‑10629, paragraph 66; and Case C‑531/Commission v Italy [2009] ECR I‑4103, paragraph 23). 
+      
+In the light of the foregoing, the plea of inadmissibility submitted by the Kingdom of Spain must be rejected. 
+      
+ Substance
+ Arguments of the parties
+The Commission submits that several aspects of the procedure for awarding and approving IAPs in indirect management under
+         the LRAU and the LUV are, respectively, contrary to Articles 1, 6(6), 11, and to of Directive 93/and to Articles
+         2, 6, 24, 30, 31(4)(a) and of Directive 2004/18.
+      
+The Commission submits that the relationship between the administration and the developer constitutes, under Directives 93/and 2004/18, a public contract the principal object of which, as is clear from the description of integrated action, is the
+         execution of public infrastructure and urban development works. 
+      
+The fact that the physical execution of those works must, within the framework of the LUV, be entrusted by the developer to
+         a building contractor does not in the least alter the classification of the contract as a works contract since it is the developer
+         which undertakes to the administration to carry them out.
+      
+As regards the pecuniary interest of the award and the approval of IAPs, the Commission observes that the LRAU and the LUV
+         put in place a system in which there is a bilateral contract between the developer and the local authority under which the
+         consideration moving to the local authority relates directly to the execution of public works and the supply of certain connected
+         services. In addition, the developer receives from the landowners a sum of money or its equivalent in plots. 
+      
+The Commission submits that the pecuniary interest of the contract finds expression in the administration’s decision to approve
+         the IAP and to select the developer as well as in its exercise of its public rights and powers to guarantee compliance with
+         the provisions of the approved IAP.
+      
+The Commission adds that, if the administration decides to manage the IAP directly, it must carry out the projects itself
+         and expend the sums necessary for the works. In that case, it incurs costs which it then passes on to the owners whereas,
+         if it opts for indirect management, the administration expends nothing, but nor does it receive anything. The Commission concludes
+         that, by opting for indirect management, the administration ceases entirely to receive certain monies, and the fact that it
+         also does not bear certain expenses in no way qualifies that statement. 
+      
+Lastly, the Commission submits, as is clear particularly from Case C‑399/Ordine degli Architetti and Others [2001] ECR I‑5409, paragraphs and 84, and Case C‑220/Auroux and Others [2007] ECR I‑385, paragraphs and 57, that payments by third parties are indicative of pecuniary interest.
+      
+In its reply, the Commission observes that the Tribunal Supremo (Supreme Court, Spain) has made an interpretation which is
+         diametrically opposed to that maintained in this case by the Kingdom of Spain and which essentially mirrors the Commission’s
+         analysis.
+      
+The Kingdom of Spain submits, for its part, that the relationship between the administration and the developer constitutes,
+         having regard to the method of remunerating the developer, not a public works contract but a public service concession which
+         does not come within the scope of Directives 93/and 2004/18, and that, therefore, the award of IAPs is subject to the principles
+         of primary European Union law.
+      
+The Kingdom of Spain submits that the Commission is confusing IAPs with planning projects, when the execution of public works
+         does not constitute the exclusive, or even fundamental, purpose of IAPs. Approval of an IAP, by means of an award, also involves
+         the financing and management of land consolidation as well as the assignment of development works to service providers. The
+         developer is therefore also financially responsible for the execution of the works and is liable to carry out the necessary
+         administrative procedures in order to guarantee that the operations are free of charge for the administration and that the
+         land‑related costs and profits from them are fairly divided between the owners.
+      
+The Kingdom of Spain also contends that there is no pecuniary interest bearing on the administration since the developer’s
+         remuneration is provided exclusively by the owners.
+      
+First of all, the owner’s obligation to finance the costs of planning and, therefore, to remunerate the developer does not
+         arise from a unilateral decision of the administration, but from its voluntary decision to participate in the land consolidation
+         and thus to obtain the benefit of new plots for building.
+      
+Next, the LRAU and the LUV do not provide for any guarantee of payment from public funds from which a contract for consideration
+         arises between the administration and the developer, which is responsible to the administration even if the building contractor
+         or the owners do not comply with their respective obligations. 
+      
+Finally, the choice of indirect management in place of direct management does not involve consideration, any more than the
+         exercise by the administration of its public rights and powers for the purposes of land consolidation or expropriation. 
+      
+In the light of those considerations, the Kingdom of Spain contends that the developer must be regarded not as a ‘successful
+         tenderer’ for a contract in the strict sense, but as a ‘concessionaire’, since the developer’s remuneration depends on the
+         exploitation on the market of building plots and not on a fixed price guaranteed by the administration. In particular, it
+         assumes the characteristics of a service concessionaire, since the financial management of the land consolidation is the most
+         relevant function from the economic point of view.
+      
+The Kingdom of Spain contends, also, that the Commission’s argument is contrary to the effectiveness of Directives 93/and
+         2004/18. 
+      
+ Findings of the Court 
+As a preliminary point, it should be noted that the present action relates only to the award of contracts for urban development
+         under laws adopted successively by the Autonomous Community of Valencia on the basis of its regional powers in respect of
+         urban development, land use and town and country planning.
+      
+More particularly, the Commission criticises the Kingdom of Spain for awarding IAPs, that is to say integrated action programmes
+         for the joint urban development of several parcels in accordance with a single programme converting those parcels into building
+         plots, pursuant, first, to the LRAU and, second, to the LUV, in breach of Directives 93/and 2004/respectively. 
+      
+The Commission’s complaints concern only the procedure for approving IAPs in indirect management, which, under the legislation
+         in question, involves the delegation, by the competent contracting authority to an individual, of the status of developer,
+         selected according to a competitive public procedure whether or not the developer owns the plots concerned.
+      
+In that regard, the Commission submits that the urban development contracts in question must be classified as ‘public works
+         contracts’ and must on that basis comply with the requirements laid down by Directive 93/and, later, Directive 2004/18.
+         That follows, as regards the complaints in respect of the LRAU, from the legal basis of the action limited to breach of Directive
+         93/alone and, as regards the complaints in respect of the LUV, from the additional reasoned opinion, as the Commission
+         notes in its application and as it confirmed at the hearing.
+      
+As regards the concept of ‘public works contracts’ within the meaning of Article 1(a) of Directive 93/and of Article 1(2)(b)
+         of Directive 2004/18, it must be observed that it covers contracts for pecuniary interest, concluded in writing between one
+         or more economic operators and one or more contracting authorities and having as their object either the execution, or both
+         the design and execution, of works related to one of the activities referred to in Annex II to Directive 93/or Annex I
+         to Directive 2004/or of a work defined in Article 1(c) of Directive 93/or Article 1(2)(b) of Directive 2004/18, or the
+         execution, by whatever means, of a work corresponding to the requirements specified by the contracting authority. 
+      
+In addition, it is clear from the 16th recital in the preamble to Directive 92/and from recital in the preamble to Directive
+         2004/18, in conjunction with Article 1(a) of Directive 93/and Article 1(2)(b) of Directive 2004/respectively, that a
+         contract can be deemed to be a ‘public works contract’ only if its subject-matter corresponds to the definition given in the
+         preceding paragraph and that works which are incidental to, and not the subject‑matter of, the contract do not justify the
+         contract’s qualification as a public works contract.
+      
+It is clear, moreover, from the case-law of the Court that, where a contract contains elements relating both to a public works
+         contract and another type of contract, it is the main object of the contract which determines which body of European Union
+         rules on public contracts is to be applied in principle (see, to that effect, Auroux and Others, paragraph 37).
+      
+That determination must be made in the light of the essential obligations which predominate and which, as such, characterise
+         the transaction, as opposed to those which are only ancillary or supplementary in nature and are required by the very object
+         of the contract (Case C‑412/Commission v Italy [2008] ECR I‑619, paragraph 49).
+      
+In this case, it must be observed that the Commission confines itself to putting forward the argument that the urban development
+         contracts at issue must be classified as ‘public works contracts’ on the ground that the main object of IAPs is, for the purposes
+         of Articles 1(c) of Directive 93/and 1(2)(b) of Directive 2004/18, a ‘work’ of urban development of two or more parcels
+         leading to the construction of highway access by a paved road, the distribution of drinking water and electricity, the evacuation
+         of waste water from gutters and public lighting. In that regard, the Commission observes that the services provided by the
+         developer, such as the preparation of technical documents, the drawing-up and management of the development project or even,
+         under the LUV, the selection of the contractor which will carry out the works, are instrumental and ancillary.
+      
+It is also appropriate to observe that the Kingdom of Spain rejects the Commission’s assessment that IAPs should be classified
+         as a ‘work’, in the sense of Directives 93/and 2004/18, and contends that the execution of such a work does not constitute
+         its exclusive or even fundamental purpose. To that effect, that Member State contends that the developer is also financially
+         liable for the execution of the works and is likewise responsible for taking the necessary steps to guarantee that the operations
+         are free of charge for the administration, and that the costs relating to them and the corresponding land-related profits
+         are fairly divided between the owners of the building plots who finance them. In addition, that Member State contends that
+         the contracts at issue must be classified as ‘service concessions’, within the meaning of Article 1(4) of Directive 2004/18.
+      
+According to settled case-law, in proceedings under Article EC for failure to fulfil obligations, it is for the Commission
+         to prove that failure. It is the Commission, indeed, which must place before the Court all the information needed to enable
+         the Court to establish that failure, and in so doing the Commission may not rely on any presumptions (Case C‑490/Commission v Luxembourg [2011] ECR I‑0000, paragraph and the case-law cited). 
+      
+In that regard and as regards the nature of the activities for which the developer is responsible, notwithstanding the Kingdom
+         of Spain’s analysis, the Commission has not sought to substantiate its own allegations or to refute those of the defendant
+         Member State by detailed examination of that information.
+      
+Indeed, it has not been established that the works consisting of the connection and integration of the plots concerned to
+         the existing infrastructure, energy, communications and public services networks constitute the main object of the contract
+         concluded between the community and the developer within the framework of an IAP in indirect management. In fact, the execution
+         of the IAP by the developer includes, as is clear particularly from paragraphs and of the present judgment, activities
+         which cannot be classified as ‘works’, within the meaning of the directives relied on by the Commission in its application,
+         namely the preparation of the development plan, the proposal and management of the corresponding land consolidation project,
+         obtaining for the administration free of charge plots for public ownership and for the community’s public land bank, management
+         of the legal conversion of the plots concerned or even the equitable division of the costs and profits between the parties
+         concerned as well as the transactions for financing and guaranteeing the cost of the investments, works, installations and
+         compensation necessary for the execution of the IAP. Such is also the case where the developer, as stated in Article 119(1)
+         of the LUV, must organise the public competition for the appointment of the building contractor to which the execution of
+         the urban development works is to be entrusted.
+      
+In addition, some of the activities which IAPs involve, under both the LRAU and the LUV as stated in the preceding paragraph,
+         seem to correspond, by their nature, to the activities referred to in Category No in Annexes IA to Directive 92/and
+         IIA to Directive 2004/18, relating to the services referred to, respectively, in Article 1(a) of Directive 92/and Article
+         1(2)(d) of Directive 2004/18.
+      
+It follows that the Commission has not proved that the main object of the contract concluded between the local authority and
+         the developer is a public works contract within the meaning of Directive 93/or Directive 2004/18, which is a condition
+         precedent to a declaration of the alleged failure to fulfil obligations.
+      
+It follows from the foregoing that the Commission’s action must be dismissed. 
+      
+ Costs
+Under Article 69(2) of the Rules of Procedure, the unsuccessful party is to be ordered to pay the costs if they have been
+         applied for in the successful party’s pleadings. Since the Kingdom of Spain has applied for costs and the Commission has been
+         unsuccessful, the Commission must be ordered to pay the costs. 
+      
+On those grounds, the Court (Third Chamber) hereby:
+1.      Dismisses the action;
+2.      Orders the European Commission to pay the costs. 
+[Signatures]
+* Language of the case: Spanish.
+      
+Top  

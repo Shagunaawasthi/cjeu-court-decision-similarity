@@ -1,0 +1,130 @@
+
+JUDGMENT OF THE COURT (First Chamber)
+March (
+*)
+(Reference for a preliminary ruling — Common system of value added tax (VAT) — Directive 2006/112/EC — Article 132(1)(i) and (j) — Exemption for certain activities in the public interest — School or university education — Concept — Driving school tuition provided by a driving school)
+In Case C‑449/17,
+REQUEST for a preliminary ruling under Article TFEU from the Bundesfinanzhof (Federal Finance Court, Germany), made by decision of March 2017, received at the Court on July 2017, in the proceedings
+A & G Fahrschul-Akademie GmbH
+v
+Finanzamt Wolfenbüttel,
+THE COURT (First Chamber),
+composed of R. Silva de Lapuerta, Vice-President of the Court, acting as President of the First Chamber, A. Arabadjiev, E. Regan (Rapporteur), C.G. Fernlund and S. Rodin, Judges,
+Advocate General: M. Szpunar,
+Registrar: M. Aleksejev, Head of Unit,
+having regard to the written procedure and further to the hearing on June 2018,
+after considering the observations submitted on behalf of:
+–
+A & G Fahrschul-Akademie GmbH, by D. Hippke, Steuerberater, and A. Hüttl, Rechtsanwalt,
+–
+the German Government, by T. Henze and R. Kanitz, acting as Agents,
+–
+the Spanish Government, by S. Jiménez García, acting as Agent,
+–
+the Italian Government, by G. Palmieri, acting as Agent, assisted by F. Urbani Neri, avvocato dello Stato,
+–
+the Austrian Government, by G. Eberhard, acting as Agent,
+–
+the Portuguese Government, by L. Inez Fernandes, M. Figueiredo and R. Campos Laires, acting as Agents,
+–
+the Finnish Government, by S. Hartikainen, acting as Agent,
+–
+the European Commission, by R. Lyal and B.-R. Killmann, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on October 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 132(1)(i) and (j) of Council Directive 2006/112/EC of November on the common system of value added tax (OJ L 347, p. 1).
+The request has been made in proceedings between A & G Fahrschul-Akademie GmbH (‘A & G’) and Finanzamt Wolfenbüttel (tax office, Wolfenbüttel, Germany; ‘the tax office’) concerning the refusal by the tax office to exempt from value added tax (VAT) services relating to motor vehicle driving tuition provided by A & G for the purpose of acquiring driving licences for vehicles in categories B and Creferred to in Article 4(4) of Directive 2006/126/EC of the European Parliament and of the Council of December on driving licences (OJ L 403, p. 18).
+Legal context
+EU law
+Directive 2006/Title IX of Directive 2006/is entitled ‘Exemptions’. That title contains, inter alia, a Chapter 2, headed ‘Exemptions for certain activities in the public interest’, containing Article 132, which provides, in paragraph thereof, that Member States are to exempt the following transactions:
+‘…
+(i)
+the provision of children’s or young people’s education, school or university education, vocational training or retraining, including the supply of services and of goods closely related thereto, by bodies governed by public law having such as their aim or by other organisations recognised by the Member State concerned as having similar objects;
+(j)
+tuition given privately by teachers and covering school or university education;
+…’
+Directive 2006/Recital of Directive 2006/states:
+‘On road safety grounds, the minimum requirements for the issue of a driving licence should be laid down. Standards for driving tests and licensing need to be harmonised. To this end the knowledge, skills and behaviour connected with driving motor vehicles should be defined, the driving test should be based on these concepts and the minimum standards of physical and mental fitness for driving such vehicles should be redefined.’
+Article of that directive provides:
+‘1.   The driving licence provided for in Article shall authorise the driving of power-driven vehicles in the categories defined hereafter. It may be issued from the minimum age indicated for each category. A “power-driven vehicle” means any self-propelled vehicle running on a road under its own power, other than a rail-borne vehicle.
+…
+4.   motor vehicles:
+…
+(b)
+Category B:
+motor vehicles with a maximum authorised mass not exceeding kg and designed and constructed for the carriage of no more than eight passengers in addition to the driver; motor vehicles in this category may be combined with a trailer having a maximum authorised mass which does not exceed kg.
+…
+(d)
+Category C1:
+motor vehicles other than those in categories Dor D, the maximum authorised mass of which exceeds kg, but does not exceed kg, and which are designed and constructed for the carriage of no more than eight passengers in addition to the driver; motor vehicles in this category may be combined with a trailer having a maximum authorised mass not exceeding kg;
+…’
+German law
+In accordance with Paragraph 4(21) of the Umsatzsteuergesetz (Law on Turnover Tax), in the version published on February (BGB1. I, p. 386), the following transactions covered by Paragraph 1(1)(1) of that law are exempt from tax:
+‘(a)
+the services of private schools and other general education or vocational training organisations directly serving the purpose of schooling and education,
+(aa)
+where they are approved at federal level as substitute schools in accordance with Article 7(4) of the Basic Law (Grundgesetz) or are permitted under the law of the Land, or
+(bb)
+where the competent authority of the Land certifies that they are in due preparation for a profession or for an examination to be taken before a legal person governed by public law,
+(b)
+the tuition services of independent teachers directly serving the purpose of schooling and education
+(aa)
+for universities within the meaning of Paragraphs and of the Hochschulrahmengesetz (Framework Law on higher education) and public general education or vocational training schools, or
+(bb)
+for private schools and other general education or vocational training organisations, provided they satisfy the requirements set out under letter (a);
+…’
+Paragraph of the Verordnung über die Zulassung von Personen zum Straßenverkehr (Regulation on the authorisation of persons to drive on the highway), in the version of December (BGBl. I, p. 1980), provides:
+‘(1)   Driving licences are issued for the following categories:
+…
+Category B: [Article 4(4)(b) of Directive 2006/126]
+…
+Category C1: [Article 4(4)(d) of Directive 2006/126]
+…’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+A & G operates a driving school in the legal form of a limited liability company. It did not show the amount of turnover tax due separately in the invoices which it issued. For the tax year (‘the period at issue’), it initially declared taxable transactions. The tax office relied on A & G’s turnover tax declaration.
+By letter of December 2014, A & G applied for the amount owed by it in terms of VAT to be reduced to zero, a request which the tax office turned down. A & G’s objection and action against that decision of the tax office were dismissed. The Finanzgericht (Finance Court, Germany) held, inter alia, that A & G could not rely on the tax exemption referred to in Article 132(1)(j) of Directive 2006/112. The services provided by A & G, consisting in the provision of theoretical tuition and practical driving instruction, were not, that court found, covered by the concept of ‘school or university education’ within the meaning of that provision, since, by virtue of a recommendation for road safety education at school in force during the period at issue, practical driving instruction was neither a necessary nor a desirable component of such education.
+A & G contests that decision of the Finanzgericht (Finance Court) in its appeal on a point of law (‘Revision’) before the referring court, the Bundesfinanzhof (Federal Finance Court, Germany). To that end, it submits, inter alia, that the national legislature’s objective concerning driving tuition in a driving school is to educate road users to act responsibly.
+Furthermore, according to the applicant, practical driving instruction provided by a driving school and road safety training courses organised by, inter alia, the Allgemeiner Deutscher Automobil-Club (German Automobile Club) serve the same objectives. Therefore, in its view, it would be contrary to the principle of neutrality to tax those comparable activities differently.
+The referring courts states that, under national law, the services offered by A & G are not exempt, as it does not fulfil the requirements laid down in Paragraph 4(21)(a) or (b) of the Law on Turnover Tax, in the version published on February 2005. However, it takes the view that A & G might be able to rely on Article 132(1)(i) or (j) of Directive 2006/112.
+In that regard, the referring court is inclined to the view that the activities of the applicant in the main proceedings come within the concept of ‘school or university education’ within the meaning of Article 132(1)(i) and (j) of Directive 2006/112.
+On the other hand, it has doubts as to whether A & G fulfils the other criteria laid down by those provisions, in so far as it is uncertain whether A & G can be recognised as ‘an organisation … having similar objects’ to bodies governed by public law for the purposes of Article 132(1)(i) of that directive or whether its activities can be regarded as coming within the scope of tuition given privately by teachers and covering school or university education within the meaning of Article 132(1)(j) of that directive.
+In those circumstances, the Bundesfinanzhof (Federal Finance Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Does the concept of “school or university education” in Article 132(1)(i) and (j) of Directive [2006/112] cover driving school tuition to acquire category B and category Cdriving licences?
+(2)
+If the answer to the first question is in the affirmative, can the applicant [in the main proceedings be recognised] as “an organisation having similar objects” for the purposes of Article 132(1)(i) of Directive [2006/112] on the basis of the provisions on the driving instructor examination and the issue of a driving instruction and driving school licence in [the Gesetz über das Fahrlehrerwesen (Law on driving instructors) of August 1969], and of the public interest in the training of learner drivers to be safe, responsible and environmentally aware road users?
+(3)
+If the answer to the second question is in the negative, does the term “tuition given privately by teachers” contained in Article 132(1)(j) of Directive [2006/112] require that the taxable person be an individual trader?
+(4)
+If the answers to the second and third questions are in the negative, is an instructor always providing tuition privately within the meaning of Article 132(1)(j) of Directive [2006/112] if he acts on his own account and at his own risk, or must further requirements be met to qualify as a private teacher?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks, in essence, whether the concept of ‘school or university education’, within the meaning of Article 132(1)(i) and (j) of Directive 2006/112, must be interpreted as covering motor vehicle driving tuition provided by a driving school, such as that at issue in the main proceedings, for the purpose of acquiring driving licences for vehicles in categories B and Creferred to in Article 4(4) of Directive 2006/126.
+Article of Directive 2006/provides for exemptions which, as indicated by the title of the chapter in which that provision features, are intended to encourage certain activities in the public interest. However, those exemptions do not cover every activity performed in the public interest, but only those listed in that provision and described in great detail (judgment of May 2017, Brockenhurst College, C‑699/15, EU:C:2017:344, paragraph and the case-law cited).
+According to the case-law of the Court, those exemptions constitute autonomous concepts of EU law which have the purpose of avoiding divergences in the application of the VAT system from one Member State to another (see, to that effect, judgment of October 2017, The English Bridge Union, C‑90/16, EU:C:2017:814, paragraph and the case-law cited).
+The terms used to specify the exemptions referred to in Article of Directive 2006/are to be interpreted strictly, since they constitute exceptions to the general principle, arising from Article of that directive, that VAT is to be levied on all services supplied for consideration by a taxable person. However, that requirement of strict interpretation does not mean that the terms used to specify the exemptions referred to in Article should be construed in such a way as to deprive them of their intended effect (judgment of May 2017, Brockenhurst College, C‑699/15, EU:C:2017:344, paragraph and the case-law cited).
+It must be recalled that Article 132(1)(i) and (j) of that directive contains no definition of the concept of ‘school or university education’.
+The Court has, however, first, taken the view that the transfer of knowledge and skills between a teacher and students is a particularly important element of educational activity (judgment of June 2007, Horizon College, C‑434/05, EU:C:2007:343, paragraph 18).
+Second, the Court has stated that the concept of ‘school or university education’, within the meaning of Directive 2006/112, is not limited solely to education which leads to examinations for the purpose of obtaining qualifications or which provides training for the purpose of carrying out a professional or trade activity, but includes other activities which are taught in schools or universities in order to develop pupils’ or students’ knowledge and skills, provided that those activities are not purely recreational (judgment of January 2010, Eulitz, C‑473/08, EU:C:2010:47, paragraph and the case-law cited).
+In that regard, it must be noted, as the Advocate General observes in point of his Opinion, that, in accordance with that settled case-law, activities which are not purely recreational are likely to be covered by the concept of ‘school or university education’ as long as the tuition is provided in schools or universities.
+Thus, the concept of ‘school or university education’ within the meaning of Article 132(1)(i) and (j) of Directive 2006/covers activities which are different both because of their specific nature and by reason of the framework in which they are carried out (see, to that effect, judgment of June 2007, Horizon College, C‑434/05, EU:C:2007:343, paragraph 20).
+It follows that, as the Advocate General observes in points to of his Opinion, by that concept, the EU legislature intended to refer to a certain type of education system which is common to all the Member States, irrespective of the characteristics particular to each national system.
+Consequently, the concept of ‘school or university education’ for the purposes of the VAT system refers generally to an integrated system for the transfer of knowledge and skills covering a wide and diversified set of subjects, and to the furthering and development of that knowledge and those skills by the pupils and students in the course of their progress and their specialisation in the various constituent stages of that system.
+It is in the light of those considerations that the Court must examine whether driving tuition provided by a driving school, such as that of the applicant in the main proceedings, for the purpose of acquiring driving licences for vehicles in categories B and Creferred to in Article 4(4) of Directive 2006/may be covered by the concept of ‘school or university education’ within the meaning of Article 132(1)(i) and (j) of Directive 2006/112.
+In the present case, the applicant in the main proceedings submits that the driving tuition which it provides covers the transfer of both the practical and theoretical knowledge necessary for the purpose of acquiring driving licences for vehicles in categories B and Cand that the objective of such tuition is not purely recreational, since possession of such licences is liable to meet, inter alia, professional needs. Therefore, the tuition provided for that purpose is, it argues, covered by the concept of ‘school or university education’ referred to in Article 132(1)(i) and (j) of Directive 2006/112.
+It should be noted, however, that, even if it covers a range of practical and theoretical knowledge, driving tuition provided in a driving school, such as that at issue in the main proceedings, nevertheless remains specialised tuition which does not amount, in itself, to the transfer of knowledge and skills covering a wide and diversified set of subjects or to their furthering and development which is characteristic of school or university education.
+In the light of the foregoing, the answer to the first question is that the concept of ‘school or university education’, within the meaning of Article 132(1)(i) and (j) of Directive 2006/112, must be interpreted as not covering motor vehicle driving tuition provided by a driving school, such as that at issue in the main proceedings, for the purpose of acquiring driving licences for vehicles in categories B and Creferred to in Article 4(4) of Directive 2006/126.
+The second, third and fourth questions
+In view of the answer to the first question, there is no need to answer the second, third and fourth questions.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (First Chamber) hereby rules:
+ 
+The concept of ‘school or university education’, within the meaning of Article 132(1)(i) and (j) of Council Directive 2006/112/EC of November on the common system of value added tax, must be interpreted as not covering motor vehicle driving tuition provided by a driving school, such as that at issue in the main proceedings, for the purpose of acquiring driving licences for vehicles in categories B and Creferred to in Article 4(4) of Directive 2006/126/EC of the European Parliament and of the Council of December on driving licences.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

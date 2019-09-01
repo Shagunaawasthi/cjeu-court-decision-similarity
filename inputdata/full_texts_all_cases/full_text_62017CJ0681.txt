@@ -1,0 +1,142 @@
+
+JUDGMENT OF THE COURT (Sixth Chamber)
+March (
+*)
+(Reference for a preliminary ruling — Consumer protection — Directive 2011/83/EU — Article 6(1)(k) and Article 16(e) — Distance contract — Right of withdrawal — Exceptions — Concept of ‘sealed goods which are not suitable for return due to health protection or hygiene reasons and which have been unsealed by the consumer after delivery’ — Mattress whose protective seal has been removed by the consumer after delivery)
+In Case C‑681/17,
+REQUEST for a preliminary ruling under Article TFEU from the Bundesgerichtshof (Federal Court of Justice, Germany), made by decision of November 2017, received at the Court on December 2017, in the proceedings
+slewo — schlafen leben wohnen GmbH
+v
+Sascha Ledowski,
+THE COURT (Sixth Chamber),
+composed of C. Toader, President of the Chamber, A. Rosas and M. Safjan (Rapporteur), Judges,
+Advocate General: H. Saugmandsgaard Øe,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+slewo — schlafen leben wohnen GmbH, by F. Buchmann, Rechtsanwalt,
+–
+Mr Ledowski, by H.G. Klink, Rechtsanwalt,
+–
+the Belgian Government, by P. Cottin and J. Van Holm, acting as Agents,
+–
+the Italian Government, by G. Palmieri, acting as Agent, and by P. Garofoli, avvocato dello Stato,
+–
+the European Commission, by M. Kellerbauer and N. Ruiz García, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on December 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 6(1)(k) and Article 16(e) of Directive 2011/83/EU of the European Parliament and of the Council of October on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council (OJ L 304, p. 64).
+The request has been made in proceedings between slewo — schlafen leben wohnen GmbH (‘slewo’) and Mr Sascha Ledowski, concerning his exercise of his right of withdrawal in relation to a mattress purchased on slewo’s website.
+Legal context
+According to recitals 3, 4, 7, 34, 37, and of Directive 2011/83:
+‘(3)
+Article 169(1) and point (a) of Article 169(2) of the Treaty on the Functioning of the European Union (TFEU) provide that the Union is to contribute to the attainment of a high level of consumer protection through the measures adopted pursuant to Article thereof.
+(4)
+... The harmonisation of certain aspects of consumer distance … contracts is necessary for the promotion of a real consumer internal market striking the right balance between a high level of consumer protection and the competitiveness of enterprises, while ensuring respect for the principle of subsidiarity.
+…
+(7)
+Full harmonisation of some key regulatory aspects should considerably increase legal certainty for both consumers and traders … Furthermore consumers should enjoy a high common level of protection across the Union.
+…
+(34)
+The trader should give the consumer clear and comprehensible information before the consumer is bound by a distance … contract …
+…
+(37)
+Since in the case of distance sales, the consumer is not able to see the goods before concluding the contract, he should have a right of withdrawal. For the same reason, the consumer should be allowed to test and inspect the goods he has bought to the extent necessary to establish the nature, characteristics and the functioning of the goods. …
+…
+(47)
+Some consumers exercise their right of withdrawal after having used the goods to an extent more than necessary to establish the nature, characteristics and the functioning of the goods. In this case the consumer should not lose the right to withdraw but should be liable for any diminished value of the goods. In order to establish the nature, characteristics and functioning of the goods, the consumer should only handle and inspect them in the same manner as he would be allowed to do in a shop. For example, the consumer should only try on a garment and should not be allowed to wear it. Consequently, the consumer should handle and inspect the goods with due care during the withdrawal period. The obligations of the consumer in the event of withdrawal should not discourage the consumer from exercising his right of withdrawal.
+…
+(49)
+Certain exceptions from the right of withdrawal should exist … for distance … contracts. A right of withdrawal could be inappropriate for example given the nature of particular goods or services. ...’
+Article of that directive, entitled ‘Subject matter’, provides:
+‘The purpose of this Directive is, through the achievement of a high level of consumer protection, to contribute to the proper functioning of the internal market by approximating certain aspects of the laws, regulations and administrative provisions of the Member States concerning contracts concluded between consumers and traders.’
+Article of the directive, entitled ‘Information requirements for distance and off-premises contracts’, provides in paragraph 1:
+‘Before the consumer is bound by a distance … contract, … the trader shall provide the consumer with the following information in a clear and comprehensible manner:
+…
+(k)
+where a right of withdrawal is not provided for in accordance with Article 16, the information that the consumer will not benefit from a right of withdrawal or, where applicable, the circumstances under which the consumer loses his right of withdrawal;
+…’
+Article of the directive, entitled ‘Right of withdrawal’, states in paragraph 1:
+‘Save where the exceptions provided for in Article apply, the consumer shall have a period of days to withdraw from a distance or off-premises contract, without giving any reason, and without incurring any costs other than those provided for in Article 13(2) and Article 14.’
+Under Article of the directive, entitled ‘Effects of withdrawal’:
+‘The exercise of the right of withdrawal shall terminate the obligations of the parties:
+(a)
+to perform the distance … contract …
+…’
+Article of the directive, entitled ‘Obligations of the trader in the event of withdrawal’ provides in paragraph 1:
+‘The trader shall reimburse all payments received from the consumer, including, if applicable, the costs of delivery without undue delay and in any event not later than days from the day on which he is informed of the consumer’s decision to withdraw from the contract in accordance with Article 11.
+…’
+Article 14(2) of Directive 2011/83, entitled ‘Obligations of the consumer in the event of withdrawal’, states:
+‘The consumer shall only be liable for any diminished value of the goods resulting from the handling of the goods other than what is necessary to establish the nature, characteristics and functioning of the goods. …’
+Article of that directive, entitled ‘Exceptions from the right of withdrawal’, is worded as follows:
+‘Member States shall not provide for the right of withdrawal set out in Articles to in respect of distance … contracts as regards the following:
+…
+(e)
+the supply of sealed goods which are not suitable for return due to health protection or hygiene reasons and were unsealed after delivery;
+…’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+slewo is an online trader which sells, inter alia, mattresses.
+On November Mr Ledowski ordered, for private purposes, a mattress from slewo’s website, at a price of EUR 094.52. The General Terms and Conditions of Sale were printed on the invoice issued by slewo and contained inter alia a ‘notice of withdrawal for consumers’ worded as follows:
+‘We will bear the costs of returning the goods. … Your right of withdrawal shall cease prematurely in the following cases: in the case of contracts for the supply of sealed goods which are not suitable for return due to health protection or hygiene reasons, if they were unsealed after delivery’.
+When it was supplied, the mattress ordered by Mr Ledowski was covered with a protective film, which he subsequently removed.
+By email of December 2014, Mr Ledowski informed slewo that he wished to return the mattress and asked slewo to arrange the return transport.
+Since that return transport was not arranged by slewo, Mr Ledowski assumed the transport costs himself, in the sum of EUR 95.59.
+Mr Ledowski brought an action before the Amtsgericht Mainz (Local Court, Mainz, Germany) seeking reimbursement by slewo of the purchase price and the transport costs of the mattress, in the total amount of EUR 190.euros, plus interest and legal costs.
+By judgment of November of the Amtsgericht Mainz (Local Court, Mainz), that action was allowed.
+By judgment of August 2016, the Landgericht Mainz (Regional Court, Mainz, Germany) upheld that decision on appeal.
+In those circumstances, slewo brought an appeal on a point of law (Revision) before the referring court, the Bundesgerichtshof (Federal Court of Justice, Germany).
+The referring court takes the view that Article 16(e) of Directive 2011/excludes the right of withdrawal only if, once unsealed, the goods concerned have ceased definitively to be saleable for health protection or hygiene reasons, as is the case in particular for certain cosmetic or personal care products, such as toothbrushes.
+In that connection, the referring court recalls that, in accordance with the settled case-law of the Court, provisions which derogate from a right conferred by EU law, such as the right of withdrawal at issue in the main proceedings, must be interpreted strictly.
+The referring court further takes the view that, unlike hygiene items in the narrow sense, a mattress returned by a consumer, after having been unsealed, has not ceased definitively to be saleable. That conclusion follows in particular from the use made of mattresses in the hotel sector; the existence, particularly on the internet, of a market for second-hand mattresses; and the possibility of cleaning used mattresses.
+The referring court takes the view that, if Article 16(e) of Directive 2011/ought to be interpreted as meaning that goods which can come into direct contact with the human body, such as mattresses, when they are used as intended, even if the trader is able to render them saleable once again by using appropriate cleaning methods, are amongst the goods which cannot be returned for health protection or hygiene reasons referred to by the provision, that raises the question of which conditions the packaging of such goods must fulfil, and whether it must be clear from the specific circumstances, in particular the affixing of the word ‘sealed’ to the packaging, that it is not mere packaging for transportation purposes, but rather that the product has been sealed for health protection or hygiene reasons.
+Furthermore, the referring court considers that Article 6(1)(k) of Directive 2011/does not provide sufficient clarification as to the scope of the information which the trader is required to furnish to the consumer, before the latter is bound by a distance contract, so far as concerns the circumstances in which the consumer loses his right of withdrawal, in accordance with Article 16(e) of that directive.
+In those circumstances, the Bundesgerichtshof (Federal Court of Justice) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘(1)
+Should Article 16(e) of the [Directive 2011/83] be interpreted as meaning that the goods referred to there which are not suitable for return due to health protection or hygiene reasons include goods (such as, for example, mattresses) which, although when used as intended may come into direct contact with the human body, can nevertheless be made saleable again by means of suitable (cleaning) measures by the trader?
+(2)
+If the first question is answered in the affirmative:
+(a)
+What requirements must the packaging of goods satisfy for it to be considered that sealing within the meaning of Article 16(e) of [Directive 2011/83] exists?
+and
+(b)
+Does the information that the trader has to give pursuant to Article 6(1)(k) of [Directive 2011/83] before the contract becomes binding have to be provided in such a way that the consumer is informed, with specific reference to the article to be purchased (here a mattress) and the seal that is applied, that he will lose the right of withdrawal if he removes the seal?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court is asking, in essence, whether Article 16(e) of Directive 2011/should be interpreted as meaning that goods such as a mattress, from which the protective film has been removed by the consumer after delivery, comes within the scope of the concept ‘sealed goods which are not suitable for return due to health protection or hygiene reasons and were unsealed after delivery’ within the meaning of that provision.
+As a preliminary point, it should be recalled, in the first place, that, in accordance with Article 9(1) of Directive 2011/83, save where the exceptions provided for in Article of that directive apply, the consumer is to have a period of days to withdraw from a distance contract, without, inter alia, giving any reason.
+In the second place, it should be observed that it is clear from Article 12(a) of that directive that the exercise of the right of withdrawal terminates the obligations of the parties to perform the distance contract.
+Article 16(e) of Directive 2011/provides for an exception to the right of withdrawal, with regard to distance contracts, in connection with sealed goods which are not suitable for return due to health protection or hygiene reasons and were unsealed after delivery.
+However, the wording of that provision does not provide any detail as to the exact scope of the concept of ‘sealed goods which are not suitable for return due to health protection or hygiene reasons and were unsealed after delivery’, allowing it to be determined with certainty which goods come within the scope of that concept and, in the present case, whether an item such as a mattress from which the protective film has been removed by the consumer after delivery comes within that same scope.
+Accordingly, for the purposes of interpreting Article 16(e) of Directive 2011/83, account must be taken not only of the wording of that provision but also its context and the objective pursued by the rules of which it forms part (see, to that effect, judgments of August 2018, Verbraucherzentrale Berlin, C‑485/17, EU:C:2018:642, paragraph 27, and of September 2018, Starman, C‑332/17, EU:C:2018:721, paragraph 23).
+In that connection, as is clear from Article of Directive 2011/83, read in the light of recitals 3, and thereof, that directive aims to provide a high level of consumer protection. Furthermore, in EU policies, the protection of consumers — who are in a weaker position in relation to sellers or suppliers, inasmuch as they must be deemed to be less informed, economically weaker and legally less experienced than the opposite party — is enshrined in Article TFEU and Article of the Charter of Fundamental Rights of the European Union (see, to that effect, judgments of March 2017, Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main, C‑568/15, EU:C:2017:154, paragraph 28, of October 2018, Kamenova, C‑105/17, EU:C:2018:808, paragraph 34, and of January 2019, Walbusch Walter Busch, C‑430/17, EU:C:2019:47, paragraph 34).
+The right of withdrawal is designed to protect the consumer in the particular situation of distance sales, in which he is not actually able to see the product or ascertain the nature of the service provided before concluding the contract. The right of withdrawal is therefore intended to offset the disadvantage for the consumer resulting from a distance contract by granting him an appropriate period for reflection during which he can examine and test the goods acquired (judgment of January 2019, Walbusch Walter Busch, C‑430/17, EU:C:2019:47, paragraph 45).
+In that connection, Article 16(e) of Directive 2011/83, which constitutes an exception to the right of withdrawal, is, as a provision of EU law which restricts the rights granted for reasons relating to protection, to be interpreted strictly (see, to that effect, judgment of September 2014, Kušionová, C‑34/13, EU:C:2014:2189, paragraph 77).
+It is in the light of those considerations that the first question must be answered.
+In that regard, recital of Directive 2011/states that an exception to the right of withdrawal may be justified by the nature of particular goods.
+It follows that, in the context of Article 16(e) of that directive, it is the nature of the goods which may justify their packaging being sealed for health protection or hygiene reasons and that, accordingly, the unsealing of the packaging deprives the goods inside of the guarantee in terms of health protection or hygiene.
+Once the packaging is unsealed by the consumer and, consequently, the goods deprived of the guarantee in terms of health protection or hygiene, such goods may no longer be able to be used again by a third party and, as a consequence, may no longer be able to be sold again by the trader.
+In those circumstances, allowing the right for the consumer to exercise his right of withdrawal by returning such an item, the packaging of which has been unsealed, to the trader would be contrary to the intention of the EU legislature, as expressed in recital of Directive 2011/83, according to which the directive is aimed at striking the right balance between a high level of consumer protection and the competitiveness of enterprises.
+Accordingly, it must be found that, as the Advocate General points out in point of his Opinion, the exception to the right of withdrawal under Article 16(e) of Directive 2011/applies only if, after the packaging has been unsealed, the goods contained therein are definitively no longer in a saleable condition due to genuine health protection or hygiene reasons, because the very nature of the goods makes it impossible or excessively difficult, for the trader to take the necessary measures allowing for resale without affecting either of those requirements.
+It follows that, in the present case, a mattress, such as that at issue in the main proceedings, from which the protective film has been removed by the consumer after delivery cannot come within the scope of the exception to the right of withdrawal provided for in Article 16(e) of Directive 2011/83.
+First, although it may potentially have been used, such a mattress does not appear, by that fact alone, to be definitively unsuitable for being used again by a third party or for being sold again. It suffices, in that regard, to recall in particular that one and the same mattress is used by successive guests at a hotel, that there is a market for second-hand mattresses and that used mattresses can be deep-cleaned.
+Second, with respect to the right of withdrawal, a mattress may be equated with a garment.
+In that connection, as is clear from recitals and of Directive 2011/83, the intention of the EU legislature was to allow the purchaser of a garment, in the context of a distance sale, to try it on in order to ‘establish the nature, characteristics and the functioning’ and, where necessary, after trying the garment on, exercise his right of withdrawal by returning it to the trader.
+It is common ground that many garments, when they are tried on in accordance with their intended purpose, may come into contact with the human body — which cannot be ruled out in the case of mattresses — without being subject in practice to requirements in terms of special protection in order to prevent such contact during trying on.
+Such an equation between those two categories of goods — namely garments and mattresses — may, as the Advocate General notes in point of his Opinion, be envisaged, in so far as, even in the case of direct contact of those goods with the human body, it may be presumed that the trader is in a position to make those goods, after they have been returned by the consumer, by means of a treatment such as cleaning or disinfection, suitable for new use by a third party and, accordingly, for a new sale, without prejudice to the requirements of health protection or hygiene.
+The fact remains that, in accordance with Article 14(2) of Directive 2011/83, read in the light of recital thereof, the consumer is liable for any diminished value of goods resulting from handling other than that necessary in order to establish the nature, characteristics and functioning of the goods, without the consumer thereby being deprived of his right of withdrawal (see, by analogy, judgment of September 2009, Messner, C‑489/07, EU:C:2009:502, paragraph 29).
+In the light of the foregoing, the answer to the first question is that Article 16(e) of Directive 2011/must be interpreted as meaning that goods such as a mattress, from which the protective film has been removed by the consumer after delivery, do not come within the scope of the concept of ‘sealed goods which are not suitable for return due to health protection or hygiene reasons and which have been unsealed by the consumer after delivery’ within the meaning of that provision.
+The second question
+Given the answer to the first question, there is no need to answer the second question.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Sixth Chamber) hereby rules:
+ 
+Article 16(e) of Directive 2011/83/EU of the European Parliament and of the Council of October on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council must be interpreted as meaning that goods such as a mattress, from which the protective film has been removed by the consumer after delivery, do not come within the scope of the concept of ‘sealed goods which are not suitable for return due to health protection or hygiene reasons and which have been unsealed by the consumer after delivery’ within the meaning of that provision.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

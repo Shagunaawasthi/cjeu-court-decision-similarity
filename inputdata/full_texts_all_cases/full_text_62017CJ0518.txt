@@ -1,0 +1,228 @@
+
+JUDGMENT OF THE COURT (Ninth Chamber)
+September (
+*)
+(Reference for a preliminary ruling — Public procurement — Public passenger transport services by rail and by road — Regulation (EC) No 1370/— Article 5(1) — Award of public service contracts — Article 7(2) — Obligation to publish certain information in the Official Journal of the European Union at least one year before the launch of the procedure — Consequences of non-publication — Annulment of the call for tenders — Directive 2014/24/EU — Article 27(1) — Article 47(1) — Directive 2014/25/EU — Article 45(1) — Article 66(1) — Contract notice)
+In Case C‑518/17,
+REQUEST for a preliminary ruling under Article TFEU from the Verwaltungsgerichtshof (Supreme Administrative Court, Austria), made by decision of June 2017, received at the Court on August 2017, in the proceedings brought by
+Stefan Rudigier
+other party:
+Salzburger Verkehrsverbund GmbH,
+THE COURT (Ninth Chamber),
+composed of C. Vajda, President of the Chamber, E. Juhász (Rapporteur) and K. Jürimäe, Judges,
+Advocate General: M. Campos Sánchez-Bordona,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Mr Rudigier, by C. Casati, Rechtsanwalt,
+–
+the Austrian Government, by M. Fruhmann, acting as Agent,
+–
+the European Commission, by W. Mölls and P. Ondrůšek, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 7(2) of Regulation (EC) No 1370/of the European Parliament and of the Council of October on public passenger transport services by rail and by road and repealing Council Regulations (EEC) Nos 1191/and 1107/(OJ L 315, p. 1).
+The request has been made in proceedings brought by Mr Stefan Rudigier concerning an application for the annulment of a call for tenders by Salzburger Verkehrsverbund GmbH for the provision of passenger transport services by bus.
+Legal context
+EU law
+Regulation No 1370/Recitals 20, 21, and of Regulation No 1370/state:
+‘(20)
+Where a public authority chooses to entrust a general interest service to a third party, it must select the public service operator in accordance with [EU] law on public contracts and concessions, as established by Articles to of the Treaty, and the principles of transparency and equal treatment. In particular, the provisions of this Regulation are to be without prejudice to the obligations applicable to public authorities by virtue of the directives on the award of public contracts, where public service contracts fall within their scope.
+(21)
+Effective legal protection should be guaranteed, not only for awards falling within the scope of Directive 2004/17/EC of the European Parliament and of the Council of March coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors [(OJ L 134, p. 1)] and Directive 2004/18/EC of the European Parliament and of the Council of March on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts [(OJ L 134, p. 114)], but also for other contracts awarded under this Regulation. An effective review procedure is needed and should be comparable, where appropriate, to the relevant procedures set out in Council Directive 89/665/EEC of December on the coordination of the laws, regulations and administrative provisions relating to the application of review procedures to the award of public supply and public works contracts [(OJ L 395, p. 33)] and Council Directive 92/13/EEC of February coordinating the laws, regulations and administrative provisions relating to the application of Community rules on the procurement procedures of entities operating in the water, energy, transport and telecommunications sectors [(OJ L 76, p. 14)].
+…
+(29)
+With a view to the award of public service contracts, with the exception of emergency measures and contracts relating to modest distances, the competent authorities should take the necessary measures to advertise, at least one year in advance, the fact that they intend to award such contracts, so as to enable potential public service operators to react.
+(30)
+Directly awarded public service contracts should be subject to greater transparency.’
+Article of Regulation No 1370/2007, ‘Purpose and scope’, provides:
+‘1.   The purpose of this Regulation is to define how, in accordance with the rules of [EU] law, competent authorities may act in the field of public passenger transport to guarantee the provision of services of general interest which are among other things more numerous, safer, of a higher quality or provided at lower cost than those that market forces alone would have allowed.
+…
+2.   This Regulation shall apply to the national and international operation of public passenger transport services by rail and other track-based modes and by road, except for services which are operated mainly for their historical interest or their tourist value. …
+…’
+Article of that regulation, ‘Award of public service contracts’, provides in paragraph 1:
+‘Public service contracts shall be awarded in accordance with the rules laid down in this Regulation. However, service contracts or public service contracts as defined in Directives 2004/… or 2004/… for public passenger transport services by bus or tram shall be awarded in accordance with the procedures provided for under those Directives where such contracts do not take the form of service concessions contracts as defined in those Directives. Where contracts are to be awarded in accordance with Directives 2004/… or 2004/…, the provisions of paragraphs to of this Article shall not apply.’
+Article of the regulation, ‘Publication’, provides in paragraph 2:
+‘Each competent authority shall take the necessary measures to ensure that, at least one year before the launch of the invitation to tender procedure or one year before the direct award, the following information at least is published in the Official Journal of the European Union:
+(a)
+the name and address of the competent authority;
+(b)
+the type of award envisaged;
+(c)
+the services and areas potentially covered by the award.
+Competent authorities may decide not to publish this information where a public service contract concerns an annual provision of less than kilometres of public passenger transport services.
+Should this information change after its publication, the competent authority shall publish a rectification accordingly as soon as possible. This rectification shall be without prejudice to the launching date of the direct award or of the invitation to tender.
+…’
+Directive 2014/24/EU
+Article of Directive 2014/24/EU of the European Parliament and of the Council of February on public procurement and repealing Directive 2004/18/EC (OJ L 94, p. 65), ‘Principles of procurement’, provides in paragraph 1:
+‘Contracting authorities shall treat economic operators equally and without discrimination and shall act in a transparent and proportionate manner.
+The design of the procurement shall not be made with the intention of excluding it from the scope of this Directive or of artificially narrowing competition. Competition shall be considered to be artificially narrowed where the design of the procurement is made with the intention of unduly favouring or disadvantaging certain economic operators.’
+Under Article of that directive, ‘Open procedure’:
+‘1.   In open procedures, any interested economic operator may submit a tender in response to a call for competition.
+The minimum time limit for the receipt of tenders shall be days from the date on which the contract notice was sent.
+The tender shall be accompanied by the information for qualitative selection that is requested by the contracting authority.
+2.   Where contracting authorities have published a prior information notice which was not itself used as a means of calling for competition, the minimum time limit for the receipt of tenders, as laid down in the second subparagraph of paragraph of this Article, may be shortened to days, provided that all of the following conditions are fulfilled:
+(a)
+the prior information notice included all the information required for the contract notice in section I of part B of Annex V, in so far as that information was available at the time the prior information notice was published;
+(b)
+the prior information notice was sent for publication between days and months before the date on which the contract notice was sent.
+3.   Where a state of urgency duly substantiated by the contracting authority renders impracticable the time limit laid down in the second subparagraph of paragraph 1, it may fix a time limit which shall be not less than days from the date on which the contract notice was sent.
+4.   The contracting authority may reduce by five days the time limit for receipt of tenders set out in the second subparagraph of paragraph of this Article where it accepts that tenders may be submitted by electronic means in accordance with the first subparagraph of Article 22(1), and Article 22(5) and (6).’
+Article of the directive, ‘Setting time limits’, provides in paragraph 1:
+‘When fixing the time limits for the receipt of tenders and requests to participate, contracting authorities shall take account of the complexity of the contract and the time required for drawing up tenders, without prejudice to the minimum time limits set out in Articles to 31.’
+Article of the directive, ‘Prior information notices’, provides in paragraph 1:
+‘Contracting authorities may make known their intentions of planned procurements through the publication of a prior information notice. Those notices shall contain the information set out in Annex V part B section I. They shall be published either by the Publications Office of the European Union or by the contracting authorities on their buyer profiles in accordance with point 2(b) of Annex VIII. Where the prior information notice is published by the contracting authorities on their buyer profile, they shall send a notice of the publication on their buyer profile to the Publications Office of the European Union in accordance with Annex VIII. Those notices shall contain the information set out in Annex V part A.’
+Part B, section 1, of Annex V to the directive, to which Article refers, provides that the prior information notice must contain inter alia information on the identity of the contracting authority, the main place of performance of the services, a brief description of the procurement, in particular the nature and extent of services, and, where the notice is not used as a means of calling for competition, the estimated date or dates for publication of a contract notice or notices in respect of the contract or contracts referred to in the prior information notice.
+In accordance with Article 90(1) and Article of the directive, entitled respectively ‘Transposition and transitional provisions’ and ‘Repeals’, the Member States were to comply with the directive at the latest by April 2016, on which date Directive 2004/was repealed.
+Directive 2014/25/EU
+Article of Directive 2014/25/EU of the European Parliament and of the Council of February on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94, p. 243), ‘Principles of procurement’, provides in paragraph 1:
+‘1. Contracting entities shall treat economic operators equally and without discrimination and shall act in a transparent and proportionate manner.
+The design of the procurement shall not be made with the intention of excluding it from the scope of this Directive or of artificially narrowing competition. Competition shall be considered to be artificially narrowed where the design of the procurement is made with the intention of unduly favouring or disadvantaging certain economic operators.’
+Under Article of that directive, ‘Open procedure’:
+‘1.   In open procedures any interested economic operator may submit a tender in response to a call for competition.
+The minimum time limit for the receipt of tenders shall be days from the date on which the contract notice was sent.
+The tender shall be accompanied by the information for qualitative selection that is requested by the contracting entity.
+2.   Where contracting entities have published a periodic indicative notice which was not itself used as a means of calling for competition, the minimum time limit for the receipt of tenders, as laid down in the second subparagraph of paragraph of this Article, may be shortened to days, provided that all of the following conditions are fulfilled:
+(a)
+the periodic indicative notice included, in addition to the information required by Section I of Part A of Annex VI, all the information required by Section II of Part A of Annex VI, in so far as the latter information was available at the time the periodic indicative notice was published;
+(b)
+the periodic indicative notice was sent for publication between days and months before the date on which the contract notice was sent.
+3.   Where a state of urgency duly substantiated by the contracting entity renders impracticable the time limit laid down in the second subparagraph of paragraph 1, it may fix a time limit which shall be not less than days from the date on which the contract notice was sent.
+4.   The contracting entity may reduce by five days the time limit for receipt of tenders set out in the second subparagraph of paragraph of this Article where it accepts that tenders may be submitted by electronic means in accordance with the first subparagraph of Article 40(4) and Article 40(5) and (6).’
+Article of the directive, ‘Setting time limits’, provides in paragraph 1:
+‘When fixing the time limits for requests to participate and the receipt of tenders, contracting entities shall take particular account of the complexity of the contract and the time required for drawing up tenders, without prejudice to the minimum time limits set out in Articles to 49.’
+Article of the directive, ‘Periodic indicative notices’, provides in paragraph 1:
+‘Contracting entities may make known their intentions of planned procurement through the publication of a periodic indicative notice. Those notices shall contain the information set out in part A, section I of Annex VI. They shall be published either by the Publications Office of the European Union or by the contracting entities on their buyer profiles in accordance with point 2(b) of Annex IX. Where the periodic indicative notice is published by the contracting entities on their buyer profile, they shall send a notice of the publication of the periodic indicative notice on a buyer profile to the Publications Office of the European Union in accordance with point of Annex IX. Those notices shall contain the information set out in Annex VI Part B.’
+In accordance with part A, section I, of Annex VI to the directive, to which Article 67(1) of the directive refers, a periodic indicative notice is to contain information inter alia on the identity of the contracting entity and the service to contact.
+In accordance with Article 106(1) and Article of the directive, entitled respectively ‘Transposition and transitional provisions’ and ‘Repeal’, Member States were to comply with the directive at the latest by April 2016, on which date Directive 2004/was repealed.
+Directive 89/Article of Directive 89/665, as amended by Directive 2014/23/EU of the European Parliament and of the Council of February (OJ L 94, p. 1) (‘Directive 89/665’), ‘Scope and availability of review procedures’, provides in paragraph 1:
+‘This Directive applies to contracts referred to in Directive [2014/24] unless such contracts are excluded in accordance with Articles 7, 8, 9, 10, 11, 12, 15, 16, and of that Directive.
+…
+Member States shall take the measures necessary to ensure that, as regards contracts falling within the scope of Directive [2014/24] …, decisions taken by the contracting authorities may be reviewed effectively and, in particular, as rapidly as possible in accordance with the conditions set out in Articles to 2f of this Directive, on the grounds that such decisions have infringed Union law in the field of public procurement or national rules transposing that law.’
+Under Article 2(1) of Directive 89/665:
+‘Member States shall ensure that the measures taken concerning the review procedures specified in Article include provision for powers to:
+(a)
+take, at the earliest opportunity and by way of interlocutory procedures, interim measures with the aim of correcting the alleged infringement or preventing further damage to the interests concerned, including measures to suspend or to ensure the suspension of the procedure for the award of a public contract or the implementation of any decision taken by the contracting authority;
+(b)
+either set aside or ensure the setting aside of decisions taken unlawfully, including the removal of discriminatory technical, economic or financial specifications in the invitation to tender, the contract documents or in any other document relating to the contract award procedure;
+(c)
+award damages to persons harmed by an infringement.’
+In accordance with Article 2d(1) and (2) of that directive.
+‘1.   Member States shall ensure that a contract is considered ineffective by a review body independent of the contracting authority or that its ineffectiveness is the result of a decision of such a review body in any of the following cases:
+(a)
+if the contracting authority has awarded a contract without prior publication of a contract notice in the Official Journal of the European Union without this being permissible in accordance with Directive [2014/24] …;
+(b)
+in case of an infringement of Article 1(5), Article 2(3) or Article 2a(2) of this Directive, if this infringement has deprived the tenderer applying for review of the possibility to pursue pre-contractual remedies where such an infringement is combined with an infringement of Directive [2014/24] …, if that infringement has affected the chances of the tenderer applying for a review to obtain the contract;
+(c)
+in the cases referred to in the second subparagraph of Article 2b(c) of this Directive, if Member States have invoked the derogation from the standstill period for contracts based on a framework agreement and a dynamic purchasing system.
+2.   The consequences of a contract being considered ineffective shall be provided for by national law.
+National law may provide for the retroactive cancellation of all contractual obligations or limit the scope of the cancellation to those obligations which still have to be performed. In the latter case, Member States shall provide for the application of other penalties within the meaning of Article 2e(2).’
+Directive 92/Article of Directive 92/13, as amended by Directive 2014/(‘Directive 92/13’), ‘Scope and availability of review procedures’, provides in paragraph 1:
+‘This Directive applies to contracts referred to in Directive [2014/25] … unless such contracts are excluded in accordance with Articles to 24, to 30, or of that Directive.
+…
+Member States shall take the measures necessary to ensure that, as regards contracts falling within the scope of Directive [2014/25] …, decisions taken by contracting entities may be reviewed effectively and, in particular, as rapidly as possible in accordance with the conditions set out in Articles to 2f of this Directive, on the grounds that such decisions have infringed Union law in the field of procurement or national rules transposing that law.’
+Article of Directive 92/13, ‘Requirements for review procedures’, provides in paragraph 1:
+‘The Member States shall ensure that the measures taken concerning the review procedures specified in Article include provision for the powers:
+either
+(a)
+to take, at the earliest opportunity and by way of interlocutory procedure, interim measures with the aim of correcting the alleged infringement or preventing further injury to the interests concerned, including measures to suspend or to ensure the suspension of the procedure for the award of a contract or the implementation of any decision taken by the contracting entity; and
+(b)
+to set aside or ensure the setting aside of decisions taken unlawfully, including the removal of discriminatory technical, economic or financial specifications in the notice of contract, the periodic indicative notice, the notice on the existence of a system of qualification, the invitation to tender, the contract documents or in any other document relating to the contract award procedure in question;
+or
+(c)
+to take, at the earliest opportunity, if possible by way of interlocutory procedures and if necessary by a final procedure on the substance, measures other than those provided for in points (a) and (b) with the aim of correcting any identified infringement and preventing injury to the interests concerned; in particular, making an order for the payment of a particular sum, in cases where the infringement has not been corrected or prevented.
+Member States may take this choice either for all contracting entities or for categories of entities defined on the basis of objective criteria, in any event preserving the effectiveness of the measures laid down in order to prevent injury being caused to the interests concerned;
+(d)
+and, in both the above cases, to award damages to persons injured by the infringement.
+…’
+Article 2d of the directive, ‘Ineffectiveness’, provides in paragraph 1:
+‘Member States shall ensure that a contract is considered ineffective by a review body independent of the contracting entity or that its ineffectiveness is the result of a decision of such a review body in any of the following cases:
+(a)
+if the contracting entity has awarded a contract without prior publication of a notice in the Official Journal of the European Union without this being permissible in accordance with Directive [2014/25] …;
+(b)
+in case of an infringement of Article 1(5), Article 2(3) or Article 2a(2) of this Directive, if this infringement has deprived the tenderer applying for review of the possibility to pursue pre-contractual remedies where such an infringement is combined with an infringement of Directive [2014/25] …, if that infringement has affected the chances of the tenderer applying for a review to obtain the contract;
+(c)
+in cases referred to in the second subparagraph of Article 2b(c) of this Directive, if Member States have invoked the derogation from the standstill period for contracts based on a dynamic purchasing system.’
+Austrian law
+Paragraph of the Salzburger Vergabekontrollgesetz (Law of the Province of Salzburg on procurement review 2007) of February 2007, in the version applicable to the main proceedings, headed ‘Annulment of decisions of the contracting authority’, states in paragraph 1:
+‘The Landesverwaltungsgericht (Regional Administrative Court, Austria) shall annul a separately challengeable decision of a contracting authority made in the course of an award procedure if:
+1.
+it or a not separately challengeable decision preceding it infringes the right claimed by the applicant … and
+2.
+the unlawfulness has substantial influence on the outcome of the procurement procedure.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+On April 2016, by publishing a call for tenders in the Official Journal of the European Union, Salzburger Verkehrsverbund started an open procedure for the supply of bus passenger transport services in the Gasteinertal (Austria), comprising a number of bus routes with a total annual operation of approximately km. The contract notice stated that the period for submitting a tender would expire on June 2016.
+The contract was to be concluded in the form of a service contract, not a service concession, and the services were expected to start on December 2016.
+Salzburger Verkehrsverbund did not publish the prior information notice referred to in Article 7(2) of Regulation No 1370/2007.
+On May Mr Rudigier brought an action before the Landesverwaltungsgericht Salzburg (Regional Administrative Court, Salzburg, Austria) for the annulment of the call for tenders, on the ground inter alia of an infringement of Article 7(2) of Regulation No 1370/2007.
+By decision of July 2016, the Landesverwaltungsgericht Salzburg (Regional Administrative Court, Salzburg) dismissed the action.
+Mr Rudigier appealed on a point of law against that decision to the Verwaltungsgerichtshof (Supreme Administrative Court, Austria).
+In support of his appeal, he submits that the Landesverwaltungsgericht Salzburg (Regional Administrative Court, Salzburg) did not examine the substance of the legal consequences of the failure to publish the information provided for in Article 7(2) of Regulation No 1370/2007, which should have been done at least one year before the launch of the invitation to tender procedure.
+The Verwaltungsgerichtshof (Supreme Administrative Court) observes that there are no exceptions to the application of Article 7(2) of Regulation No 1370/for transport services falling under Directive 2004/or Directive 2004/18, and that recital of that regulation draws no distinction according to the rules applying to those public transport contracts. It concludes that the obligation to publish the required information should apply even where the services are covered by a contract subject to one of those two directives.
+That court notes, however, that in the present case, unlike the case in which judgment was given on October 2016, Hörmann Reisen (C‑292/15, EU:C:2016:817), which concerned subcontracting in connection with public procurement, neither Directive 2004/nor its replacement Directive 2014/lays down an obligation to provide prior information, as Article 7(2) of Regulation No 1370/does.
+That means that, if Article 7(2) were to be applied to contracts subject to one of those two directives, the award of service contracts for passenger transport by bus would be subject to stricter rules than the award of other services.
+The referring court further observes that EU law does not lay down any penalty for failure to comply with the obligations under Article 27(2) of Regulation No 1370/2007.
+It observes that a transport service operator might indeed, if that provision is not complied with, take advantage of his lead over his competitors. However, the objectives of transparency and non-discrimination pursued by that provision are complied with where the service in question is the subject of an award procedure, in that Article 47(1) of Directive 2014/provides, in the same way as Article 38(1) of Directive 2004/did, that the contracting authority is to fix the time limits for the procedure it is carrying out with account being taken of the complexity of the contract and the time required for drawing up tenders.
+The referring court is consequently uncertain whether failure to comply with Article 7(2) of Regulation No 1370/may entail the unlawfulness of a call for tenders in circumstances in which the contracting authority has otherwise complied with all the requirements of the public procurement directives.
+The referring court observes that under Austrian law the contracting authority’s decision must be annulled only if the unlawfulness has substantial influence on the outcome of the procurement procedure. It considers that national legislation such as that at issue in the main proceedings appears to be consistent with EU law, in so far as it does not make it impossible to exercise a right derived from EU law or infringe the principle of equivalence, but it would like to have this confirmed.
+It states that this last question is all the more justified in that, in the main proceedings, according to the contracting entity, Mr Rudigier had been aware for a long time of the forthcoming call for tenders, which means that all his claims should be dismissed, in so far as the breach of the law of which he complains causes him no injury.
+In those circumstances, the Verwaltungsgerichtshof (Supreme Administrative Court) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:
+‘1.
+Is Article 7(2) of Regulation [No 1370/2007] also applicable in the case of the award of a service contract under the second sentence of Article 5(1) of that regulation for passenger transport services by bus in accordance with a procedure laid down in the procurement directives (Directive [2004/17] or [2004/18])?
+2.
+If Question is answered in the affirmative:
+Does a breach of the obligation to publish, at least one year before the launch of the invitation to tender procedure, the information mentioned in Article 7(2)(a) to (c) of Regulation … No 1370/have the result that a call for tenders, made without such publication one year before the launch of the procedure but, under the second sentence of Article 5(1) of that regulation, in a procedure in accordance with the procurement directives, must be regarded as unlawful?
+3.
+If Question is answered in the affirmative:
+Do the provisions of EU law applicable to the award of public contracts preclude national legislation under which the annulment, as provided for in Article 2(1)(b) of Directive [89/665], of a call for tenders which is to be regarded as unlawful because of the failure to publish information in accordance with Article 7(2) of Regulation No 1370/may be dispensed with if the unlawfulness did not have substantial influence on the outcome of the procurement procedure because the operator concerned was able to react in a timely manner and there was no adverse effect on competition?’
+Consideration of the questions referred
+Preliminary observations
+It may be observed, as a preliminary point, that the call for tenders at issue in the main proceedings was published in the Official Journal of the European Union on April 2016, two days after the expiry of the period for transposing Directives 2014/and 2014/into the national law of the Member States and the repeal of Directives 2004/and 2004/pursuant to Articles and of Directive 2014/and Articles and of Directive 2014/25.
+It follows that it is Directive 2014/or Directive 2014/that is applicable in the main proceedings, not Directive 2004/or Directive 2004/as mentioned in the referring court’s questions (see, by analogy, judgment of July 2014, Impresa Pizzarotti, C‑213/13, EU:C:2014:2067, paragraphs to 33).
+It should also be noted that those questions refer without distinction to Directive 2004/and Directive 2004/18. The referring court’s failure to identify the directive applicable in the main proceedings is not, however, such as to prevent the Court from answering the questions, as the answers to them can be formulated identically on the basis of Directive 2014/or of Directive 2014/25, which repealed and replaced Directive 2004/and Directive 2004/respectively.
+Question By its first question the referring court essentially asks whether Article 7(2) of Regulation No 1370/must be interpreted as meaning that the obligation to provide prior information laid down in that provision applies to contracts for public transport services by bus which are in principle awarded in accordance with the procedures provided for by Directive 2014/or Directive 2014/25.
+In this respect, the Court has held that, pursuant to Article 5(1) of Regulation No 1370/2007, for the purposes of awarding a contract for public passenger transport services by bus, only the provisions of Article 5(2) to (6) of that regulation do not apply, whereas the other provisions of the regulation remain applicable (judgment of October 2016, Hörmann Reisen, C‑292/15, EU:C:2016:817, paragraph 41).
+It follows that Article 7(2) of that regulation applies to public contracts for transport services awarded in accordance with the procedures laid down by Directive 2014/or Directive 2014/25.
+That conclusion is borne out by the objective of Regulation No 1370/2007.
+Regulation No 1370/2007, which refers only to public passenger transport services by rail and road, provides for methods of intervention in general schemes for public contracts, such as those governed by Directive 2014/or Directive 2014/25. That regulation thus contains special rules intended either to take the place of or to be added to the general rules of Directive 2014/or Directive 2014/25, depending on whether or not the applicable directive lays down rules in the fields governed by the regulation (see, to that effect, judgment of October 2016, Hörmann Reisen, C‑292/15, EU:C:2016:817, paragraphs to 47).
+That interpretation of Article 7(2) of Regulation No 1370/is supported by an examination of Article 48(1) of Directive 2014/and Article 67(1) of Directive 2014/25, which are partly comparable in function to Article 7(2).
+In contrast to Article 48(1) of Directive 2014/24, read in conjunction with the provisions of part B, Section I, of Annex V to that directive, and Article 67(1) of Directive 2014/25, read in conjunction with the provisions of part A, Section 1, of Annex VI to that directive, the provisions of Article 7(2) of the regulation apply mandatorily to the contracting authority or entity and refer not only to the situation in which the contracting authority or entity intends to launch an invitation to tender procedure but also to that in which it intends to make a direct award of a contract. Moreover, publications made under those directives are not subject to the mandatory time limit of one year prior to the launch of the procurement procedure and do not necessarily have to be published in the Official Journal of the European Union.
+Article 7(2) of Regulation No 1370/thus imposes obligations that are more specific than those of Directives 2014/and 2014/and, as lex specialis, prevail over them (see, to that effect, judgment of October 2016, Hörmann Reisen, C‑292/15, EU:C:2016:817, paragraph 47).
+It follows that the answer to Question is that Article 7(2) of Regulation No 1370/must be interpreted as meaning that the obligation to provide prior information laid down in that provision applies to contracts for public transport services by bus which are in principle awarded in accordance with the procedures provided for by Directive 2014/or Directive 2014/25.
+Questions and By its second and third questions, which should be considered together, the referring court essentially asks whether the unlawfulness resulting from breach or non-performance of the obligation to provide prior information in Article 7(2) of Regulation No 1370/is such as to entail the annulment of a duly published call for tenders.
+It should be recalled, as a preliminary point, that according to recital of that regulation effective legal protection is required not only for awards falling within the scope of Directives 2004/and 2004/18, which were repealed and replaced by Directives 2014/and 2014/respectively, but also for other contracts awarded under the regulation. Moreover, an effective review procedure is needed and should be comparable to the procedures applicable under Directives 89/and 92/13, as appropriate.
+Both Article 2(1) of Directive 89/and Article 2(1) of Directive 92/provide that the Member States are to ensure that their legislation makes it possible inter alia to set aside or ensure the setting aside of decisions taken unlawfully.
+On the other hand, EU legislation on the award of public contracts does not lay down a general rule that the unlawfulness of an act or omission at a given stage of the procedure renders unlawful all subsequent acts in that procedure and justifies their annulment. Only in specific well-defined situations does that legislation provide for such a consequence.
+Article 2d of Directive 89/and Article 2d of Directive 92/each provide that contracts must be considered ineffective if they are vitiated by the cases of unlawfulness listed in those provisions, which include the case of the contracting entity awarding a contract without prior publication of a notice in the Official Journal of the European Union, without this being permissible in accordance with Directive 2014/or Directive 2014/respectively.
+If, however, the failure to publish a contract notice opening a tendering procedure in the Official Journal of the European Union must, as a general rule, lead to the contract in question being considered ineffective, that consequence is not provided for by the EU legislation on public procurement in the event of failure to comply with the obligation to provide prior information under Article 7(2) of Regulation No 1370/2007.
+In so far as the EU legislature has not laid down a specific provision on breach of Article 7(2) of Regulation No 1370/2007, such a rule is a question of national law.
+In the absence of detailed procedural rules laid down by EU law for giving effect to a right, in accordance with settled case-law of the Court, it is for the national legal system of each Member State to lay down procedural rules to ensure the safeguarding of rights which individuals derive from EU law. Those rules must not, however, be less favourable than those governing similar domestic remedies (principle of equivalence) and must not render practically impossible or excessively difficult the exercise of rights conferred by EU law (principle of effectiveness) (see, to that effect, judgment of April 2017, Marina del Mediterráneo and Others, C‑391/15, EU:C:2017:268, paragraph and the case-law cited).
+As regards the principal of equivalence, it should be recalled that compliance with that principle requires the rule in question to apply without distinction to actions based on infringement of EU law and those based on infringement of national law having a similar purpose and cause of action (judgment of July 2010, Bulicke, C‑246/09, EU:C:2010:418, paragraph and the case-law cited).
+In the present case, it is for the referring court to examine whether or not that principle has been complied with.
+As regards the principle of effectiveness, it should be recalled that the right economic operators derive from Article 7(2) of Regulation No 1370/aims, first, as recital of the regulation states in essence, to enable economic operators to react to the intentions of the contracting authority or entity, in particular the type of award the authority or entity intends to have recourse to (invitation to tender or direct award), and, second, to give economic operators time to prepare better for an invitation to tender.
+It should be noted that compliance with the principle of effectiveness should be examined differently depending on whether the intention is to make a direct award or to call for tenders.
+In the case of a direct award, the lack of prior information may lead to an economic operator being unable to raise objections before the award is made, which may definitively deprive him of the possibility of taking part in the procurement procedure. Such a situation may call in question the principle of effectiveness.
+By contrast, where the breach of Article 7(2) of Regulation No 1370/occurs in the context of the contracting authority or entity intending to launch a competitive procedure by means of a subsequent call for tenders in due form, such a breach does not in itself prevent an economic operator from being able to take part effectively in that competition.
+As regards the referring court’s concerns that a breach of Article 7(2) of Regulation No 1370/might lead to an economic operator who is already responsible for performance of the contract taking advantage of the lead he has over his competitors, it must be stated that, by fixing the time limits for the receipt of tenders, the contracting authority or entity must, whether on the basis of Article of Directive 2014/or of Article of Directive 2014/25, take account of the complexity of the contract and the time needed to prepare tenders.
+If, however, an economic operator shows that, following the publication of a call for tenders, the lack of prior information caused it a significant disadvantage compared to the operator who is already responsible for performance of the contract and therefore has exact knowledge of all the characteristics of the contract, a breach of the principle of effectiveness can be established, entailing the annulment of the call for tenders. Such a disadvantage may also constitute a breach of the principle of equal treatment.
+That must be assessed by the referring court, taking account of the relevant features of the case in question. In the present case, according to the order for reference, economic operators were afforded a period of days from the publication of the call for tenders at issue in the main proceedings in which to reply to it, which exceeds the minimum periods prescribed by Directives 2014/and 2014/25. Moreover, the economic operator concerned in the main proceedings was in possession of information on the possibility of a call for tenders well before the call for tenders was published.
+Furthermore, independently of a complaint in the circumstances envisaged in paragraph above, an economic operator is entitled to bring a complaint against the contracting authority or entity on the ground that, in the contract documents, the period for submitting tenders was too short, in breach of Article of Directive 2014/or Article of Directive 2014/25, which require account to be taken of the complexity of the contract and the time needed to prepare tenders.
+Consequently the answer to Questions and is that Article 7(2) of Regulation No 1370/is to be interpreted as meaning that an infringement of the obligation to provide prior information laid down in that provision does not entail the annulment of the call for tenders concerned, provided that the principles of equivalence, effectiveness and equal treatment are complied with, which is for the referring court to ascertain.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Ninth Chamber) hereby rules:
+ 
+Article 7(2) of Regulation (EC) No 1370/of the European Parliament and of the Council of October on public passenger transport services by rail and by road and repealing Council Regulations (EEC) Nos 1191/and 1107/must be interpreted as meaning that
+ 
+–
+the obligation to provide prior information laid down in that provision applies to contracts for public transport services by bus which are in principle awarded in accordance with the procedures provided for by Directive 2014/24/EU of the European Parliament and of the Council of February on public procurement and repealing Directive 2004/18/EC or by Directive 2014/25/EU of the European Parliament and of the Council of February on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC;
+–
+an infringement of that obligation to provide prior information does not entail the annulment of the call for tenders concerned, provided that the principles of equivalence, effectiveness and equal treatment are complied with, which is for the referring court to ascertain.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

@@ -1,0 +1,308 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+September (
+*)
+(Reference for a preliminary ruling — Directives 2006/123/EC, 2007/23/EC and 2013/29/EU — Placing on the market of pyrotechnic articles — Free movement of pyrotechnic articles compliant with the requirements of those directives — National legislation laying down restrictions on the storage and sale of those articles — Criminal penalties — Twofold authorisation scheme — Directive 98/34/EC — Concept of ‘technical regulation’)
+In Case C‑137/17,
+REQUEST for a preliminary ruling under Article TFEU from the Rechtbank van eerste aanleg te Antwerpen (Court of First Instance, Antwerp, Belgium), made by decision of May 2016, received at the Court on March 2017, in the proceedings
+Van Gennip BVBA,
+Antonius Johannes Maria ten Velde,
+Original BVBA,
+Antonius Cornelius Ignatius Maria van der Schoot,
+THE COURT (Fifth Chamber),
+composed of J.L. da Cruz Vilaça, President of the Chamber, E. Levits, A. Borg Barthet, M. Berger (Rapporteur) and F. Biltgen, Judges,
+Advocate General: Y. Bot,
+Registrar: R. Șereș, Administrator,
+having regard to the written procedure and further to the hearing on February 2018,
+after considering the observations submitted on behalf of:
+–
+Van Gennip BVBA and Original BVBA, by B. Deltour, advocaat,
+–
+Antonius Johannes Maria ten Velde and Antonius Cornelius Ignatius Maria van der Schoot, by J. Surmont, advocaat,
+–
+the Belgian Government, by P. Cottin and C. Pochet, acting as Agents, and J.-F. de Bock and J. Moens, advocaten,
+–
+the Greek Government, by T. Papadopoulou, M. Vergou and K. Georgiadis, acting as Agents,
+–
+the Polish Government, by B. Majczyna, acting as Agent,
+–
+the European Commission, by E. Manhaeve and K. Mifsud-Bonnici, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on April 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Articles to TFEU, Article of Directive 2006/123/EC of the European Parliament and of the Council of December on services in the internal market (OJ L 376, p. 36), Article 6(1) and (2) of Directive 2007/23/EC of the European Parliament and of the Council of May on the placing on the market of pyrotechnic articles (OJ L 154, p. 1), Article 4(1) and (2) and Article of Directive 2013/29/EU of the European Parliament and of the Council of June on the harmonisation of the laws of the Member States relating to the making available on the market of pyrotechnic articles (recast) (OJ L 178, p. 27).
+The request has been made in criminal proceedings brought against two legal persons, namely Van Gennip BVBA and Original BVBA and against two natural persons, namely Messrs Antonius Johannes Maria ten Velde and Antonius Cornelius Ignatius Maria van der Schoot, concerning the infringement by those persons of the national legislation on, inter alia, storage and sale of pyrotechnic articles.
+Legal context
+European Union law
+Directive 98/34/EC
+Article of Directive 98/34/EC of the European Parliament and of the Council of June laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services (OJ L 204, p. 37), as amended by Directive 98/48/EC of the European Parliament and of the Council of July (OJ L 217, p. 18), provides:
+‘For the purposes of this directive, the following meanings shall apply:
+(1)
+“product”: any industrially manufactured product and any agricultural product, including fish products;
+(2)
+“service”: any Information Society service, that is to say, any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services.
+…
+(3)
+“technical specification”: a specification contained in a document which lays down the characteristics required of a product such as levels of quality, performance, safety or dimensions, including the requirements applicable to the product as regards the name under which the product is sold, terminology, symbols, testing and test methods, packaging, marking or labelling and conformity assessment procedures.
+…
+(4)
+“other requirements”: a requirement, other than a technical specification, imposed on a product for the purpose of protecting, in particular, consumers or the environment, and which affects its life cycle after it has been placed on the market, such as conditions of use, recycling, reuse or disposal, where such conditions can significantly influence the composition or nature of the product or its marketing;
+(5)
+“rule on services”: requirement of a general nature relating to the taking-up and pursuit of service activities within the meaning of point 2, in particular provisions concerning the service provider, the services and the recipient of services, excluding any rules which are not specifically aimed at the services defined in that point.
+…
+(11)
+“technical regulation”: technical specifications and other requirements or rules or services, including the relevant administrative provisions, the observance of which is compulsory, de jure or de facto, in the case of marketing, provision of a service, establishment of a service operator or use in a Member State or a major part thereof, as well as laws, regulations or administrative provisions of Member States, except those provided for in Article 10, prohibiting the manufacture, importation, marketing or use of a product or prohibiting the provision or use of a service, or establishment as a service provider.
+…
+This directive shall not apply to those measures Member States consider necessary under the Treaty for the protection of persons, in particular workers, when products are used, provided that such measures do not affect the products.’
+Article 8(1) of that directive states:
+‘Subject to Article 10, Member States shall immediately communicate to the [European] Commission any draft technical regulation, except where it merely transposes the full text of an international or European standard, in which case information regarding the relevant standard shall suffice; they shall also let the Commission have a statement of the grounds which make the enactment of such a technical regulation necessary, where these have not already been made clear in the draft.
+…’
+Directive 2006/123/EC
+Recital of Directive 2006/is worded as follows:
+‘This directive does not concern the application of Articles [to TFEU] relating to the free movement of goods. The restrictions prohibited pursuant to the provision on the freedom to provide services cover the requirements applicable to access to service activities or to the exercise thereof and not those applicable to goods as such.’
+Article 1(5) of that directive provides:
+‘This directive does not affect Member States’ rules of criminal law. However, Member States may not restrict the freedom to provide services by applying criminal law provisions which specifically regulate or affect access to or exercise of a service activity in circumvention of the rules laid down in this directive.’
+Under Article of that directive:
+‘1.   This directive shall apply to services supplied by providers established in a Member State.
+2.   This directive shall not apply to the following activities:
+(a)
+non-economic services of general interest;
+(b)
+financial services …
+(c)
+electronic communications services and networks, and associated facilities and services, with respect to matters covered by Directives 2002/19/EC, 2002/20/EC, 2002/21/EC, 2002/22/EC and 2002/58/EC;
+(d)
+Services in the field of transport …
+(e)
+services of temporary work agencies;
+(f)
+healthcare services …
+(g)
+audio-visual services …
+(h)
+gambling activities which involve wagering a stake with monetary value in games of chance …
+(i)
+activities which are connected with the exercise of official authority as set out in Article [TFEU];
+(j)
+social services relating to social housing, childcare and support of families and persons permanently or temporarily in need which are provided by the State, by providers mandated by the State or by charities recognised as such by the State;
+(k)
+private security services;
+(l)
+services provided by notaries and bailiffs, who are appointed by an official act of government.
+3.   This directive does not apply to the field of taxation.’
+Article 4, point 1, of Directive 2006/defines the concept of ‘service’ as ‘any self-employed economic activity, normally provided for remuneration, as referred to in Article [TFEU]’.
+Chapter III of the directive, entitled ‘Freedom of establishment for providers’, includes, in Section I, entitled ‘Authorisations’, in particular, Article 10, entitled ‘Conditions for the granting of authorisation’, which provides:
+‘1.   Authorisation schemes shall be based on criteria which preclude the competent authorities from exercising their power of assessment in an arbitrary manner.
+2.   The criteria referred to in paragraph shall be:
+(a)
+non-discriminatory;
+(b)
+justified by an overriding reason relating to the public interest;
+(c)
+proportionate to that public interest objective;
+(d)
+clear and unambiguous;
+(e)
+objective;
+(f)
+made public in advance;
+(g)
+transparent and accessible.
+…
+7.   This article shall not call into question the allocation of the competences, at local or regional level, of the Member States’ authorities granting authorisations.’
+Directive 2007/23/EC
+Recitals 2, 4, 10, 11, 13, and of Directive 2007/state:
+‘(2)
+Those laws, regulations and administrative provisions, being liable to cause barriers to trade within the Community, should be harmonised in order to guarantee the free movement of pyrotechnic articles within the internal market whilst ensuring a high level of protection of human health and safety and the protection of consumers and professional end users.
+…
+(4)
+Council Directive 96/82/EC of December on the control of major-accident hazards involving dangerous substances [(OJ L 10, p. 13)] sets out safety requirements for establishments where explosives, including pyrotechnic substances, are present.
+…
+(10)
+The use of pyrotechnic articles and, in particular, the use of fireworks, is subject to markedly divergent cultural customs and traditions in the respective Member States. This makes it necessary to allow Member States to take national measures to limit the use or sale of certain categories of fireworks to the general public for reasons of public security or safety.
+(11)
+It is appropriate to establish essential safety requirements for pyrotechnic articles in order to protect consumers and to prevent accidents.
+…
+(13)
+It should not be possible, where the essential safety requirements are satisfied, for Member States to prohibit, restrict or hinder the free movement of pyrotechnic articles. This directive should apply without prejudice to national legislation on the licensing of manufacturers, distributors and importers by the Member States.
+…
+(16)
+In line with the “New approach to technical harmonisation and standardisation”, pyrotechnic articles manufactured in compliance with harmonised standards should benefit from a presumption of conformity with the essential safety requirements provided for in this directive.
+…
+(22)
+Member States should lay down rules on penalties applicable to infringements of the provisions of national law adopted pursuant to this directive and ensure that these rules are implemented. The penalties provided for should be effective, proportionate and dissuasive.’
+Article of the directive provides:
+‘1.   This directive establishes rules designed to achieve the free movement of pyrotechnic articles in the internal market while, at the same time, ensuring a high level of protection of human health and public security and the protection and safety of consumers and taking into account the relevant aspects related to environmental protection.
+2.   This directive establishes the essential safety requirements which pyrotechnic articles must fulfil with a view to their being placed on the market.
+…’
+Under Article of the directive:
+‘For the purposes of this directive, the following meanings shall apply:
+(1)
+“pyrotechnic article” means any article containing explosive substances or an explosive mixture of substances designed to produce heat, light, sound, gas or smoke or a combination of such effects through self-sustained exothermic chemical reactions;
+…
+(8)
+“distributor” means any natural or legal person in the supply chain who makes a pyrotechnic article available on the market in the course of his business;
+…’
+Article of Directive 2007/23, entitled ‘Free movement’, states:
+‘1.   Member States shall not prohibit, restrict or hinder the placing on the market of pyrotechnic articles which satisfy the requirements of this directive.
+2.   The provisions of this directive shall not preclude measures taken by a Member State to prohibit or restrict the possession, use and/or the sale to the general public of category and fireworks, theatrical pyrotechnic articles and other pyrotechnic articles, which measures are justified on grounds of public order, security or safety, or environmental protection.
+…’
+Article 14(1) of that directive provides:
+‘Member States shall take all appropriate measures to ensure that pyrotechnic articles may be placed on the market only if, when properly stored and used for their intended purpose, they do not endanger the health and safety of persons.’
+Under the first paragraph of Article of that directive:
+‘Member States shall lay down rules on penalties applicable to infringements of the provisions of national law adopted pursuant to this directive and ensure that they are implemented. The sanctions thus provided for shall be effective, proportionate and dissuasive.’
+Directive 2013/Article of Directive 2013/29, entitled ‘Free movement’, states:
+‘1.   Member States shall not prohibit, restrict or hinder the making available on the market of pyrotechnic articles which satisfy the requirements of this directive.
+2.   This directive shall not preclude measures taken by a Member State to prohibit or restrict the possession, use and/or the sale to the general public of category Fand Ffireworks, theatrical pyrotechnic articles and other pyrotechnic articles, which are justified on grounds of public order, security, health and safety, or environmental protection.
+…’
+Article of that directive provides:
+‘Member States shall lay down rules on penalties applicable to infringements by economic operators of the provisions of national law adopted pursuant to this directive and shall take all the measures necessary to ensure that they are enforced. Such rules may include criminal penalties for serious infringements.
+The sanctions thus provided for shall be effective, proportionate and dissuasive.’
+The first paragraph of Article of that directive states:
+‘Directive 2007/…, as amended by the act listed in Annex IV, Part A, is repealed with effect from July 2015, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law and the dates of application of the Directive set out in Annex IV, Part B.’
+Under the first paragraph of Article of Directive 2013/29:
+‘This directive shall enter into force on the day following that of its publication in the Official Journal of the European Union.’
+Belgian law
+Article of the wet betreffende ontplofbare en voor de deflagratie vatbare stoffen en mengsels en de daarmede geladen tuigen (Law on explosive and deflagration-prone substances and mixtures and apparatus loaded with them) of May (Belgisch Staatsblad of June 1956, p. 3990), in the version applicable to the main proceedings (‘the Law on explosive substances’), provides:
+‘Infringements of the provisions laid down in Article shall be punishable by imprisonment of days up to two years and a fine of one hundred francs to one thousand francs, or by only one of the aforementioned penalties.’
+Article of the koninklijk besluit houdende algemeen reglement betreffende het fabriceren, opslaan, onder zich houden, verkopen, vervoeren en gebruiken van springstoffen (Royal Decree laying down general rules on the manufacture, storage, detention, sale, transport and use of explosives) of September (Belgisch Staatsblad of December 1958, p. 9075), in the version applicable to the main proceedings (‘the Royal Decree on explosives’), provides:
+‘No explosive shall be kept in quantities exceeding such quantities as a person may hold under Article 265, [outside] warehouses or duly authorised depots.’
+Article of that Royal Decree provides:
+‘The sale of any explosives, in quantities exceeding such quantities as any individual may possess and set out in Article 265, can be made only if the following conditions are met:
+1°
+the buyer holds a transport authorisation as referred to in Article 72;
+2°
+the buyer holds an authorisation to store or keep those products on a temporary basis;
+3°
+the buyer can prove that he is professionally active in the explosives sector, as a manufacturer of, dealer in or user of explosives.
+The condition referred to in point shall apply only where goods purchased are intended for storage or temporary detention on Belgian territory.
+The seller shall verify and archive all documents submitted by purchasers to prove compliance with the obligations referred to [in] the first [subparagraph]. Those documents shall, for at least three years, be kept available for the staff of the Direction générale Qualité et Sécurité du Service public fédéral Économie, P.M.E., Classes moyennes et Énergie (Directorate-General for Quality and Safety of the Federal Public Service for the Economy, SMEs, the Self-Employed and Energy) and police and legal authorities in the premises where the sales are made.’
+Under Article of that Royal Decree:
+‘Operators must always hold a storage licence; they may not keep or sell, even in extremely small quantities, explosives other than those set out in Article 261.
+Their depots must be set up and maintained as provided for in Article 251.’
+Article of the Royal Decree on explosives provides:
+‘The type and quantities of explosives which may be kept by operators shall be determined in each specific case by the licensing order, according to the level of safety of each depot.
+Those products may not be held in quantities exceeding the following:
+…
+2°
+party fireworks and signal flares of up to kilogrammes of pyrotechnic composition contained therein;
+…’
+Article of that Royal Decree provides:
+‘No authorisation is required to hold:
+…
+7°
+a quantity of party fireworks and signal flares containing up to [one] kg pyrotechnic composition.’
+Article of that Royal Decree provides:
+‘Breaches of the provisions of this regulation, with the exception of Article 295, of decrees made implementing those provisions, as well as the provisions of authorising decrees are punishable by the penalties laid down in the Law on explosive substances.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Original, a company whose registered office is in Olen (Belgium), is an importer, wholesaler and distributor of pyrotechnic articles. To that end, it has two points of sale in Baerle-Duc (Belgium), a municipality of which part is in the province of North Brabant (Netherlands) and part forms an enclave within the municipality of Baarle-Nassau (Netherlands). These outlets are operated by Van Gennip, a company with its headquarters in Baerle-Duc. Mr ten Velde and Mr van der Schoot, two Dutch nationals, are responsible for those points of sale.
+Mr ten Velde, Mr van der Schoot, Van Gennip and Original are being prosecuted, on the basis of the Royal Decree on explosives and the Law on explosive substances, for having, firstly, stored pyrotechnic articles of which the pyrotechnic composition by weight exceeded the maximum weight set out in the licenses issued by the Belgian authorities, secondly, stored pyrotechnic articles in unauthorised locations and, thirdly, sold pyrotechnic articles to persons who did not hold a proper permit.
+It is apparent from the order for reference, first of all, that Mr ten Velde and Mr van der Schoot are of the opinion that the criminalisation of the infringements, as provided for in Belgian legislation, is contrary to Article of Directive 2013/29, in so far as that article restricts criminal penalties to serious infringements. However, none of the facts raised against them constitutes a breach of that kind. The openbaar ministerie (Public Prosecutor’s Office, Belgium), on the other hand, contends that the directive allows Member States the possibility of imposing administrative penalties or criminal penalties, or both those types of penalty together.
+Next, the defendants and the openbaar ministerie (Public Prosecutor’s Office) are in disagreement as to whether the obligation to hold both a federal and a regional explosive permit complies with Directives 2007/23, 2013/and 2006/123.
+Finally, Mr van der Schoot claims that the national legislation, which prohibits the sale of explosives containing more than kg of pyrotechnic composition to individuals who do not hold a proper permit, is contrary to directives 2007/and 2013/29.
+In those circumstances, the rechtbank van eerste aanleg te Antwerpen (Court of First Instance, Antwerp, Belgium) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Do the following infringements of the Belgian legislation on pyrotechnic articles qualify as “serious infringements” within the meaning of Article of [Directive 2013/29]:
+(a)
+the sale of pyrotechnic articles in the amount of 2.kg of pyrotechnic composition, being an infringement of Articles 265(7) and of the [Royal Decree on explosives] laying down general rules on the manufacture, storage, detention, sale, transport and use of explosives, which prohibits the sale of pyrotechnic articles in quantities exceeding kg of pyrotechnic composition, if the consumer is not in possession of an individually-obtained administrative authorisation to hold a larger quantity of pyrotechnic articles;
+(b)
+the exceeding of the determined storage limit and the non-compliance with the storage locations indicated in a federal fireworks authorisation, even though a regional environmental permit had already been issued for the storage of the actual higher quantities in question, in the locations in question;
+(c)
+the very temporary storage of extremely small quantities of pyrotechnic articles in various locations not specifically authorised for storage, on the premises of an establishment for the retail sale of pyrotechnic articles, possessing both a federal fireworks authorisation and a regional environmental permit?
+(2)
+Does the principle of the free movement of pyrotechnic articles, as laid down in Article 6(1) of [Directive 2007/23] (now Article 4(1) of [Directive 2013/29]), read in conjunction, if necessary, with Article of [Directive 2006/123], preclude national legislation which makes the storage of pyrotechnic articles compliant with [Directive 2007/23].associated with the retail trade subject to the twofold requirement of possessing (i) an authorisation granted pursuant to the legislation governing the manufacture, storage, holding, sale, transport and use of explosives, and (ii) an authorisation granted under the legislation on environmental authorisations for nuisance-causing structures, when both authorisation regimes essentially have the same objective (the preventive assessment of safety risks), and one of those two authorisation regimes (in this case, that relating to explosives) sets a (very) low maximum threshold for the storage of party fireworks (in the amount of kg of pyrotechnic composition (that is, the active substance))?
+(3)
+Does the principle of the free movement of pyrotechnic articles, as laid down in Article 4(2) of [Directive 2013/29] and Article 6(2) of [Directive 2007/23] (read together, if necessary, with Articles 34, and [TFEU]), in conjunction with the principle of proportionality, preclude national legislation which prohibits party fireworks (fireworks from categories and [as set out in Article 3(1)(a)] of [Directive 2007/23]) containing more than kg of pyrotechnic composition from being held or used by, or sold to, consumers?’
+Consideration of the questions referred
+Preliminary observations
+It must be noted that, in their written observations, Mr ten Velde and Mr van der Schoot have claimed that national legislation, such as that at issue in the main proceedings, which prohibits the holding or use by consumers and the sale to consumers of fireworks containing over kg of pyrotechnic composition constitutes a technical regulation and, more precisely, one of the ‘other requirements’, within the meaning of Article 1, point of Directive 98/34. In their view, since it was not notified by the Kingdom of Belgium to the Commission, that legislation is unlawful and inapplicable.
+At the hearing before the Court, the Belgian Government argued, inter alia, that that legislation constitutes a measure necessary for ‘the protection of persons, in particular workers, when products are used’ within the meaning of the final paragraph of Article of Directive 98/and that that directive is therefore not applicable to the main proceedings.
+In that regard, on the one hand, it is apparent from the file submitted to the Court that, although the national legislation at issue in the main proceedings does in fact seek to protect public security, it does not, however, cover the use of pyrotechnic articles, but rather the sale of those articles. Consequently, that legislation does not fall within the scope of the final paragraph of Article of Directive 98/34.
+On the other hand, it remains to be determined whether the national legislation at issue in the main proceedings constitutes a ‘technical regulation’, within the meaning of Article 1, point 11, of Directive 98/34, and whether it is, as such, subject to the requirement of notification to the Commission under Article 8(1) of that directive.
+In that regard, it must be recalled that the concept of a ‘technical regulation’ extends to four categories of measures, namely, (i) the ‘technical specification’, within the meaning of Article 1, point 3, of Directive 98/34; (ii) ‘other requirements’, as defined in Article 1, point 4, of that directive; (iii) the ‘rule on services’, covered in Article 1, point 5, of that directive, and (iv) the ‘laws, regulations or administrative provisions of Member States prohibiting the manufacture, importation, marketing or use of a product or prohibiting the provision or use of a service, or establishment as a service provider’, under Article 1, point 11, of that directive (judgment of October 2016, M. and S., C‑303/15, EU:C:2016:771, paragraph and the case-law cited).
+As regards, firstly, the concept of ‘technical specification’, it should be recalled that that concept presupposes that the national measure necessarily refers to the product or its packaging as such and therefore lays down one of the characteristics required of a product, such as the dimensions, the sales description, labelling or marking (judgment of July 2014, Ivansson and Others, C‑307/13, EU:C:2014:2058, paragraph and the case-law cited). However, as the Advocate General observed in point of his Opinion, the Belgian legislation does not refer to pyrotechnic articles or their packaging as such, so that that legislation does not lay down one of the required characteristics of these products. Accordingly, that legislation does not constitute a ‘technical specification’, within the meaning of Article 1, point 3, of Directive 98/34.
+Secondly, as regards the category of ‘other requirements’, it is appropriate to note that, in order to be classified as ‘other requirements’, within the meaning of Article 1, point 4, of Directive 98/34, a national measure must constitute a ‘condition’ which can significantly influence the composition, nature or marketing of the product concerned (judgment of October 2016, M. and S., C‑303/15, EU:C:2016:771, paragraph and the case-law cited).
+In that regard, it must be noted, as did the Advocate General in point of his Opinion, that the Belgian legislation makes the sale of pyrotechnic articles of which the pyrotechnic composition exceeds kg subject to the buyer acquiring an authorisation. Thus, the required authorisation does not constitute a requirement in respect of the product concerned, but for potential buyers and, indirectly, for economic operators selling pyrotechnic articles (see, to that effect, judgments of April 2005, Lindberg, C‑267/03, EU:C:2005:246, paragraph 87, and of October 2016, M. and S., C‑303/15, EU:C:2016:771, paragraph 29).
+It follows that the legislation at issue in the main proceedings cannot be regarded as constituting ‘other requirements’ within the meaning of Article 1, point 4, of Directive 98/34.
+Concerning, thirdly, the category ‘rule on services’, it must be recalled that, under Article 1, point 5, of Directive 98/34, such a rule constitutes any requirement of a general nature relating to the taking-up and pursuit of services referred to in Article 1, point 2, of that directive, which designate ‘any Information Society service, that is to say, any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services’ (judgment of February 2016, Ince, C‑336/14, EU:C:2016:72, paragraph 74).
+In the present case, it must be held, as the Advocate General stated in point of his Opinion, that the legislation at issue in the main proceedings does not involve Information Society services, within the meaning of Article 1, point 2, of Directive 98/34. Accordingly, that legislation cannot fall within the category ‘rule on services’ of the Information Society, within the meaning of Article 1, point 5, of that directive.
+As regards, fourthly, the category of the prohibitions referred to in Article 1, point 11, of Directive 98/34, it suffices to note that the legislation at issue in the main proceedings cannot fall within this category either since, as the Advocate General stated in point of his Opinion, that legislation does not prohibit the marketing of pyrotechnic articles of which the pyrotechnic composition exceeds kg, but makes that marketing subject to the condition that the buyer is in possession of an authorisation.
+In the light of all the foregoing considerations, it must be held that the legislation at issue in the main proceedings does not fall within the concept of ‘technical regulation’ within the meaning of Directive 98/34, subject to the notification obligation under Article 8(1) of that directive, breach of which is penalised by the inapplicability of such a regulation.
+The third question
+By its third question, which it is appropriate to examine first, the referring court asks, in essence, whether the principle of free movement of pyrotechnic articles, as provided for, inter alia, in Article 6(2) of Directive 2007/and Article 4(2) of Directive 2013/29, read, if appropriate, in conjunction with Articles to TFEU, combined with the principle of proportionality, must be interpreted as precluding national legislation, such as that at issue in the main proceedings, which prohibits the possession or use by consumers and the sale to consumers of fireworks of which the pyrotechnic composition exceeds kg.
+With a view to answering that question, it should be pointed out, first of all, that it is apparent from the order for reference that Mr van der Schoot is being prosecuted for having sold category and party fireworks, as defined in Directive 2007/23, of which the pyrotechnic composition exceeded kg, to an individual who did not hold the necessary authorisation. Since those events occurred on December and therefore, as is clear from Articles and of Directive 2013/29, prior to the adoption and entry into force thereof, Directive 2007/is applicable ratione temporis to the main proceedings.
+Next, it must be recalled that, in accordance with recital and from Article 1(1) of Directive 2007/23, the main purpose of that directive is to counter barriers to trade within the EU which arise due to differences in the laws, regulations and administrative provisions of the Member States on the placing on the market of pyrotechnic articles which it defines, and thus to guarantee the free movement of such articles in the internal market, while ensuring a high level of protection of human health and public security and the protection and safety of consumers and professional users (judgment of October 2016, Commission v Germany, C‑220/15, EU:C:2016:815, paragraph 40).
+As regards the free movement of pyrotechnic articles, Article 6(1) of Directive 2007/provides that Member States may not prohibit, restrict or impede the marketing of pyrotechnic articles throughout the EU, unless the measures which they adopt fall within the exceptions laid down in Article 6(2) of that directive or within the market surveillance activity provided for in Article 14(6) of that directive (see judgment of October 2016, Commission v Germany, C‑220/15, EU:C:2016:815, paragraph 43).
+In the present case, in so far as the third question concerns the interpretation of Articles to TFEU and of Article 6(2) of Directive 2007/23, it must be held that that provision allows Member States to take national measures to restrict, on grounds of public policy, public security or safety, or environmental protection, the use or the sale to the public of certain categories of fireworks. The reason that that is possible for the Member States is based, as is apparent from recital of that directive, on the fact that the use of pyrotechnic articles and, in particular, the use of fireworks, is subject to markedly divergent cultural customs and traditions in the respective Member States.
+Since the issue of limiting the sale and use of certain categories of fireworks thus falls within the scope of Directive 2007/23, in particular of Article 6(2) of the directive, there is no need to interpret Articles to TFEU.
+Finally, it is not in dispute that national legislation such as that at issue in the main proceedings, which prohibits the sale of fireworks of which the pyrotechnic composition exceeds kg to consumers who do not hold the necessary authorisation to do so, restricts the free movement of those fireworks. However, as has been stated in paragraph of this judgment, under Article 6(1) of Directive 2007/23, a restriction on the free movement of pyrotechnic articles compliant with the requirements of that directive is, in principle, prohibited.
+Nevertheless, as has been recalled in paragraph of the present judgment, such a restriction may be justified under Article 6(2) of that directive on grounds of public policy, public security or safety, or environmental protection.
+In that regard, the Belgian Government pointed out at the hearing that the national legislation at issue in the main proceedings seeks to protect public order and security and cannot be regarded as being manifestly disproportionate.
+Concerning the principle of proportionality, while it is ultimately for the referring court to verify, in an overall assessment of all the relevant facts and points of law, whether that national legislation is appropriate to ensure the attainment of the objectives pursued and does not go beyond what is necessary to achieve them, the Court, called upon to provide the national court with a useful answer, is nonetheless competent to provide guidance to that court, based on the file before it and on the written and oral observations which have been submitted to the Court, in order to enable the national court to give judgment in the particular case pending before it.
+As regards, in the first place, the appropriateness of the national legislation to the protection of public order and security, it must be recalled that the Member States remain free to determine, in accordance with their national needs, which can vary from one Member State to another and from one time to another, the requirements of public policy and public security. Thus, the Member States alone are responsible for the maintenance of law and order and the safeguarding of internal security on their territory and enjoy a margin of discretion in determining, according to particular social circumstances and to the importance they attach to a legitimate objective under EU law, the measures which are likely to achieve concrete results (see, to that effect, judgments of June 1999, Heinonen, C‑394/97, EU:C:1999:308, paragraph 43; of March 2000, Église de scientologie, C‑54/99, EU:C:2000:124, paragraph 17, and of July 2008, Jipa, C‑33/07, EU:C:2008:396, paragraph 23).
+In that regard, it is appropriate to add that, in accordance with the settled case-law of the Court, reliance on the exception of public policy and security constitutes a derogation from the fundamental principle of the free movement of goods, which must be interpreted strictly and the scope of which cannot be determined unilaterally by the Member States without any control by the institutions of the EU (see, by analogy, judgments of January 2006, Commission v Spain, C‑503/03, EU:C:2006:74, paragraph 45; of June 2008, Commission v Luxembourg, C‑319/06, EU:C:2008:350, paragraph 30, and of July 2017, E, C‑193/16, EU:C:2017:542, paragraph and the case-law cited).
+The Court’s case-law has accordingly made it clear that the concept of public policy presupposes, in any event, the existence, in addition to the perturbation of the social order which any infringement of the law involves, of a genuine, present and sufficiently serious threat to one of the fundamental interests of society (see, by analogy, judgments of January 2006, Commission v Spain, C‑503/03, EU:C:2006:74, paragraph 46; of June 2008, Commission v Luxembourg, C‑319/06, EU:C:2008:350, paragraph 50, and of November 2011, Aladzhov, C‑434/10, EU:C:2011:750, paragraph 35).
+In the present case, it is appropriate to note, as the Advocate General observed in point of his Opinion, that pyrotechnic articles are inherently dangerous products since, in particular articles of which the pyrotechnic composition exceeds kg, they can prejudice the safety of persons. He also stated, correctly, that those articles, due to their very nature and depending on the circumstances in which they are used, can affect public order.
+Accordingly, the fact of making the sale to individuals of pyrotechnic articles of which the pyrotechnic composition exceeds kg is subject to the acquisition of an authorisation by individuals is such as to prevent threats to the public order and safety since that national legislation permits the monitoring and, where appropriate, restrictions on the quantity of pyrotechnic composition is in the possession of an individual. Consequently, that national legislation appears appropriate for the protection of public order and safety.
+As regards, in the second place, the question whether the national legislation goes beyond what is necessary to safeguard the objectives pursued, it must be borne in mind that Article 6(2) of Directive 2007/confers considerable discretion on Member States as to the measures that they may adopt to ensure public order, security or safety, or environmental protection. Those measures, which may concern both the possession and the use and sale of certain pyrotechnic products, include measures of prohibition and restriction.
+In the present case, it is apparent from the file before the Court that the national legislation at issue in the main proceedings does not lay down an absolute prohibition on the sale of pyrotechnic products, but merely makes such sales subject to the condition that the consumer hold a prior authorisation when he purchases party fireworks and signal flares of which the pyrotechnic composition exceeds kg.
+It follows that that national legislation restricts the sale of certain pyrotechnic products to consumers.
+Furthermore, as the Advocate General observed in point of his Opinion, less restrictive measures, such as registration following the purchase of products containing a certain weight of pyrotechnic composition, seem not to be as effective in protecting the fundamental interests relied on by the Belgian Government. Such a formality does enable the quantity of pyrotechnic composition acquired by a consumer to be determined, but not to affect the amount which may be acquired or, consequently, to fight effectively against infringements of the fundamental interests involved. Consequently, the national legislation at issue in the main proceedings does not appear to go beyond what is necessary for the purpose of protecting public order and safety.
+In the light of all the foregoing considerations, the answer to the third question is that the principle of free movement of pyrotechnic articles, as provided for, inter alia, in Article 6(2) of Directive 2007/23, does not preclude national legislation which restricts the possession or use by consumers and the sale to consumers of fireworks of which the pyrotechnic composition exceeds kg, to the extent that such legislation is appropriate to guarantee public order and security and does not go beyond what is necessary to protect those fundamental interests, which it is for the referring court to ascertain.
+The second question
+By its second question, the referring court asks whether the principle of free movement of pyrotechnic articles, as referred to in Article 6(1) of Directive 2007/23, read, if appropriate, in conjunction with Article of Directive 2006/123, must be interpreted as precluding a national rule, such as that at issue in the main proceedings, which makes the storage of pyrotechnic articles in accordance with Directive 2007/and intended for the retail sector subject to dual authorisation being obtained, namely a federal authorisation for explosives and a regional environmental permit, while those two authorisation schemes pursue the same objective, that is to say the prevention of risks to security, and where the first of those schemes sets a very low maximum ceiling for the storage of party fireworks.
+In order to provide a useful answer to the referring court, it must be noted, in the first place, that national legislation such as that at issue in the main proceedings does not fall within the scope ratione materiae of Directive 2007/23.
+Indeed, as the Advocate General has observed in point of his Opinion, it follows from recital and Article 14(1) of that directive that storage falls outside the scope of that directive only in so far as the conditions in which the pyrotechnic articles concerned are stored must not compromise their compliance with the essential safety requirements laid down in that directive.
+However, national legislation such as that at issue in the main proceedings, which makes the storage of pyrotechnic articles in accordance with Directive 2007/and intended for the retail trade subject to dual authorisation being obtained, cannot have any effect on the conformity of those articles with such requirements.
+It is necessary, in the second place, to determine whether the national legislation at issue in the main proceedings falls within the scope ratione materiae of Directive 2006/123.
+In that regard, it must be recalled that Directive 2006/is applicable, in accordance with Article 2(1) thereof, to services supplied by providers established in a Member State, with the exception of the activities and matters referred to in Article 2(2) and (3) of that directive.
+Indeed, it is common ground that the national legislation at issue in the main proceedings does not concern an activity referred to in Article 2(2) of Directive 2006/and does not fall within the field of taxation.
+Further, under Article 4(1) of Directive 2006/123, ‘service’ means, for the purposes of that directive, any self-employed economic activity, normally provided for remuneration, as referred to in Article TFEU. What is more, recital of that directive states that the restrictions prohibited pursuant to the provision on the freedom to provide services cover the requirements applicable to access to service activities or to the exercise thereof and not those applicable to goods as such.
+As noted by the Advocate General in point of his Opinion, although the national legislation formally relates to the storage of pyrotechnic articles, and not to access to the activity of retail trade in those articles, the storage of pyrotechnic articles to be sold constitutes, for the ‘operators’, such as those at issue in the main proceedings, a prerequisite to that activity of retail trade.
+In fact, as the Advocate General noted in point of his Opinion, on the one hand, that national legislation refers to ‘operators’ and, consequently, storage with a view to sale. On the other hand, the fact, in the context of a retail trade activity, of making the possession of party fireworks of which the pyrotechnic composition exceeds a certain amount subject to authorisation has a definite effect on both access to that activity and its exercise.
+Furthermore, the Court has already stated that the activity of retail trade in goods constitutes a ‚service’ within the meaning of Article 4, point 1, of Directive 2006/(see, to that effect, judgment of January 2018, X and Visser, C‑360/and C‑31/16, EU:C:2018:44, paragraphs and 97).
+In those circumstances, it must be held that the national legislation at issue in the main proceedings, which makes the storage of pyrotechnic articles intended for retail sale subject to dual authorisation being obtained, falls within the scope of Directive 2006/123.
+Since, in the main proceedings, the referring court has doubts as to the compliance of that legislation with Article of Directive 2006/123, in that it makes the storage of pyrotechnic articles compliant with Directive 2007/and intended for the retail trade subject to dual authorisation being obtained, it must, on the one hand, be stated that, as the Advocate General observed in point of his Opinion, the obligation to hold both a federal and a regional authorisation cannot in itself constitute a ground of incompatibility with Directive 2006/since, by virtue of Article 10(7) of that directive, that article cannot call into question ‘the allocation of the competences, at local or regional level, of the Member States’ authorities to grant authorisations’.
+It is necessary, on the other hand, to determine whether the conditions for the grant of authorisations under both of those schemes satisfy the specific obligations laid down in Article 10(2) of Directive 2006/123.
+Under that provision, the conditions for grant of an authorisation must be non-discriminatory, justified by imperative reasons in the general interest and proportionate to that objective, which means that they are suitable for securing the attainment of that objective and do not go beyond what is necessary in order to attain it (see judgment of October 2015, Trijber and Harmsen, C‑340/and C‑341/14, EU:C:2015:641, paragraph 70). Moreover, that provision requires that those conditions be clear and unambiguous, objective, transparent, accessible and made public in advance.
+It is settled case-law that it is ultimately for the national court, which has sole jurisdiction to assess the facts of the dispute pending before it, to determine whether a measure fulfils the requirements referred to in paragraph of this judgment. The Court, however, which is called on to provide answers of use to the referring court, may provide guidance based on the documents relating to the main proceedings and on the written and oral observations which have been submitted to the Court, in order to enable the referring court to give judgment (see judgments of October 2015, Trijber and Harmsen, C‑340/and C‑341/14, EU:C:2015:641, paragraph 55; of October 2015, Grupo Itevelesa and Others, C‑168/14, EU:C:2015:685, paragraph 77; and of January 2018, X and Visser, C‑360/and C‑31/16, EU:C:2018:44, paragraph and the case-law cited).
+In the present case, firstly, it is apparent from the information available to the Court that the conditions for the grant of authorisation under both the schemes in question are justified by imperative reasons in the general interest, namely the protection of public safety and health, as regards the federal authorisation, and the protection of the environment, as regards the regional authorisation.
+Thus, as argued by the Belgian Government at the hearing, the second question is based, in so far as it states that the two authorisation schemes at issue in the main proceedings pursue the same objective, on an incorrect premiss.
+Secondly, it is common ground that the conditions for the grant of such authorisation of those schemes, because of the publication of federal and regional legislation, are made public in advance and are therefore transparent and accessible.
+Thirdly, it cannot be validly argued that those conditions do not meet the criteria relating to clarity and non-ambiguity, referred to in Article 10(2)(d) of Directive 2006/123, due to the fact that the two authorisation schemes would overlap. First of all, that criterion refers to the need to make the conditions for authorisation easily understandable by all while avoiding any ambiguity in their wording. Next, as has already been stated in paragraph of this judgment, those two authorisation schemes are intended to protect different public interests. Lastly, at the hearing, the Belgian Government stated that the acquisition of each of those authorisations is subject to precise, different conditions.
+Accordingly, subject to the verification which it is for the referring court to carry out, the conditions for the grant of authorisation under the two schemes at issue in the main proceedings appear to be clear and unambiguous.
+Fourthly, the file submitted to the Court does not enable an assessment to be made of whether the conditions for the grant of authorisation under the schemes at issue in the main proceedings are non-discriminatory, proportionate and objective. That will therefore be for the referring court to ascertain. In the context of the review of the proportionality of the conditions laid down, the national court must ascertain, in particular, whether the ceiling of kg of pyrotechnic composition, laid down in the federal scheme, constitutes a ceiling which is appropriate for ensuring the attainment of the objective pursued and does not go beyond what is necessary for attaining that objective.
+In the light of all the foregoing considerations, the answer to the second question is that Article of Directive 2006/must be interpreted as meaning that it does not preclude national legislation which makes the storage of pyrotechnic articles compliant with Directive 2007/and intended for the retail trade subject to dual authorisation, namely a federal authorisation and a regional environmental permit, provided that all the conditions set out in Article 10(2) of that directive are satisfied, which it is for the referring court to ascertain.
+The first question
+By its first question, which it is appropriate to consider last, the referring court asks, in essence, whether the offences for which the accused in the main proceedings are prosecuted constitute ‘serious infringements’ within the meaning of Article of Directive 2013/29, so that they may be punished by criminal penalties.
+It is apparent from the file submitted to the Court that the facts in respect of which the accused in the main proceedings are prosecuted took place between November and January 2013. However, since those facts date from before the entry into force of Directive 2013/29, that directive is not applicable ratione temporis to the dispute in the main proceedings. Those facts therefore fall, ratione temporis, within the scope of Directive 2007/23.
+In addition, two of the infringements referred to in the context of the first question are infringements of authorisations issued under the Belgian legislation providing for a system of dual authorisation for the storage of pyrotechnic articles with a view to their sale. As has been stated in paragraphs and of this judgment, that legislation does not fall within the scope ratione materiae of Directive 2007/but within that of Directive 2006/123.
+Therefore, in the present case, only the criminalisation of the infringement consisting of the sale, to consumers, of pyrotechnic articles of which the pyrotechnic composition exceeds kg without those consumers holding the appropriate authorisation, was adopted on the basis of national provisions falling within both the material and temporal scope of Directive 2007/23.
+It must, however, be borne in mind that, even though, formally, the referring court has limited its question to the interpretation of Article of Directive 2013/29, that does not prevent the Court from providing the referring court with all the elements of interpretation of EU law which may be of assistance in adjudicating on the case before it, whether or not that court has specifically referred to them in its question (see, by analogy, judgment of February 2018, MA.T.I. SUD and Duemme SGR, C‑523/and C‑536/16, EU:C:2018:122, paragraph and the case-law cited).
+In those circumstances, it is necessary to understand the first question as seeking to ascertain, on the one hand, whether Article of Directive 2007/must be interpreted as allowing Member States to impose criminal penalties and, on the other, whether Directive 2006/must be interpreted as meaning that Member States may lay down criminal penalties for infringements of national legislation, such as that at issue in the main proceedings, which makes the storage of pyrotechnic articles compliant with Directive 2007/and intended for the retail trade, subject to dual authorisation being obtained.
+As regards, firstly, the interpretation of Article of Directive 2007/23, it must be noted that that provision does not determine either the charges or the penalties applicable, but merely states that Member States have an obligation to lay down such penalties.
+As the Advocate General observed in point of his Opinion, since that article does not specify the nature of the penalties that the Member States must adopt, but provides that they must be effective, proportionate and dissuasive, it follows from the wording of that article that the Member States remain free to determine the nature of the penalties applicable and may, in consequence, lay down criminal penalties for infringements of the national provisions adopted in accordance with Directive 2007/23, provided that those penalties are effective, proportionate and dissuasive.
+It follows therefrom, on the one hand, that criminal penalties may be ordered for infringements of the national provisions falling within the scope of Directive 2007/23. Indeed, as has been stated in paragraphs and of this judgment, only criminalisation of the sale of pyrotechnic articles, such as provided for in the national legislation, falls within the scope ratione materiae and ratione temporis of Directive 2007/23, criminal penalties concerning the storage of those articles with a view to their sale, as provided for in the dual authorisation schemes, which are governed by Directive 2006/123.
+It follows, on the other hand, that, although Article of Directive 2007/23, unlike Article of Directive 2013/did not provide explicitly that Member States could adopt criminal penalties for serious infringements, that provision did not preclude such a possibility. Accordingly, that Article cannot be regarded as a lex mitior.
+That having been said, it must be recalled that it is also for the national court to ascertain whether the penalties applicable are effective, proportionate and dissuasive. In assessing the proportionality of sanctions, it is for the national court to take account of the gravity of the infringement (see, by analogy, judgment of February 2012, Urbán, C‑210/10, EU:C:2012:64, paragraphs and 44).
+As regards, secondly, the interpretation of Directive 2006/123, it should be noted that, under Article 1(5) of that directive, the latter does not affect Member States’ rules of criminal law provided that they do not have the effect of circumventing the rules laid down in that Directive.
+Accordingly, Member States may provide for criminal penalties for infringements of national legislation, such as that at issue in the main proceedings, which makes the storage of pyrotechnic articles compliant with Directive 2007/and intended for the retail trade, subject to dual authorisation being obtained, provided that the national rules of criminal law do not have the effect of circumventing those of Directive 2006/123.
+In the light of all the foregoing considerations, the answer to the first question is that Article of Directive 2007/and Article 1(5) of Directive 2006/must be interpreted as meaning that Member States can adopt criminal law penalties provided that, as regards Directive 2007/23, those penalties are effective, proportionate and dissuasive and, as regards Directive 2006/123, the national rules of criminal law do not have the effect of circumventing the rules contained in that directive.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+1.
+The principle of free movement of pyrotechnic articles, as provided for, inter alia, in Article 6(2) of Directive 2007/23/EC of the European Parliament and of the Council of May on the placing on the market of pyrotechnic articles, does not preclude national legislation which restricts the possession or use by consumers and the sale to consumers of fireworks of which the pyrotechnic composition exceeds kg, to the extent that such legislation is appropriate to guarantee public order and security and does not go beyond what is necessary to protect those fundamental interests, which it is for the referring court to ascertain.
+ 
+2.
+Article of Directive 2006/123/EC of the European Parliament and of the Council of December on services in the internal market must be interpreted as meaning that it does not preclude national legislation which makes the storage of pyrotechnic articles compliant with Directive 2007/and intended for the retail trade subject to dual authorisation, namely a federal authorisation and a regional environmental permit, provided that all the conditions set out in Article 10(2) of that directive are satisfied, which it is for the referring court to ascertain.
+ 
+3.
+Article of Directive 2007/and Article 1(5) of Directive 2006/must be interpreted as meaning that Member States can adopt criminal law penalties provided that, as regards Directive 2007/23, those penalties are effective, proportionate and dissuasive and, as regards Directive 2006/123, the national rules of criminal law do not have the effect of circumventing the rules contained in that directive.
+ 
+[Signatures]
+(
+*)	Language of the case: Dutch.
+Top  

@@ -1,0 +1,128 @@
+
+JUDGMENT OF THE COURT (Fifth Chamber)
+October (
+*)
+(Directive 2007/64/EC — Payment services in the internal market — Concept of ‘payment account’ — Potential inclusion of a savings account enabling its user to make payments and withdrawals by way of a current account opened in his name)
+In Case C‑191/17,
+REQUEST for a preliminary ruling under Article TFEU from the Oberster Gerichtshof (Supreme Court, Austria), made by decision of March 2017, received at the Court on April 2017, in the proceedings
+Bundeskammer für Arbeiter und Angestellte (Austria)
+v
+ING-DiBa Direktbank Austria Niederlassung der ING-DiBa AG,
+THE COURT (Fifth Chamber),
+composed of J.L. da Cruz Vilaça (Rapporteur), President of the Chamber, E. Levits, A. Borg Barthet, M. Berger and F. Biltgen, Judges,
+Advocate General: E. Tanchev,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+the Bundeskammer für Arbeiter und Angestellte, by W. Reichholf, Rechtsanwalt,
+–
+ING-DiBa Direktbank Austria Niederlassung der ING-DiBa AG, by A. Zahradnik, Rechtsanwalt,
+–
+the German Government, by D. Klebs and T. Henze, acting as Agents,
+–
+the European Commission, by H. Tserepa-Lacombe and by T. Scharf, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on June 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article 4(14) of Directive 2007/64/EC of the European Parliament and of the Council of November on payment services in the internal market amending Directives 97/7/EC, 2002/65/EC, 2005/60/EC and 2006/48/EC and repealing Directive 97/5/EC (OJ L 319, p. 1, ‘the Payment Services Directive’).
+The request has been made in proceedings between the Bundeskammer für Arbeiter und Angestellte (Federal Chamber of Workers and Employees), having legal standing in order to assert consumers’ interests, and ING-DiBa Direktbank Austria Niederlassung der ING-DiBa AG (‘ING-DiBa Direktbank Austria’) concerning the lawfulness of the standard terms and conditions of the contracts offered by that bank.
+Legal context
+European Union law
+The Payment Services Directive
+Article 2(1) of the Payment Services Directive provides that ‘this Directive shall apply to payment services provided within the Community’.
+Article of that directive states:
+‘For the purposes of this Directive:
+…
+(3)
+“payment service” means any business activity listed in the Annex;
+…
+(5)
+“payment transaction” means an act, initiated by the payer or by the payee, of placing, transferring or withdrawing funds, irrespective of any underlying obligations between the payer and the payee;
+…
+(14)
+“payment account” means an account held in the name of one or more payment service users which is used for the execution of payment transactions;
+…’
+The Annex to that directive categorises as ‘payment services’, inter alia:
+‘2.
+Services enabling cash withdrawals from a payment account as well as all the operations required for operating a payment account.
+3.
+Execution of payment transactions, including transfers of funds on a payment account with the user’s payment service provider or with another payment service provider:
+–
+execution of direct debits, including one-off direct debits,
+–
+execution of payment transactions through a payment card or a similar device,
+–
+execution of credit transfers, including standing orders.’
+The Payment Accounts Directive
+According to recital of Directive 2014/92/EU of the European Parliament and of the Council of July on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features (OJ L 257, p. 214, ‘the Payment Accounts Directive’):
+‘The provisions of this Directive concerning the comparability of fees and payment account switching should apply to all payment service providers, as defined in [the Payment Services Directive]. … All provisions of this Directive should concern payment accounts through which consumers are able to carry out the following transactions: place funds, withdraw cash and execute and receive payment transactions to and from third parties, including the execution of credit transfers. … [A]ccounts such as savings accounts … should in principle be excluded from the scope of this Directive. However, should those accounts be used for day-to-day payment transactions and should they comprise all of the functions listed above, they will fall within the scope of this Directive ...’
+Recital of that directive states:
+‘The definitions contained in this Directive should be aligned as far as possible with those contained in other Union legislative acts, and in particular with those contained in [the Payment Services Directive].’
+Article 1(6) of the Payment Accounts Directive provides:
+‘This Directive applies to payment accounts through which consumers are able at least to:
+(a)
+place funds in a payment account;
+(b)
+withdraw cash from a payment account;
+(c)
+execute and receive payment transactions, including credit transfers, to and from a third party.
+…’
+Article of that directive provides:
+‘For the purposes of this Directive, the following definitions apply:
+…
+3.
+“payment account” means an account held in the name of one or more consumers which is used for the execution of payment transactions;
+…’
+Austrian law
+Article of the Zahlungsdienstegesetz (Law on payment services) (BGBl. I, 66/(‘the ZaDiG’) provides:
+‘For the purposes of this law, the following definitions shall apply:
+…
+5.   payment transaction: an act, initiated by the payer or by the payee, of placing, transferring or withdrawing funds, irrespective of any underlying obligations in the relationship between the payer and the payee;
+6.   payment system: a funds transfer system with formal and standardised arrangements and common rules for the processing, clearing or settlement of payment transactions;
+7.   payer: a person who holds a payment account and allows a payment order from that payment account, or, where there is no payment account, a person who gives a payment order;
+8.   payee: a person who is the intended recipient of funds which have been the subject of a payment transaction;
+…
+10.   payment service user: a person making use of a payment service in the capacity of either payer or payee, or both;
+11.   consumer: a natural person who, in payment service contracts covered by this law, is acting for purposes other than his trade, business or profession;
+…
+13.   payment account: an account held in the name of one or more payment service users which is used for the execution of payment transactions.’
+Article of the Bankwesengesetz (Law on banking) (BGBl. 532/1993), in the version published in BGBl. I, 118/2016, provides:
+‘(1)   Savings deposits refer to funds which are deposited with credit institutions and are not intended for payment transactions, but for investment, and as such can only be accepted against the delivery of certain documents (savings documents) …
+…’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+ING-DiBa Direktbank Austria offers online savings accounts from which its customers can make payments and withdrawals by way of telebanking. Those transfers must always be made through reference accounts opened on behalf of those clients. Those reference accounts are current accounts which those clients may also hold in a bank other than ING-DiBa Direktbank Austria. The referring court states that transfers made from or to online savings accounts do not involve the use of a payment service provider.
+Those online savings accounts require no notice, which means that customers may use the sums paid into those accounts at any time without negative repercussions on the interest generated.
+The dispute at issue in the main proceedings concerns the clauses contained in the standard terms and conditions of the contracts used by ING-DiBa Bank Direktbank Austria. According to the Federal Chamber for Workers and Employees, some of those clauses are contrary to the ZaDiG, which constitutes the transposition of the Payment Services Directive into national law, and therefore are unlawful.
+In order to rule on the lawfulness of those clauses, the referring court, the Oberster Gerichtshof (Supreme Court, Austria), takes the view that it must first address the issue of the applicability of the ZaDiG. In that context, the referring court must determine whether online savings accounts, such as those proposed by ING-DiBa Direktbank Austria, must be categorised as ‘payment accounts’, within the meaning of that directive, and, therefore, fall within the scope of that directive.
+The referring court states, inter alia, that the mere designation by the term ‘savings account’ does not make it possible to exclude such an account from the scope of the Payment Services Directive. However, it wonders whether, given their purpose, namely savings deposits, online savings accounts may be considered as being used to carry out payment transactions.
+In those circumstances, the Oberster Gerichtshof (Supreme Court) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Must Article 4(14) of [the Payment Services Directive] be interpreted as meaning that an online savings account with which a customer (without notice and without any particular involvement of the bank) may by way of telebanking make deposits into and withdrawals from a reference account (a current account in Austria) held in his name is also to be included within the term “payment account” and thus falls within the scope of that directive?’
+Consideration of the question referred
+By its question, the referring court asks, in essence, whether Article 4(14) of the Payment Services Directive must be interpreted as meaning that of a savings account which allows for sums deposited without notice and from which payment and withdrawal transactions may be made solely by way of a current account, called a ‘reference account’, comes within the concept of ‘payment account’.
+It should be noted at the outset that, when interpreting a provision of EU law, it is necessary to consider not only its wording but also its context and the objectives pursued by the rules of which it is part (judgments of September 2015, Surmačs, C‑127/14, EU:C:2015:522, paragraph 28, and of November 2016, DHL Express (Austria), C‑2/15, EU:C:2016:880, paragraph 19).
+It should accordingly be recalled, in the first place, that Article 4(14) of the Payment Services Directive defines a payment account as being ‘an account held in the name of one or more payment service users which is used for the execution of payment transactions’.
+A payment transaction is defined in Article 4(5) of that directive as being ‘an act, initiated by the payer or by the payee, of placing, transferring or withdrawing funds, irrespective of any underlying obligations between the payer and the payee’.
+Article 4(3) of that directive defines ‘payment service’ as covering ‘any business activity listed in the Annex’ of that directive. In particular, point of that annex states that ‘services enabling cash withdrawals from a payment account as well as all the operations required for operating a payment account’ constitute payment services. Likewise, point of that annex includes in payment services the execution of payment transactions, including transfers of funds on a payment account with the user’s payment service provider or with another payment service provider, which includes the execution of direct debits, of payment transactions through a payment card and of credit transfers.
+As the Advocate General stated in points 28, and of his Opinion, the wording of those provisions does not in itself make it possible to determine whether or not the notion of ‘payment account’ includes accounts such as those at issue in the main proceedings, for which an intermediate step, involving the transfer of funds between the savings account and the user’s current account, is necessary in order to carry out a payment transaction.
+In the light of that finding, it is necessary, in the second place, to analyse the legislative context of the Payment Services Directive.
+Accordingly, it is important to take into account, in particular, the Payment Accounts Directive.
+Although that directive is not directly applicable to the dispute in the main proceedings, recital thereof states that it is to apply to all payment service providers, as defined in the Payment Services Directive. It is also set out in recital of the Payment Accounts Directive that the definitions contained in that directive had to be aligned as far as possible with those contained in other Union legislative acts, and in particular with those contained in the Payment Services Directive.
+As regards the concept of ‘payment account’, it must first be pointed out that the definition provided for in Article 2(3) of the Payment Accounts Directive is almost identical to that set out in Article 4(14) of the Payment Services Directive. As the Advocate General stated in point of his Opinion, the only difference, that the term ‘consumer’ used in the first of those definitions is replaced by the expression ‘user of payment services’ in the second of the definitions, does not reflect a substantial difference in the definition of that concept, but, rather, a difference of purpose between the two directives concerned.
+It should, next, be noted that recital of the Payment Accounts Directive states, inter alia, that savings accounts are excluded from the scope of that directive in that they do not constitute payment accounts, unless they can be used for day-to-day payment transactions.
+Accordingly, while savings accounts do not, in principle, fall within the definition of the concept of ‘payment account’, such an exclusion is not absolute. It follows, in fact, from recital 12, first, that the mere name of an account as a ‘savings account’ is not sufficient in itself to exclude the categorisation of ‘payment account’ and, second, that the determining criterion for the purposes of that categorisation lies in the ability to perform daily payment transactions from such an account.
+In that respect, it is important to take account of Article 1(6) of the Payment Accounts Directive, which provides that it applies to payment accounts through which consumers are able at least to place funds in a payment account, withdraw cash from a payment account, and execute and receive payment transactions, including credit transfers, to and from a third party.
+As a result, the possibility of making payment transactions to a third party from an account or of benefiting from such transactions carried out by a third party is a defining feature of the concept of ‘payment account’.
+An account from which such payment transactions cannot be made directly, but for which use of an intermediary account is necessary, cannot therefore be regarded as being a ‘payment account’ within the meaning of the Payment Accounts Directive and, consequently, within the meaning of the Payment Services Directive.
+It follows from all of the foregoing considerations that the answer to the question referred is that Article 4(14) of the Payment Services Directive must be interpreted as meaning that a savings account which allows for sums deposited without notice and from which payment and withdrawal transactions may be made solely by means of a current account does not come within the concept of ‘payment account’.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Fifth Chamber) hereby rules:
+ 
+Article 4(14) of Directive 2007/64/EC of the European Parliament and of the Council of November on payment services in the internal market amending Directives 97/7/EC, 2002/65/EC, 2005/60/EC and 2006/48/EC and repealing Directive 97/5/EC must be interpreted as meaning that a savings account which allows for sums deposited without notice and from which payment and withdrawal transactions may be made solely by means of a current account does not come within the concept of ‘payment account’.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

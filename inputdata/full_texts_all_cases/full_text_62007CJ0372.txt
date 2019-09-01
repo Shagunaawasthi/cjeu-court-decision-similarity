@@ -1,0 +1,257 @@
+
+Case C-372/Nicole Hassett
+v
+South Eastern Health Board
+and
+Cheryl Doherty
+v
+North Western Health Board
+(Reference for a preliminary ruling from the Supreme Court)
+(Jurisdiction – Regulation (EC) No 44/– Point of Article – Disputes as to the validity of decisions of organs of companies – Exclusive jurisdiction of the courts of the State where the company has its seat – Medical practitioners’ mutual defence organisation)
+Summary of the Judgment
+Judicial cooperation in civil matters – Jurisdiction and the enforcement of judgments in civil and commercial matters – Regulation
+            No 44/– Exclusive jurisdiction – Disputes involving companies and legal persons
+(Council Regulation No 44/2001, Art. 22, point 2)
+Point of Article of Regulation No 44/on jurisdiction and the recognition and enforcement of judgments in civil and
+         commercial matters is to be interpreted as meaning that proceedings in the context of which one of the parties alleges that
+         a decision adopted by an organ of a company has infringed rights that it claims under that company’s Articles of Association
+         do not concern the validity of the decisions of the organs of a company within the meaning of that provision. 
+      
+In order for point of Article of Regulation No 44/to apply, it is not sufficient that a legal action involve some
+         link with a decision adopted by an organ of a company. The essential objective pursued by the exception to the general rule
+         of jurisdiction established by that provision, whereby exclusive jurisdiction is attributed to the courts of the Member State
+         in which a company has its seat, is one of centralising jurisdiction in order to avoid conflicting judgments being given as
+         regards the existence of a company or as regards the validity of the decisions of its organs. If all disputes involving a
+         decision by an organ of a company were to come within the scope of that article, that would mean that all legal actions brought
+         against a company – whether in matters relating to a contract, or to tort or delict, or any other matter – would almost always
+         come within the jurisdiction of the courts of the Member State in which the company has it seat. 
+      
+Moreover, such an interpretation would make the exceptional jurisdiction established by point of Article applicable in
+         the case of disputes which would not give rise to conflicting judgments as regards the validity of the decisions of the organs
+         of a company and also in the case of disputes which do not require any examination of the publication formalities applicable
+         to a company. Such an interpretation would thus have the effect of extending the scope of point of Article of Regulation
+         No 44/beyond what is required by its objective. It follows that the scope of application of that provision covers only
+         disputes in which a party is challenging the validity of a decision of an organ of a company under the company law applicable
+         or under the provisions governing the functioning of its organs, as laid down in its Articles of Association. 
+      
+(see paras 19-20, 22-26, operative part)
+  
+  
+JUDGMENT OF THE COURT (First Chamber)
+October (*)
+      
+(Jurisdiction – Regulation (EC) No 44/– Point of Article – Disputes as to the validity of decisions of organs of companies – Exclusive jurisdiction of the courts of the State where the company has its seat – Medical practitioners’ mutual defence organisation)
+In Case C‑372/07,
+REFERENCE for a preliminary ruling under Article EC, from the Supreme Court (Ireland), made by decision of July 2007,
+         received at the Court on August 2007, in the proceedings 
+      
+Nicole Hassett
+v
+South Eastern Health Board,
+in the presence of 
+Raymond Howard,
+Medical Defence Union Ltd,
+MDU Services Ltd,
+and
+Cheryl Doherty
+v
+North Western Health Board,
+in the presence of 
+Brian Davidson,
+Medical Defence Union Ltd, 
+MDU Services Ltd,
+THE COURT (First Chamber),
+composed of P. Jann, President of the Chamber, A. Tizzano (Rapporteur), A. Borg Barthet, M. Ilešič and J.-J. Kasel, Judges,
+         
+      
+Advocate General: Y. Bot,
+Registrar: L. Hewlett, Principal Administrator,
+having regard to the written procedure and further to the hearing on June 2008,
+after considering the observations submitted on behalf of:
+–        Medical Defence Union Ltd and MDU Services Ltd, by R. Bourke, Solicitor, B. Murray, BL, and N. Travers, BL,
+–        R. Howard and B. Davidson, by D. McDonald, SC, and E. Regan, SC,
+–        Ireland, by D. O’Hagan, acting as Agent, assisted by J. O’Reilly, SC,
+–        the Commission of the European Communities, by A.-M. Rouchaud-Joët and M. Wilderspin, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of point of Article of Council Regulation (EC) No
+         44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+         (OJ L 12, p. 1).
+      
+The reference was made in proceedings in which two doctors, R. Howard and B. Davidson (‘the doctors’), claimed an indemnity
+         and/or a contribution from their mutual defence organisations, the Medical Defence Union Ltd and MDU Services Ltd (collectively,
+         ‘the MDU’), in respect of any sum which – in the context of medical negligence actions brought by Nicole Hassett and Cheryl
+         Doherty against the health boards for which those doctors worked – either doctor might be ordered to pay by way of indemnity
+         to the health board concerned. 
+      
+ Legal framework
+The 11th recital in the preamble to Regulation No 44/states as follows:
+      
+‘The rules of jurisdiction must be highly predictable and founded on the principle that jurisdiction is generally based on
+         the defendant’s domicile and jurisdiction must always be available on this ground save in a few well-defined situations in
+         which the subject-matter of the litigation or the autonomy of the parties warrants a different linking factor. …’
+      
+Article 2(1) of Regulation No 44/provides:
+      
+‘Subject to this Regulation, persons domiciled in a Member State shall, whatever their nationality, be sued in the courts
+         of that Member State.’
+      
+Article of that regulation provides:
+      
+‘A person domiciled in a Member State may, in another Member State, be sued:
+1.      (a)   in matters relating to a contract, in the courts for the place of performance of the obligation in question;
+…
+3.      in matters relating to tort, delict or quasi-delict, in the courts for the place where the harmful event occurred or may occur;
+      
+…’.
+Under Article of Regulation No 44/2001:
+      
+‘A person domiciled in a Member State may also be sued:
+…
+2.      as a third party in an action on a warranty or guarantee or in any other third party proceedings, in the court seised of the
+         original proceedings, unless these were instituted solely with the object of removing him from the jurisdiction of the court
+         which would be competent in his case;
+      
+…’.
+Article of that regulation provides:
+      
+‘The following courts shall have exclusive jurisdiction, regardless of domicile:
+…
+2.      in proceedings which have as their object the validity of the constitution, the nullity or the dissolution of companies or
+         other legal persons or associations of natural or legal persons, or of the validity of the decisions of their organs, the
+         courts of the Member State in which the company, legal person or association has its seat. …;
+      
+…’.
+ The dispute in the case before the referring court and the question referred for a preliminary ruling
+The order for reference indicates that the dispute before the referring court arises from two actions for damages, brought
+         before the Irish courts by Nicole Hassett and Cheryl Doherty against two Irish health boards for serious personal injuries
+         allegedly caused through the professional negligence of the doctors, who were employed by those health boards. In both actions,
+         a settlement was reached under which an indemnity payment was made to the claimant.
+      
+In the context of those actions, the health boards in question applied to have the doctors joined as a third party in each
+         case, in order to claim an indemnity or a contribution from them.
+      
+At the material time, the doctors were members of the MDU. The MDU is a professional association, established as a company
+         incorporated under English law and having its registered office in the United Kingdom. The MDU’s mission is inter alia to
+         provide indemnity to its members in cases involving professional negligence on their part.
+      
+Accordingly, the doctors sought an indemnity and/or a contribution from the MDU in respect of any sum which either of them
+         might be required to pay by way of indemnity to the relevant health board. The Board of Management of the MDU, relying on
+         Articles and of the company’s Articles of Association, under which any decision concerning a request for an indemnity
+         comes within its absolute discretion, refused to grant their requests. 
+      
+On the view that those refusals infringed their rights under the MDU’s Articles of Association, the doctors applied to the
+         High Court (Ireland) for leave to join the MDU as an additional third party. This was granted by order of the High Court of
+         June 2005. 
+      
+The MDU thereupon sought to have that order set aside on procedural grounds. It maintained that, since the claims against
+         it concerned in essence the validity of decisions adopted by its Board of Management, they fell within the scope of point of Article of Regulation No 44/2001, with the result that jurisdiction lay solely with the courts of England and Wales,
+         not with the courts of Ireland.
+      
+The doctors argued, on the other hand, that, in view of the nature of their claims, the Irish courts had jurisdiction pursuant
+         to points and of Article 5, and point of Article 6, of Regulation No 44/2001. In particular, they maintained that the
+         MDU had acted in breach of its contractual obligations by failing to consider properly the claims for indemnity submitted
+         to it. Moreover, as the MDU had previously assisted the doctors with their defence against the action for professional negligence,
+         it could not refuse to indemnify them at such a late stage in the proceedings.
+      
+The procedural objection raised by the MDU was rejected on the ground that the doctors’ claims did not come within the scope
+         of point of Article of Regulation No 44/2001. The MDU appealed to the Supreme Court, which stayed the proceedings and
+         referred the following question to the Court for a preliminary ruling:
+      
+‘Where medical practitioners form a mutual defence organisation taking the form of a company, incorporated under the laws
+         of one Member State, for the purpose of providing assistance and indemnity to its members practising in that and another Member
+         State in respect of their professional practice, and the provision of such assistance or indemnity is dependent on the making
+         of a decision by the Board of Management of that company, in accordance with its Articles of Association, in its absolute
+         discretion, are proceedings in which a decision refusing assistance or indemnity to a medical practitioner practising in the
+         other Member State pursuant to that provision is challenged by that medical practitioner as involving a breach by the company
+         of contractual or other legal rights of the medical practitioner concerned to be considered to be proceedings which have as
+         their object the validity of a decision of an organ of that company for the purposes of Article 22, [point] 2, of [Regulation
+         No 44/2001] so that the courts of the Member State in which that company has its seat have exclusive jurisdiction?’
+      
+ The question referred for a preliminary ruling
+By that question, the national court is essentially asking the Court whether point of Article of Regulation No 44/is to be interpreted as meaning that proceedings, such as those at issue before the referring court, in the context of which
+         one of the parties alleges that a decision adopted by an organ of a company has infringed rights that it claims under that
+         company’s Articles of Association, concern the validity of the decisions of the organs of a company within the meaning of
+         that provision.
+      
+In order to answer that question, it should be borne in mind that, according to settled case-law, the provisions of Regulation
+         No 44/must be interpreted independently, by reference to its scheme and purpose (see, inter alia, Case C‑103/Reisch Montage [2006] ECR I‑6827, paragraph 29).
+      
+Moreover, as is stated in the 11th recital in the preamble to Regulation No 44/2001, jurisdiction based on the defendant’s domicile – in accordance with the
+         general rule – must always be available, save in a few well-defined situations in which the subject-matter of the litigation
+         or the autonomy of the parties warrants a different linking factor. Such situations must accordingly be interpreted strictly.
+      
+The Court adopted just such an interpretation in respect of the provisions of Article of the Convention of September
+         on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters (OJ L 304, p. 36; ‘the Brussels
+         Convention’), which are identical in essence to those of Article of Regulation No 44/2001. The Court held in that regard
+         that, as those provisions of the Brussels Convention introduce an exception to the general rule governing the attribution
+         of jurisdiction, they must not be given an interpretation broader than is required by their objective, since their effect
+         is to deprive the parties of the choice of forum which would otherwise be theirs and, in certain cases, they result in the
+         parties being brought before a court which is not that of the domicile of any of them (see Case 73/Sanders [1977] ECR 2383, paragraphs and 18; Case C‑8/Dansommer [2000] ECR I‑393, paragraph 21; and Case C‑343/ČEZ [2006] ECR I‑4557, paragraph 26).
+      
+Moreover, as was confirmed by the Jenard Report on the Brussels Convention (OJ C 59, p. 1), by introducing such an exception
+         in the case of companies, whereby exclusive jurisdiction is attributed to the courts of the Member State in which the company
+         has its seat, the essential objective pursued is one of centralising jurisdiction in order to avoid conflicting judgments
+         being given as regards the existence of a company or as regards the validity of the decisions of its organs. 
+      
+As that report also indicates, the courts of the Member State in which the company has its seat appear to be those best placed
+         to deal with such disputes, inter alia because it is in that State that information about the company will have been notified
+         and made public. Exclusive jurisdiction is thus attributed to those courts in the interests of the sound administration of
+         justice (see, to that effect, Sanders, paragraphs and 17).
+      
+Contrary to the MDU’s submissions, however, it cannot be inferred from the principles referred to in the preceding paragraphs
+         that, in order for point of Article of Regulation No 44/to apply, it is sufficient that a legal action involve some
+         link with a decision adopted by an organ of a company (see, by analogy, in relation to Article 16(1) of the Brussels Convention,
+         Case C‑294/Webb [1994] ECR I‑1717, paragraph 14, and Dansommer, paragraph 22).
+      
+As submitted by the doctors, if all disputes involving a decision by an organ of a company had to be treated as coming within
+         the scope of point of Article of Regulation No 44/2001, that would in reality mean that all legal actions brought against
+         a company – whether in matters relating to a contract, or to tort or delict, or any other matter – would almost always come
+         within the jurisdiction of the courts of the Member State in which the company has it seat.
+      
+However, such an interpretation of that provision would make the exceptional jurisdiction in question applicable in the case
+         of disputes which would not give rise to conflicting judgments as regards the validity of the decisions of the organs of a
+         company, in that their outcome would have no bearing on that validity, and also in the case of disputes which do not require
+         any examination of the publication formalities applicable to a company.
+      
+Such an interpretation would thus extend the scope of point of Article of Regulation No 44/beyond what is required
+         by its objective, as referred to in paragraphs and of this judgment.
+      
+It follows that – as was rightly pointed out by the doctors and by the Commission of the European Communities – that provision
+         must be interpreted as covering only disputes in which a party is challenging the validity of a decision of an organ of a
+         company under the company law applicable or under the provisions governing the functioning of its organs, as laid down in
+         its Articles of Association.
+      
+The order for reference does not indicate, however, that the doctors raised such challenges before the High Court.
+      
+In fact, in the case before the referring court, the doctors do not in any way challenge the fact that the MDU’s Board of
+         Management was empowered under that company’s Articles of Association to adopt the decision rejecting their claim for indemnity.
+      
+What the doctors do challenge is the manner in which that power was exercised. They maintain that the MDU rejected their claim
+         for indemnity automatically, without examining it in detail, thereby infringing their rights under the MDU’s Articles of Association
+         as members of that organisation.
+      
+Consequently, the disputes before the referring court between those doctors and the MDU do not fall within the scope of point
+         of Article of Regulation No 44/2001. 
+      
+In the light of the foregoing, the answer to the question referred must be that point of Article of Regulation No 44/is to be interpreted as meaning that proceedings, such as those at issue before the referring court, in the context of which
+         one of the parties alleges that a decision adopted by an organ of a company has infringed rights that it claims under that
+         company’s Articles of Association, do not concern the validity of the decisions of the organs of a company within the meaning
+         of that provision.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (First Chamber) hereby rules:
+Point of Article of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement
+            of judgments in civil and commercial matters is to be interpreted as meaning that proceedings, such as those at issue before
+            the referring court, in the context of which one of the parties alleges that a decision adopted by an organ of a company has
+            infringed rights that it claims under that company’s Articles of Association, do not concern the validity of the decisions
+            of the organs of a company within the meaning of that provision.
+[Signatures]
+** Language of the case: English.
+      
+Top  

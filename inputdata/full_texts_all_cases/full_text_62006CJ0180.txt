@@ -1,0 +1,452 @@
+
+Case C-180/Renate Ilsinger
+v
+Martin Dreschers, acting as administrator in the insolvency of Schlank & Schick GmbH 
+(Reference for a preliminary ruling from the Oberlandesgericht Wien)
+(Jurisdiction in civil matters – Regulation (EC) No 44/– Jurisdiction over consumer contracts – Entitlement of a consumer to whom misleading advertising has been sent to seek payment, in judicial proceedings, of the prize
+         which he has apparently won – Classification – Action of a contractual nature covered by Article 15(1)(c) of that regulation – Conditions)
+      
+Summary of the Judgment
+Judicial cooperation in civil matters – Jurisdiction and the enforcement of judgments in civil and commercial matters – Regulation
+            No 44/– Jurisdiction over consumer contracts
+(Council Regulation No 44/2001, Art. 15(1)(c))
+In a situation in which a consumer seeks, in accordance with the legislation of the Member State in which he is domiciled
+         and before the court for the place in which he resides, an order requiring a mail-order company established in another Member
+         State to pay a prize which that consumer has apparently won, and
+      
+– where that company, with the aim of encouraging that consumer to conclude a contract, sent a letter addressed to him personally
+         of such a kind as to give him the impression that he would be awarded a prize if he requested payment by returning the ‘prize
+         claim certificate’ attached to that letter,
+      
+– but without the award of that prize depending on an order for goods offered for sale by that company or on a trial order,
+the rules on jurisdiction laid down by Regulation No 44/on jurisdiction and the recognition and enforcement of judgments
+         in civil and commercial matters must be interpreted as follows:
+      
+– such legal proceedings brought by the consumer are covered by Article 15(1)(c) of that regulation, on condition that the
+         professional vendor has undertaken in law to pay that prize to the consumer;
+      
+– where that condition has not been fulfilled, such proceedings are covered by Article 15(1)(c) of Regulation No 44/only
+         if the consumer has in fact placed an order with that professional vendor.
+      
+The wording of Article 15(1)(c) of Regulation No 44/2001, which is essentially identical to that of Article of the Brussels
+         Convention, requires  a contract to have been concluded by a consumer with a person who pursues commercial or professional
+         activities. For a contract to exist within the meaning of that provision, it is necessary that the professional vendor should
+         assume a legal obligation by submitting a firm offer which is sufficiently clear and precise with regard to its object and
+         scope as to give rise to a link of a contractual nature, that is to say by declaring itself to be unconditionally willing
+         to pay the prize at issue to consumers who so request. In the absence of such a legal commitment, Article 15(1) applies only
+         on condition that the misleading prize notification was followed by the conclusion of a contract by the consumer with the
+         mail-order company evidenced by an order placed with the latter.
+      
+(see paras 53-55, 59-60, operative part)
+  
+  
+JUDGMENT OF THE COURT (First Chamber)
+May (*)
+      
+(Jurisdiction in civil and commercial matters − Regulation (EC) No 44/− Jurisdiction over consumer contracts − Entitlement
+         of a consumer to whom misleading advertising has been sent to seek payment, in judicial proceedings, of the prize which he
+         has apparently won − Classification − Action of a contractual nature covered by Article 15(1)(c) of that regulation − Conditions)
+      
+In Case C‑180/06,
+REFERENCE for a preliminary ruling under Articles EC and EC from the Oberlandesgericht Wien (Austria), made by decision
+         of March 2006, received at the Court on April 2006, in the proceedings
+      
+Renate Ilsinger
+v
+Martin Dreschers, acting as administrator in the insolvency of Schlank & Schick GmbH,
+      
+THE COURT (First Chamber),
+composed of P. Jann, President of the Chamber, M. Ilešič, A. Tizzano, E. Levits and J.-J. Kasel (Rapporteur), Judges,
+Advocate General: V. Trstenjak,
+Registrar: B. Fülöp, Administrator,
+having regard to the written procedure and further to the hearing on July 2008,
+after considering the observations submitted on behalf of:
+–        M. Dreschers, acting as administrator in the insolvency of Schlank & Schick GmbH, by A. Matt, Rechtsanwalt,
+–        the Austrian Government, by E. Riedl, S. Zeichen and M. Rüffenstein, acting as Agents,
+–        the Czech Government, by T. Boček and M. Smolek, acting as Agents,
+–        the Spanish Government, by M. Sampol Pucurull and B. Plaza Cruz, acting as Agents,
+–        the Italian Government, by I.M. Braguglia, acting as Agent, assisted by W. Ferrante, avvocato dello Stato,
+–        the Slovene Government, by T. Mihelič, acting as Agent,
+–        the Commission of the European Communities, by A.‑M. Rouchaud-Joët, S. Grünheid and W. Bogensberger, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2008,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 15(1)(c) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 12, p. 1).
+      
+The reference has been made in the course of proceedings between Ms Ilsinger, an Austrian national domiciled in St. Pölten
+         (Austria), and Mr Dreschers, acting as administrator in the insolvency of Schlank & Schick GmbH (‘Schlank & Schick’), a mail-order
+         company incorporated under German law and established in Aachen (Germany), which has been declared insolvent, concerning an
+         action brought by Ms Ilsinger seeking to obtain a prize from that company.
+      
+ Legal framework
+ Regulation No 44/The rules on jurisdiction laid down by Regulation No 44/appear in Chapter II thereof, which consists of Articles to
+         31.
+      
+Article 2(1) of Regulation No 44/2001, which features in Chapter II, Section 1, entitled ‘General provisions’, states:
+      
+‘Subject to this Regulation, persons domiciled in a Member State shall, whatever their nationality, be sued in the courts
+         of that Member State.’
+      
+Article 3(1) of Regulation No 44/2001, which is also in Section of Chapter II, provides:
+      
+‘Persons domiciled in a Member State may be sued in the courts of another Member State only by virtue of the rules set out
+         in Sections to of this Chapter.’
+      
+Articles to of Regulation No 44/2001, which make up Sections to of Chapter II thereof, lay down rules governing special,
+         mandatory or exclusive jurisdiction.
+      
+Thus, under Article of Regulation No 44/2001, which appears in Chapter II, Section 2, thereof, entitled ‘Special jurisdiction’:
+      
+‘A person domiciled in a Member State may, in another Member State, be sued:
+1.      (a)   in matters relating to a contract, in the courts for the place of  performance of the obligation in question;
+         (b)   for the purpose of this provision and unless otherwise agreed, the place of performance of the obligation in question shall
+         be:
+      
+–        in the case of the sale of goods, the place in a Member State where, under the contract, the goods were delivered or should
+         have been delivered,
+      
+–        in the case of the provision of services, the place in a Member State where, under the contract, the services were provided
+         or should have been provided;
+      
+         (c)   if subparagraph (b) does not apply then subparagraph (a) applies;
+…’
+Recital in the preamble to Regulation No 44/states:
+      
+‘In relation to … consumer contracts … the weaker party should be protected by rules of jurisdiction more favourable to his
+         interests than the general rules provide for.’
+      
+Accordingly, under Chapter II of Regulation No 44/2001, Articles to thereof make up Section 4, entitled ‘Jurisdiction
+         over consumer contracts’.
+      
+Article 15(1) of Regulation No 44/is worded as follows:
+      
+‘In matters relating to a contract concluded by a person, the consumer, for a purpose which can be regarded as being outside
+         his trade or profession, jurisdiction shall be determined by this Section, without prejudice to Article and point of Article
+         5, if:
+      
+(a)      it is a contract for the sale of goods on instalment credit terms; or
+(b)      it is a contract for a loan repayable by instalments, or for any other form of credit, made to finance the sale of goods;
+         or
+      
+(c)      in all other cases, the contract has been concluded with a person who pursues commercial or professional activities in the
+         Member State of the consumer’s domicile or, by any means, directs such activities to that Member State or to several States
+         including that Member State, and the contract falls within the scope of such activities.’
+      
+Article 15(3) provides that ‘[t]his Section shall not apply to a contract of transport other than a contract which, for an
+         inclusive price, provides for a combination of travel and accommodation’.
+      
+Article 16(1) of Regulation No 44/provides: ‘[a] consumer may bring proceedings against the other party to a contract
+         either in the courts of the Member State in which that party is domiciled or in the courts for the place where the consumer
+         is domiciled’.
+      
+That rule on jurisdiction may be departed from only if there is compliance with the conditions laid down in Article of
+         Regulation No 44/2001.
+      
+As will be evident from its recitals, Regulation No 44/is the successor to the Convention of September on Jurisdiction
+         and the Enforcement of Judgments in Civil and Commercial Matters (OJ L 304, p. 36), as amended by the Convention of October on the Accession of the Kingdom of Denmark, Ireland and the United Kingdom of Great Britain and Northern Ireland
+         (OJ L 304, p. 1, and – amended version – p. 77), by the Convention of October on the Accession of the Hellenic
+         Republic (OJ L 388, p. 1), by the Convention of May on the Accession of the Kingdom of Spain and the Portuguese
+         Republic (OJ L 285, p. 1), and by the Convention of November on the Accession of the Republic of Austria, the
+         Republic of Finland and the Kingdom of Sweden (OJ C 15, p. 1) (‘the Brussels Convention’). From its entry into force,
+         on March 2002, Regulation No 44/replaced the Brussels Convention in the relations between the Member States, with
+         the exception of the Kingdom of Denmark.
+      
+In Recital in the preamble to Regulation No 44/2001, the Council of the European Union underlined the need to ensure continuity
+         between the Brussels Convention and Regulation No 44/2001, as well as with regard to the interpretation that the Court has
+         already given to the equivalent provisions of that convention.
+      
+ The Brussels Convention
+The rules on jurisdiction laid down by the Brussels Convention appear in Title II thereof, which consists of Articles to
+         24.
+      
+The first paragraph of Article of the Brussels Convention, in Section of Title II, entitled ‘General provisions’, lays
+         down the following rule of principle:
+      
+‘Subject to the provisions of this Convention, persons domiciled in a Contracting State shall, whatever their nationality,
+         be sued in the courts of that State.’
+      
+The first paragraph of Article of the Brussels Convention, which appears in the same section, provides:
+      
+‘Persons domiciled in a Contracting State may be sued in the courts of another Contracting State only by virtue of the rules
+         set out in Sections to of this Title.’
+      
+Articles to of the Brussels Convention, which make up Sections to of Title II thereof, lay down rules of special,
+         mandatory or exclusive jurisdiction.
+      
+Thus, Article 5, which features in Section (‘Special jurisdiction’) of Title II of the Brussels Convention, provides as
+         follows:
+      
+‘A person domiciled in a Contracting State may, in another Contracting State, be sued:
+1.      in matters relating to a contract, in the courts for the place of performance of the obligation in question; …
+…’
+Also under Title II of the Brussels Convention, Articles to thereof make up Section 4, entitled ‘Jurisdiction over consumer
+         contracts’.
+      
+The first paragraph of Article of the Brussels Convention is worded as follows:
+      
+‘In proceedings concerning a contract concluded by a person for a purpose which can be regarded as being outside his trade
+         or profession, hereinafter called “the consumer”, jurisdiction shall be determined by this Section, without prejudice to the
+         provisions of Articles and 5(5), if it is:
+      
+1.      a contract for the sale of goods on instalment credit terms; or
+2.      a contract for a loan repayable by instalments, or for any other form of credit, made to finance the sale of goods; or
+3.      any other contract for the supply of goods or a contract for the supply of services, and
+(a)      in the State of the consumer’s domicile the conclusion of the contract was preceded by a specific invitation addressed to
+         him or by advertising; and
+      
+(b)      the consumer took in that State the steps necessary for the conclusion of the contract.’
+The third paragraph of Article of the Brussels Convention provides that ‘[t]his Section shall not apply to contracts of
+         transport’.
+      
+Under the first paragraph of Article of the Brussels Convention, ‘[a] consumer may bring proceedings against the other
+         party to a contract either in the courts of the Contracting State in which that party is domiciled or in the courts of the
+         Contracting State in which he is himself domiciled’.
+      
+That rule of jurisdiction may be departed from only if there is compliance with the conditions laid down in Article of
+         the Brussels Convention.
+      
+ National legislation
+Paragraph 5j of the Law on consumer protection (Konsumentenschutzgesetz), in the version resulting from the Law on distance
+         selling (Fernabsatz-Gesetz, BGBl. I, 185/1999) (‘the KSchG’), is intended to transpose into Austrian law Directive 97/7/EC
+         of the European Parliament and of the Council of May on the protection of consumers in respect of distance contracts
+         (OJ L 144, p. 19), and which entered into force on October 1999, provides:
+      
+‘Undertakings which send prize notifications or other similar communications to specific consumers, and by the wording of
+         those communications give the impression that a consumer has won a particular prize, must give that prize to the consumer;
+         it may also be claimed in legal proceedings.’
+      
+It is clear from the file sent to the Court of Justice by the national court that the objective pursued by Paragraph 5j is
+         to give a right of action to a consumer in order to enable him to bring legal proceedings to enforce a ‘prize notification’
+         where that consumer was induced into error by reason of the fact that a professional contacted him personally and gave him
+         the impression that he had won a prize, whereas the true purpose of the operation was to encourage him to place an order for
+         goods or services offered by that professional. In the interests of effective protection against such a practice, the consumer
+         thus benefits from the right to pursue the enforcement of that promise under civil law as if the professional had offered
+         him that prize in a legally binding manner. For that purpose, a legal relationship is deemed to exist between that professional
+         and the consumer concerned.
+      
+ The dispute in the main proceedings and the questions referred for a preliminary ruling
+It is apparent from the case-file in the main proceedings that, on August 2002, Ms Ilsinger received, at her home address
+         and in a sealed envelope, a letter addressed to her personally from Schlank & Schick. The envelope, on which the words ‘Important
+         documents!’, ‘Please open immediately’ and ‘Private’ were written, contained, inter alia, a message addressed to Ms Ilsinger
+         personally which gave the impression that she had won a prize of EUR 000.
+      
+The next day, in order to obtain payment of the financial benefit promised, Ms Ilsinger tore off a coupon containing an identification
+         number attached to an envelope included in the letter, attached the coupon, as requested to do in the letter, to the ‘prize
+         claim certificate’ and returned it to Schlank & Schick.
+      
+Ms Ilsinger states that at the same time she placed a trial order. That assertion is challenged by Schlank & Schick, which
+         submits to the contrary that no goods were ordered by the applicant. However, it is common ground that the award of the prize
+         supposedly won by Ms Ilsinger did not depend on such an order.
+      
+On December 2002, as she had still not obtained payment of the financial benefit claimed, Ms Ilsinger brought an action
+         for that purpose before the Landesgericht (Regional Court) St. Pölten as she was domiciled within the territorial jurisdiction
+         of that court. Her action brought against Schlank & Schick was based on Paragraph 5j of the KSchG, in conjunction with Article
+         16(1) of Regulation No 44/2001.
+      
+Schlank & Schick then raised an objection that the Landesgericht St. Pölten lacked jurisdiction, arguing essentially that
+         the provisions of Articles and of Regulation No 44/were not applicable to the dispute before that court since they
+         presupposed the existence of a contract for valuable consideration, which was, however, lacking in this case. Participation
+         in the promotional game was not subject to the placing of an order, even on a trial basis without obligation and with the
+         right to return the goods. Furthermore, Ms Ilsinger had not ordered goods and was not therefore entitled to protection as
+         a consumer. Schlank & Schick added that, even assuming that a right of a contractual nature existed under Article 5(1) of
+         Regulation No 44/2001, the Austrian courts would not have jurisdiction on the ground that the place of performance of the
+         alleged obligation was in Germany.
+      
+After the procedure for the winding-up of Schlank & Schick had been opened, Mr Dreschers, in his capacity as administrator
+         in the insolvency of that company, approved that line of argument and requested the continuation of the proceedings.
+      
+By order of June 2004, the Landesgericht St. Pölten dismissed the objection of lack of jurisdiction raised by Schlank &
+         Schick and, by judgment of the same date, ruled against Ms Ilsinger on the merits, holding that the payment of the prize or
+         participation in its distribution promised by Schlank & Schick was not subject to a firm order of goods and that, consequently,
+         the issue as to whether or not Ms Ilsinger had placed a trial order was irrelevant.
+      
+Both parties appealed against those decisions to the referring court.
+      
+Having pointed out that, in this case, the condition laid down in Article 68(1) EC is satisfied, the Oberlandesgericht Wien
+         takes the view that an interpretation of Article 15(1)(c) of Regulation No 44/is necessary to enable it to give judgment.
+      
+According to that court, it is necessary to determine whether an action such as that in the main proceedings can come within
+         the scope of Article 15(1)(c), where the misleading prize notification is calculated to lead to the conclusion of a contract
+         for the sale of moveable goods, and therefore to prepare the ground for a consumer contract, even though there is not yet
+         a mutually binding contract between the parties.
+      
+According to the referring court, Article of Regulation No 44/does not make express reference to a contract of that
+         kind, with the result that it appears possible to accept the existence of jurisdiction on the basis of a contract concluded
+         with a consumer within the meaning of that article even though the consumer has placed an order on a trial basis only, without,
+         however, being obliged to do so by the professional, or even where no order has been placed, as claimed by Schlank & Schick.
+      
+In those circumstances, the Oberlandesgericht Wien decided to stay its proceedings and to refer the following questions to
+         the Court for a preliminary ruling:
+      
+‘1.      Does the provision in Paragraph 5j of the … KSchG …, which entitles certain consumers to claim from undertakings in the courts
+         prizes ostensibly won by them where the undertakings send (or have sent) them prize notifications or other similar communications
+         worded so as to give the impression that they have won a particular prize, constitute, in circumstances where the claiming
+         of that prize was not made conditional upon actually ordering goods or placing a trial order and where no goods were actually
+         ordered but the recipient of the communication is nevertheless seeking to claim the prize, for the purposes of … Regulation
+         … No 44/2001: a contractual, or equivalent, claim under Article 15(1)(c) of Regulation No 44/2001? 
+      
+2.      If the answer to question is in the negative: 
+Does a claim falling under Article 15(1)(c) of Regulation No 44/arise if the claim for payment of the prize was not made
+         conditional upon ordering goods but the recipient of the communication has actually placed an order for goods?’
+      
+ The questions referred for a preliminary ruling
+By its two questions, which it is appropriate to consider together, the referring court is asking, essentially, whether the
+         rules on jurisdiction laid down by Regulation No 44/must be interpreted as meaning that the legal proceedings by which
+         a consumer seeks an order requiring a mail-order company to award a prize apparently won by him, without the award of that
+         prize depending on an order of goods offered for sale by that company, are contractual in nature within the meaning of Article
+         15(1)(c) of that regulation, if necessary, on condition that the consumer has none the less placed such an order. 
+      
+In order to answer those questions, it must be observed from the outset that, in so far as Regulation No 44/now replaces
+         the Brussels Convention in relations between the Member States, with the exception of the Kingdom of Denmark, the interpretation
+         given by the Court as regards that convention also applies to the regulation, where its provisions and those of the Brussels
+         Convention may be treated as equivalent. It must be added that, in the system established by Regulation No 44/2001, Article
+         15(1)(c) thereof occupies, as it is clear from recital in the preamble to that regulation, the same place and fulfils the
+         same function of protecting the weaker party as does point of the first paragraph of Article of the Brussels Convention.
+      
+As regards the latter, the Court has already held that point of the first paragraph of Article is applicable to an action
+         brought by a consumer who was contacted at his home by a letter from a professional vendor for the purpose of bringing about
+         the placement of an order for goods offered under the conditions determined by that vendor, and who has in fact placed such
+         an order in the Contracting State in which he is domiciled, brings an action by which he seeks, through the judicial proceedings
+         brought against the vendor, to obtain a prize which he has apparently won (Case C-96/Gabriel [2002] ECR I-6367, paragraphs 53, 55, and 60).
+      
+First, in paragraphs to of the judgment in Gabriel, the Court found that the condition for application of point of the first paragraph of Article of the Brussels Convention,
+         relating to the existence of a ‘contract concluded by’ a consumer with a professional vendor, within the meaning of that provision,
+         was satisfied in that case on the basis of the fact that the concordance of intention between the two parties, manifesting
+         itself in the offer of goods made by the mail-order company and the acceptance of that offer by the consumer when he placed
+         an order for such goods as a result, had given rise to a contract concluded between those parties, characterised by reciprocal
+         and interdependent obligations between them and concerning one of the purposes set out in that provision, namely, in that
+         case, the supply of goods.
+      
+Second, in paragraphs and to of the judgment in Gabriel, the Court held that the prize notification was intimately linked to the order for goods and, therefore, to the conclusion
+         of a contract for valuable consideration, with the result that the legal proceedings by which the consumer sought an order
+         requiring a professional vendor to send him a prize which he had apparently won had to be capable of being brought before
+         the same court as that which had jurisdiction to deal with the contract concluded by that consumer in order to avoid, in so
+         far as possible, creating a situation in which a number of courts had jurisdiction in respect of one and the same contract.
+      
+On the other hand, it must also be recalled that, in paragraphs 37, and of the judgment in Case C-27/Engler [2005] ECR I-481, the Court excluded the application of point of the first paragraph of Article of the Brussels Convention
+         in a case where the consumer had claimed the payment of the financial benefit promised, even though the payment of the prize
+         apparently won was not subject to the condition that the consumer order goods from the mail-order company and that, in fact,
+         no order had been placed by that consumer.
+      
+The Court based that solution on the fact that, in such a case, the sending of a letter containing a misleading promise to
+         award a prize had not been followed by the conclusion of a contract by the consumer with the mail-order company, because no
+         order of goods offered for sale had been made, whereas it was clear from its very wording that the application of point of the first paragraph of Article of the Brussels Convention was subject to a number of conditions, among which the condition
+         relating to the conclusion of such a contract by the consumer is specifically mentioned (Engler, paragraphs to and 40).
+      
+The Court takes the view that such an approach is supported by the position of the rules on jurisdiction set out in Articles
+         to of the Brussels Convention over consumer contracts in the scheme of that convention, which give rise to a strict
+         interpretation of those articles which cannot go beyond the cases envisaged by that convention. Thus, the objective underlying
+         those provisions, namely to ensure adequate protection for the consumer as the party deemed to be economically weaker, does
+         not permit a different outcome (Engler, paragraphs and to 43).
+      
+However, it must be held that the wording of Article 15(1) of Regulation No 44/2001, the interpretation of which is sought
+         by the national court in the present reference for a preliminary ruling, is not identical in every respect to that of the
+         first paragraph of Article of the Brussels Convention. 
+      
+More specifically, while the first paragraph of Article of the Brussels Convention limited the field of application of
+         point thereof to ‘any other contract for the supply of goods or a contract for the supply of services’, Article 15(1)(c)
+         of Regulation No 44/is drafted in more general and broader terms.
+      
+Thus, apart from certain transport contracts excluded from the scope of the rules on jurisdiction over consumer contracts
+         by Article 15(3) of Regulation No 44/2001, Article 15(1)(c) covers all contracts, whatever their purpose, if they have been
+         concluded by a consumer with a professional and fall within the latter’s commercial or professional activities. Furthermore,
+         the specific conditions for application that those contracts must fulfil, which were set out in detail in headings (a) and
+         (b) of point of the first paragraph of Article of the Brussels Convention, are now worded more generally in Article 15(1)(c)
+         of Regulation No 44/in order to ensure better protection for consumers with regard to new means of communication and
+         the development of electronic commerce.
+      
+It follows that, although the Court has held that the application of the first paragraph of Article of the Brussels Convention
+         is limited to contracts which give rise to reciprocal and interdependent obligations between the parties, basing itself, moreover,
+         expressly on the wording of that provision referring to a ‘contract for the supply of goods or a contract for the supply of
+         services’ (see Gabriel, paragraphs to 50, and Engler, paragraphs and 36), the scope of Article 15(1)(c) of Regulation No 44/appears, by contrast, to be no longer being
+         limited to those situations in which the parties have assumed reciprocal obligations.
+      
+It must be stated, however, that Article of Regulation No 44/is applicable only if the legal proceedings concerned
+         relate to a contract which has been concluded between a consumer and a professional.
+      
+By virtue of the actual wording of both the introductory paragraph of Article 15(1) of Regulation No 44/and Article 15(1)(c),
+         that article requires a ‘contract’ to have been ‘concluded’ by a consumer with a person who pursues commercial or professional
+         activities. That finding is also supported by the heading of Section of Chapter II of that regulation, in which Article
+         appears, which refers to ‘[j]urisdiction over consumer contracts’. It must also be pointed out that, with respect to the
+         condition relating to the conclusion of a contract, the wording of Article is essentially identical to that of Article
+         of the Brussels Convention. 
+      
+As regards that condition, it is, of course, conceivable, in the context of Article 15(1)(c) of Regulation No 44/2001, that
+         one of the parties merely indicates its acceptance, without assuming itself any legal obligation to the other party to the
+         contract (see paragraph of the present judgment). However, it is necessary, for a contract to exist within the meaning
+         of that provision, that the latter party should assume such a legal obligation by submitting a firm offer which is sufficiently
+         clear and precise with regard to its object and scope as to give rise to a link of a contractual nature as referred to by
+         that provision.
+      
+That latter requirement may be regarded as being satisfied only where, in the context of a prize notification, such as that
+         at issue in the main proceedings, there has been a legal commitment contracted by the mail-order company. In other words,
+         the latter must have expressed clearly its intention to be bound by such a commitment, if it is accepted by the other party,
+         by declaring itself to be unconditionally willing to pay the prize at issue to consumers who so request. It is for the national
+         court to determine whether that requirement is fulfilled in the dispute before it.
+      
+If that were not the situation in this case, a commercial practice of the kind which has given rise to this dispute could
+         not, without more, be regarded as assuming a contractual nature or as relating to a contract within the meaning of Article
+         of Regulation No 44/in its current version.
+      
+In that latter case, such a situation would at most be liable to be classified as pre-contractual or quasi contractual and
+         might therefore, where appropriate, be covered solely by Article 5(1) of that regulation, a provision which must be acknowledged
+         as having, on account of its wording and its position in the scheme of that regulation, a broader scope than that of Article
+         thereof (see, by analogy, with regard to the Brussels Convention, Engler, paragraphs and 49).
+      
+In the light of those factors, and in the absence of a substantial difference in drafting between Article of Regulation
+         No 44/and Article of the Brussels Convention as regards the requirement of the conclusion of a contract between the
+         parties, it must therefore be held that the case-law resulting from the judgments in Gabriel and Engler, relating to the second of those provisions, must be transposed to Article of Regulation No 44/for the purposes of
+         resolving a case such as that at issue in the main proceedings. If there is such similarity between the drafting of a provision
+         of the Brussels Convention and a provision of Regulation No 44/it is necessary to ensure, in accordance with Recital
+         in the preamble to the latter, continuity in the interpretation of those two instruments, as such continuity is also the
+         means to ensure observance of the principle of legal certainty, which constitutes one of the corner stones of those instruments.
+      
+Therefore, it must be held that, in the light of the present wording of Article of Regulation No 44/2001, Article 15(1)(c)
+         cannot apply to legal proceedings such as those at issue in the main proceedings if the professional did not undertake contractually
+         to pay the prize promised to the consumer who requests its payment. In that case, Article 15(1)(c) is applicable to such legal
+         proceedings only on condition that the misleading prize notification was followed by the conclusion of a contract by the consumer
+         with the mail-order company evidenced by an order placed with the latter.
+      
+Consequently, the answer to the questions referred is that, in a situation such as that at issue in the main proceedings,
+         in which a consumer seeks, in accordance with the legislation of the Member State in which he is domiciled and before the
+         court for the place in which he resides, an order requiring a mail-order company established in another Member State to pay
+         a prize which that consumer has apparently won, and 
+      
+–        where that company, with the aim of encouraging that consumer to conclude a contract, sent a letter addressed to him personally
+         of such a kind as to give him the impression that he would be awarded a prize if he requested payment by returning the ‘prize
+         claim certificate’ attached to that letter,
+      
+–        but without the award of that prize depending on an order for goods offered for sale by that company or on a trial order,
+         
+      
+the rules on jurisdiction laid down by Regulation No 44/must be interpreted as follows:
+–        such legal proceedings brought by the consumer are covered by Article 15(1)(c) of that regulation, on condition that the professional
+         vendor has undertaken in law to pay that prize to the consumer;
+      
+–        where that condition has not been fulfilled, such proceedings are covered by Article 15(1)(c) of Regulation No 44/only
+         if the consumer has in fact placed an order with that professional vendor.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (First Chamber) hereby rules:
+In a situation such as that at issue in the main proceedings, in which a consumer seeks, in accordance with the legislation
+            of the Member State in which he is domiciled and before the court for the place in which he resides, an order requiring a
+            mail-order company established in another Member State to pay a prize which that consumer has apparently won, and 
+–        where that company, with the aim of encouraging that consumer to conclude a contract, sent a letter addressed to him personally
+            of such a kind as to give him the impression that he would be awarded a prize if he requested payment by returning the ‘prize
+            claim certificate’ attached to that letter,
+–        but without the award of that prize depending on an order for goods offered for sale by that company or on a trial order,
+            
+the rules on jurisdiction laid down by Council Regulation (EC) No 44/of December on jurisdiction and the recognition
+            and enforcement of judgments in civil and commercial matters  must be interpreted as follows:
+–        such legal proceedings brought by the consumer are covered by Article 15(1)(c) of that regulation, on condition that the professional
+            vendor has undertaken in law to pay that prize to the consumer;
+–        where that condition has not been fulfilled, such proceedings are covered by Article 15(1)(c) of Regulation No 44/only
+            if the consumer has in fact placed an order with that professional vendor.
+[Signatures]
+* Language of the case: German.
+      
+Top  

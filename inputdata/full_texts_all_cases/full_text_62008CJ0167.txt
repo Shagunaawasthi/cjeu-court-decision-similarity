@@ -1,0 +1,209 @@
+
+Case C-167/Draka NK Cables Ltd and Others
+v
+Omnipol Ltd
+(Reference for a preliminary ruling from the Hof van Cassatie)
+(Judicial cooperation in civil matters – Regulation (EC) No 44/– Article 43(1) – Jurisdiction and enforcement of judgments – Notion of ‘party’)
+Summary of the Judgment
+Judicial cooperation in civil matters – Jurisdiction and the enforcement of judgments in civil and commercial matters – Regulation
+            No 44/(Council Regulation No 44/2001, Art. 43(1))
+Like the first paragraph of Article and that of Article of the Convention of September on jurisdiction and the
+         enforcement of judgments in civil and commercial matters, Article 43(1) of Regulation No 44/on jurisdiction and the recognition
+         and enforcement of judgments in civil and commercial matters must be interpreted as meaning that a creditor of a debtor cannot
+         lodge an appeal against a decision on a request for a declaration of enforceability if he has not formally appeared as a party
+         in the proceedings in which another creditor of that debtor applied for that declaration of enforceability. 
+      
+In both cases, the enforcement procedure provided for constitutes an autonomous and complete system, independent of the national
+         legal systems, including the matter of appeals. The rules relating to it must be interpreted strictly. The case-law on Articles
+         and of the Convention is applicable to Article of Regulation No 44/2001. 
+      
+(see paras 23-24, 27, 30-31, operative part)
+  
+  
+JUDGMENT OF THE COURT (First Chamber)
+April (*)
+      
+(Judicial cooperation in civil matters – Regulation (EC) No 44/– Article 43(1) – Jurisdiction and enforcement of judgments – Notion of ‘party’)
+In Case C‑167/08,
+REFERENCE for a preliminary ruling under Article EC from the Hof van Cassatie (Belgium), made by decision of April
+         2008, received at the Court on April 2008, in the proceedings
+      
+Draka NK Cables Ltd,
+AB Sandvik International,
+VO Sembodja BV,
+Parc Healthcare International Ltd
+v
+Omnipol Ltd,
+THE COURT (First Chamber),
+composed of P. Jann, President of the Chamber, M. Ilešič, A. Borg Barthet, E. Levits (Rapporteur) and J.-J. Kasel, Judges,
+Advocate General: P. Mengozzi,
+Registrar: M. Ferreira, Principal Administrator,
+having regard to the written procedure and further to the hearing on February 2009,
+after considering the observations submitted on behalf of:
+–        Draka NK Cables Ltd, AB Sandvik International, VO Sembodja BV and Parc Healthcare International Ltd, by P. Lefèbvre, advocaat,
+         A. Hansebout, conseil, and C. Ronse, avocat,
+      
+–        Omnipol Ltd, by H. Geinger, H. Verhulst and R. Portocarero, advocaten,
+–        the Belgian Government, by T. Materne, acting as Agent,
+–        the Slovak Government, by J. Čorba, acting as Agent,
+–        the Commission of the European Communities, by A.-M. Rouchaud-Joët and R. Troosters, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This reference for a preliminary ruling concerns the interpretation of Article 43(1) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 12, p. 1). 
+      
+The reference has been made in the course of proceedings brought by certain creditors of the Central Bank of Iraq (‘CBI’),
+         namely Draka NK Cables Ltd, established in Finland, AB Sandvik International, established in Sweden, VO Sembodja BV, established
+         in the Netherlands, and Parc Healthcare International Ltd, established in Ireland (together, ‘the applicants’), against another
+         of CBI’s creditors, Omnipol Ltd, established in the Czech Republic (‘Omnipol’), in relation to an enforcement order of the
+         Rechtbank van eerste aanleg te Brussel (Court of First Instance, Brussels) authorising the enforcement of a judgment of the
+         Gerechtshof te Amsterdam (Court of Appeal, Amsterdam) concerning Omnipol’s claims against CBI. 
+      
+ Legal context
+ Community law
+Article 43(1) of Regulation No 44/provides:
+      
+‘The decision on the application for a declaration of enforceability may be appealed against by either party.’
+That regulation replaces the Convention of September on jurisdiction and the enforcement of judgments in civil and
+         commercial matters (OJ L 304, p. 36), as amended by the Convention of October on the Accession of the Kingdom
+         of Denmark, Ireland and the United Kingdom of Great Britain and Northern Ireland (OJ L 304, p. 1, and – amended version
+         – p. 77), by the Convention of October on the Accession of the Hellenic Republic (OJ L 388, p. 1), by the Convention
+         of May on the Accession of the Kingdom of Spain and the Portuguese Republic (OJ L 285, p. 1) and by the Convention
+         of November on the Accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden (OJ C 15, p. 1) (‘the Brussels Convention’).
+      
+The first paragraph of Article of the Brussels Convention provided:
+      
+‘If enforcement is authorised, the party against whom enforcement is sought may appeal against the decision within one month
+         of service thereof.’
+      
+Article of that convention stated: 
+      
+‘If the application for enforcement is refused, the applicant may appeal:
+…
+The party against whom enforcement is sought shall be summoned to appear before the appellate court …’
+ National legislation
+Article of the Belgian Civil Code states:
+      
+‘However, creditors may exercise all the rights and claims of the debtor, with the exception of those that are exclusively
+         connected to the person.’ 
+      
+ The dispute in the main proceedings and the question referred
+The applicants and Omnipol are affected by the pro rata distribution of monies belonging to CBI.
+      
+Omnipol’s title amounts to half of the total amount of the claims against CBI. Omnipol bases its title on a judgment delivered
+         by the Gerechtshof te Amsterdam on December 2003.
+      
+The Rechtbank van eerste aanleg te Brussel authorised enforcement of that judgment on the basis of Article et seq. of Regulation
+         No 44/2001.
+      
+The applicants brought a joint appeal against that authorisation of enforcement by means of an ‘indirect claim’ under Article
+         of the Belgian Civil Code, in conjunction with Article 43(1) of Regulation No 44/2001, with a view to preventing enforcement
+         of the judgment of the Gerechtshof te Amsterdam.
+      
+On November 2005, the Rechtbank van eerste aanleg te Brussel declared that appeal inadmissible, holding that, although
+         Article of the Belgian Civil Code confers on creditors the right to exercise all rights and claims of their debtor, a
+         creditor cannot be regarded as a ‘party’ within the meaning of Article 43(1) of Regulation No 44/2001. The enforcement procedure
+         under that regulation, it ruled, provides for a complete and independent system of appeals which national legislatures may
+         not supplement. 
+      
+The applicants brought an appeal in cassation against that decision. They submit that a creditor who exercises, by means of
+         an indirect claim, the rights of a debtor must be regarded as a ‘party’ within the meaning of Article 43(1) of Regulation
+         No 44/2001, since the debtor was a party in the foreign proceedings. 
+      
+The Hof van Cassatie (Court of Cassation) noted that, although in the matter of appeals Regulation No 44/has the same
+         aim as the Brussels Convention, the wording of Article 43(1) of the regulation departs from the wording of the corresponding
+         provision in that convention. 
+      
+Article of the Brussels Convention provided that the party against whom enforcement of the judgment in the main proceedings
+         was sought could appeal against the decision authorising that enforcement, whereas Article 43(1) of Regulation No 44/provides that the decision on the application for a declaration of enforceability may be appealed against by ‘either party’.
+      
+Given that change in the wording of the Community legislation, the national court took the view that the Court’s interpretation
+         of Article of the Brussels Convention, to the effect that only the parties to the foreign order or judgment may appeal
+         against the declaration of enforceability, which excludes any redress for interested third parties against the decision authorising
+         enforcement (see Case 148/Deutsche Genossenschaftsbank [1985] ECR 1981), was no longer obviously compelling.
+      
+It is in those circumstances that the Hof van Cassatie decided to stay the proceedings and to refer the following question
+         to the Court for a preliminary ruling:
+      
+‘Is a creditor who pursues a claim in the name and for the account of his debtor a party within the meaning of Article 43(1)
+         of Regulation No 44/2001, that is, a party who can lodge an appeal against a decision on the request for a declaration of
+         enforceability, even if he has not formally appeared as a party in the proceedings in which another creditor of that debtor
+         applied for that declaration?’
+      
+ The question referred for a preliminary ruling
+By its question, the national court asks, in essence, whether Article 43(1) of Regulation No 44/must be interpreted as
+         meaning that a creditor of a debtor may lodge an appeal against a decision on the request for a declaration of enforceability
+         even if he has not formally appeared as a party in the proceedings in which another creditor of that debtor applied for that
+         declaration of enforceability.
+      
+In order to answer that question, it should be borne in mind, first, that, according to settled case-law, the provisions of
+         Regulation No 44/must be interpreted independently, by reference to its scheme and purpose (see, inter alia, Case C‑103/Reisch Montage [2006] ECR I‑6827, paragraph 29, and Case C-372/Hassett and Doherty [2008] ECR I-0000, paragraph 17). 
+      
+Second, in so far as Regulation No 44/now replaces the Brussels Convention in the relations between Member States, the
+         interpretation provided by the Court in respect of the provisions of the Brussels Convention is also valid for those of Regulation
+         No 44/whenever both sets of provisions may be regarded as equivalent. It is also apparent from recital in the preamble
+         to Regulation No 44/that continuity of interpretation should be ensured between the Brussels Convention and Regulation
+         No 44/2001.
+      
+In that connection, the national court notes that the wording of Article 43(1) of Regulation No 44/departs from that
+         of Article of the Brussels Convention.
+      
+If the system established by the Brussels Convention is considered in relation to that established by Regulation No 44/2001,
+         it becomes apparent, however, that the wording of Article 43(1) of that regulation must be compared, not with that of the
+         first paragraph of Article of that convention, but rather with the combined wording of Articles and thereof. 
+      
+Indeed, it is apparent from the first paragraph of Article of the Brussels Convention, on the one hand, and the first paragraph
+         of Article of that convention, on the other, that either the party against whom enforcement is sought or the applicant
+         may lodge an appeal, if its application is refused. Thus, from the wording of both those provisions it is apparent that either
+         party to the enforcement proceedings is able to appeal against the decision authorising enforcement, which corresponds to
+         the content of Article 43(1) of Regulation No 44/2001, which thus brings together the two separate provisions of the Brussels
+         Convention.
+      
+It follows that the change in wording to Article 43(1) of Regulation No 44/2001, compared with the Brussels Convention, has
+         not resulted in a substantive change, and cannot mean that the Court’s interpretation of the articles of the Brussels Convention
+         relating to enforcement of decisions may not be applied to the corresponding articles of Regulation No 44/2001.
+      
+In that connection, the Court has first of all held that the principle of legal certainty in the Community legal system and
+         the objectives of the Brussels Convention in accordance with Article EC, which is at its origin, require in all Member
+         States a uniform application of the legal concepts and legal classifications developed by the Court in the context of that
+         convention (see Joined Cases 9/and 10/Bavaria Fluggesellschaft and Germanair [1977] ECR 1517, paragraph 4, and Case C-432/SISRO [1995] ECR I-2269, paragraph 39). 
+      
+Subsequently, the Court has made clear that the principal objective of the Brussels Convention is to simplify the procedures
+         in the State where enforcement is sought by laying down a very summary, simple and rapid enforcement procedure, whilst at
+         the same time giving the party against whom enforcement is sought an opportunity to bring an appeal (see, to that effect,
+         Case C-414/Solo Kleinmotoren [1994] ECR I-2237, paragraph 20, and Case C-260/Unibank [1999] ECR I‑3715, paragraph 14).
+      
+That procedure constitutes an autonomous and complete system, independent of the legal systems of the Contracting States,
+         including the matter of appeals (see Deutsche Genossenschaftsbank, paragraphs and 17). The rules relating to it must be interpreted strictly (see SISRO, paragraphs and 39). It follows that Article of the Brussels Convention excludes procedures whereby interested third
+         parties may challenge an enforcement order under domestic law (see Deutsche Genossenschaftsbank, paragraph 17, and Case C‑172/Sonntag [1993] ECR I-1963, paragraph 33). 
+      
+The scope of the right conferred by Article of the Belgian Civil Code on the applicants, which at the hearing the Belgian
+         Government stated could not be placed on the same footing as the debtor, is therefore irrelevant. 
+      
+Lastly, the Court has pointed out that, since the Brussels Convention merely regulates the procedure for obtaining an order
+         for the enforcement of foreign enforceable instruments and does not deal with execution itself, which continues to be governed
+         by the domestic law of the court in which execution is sought (see Case 145/Hoffmann [1988] ECR 645, paragraph 27), interested third parties may contest execution by means of the procedures available to them
+         under the law of the State in which execution is levied (see Deutsche Genossenschaftsbank, paragraph 18). 
+      
+Those observations are equally applicable to Regulation No 44/2001. They are borne out by recital in the preamble to that
+         regulation, which refers to the redress procedures available against a declaration of enforceability. According to that recital,
+         such a possibility is expressly made available only to the applicant and the defendant. 
+      
+It follows from all of the foregoing that Article 43(1) of Regulation No 44/must be interpreted as meaning that a creditor
+         of a debtor cannot lodge an appeal against a decision on a request for a declaration of enforceability if he has not formally
+         appeared as a party in the proceedings in which another creditor of that debtor applied for that declaration of enforceability.
+      
+ Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court,
+         the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs
+         of those parties, are not recoverable.
+      
+On those grounds, the Court (First Chamber) hereby rules:
+Article 43(1) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement
+            of judgments in civil and commercial matters must be interpreted as meaning that a creditor of a debtor cannot lodge an appeal
+            against a decision on a request for a declaration of enforceability if he has not formally appeared as a party in the proceedings
+            in which another creditor of that debtor applied for that declaration of enforceability.
+[Signatures]
+* Language of the case: Dutch.
+      
+Top  

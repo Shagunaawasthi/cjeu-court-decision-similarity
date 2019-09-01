@@ -1,0 +1,182 @@
+
+JUDGMENT OF THE COURT (Grand Chamber)
+January (
+*)
+(Reference for a preliminary ruling — Social policy — Directive 2000/78/EC — Equal treatment in employment and occupation — Article — Attempted act of same-sex indecency committed by a civil servant on male minors — Disciplinary sanction adopted in — Compulsory early retirement accompanied by a reduction in the pension entitlement — Discrimination on grounds of sexual orientation — Effects of the application of Directive 2000/78/EC on the disciplinary sanction — Calculation of the retirement pension paid)
+In Case C‑258/17,
+REQUEST for a preliminary ruling under Article TFEU from the Verwaltungsgerichtshof (Upper Administrative Court, Austria), made by decision of April 2017, received at the Court on May 2017, in the proceedings
+E.B.
+v
+Versicherungsanstalt öffentlich Bediensteter BVA,
+THE COURT (Grand Chamber),
+composed of K. Lenaerts, President, R. Silva de Lapuerta, Vice-President, A. Prechal, M. Vilaras, E. Regan, T. von Danwitz, K. Jürimäe and C. Lycourgos, Presidents of Chambers, E. Juhász, M. Ilešič, J. Malenovský, M. Safjan (Rapporteur) and D. Šváby, Judges,
+Advocate General: M. Bobek,
+Registrar: M. Aleksejev, Head of Unit,
+having regard to the written procedure and further to the hearing on May 2018,
+after considering the observations submitted on behalf of:
+–
+E.B., by H. Graupner, Rechtsanwalt,
+–
+the Austrian Government, by G. Hesse and J. Schmoll, acting as Agents,
+–
+the Italian Government, by G. Palmieri, acting as Agent, and by P. Gentili, avvocato dello Stato,
+–
+the European Commission, by D. Martin and B.-R. Killmann, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on September 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article of Council Directive 2000/78/EC of November establishing a general framework for equal treatment in employment and occupation (OJ L 303, p. 16).
+The request has been made in the context of proceedings between E.B. and the Versicherungsanstalt öffentlich Bediensteter BVA (Public Servants’ Insurance Institution, Austria) concerning the lawfulness and effects of the disciplinary decision imposed on E.B., in 1975, as a result of an offence of indecency committed on male minors.
+Legal context
+European Union law
+According to recitals and to of Directive 2000/78:
+‘(1)
+In accordance with Article [TEU], the European Union is founded on the principles of liberty, democracy, respect for human rights and fundamental freedoms, and the rule of law, principles which are common to all Member States and it respects fundamental rights, as guaranteed by the European Convention for the Protection of Human Rights and Fundamental Freedoms [signed at Rome on November 1950] and as they result from the constitutional traditions common to the Member States, as general principles of [EU] law.
+…
+(11)
+Discrimination based on religion or belief, disability, age or sexual orientation may undermine the achievement of the objectives of the [TFEU], in particular the attainment of a high level of employment and social protection, raising the standard of living and the quality of life, economic and social cohesion and solidarity, and the free movement of persons.
+(12)
+To this end, any direct or indirect discrimination based on religion or belief, disability, age or sexual orientation as regards the areas covered by this Directive should be prohibited throughout the [Union]. …
+(13)
+This Directive does not apply to social security and social protection schemes whose benefits are not treated as income within the meaning given to that term for the purpose of applying Article [TFEU], nor to any kind of payment by the State aimed at providing access to employment or maintaining employment.’
+Article of that directive, entitled ‘Purpose’, states:
+‘The purpose of this Directive is to lay down a general framework for combating discrimination on the grounds of religion or belief, disability, age or sexual orientation as regards employment and occupation, with a view to putting into effect in the Member States the principle of equal treatment.’
+Article of that directive, entitled ‘Concept of discrimination’, provides, in paragraphs and 2:
+‘1.   For the purposes of this Directive, the “principle of equal treatment” shall mean that there shall be no direct or indirect discrimination whatsoever on any of the grounds referred to in Article 1.
+2.   For the purposes of paragraph 1:
+(a)
+direct discrimination shall be taken to occur where one person is treated less favourably than another is, has been or would be treated in a comparable situation, on any of the grounds referred to in Article 1;
+…’
+Article of that directive, entitled ‘Scope’, provides, in paragraphs and 3:
+‘1.   Within the limits of the areas of competence conferred on the [Union], this Directive shall apply to all persons, as regards both the public and private sectors, including public bodies, in relation to:
+…
+(c)
+employment and working conditions, including dismissals and pay;
+…
+3.   This Directive does not apply to payments of any kind made by state schemes or similar, including state social security or social protection schemes.’
+In accordance with the first paragraph of Article of Directive 2000/78, Member States were in principle to adopt the laws, regulations and administrative provisions necessary to comply with the directive by December at the latest, or could entrust the social partners with the implementation of the directive as regards provisions concerning collective agreements, while ensuring that those agreements were implemented by the same date.
+Pursuant to Article thereof, Directive 2000/entered into force on December 2000.
+Austrian law
+Criminal law
+On February 1974, Paragraphs and of the Strafgesetz (Criminal Code, 1945), in its version resulting from the Federal Law published in BGBl. No 273/(‘the StG’), provided:
+‘Defilement
+Paragraph Any person who, for the purposes of sexual gratification, sexually abuses a boy or girl under the age of in a manner other than that referred to in Paragraph commits the offence of defilement, which shall be punishable by a custodial sentence of to years, of up to years in the event of serious aggravating circumstances, and of up to years in the event of any of the consequences mentioned in Paragraph 126.
+Offence of indecency
+I.
+Same-sex indecency with young persons
+Paragraph The following forms of indecency shall also be punishable as a criminal offence:
+I.
+Same-sex indecency perpetrated by any person of the male sex who has reached the age of with a person who has not yet reached the age of 18.’
+Paragraph of the StG was replaced by Paragraph of the Strafgesetzbuch (Criminal Code) (‘the StGB’), which entered into force on January 1975. That Paragraph is worded as follows:
+‘Any individual of male sex who has reached the age of and who commits a sexual act with a person of the same sex aged over and who has not yet reached years of age shall be subject to a term of imprisonment from six months to five years.’
+By judgment of June 2002, the Verfassungsgerichtshof (Constitutional Court, Austria) held that Paragraph of the StGB was not compatible with the Constitution and annulled that provision.
+The Federal Law published in the BGBl. I No 134/2002, effective from August 2002, amended the StGB and repealed Paragraph thereof before the annulment ordered by the Verfassungsgerichtshof (Constitutional Court) became effective.
+The Republic of Austria was the subject of several adverse judgments of the European Court of Human Rights (‘the ECtHR’) relating to the application of Paragraph of the StGB prior to its repeal (see, in particular, judgments of the ECtHR of January 2003, L. and V. v. Austria, EC:ECHR:2003:0109JUD003939298; of January 2003, S.L. v. Austria, EC:ECHR:2003:0109JUD004533099; and of October 2004, Woditschka and Wilfling
+v. Austria, EC:ECHR:2004:1021JUD006975601).
+Civil service law
+As regards the pension rights of civil servants in Austria, Paragraph 13(1) of the Beamten-Dienstrechtsgesetz (Law on the civil service of 1979), in its version resulting from the Federal Law published in the BGBl. I No 119/2002, provided that, until December 2016, civil servants were to take retirement at the end of their 65th year.
+Paragraph 24(1) of the Dienstpragmatik (Service regulation), in its version published in the RGBl. No 15/(‘the DP’), applicable to police services, stated:
+‘A civil servant must, within and outside of his service, maintain the reputation of the profession, behave at all times in accordance with the rules of conduct requirements and avoid anything likely to undermine the esteem and confidence that his position requires.’
+Paragraph of the DP provided:
+‘Civil servants who fail to comply with their professional and official obligations shall be subject, without prejudice to their criminal responsibility, to administrative or disciplinary sanctions, depending on whether the breach of duty constitutes a mere breach of the administrative rules or that, in view of the prejudice or infringement of the interests of the State, the nature or seriousness of the breach, recidivism or other aggravating circumstances, this breach is considered a breach of service obligations.’
+Paragraph 93(1) of the DP provided:
+‘The disciplinary sanctions are:
+(a)
+a reprimand;
+(b)
+exclusion from promotion relating to salary;
+(c)
+reduction of monthly salary, excluding household allowances;
+(d)
+compulsory retirement and reduction of pension entitlement;
+(e)
+removal from post.’
+Paragraph of the DP was worded as follows:
+‘1.   Compulsory retirement may be imposed as a disciplinary sanction either for a fixed period of time or permanently. The reduction of the amount normally received by way of pension (by way of allowances) may not exceed 25%.
+2.   At the expiry of the period fixed in the decision, the civil servant must be treated as if he had been subject to temporary compulsory retirement, in accordance with Paragraph 76, on the date on which the disciplinary decision became final.’
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+E.B., of male gender, born in 1942, is a retired federal police officer.
+By judgment of September 1974, on the basis of Paragraph I of the StG, the Landesgericht für Strafsachen Wien (Regional Criminal Court, Vienna, Austria) sentenced E.B., who was at the time a serving police officer, to a suspended custodial sentence with a three-year probation period, for an attempted offence of same-sex indecency committed on February on two minors.
+E.B. brought an appeal against that judgment before the Oberlandesgericht Wien (Higher Regional Court, Vienna, Austria), which was unsuccessful.
+By decision of June (‘the disciplinary decision of June 1975’), the Disciplinary Committee of the Bundespolizeidirektion Wien (Federal Police Headquarters, Vienna, Austria) sanctioned E.B. for having acted in breach of his professional duties by ordering two male minors, aged respectively and 15, to perform acts of a sexual nature with him, on the basis of which he was convicted, under Paragraph and Paragraph I of the StG, of an attempted act of same-sex indecency with young persons. According to the wording of that decision, ‘he thereby committed a disciplinary offence …, [for which] the disciplinary penalty [is imposed on him] of compulsory permanent retirement on a reduced pension, the deduction from the standard pension entitlement being set at 25% (Paragraph 93(1)(d) in conjunction with Paragraph 97(1) of the DP)’.
+E.B. brought an appeal against that decision before the Higher Disciplinary Committee at the Bundesministerium für Inneres (Federal Ministry of the Interior, Austria), which was dismissed by a decision of March (‘the confirmatory disciplinary decision of March 1976’). As a result, E.B. was retired with effect from April 1976. According to the information contained in the order for reference, in the absence of that disciplinary decision, E.B. would, in accordance with Austrian law, have been eligible to receive a retirement pension from January 2008.
+By decision of May 1976, E.B.’s pension entitlement was calculated on the basis of his retirement with effect from April and taking into account the 25% reduction imposed by the disciplinary authority.
+On June 2008, E.B. brought an action before the disciplinary authority, inter alia, for the annulment of the disciplinary decision of June and for the disciplinary proceedings against him to be discontinued.
+By decision of June 2009, the Higher Disciplinary Committee of the Bundeskanzleramt (Federal Chancellery, Austria) dismissed that action.
+By judgment of January 2012, the Verwaltungsgerichtshof (Upper Administrative Court, Austria) dismissed the action which had been brought by E.B. against that decision as unfounded.
+Moreover, on February 2009, E.B. submitted to the civil service and pensions authority an application for the assessment and back payment of salary and higher pension benefits. He claimed, primarily, that, in order to avoid ongoing discrimination, he should be treated, for the purposes of his salary and pension, as if he had been in active employment until reaching statutory retirement age. In the alternative, he claims that he had the right, at the very least, to the entirety of his pension, without any reductions.
+By decision of October 2013, the Federal Ministry of the Interior dismissed E.B.’s claim to receive back payments of salary. It considered, in essence, that E.B. had not suffered any harm since the income he had earned in the private sector following the cessation of his employment in the federal public service exceeded the salary he would have received had he retained his position as a federal public servant.
+By decision of June 2015, the Public Servants’ Insurance Institution dismissed E.B.’s claims, which he had in the meantime partially amended, seeking payment of a higher pension.
+By judgment of May 2016, the Bundesverwaltungsgericht (Federal Administrative Court, Austria) dismissed the action brought by E.B. against that latter decision as unfounded.
+E.B. brought an appeal on a point of law against that judgment before the Verwaltungsgerichtshof (Upper Administrative Court). In the grounds in support of the admissibility of his action, he raises the question, inter alia, as to whether the res judicata effect of the confirmatory disciplinary decision of March had become obsolete as a result of the prohibition against discrimination laid down in Article of Directive 2000/78, in relation to the pension rights at issue in that decision.
+The Verwaltungsgerichtshof (Upper Administrative Court) considered that the appeal on a point of law brought by E.B. was lawful, in so far as, in the grounds in support of his application for admissibility, the latter raised the issue of the interpretation of Article of Directive 2000/78.
+The Verwaltungsgerichtshof (Upper Administrative Court), moreover, makes the assumption that the decision of the Higher Disciplinary Committee at the Federal Chancellery of June did not constitute a binding ruling on the question of a limitation of the res judicata effect of the confirmatory disciplinary decision of March 1976.
+According to the referring court, it is not disputed that, at the respective dates of adoption of the disciplinary decision of June and of the confirmatory disciplinary decision of March 1976, no provision of EU law precluded the sanctions imposed on E.B. for the reasons which were at that time given.
+It adds however that, after the entry into force of Directive 2000/78, a comparable disciplinary sanction could no longer be imposed in Austria. It would no longer be permissible to differentiate, even for the purposes of applying disciplinary law, between the incitement of a minor aged between and to perform male homosexual acts, on the one hand, and the incitement to perform heterosexual or lesbian acts, on the other hand. The disciplinary decision of June was made on the basis of just such a differentiation, its central foundation having been that the conduct with which E.P. was charged was, at that time, a criminal offence punishable by law due to its male homosexual nature. Even if it could not be excluded that such an incitement to perform heterosexual or lesbian acts would have been interpreted as a violation of decency, punishable at that time by disciplinary action, the disciplinary sanction which would potentially have been imposed on the civil servant found guilty of the indecency, in the absence of the constituent elements provided for in Paragraph I of the StG, would have been significantly less severe. According to the referring court, in particular, the acts committed by E.B. could not have been such as to justify the disciplinary sanction consisting in compulsory retirement.
+The entry into force of Directive 2000/could have affected the legal position in the main proceedings in so far as, in respect of the periods after that entry into force, the amount of the pension paid to E.B. should be calculated in a non-discriminatory manner. In that regard, the referring court refers to the judgment of the Court of April 1999, Ciola (C‑224/97, EU:C:1999:212).
+In those circumstances the Verwaltungsgerichtshof (Upper Administrative Court) decided to stay proceedings and to refer to the Court of Justice the following questions for a preliminary ruling:
+‘(1)
+Does Article of Directive [2000/78] preclude the continued the legal effects of an administrative decision that has become final, taken in the field of civil service disciplinary law (disciplinary decision), compulsorily retiring and reducing the pension benefits of a civil servant, where that administrative decision was not yet subject to provisions of EU law, in particular the Directive, at the time when it was adopted, but a (notional) decision to the same effect would infringe the Directive if it were adopted after its entry into force?
+(2)
+If the first question is answered in the affirmative, is it, for the purposes of creating a non-discriminatory situation,
+(a)
+necessary under EU law, for the purposes of determining the civil servant’s pension, to treat him as if, in the period between the entry into force of the administrative decision and his reaching statutory pensionable age, he had not been retired but working, or is it
+(b)
+sufficient for those purposes to recognise that he has a right to a full pension at the applicable rate in consequence of his compulsory retirement at the time specified in the administrative decision?
+(3)
+Does the answer to Question depend on whether the civil servant did in fact proactively seek active employment in the federal civil service before reaching retirement age?
+(4)
+If the Court considers that EU law requires solely the annulment of the percentage reduction of the pension entitlement (and depending also, if necessary, on the circumstances referred to in Question 3):
+can the principle of non-discrimination contained in Directive 2000/justify its own primacy over conflicting national law which a national court must observe, when calculating pension entitlement, even in respect of periods before that directive became directly applicable in the Member States?
+(5)
+If Question is answered in the affirmative, to which point in time does such “retroactive effect” extend?’
+Consideration of the questions referred
+The first question
+By its first question, the referring court asks, in essence, whether Article of Directive 2000/must be interpreted as applying to the legal effects of a final disciplinary decision, adopted before the entry into force of that directive, ordering the compulsory early retirement of a civil servant, accompanied by a reduction in his pension entitlement.
+According to the Court’s settled case-law, it is clear from the title of, and preamble to, Directive 2000/78, as well as from its content and purpose, that that directive is intended to establish a general framework for ensuring that everyone benefits from equal treatment ‘in matters of employment and occupation’ by providing effective protection against discrimination based on any of the grounds listed in Article thereof, which include sexual orientation (see, to that effect, judgments of June 2009, Hütter, C‑88/08, EU:C:2009:381, paragraph 33, and of September 2018, Bedi, C‑312/17, EU:C:2018:734, paragraph 28).
+In order to answer the referring court’s first question, it is necessary to verify, as a first step, whether a situation such as that created by the disciplinary decision of June comes within the material scope of Directive 2000/78.
+In that regard, first of all, it is apparent from Article 3(1)(c) of that directive that it applies, within the limits of the areas of competence conferred on the European Union, ‘to all persons, as regards both the public and private sectors, including public bodies’, in relation inter alia to ‘employment and working conditions, including dismissals and pay’ (judgments of October 2010, Ingeniørforeningen i Danmark, C‑499/08, EU:C:2010:600, paragraph 20, and of November 2016, Parris, C‑443/15, EU:C:2016:897, paragraph 32).
+In this case, E.B., a police officer, was subject, as a disciplinary sanction, to compulsory retirement, accompanied by a 25% reduction of his pension entitlement. In those circumstances, it must be noted that the disciplinary decision of June 1975, in so far as it involves early retirement, affected his employment and working conditions for the purposes of Article 3(1)(c) of Directive 2000/78.
+Nevertheless, for the purposes of assessing whether a pension such as that at issue in the main proceedings comes within the scope of Directive 2000/78, it must be noted that it is settled case-law that that scope must be understood, in the light of Article 3(1)(c) and (3) read in conjunction with recital of that directive, as excluding social security or social protection schemes, the benefits of which are not equivalent to ‘pay’ within the meaning given to that term for the application of Article 157(2) TFEU (judgments of December 2012, Dittrich and Others, C‑124/11, C‑125/and C‑143/11, EU:C:2012:771, paragraph 31, and of September 2018, Bedi, C‑312/17, EU:C:2018:734, paragraph 30).
+In that regard, the only criterion which may prove decisive is whether the pension is paid to the worker by reason of the employment relationship between him and his former employer, that is to say, the criterion of employment, based on the wording of that article (see, to that effect, judgments of September 1994, Beune, C‑7/93, EU:C:1994:350, paragraph 43, and of April 2008, Maruko, C‑267/06, EU:C:2008:179, paragraph and the case-law cited).
+In that context, a pension which concerns only a particular category of workers, which is directly related to the period of service completed and whose amount is calculated by reference to the final salary comes within the scope of that article (see, to that effect, judgments of April 2008, Maruko, C‑267/06, EU:C:2008:179, paragraphs and 48, and of November 2016, Parris, C‑443/15, EU:C:2016:897, paragraph 35).
+It is for the referring court to verify, in the light of those factors, whether the retirement pension paid to E.B. comes within the scope of application of Article TFEU and, in particular, whether that pension is, under national law, regarded as pay which continues to be paid in the context of an employment relationship which continues after the civil servant becomes entitled to retirement benefits, in the same way as the civil service pension at issue in the case which gave rise to the judgment of January 2015, Felber (C‑529/13, EU:C:2015:20).
+In light of the above, and to the extent that the pension paid to E.B. comes within the concept of ‘pay’ for the purposes of Article TFEU, and, therefore, of Directive 2000/78, a situation such as that created by the disciplinary decision of June comes within the scope ratione materiae of that directive.
+It is necessary, secondly, to examine whether such a situation comes within the scope ratione temporis of that directive.
+According to the Court’s settled case-law, a new rule of law applies from the entry into force of the act introducing it, and, while it does not apply to legal situations that have arisen and become final under the old law, it does apply to their future effects, and to new legal situations. The position is otherwise, subject to the principle of the non-retroactivity of legal acts, only if the new rule is accompanied by special provisions which specifically lay down its conditions of temporal application (judgments of December 2010, Stichting Natuur en Milieu and Others, C‑266/09, EU:C:2010:779, paragraph 32, and of March 2015, Commission v Moravia Gas Storage, C‑596/P, EU:C:2015:203, paragraph 32).
+In this case, it should be noted that the disciplinary decision of June gave rise to a legal situation which had definitively come into being before the application of Directive 2000/78.
+A decision such as that at issue in the main proceedings cannot therefore, in the absence of any special provisions to that effect in Directive 2000/78, be brought within the scope of EU law in respect of the period prior to the time limit for transposing that directive (see, to that effect, judgment of May 2011, Römer, C‑147/08, EU:C:2011:286, paragraph 61).
+Therefore, it is only from the expiry of the time limit for transposing Directive 2000/78, namely from December 2003, that that directive brought the effects of the decision at issue in the main proceedings within the scope of EU law (see, to that effect, judgment of May 2011, Römer, C‑147/08, EU:C:2011:286, paragraph 63).
+Although the Austrian State began regularly paying a retirement pension to E.B. from 1976, in accordance with the disciplinary decision of June 1975, it continued paying that pension after the expiry of the time limit for transposing Directive 2000/78.
+Therefore, due to the continuation of E.B.’s pension payments, that decision, although it, admittedly, became final before the expiry of the time limit for transposing Directive 2000/78, by contrast did not exhaust all of its legal effects prior to the expiry of that time limit, but rather continues after that expiry periodically to have effects, over the entire pension period of the person concerned.
+Consequently, in the light of the case-law cited in paragraph of the present judgment, the situation created by the disciplinary decision of June constitutes a situation which arose prior to the entry into force of Directive 2000/78, but whose future effects are governed by that directive as from the expiry of the time limit for transposing it, in accordance with the principle that new rules apply immediately to such future effects.
+In the light of the foregoing considerations, the answer to the first question is that Article of Directive 2000/must be interpreted as applying, after the expiry of the time limit for transposing that directive, namely from December 2003, to the future effects of a final disciplinary decision, adopted before the entry into force of that directive, ordering the early retirement of a civil servant, accompanied by a reduction in his pension entitlement.
+The second to fifth questions
+By its second to fifth questions, which should be examined together, the referring court asks, in essence, in the light of the answer to the first question, whether, and to what extent, Directive 2000/must be interpreted as obliging the national court to review the legal effects of the final disciplinary decision ordering the early retirement of a civil servant, accompanied by a reduction of his pension entitlement.
+First, it must be noted that the Austrian Government maintains that the ethical rules applicable to E.B., which oblige civil servants to uphold the reputation of their profession within and outside their service, sanctioned in the same way homosexual and heterosexual persons who committed offences. Consequently, those rules did not result in any direct discrimination on the grounds of sexual orientation.
+However, as the referring court stated in its order for reference, and as is apparent from paragraph of the present judgment, the disciplinary decision of June 1975, confirmed by the confirmatory disciplinary decision of March 1976, was essentially based on the fact that the conduct with which E.B. was charged was, at that time, a criminal offence punishable in accordance with a provision of Austrian law which criminalised attempted acts of male homosexual indecency committed against a minor, but which did not criminalise attempted acts of heterosexual or female homosexual indecency committed against a minor. The referring court also pointed out that a possible disciplinary sanction imposed in the absence of elements constituting an attempted act of male homosexual indecency provided for by that provision of Austrian criminal law would have been considerably less severe.
+It follows that a situation such as that resulting from the disciplinary decision of June 1975, which is based on a difference of treatment on the grounds of sexual orientation, gives rise to direct discrimination for the purposes of Article 2(2)(a) of Directive 2000/78.
+Having established that finding, it should be noted that the disciplinary sanction consisting in E.B.’s compulsory early retirement took effect on April 1976. That sanction became final before the expiry of the time limit for transposing Directive 2000/and exhausted all of its effects at the time of its entry into force. In the light of the answer given to the first question, it can therefore no longer be called into question on the basis of that directive. The fact that the referring court states that E.B. could not have been subject to compulsory retirement where the conduct with which he was charged was, at that time, not a criminal offence is not capable of altering that finding.
+In those circumstances, a person such as E.B. cannot rely on the provisions of Directive 2000/in order to have the courts take into account the professional career which he would have had if the disciplinary decision of June had not been adopted.
+Therefore, for the purposes of calculating the pension entitlement of a person such as E.B., that person cannot be treated as if, in the period between the entry into force of the disciplinary decision of June and his reaching statutory pensionable age, he had been working as a civil servant. Consequently, EU law does not require payment, by the Austrian State, of compensation or the recognition of a right to a pension in relation to that period.
+As regards, by contrast, the sanction consisting in the 25% reduction of E.B.’s pension entitlement on the basis of his compulsory retirement from April 1976, it should be noted that, although the effects produced by that sanction before the expiry of the time limit for transposing Directive 2000/cannot, in the light of the answer to the first question, be called into question on the basis of that directive, that reduced pension continues however to be regularly paid to E.B. Therefore, the application of Directive 2000/after the expiry of the time limit for transposing it requires, in accordance with the case-law cited in paragraph of the present judgment, that a review of the reduction of E.B.’s pension entitlement as from that date be carried out, in order to put an end to the discrimination on the grounds of sexual orientation. The calculation to be carried out in the context of that review must be made on the basis of the amount of the pension to which E.B. would have been entitled on account of his compulsory retirement from April 1976.
+In that regard, the referring court must examine the extent to which a civil servant who, at that time, infringed his ethical obligations in a way comparable to E.B.’s infringement would have been subject to a disciplinary sanction if the male homosexual nature of that infringement had been disregarded.
+In this case, the referring court stated that, even if it could not be excluded that a comparable incitement of a minor to carry out heterosexual or lesbian acts would have been regarded, and sanctioned, as an infringement of the ethical obligations imposed on police officers, the disciplinary sanction imposed on E.B. would have been significantly less severe in the absence of the elements constituting an offence, as provided for by the provision of Austrian criminal law at issue. In those circumstances, it is for that court to determine whether that infringement gave rise to a disciplinary sanction involving a reduction of the retirement pension and, where appropriate, the size of the reduction of the pension entitlement that would have been imposed on E.B. as a disciplinary sanction in the absence of any discrimination on the grounds of sexual orientation, on the understanding that such a reduction must, by definition, be less than 25%.
+In the context of the application of Directive 2000/78, and since the aim is to remedy discrimination such as that at issue in the main proceedings by determining the relevant percentage of the reduction of E.B.’s pension entitlement, the fact that, before reaching statutory retirement age, the person concerned may have proactively sought active employment in a public service or, during the time of his early retirement, worked in the private sector, is not relevant.
+The referring court must therefore assess the amount of the pension which must be paid to E.B., in respect of the period starting on December 2003.
+In the light of the foregoing considerations, the answer to the second to fifth questions is that Directive 2000/must be interpreted as meaning that, in a situation such as that referred to in paragraph of the present judgment, it obliges the national court to review, with respect to the period starting on December 2003, not the final disciplinary decision ordering the early retirement of the civil servant concerned, but the reduction in his pension entitlement, in order to calculate the amount he would have received in the absence of any discrimination on the ground of sexual orientation.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Grand Chamber) hereby rules:
+ 
+1.
+Article of Council Directive 2000/78/EC of November establishing a general framework for equal treatment in employment and occupation must be interpreted as applying, after the expiry of the time limit for transposing that directive, namely from December 2003, to the future effects of a final disciplinary decision, adopted before the entry into force of that directive, ordering the early retirement of a civil servant, accompanied by a reduction in his pension entitlement.
+ 
+2.
+Directive 2000/must be interpreted as meaning that, in a situation such as that referred to in point of the operative part of the present judgment, it obliges the national court to review, with respect to the period starting on December 2003, not the final disciplinary decision ordering the early retirement of the civil servant concerned, but the reduction in his pension entitlement, in order to calculate the amount he would have received in the absence of any discrimination on the ground of sexual orientation.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

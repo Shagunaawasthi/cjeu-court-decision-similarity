@@ -1,0 +1,253 @@
+
+JUDGMENT OF THE COURT (Ninth Chamber)
+November (
+*)
+(Reference for a preliminary ruling — Common Customs Tariff — Combined Nomenclature — Tariff classification — Headings and subheadings 4421, 7326, 73181590, and — Article specially designed to mount child safety gates — Dumping — Validity of Regulation (EC) No 91/— Imports of certain iron or steel fasteners originating in China —World Trade Organisation (WTO) Anti-Dumping Agreement — Regulation (EC) No 384/— Article 3(2) and Article 4(1) — Definition of Community industry)
+In Case C‑592/17,
+REQUEST for a preliminary ruling under Article TFEU from the Vestre Landsret (High Court of Western Denmark), made by decision of October 2017, received at the Court on October 2017, in the proceedings
+Skatteministeriet
+v
+Baby Dan A/S,
+THE COURT (Ninth Chamber),
+composed of C. Lycourgos (Rapporteur), President of the Tenth Chamber, acting as President of the Ninth Chamber, E. Juhász and C. Vajda, Judges,
+Advocate General: N. Wahl,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Baby Dan A/S, by L. Kjær, advokat,
+–
+the Danish Government, by J. Nymann-Lindegren and M. Wolff, acting as Agents, and by B. Søes Petersen, advokat,
+–
+the Council of the European Union, by H. Marcos Fraile and A.F. Jensen, acting as Agents, and by N. Tuominen, avocată,
+–
+the European Commission, by A. Caeiros and T. Maxian Rusche, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of headings and as well as subheadings 73181590, and of the Combined Nomenclature contained in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, p. 1), in the versions resulting consecutively from Commission Regulation (EC) No 1214/of September (OJ L 286, p. 1) and from Commission Regulation (EC) No 1031/of September (OJ L 291, p. 1) (‘the CN’); and the validity of Council Regulation (EC) No 91/of January imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners originating in the People’s Republic of China (OJ L 29, p. 1, ‘the contested regulation’).
+The request has been made in proceedings between the Skatteministeriet (Ministry of Finance, Denmark) and Baby Dan A/S concerning the CN tariff classification of goods which enable child safety gates to be mounted to a wall or a door frame.
+Legal context
+Customs legislation
+The Combined Nomenclature
+The customs classification of goods imported into the European Union is governed by the CN.
+Article of Regulation No 2658/provides that the European Commission is to adopt each year, by means of a regulation, a complete version of the CN together with the corresponding autonomous and conventional rates of duty of the Common Customs Tariff, as it results from measures adopted by the Council of the European Union or by the Commission. That regulation is to be published in the Official Journal of the European Union not later than October, to apply from January of the following year.
+It is apparent from the file submitted to the Court that the versions of the CN applicable to the facts in the main proceedings are those for the years and 2009, resulting, respectively, from Regulation No 1214/and Regulation No 1031/2008. The provisions of that nomenclature applicable to the main proceedings are, however, identical in both versions.
+The first part of the CN, relating to preliminary provisions, includes Section I, on ‘General rules’, part A of which, entitled ‘General rules for the interpretation of the Combined Nomenclature’, provides, inter alia, as follows:
+‘Classification of goods in the [CN] shall be governed by the following principles:
+1.
+The titles of sections, chapters and sub-chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings or notes do not otherwise require, according to the following provisions.
+…
+6.
+For legal purposes, the classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related subheading notes and, mutatis mutandis, to the above rules, on the understanding that only subheadings at the same level are comparable. For the purposes of this rule, the relative section and chapter notes also apply, unless the context requires otherwise.’
+The second part of the CN includes Section IX, headed ‘Wood and articles of wood; wood charcoal; cork and articles of cork; manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork’, which contains, inter alia, Chapter 44, entitled ‘Wood and articles of wood; wood charcoal’. That chapter includes heading 4421, which is worded as follows:
+‘Other articles of wood
+‐ Clothes hangers
+‐ Other:
+‐ ‐ Of fibreboard
+‐ ‐ other’
+That second part of the CN also includes Section XV, headed ‘Base metals and articles of base metal’, Note of which is worded as follows:
+‘Throughout the nomenclature, the expression “parts of general use” means:
+(a)
+articles of heading 7307, 7312, 7315, or and similar articles of other base metal;
+(b)
+springs and leaves for springs, of base metal, other than clock or watch springs (heading 9114); and
+(c)
+articles of headings 8301, 8302, 8308, and frames and mirrors, of base metal, of heading 8306.
+In Chapters to and to (but not in heading 7315) references to parts of goods do not include references to parts of general use as defined above.
+Subject to the preceding paragraph and to note to Chapter 83, the articles of Chapter or are excluded from Chapters to and to 81.’
+Chapter of that CN, headed ‘Articles of iron or steel’, which includes headings and 7326, are contained under Section XV of the second part of the CN. Those headings read as follows:
+‘Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter pins, washers (including spring washers) and similar articles, of iron or steel:
+ 
+‐ Threaded articles:
+‐ ‐ Coach screws
+‐ ‐ Other wood screws:
+…
+…
+‐ ‐ Screw hooks and screw rings
+‐ ‐ Self-tapping screws:
+…
+…
+‐ ‐ Other screws and bolts, whether or not with their nuts or washers:
+‐ ‐ ‐ Screws, turned from bars, rods, profiles, or wire, of solid section, of a shank thickness not exceeding mm
+ 
+‐ ‐ Other:
+‐ ‐ ‐ ‐ For fixing railway track construction material
+ 
+‐ ‐ ‐ ‐ Other:
+ 
+‐ ‐ ‐ ‐ ‐ Without heads:
+…
+…
+ 
+‐ ‐ ‐ ‐ ‐ With heads:
+ 
+‐ ‐ ‐ ‐ ‐ ‐ Slotted and cross-recessed screws:
+…
+…
+ 
+‐ ‐ ‐ ‐ ‐ ‐ Hexagon socket screws:
+…
+…
+ 
+‐ ‐ ‐ ‐ ‐ ‐ Hexagon bolts:
+…
+…
+‐ ‐ ‐ ‐ ‐ ‐ Other
+‐ ‐ Nuts:
+…
+…
+‐ ‐ Other
+…
+…
+Other articles of iron or steel
+‐ Forged or stamped, but not further worked’.
+The second part of the CN also includes Section XX, headed ‘Miscellaneous manufactured articles’, which contains Chapter 94, which is headed ‘Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings’. Note to Section XV states:
+‘1.
+This chapter does not cover:
+…
+(d)
+parts of general use as defined in note to Section XV, of base metal (Section XV), or similar goods of plastics (Chapter 39), or safes of heading 8303;
+…’
+Chapter includes heading 9403, which is worded as follows:
+‘Other furniture and parts thereof:
+…
+…
+‐ ‐ Parts:
+‐ ‐ Of metal’
+The Explanatory Notes to the Harmonised Commodity Description and Coding System
+The Customs Cooperation Council, now the World Customs Organisation (WCO), was established by the convention establishing that body, concluded at Brussels on December 1950. The Harmonised Commodity Description and Coding System (‘the HS’) was drawn up by the WCO and established by the International Convention on the Harmonised Commodity Description and Coding System, concluded in Brussels on June and approved, with its amending protocol of June 1986, on behalf of the European Economic Community by Council Decision 87/369/EEC of April (OJ L 198, p. 1). The CN takes six-digit headings and subheadings from the HS. Only the seventh and eighth figures creating further subheadings are specific to it.
+The Explanatory Notes to the HS are drawn up within the WCO in accordance with the provisions of the HS Convention.
+The HS Explanatory Note relating to heading is worded as follows:
+‘This heading covers all articles of wood manufactured by turning or by any other method, or of wood marquetry or inlaid wood, other than those specified or included in the preceding headings and other than articles of a kind classified elsewhere irrespective of their constituent material (see, for example, Chapter Note 1).
+It also covers wooden parts of the articles specified or included in the preceding headings, other than those of heading 4416.
+The articles of this heading may be made of ordinary wood or of particle board or similar board, fibreboard, laminated wood or densified wood (see Note to this Chapter).’
+The HS Explanatory Note covering Section XV, relating to base metals and articles of base metal, and which contains, inter alia, Chapter 73, states:
+‘General considerations
+…
+C. Parts of articles
+In general, identifiable parts of articles are classified as such parts in their appropriate headings in the Nomenclature.
+However, parts of general use (as defined in Note to this Section) presented separately are not considered as parts of articles, but are classified in the headings of this Section appropriate to them. This would apply, for example, in the case of bolts specialised for central heating radiators or springs specialised for motor cars. The bolts would be classified in heading (as bolts) and not in heading (as parts of central heating radiators). The springs would be classified in heading (as springs) and not in heading (as parts of motor vehicles).’
+The Explanatory Note to the HS on heading states:
+‘A. Screws, bolts and nuts
+All these articles are normally threaded in the finished state, with the exception of some bolts which may sometimes be secured by means of a cotter pin, for example. They enable the assembly of two or more parts between them, in such a way that it is possible to separate them subsequently without deterioration.
+…’
+Legislation on measures to protect trade
+International law
+The Agreement establishing the World Trade Organisation (WTO) was approved by the Council by Decision 94/800/EC of December concerning the conclusion on behalf of the European Community, as regards matters within its competence, of the agreements reached in the Uruguay Round multilateral negotiations (1986-1994) (OJ L 336, p. 1). That agreement includes in Annex 1A, the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade (OJ L 336, p. 103, ‘the Anti-dumping Agreement’), of which Article 3.provides:
+‘A determination of injury for purposes of Article VI of [the General Agreement on Tariffs and Trade (GATT)] shall be based on positive evidence and involve an objective examination of both (a) the volume of the dumped imports and the effect of the dumped imports on prices in the domestic market for like products, and (b) the consequent impact of these imports on domestic producers of such products.’
+Article of the Anti-Dumping Agreement provides as follows:
+‘4.For the purposes of this Agreement, the term “domestic industry” shall be interpreted as referring to the domestic producers as a whole of the like products or to those of them whose collective output of the products constitutes a major proportion of the total domestic production of those products,
+…’
+European Union law
+– The Basic Regulation
+On the date on which the contested regulation was adopted, the provisions governing the adoption of anti-dumping measures by the Union were to be found in Council Regulation (EC) No 384/of December on protection against dumped imports from countries not members of the European Community (OJ L 56, p. 1, and corrigenda OJ L 94, p. and OJ L 263, p. 34), as amended by Regulation (EU) No 461/of the Council of March (OJ L 77, p. 12) (‘the Basic Regulation’).
+Recital of that regulation stated:
+‘Whereas the new agreement on dumping, … contains new and detailed rules …; whereas, in view of the extent of the changes and to ensure a proper and transparent application of the new rules, the language of the new agreements should be brought into Community legislation as far as possible.’
+Article of the basic regulation provided:
+‘Determination of injury
+1.   Pursuant to this Regulation, the term “injury” shall, unless otherwise specified, be taken to mean material injury to the Community industry, threat of material injury to the Community industry or material retardation of the establishment of such an industry and shall be interpreted in accordance with the provisions of this Article.
+2.   A determination of injury shall be based on positive evidence and shall involve an objective examination of both (a) the volume of the dumped imports and the effect of the dumped imports on prices in the Community market for like products; and (b) the consequent impact of those imports on the Community industry.
+…’
+Article of that regulation, entitled ‘Definition of the Community industry’, provided in paragraph thereof:
+‘For the purposes of this Regulation, the term “Community industry” shall be interpreted as referring to the Community producers as a whole of the like products or to those of them whose collective output of the products constitutes a major proportion, as defined in Article 5(4), of the total Community production of those products, except that:
+…’
+Article 5(4) of that regulation provided:
+‘An investigation shall not be initiated pursuant to paragraph unless it has been determined, on the basis of an examination as to the degree of support for, or opposition to, the complaint expressed by Community producers of the like product, that the complaint has been made by or on behalf of the Community industry. The complaint shall be considered to have been made by or on behalf of the Community industry if it is supported by those Community producers whose collective output constitutes more than 50% of the total production of the like product produced by that portion of the Community industry expressing either support for or opposition to the complaint. However, no investigation shall be initiated when Community producers expressly supporting the complaint account for less than 25% of total production of the like product produced by the Community industry.’
+– The WTO enabling Regulation
+Article 1(1)(a) of Council Regulation (EC) No 1515/of July on the measures that may be taken by the Community following a report adopted by the WTO Dispute Settlement Body concerning anti-dumping and anti-subsidy matters (OJ L 201, p. 10, ‘the WTO enabling Regulation’), provided:
+‘Whenever the [WTO Dispute Settlement Body] (DSB) adopts a Report concerning a Community measure taken pursuant to Council Regulation (EC) No 384/96, Council Regulation (EC) No 2026/of October on protection against subsidized imports from countries not members of the European Community (OJ L 288, p. 1) or to this Regulation (“disputed measure”), the Council may, acting by simple majority on a proposal submitted by the Commission after consultation of the Advisory Committee established pursuant to Article of Regulation (EC) No 384/or Article of Regulation (EC) No 2026/…, take one or more of the following measures, whichever it considers appropriate:
+(a)
+repeal or amend the disputed measure …’
+Under Article of the WTO enabling Regulation, any measures adopted pursuant to this regulation shall take effect from the date of their entry into force and shall not serve as basis for the reimbursement of the duties collected prior to that date, unless otherwise provided for.
+Regulation (EU) 2015/of the European Parliament and of the Council of March on the measures that the Union may take following a report adopted by the WTO Dispute Settlement Body concerning anti-dumping and anti-subsidy matters (OJ L 83, p. 6) repealed the WTO enabling Regulation. Article 1(1)(a) and Article of Regulation 2015/however replicate, in essence, the content of Article 1(1)(a) and Article of the WTO enabling Regulation.
+– The contested regulation and the implementing regulations
+By the contested regulation, the Council imposed a definitive anti-dumping duty on some iron or steel fasteners, other than stainless steel, originating in China, coming under CN subheading 73181590.
+On July 2011, the DSB adopted the Appellate Body Report and the Panel Report as amended by the Appellate Body Report in the case ‘European Communities — Definitive Anti-Dumping Measures on Certain Iron or Steel Fasteners from China’ (WT/DS/397), according to which the Union had infringed the Anti-Dumping Agreement by adopting the contested regulation. Following those reports, the Council adopted Implementing Regulation (EU) No 924/of October 2012, amending Regulation No 91/(OJ L 275, p. 1). Implementing Regulation No 924/maintained the anti-dumping measures imposed by the contested regulation but made certain amendments relating, in particular, to the reduction in the future of the maximum anti-dumping duty from 85% to 74.1%.
+Following a second complaint from the People’s Republic of China, the WTO Appellate Body submitted a report on January 2016, which was adopted by the DSB on February 2016, in which it was considered that, by the adoption of Implementing Regulation No 924/2012, the Union also infringed the Anti-Dumping Agreement.
+In those circumstances, the Commission adopted Implementing Regulation (EU) 2016/of February repealing the definitive anti-dumping duty imposed on imports of certain iron or steel fasteners originating in the People’s Republic of China, as extended to imports of certain iron or steel fasteners consigned from Malaysia, whether declared as originating in Malaysia or not (OJ L 52, p. 24).
+It follows from recital of that implementing regulation that the Commission considers that, in accordance with Article 1(1)(a) of Regulation 2015/476, it is appropriate to repeal the anti-dumping duties imposed by the contested regulation, as amended by Implementing Regulation No 924/2012. According to Article of Implementing Regulation 2016/278, that repeal is to take effect from the date of the entry into force of that implementing regulation as provided for in Article thereof and is not to serve as a basis for the reimbursement of the duties collected prior to that date.
+The dispute in the main proceedings and the questions referred for a preliminary ruling
+Baby Dan operates a business producing and supplying safety products, textiles, furniture and other equipment for children aged to 5. It produces, in particular, removable safety barriers made of wood or metal, which may be mounted by pressure to a wall or door frame by means of an article referred to as a ‘spindle’ (‘the article at issue’). That article is specifically designed for the installation of child safety barriers produced by Baby Dan and, according to the national court, is unable to be used for other purposes.
+On June 2010, the Danish tax authorities carried out an inspection on the premises of Baby Dan. On that occasion, and in order to verify the tariff classification of the article at issue imported from China into the Union by Baby Dan, samples of that article were sent to FORCE Technology, a company which carries out technical analysis for the Danish tax authorities.
+On August 2010, FORCE Technology released its test results indicating that the samples which had been submitted to it were to be considered as being either screws, screws with nuts, or eye bolts with nuts. On the basis of that analysis, Force Technology recommended that the article at issue be classified under CN tariff heading 7318.
+Baby Dan did not agree with FORCE Technology’s findings and those of the Teknologisk Institut, which inter alia carries out laboratory tests and materials testing for undertakings. According to that institute, it is appropriate to classify the article at issue under CN heading 8302, covering mountings, fittings and similar articles.
+By decision of February 2011, the Danish tax authorities classified the article at issue under CN heading 7318.
+Baby Dan then brought an action against that decision before the Landsskatteret (National Tax Tribunal, Denmark), which held, by an decision of December 2011, that the article at issue should be classified under the same CN heading as the child safety barriers produced by Baby Dan, namely heading of that nomenclature.
+The Ministry of Finance lodged an appeal against that decision before the Retten i Horsens (District Court, Horsens, Denmark) claiming that the article at issue came under CN heading 7318. Before that court, Baby Dan sought, primarily, confirmation of the decision of the National Tax Tribunal and argued, in the alternative, that the article at issue should be classified under CN heading 8302. Baby Dan also claimed that the contested regulation on the basis of which an anti-dumping duty had been imposed was invalid.
+The Retten i Horsens (District Court, Horsens) referred the case to the Vestre Landsret (High Court of Western Denmark) which decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling, namely: ‘Must spindles with the specific characteristics as described be classified under CN heading or 8302?’ The Court ruled in its judgment of June 2015, Baby Dan (C‑272/14, not published, EU:C:2015:388), in which it held that the article at issue which allows a child safety gate to be mounted to a wall or door frame must be classified under CN heading 7318.
+It is apparent from the file before the Court in the case which gave rise to that judgment that the article at issue consists of a threaded metal tube which has a metal disk covered with rubber at one end. The thread of the tube is flattened at a distance of about two centimetres from its other end. On the tube is a special nut chamfered on one side at a degree angle, which cannot be removed from the tube due to the flattening of the thread of that tube.
+The end formed of the metal disc is placed against the wall or door frame, while the thread fits into a hole in the child safety gate. The article at issue adapts to the door frame or the wall due to the possibility of tightening the nut which is provided with the threaded part.
+Following the judgment of June 2015, Baby Dan (C‑272/14, not published, EU:C:2015:388), the case in the main proceedings was stayed at the request of the Ministry of Finance until the Commission adopted the decision on the tariff classification of the article at issue under CN subheading or 73181590. At the request of the Danish authorities, the question relating to that classification was also submitted to the Customs Code Committee, where the majority of Member States favoured a tariff classification of the article at issue under CN subheading 73181590, taking the view that that article was not comparable to the products covered by Commission Implementing Regulation (EU) No 646/of June concerning the classification of certain goods in the Combined Nomenclature (OJ L 178, p. 2), pursuant to which those products are classified under CN subheading 73181900.
+In its order for reference relating to the present case, which is the second request for a preliminary ruling in the case in the main proceedings, the Vestre Landsret (High Court of Western Denmark) indicates that, in the reference which gave rise to the judgment of June 2015, Baby Dan (C‑272/14, not published, EU:C:2015:388), its question referred for a preliminary ruling had solely concerned the interpretation of CN headings and 8302, as the court had decided that it was not necessary to refer a question to the Court of Justice for a preliminary ruling as to whether the article at issue constituted a part or an accessory of the child safety gates, as the court took the view that it could answer that latter question itself. It takes the view that the Court of Justice thus wrongly understood that the national court had considered that the article at issue did not constitute a part or an accessory of those safety gates.
+According to the Vestre Landsret (High Court of Western Denmark), the parties to the main proceedings agree that the judgment of June 2015, Baby Dan (C‑272/14, not published, EU:C:2015:388), does not exclude the tariff classification of the article at issue as constituting part of a child safety gate. That court wishes to know whether, having regard to its characteristics and objective properties, the article at issue must be regarded, within the meaning of the CN, as constituting a part of a child safety gate and, where appropriate, if that article is to be classified under CN subheading or under CN heading or 4421. If the article at issue cannot be considered as being part of a child safety gate, the Vestre Landsret (High Court of Western Denmark) wishes to know whether that article should be classified under CN subheading or 00. Finally, in the event that such an article should be classified under CN subheading 73181590, that court questions the validity of the contested regulation.
+In those circumstances, the Vestre Landsret (High Court of Western Denmark) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Must spindles with the specific features as described be deemed to be part of the child safety gate?
+(2)
+If the first question is answered in the affirmative, so that the spindles are deemed to be part of the child safety gate, must the spindles then be classified under CN heading or CN heading and 4421?
+(3)
+If the first question is answered in the negative, so that the spindles are not deemed to be part of the child safety gate, must the spindles then be classified under CN heading or CN heading 73181900?
+(4)
+Is [the contested regulation] invalid as a result of the fact that the Commission and the Council — according to the WTO’s Appellate Body — based themselves on a process that linked the definition of EU industry to EU producers’ willingness to be part of a sample and be inspected, resulting in a self-selecting process in the industry, which gave rise to a material risk of distortion of the investigation and the result?’
+Consideration of the questions referred
+The tariff classification of the article at issue
+By Questions to 3, which must be examined together, the national court asks, in essence, whether the CN must be interpreted as meaning that an article, such as that at issue in the main proceedings, which enables movable child safety gates to be mounted on a wall or door frame, constitutes part of that gate and must be classified under subheading or under CN headings or or under subheadings or of that nomenclature.
+In the judgment of June 2015, Baby Dan (C‑272/14, not published, EU:C:2015:388, paragraphs to 40), the Court considered that the characteristics and objective properties of the article at issue allowed it to be classified under CN heading as ‘screws, bolts, nuts, coach screws, … and similar articles, of iron or steel’.
+In the present case, the national court asks whether, notwithstanding the Court’s answer in that judgment, the article at issue could not be described as ‘part’ of movable child safety gates for which it has been manufactured exclusively, and, as such, be classified under the same heading as those to which those gates apply, namely CN heading or or subheading 94039010.
+According to the Court’s case-law, the general rules for the interpretation of the CN provide that the classification of goods is to be determined according to the terms of the headings and any section or chapter notes, the titles of sections, chapters and sub-chapters being provided for ease of reference only (judgment of June 2015, Baby Dan, not published, C‑272/14, EU:C:2015:388, paragraph 25).
+In that regard, like the Danish Government, it is appropriate to refer to Note to Section XV of the CN, the section which includes, inter alia, Chapter of the nomenclature, headed ‘Articles of iron or steel’, which includes heading 7318. It follows from that note, first, that the articles included in that last heading must be understood as being ‘parts of general use’, and, second, that in CN Chapter 73, the references to ‘parts’ does not cover ‘parts of general use’ within the meaning of that note. The concepts of ‘parts’ and ‘parts of general use’ are therefore mutually exclusive.
+The Court held in the judgment of June 2015, Baby Dan (C‑272/14, not published, EU:C:2015:388, paragraph 37), that, having regard to its obvious visual similarity with the articles for which it is common ground that they come under CN heading 7318, and to its characteristics and objective properties, the article at issue may be classified under that CN heading.
+It should be noted that, solely because of that classification in CN heading 7318, that article constitutes a ‘part of general use’ within the meaning of Note 2(a) to CN Section XV.
+It follows that the classification of the article at issue under CN heading precludes, in accordance with that Note 2(a), the classification of that article as a ‘part’ of another product, here, a child safety gate (see, by analogy, judgment of December 2013, HARK, C‑450/12, EU:C:2013:824, paragraph 40).
+That conclusion is confirmed, first, by Note 1(d) to CN Section XX, in which, inter alia, Chapter of that classification appears. That note specifies that that chapter does not include parts of general use, within the meaning of Note of CN Section XV, which excludes the classification of the article at issue under CN heading 9403.
+Second, the conclusion in paragraph of the present judgment is also confirmed by the HS Explanatory Note to Section XV, which contains, inter alia, Chapter 73. In that regard, it should be recalled that, according to settled case-law, even though the Explanatory Notes to the HS lack binding force, they are an important means of ensuring the uniform application of the Common Customs Tariff and, as such, may be regarded as useful aids to its interpretation (see, to that effect, judgment of June 2015, Baby Dan, C‑272/14, not published, EU:C:2015:388, paragraph and the case-law cited). The HS Explanatory Note relating to Section XV indicates, under letter C, ‘Parts of articles’, that ‘parts of general use … presented separately are not considered as parts of articles, but are classified in the headings of this Section appropriate to them’.
+Consequently, the article at issue is not to be regarded as being part of the movable child safety gates, within the meaning of the CN, and, therefore, is not to be classified under CN heading or or under subheading of that nomenclature.
+In those circumstances, it is necessary to determine, as the referring court so requests in its third question, whether the article at issue must be classified under CN subheading or 73181900.
+In that regard, according to General rule for the interpretation of the CN, set out in Part I, Title I, A, of the CN, it follows from the wording of the subheadings in CN heading that goods classified as having the characteristics and properties of screws or bolts, possibly with nuts or washers, and which are not coach screws or other wood screws, screw hooks and screw rings, or self-tapping screws, are to be classified in one of CN subheadings to 73181590.
+In addition, the HS Explanatory Note to heading states that screws, bolts and nuts are normally threaded in the finished state, and that they enable the assembly of two or more parts between them, in such a way that it is possible to separate them subsequently without deterioration.
+However, it is clear from the judgment of June 2015, Baby Dan (C‑272/14, not published, EU:C:2015:388, paragraphs 30, 31, 34, and 37), that the article at issue has the characteristics and properties of ‘screws and bolts’ coming under CN heading 7318, in that, first, it consists of a threaded metal tube with a head fitted with a nut and that it enables the assembly of two or more parts between them, in such a way that it is possible to separate them subsequently without deterioration.
+Since the article in issue is a screw or bolt that cannot be described as ‘coach screws or other wood screws’, or ‘screw hooks and screw rings’ or ‘self-tapping screws’, that article is to be classified under one of the subheadings of CN subheading 731815. Since the article at issue has a head which is neither ‘slotted’ nor ‘cross-recessed’, it should be classified under CN subheading 73181590, entitled ‘Others’.
+Having regard to all of the foregoing considerations, the answer to the first to third questions is that the CN must be interpreted as meaning that an article, such as that at issue in the main proceedings, which enables movable child safety gates to be mounted on a wall or door frame, does not constitute part of that gate and must be classified under CN subheading 73181590.
+Validity of the contested regulation
+In view of the answer to the questions concerning the tariff classification of the article at issue, the fourth question concerning the validity of the contested regulation must be answered.
+By that question, the referring court asks, in essence, whether the contested regulation is marred by an illegality on the ground that, according to various DSB reports, the Council and the Commission relied on a process that linked the definition of Community industry to EU producers’ willingness to be part of a sample and be inspected, resulting in a self-selecting process in the industry, which gave rise to a material risk of distortion of the anti-dumping investigation and the result.
+It is apparent from the order for reference that that court is uncertain as to the validity of the contested regulation both in relation to the Anti-dumping Agreement, as interpreted by the DSB, and in relation to the Basic Regulation.
+The validity of the contested regulation under the Anti-Dumping Agreement, as interpreted by the DSB
+It should be recalled that, according to settled case-law of the Court, given their nature and structure, WTO agreements are not, in principle, among the rules in the light of which the legality of measures adopted by the EU institutions may be reviewed (judgments of July 2015, Commission v Rusal Armenal, C‑21/P, EU:C:2015:494, paragraph 38, and of February 2016, C & J Clark International and Puma, C‑659/and C‑34/14, EU:C:2016:74, paragraph and the case-law cited).
+However, in two situations, which are the result of the EU legislature’s own intention to limit its discretion in the application of the WTO rules, the Court has accepted, exceptionally, that it is for the Courts of the European Union, if necessary, to review the legality of an EU measure and of the measures adopted for its application in the light of the WTO agreements. The first such situation is where the European Union intended to implement a particular obligation assumed in the context of those agreements and the second is where the EU measure at issue refers explicitly to specific provisions of those agreements (judgment of July 2015, Commission v Rusal Armenal, C‑21/P, EU:C:2015:494, paragraphs and 41, and of February 2016, C & J Clark International and Puma, C‑659/and C‑34/14, EU:C:2016:74, paragraph 87).
+Yet, here, it must be stated that the present case does not fall within either of those two situations.
+Firstly, it should be recalled that, having regard to the provisions of the WTO enabling Regulation and, in particular, Article thereof, as well as to the recommendations of the DSB, the Council adopted Implementing Regulation No 924/2012, which, while confirming the injurious dumping determined in the original investigation, amended certain anti-dumping duties from the date of entry into force of that regulation.
+Moreover, it follows from recital of Implementing Regulation 2016/278, adopted following the DSB report of February 2016, that the Commission takes the view that, in accordance with Article 1(1)(a) of Regulation 2015/476, it is appropriate to repeal the anti-dumping duties imposed by the contested regulation, as amended by Implementing Regulation No 924/2012. According to Article of Implementing Regulation 2016/278, the repeal of those anti-dumping duties is to take effect from the date of the entry into force of that regulation as provided for in Article thereof, and is not to serve as a basis for the reimbursement of the duties collected prior to that date.
+Accordingly, in so far as, in the light of the implementing regulations subsequent to the contested regulation, namely Implementing Regulations No 924/and 2016/278, the Union excluded repayment of anti-dumping duties paid under the contested regulation, it should be considered that it did not in any way intend to give effect to a specific obligation assumed in the context of the WTO (see, by analogy, judgment of September 2007, Ikea Wholesale, C‑351/04, EU:C:2007:547, paragraph 35).
+Second, although it is true that recital of the Basic Regulation states that the language of the Anti-Dumping Agreement should be brought into EU legislation ‘as far as possible’, that expression must be understood as meaning that, even if the EU legislature intended to take into account the rules of the Anti-Dumping Agreement when adopting the Basic Regulation, it did not, however, show the intention of transposing all of those rules in that regulation (judgments of July 2015, Commission v Rusal Armenal, C‑21/P, EU:C:2015:494, paragraph 52, and of February 2016, C & J Clark International and Puma, C‑659/and C‑34/14, EU:C:2016:74, paragraph 90).
+It must be held that neither Article 3(2) nor Article 4(1) of the Basic Regulation, to which the referring court’s questions refer, relate to any provision of the Anti-Dumping Agreement.
+Article 4(1) of the Basic Regulation defines the concept ‘Community industry’ as being the Community producers as a whole of the like product or to those of them whose collective output of the products constitutes a major proportion, as defined in Article 5(4) of that regulation, of the total production of those products. As regards the second part of that option, although the decisive factor in both the Anti-Dumping Agreement and the Basic Regulation is the concept of ‘major proportion’ of the total domestic or Community production, it must be noted that, unlike Article 4.of the Anti-Dumping Agreement, Article 4(1) of the Basic Regulation clarifies the concept of ‘major proportion’ of the total Community production of like products by a reference to Article 5(4) of that regulation. That reference constitutes an additional factor in relation to the definition in Article 4.of the Anti-Dumping Agreement (see, to that effect, judgment of September 2015, Philips Lighting Poland and Philips Lighting v Council, C‑511/P, EU:C:2015:553, paragraphs to 65).
+Accordingly, it must be held that the Anti-Dumping Agreement, as interpreted by the DSB, cannot be relied upon to challenge the legality of the contested regulation.
+The validity of the contested regulation in the light of the Basic Regulation
+Baby Dan claims, in essence, that the method adopted by the Commission to determine whether injury caused to the Union industry infringes Article 4(1) of the Basic Regulation, read in the light of Article 3(2) of that regulation, on the ground that the Commission relied solely on the data of producers who cooperated fully and all accepted and agreed to be included in the sample for the purpose of determining the extent of the injury. Such a method involves a self-selecting process in the industry and, therefore, a material risk of distortion of the investigation and its result.
+In accordance with Article 3(2) of the Basic Regulation, a determination of injury must be based on positive evidence and must involve an objective examination of, first, the volume of the dumped imports and the effect of the dumped imports on prices in the community market for like products and, second, the consequent impact of those imports on the Community industry.
+Article 4(1) of the Basic Regulation defines the concept of ‘Community industry’ by reference to ‘the Community producers as a whole of the like products’, or to ‘those of them whose collective output of the products constitutes a major proportion, as defined in Article 5(4), of the total Community production of those products’. That last provision states, inter alia, that no investigation is to be initiated when Community producers expressly supporting the complaint account for less than 25% of total production of the like product produced by the Community industry.
+In that regard, the Court has already held that the 25% threshold refers to ‘total production of the like product produced by the Community industry’ and relates to the percentage of Community producers out of that total production which support the complaint. Solely that 25% threshold is therefore relevant for the determination of whether those producers represent ‘a major proportion’ of the total production of the like product produced by the Community industry, within the meaning of Article 4(1) of the Basic Regulation (judgment of September 2015, Philips Lighting Poland and Philips Lighting v Council, C‑511/P, EU:C:2015:553, paragraph 68).
+By the reference to that threshold, Article 4(1) of the Basic Regulation thus simply makes clear that a combined output of the Community producers supporting the complaint and not reaching 25% of the total Community production of the like product cannot, in any event, be regarded as sufficiently representative of the Community production. Where the combined output of those producers exceeds that threshold, anti-dumping duties may be imposed or maintained if the EU institutions concerned are able to establish, taking into account all the relevant facts of the case, that the injury stemming from the imports of the dumped product affects a major proportion of the total Community production of the like products (judgment of September 2015, Philips Lighting Poland and Philips Lighting v Council, C‑511/P, EU:C:2015:553, paragraphs and 70).
+It follows that the definition of the Community industry within the meaning of Article 4(1) of the Basic Regulation may be limited only to those Community producers having supported the complaint at the origin of the anti-dumping investigation.
+In the present case, firstly, it is not in dispute that the Union producers’ production adopted by the Commission at the time of the initiation of the anti-dumping proceeding represented 27% of the production of the product concerned and therefore exceeded the 25% threshold provided for in Article 4(1) of the Basic Regulation, read in the light of Article 5(4) of that regulation.
+Secondly, Baby Dan’s complaint, which is, in essence, to criticise the lack of objectivity of the anti-dumping investigation which results from the fact that the Commission took into account only the information provided solely by the Community producers having supported the complaint and having cooperated fully with the investigation, and therefore, having a definite interest in the imposition of an anti-dumping duty, cannot be accepted. In so far as the definition of the Community industry may be limited to only those Community producers which have supported the complaint at the origin of the anti-dumping investigation, that fact alone does not appear to invalidate the method followed when the contested regulation was adopted, within the meaning of Article 4(1) of the Basic Regulation.
+Thirdly, the limitation of the definition of the Community industry to only those Community producers which supported the complaint at the origin of the anti-dumping investigation does not, in itself, and in the absence of any other element capable of calling into question the representativeness of those producers, make it possible to consider that the determination in the contested regulation of the existence of the injury to the Community industry is not based on positive evidence and does not involve an objective examination, within the meaning of Article 3(2) of the Basic Regulation (see, by analogy, judgment of February 2016, C & J Clark International and Puma, C‑659/and C‑34/14, EU:C:2016:74, paragraph 157).
+In those circumstances, the arguments put forward, in the context of the dispute in the main proceedings, to claim that the contested regulation infringes Article 4(1) of the Basic Regulation, read in the light of Article 3(2) of that regulation, cannot be successful.
+In the light of the foregoing considerations, the reply to the fourth question is that its examination has not revealed any factors of such a kind as to affect the validity of the contested regulation.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Ninth Chamber) hereby rules:
+ 
+1.
+The Combined Nomenclature listed in Annex I to Council Regulation (EEC) No 2658/of July on the tariff and statistical nomenclature and on the Common Customs Tariff, in the versions resulting, successively, from Commission Regulation (EC) No 1214/of September 2007, and from Commission Regulation (EC) No 1031/of September 2008, must be interpreted as meaning that an article, such as that at issue in the main proceedings, which allows a movable child safety gate to be mounted to a wall or a door frame, does not constitute part of those gates and must be classified under subheading of the Combined Nomenclature.
+ 
+2.
+Examination of the fourth question referred has not revealed any factors of such a kind as to affect the validity of Council Regulation (EC) No 91/of January imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners originating in the People’s Republic of China.
+ 
+[Signatures]
+(
+*)	Language of the case: Danish.
+Top  

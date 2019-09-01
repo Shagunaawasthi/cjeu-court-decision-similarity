@@ -1,0 +1,891 @@
+
+ARRÊT DE LA COUR (neuvième chambre)
+avril (*)
+      
+«Manquement d’État – Réseaux et services de communications électroniques – Directives 2002/20/CE, 2002/21/CE et 2002/77/CE – Droits d’utilisation des radiofréquences de télédiffusion numérique terrestre – Appels à candidatures – Critères de sélection des soumissionnaires – Proportionnalité – Droits spéciaux»
+Dans l’affaire C‑376/13,
+ayant pour objet un recours en manquement au titre de l’article TFUE, introduit le juillet 2013,
+Commission européenne, représentée par MM. G. Braun et L. Malferrari ainsi que par Mme G. Koleva, en qualité d’agents, ayant élu domicile à Luxembourg,
+      
+partie requérante,
+contre
+République de Bulgarie, représentée par Mmes D. Drambozova et E. Petranova ainsi que par M. J. Atanasov, en qualité d’agents,
+      
+partie défenderesse,
+LA COUR (neuvième chambre),
+composée de Mme K. Jürimäe (rapporteur), président de chambre, MM. J. Malenovský et M. Safjan, juges,
+      
+avocat général: M. N. Jääskinen,
+greffier: M. M. Aleksejev, administrateur,
+vu la procédure écrite et à la suite de l’audience du septembre 2014,
+vu la décision prise, l’avocat général entendu, de juger l’affaire sans conclusions,
+rend le présent
+Arrêt
+Par sa requête, la Commission européenne demande à la Cour de constater que:
+      
+–        en limitant, en vertu du point 5a, paragraphes et 2, des dispositions transitoires et finales de la loi sur les communications
+         électroniques (Zakon za elektronnite saobshteniya, DV n° 41, du mai 2007, ci-après la «ZES»), à deux le nombre des entreprises
+         auxquelles est attribué un droit d’utilisation de fréquences du spectre radioélectrique de radiodiffusion numérique terrestre
+         (ci-après les «fréquences») et auxquelles est délivrée une autorisation de fournir des services de communications électroniques
+         correspondants, la République de Bulgarie a manqué aux obligations qui lui incombent en vertu de l’article 2, paragraphe 1,
+         de la directive 2002/77/CE de la Commission, du septembre 2002, relative à la concurrence dans les marchés des réseaux
+         et des services de communications électroniques (JO L 249, p. 21, ci-après la «directive ‘concurrence’»);
+      
+–        en interdisant, en vertu des articles 47a, paragraphes et 2, et 48, paragraphe 3, de la ZES, à des fournisseurs de contenu
+         télévisuel dont les programmes ne sont pas diffusés en Bulgarie, et aux personnes qui leur sont liées, de participer aux appels
+         à candidatures pour l’attribution des fréquences et de fournir les services correspondants, la République de Bulgarie a manqué
+         aux obligations qui lui incombent en vertu de l’article 7, paragraphe 3, de la directive 2002/20/CE du Parlement européen
+         et du Conseil, du mars 2002, relative à l’autorisation de réseaux et de services de communications électroniques (directive
+         «autorisation») (JO L 108, p. 21), telle que modifiée par la directive 2009/140/CE du Parlement européen et du Conseil, du
+         novembre (JO L 337, p. 37, ci-après la «directive ‘autorisation’»), de l’article 9, paragraphe 1, de la directive
+         2002/21/CE du Parlement européen et du Conseil, du mars 2002, relative à un cadre réglementaire commun pour les réseaux
+         et services de communications électroniques (directive «cadre») (JO L 108, p. 33), telle que modifiée par la directive 2009/(ci-après la «directive-cadre»), ainsi que des articles 2, paragraphe 2, et 4, paragraphe 2, de la directive «concurrence»;
+      
+–        en interdisant, en vertu de l’article 48, paragraphe 5, de la ZES, aux adjudicataires des droits d’utilisation des fréquences
+         d’établir des réseaux de communications électroniques pour la diffusion de programmes de radio et de télévision (ci-après
+         des «réseaux de transmission»), la République de Bulgarie a manqué aux obligations qui lui incombent en vertu de l’article
+         7, paragraphe 3, de la directive «autorisation», de l’article 9, paragraphe 1, de la directive-cadre, ainsi que des articles
+         2, paragraphe 2, et 4, paragraphe 2, de la directive «concurrence».
+      
+ Le cadre juridique
+ Le droit de l’Union
+ La directive «concurrence»
+Le considérant de la directive «concurrence» énonce: 
+      
+«L’article [106] du traité [FUE] prévoit que la Commission veille à ce que les États membres, en ce qui concerne les entreprises
+         publiques et les entreprises auxquelles ils accordent des droits spéciaux ou exclusifs, remplissent leurs obligations au regard
+         du droit [de l’Union]. Conformément à l’article [106], paragraphe 3, [du traité FUE] la Commission peut, d’une part, préciser
+         et clarifier les obligations découlant de cet article et, d’autre part, définir les conditions qui sont nécessaires pour qu’elle
+         puisse accomplir le devoir de surveillance qui lui incombe en vertu dudit paragraphe.»
+      
+L’article 1er de cette directive définit les notions suivantes:
+      
+«1)       ‘réseau de communications électroniques’: l’équipement de transmission et, le cas échéant, de commutation et de routage et
+         les autres ressources permettant le transport de signaux par fils, par faisceaux hertziens, par moyens optiques ou par d’autres
+         moyens électromagnétiques, y compris les réseaux de satellites, les réseaux terrestres fixes (à commutation de circuit et
+         de paquet, y inclus l’Internet) et mobiles ainsi que les systèmes de câbles électriques, dans la mesure où ils sont utilisés
+         pour transmettre des signaux, les réseaux utilisés pour la radiodiffusion sonore et télévisuelle, et les réseaux câblés de
+         télévision, quelle que soit la nature de l’information transportée;
+      
+[...]
+3)       ‘services de communications électroniques’: les services en principe fournis contre rémunération qui consistent, en tout ou
+         en partie, dans le transport de signaux par des réseaux de communications électroniques, y compris les services de télécommunications
+         et les services de transmission sur des réseaux utilisés pour la radiodiffusion, mais qui excluent les services fournissant
+         ou exerçant un contrôle rédactionnel sur le contenu transmis au moyen de réseaux et de services de communications électroniques;
+         ils n’englobent pas les services de la société de l’information, tels qu’ils sont définis à l’article 1er de la directive 98/34/CE [du Parlement européen et du Conseil, du juin 1998, prévoyant une procédure d’information dans
+         le domaine des normes et réglementations techniques (JO L 204, p. 37)], qui ne consistent pas, en tout ou en partie, dans
+         le transport de signaux par des réseaux de communications électroniques;
+      
+[...]
+6)      ‘droits spéciaux’: les droits accordés par un État membre à un nombre limité d’entreprises au moyen de tout instrument législatif,
+         réglementaire ou administratif qui, sur un territoire donné:
+      
+a)       désigne ces entreprises autorisées à fournir un service de communications électroniques ou à exploiter une activité de communications
+         électroniques, ou en limite le nombre à deux ou plusieurs, selon des critères qui ne sont pas objectifs, proportionnés ni
+         non discriminatoires, ou
+      
+b)       confère à des entreprises, selon des critères autres que les critères susmentionnés, des avantages légaux ou réglementaires
+         qui affectent substantiellement la capacité de toute autre entreprise de fournir les mêmes services de communications électroniques
+         ou d’exploiter la même activité de communications électroniques sur le même territoire dans des conditions substantiellement
+         équivalentes;
+      
+[...]»
+L’article de ladite directive, intitulé «Droits exclusifs et spéciaux pour les réseaux et les services de communications
+         électroniques», dispose:
+      
+«1.       Les États membres ne peuvent accorder ni maintenir de droits exclusifs ou spéciaux pour l’établissement et/ou l’exploitation
+         de réseaux de communications électroniques ou pour la fourniture de services de communications électroniques accessibles au
+         public.
+      
+2.       Les États membres prennent toutes les mesures nécessaires afin de garantir à toute entreprise le droit de fournir des services
+         de communications électroniques ou de mettre en place, d’étendre et d’exploiter des réseaux de communications électroniques.
+      
+[...]»
+L’article de la même directive, intitulé «Droits d’utilisation des fréquences», prévoit:
+      
+«Sans préjudice des procédures et des critères particuliers qu’ils ont adoptés pour octroyer des droits d’utilisation des
+         radiofréquences aux fournisseurs de contenu de radio ou de télédiffusion, en vue de réaliser des objectifs d’intérêt général
+         conformément au droit [de l’Union]:
+      
+[...]
+2)      l’attribution des radiofréquences pour des services de communications électroniques doit être fondée sur des critères objectifs,
+         transparents, non discriminatoires et proportionnés.»
+      
+ La directive «autorisation»
+L’article de la directive «autorisation», intitulé «Procédure visant à limiter le nombre des droits d’utilisation des radiofréquences
+         à octroyer», est libellé comme suit:
+      
+«1.      Lorsqu’un État membre examine s’il convient de limiter le nombre de droits d’utilisation des radiofréquences à octroyer, ou
+         de proroger des droits existants selon des modalités autres que celles prévues par lesdits droits, il doit notamment:
+      
+a)      prendre dûment en considération la nécessité d’apporter un maximum d’avantages aux utilisateurs et de stimuler la concurrence;
+b)      donner à toutes les parties intéressées, dont les utilisateurs et les consommateurs, la possibilité d’exprimer leur point
+         de vue sur une limitation éventuelle, conformément à l’article de la [directive-cadre];
+      
+c)      rendre publique et motiver toute décision visant à limiter l’octroi ou le renouvellement de droits d’utilisation;
+d)      après avoir déterminé la procédure, lancer un appel à candidatures pour l’octroi de droits d’utilisation, et
+e)      réexaminer la limitation à intervalles raisonnables ou à la demande des entreprises concernées, pour autant que celle-ci soit
+         raisonnable.
+      
+2.       Lorsqu’un État membre conclut que des droits d’utilisation de radiofréquences supplémentaires peuvent être accordés, il rend
+         publique cette conclusion et lance un appel à candidatures pour l’octroi de ces droits.
+      
+3.       Lorsque l’octroi des droits d’utilisation de radiofréquences doit être limité, les États membres accordent ces droits sur
+         la base de critères de sélection objectifs, transparents, non discriminatoires et proportionnés. Ces critères de sélection
+         doivent dûment prendre en considération la réalisation des objectifs de l’article de la [directive-cadre] ainsi que les
+         exigences de l’article de cette directive.
+      
+[...]»
+ La directive-cadre 
+Les définitions des notions de «réseau de communications électroniques» et de «service de communications électroniques» fournies
+         à l’article de la directive-cadre sont, en substance, identiques à celles contenues à l’article 1er de la directive «concurrence».
+      
+L’article de la directive-cadre, intitulé «Consolidation du marché intérieur des communications électroniques», prévoit:
+      
+«1.      Dans l’accomplissement des tâches qui leur sont assignées en vertu de la présente directive et des directives particulières,
+         les autorités réglementaires nationales tiennent le plus grand compte des objectifs énoncés à l’article 8, y compris ceux
+         qui touchent au fonctionnement du marché intérieur.
+      
+2.      Les autorités réglementaires nationales contribuent au développement du marché intérieur en travaillant entre elles et avec
+         la Commission et l’[organe des régulateurs européens des communications électroniques (ORECE)], de manière transparente, afin
+         de veiller à l’application cohérente, dans tous les États membres, des dispositions de la présente directive et des directives
+         particulières. À cet effet, elles œuvrent en particulier avec la Commission et l’ORECE à déterminer les types d’instruments
+         et des solutions les plus appropriés pour traiter des types particuliers de situations sur le marché.
+      
+[...]
+4.      Lorsque la mesure envisagée au paragraphe vise à:
+a)       définir un marché pertinent qui diffère de ceux recensés dans la recommandation adoptée conformément à l’article 15, paragraphe
+         1, ou
+      
+b)       décider de désigner ou non une entreprise comme disposant, individuellement ou conjointement avec d’autres, d’une puissance
+         significative sur le marché, conformément à l’article 16, paragraphes 3, ou 5,
+      
+et aurait des incidences sur les échanges entre les États membres et que la Commission a indiqué à l’autorité réglementaire
+         nationale qu’elle estime que le projet de mesure fera obstacle au marché unique ou si elle a de graves doutes quant à sa compatibilité
+         avec [le droit de l’Union] et en particulier avec les objectifs visés à l’article 8, l’adoption du projet de mesure est retardée
+         de deux mois supplémentaires. Ce délai ne peut être prolongé. En pareil cas, la Commission informe les autres autorités réglementaires
+         nationales de ses réserves.
+      
+[...]»
+L’article de cette directive, intitulé «Objectifs généraux et principes réglementaires», dispose:
+      
+«1.       Les États membres veillent, dans l’accomplissement des tâches de réglementation spécifiées dans la présente directive ainsi
+         que dans les directives particulières, à ce que les autorités réglementaires nationales prennent toutes les mesures raisonnables
+         visant à la réalisation des objectifs définis aux paragraphes 2, et 4. Ces mesures sont proportionnées à ces objectifs.
+      
+[...]
+2.       Les autorités réglementaires nationales promeuvent la concurrence dans la fourniture des réseaux de communications électroniques,
+         des services de communications électroniques et des ressources et services associés, notamment:
+      
+[...]
+b)       en veillant à ce que la concurrence ne soit pas faussée ni entravée dans le secteur des communications électroniques, y compris
+         pour la transmission de contenu;
+      
+[...]
+d)       en encourageant l’utilisation et la gestion efficaces des radiofréquences et des ressources de numérotation.
+3.       Les autorités réglementaires nationales contribuent au développement du marché intérieur, notamment:
+a)       en supprimant les derniers obstacles à la fourniture de réseaux de communications électroniques, de ressources et services
+         associés et de services de communications électroniques au niveau européen;
+      
+[...]»
+L’article de ladite directive, intitulé «Procédure d’analyse de marché», prévoit:
+      
+«1.      Les autorités réglementaires nationales effectuent une analyse des marchés pertinents en prenant en considération les marchés
+         recensés dans la recommandation et en tenant le plus grand compte des lignes directrices. Les États membres veillent à ce
+         que cette analyse soit effectuée, le cas échéant, en coopération avec les autorités nationales chargées de la concurrence.
+      
+[...]
+4.      Lorsqu’une autorité réglementaire nationale détermine qu’un marché pertinent n’est pas effectivement concurrentiel, elle identifie
+         les entreprises qui, individuellement ou conjointement avec d’autres, sont puissantes sur ce marché conformément à l’article
+         14; l’autorité réglementaire nationale impose aussi à ces entreprises les obligations réglementaires spécifiques appropriées
+         visées au paragraphe du présent article ou maintient ou modifie ces obligations si elles sont déjà appliquées.
+      
+[...]»
+ Le droit bulgare
+Les dispositions pertinentes du droit bulgare sont contenues dans la ZES et dans la loi modifiant et complétant la ZES (DV
+         n° 105, du décembre 2011, ci-après la «Zidzes»).
+      
+ La ZES
+L’article 47a de la ZES, dans sa rédaction initiale, disposait:
+      
+«(1)      Un [fournisseur de contenu télévisuel] ne peut pas obtenir une autorisation de la [Commission de régulation des communications]
+         pour l’utilisation [d’une fréquence] pour la fourniture de communications électroniques via des réseaux de communications
+         électroniques de radiodiffusion numérique terrestre.
+      
+(2)      La limitation en vertu du paragraphe s’applique également à des personnes liées [au fournisseur] visé au paragraphe au
+         sens de la loi sur le commerce.»
+      
+L’article 47a de la ZES, dans sa rédaction issue de la Zidzes, prévoit:
+      
+«(1)      Un [fournisseur de contenu télévisuel] qui relève de la juridiction de la République de Bulgarie ne peut pas obtenir une autorisation,
+         de la part de la [Commission de régulation des communications], en vue de l’utilisation [d’une fréquence] ni en vue de la
+         fourniture de communications électroniques via des réseaux de communications électroniques de radiodiffusion numérique terrestre.
+      
+(2)      La limitation en vertu du paragraphe s’applique également à des personnes liées [au fournisseur] visé au paragraphe au
+         sens de la loi sur le commerce.»
+      
+L’article 48, paragraphe 1, de la ZES dispose:
+      
+«La [Commission de régulation des communications], [...] lance un appel à candidatures en vue de la sélection d’une entreprise
+         qui peut obtenir une autorisation d’utilisation [d’une fréquence] pour la fourniture de communications électroniques via les
+         réseaux de communications électroniques de radiodiffusion numérique terrestre.»
+      
+L’article 48, paragraphe 3, de la ZES, dans sa rédaction initiale, était libellé comme suit:
+      
+«Une entreprise ou une personne qui lui est liée au sens de la loi sur le commerce, à laquelle est délivrée l’autorisation
+         pour l’utilisation [d’une fréquence] pour la fourniture de communications électroniques via les réseaux de communications
+         électroniques de radiodiffusion numérique terrestre, ne peut pas être un [fournisseur de contenu radio ou télévisuel] et n’a
+         pas le droit de créer des programmes de radio ou de télévision.»
+      
+Dans sa rédaction issue de la Zidzes, l’article 48, paragraphe 3, de la ZES prévoit:
+      
+«Une entreprise ou une personne liée à celle-ci au sens de la loi sur le commerce, à laquelle il a été délivré une autorisation
+         pour l’utilisation [d’une fréquence] en vue de la fourniture de communications électroniques via les réseaux de communications
+         électroniques de radiodiffusion numérique terrestre, ne peut pas être un [fournisseur de contenu radio ou télévisuel] relevant
+         de la juridiction de la République de Bulgarie.»
+      
+L’article 48, paragraphe 5, de la ZES dispose:
+      
+«Une entreprise ou une personne qui lui est liée, au sens de la loi sur le commerce, à laquelle a été délivrée une autorisation
+         d’utilisation [d’une fréquence] pour la fourniture de communications électroniques via les réseaux de communications électroniques
+         de radiodiffusion numérique terrestre n’a pas le droit d’établir un réseau de communications électroniques pour la transmission
+         de programmes de radio ou de télévision.»
+      
+L’article 48, paragraphe 5, de la ZES a été déclaré contraire à la Constitution par la décision n° du Konstitutsionen sad
+         (Cour constitutionnelle), du juin (DV n° 45, du juin 2009).
+      
+Le point 5а des dispositions transitoires et finales de la ZES était libellé comme suit: 
+      
+«(1)      Dans le cadre d’une procédure en vertu de l’article 48, paragraphe 1, [de la ZES], la [Commission de régulation des communications]
+         désigne une entreprise à laquelle elle délivre une autorisation d’utilisation [d’une fréquence] pour la fourniture de communications
+         électroniques via les réseaux de communications électroniques de radiodiffusion numérique terrestre de portée nationale, conformément
+         à ce qui est prévu pour la première étape du plan pour l’introduction de la diffusion de la télévision numérique par liaisons
+         hertziennes terrestres (DVВ-Т) en République de Bulgarie, adopté par le Conseil des ministres.
+      
+(2)      Parallèlement à la procédure visée au paragraphe 1, la [Commission de régulation des communications], [...] lance un appel
+         à candidatures en vue de la sélection d’une entreprise, qui peut obtenir une autorisation d’utilisation [d’une fréquence]
+         pour la fourniture de communications électroniques via des réseaux de communications électroniques de radiodiffusion numérique
+         terrestre de portée nationale conformément à ce qui est prévu dans le cadre de la seconde étape du plan pour l’introduction
+         de la diffusion de la télévision numérique par liaisons hertziennes terrestres (DVВ-Т) en République de Bulgarie, adopté par
+         le Conseil des ministres.»
+      
+Le Konstitutsionen sad, dans sa décision n° 3, du juin 2009, a déclaré le point 5a, paragraphe 1, des dispositions transitoires
+         et finales de la ZES contraire à la Constitution en tant qu’il emploie les termes «procédure» et «entreprise» au singulier.
+      
+ La Zidzes
+Conformément au point des dispositions transitoires et finales de la Zidzes:
+      
+«[...]
+(5)      À compter du 1er septembre 2013, la radiodiffusion télévisuelle analogique terrestre est abandonnée sur le territoire de la République de
+         Bulgarie.
+      
+(6)      Dans un délai de trois mois à compter de l’entrée en vigueur de la présente loi, le Conseil des ministres adopte un plan d’introduction
+         de la radiodiffusion télévisuelle numérique terrestre (DVB-T) en République de Bulgarie. 
+      
+(7)      Le plan visé au paragraphe inclut les étapes, les délais et les conditions d’introduction de la radiodiffusion télévisuelle
+         numérique terrestre (DVB-T).
+      
+[...]
+(10)      Dans le délai visé au paragraphe et dans le respect des exigences du chapitre 5, la [Commission de régulation des communications]
+         ouvre une procédure en vertu de l’article 48, paragraphe 1, [de la ZES] pour le choix d’une entreprise à laquelle il est accordé
+         une autorisation d’utilisation d’une [fréquence] en vue de la fourniture de communications électroniques via un réseau de
+         communications électroniques de radiodiffusion télévisuelle numérique terrestre de portée nationale.»
+      
+ La procédure précontentieuse
+Par lettre du mai 2011, la Commission a mis la République de Bulgarie en demeure de formuler des observations sur la compatibilité
+         des articles 47a et 48, paragraphes et 5, de la ZES et du point 5a, paragraphes et 2, des dispositions transitoires et
+         finales de ladite loi avec les directives «concurrence», «autorisation» et la directive-cadre.
+      
+À cet égard, la Commission soutenait, premièrement, que, en limitant à deux le nombre des entreprises auxquelles un droit
+         d’utilisation des fréquences est susceptible d’être attribué, le point 5a, paragraphes et 2, des dispositions transitoires
+         et finales de la ZES est de nature à restreindre la concurrence, puisqu’il entrave l’entrée sur le marché d’autres entreprises
+         et protège de la concurrence les deux entreprises adjudicataires des fréquences.
+      
+Deuxièmement, la Commission considérait que l’interdiction prévue aux articles 47a et 48, paragraphe 3, de la ZES pour les
+         fournisseurs de contenu télévisuel et les personnes qui leur sont liées de participer aux appels à candidatures pour l’attribution
+         des droits d’utilisation des fréquences restreint la concurrence de manière disproportionnée.
+      
+Troisièmement, la Commission a attiré l’attention du gouvernement bulgare sur le fait que l’article 48, paragraphe 5, de la
+         ZES pourrait restreindre la concurrence, puisqu’il interdit aux opérateurs d’un réseau de transmission de se porter candidats
+         pour l’attribution de droits d’utilisation des fréquences.
+      
+La République de Bulgarie a répondu à cette mise en demeure par une lettre du juillet 2011.
+      
+En premier lieu, cet État membre a répliqué que son choix d’attribuer, dans un premier temps, un nombre limité de droits d’utilisation
+         des fréquences vise, d’une part, à protéger le droit constitutionnel des citoyens à recevoir un accès gratuit à l’information
+         en préservant au maximum le pluralisme des opinions et, d’autre part, à garantir le succès de la transition de la télévision
+         analogique à la télévision numérique. En outre, ladite limitation s’imposerait au regard des spécificités du marché de la
+         télévision bulgare ainsi que du besoin de compétitivité des entreprises qui fourniront des services en tant qu’opérateurs
+         de multiplexage.
+      
+Cependant, dans une lettre du novembre 2011, la République de Bulgarie s’est engagée à lancer un nouvel appel à candidatures
+         pour l’attribution d’un droit d’utilisation d’une fréquence supplémentaire avant la fin de l’année 2013. Dans une lettre du
+         février 2012, cet État membre a indiqué avoir adopté, à cet effet, le point des dispositions transitoires et finales
+         de la Zidzes prévoyant l’organisation d’un tel appel à candidatures.
+      
+En deuxième lieu, la République de Bulgarie a objecté que l’interdiction pour les fournisseurs de contenu télévisuel et les
+         personnes qui leur sont liées de se porter candidats pour l’attribution des fréquences est justifiée au regard des objectifs
+         d’intérêt général de promotion de la concurrence et de protection du pluralisme des opinions ainsi que de la diversité culturelle.
+      
+Toutefois, dans sa lettre du novembre 2011, la République de Bulgarie a reconnu qu’il est disproportionné d’appliquer cette
+         interdiction aux fournisseurs de contenu télévisuel qui ne relèvent pas de sa juridiction. Dans sa lettre du février 2012,
+         cet État membre a confirmé avoir supprimé cette interdiction.
+      
+En troisième lieu, la République de Bulgarie a fait valoir que l’interdiction, pour les adjudicataires des droits d’utilisation
+         des fréquences, de mettre en place un réseau de transmission visait à assurer une concurrence effective sur le territoire
+         bulgare. Par ailleurs, dans ses lettres du novembre et du février 2012, cet État membre a informé la Commission que
+         l’article 48, paragraphe 5, de la ZES, a été déclaré inconstitutionnel par la décision n° du Konstitutsionen sad, du juin
+         2009.
+      
+Le mars 2012, la Commission a émis un avis motivé, reçu par la République de Bulgarie le même jour, dans lequel elle invitait
+         cet État membre à prendre les mesures nécessaires pour se conformer à cet avis dans un délai de deux mois à compter de la
+         réception de celui-ci. Par ailleurs, la Commission a indiqué, dans cet avis, que les modifications législatives adoptées par
+         la République de Bulgarie étaient, à elles seules, insuffisantes pour remédier aux manquements reprochés au motif que lesdites
+         modifications n’ont pas remis en cause la validité des droits d’utilisation des fréquences attribués au cours de l’année 2009.
+      
+Par lettre du juillet 2012, la République de Bulgarie a répondu audit avis en réitérant les arguments avancés dans sa réponse
+         à la lettre de mise en demeure. Par ailleurs, cet État membre y soutenait avoir remédié au manquement étant donné que les
+         articles 47a et 48, paragraphe 3, de la ZES ont été modifiés conformément aux recommandations de la Commission et que l’article
+         48, paragraphe 5, ZES n’est plus en application depuis le juin 2009. Ledit État membre s’engageait également à nouveau
+         à lancer un appel à candidatures de manière à permettre au nouvel adjudicataire de fournir ses services dès le 1er septembre 2013.
+      
+Estimant que ces modifications ne permettaient pas de remédier au manquement, la Commission a introduit le présent recours.
+      
+ Sur le recours
+ Sur la recevabilité du recours
+ Argumentation des parties
+La République de Bulgarie fait valoir que le recours de la Commission est irrecevable.
+      
+À cet égard, cet État membre avance, en premier lieu, avoir remédié à l’infraction qui lui était reprochée dans le délai imparti
+         par la Commission dans l’avis motivé. En effet, premièrement, le point 5a des dispositions transitoires et finales de la ZES
+         serait d’application unique, de sorte qu’il aurait épuisé ses effets juridiques avant le terme de ce délai, à savoir le mai 2012. Deuxièmement, ce point ainsi que l’article 48, paragraphe 5, de la ZES auraient été déclarés inconstitutionnels
+         par la décision n° du Konstitutsionen sad, du juin 2009, et n’auraient plus été en application à compter du juin 2009,
+         date à laquelle cette décision a pris effet. Troisièmement, les articles 47a et 48, paragraphe 3, de la ZES auraient été modifiés,
+         à compter du décembre 2011, dans un sens conforme aux recommandations de la Commission. Quatrièmement, il aurait été prévu,
+         au point 209, paragraphe 10, des dispositions transitoires et finales de la Zidzes, entrée en vigueur également le décembre
+         2011, de lancer un nouvel appel à candidatures pour l’attribution d’une fréquence supplémentaire.
+      
+En second lieu, la République de Bulgarie avance que, dans de telles circonstances, le principe de coopération loyale énoncé
+         à l’article 4, paragraphe 3, premier alinéa, TUE exige que la Commission indique à l’État membre faisant l’objet d’un recours
+         en manquement quels actes ou omissions continuent, selon elle, de constituer des infractions au droit de l’Union. Or, ni l’avis
+         motivé ni la requête introductive d’instance n’exposeraient de manière claire, cohérente et concordante les actes ou omissions
+         que la République de Bulgarie aurait continué à accomplir en violation du droit de l’Union, après les modifications susvisées,
+         à l’échéance fixée dans l’avis motivé. Par ailleurs, la Commission devrait, le cas échéant, indiquer les mesures à prendre
+         afin de remédier aux conséquences de l’infraction alléguée.
+      
+La Commission estime le présent recours recevable.
+      
+En premier lieu, elle souligne que la République de Bulgarie n’avait pas remédié aux infractions qui lui sont reprochées au
+         terme du délai fixé dans l’avis motivé.
+      
+En effet, d’une part, les effets des dispositions nationales visées dans cet avis auraient perduré aussi longtemps que les
+         droits d’utilisation des fréquences, attribués au cours de l’année sur la base desdites dispositions, sont demeurés en
+         vigueur. Au soutien de cette thèse, la Commission invoque la jurisprudence de la Cour en matière de manquements à la réglementation
+         relative aux marchés publics et, notamment, l’arrêt Commission/Allemagne (C‑20/et C‑28/01, EU:C:2003:220), dans lequel
+         la Cour a jugé qu’un recours est recevable lorsqu’un contrat attribué sur la base de dispositions nationales contraires au
+         droit de l’Union n’a pas été entièrement exécuté avant le terme fixé dans l’avis motivé, quand bien même lesdites dispositions
+         avaient elles-mêmes cessé d’être applicables avant cette date. En l’occurrence, il serait constant que ces droits d’utilisation
+         étaient toujours en vigueur au terme du délai fixé dans l’avis motivé.
+      
+D’autre part, le lancement d’un nouvel appel à candidatures conformément au point 209, paragraphe 10, des dispositions transitoires
+         et finales de la Zidzes et l’entrée d’un nouvel opérateur sur le marché bulgare de la radiodiffusion numérique terrestre ne
+         seraient pas de nature à remédier au fait que la République de Bulgarie a attribué cinq fréquences à deux opérateurs seulement
+         et ainsi créé des droits spéciaux pour la fourniture de ces services. Par ailleurs, à supposer même que l’attribution d’une
+         fréquence à un nouvel opérateur serait suffisante pour remédier aux infractions qui lui sont reprochées, cet État membre n’aurait
+         lancé un appel à candidatures que le janvier 2013, soit après la date fixée dans l’avis motivé.
+      
+En second lieu, la Commission estime avoir indiqué audit État membre, tant dans l’avis motivé que dans la requête introductive
+         d’instance, que les modifications de la législation bulgare étaient insuffisantes et que les infractions reprochées persistaient
+         au motif que les droits d’utilisation attribués au cours de l’année sur la base des dispositions nationales visées dans
+         cet avis étaient encore en vigueur. En outre, il serait de jurisprudence constante que la Commission n’est pas tenue d’indiquer
+         dans l’avis motivé ou la requête introduite devant la Cour les mesures qui permettraient de remédier au manquement reproché
+         à l’État membre défendeur.
+      
+ Appréciation de la Cour
+Il y a lieu de rappeler que l’existence d’un manquement doit être appréciée en fonction de la situation de l’État membre telle
+         qu’elle se présentait au terme du délai fixé dans l’avis motivé et les changements intervenus par la suite ne sauraient être
+         pris en compte par la Cour (voir arrêt Commission/Suède, C‑185/09, EU:C:2010:59, point et jurisprudence citée). En l’occurrence,
+         le délai fixé dans l’avis motivé a expiré le mai 2012.
+      
+À cet égard, le manquement reproché par la Commission dans le présent recours résulte de l’application des articles 47a et
+         48, paragraphes et 5, de la ZES ainsi que du point 5a des dispositions transitoires et finales de ladite loi sur le fondement
+         desquels la République de Bulgarie a, au cours de l’année 2009, organisé deux appels à candidatures pour l’attribution de
+         droits d’utilisation de cinq fréquences.
+      
+Il convient dès lors de vérifier si, au terme du délai fixé dans l’avis motivé, les dispositions litigieuses continuaient
+         de produire des effets (voir, en ce sens, arrêt Commission/Portugal, C‑20/09, EU:C:2011:214, point et jurisprudence citée).
+      
+À cet égard, il ressort des observations écrites présentées par la République de Bulgarie que, à la date du mai 2012, les
+         articles 47a et 48, paragraphe 3, de la ZES avaient été modifiés dans un sens que l’État membre défendeur estime conforme
+         aux recommandations de la Commission. De même, à cette date, l’article 48, paragraphe 5, de la ZES et le point 5a des dispositions
+         transitoires et finales de ladite loi n’étaient plus en application.
+      
+Néanmoins, les droits d’utilisation des fréquences, attribués, sur le fondement de ces dispositions, pour une durée totale
+         de ans, étaient encore en vigueur au terme de ce délai.
+      
+Or, les directives «autorisation» et «concurrence» ainsi que la directive-cadre mettent en œuvre la libre prestation de services
+         dans le domaine des réseaux et des services de communications électroniques (voir, en ce sens, arrêt Centro Europa 7, C‑380/05,
+         EU:C:2008:59, points et 80). Ces directives visent, notamment, à protéger les intérêts des opérateurs économiques, établis
+         dans un État membre désirant offrir des réseaux et des services de communications électroniques dans un autre État membre.
+      
+Il y a lieu dès lors de considérer que la méconnaissance alléguée des dispositions des directives «autorisation» et «concurrence»
+         ainsi que la directive-cadre est susceptible d’avoir subsisté pendant toute la durée des droits d’utilisation des fréquences
+         attribués en violation de celles-ci (voir, par analogie, arrêt Commission/Allemagne, C‑20/et C‑28/01, EU:C:2003:220, points
+         et 36).
+      
+Par conséquent, les articles 47a et 48, paragraphes et 5, de la ZES ainsi que le point 5a des dispositions transitoires
+         et finales de ladite loi n’avaient pas épuisé tous leurs effets au terme du délai fixé dans l’avis motivé.
+      
+Cette conclusion ne saurait être remise en cause par l’argument de la République de Bulgarie selon lequel cette dernière aurait
+         remédié au manquement qui lui était reproché en attribuant, sur la base du point 209, paragraphe 10, des dispositions transitoires
+         et finales de la Zidzes, une fréquence à un nouvel opérateur. En effet, il ressort des observations écrites présentées par
+         cet État membre que ladite fréquence n’a été attribuée qu’au cours de l’année 2013, soit après le délai fixé dans l’avis motivé.
+         Partant, conformément à la jurisprudence rappelée au point du présent arrêt, l’attribution de cette dernière fréquence
+         ne saurait être prise en compte par la Cour.
+      
+Quant à l’argument selon lequel la Commission aurait manqué au principe de coopération loyale en s’abstenant d’exposer à la
+         République de Bulgarie la raison pour laquelle elle estimait que les modifications législatives intervenues dans cet État
+         membre étaient sans incidence sur le manquement qui lui était reproché, il apparaît que la Commission a indiqué, dans l’avis
+         motivé et la requête introductive d’instance, que les modifications législatives adoptées par la République de Bulgarie étaient,
+         à elles seules, insuffisantes pour remédier aux infractions reprochées au motif que lesdites modifications n’ont pas remis
+         en cause la validité des droits d’utilisation des fréquences attribués au cours de l’année 2009.
+      
+Enfin, s’agissant de l’argument de la République de Bulgarie concernant le fait que la Commission n’aurait pas indiqué à cet
+         État membre les mesures permettant de remédier au présent manquement, il y a lieu de rappeler que le principe de coopération
+         loyale n’impose pas à la Commission d’indiquer, dans l’avis motivé, les mesures qui permettraient d’éliminer le manquement
+         reproché (voir, en ce sens, arrêt Commission/Grèce, C‑394/02, EU:C:2005:336, point et jurisprudence citée).
+      
+En effet, la procédure précontentieuse a pour but de circonscrire l’objet du recours en manquement afin de donner audit État
+         membre l’occasion de se conformer à ses obligations découlant du droit de l’Union ou de faire utilement valoir ses moyens
+         de défense à l’encontre des griefs formulés par la Commission (arrêt Commission/Grèce, C‑394/02, EU:C:2005:336, point et
+         jurisprudence citée).
+      
+Étant donné qu’il revient aux États membres de déterminer les mesures à prendre afin de remédier à un manquement, ce n’est
+         que lorsque la Commission entend faire du défaut d’adoption d’une mesure particulière l’objet de son recours en manquement
+         qu’elle doit indiquer de manière spécifique quelle est cette mesure dans l’avis motivé (voir, en ce sens, arrêt Commission/Grèce,
+         C‑394/02, EU:C:2005:336, point et jurisprudence citée).
+      
+Or, l’objet du présent recours est limité à la constatation de différents manquements liés à la création de droits spéciaux
+         pour la fourniture de services de communications électroniques et au caractère disproportionné des critères utilisés pour
+         l’attribution des fréquences. Partant, il ne vise pas à la constatation d’un manquement fondé sur le fait que l’État membre
+         concerné se serait abstenu de prendre une mesure spécifique.
+      
+Il s’ensuit que le recours de la Commission est recevable.
+      
+ Sur le fond
+Par le présent recours, la Commission reproche à la République de Bulgarie d’avoir manqué à ses obligations résultant des
+         directives «autorisation» et «concurrence» ainsi que de la directive-cadre, dans le contexte de l’attribution, au cours de
+         l’année 2009, des droits d’utilisation des fréquences pour la radiodiffusion numérique terrestre en Bulgarie aux entreprises
+         Tauarkom Balgaria EAD et Hanu Pro Balgaria EAD.
+      
+Plus précisément, la Commission soulève trois griefs à l’encontre de l’État membre défendeur. Étant donné que les deuxième
+         et troisième griefs présentent des éléments utiles à l’appréciation du premier grief, il y a lieu de les traiter en premier
+         lieu.
+      
+ Sur le deuxième grief relatif à l’exclusion des fournisseurs de contenu télévisuel des appels à candidatures
+–       Argumentation des parties
+La Commission fait valoir que, en ayant interdit, en vertu des articles 47a, paragraphes et 2, et 48, paragraphe 3, de la
+         ZES dans leur version alors en vigueur, aux fournisseurs de contenu télévisuel dont les programmes ne sont pas diffusés en
+         Bulgarie et aux personnes qui leur sont liées, au sens du droit bulgare, de participer aux appels à candidatures relatifs
+         à l’attribution de droits d’utilisation des fréquences au cours de l’année 2009, la République de Bulgarie avait prévu des
+         critères disproportionnés au regard de l’article 4, paragraphe 2, de la directive «concurrence», de l’article 7, paragraphe
+         3, de la directive «autorisation», et de l’article de la directive-cadre. De ce fait également, la République de Bulgarie
+         n’aurait pas garanti à toute entreprise le droit de fournir des services de communications électroniques, en violation de
+         l’article 2, paragraphe 2, de la directive «concurrence». Or, cette interdiction, bien que modifiée, aurait continué à produire
+         des effets à l’expiration du délai fixé dans l’avis motivé.
+      
+À cet égard, la Commission est d’avis qu’une telle interdiction était disproportionnée au regard des objectifs d’intérêt général
+         avancés par la République de Bulgarie, à savoir préserver la concurrence et assurer la diversité des contenus télévisuels
+         ainsi que garantir le pluralisme des opinions. En effet, les fournisseurs de contenu télévisuel et les personnes qui leur
+         sont liées, qui ne sont pas autorisés à diffuser de tels contenus en Bulgarie dès lors qu’ils ne sont ni agréés ni enregistrés
+         à cet effet, n’auraient ni intérêt ni la possibilité de privilégier le contenu télévisuel qu’ils sont aptes à fournir au détriment
+         de celui des opérateurs de télédiffusion concurrents.
+      
+La Commission estime également que les objectifs avancés par la République de Bulgarie auraient pu être atteints par des moyens
+         moins restrictifs, tels que l’imposition d’obligations de diffusion aux adjudicataires des fréquences ou encore la limitation
+         du nombre des fréquences que chaque entreprise peut contrôler.
+      
+La République de Bulgarie rappelle, à titre liminaire, avoir modifié, à compter du décembre 2011, les articles 47a, paragraphes
+         et 2, et 48, paragraphe 3, de la ZES, dans un sens conforme aux recommandations de la Commission. Ces dispositions seraient,
+         depuis lors, applicables uniquement aux fournisseurs de contenu télévisuel autorisés à diffuser de tels contenus en Bulgarie
+         parce qu’ils sont agréés ou enregistrés à cet effet.
+      
+En tout état de cause, interdire aux fournisseurs de contenu télévisuel et aux personnes qui leur sont liées de se porter
+         candidats pour l’attribution des fréquences serait objectivement justifié par la nécessité d’assurer une concurrence effective
+         et de préserver le pluralisme ainsi que la diversité des contenus télévisuels. À cet égard, la République de Bulgarie avance
+         qu’il doit être tenu compte de la circonstance que les fournisseurs de contenu télévisuel les plus importants en Bulgarie
+         font partie de sociétés internationales du secteur des médias qui proposent, via leurs plates-formes câble et satellite, essentiellement
+         leurs propres programmes.
+      
+–       Appréciation de la Cour
+En vertu de l’article 4, paragraphe 2, de la directive «concurrence», de l’article 7, paragraphe 3, de la directive «autorisation»
+         et de l’article 8, paragraphe 1, de la directive-cadre, les droits d’utilisation des radiofréquences doivent être attribués
+         sur la base de critères objectifs, transparents, non discriminatoires et proportionnés. Cette dernière condition implique
+         que ces critères soient propres à garantir la réalisation de l’objectif qu’ils poursuivent et n’aillent pas au-delà de ce
+         qui est nécessaire pour qu’il soit atteint.
+      
+Par ailleurs, aux termes de l’article 2, paragraphe 2, de la directive «concurrence», les États membres prennent toutes les
+         mesures nécessaires afin de garantir à toute entreprise le droit de fournir des services de communications électroniques ou
+         de mettre en place, d’étendre et d’exploiter des réseaux de communications électroniques.
+      
+Il n’est pas contesté par la République de Bulgarie que, en vertu des articles 47a, paragraphes et 2, et 48, paragraphe
+         3, de la ZES, dans leur version en vigueur au cours de l’année lors des appels à candidatures pour l’attribution des
+         droits d’utilisation des fréquences, l’ensemble des fournisseurs de contenu télévisuel et des personnes qui leur sont liées,
+         au sens du droit bulgare, ne pouvaient pas soumissionner aux appels à candidatures et espérer devenir adjudicataires de ces
+         droits.
+      
+La République de Bulgarie avance cependant que cette interdiction visait à assurer une concurrence effective sur le marché
+         bulgare.
+      
+Il y a lieu de constater que la promotion de la concurrence dans la fourniture des réseaux de communications électroniques,
+         des services de communications électroniques et des ressources et services associés fait partie des objectifs, visés à l’article
+         8, paragraphe 2, de la directive-cadre, que les États membres doivent prendre en considération au titre des critères de sélection
+         des adjudicataires des droits d’utilisation des fréquences, conformément à l’article 7, paragraphe 3, de la directive «autorisation».
+      
+Cependant, il apparaît que, comme le soutient la Commission, une mesure visant à interdire à l’ensemble des fournisseurs de
+         contenu télévisuel et des personnes qui leur sont liées de participer aux appels à candidatures pour l’attribution des droits
+         d’utilisation des fréquences va au-delà de ce qui est nécessaire pour promouvoir la concurrence.
+      
+En effet, s’il est possible de considérer qu’un opérateur intégré verticalement, en ce sens qu’il exploite à la fois une activité
+         de fournisseur de contenu télévisuel et une activité en tant qu’opérateur de multiplexage, est susceptible de favoriser son
+         propre contenu au détriment de celui des fournisseurs concurrents, un tel risque d’atteinte à la concurrence existe uniquement
+         si cet opérateur intégré est autorisé à diffuser des programmes télévisés sur le territoire bulgare.
+      
+En l’occurrence, il ressort des observations écrites présentées par la République de Bulgarie que la diffusion de contenu
+         télévisuel dans cet État membre s’effectue sur la base d’une licence attribuée par le Conseil des médias électroniques. Le
+         risque d’atteinte à la concurrence allégué par l’État membre défendeur ne saurait donc exister en ce qui concerne les fournisseurs
+         de contenu télévisuel qui ne disposent pas d’une telle licence.
+      
+Il s’ensuit que l’interdiction de participer aux appels à candidatures pour l’attribution des droits d’utilisation des fréquences,
+         dans la mesure où elle concerne des fournisseurs de contenu télévisuel qui ne disposent pas d’une licence pour la diffusion
+         de contenu télévisuel en Bulgarie, va au-delà de ce qui est nécessaire pour atteindre l’objectif allégué par l’État membre
+         défendeur.
+      
+Partant, l’exigence, pour les soumissionnaires des appels à candidatures pour l’attribution des droits d’utilisation des fréquences
+         au cours de l’année 2009, de respecter l’interdiction alors édictée par les articles 47a, paragraphes et 2, et 48, paragraphe
+         3, de la ZES constituait un critère disproportionné pour l’attribution desdites fréquences, contraire à l’article 4, paragraphe
+         2, de la directive «concurrence», de l’article 7, paragraphe 3, de la directive «autorisation» et de l’article 8, paragraphe
+         1, de la directive-cadre.
+      
+Certes, les articles 47a, paragraphes et 2, et 48, paragraphe 3, de la ZES ont été modifiés à compter du décembre par la Zidzes. Toutefois, comme il a été souligné aux points à du présent arrêt, ces articles continuaient de produire
+         des effets à l’échéance fixée dans l’avis motivé. Partant, les modifications apportées à la législation bulgare par la Zidzes
+         ne sauraient être prises en compte pour apprécier l’existence du manquement reproché dans le cadre du présent recours.
+      
+Il résulte de ce qui précède que le deuxième grief de la Commission est fondé.
+      
+ Sur le troisième grief relatif à l’interdiction frappant les adjudicataires de droits d’utilisation de fréquences de développer
+         un réseau de transmission de programmes de radio ou de télévision
+      
+–       Argumentation des parties
+La Commission fait valoir que, en interdisant, en vertu de l’article 48, paragraphe 5, de la ZES, aux opérateurs de multiplexage
+         adjudicataires des droits d’utilisation des fréquences et aux personnes qui leur sont liées, au sens du droit bulgare, de
+         développer un réseau de transmission de programmes de radio ou de télévision, la République de Bulgarie a prévu des critères
+         disproportionnés pour l’attribution des droits d’utilisation des fréquences, au sens de l’article 4, paragraphe 2, de la directive
+         «concurrence», de l’article 7, paragraphe 3, de la directive «autorisation» et de l’article de la directive-cadre. La République
+         de Bulgarie n’aurait, en outre, pas garanti à toute entreprise le droit de fournir des services de communications électroniques
+         en violation de l’article 2, paragraphe 2, de la directive «concurrence».
+      
+En effet, une telle interdiction serait disproportionnée au regard de l’objectif allégué par la République de Bulgarie, à
+         savoir la promotion d’une concurrence effective. D’une part, cette interdiction empêcherait les adjudicataires des fréquences
+         de devenir opérateur d’un réseau situé dans un autre État membre alors qu’une telle circonstance ne serait pas de nature à
+         perturber la concurrence sur le marché bulgare.
+      
+D’autre part, l’État membre défendeur aurait dû pallier à un éventuel problème de concurrence en recourant à des mesures ex
+         ante dans le respect des critères et des procédures prévus aux articles 6, et 15, paragraphe 3, de la directive-cadre au
+         lieu d’exclure a priori les opérateurs de réseaux des appels à candidatures pour l’attribution des fréquences.
+      
+En outre, des mesures moins restrictives auraient pu être adoptées par la République de Bulgarie pour atteindre l’objectif
+         allégué, à savoir l’imposition d’obligations de non-discrimination ou de diffusion obligatoire aux adjudicataires des droits
+         d’utilisation des fréquences.
+      
+La République de Bulgarie rétorque que l’interdiction prévue à l’article 48, paragraphe 5, de la ZES a été déclarée inconstitutionnelle
+         par le Konstitutionen sad et n’était plus en vigueur à compter du juin 2009.
+      
+Cet État membre soutient, par ailleurs, que ladite interdiction était justifiée par l’objectif de préserver une concurrence
+         effective sur le marché bulgare, en évitant qu’une entreprise ne possède tant l’infrastructure active que passive et n’acquière
+         une influence décisive sur plusieurs marchés.
+      
+–       Appréciation de la Cour
+L’article 48, paragraphe 5, de la ZES prévoyait qu’une entreprise ou une personne qui lui est liée, au sens du droit bulgare,
+         à laquelle il a été délivré un droit d’utilisation des fréquences n’a pas le droit de mettre en place un réseau de communications
+         électroniques pour la transmission de programmes de radio ou de télévision. Comme le souligne la Commission, il y a lieu de
+         relever qu’une telle interdiction a eu pour effet d’empêcher les opérateurs d’un réseau de télécommunications de se porter
+         candidats pour l’attribution des droits d’utilisation des fréquences.
+      
+Ainsi qu’il a été relevé au point du présent arrêt, les droits d’utilisation des fréquences doivent être attribués par
+         les États membres sur la base de critères objectifs, transparents, non discriminatoires et proportionnés, cette dernière condition
+         impliquant que ces critères soient propres à garantir la réalisation de l’objectif qu’ils poursuivent et n’aillent pas au-delà
+         de ce qui est nécessaire pour qu’il soit atteint.
+      
+De même, il a été rappelé au point du présent arrêt que la préservation d’une concurrence effective fait partie des objectifs
+         visés à l’article de la directive-cadre que les États membres sont tenus, conformément à l’article 7, paragraphe 3, de la
+         directive «autorisation», de prendre en considération lors de l’établissement des critères d’attribution des droits d’utilisation
+         des fréquences.
+      
+Néanmoins, il apparaît que l’interdiction édictée à l’article 48, paragraphe 5, de la ZES allait au-delà de ce qui est nécessaire
+         pour atteindre un tel objectif.
+      
+En effet, cet objectif aurait pu être atteint en recourant à des mesures moins restrictives, telles que celles prévues par
+         la directive-cadre, notamment à ses articles et 16. Aux termes de l’article 7, paragraphe 4, de cette directive, ces mesures
+         peuvent notamment inclure la désignation d’une entreprise comme disposant, individuellement ou conjointement, d’une puissance
+         significative sur le marché, aux fins de lui imposer des obligations réglementaires spécifiques, conformément à l’article
+         16, paragraphe 4, de ladite directive.
+      
+Il ressort par ailleurs de l’article 16, paragraphe 1, de la directive-cadre que l’imposition de mesures ex ante visant à
+         favoriser la concurrence ne se justifie que dans la situation où une analyse du marché pertinent a révélé un dysfonctionnement
+         de la concurrence sur ce marché. Or, la République de Bulgarie n’a pas démontré avoir effectué une telle analyse de marché.
+      
+Partant, l’exigence, pour les soumissionnaires des appels à candidatures pour l’attribution des droits d’utilisation des fréquences
+         au cours de l’année 2009, de respecter l’interdiction alors édictée à l’article 48, paragraphe 5, de la ZES constituait un
+         critère disproportionné pour l’attribution desdites fréquences, contraire à l’article 4, paragraphe 2, de la directive «concurrence»,
+         de l’article 7, paragraphe 3, de la directive «autorisation» et de l’article 8, paragraphe 1, de la directive-cadre.
+      
+Enfin, ainsi qu’il a été relevé aux points à du présent arrêt, la circonstance que l’article 48, paragraphe 5, de la
+         ZES ne serait plus en vigueur depuis le juin ne saurait être prise en compte pour apprécier l’existence du manquement
+         reproché par la Commission, cette disposition continuant de produire des effets à l’expiration du délai fixé dans l’avis motivé,
+         à savoir le mai 2012.
+      
+Il résulte de ce qui précède que le troisième grief de la Commission est fondé.
+      
+ Sur le premier grief tiré de ce que la République de Bulgarie a limité à deux le nombre des entreprises susceptibles de se
+         voir attribuer un droit d’utilisation des fréquences
+      
+–       Argumentation des parties
+Au soutien de son premier grief, la Commission relève que la République de Bulgarie a, au moyen d’un acte législatif, à savoir
+         le point 5a des dispositions transitoires et finales de la ZES, limité à deux le nombre des entreprises pouvant recevoir un
+         droit d’utilisation des fréquences et ainsi fournir des services en tant qu’opérateurs de multiplexage sur son territoire
+         (ci-après la «limitation en cause»), alors que les fréquences disponibles aurait pu être attribuées à cinq entreprises différentes.
+         En outre, cette limitation aurait été décidée sur la base de critères disproportionnés et non objectifs.
+      
+Selon la Commission, la République de Bulgarie a ainsi accordé des droits spéciaux pour la fourniture de services de communications
+         électroniques par des réseaux de communications électroniques, au sens de l’article 1er, paragraphe 6, de la directive «concurrence», en violation de l’article 2, paragraphe 1, de cette même directive.
+      
+La Commission soutient également que la limitation en cause est disproportionnée au regard des trois objectifs d’intérêt général
+         mis en avant par la République de Bulgarie pour la justifier, à savoir, d’abord, la nécessité d’assurer le succès du démarrage,
+         de la réalisation et de la bonne fin de la transition de la télévision analogique à la télévision numérique (ci-après la «transition
+         numérique»), ensuite, la protection du droit constitutionnel des citoyens bulgares d’accéder gratuitement à l’information
+         en préservant au maximum le pluralisme des opinions et, enfin, la nécessité d’assurer la compétitivité des opérateurs de multiplexage.
+      
+En ce qui concerne le premier objectif invoqué par la République de Bulgarie, la Commission considère que la limitation en
+         cause n’est pas apte à assurer la transition numérique. En effet, une plus forte pression concurrentielle, qui aurait pu être
+         atteinte si cinq opérateurs disposaient d’un droit d’utilisation de fréquences, conduirait à des gains d’efficacité car elle
+         inciterait chaque opérateur potentiel à accélérer la mise en place de son réseau afin d’être le plus rapidement possible,
+         c’est-à-dire avant ses concurrents, en mesure de négocier et de conclure des contrats avec les fournisseurs de contenu télévisuel.
+         Une telle concurrence serait de nature à accélérer la transition numérique.
+      
+En outre, il existerait des moyens moins restrictifs pour mener à bien la transition numérique. Selon la Commission, la République
+         de Bulgarie aurait pu inclure dans les critères de participation aux appels à candidatures pour l’attribution des fréquences,
+         notamment, des exigences liées à la capacité d’investissement des soumissionnaires ou encore l’obligation pour les adjudicataires
+         de suivre un plan déterminé d’aménagement du réseau ainsi que des exigences opérationnelles déterminées.
+      
+Quant au deuxième objectif, relatif à la protection du droit constitutionnel des citoyens bulgares d’accéder gratuitement
+         à l’information en préservant au maximum le pluralisme des opinions, la Commission estime que la limitation en cause n’est
+         pas appropriée pour atteindre un tel objectif. En effet, cette limitation réduirait la pression concurrentielle pesant sur
+         les opérateurs de multiplexage, ce qui serait de nature à entraîner une augmentation des tarifs de la diffusion. Une telle
+         augmentation limiterait la possibilité, pour les fournisseurs de contenu télévisuel, de diffuser leurs programmes par la radiodiffusion
+         numérique terrestre et, de ce fait, restreindrait le pluralisme des opinions ainsi que l’accès des citoyens à l’information.
+         En revanche, un environnement plus concurrentiel obligerait les opérateurs de multiplexage à négocier la diffusion d’un plus
+         grand nombre de programmes, ce qui favoriserait le pluralisme des opinions.
+      
+S’agissant de l’objectif d’assurer la compétitivité des opérateurs de multiplexage, la Commission est d’avis que celui-ci
+         est purement économique et ne saurait être admis en tant que justification de la limitation en cause. Par ailleurs, la Cour
+         a jugé, dans l’arrêt Ambulanz Glöckner (C‑475/99, EU:C:2001:577), que constituent précisément des droits spéciaux ceux qui
+         sont de nature à empêcher l’entrée d’un concurrent sur le marché d’activité de leur titulaire ou sur un marché voisin pour
+         des raisons relatives aux effets négatifs qu’aurait une telle entrée sur le fonctionnement et la rentabilité de l’activité
+         dudit titulaire.
+      
+En outre, la Commission est d’avis que le fait que la République de Bulgarie s’est conformée aux exigences définies à l’article
+         7, paragraphe 1, de la directive «autorisation» n’implique pas que cet État membre a respecté les règles énoncées dans la
+         directive «concurrence» et, en particulier, l’interdiction d’octroyer des droits spéciaux prévue à l’article 2, paragraphe
+         1, de cette dernière directive. À cet égard, le lancement d’une consultation publique et l’adoption d’une décision définitive,
+         tels que prévus à l’article 7, paragraphe 1, sous b) et c), de la directive «autorisation», ne sauraient justifier des dispositions
+         nationales contraires à l’article 2, paragraphe 1, de la directive «concurrence».
+      
+Enfin, la Commission estime que, malgré l’application prétendument unique du point 5a des dispositions transitoires et finales
+         de la ZES, la limitation en cause produisait toujours des effets à l’échéance fixée dans l’avis motivé, puisque les droits
+         octroyés dans le cadre des appels à candidatures lancés en application de cette disposition étaient toujours en vigueur à
+         cette date.
+      
+La République de Bulgarie rétorque, en premier lieu, qu’elle n’a pas mis en place de droits spéciaux, au sens de l’article
+         2, paragraphe 1, de la directive «concurrence».
+      
+Elle avance, à cet égard, que le point 5a des dispositions transitoires et finales de la ZES était d’application unique et
+         que les deux adjudications de droits d’utilisation des fréquences réalisées au cours de l’année sur cette base juridique
+         ne constituent que les deux premières étapes de la transition numérique en Bulgarie. En effet, la décision de limiter initialement
+         à deux le nombre d’entreprises obtenant un droit d’utilisation des fréquences se justifierait par l’absence de spectre disponible
+         sur le territoire bulgare en 2009, une partie de ce spectre étant occupée par les autorités publiques, tandis que l’autre
+         était utilisée par les opérateurs nationaux de télévision analogique.
+      
+En outre, cet État membre fait valoir que l’attribution de nouveaux droits d’utilisation en fonction de la libération de fréquences
+         supplémentaires aurait été envisagée dès l’année 2006. C’est pourquoi une nouvelle procédure d’appel à candidatures aurait
+         eu lieu au mois de janvier et qu’un nouvel opérateur serait d’ores et déjà entré sur le marché bulgare de la radiodiffusion
+         numérique terrestre.
+      
+En second lieu, même en admettant que le point 5a des dispositions transitoires et finales de la ZES ait institué une limitation
+         en ce qui concerne le nombre initial des entreprises pouvant obtenir un droit d’utilisation des fréquences, il ressortirait
+         du considérant et de l’article de la directive «autorisation», lu en combinaison avec le considérant de la directive
+         «concurrence», qu’une procédure d’autorisation qui limite le nombre des opérateurs sur le territoire national peut être justifiée
+         par des objectifs d’intérêt général, pour autant que les restrictions en découlant soient appropriées et n’aillent pas au-delà
+         de ce qui est nécessaire pour atteindre lesdits objectifs. La Cour a également reconnu une telle possibilité dans son arrêt
+         Centro Europa (C‑380/05, EU:C:2008:59).
+      
+Au soutien de son argumentation, la République de Bulgarie avance les trois justifications évoquées au point du présent
+         arrêt.
+      
+À cet égard, premièrement, pour ce qui est de l’objectif de réaliser la transition numérique, visé au point du présent
+         arrêt, cet État membre soutient que le regroupement de plusieurs fréquences par opérateur et la mise en place d’un nombre
+         limité de réseaux de diffusion assurent la viabilité des opérateurs adjudicataires et, en cela, le succès de la transition
+         numérique. En effet, la limitation en cause permettrait des économies d’échelle, notamment lors de l’achat et de l’installation
+         des équipements ainsi que de la mise en place des réseaux d’émissions des fréquences.
+      
+Deuxièmement, quant à l’objectif de garantir la protection du droit constitutionnel des citoyens bulgares d’accéder gratuitement
+         à l’information en préservant au maximum le pluralisme des opinions, mentionné au point du présent arrêt, ledit État membre
+         soutient qu’une concurrence plus importante entre opérateurs risquerait d’entraîner une offre de contenu télévisuel plus homogène.
+      
+Troisièmement, en ce qui concerne la nécessité de garantir la compétitivité des opérateurs de multiplexage, visée au point
+         du présent arrêt, la République de Bulgarie justifie cette nécessité par les spécificités du marché de la radiodiffusion
+         sur son territoire, lequel se caractérise par la prédominance des opérateurs de télédiffusion par câble et satellite.
+      
+Quatrièmement, enfin, l’État membre défendeur avance que les deux opérateurs de multiplexage adjudicataires des appels à candidatures
+         de l’année ont été désignés dans le respect des procédures prévues à l’article de la directive «autorisation».
+      
+–       Appréciation de la Cour
+En vertu de l’article 2, paragraphe 1, de la directive «concurrence», les États membres ne peuvent accorder ni maintenir de
+         droits exclusifs ou spéciaux pour l’établissement et/ou l’exploitation de réseaux de communications électroniques ou pour
+         la fourniture de services de communications électroniques accessibles au public.
+      
+À cet égard, aux termes de l’article 1er, paragraphe 6, de la directive «concurrence», on entend par «droits spéciaux » les droits accordés par un État membre à un
+         nombre limité d’entreprises au moyen de tout instrument législatif, réglementaire ou administratif qui, sur un territoire
+         donné, désigne ces entreprises autorisées à fournir un service de communications électroniques ou à exploiter une activité
+         de communications électroniques, ou en limite le nombre à deux ou à plusieurs, selon des critères qui ne sont pas objectifs,
+         proportionnés ou non discriminatoires, ou confère à des entreprises, selon des critères autres que les critères susmentionnés,
+         des avantages légaux ou réglementaires qui affectent substantiellement la capacité de toute autre entreprise de fournir les
+         mêmes services de communications électroniques ou d’exploiter la même activité de communications électroniques sur le même
+         territoire dans des conditions substantiellement équivalentes.
+      
+En l’occurrence, il ressortait du point 5a des dispositions transitoires et finales de la ZES, dans sa version en vigueur
+         au moment des appels à candidatures de l’année 2009, que, conformément à la première étape du plan pour l’introduction de
+         la diffusion de la télévision numérique en Bulgarie, adopté par le Conseil des ministres, la Commission de régulation des
+         communications devait désigner, dans le cadre d’un appel à candidatures, une première entreprise à laquelle elle devait délivrer
+         un droit d’utilisation des fréquences pour la fourniture de services de communications électroniques via les réseaux de communications
+         électroniques. Puis, conformément à la seconde étape dudit plan, cette même commission était tenue de lancer un appel à candidatures
+         en vue de la sélection d’une entreprise distincte pour l’attribution d’un autre droit d’utilisation similaire.
+      
+Il apparaît que la République de Bulgarie avait par conséquent prévu, au point 5a des dispositions transitoires et finales
+         de la ZES, que seules deux entreprises seraient titulaires de droits d’utilisation des fréquences pour la fourniture de services
+         de communications électroniques via des réseaux de communications électroniques sur son territoire.
+      
+Il ressort également des observations écrites présentées par la Commission que, conformément aux prescriptions du point 5a
+         des dispositions transitoires et finales de la ZES, seules deux entreprises, sélectionnées lors des deux appels à candidatures
+         organisés au mois de juin 2009, disposaient, au terme du délai fixé dans l’avis motivé, d’un droit d’utilisation des fréquences
+         aux fins de la fourniture de services commerciaux de communications électroniques en Bulgarie, circonstance que cet État membre
+         ne conteste pas.
+      
+Contrairement à ce que soutient la République de Bulgarie, cette circonstance ne saurait s’expliquer par le caractère limité
+         du spectre radioélectrique disponible dans cet État membre à l’époque des faits faisant l’objet du présent recours. En effet,
+         il est constant que l’état du spectre disponible sur le territoire dudit État membre à cette époque permettait d’allouer cinq
+         fréquences.
+      
+Or, comme l’a fait valoir la Commission lors de l’audience, le regroupement de ces cinq fréquences initiales en deux paquets,
+         attribués pour une durée de ans aux deux entreprises adjudicataires des appels à candidatures de droits d’utilisation des
+         fréquences réalisés au cours de l’année 2009, a eu pour effet d’assurer à ces entreprises un avantage de nature à affecter
+         substantiellement la capacité de toute autre entreprise de fournir les mêmes services de communications électroniques ou d’exploiter
+         la même activité de communications électroniques sur le territoire bulgare dans des conditions substantiellement équivalentes,
+         au sens de l’article 1er, paragraphe 6, de la directive «concurrence».
+      
+En effet, lesdites entreprises adjudicataires ont ainsi disposé d’une ressource significative en termes de spectre radioélectrique
+         pour une durée de années, acquise, qui plus est, plusieurs années avant l’entrée potentielle d’autres entreprises sur le
+         marché des services de communications électroniques en Bulgarie, ce qui leur a permis de bénéficier d’un avantage concurrentiel
+         certain, de nature à freiner l’arrivée de nouvelles entreprises sur ce marché. La République de Bulgarie a, par ailleurs,
+         reconnu que la limitation en cause visait précisément à assurer la compétitivité des deux entreprises adjudicataires des appels
+         à candidatures de l’année 2009.
+      
+Partant, il y a lieu de constater que, au moyen du point 5a des dispositions transitoires et finales de la ZES, la République
+         de Bulgarie a limité à deux le nombre d’entreprises autorisées à fournir des services de communications électroniques sur
+         son territoire, au sens de l’article 1er, paragraphe 6, de la directive «concurrence».
+      
+Cette conclusion ne saurait être remise en cause par l’argument de la République de Bulgarie selon lequel cet État membre
+         a organisé, sur la base du point des dispositions transitoires et finales de la Zidzes, un nouvel appel à candidatures
+         pour l’attribution d’une fréquence supplémentaire. En effet, comme il a été constaté au point du présent arrêt, cette dernière
+         fréquence a été attribuée au cours de l’année 2013, soit après l’échéance prévue dans l’avis motivé, de sorte que cette circonstance
+         ne peut être prise en compte dans le cadre du présent recours.
+      
+Ensuite, il y a lieu de souligner que, au regard de la définition des droits spéciaux, au sens de la directive «concurrence»,
+         prévue à l’article 1er, paragraphe 6, de cette directive et rappelée au point du présent arrêt, la seule constatation qu’un État membre a limité
+         le nombre d’entreprises autorisées à fournir des services de communications électroniques sur son territoire ou accordé un
+         avantage concurrentiel à un nombre limité d’entreprises n’est pas, en soi, suffisante pour conclure que cet État membre a
+         mis en place des droits spéciaux. En effet, il ressort de cette définition que cette limitation ou cet avantage doivent en
+         outre avoir été attribués sur la base de critères non objectifs, disproportionnés ou encore discriminatoires.
+      
+À cet égard, il est constant que deux des critères des appels à candidatures de l’année relatifs au droit d’utilisation
+         de fréquences consistaient pour les soumissionnaires à respecter les interdictions énoncées aux articles 47a, paragraphes
+         et 2, et 48, paragraphes et 5, de la ZES, lesquelles font l’objet des deuxième et troisième griefs de la Commission.
+      
+Or, la Commission a démontré à suffisance de droit, dans le cadre de ses deuxième et troisième griefs, le caractère disproportionné
+         desdits critères. En effet, comme il a été constaté aux points à et à du présent arrêt, l’interdiction pour les
+         fournisseurs de contenu télévisuel de se porter candidats aux adjudications des fréquences, en ce qu’elle concerne également
+         les fournisseurs n’étant pas habilités à diffuser leurs programmes en Bulgarie, et l’interdiction pour les adjudicataires
+         des droits d’utilisation de fréquences de développer un réseau de transmission allaient au-delà de ce qui était nécessaire
+         pour atteindre l’objectif poursuivi par la République de Bulgarie.
+      
+Il s’ensuit que, en limitant à deux, au moyen du point 5a des dispositions transitoires et finales de la ZES, sur la base
+         de critères disproportionnés, le nombre d’entreprises autorisées à fournir des services de communications électroniques sur
+         son territoire, la République de Bulgarie a mis en place des droits spéciaux pour la fourniture de services de communications
+         électroniques, en violation de l’article 2, paragraphe 1, de la directive «concurrence».
+      
+Au regard du caractère absolu de l’interdiction énoncée par cette disposition, il y a lieu de considérer que les droits spéciaux
+         mis en place par la République de Bulgarie ne sont pas susceptibles d’être justifiés par les objectifs avancés par celle-ci.
+      
+Il s’ensuit que le premier grief de la Commission est fondé.
+      
+Eu égard à l’ensemble des considérations qui précèdent, il convient de constater que:
+      
+–        en limitant, en vertu du point 5a des dispositions transitoires et finales de la ZES, à deux le nombre des entreprises auxquelles
+         peut être attribué un droit d’utilisation de fréquences et auxquelles est délivrée une autorisation de fournir des services
+         de communications électroniques correspondants, la République de Bulgarie a manqué aux obligations qui lui incombent en vertu
+         de l’article 2, paragraphe 1, de la directive «concurrence»;
+      
+–        en interdisant, en vertu des articles 47a, paragraphes et 2, et 48, paragraphe 3, de la ZES, à des fournisseurs de contenu
+         télévisuel dont les programmes ne sont pas diffusés en Bulgarie et aux personnes qui leur sont liées de participer aux appels
+         à candidatures pour l’attribution des fréquences et de fournir les services correspondants, la République de Bulgarie a manqué
+         aux obligations qui lui incombent en vertu de l’article 7, paragraphe 3, de la directive «autorisation», de l’article 9, paragraphe
+         1, de la directive-cadre, ainsi que des articles 2, paragraphe 2, et 4, paragraphe 2, de la directive «concurrence»;
+      
+–        en interdisant, en vertu de l’article 48, paragraphe 5, de la ZES, aux adjudicataires des droits d’utilisation des fréquences
+         d’établir des réseaux de transmission, la République de Bulgarie a manqué aux obligations qui lui incombent en vertu de l’article
+         7, paragraphe 3, de la directive «autorisation», de l’article 9, paragraphe 1, de la directive-cadre ainsi que des articles
+         2, paragraphe 2, et 4, paragraphe 2, de la directive «concurrence».
+      
+ Sur les dépens
+Aux termes de l’article 138, paragraphe 1, du règlement de procédure, toute partie qui succombe est condamnée aux dépens,
+         s’il est conclu en ce sens. La Commission ayant conclu à la condamnation de la République de Bulgarie et celle-ci ayant succombé
+         en ses moyens, il y a lieu de la condamner aux dépens.
+      
+Par ces motifs, la Cour (neuvième chambre) déclare et arrête:
+1)      En limitant, en vertu du point 5a, paragraphes et 2, des dispositions transitoires et finales de la loi sur les communications
+            électroniques (Zakon za elektronnite saobshteniya), à deux le nombre des entreprises auxquelles peut être attribué un droit
+            d’utilisation de fréquences du spectre radioélectrique de radiodiffusion numérique terrestre et auxquelles est délivrée une
+            autorisation de fournir des services de communications électroniques correspondants, la République de Bulgarie a manqué aux
+            obligations qui lui incombent en vertu de l’article 2, paragraphe 1, de la directive 2002/77/CE de la Commission, du septembre
+            2002, relative à la concurrence dans les marchés des réseaux et des services de communications électroniques.
+2)      En interdisant, en vertu des articles 47a, paragraphes et 2, et 48, paragraphe 3, de la de la loi sur les communications
+            électroniques, à des fournisseurs de contenu télévisuel dont les programmes ne sont pas diffusés en Bulgarie et aux personnes
+            qui leur sont liées de participer aux appels à candidatures pour l’attribution des droits d’utilisation de fréquences du spectre
+            radioélectrique de radiodiffusion numérique terrestre et de fournir les services correspondants, la République de Bulgarie
+            a manqué aux obligations qui lui incombent en vertu de l’article 7, paragraphe 3, de la directive 2002/20/CE du Parlement
+            européen et du Conseil, du mars 2002, relative à l’autorisation de réseaux et de services de communications électroniques
+            (directive «autorisation»), telle que modifiée par la directive 2009/140/CE du Parlement européen et du Conseil, du novembre
+            2009, de l’article 9, paragraphe 1, de la directive 2002/21/CE du Parlement européen et du Conseil, du mars 2002, relative
+            à un cadre réglementaire commun pour les réseaux et services de communications électroniques (directive «cadre»), telle que
+            modifiée par la directive 2009/140, ainsi que des articles 2, paragraphe 2, et 4, paragraphe 2, de la directive 2002/77.
+3)      En interdisant, en vertu de l’article 48, paragraphe 5, de la loi sur les communications électroniques, aux adjudicataires
+            des droits d’utilisation des fréquences du spectre radioélectrique de radiodiffusion numérique terrestre d’établir des réseaux
+            de communications électroniques pour la diffusion de programmes de radio et de télévision, la République de Bulgarie a manqué
+            aux obligations qui lui incombent en vertu de l’article 7, paragraphe 3, de la directive 2002/20, telle que modifiée par la
+            directive 2009/140, de l’article 9, paragraphe 1, de la directive 2002/21, telle que modifiée par la directive 2009/140, ainsi
+            que des articles 2, paragraphe 2, et 4, paragraphe 2, de la directive 2002/77.
+4)      La République de Bulgarie est condamnée aux dépens.
+Signatures
+* Langue de procédure: le bulgare.
+      
+Top  

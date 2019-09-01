@@ -1,0 +1,181 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+April (
+*)
+(References for a preliminary ruling — Transport — Common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights — Regulation (EC) No 261/— Article 5(3) — Article 7(1) — Right to compensation — Exemption — ‘Extraordinary circumstances’ — ‘Wildcat strike’)
+In Joined Cases C‑195/17, C‑197/to C‑203/17, C‑226/17, C‑228/17, C‑254/17, C‑274/17, C‑275/17, C‑278/to C‑286/and C‑290/to C‑292/REQUESTS for a preliminary ruling under Article TFEU from, on the one hand, the Amtsgericht Hannover (Local Court, Hanover, Germany), by decisions of (Cases C‑195/and C‑197/to C‑203/17) and April (Cases C‑226/and C‑228/17), of (Cases C‑254/17, C‑275/17, C‑278/and C‑281/17), (Cases C‑274/17, C‑279/17, C‑280/and C‑282/to C‑286/17), (Case C‑291/17) and May (Case C‑290/17), received at the Court on (C‑195/and C‑197/to C‑203/17) and April (Cases C‑226/and C‑228/17), and of (Case C‑254/17), (Cases C‑274/17, C‑275/and C‑278/to C‑286/17) and May (Cases C‑290/and C‑291/17) and, on the other hand, the Amtsgericht Düsseldorf (Local Court, Düsseldorf, Germany), made by decision of May (Case C‑292/17), received at the Court on May 2017, in the proceedings between
+Helga Krüsemann and Others (C‑195/17),
+Thomas Neufeldt and Others (C‑197/17),
+Ivan Wallmann (C‑198/17),
+Rita Hoffmeyer (C 199/17),
+Rudolf Meyer (C‑199/17),
+Susanne de Winder (C‑200/17),
+Holger Schlosser (C‑201/17),
+Nicole Schlosser (C‑201/17),
+Peter Rebbe and Others (Case C‑202/17),
+Eberhard Schmeer (C‑203/17),
+Brigitte Wittmann (C‑226/17),
+Reinhard Wittmann (C‑228/17),
+Regina Lorenz (C 254/17),
+Prisca Sprecher (C‑254/17),
+Margarethe Yüce and Others (Case C‑274/17),
+Friedemann Schoen (C 275/17),
+Brigitta Schoen (C‑275/17),
+Susanne Meyer and Others (Case C‑278/17),
+Thomas Kiehl (C‑279/17),
+Ralph Eßer (C‑280/17),
+Thomas Schmidt (C‑281/17),
+Werner Ansorge (C‑282/17),
+Herbert Blesgen (C‑283/17),
+Simone Künnecke and Others (Case C‑284/17),
+Marta Gentile (C‑285/17),
+Marcel Gentile (C‑285/17),
+Gabriele Ossenbeck (C‑286/17),
+Angelina Fell and Others (Case C‑290/17),
+Helga Jordan-Grompe and Others (Case C‑291/17),
+EUflight.de GmbH (C‑292/17)
+v
+TUIfly GmbH,
+THE COURT (Third Chamber),
+composed of L. Bay Larsen, President of the Chamber, J. Malenovský, M. Safjan, D. Šváby (Rapporteur) and M. Vilaras, Judges,
+Advocate General: E. Tanchev,
+Registrar: R. Schiano, Administrator,
+after considering the observations submitted on behalf of
+–
+T. Neufeldt and Others and E. Schmeer, by P. Degott, Rechtsanwalt,
+–
+I. Wallmann, by M. Kleinmann, Rechtsanwalt,
+–
+H. and N. Schlosser, R. Lorenz, P. Sprecher, F. and B. Schoen and EUflight.de GmbH, by H. Deussen and M. Diekmann, Rechtsanwälte,
+–
+B. Wittmann, by R. Weist, Rechtsanwalt,
+–
+R. Wittmann, by M. Michel, Rechtsanwalt,
+–
+R. Eßer, by himself,
+–
+W. Ansorge and H. Blesgen, by J. Lucar-Jung, Rechtsanwältin,
+–
+S. Künnecke and Others, by C. Steding, Rechtsanwalt,
+–
+TUIfly GmbH, by P. Kauffmann and K. Witt, Rechtsanwälte,
+–
+the German Government, by T. Henze, M. Hellmann and M. Kall, acting as Agents,
+–
+the French Government, by E. de Moustier and I. Cohen, acting as Agents,
+–
+the Polish Government, by B. Majczyna, acting as Agent,
+–
+the European Commission, by K.-P. Wojcik, K. Simonsson and N. Yerrell, acting as Agents,
+having regard to the written procedure and further to the hearing on January 2018,
+after hearing the Opinion of the Advocate General at the sitting on April 2018,
+gives the following
+Judgment
+These requests for a preliminary ruling concern the interpretation of Article 5(3) of Regulation (EC) No 261/of the European Parliament and of the Council of February establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation (EEC) No 295/(OJ L 46, p. 1).
+The requests have been made in proceedings between passengers and TUIfly GmbH, an air carrier, concerning the latter’s refusal to compensate those passengers whose flights were significantly delayed or cancelled.
+Legal context
+Recitals 1, 4, and of Regulation No 261/state:
+‘(1)
+Action by the [European Union] in the field of air transport should aim, among other things, at ensuring a high level of protection for passengers. Moreover, full account should be taken of the requirements of consumer protection in general.
+…
+(4)
+The [European Union] should therefore raise the standards of protection set by [Council Regulation (EEC) No 295/of February establishing common rules for a denied-boarding compensation system in scheduled air transport (OJ L 36, p. 5)] both to strengthen the rights of passengers and to ensure that air carriers operate under harmonised conditions in a liberalised market.
+…
+(14)
+As under the [Convention for the Unification of Certain Rules for International Carriage by Air, concluded in Montreal on May and approved on behalf of the European Community by Council Decision 2001/539/EC of April (OJ L 194, p. 38)], obligations on operating air carriers should be limited or excluded in cases where an event has been caused by extraordinary circumstances which could not have been avoided even if all reasonable measures had been taken. Such circumstances may, in particular, occur in cases of political instability, meteorological conditions incompatible with the operation of the flight concerned, security risks, unexpected flight safety shortcomings and strikes that affect the operation of an operating air carrier.
+(15)
+Extraordinary circumstances should be deemed to exist where the impact of an air traffic management decision in relation to a particular aircraft on a particular day gives rise to a long delay, an overnight delay, or the cancellation of one or more flights by that aircraft, even though all measures had been taken by the air carrier concerned to avoid the delays or cancellations.’
+Under the heading ‘Cancellation’, Article of that regulation provides:
+‘1.   In case of cancellation of a flight, the passengers concerned shall:
+…
+(c)
+have the right to compensation by the operating air carrier in accordance with Article 7, unless:
+(i)
+they are informed of the cancellation at least two weeks before the scheduled time of departure; or
+(ii)
+they are informed of the cancellation between two weeks and seven days before the scheduled time of departure and are offered re-routing, allowing them to depart no more than two hours before the scheduled time of departure and to reach their final destination less than four hours after the scheduled time of arrival; or
+(iii)
+they are informed of the cancellation less than seven days before the scheduled time of departure and are offered re-routing, allowing them to depart no more than one hour before the scheduled time of departure and to reach their final destination less than two hours after the scheduled time of arrival.
+…
+3.   An operating air carrier shall not be obliged to pay compensation in accordance with Article 7, if it can prove that the cancellation is caused by extraordinary circumstances which could not have been avoided even if all reasonable measures had been taken.’
+Article of Regulation No 261/2004, headed ‘Right to compensation’, provides in paragraph thereof:
+‘Where reference is made to this Article, passengers shall receive compensation amounting to:
+(a)
+EUR for all flights of kilometres or less;
+(b)
+EUR for all intra-Community flights of more than kilometres, and for all other flights between and kilometres;
+(c)
+EUR for all flights not falling under (a) or (b).
+…’
+The disputes in the main proceedings and the questions referred for a preliminary ruling
+The applicants in the main proceedings all made bookings with TUIfly for flights to be operated by that carrier between and October 2016.
+As is apparent from the orders for reference, all those flights were cancelled or were subject to a delay equal to or in excess of three hours upon arrival due to an exceptionally high number of absences on grounds of illness amongst TUIfly staff, following the notification on September by that air carrier’s management to its staff of company restructuring plans.
+It is also apparent from those decisions that, although usually the rates of staff absenteeism due to illness among TUIfly staff is in the order of 10%, between October and October that rate underwent a significant increase of 34% to 89% in the case of cockpit crew staff members and of 24% to 62% in the case of cabin crew staff members.
+Accordingly, from October 2016, TUIfly fully abandoned its initial schedule of flights, while making sub-chartering arrangements with other air carriers and recalling staff members who were on leave.
+However, because of the absences among its staff, flights were significantly delayed on October 2016. On October 2016, flights also incurred a long delay and flights were cancelled. From October onwards, a large number of flights were cancelled. On and October 2016, all flights departing from Germany were cancelled by TUIfly.
+On the evening of October 2016, the management of TUIfly informed its staff that an agreement had been reached with the staff representatives.
+In view of that situation which it classified as ‘extraordinary circumstances’ within the meaning of Article 5(3) of Regulation No 261/2004, TUIfly refused to pay the applicants in the main proceedings the compensation provided for in Article 5(1)(c)(iii) and Article of Regulation No 261/2004, as interpreted by the Court.
+Cases C‑195/17, C‑197/to C‑203/17, C‑226/17, C‑228/17, C‑274/17, C‑275/17, C‑278/to C‑286/17, C‑290/and C‑291/In Cases C‑195/17, C‑197/to C‑203/17, C‑226/17, C‑228/17, C‑274/17, C‑275/17, C‑278/to C‑286/17, C‑290/and C‑291/17, the referring court, the Amtsgericht Hannover (Local Court, Hanover, Germany), notes that, according to German case-law, the illness of a crew member, at least where it is not due to an external act of sabotage perpetrated by a third party, and the need to replace him do not constitute ‘extraordinary circumstances’ within the meaning of Article 5(3) of Regulation No 261/2004.
+While questioning whether to classify the circumstances which gave rise to the disputes brought before it as ‘extraordinary circumstances’, in so far as those situations concern rates of absenteeism which are not typical of the normal activity of an air carrier, but occur, as contended by the defendant in the main proceedings, inter alia in cases of ‘wildcat strikes’ or of a call by staff members themselves for a boycott, that court nonetheless takes the view that it must be concluded in the present case that there were no ‘extraordinary circumstances’.
+On the one hand, the referring court notes that the air carrier in question in the main proceedings may have contributed to the rate of absenteeism by announcing measures to restructure the undertaking. On the other, while the majority of the German courts accept that both internal and external strikes constitute ‘extraordinary circumstances’, in the dispute before the Amtsgericht Hannover (Local Court, Hanover), the absence of staff resulted from an appeal to some of the staff members of the air carrier concerned to go on sick leave, and was not formally issued by a trade union. Such a social movement can therefore be distinguished from an official strike and should be treated as a ‘wildcat strike’, which is not covered by freedom of association.
+Furthermore, if the circumstances relating to the disputes before the referring court must be classified as ‘extraordinary circumstances’, that court questions whether those circumstances must be accepted only in respect of flights that they have affected or may also be recognised for flights scheduled after the ‘extraordinary circumstances’ prevailed, thus allowing the air carriers concerned to refuse compensation to passengers on flights affected by any subsequent rescheduling of flights carried out after those ‘extraordinary circumstances’ prevailed.
+In that regard, the referring court refers to diverging case-law of the German courts. It nonetheless submits that the intention of the EU legislature, as may be inferred from recital of Regulation No 261/2004, and the case-law established by the judgment of October 2012, Finnair (C‑22/11, EU:C:2012:604), make it possible, in its view, to find that the air carrier may rely on Article 5(3) of Regulation No 261/solely for the flight affected by the ‘extraordinary circumstances’ in question.
+In those circumstances, the Amtsgericht Hannover (Local Court, Hanover) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Does the absence on sick leave of a significant part of the staff of an operating air carrier required to operate the flight constitute “extraordinary circumstances” under Article 5(3) of [Regulation No 261/2004]? In the event that the first question is answered in the affirmative: how high must the rate of absenteeism be to constitute such [circumstances]?
+(2)
+In the event that the first question is answered in the negative: does the spontaneous absence, due to unauthorised work stoppage under employment law or collective agreements (“wildcat strike”), of a significant part of an operating air carrier’s staff for flight operation constitute [“extraordinary circumstances”] under Article 5(3) of [Regulation No 261/2004]? In the event that the second question is answered in the affirmative: how high must the rate of absenteeism be to constitute such [circumstances]?
+(3)
+In the event that the first or the second question is answered in the affirmative: must the [extraordinary circumstances] have been present at the time the flight [itself] was cancelled or is the operating air carrier entitled to devise a new flight plan pursuant to economic considerations?
+(4)
+In the event that the first or the second question is answered in the affirmative: does the avoidability criterion relate to the [“extraordinary circumstances”] or, rather, to the consequences of the occurrence of [those circumstances]?’
+Case C‑292/In Case C‑292/17, the referring court, the Amtsgericht Düsseldorf (Local Court, Düsseldorf, Germany) notes that, in the judgment of October 2012, Finnair (C‑22/11, EU:C:2012:604), the Court did indeed hold that denying boarding to a passenger on a flight not affected by a strike, while allowing another passenger whose prior flight was affected by a strike to board, gave rise to an obligation to pay compensation. However, that judgment is not necessarily transposable to flight cancellations, in so far as Regulation No 261/does not entitle the air carrier to rely on ‘extraordinary circumstances’ in order to avoid its liability to pay compensation in the event of denied boarding.
+That court notes, however, that Article 5(3) of the basic regulation requires that the cancellation of the flight in question occurs on account of ‘extraordinary circumstances’ and, accordingly, that there is a causal link between that circumstance and that cancellation. However, the cancellation of a flight on account not of absences due to illness, but of an operating air carrier’s decision to reorganise all flights in the light of that circumstance does not make it possible to attribute the cancellation of that flight directly to that circumstance. Such an interpretation of Article 5(3) of that regulation could rely on recital thereof, according to which ‘extraordinary circumstances’ must have affected a specific flight.
+In those circumstances, the Amtsgericht Düsseldorf (Local Court, Düsseldorf) decided to stay proceedings and refer the following questions to the Court of Justice for a preliminary ruling:
+‘(1)
+Is a flight cancellation still caused by an “extraordinary circumstance”, within the meaning of Article 5(3) of [Regulation No 261/2004], when the circumstances (here, “wildcat strike” or “wave of illness”) only indirectly affect the flight in question in that they prompted the air carrier to reschedule its entire flight plan and the new schedule includes the scheduled cancellation of that specific flight?
+(2)
+Can an air carrier avoid liability under Article 5(3) of [Regulation No 261/2004] where the flight in question, had it not been rescheduled, could have been operated because the crew planned for that flight would have been available if it had not been assigned to other flights through rescheduling?’
+By decisions of the President of the Court of 10, and May 2017, Cases C‑195/17, C‑197/to C‑203/17, C‑226/17, C‑228/17, C‑254/17, C‑274/17, C‑275/17, C‑278/to C‑286/and C‑290/to C‑292/were joined for the purposes of the oral procedure and the judgment.
+Consideration of the questions referred
+Admissibility of the questions referred in Cases C‑195/17, C‑197/to C‑203/17, C‑226/17, C‑228/17, C‑254/17, C‑274/17, C‑275/17, C‑278/to C‑286/17, C‑290/and C‑291/TUIFly argues that the first, third and fourth questions referred by the Amtsgericht Hannover (Local Court, Hanover) are inadmissible. The first of these, in so far as it sought to obtain information about the rate of absenteeism in order to assess whether ‘extraordinary circumstances’ prevailed, is alleged to interfere in the jurisdiction of the tribunal of fact. The third question is unconnected with the subject matter of the disputes in the main proceedings, inasmuch as TUIfly did not establish new timetables for ‘economic reasons specific to the undertaking’, but merely reorganised its flights without regard to the costs or even to such economic reasons. Finally, the fourth question is too abstract.
+In that regard, it should be recalled that, according to the settled case-law of the Court, questions on the interpretation of EU law referred by a national court in the factual and legislative context which that court is responsible for defining, and the accuracy of which is not a matter for the Court to determine, enjoy a presumption of relevance. The Court may refuse to rule on a question referred by a national court only where it is quite obvious that the interpretation of EU law that is sought bears no relation to the actual facts of the main action or its purpose, where the problem is hypothetical, or where the Court does not have before it the factual or legal material necessary to give a useful answer to the questions submitted to it (judgment of February 2018, ZPT, C‑518/16, EU:C:2018:126, paragraph and the case-law cited).
+In the present case, it should be noted that the purpose of the first question referred by the Amtsgericht Hannover (Local Court, Hanover) is to obtain from the Court of Justice an interpretation of the concept of ‘extraordinary circumstances’ within the meaning of Article 5(3) of Regulation No 261/in the light of the facts at issue in the main proceedings. The classification under EU law of facts established by the referring court involves, however, the interpretation of EU law for which, in the context of the procedure laid down in Article TFEU, the Court of Justice has jurisdiction (judgment of December 2017, Asociación Profesional Elite Taxi, C‑434/15, EU:C:2017:981, paragraph 20).
+As to the criticisms made in respect of the third question referred by the Amtsgericht Hannover (Local Court, Hanover), it should be borne in mind that the presumption of relevance referred to in paragraph of the present judgment cannot be rebutted by the mere fact that one of the parties in the main proceedings disputes certain facts relating to the disputes in the main proceedings, the accuracy of which it is not for the Court to determine, and on which the delimitation of the subject matter of those proceedings depends (judgment of September 2016, Breitsamer und Ulrich, C‑113/15, EU:C:2016:718, paragraph and the case-law cited).
+Finally, it cannot be held that the fourth question referred by the Amtsgericht Hannover (Local Court, Hanover) is abstract, since there is a direct connection with the subject matter of the dispute in the main proceedings and it is not therefore hypothetical. Its purpose is to obtain from the Court, in the event of an affirmative answer to the first or the second question referred by that court, an interpretation of the rules enabling air carriers to exclude liability to pay compensation to passengers under Article 5(1)(c) and Article of Regulation No 261/2004.
+It is therefore necessary to reject TUIfly’s objections in respect of the inadmissibility of the first, third and fourth questions referred by the Amtsgericht Hannover (Local court, Hanover).
+Substance
+The first two questions in Cases C‑195/17, C‑197/to C‑203/17, C‑226/17, C‑228/17, C‑274/17, C‑275/17, C‑278/to C‑286/17, C‑290/and C‑291/and the questions in Case C‑292/in so far as they concern the classification of ‘extraordinary circumstances’
+By its first and second questions in Cases C‑195/17, C‑197/to C‑203/17, C‑226/17, C‑228/17, C‑274/17, C‑275/17, C‑278/to C‑286/17, C‑290/and C‑291/and the questions in Case C‑292/17, which it is appropriate to examine together, the referring court asks, in essence, whether Article 5(3) of Regulation No 261/2004, read in the light of recital thereof, must be interpreted as meaning that the spontaneous absence of a significant part of flight crew staff members (‘wildcat strike’), such as that at issue in the main proceedings, is covered by the concept of ‘extraordinary circumstances’ within the meaning of that provision.
+In that regard, it should be noted that the EU legislature has laid down the obligations of air carriers in the event of cancellation or long delay of flights (that is, a delay equal to or in excess of three hours) in Article 5(1) of Regulation No 261/(judgment of May 2017, Pešková and Peška, C‑315/15, EU:C:2017:342, paragraph and the case-law cited).
+By way of derogation from Article 5(1) of Regulation No 261/2004, recitals and and Article 5(3) of that regulation state that an air carrier is to be released from its obligation to pay passengers compensation under Article of Regulation No 261/if the carrier can prove that the cancellation or delay is caused by extraordinary circumstances which could not have been avoided even if all reasonable measures had been taken (judgment of May 2017, Pešková and Peška, C‑315/15, EU:C:2017:342, paragraph and the case-law cited).
+May be classified as ‘extraordinary circumstances’, within the meaning of Article 5(3) of Regulation No 261/2004, all events which, by their nature or origin, are not inherent in the normal exercise of the activity of the air carrier concerned and are beyond its actual control (judgment of May 2017, Pešková and Peška, C‑315/15, EU:C:2017:342, paragraph and the case-law cited).
+Recital of the regulation states that such circumstances may occur, in particular, in cases of strikes that affect the operation of an operating air carrier.
+In that regard, the Court has already had occasion to hold that the circumstances referred to in this recital are not necessarily and automatically grounds of exemption from the obligation to pay compensation provided for in Article 5(1)(c) of Regulation No 261/(see, to that effect, judgment of December 2008, Wallentin-Hermann, C‑549/07, EU:C:2008:771, paragraph 22) and that, consequently, it is necessary to assess, on a case by case basis, if it fulfils the two cumulative conditions recalled in paragraph of the present judgment.
+It is apparent from the case-law of the Court that any unexpected event need not necessarily be classified as an ‘extraordinary circumstance’, within the meaning of the term set out in the previous paragraph, but that such an event may be considered to be inherent in the normal carrying out of the activity of the air carrier concerned (see, to that effect, judgment of September 2015, van der Lans, C‑257/14, EU:C:2015:618, paragraph 42).
+Furthermore, given the objective of Regulation No 261/2004, which is to ensure, as is apparent from recital thereof, a high level of protection for passengers, and the fact that Article 5(3) of that regulation derogates from the principle of the right to compensation for passengers in the event of cancellation or substantial delay of a flight, the concept of ‘extraordinary circumstances’, within the meaning of that paragraph, must be strictly interpreted (see, to that effect, judgment of December 2008, Wallentin-Hermann, C‑549/07, EU:C:2008:771, paragraph 20).
+It is in light of those factors that it is appropriate to determine whether a ‘wildcat strike’, such as that at issue in the main proceedings, may be classified as an ‘extraordinary circumstance’ within the meaning of Article 5(3) of Regulation No 261/2004.
+In the present case, it is apparent from the file submitted to the Court that the ‘wildcat strike’ among the staff of the air carrier concerned has its origins in the carrier’s surprise announcement of a corporate restructuring process. That announcement led, for a period of approximately one week, to a particularly high rate of flight staff absenteeism as a result of a call relayed not by staff representatives of the undertaking, but spontaneously by the workers themselves who placed themselves on sick leave.
+Thus, it is not disputed that the ‘wildcat strike’ was triggered by the staff of TUIfly in order for it to set out its claims, in this case relating to the restructuring measures announced by the management of that air carrier.
+As correctly noted by the European Commission in its written observations, the restructuring and reorganisation of undertakings are part of the normal management of those entities.
+Thus, air carriers may, as a matter of course, when carrying out of their activity, face disagreements or conflicts with all or part of their members of staff.
+Therefore, under the conditions referred to in paragraphs and of this judgment, the risks arising from the social consequences that go with such measures must be regarded as inherent in the normal exercise of the activity of the air carrier concerned.
+Furthermore, the ‘wildcat strike’ at issue in the main proceedings cannot be regarded as beyond the actual control of the air carrier concerned.
+Apart from the fact that the ‘wildcat strike’ stems from a decision taken by the air carrier, it should be noted that, despite the high rate of absenteeism mentioned by the referring court, that ‘wildcat strike’ ceased following an agreement that it concluded with the staff representatives.
+Therefore, such a strike cannot be classified as an ‘extraordinary circumstance’ within the meaning of Article 5(3) of Regulation No 261/2004, releasing the operating air carrier from its obligation to pay compensation pursuant to Article 5(1)(c) and to Article 7(1) of that regulation.
+That finding is not called into question by the fact that the social movement should be regarded as a ‘wildcat strike’ within the meaning of the applicable German social legislation, as it was not officially initiated by a trade union.
+Making a distinction between strikes which, under applicable national law, are legal from those which are not in order to determine whether they should be classified as ‘extraordinary circumstances’ within the meaning of Article 5(3) of Regulation No 261/would make the right to compensation of passengers dependent on the social legislation specific to each Member State, thereby undermining the objectives of Regulation No 261/2004, referred to in recitals and 4, in order to ensure a high level of protection for passengers as well as equivalent conditions for the exercise of the activities of air carriers on the territory of the European Union.
+In the light of the foregoing, the answer to the first two questions in Cases C‑195/17, C‑197/to C‑203/17, C‑226/17, C‑228/17, C‑274/17, C‑275/17, C‑278/17, C‑286/to C‑290/and C‑291/and to the questions in Case C‑292/is that Article 5(3) of Regulation No 261/2004, read in the light of recital thereof, must be interpreted as meaning that the spontaneous absence of a significant part of the flight crew staff (‘wildcat strikes’), such as that at issue in the disputes in the main proceedings, which stems from the surprise announcement by an operating air carrier of a restructuring of the undertaking, following a call echoed not by the staff representatives of the company but spontaneously by the workers themselves who placed themselves on sick leave, is not covered by the concept of ‘extraordinary circumstances’ within the meaning of that provision.
+The third and fourth questions in Cases C‑195/17, C‑197/to C‑203/17, C‑226/17, C‑228/17, C‑274/17, C‑275/17, C‑278/to C‑286/17, C‑290/and C‑291/and the questions in Case C‑292/in so far as they concern the inferences to be drawn from the classification of the circumstances at issue in the main proceedings as ‘extraordinary circumstances’
+In view of the response given to the first and second questions in Cases C‑195/17, C‑197/to C‑203/17, C‑226/17, C‑228/17, C‑274/17, C‑275/17, C‑278/to C‑286/17, C‑290/and C‑291/17, there is no need to answer the third and fourth questions in those cases and the questions in Case C‑292/in that they concern the inferences to be drawn from the classification of the circumstances at issue in the main proceedings as ‘extraordinary circumstances’.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+Article 5(3) of Regulation (EC) No 261/of the European Parliament and of the Council of February establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation (EEC) No 295/91, read in the light of recital thereof, must be interpreted as meaning that the spontaneous absence of a significant part of the flight crew staff (‘wildcat strikes’), such as that at issue in the disputes in the main proceedings, which stems from the surprise announcement by an operating air carrier of a restructuring of the undertaking, following a call echoed not by the staff representatives of the company but spontaneously by the workers themselves who placed themselves on sick leave, is not covered by the concept of ‘extraordinary circumstances’ within the meaning of that provision.
+ 
+[Signatures]
+(
+*)	Language of the case: German.
+Top  

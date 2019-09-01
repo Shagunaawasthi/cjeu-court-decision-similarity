@@ -1,0 +1,345 @@
+
+ORDONNANCE DU VICE-PRÉSIDENT DE LA COUR
+avril (*)
+      
+«Référé – Pourvoi – Demande de sursis à exécution – Septième programme-cadre pour des actions de recherche, de développement technologique et de démonstration (2007-2013) – Contrats concernant les projets Oasis et Perform – Suspension des paiements – Irrégularités constatées dans le cadre d’audits relatifs à d’autres projets – Condamnation de la Commission européenne à procéder aux paiements – Insolvabilité manifeste du bénéficiaire – Fumus boni juris – Préjudice grave et irréparable – Urgence – Mise en balance des intérêts»
+Dans l’affaire C‑78/P-R,
+ayant pour objet une demande de sursis à exécution au titre de l’article TFUE, introduite le février 2014,
+Commission européenne, représentée par M. D. Triantafyllou et Mme B. Conte, en qualité d’agents, ayant élu domicile à Luxembourg,
+      
+partie requérante,
+l’autre partie à la procédure étant:
+ANKO AE Antiprosopeion, Emporiou kai Viomichanias, établie à Athènes (Grèce), représentée par Me V. Christianos, dikigoros,
+      
+partie défenderesse,
+LE VICE-PRÉSIDENT DE LA COUR,
+le premier avocat général, M. P. Cruz Villalón, entendu,
+rend la présente
+Ordonnance
+Par son pourvoi, déposé au greffe de la Cour le février 2014, la Commission européenne a demandé à la Cour d’annuler l’arrêt
+         du Tribunal de l’Union européenne ANKO/Commission (T‑117/12, EU:T:2013:643, ci-après l’«arrêt attaqué»).
+      
+Par requête déposée au greffe de la Cour le février 2014, la Commission a demandé à la Cour de surseoir à l’exécution de
+         l’arrêt attaqué jusqu’au prononcé de l’arrêt sur pourvoi. Par lettre déposée au greffe de la Cour le février 2014, la Commission
+         a également demandé qu’il soit fait droit provisoirement à cette demande avant même que l’autre partie à la procédure n’ait
+         présenté ses observations, jusqu’au prononcé de l’ordonnance mettant fin à la procédure en référé.
+      
+Par ordonnance du février 2014, le vice-président de la Cour a décidé, en vertu de l’article 160, paragraphe 7, du règlement
+         de procédure de la Cour, de surseoir à l’exécution de l’arrêt attaqué jusqu’au prononcé de l’ordonnance mettant fin à la procédure
+         de référé avant même que l’autre partie à la procédure n’ait présenté ses observations. Cette dernière, ANKO AE Antiprosopeion,
+         Emporiou kai Viomichanias (ci-après «ANKO»), a présenté ses observations écrites sur la demande en référé le mars 2014.
+      
+ Les antécédents du litige et l’arrêt attaqué
+ANKO est une société de droit grec, ayant pour objet la commercialisation et la production de produits métalliques ainsi que
+         de produits, de dispositifs et d’appareils électroniques et pour les télécommunications, qui, depuis l’année 2006, a participé
+         à l’exécution de plusieurs projets subventionnés par la Communauté européenne ou par l’Union européenne.
+      
+Il ressort du point de l’arrêt attaqué que, conformément au règlement (CE) n° 1906/du Parlement européen et du Conseil,
+         du décembre 2006, définissant les règles de participation des entreprises, des centres de recherche et des universités
+         pour la mise en œuvre du septième programme-cadre de la Communauté européenne et fixant les règles de diffusion des résultats
+         de la recherche (2007-2013) (JO L 391, p. 1), dans le cadre défini par la décision n° 1982/2006/CE du Parlement européen et
+         du Conseil, du décembre 2006, relative au septième programme-cadre de la Communauté européenne pour des actions de recherche,
+         de développement technologique et de démonstration (2007-2013) (JO L 412, p. 1), et, en particulier, du programme spécifique
+         «Coopération», la Commission, agissant pour le compte de la Communauté, a conclu, les décembre et janvier 2008,
+         avec Siemens SA et FIMI Srl, respectivement, en leur qualité de coordinateurs des deux consortiums distincts dont faisait
+         partie ANKO, la convention de subvention n° pour le financement du projet intitulé «Une architecture ouverte pour les
+         services accessibles, l’intégration et la normalisation» (ci-après le «projet Oasis») et la convention de subvention n° pour le financement du projet intitulé «Un système multiparamétrique complexe pour l’évaluation et le suivi effectifs et continus
+         de la capacité motrice dans les cas de la maladie de Parkinson et d’autres maladies neurodégénératives» (ci‑après le «projet
+         Perform»).
+      
+Il ressort du point de l’arrêt attaqué que les conditions générales communes à la convention de subvention n° pour
+         le financement du projet Oasis et à la convention de subvention n° pour le financement du projet Perform (ci-après,
+         prises ensemble, les «conventions de subvention») figurent à l’annexe II desdites conventions (ci-après l’«annexe II»). Le
+         Tribunal a également relevé, au point de l’arrêt attaqué, que, en vertu du point II.5, paragraphe 3, sous d), de l’annexe
+         II, après réception des rapports visés au point II.de ladite annexe, la Commission peut suspendre les paiements, à tout
+         moment, pour tout ou partie du montant destiné au bénéficiaire concerné:
+      
+–        si les travaux effectués ne sont pas conformes aux dispositions de la convention de subvention;
+–        si le bénéficiaire doit rembourser à l’État dont il est ressortissant une somme indûment perçue au titre de l’aide d’État;
+–        en cas de violation des dispositions de la convention de subvention, ou de suspicion ou de présomption de violation de ses
+         dispositions, à la suite notamment des contrôles et des audits prévus aux points II.et II.de l’annexe II;
+      
+–        en cas de suspicion d’irrégularité commise par un ou plusieurs bénéficiaires dans l’exécution de la convention de subvention
+         en cause, et
+      
+–        en cas de soupçon ou de constatation d’irrégularité commise par un ou plusieurs bénéficiaires dans l’exécution d’une autre
+         convention de subvention financée par le budget général de l’Union ou par des budgets gérés par elle. En pareil cas, les paiements
+         sont suspendus lorsque l’irrégularité présente un caractère grave et systématique, susceptible d’affecter l’exécution de la
+         convention de subvention en cause.
+      
+Estimant, en substance, qu’il existait des raisons valables de soupçonner une éventuelle violation des conventions de subvention
+         et, en particulier, du point II.5, paragraphe 3, sous d), de l’annexe II, en raison de l’existence d’irrégularités commises
+         par ANKO, la Commission a, par deux lettres du août 2011, suspendu le versement à cette société des paiements prévus par
+         ces mêmes conventions, à titre de mesure préventive.
+      
+Par requête déposée au greffe du Tribunal sur le fondement de l’article TFUE et des clauses compromissoires contenues
+         dans les conventions de subvention en cause, ANKO a demandé au Tribunal:
+      
+–        de constater que la suspension des paiements imposée par la Commission au titre des projets Oasis et Perform constituait une
+         violation de ses obligations contractuelles;
+      
+–        d’«ordonner» à la Commission de lui verser la somme de 117,euros au titre du projet Perform, majorée des intérêts prévus
+         par le point II.5, paragraphe 5, de l’annexe II, à compter de la signification de ce recours;
+      
+–        d’«ordonner» à la Commission de constater qu’ANKO n’était pas tenue de rembourser à cette institution la somme de euros
+         qui lui avait été versée au titre du projet Oasis, et
+      
+–        de condamner la Commission aux dépens.
+Au point de l’arrêt attaqué, le Tribunal a accueilli le moyen formulé par ANKO à l’appui de son premier chef de conclusions,
+         aux termes duquel la Commission aurait suspendu les paiements correspondant aux projets Oasis et Perform en l’absence de base
+         juridique et en violation des conventions de subvention relatives à ces projets. Il a également accueilli le deuxième chef
+         de conclusions, au point dudit arrêt, «en ce qu’il vise à condamner la Commission à procéder au versement des sommes qui
+         ont été suspendues au titre du projet Perform, sans que ce versement préjuge du caractère éligible des dépenses déclarées
+         par [ANKO]». En revanche, il a rejeté le troisième chef de conclusions au point de l’arrêt attaqué.
+      
+Les points et du dispositif de l’arrêt attaqué sont libellés comme suit:
+      
+«1)      La Commission [...] est condamnée à verser à ANKO [...] les sommes dont le paiement a été suspendu sur le fondement du point
+         II.5, paragraphe 3, sous d), [de l’annexe II], sans que ce versement préjuge du caractère éligible des dépenses déclarées
+         par ANKO [...] et de la mise en œuvre des conclusions du rapport final d’audit 11-INFS-par la Commission. Le montant
+         des sommes à verser doit être compris dans les limites du solde de la contribution financière disponible au moment de la suspension
+         des paiements et lesdites sommes doivent être majorées des intérêts de retard qui commencent à courir, pour chaque période,
+         à l’expiration du délai de paiement de jours suivant la réception des rapports correspondants par la Commission. Le taux
+         de majoration applicable aux intérêts est celui en vigueur le premier jour du mois du délai de paiement, tel que publié au
+         Journal officiel de l’Union européenne, série C.
+      
+2)      Le recours est rejeté pour le surplus.»
+ Les conclusions des parties
+La Commission demande à la Cour:
+      
+–        de surseoir à l’exécution de l’arrêt attaqué et
+–        de condamner ANKO aux dépens.
+ANKO demande à la Cour:
+      
+–        de rejeter la demande de sursis à exécution et
+–        de condamner la Commission aux dépens.
+ Sur la demande en référé
+Il y a lieu de rappeler que, selon l’article 60, premier alinéa, du statut de la Cour de justice de l’Union européenne, un
+         pourvoi contre un arrêt du Tribunal n’a pas, en principe, d’effet suspensif. Toutefois, en application de l’article TFUE,
+         la Cour peut, si elle estime que les circonstances l’exigent, ordonner le sursis à l’exécution de l’arrêt attaqué (ordonnance
+         du président de la Cour, Front national et Martinez/Parlement, C‑486/P‑R et C‑488/P‑R, EU:C:2002:116, point 71).
+      
+L’article 160, paragraphe 3, du règlement de procédure dispose que les demandes en référé doivent spécifier «l’objet du litige,
+         les circonstances établissant l’urgence, ainsi que les moyens de fait et de droit justifiant à première vue l’octroi de la
+         mesure provisoire à laquelle elles concluent». Ainsi, le sursis à exécution et les autres mesures provisoires peuvent être
+         accordés par le juge des référés s’il est établi que leur octroi est justifié à première vue en fait et en droit (fumus boni
+         juris) et qu’ils sont urgents, en ce sens qu’il est nécessaire, pour éviter un préjudice grave et irréparable aux intérêts
+         de la partie qui les sollicite, qu’ils soient édictés et produisent leurs effets avant la décision au principal. Ces conditions
+         sont cumulatives, de sorte que les demandes de mesures provisoires doivent être rejetées dès lors que l’une d’elles fait défaut.
+         Le juge des référés procède également, le cas échéant, à la mise en balance des intérêts en présence (ordonnance du président
+         de la Cour Technische Glaswerke Ilmenau/Commission, C‑404/P‑R, EU:C:2005:267, points et ainsi que jurisprudence citée).
+      
+S’agissant de la condition relative à l’existence d’un fumus boni juris, il y a lieu de rappeler qu’il est satisfait à celle-ci
+         dès lors qu’il existe, au stade de la procédure de référé, une controverse juridique importante dont la solution ne s’impose
+         pas d’emblée, de sorte que, à première vue, le pourvoi n’est pas dépourvu de fondement sérieux (voir, en ce sens, ordonnances
+         du président de la Cour Publishers Association/Commission, 56/R, EU:C:1989:238, point 31, ainsi que Commission/Artegodan
+         e.a., C‑39/P‑R, EU:C:2003:269, point 40). En effet, la finalité de la procédure de référé étant de garantir la pleine efficacité
+         de la décision définitive à intervenir, afin d’éviter une lacune dans la protection juridique assurée par la Cour, le juge
+         des référés doit se borner à apprécier «à première vue» le bien-fondé des moyens invoqués dans le cadre du litige au fond
+         afin d’établir s’il existe une probabilité de succès du recours suffisamment grande [ordonnance du vice-président de la Cour
+         Commission/Allemagne, C‑426/P(R), EU:C:2013:848, point 41].
+      
+En l’espèce, la Commission avance un moyen unique de pourvoi qui s’articule en cinq branches tirées, en substance, de violations
+         des conditions contractuelles applicables aux conventions de subvention, et notamment du point II.5, paragraphe 3, sous d),
+         de l’annexe II. Plus particulièrement, la première branche de ce moyen est tirée d’une erreur commise par le Tribunal dans
+         le cadre de son interprétation de cette clause contractuelle et de son application aux fins d’apprécier la nature «grave et
+         systématique» des irrégularités en cause en tant que motif de suspension des paiements prévus par les conventions de subvention,
+         la deuxième d’une appréciation erronée quant à l’existence d’un risque de répétition desdites irrégularités, la troisième
+         du caractère erroné des déductions effectuées par le Tribunal sur la base de certaines corrections ad hoc et de restitutions
+         de sommes réalisées par ANKO, la quatrième d’une interprétation erronée, par le Tribunal, de l’annexe II en ce qui concerne
+         la possibilité, pour les bénéficiaires de la subvention, d’utiliser une méthode de calcul des dépenses reposant sur les coûts
+         moyens et d’une application de cette possibilité à des dépenses fictives plutôt que réelles, ainsi que d’une dénaturation
+         des preuves à cet égard, et, enfin, la cinquième d’une confusion opérée par le Tribunal entre les conditions de suspension
+         des paiements et les conditions d’éligibilité des dépenses déclarées.
+      
+À cet égard, il convient d’observer que ces différentes branches du moyen de pourvoi unique soulèvent des questions complexes
+         dont la solution ne s’impose pas d’emblée. En effet, l’examen par le Tribunal du litige faisant l’objet du pourvoi introduit
+         par la Commission a nécessité l’appréciation, par le Tribunal, d’un ensemble d’éléments composé de points de droit, ainsi
+         que de la qualification juridique, de l’appréciation et de la constatation des faits, toutes ces questions étant étroitement
+         liées les unes aux autres. Par conséquent, l’appréciation de la recevabilité et du bien-fondé des griefs avancés dans le cadre
+         de ce pourvoi nécessite un examen approfondi, de sorte que ledit pourvoi doit être considéré, au stade de la présente procédure
+         de référé, comme n’étant pas dépourvu de toute perspective de prospérer au fond. 
+      
+Plus particulièrement, il convient de relever que par la quatrième branche du moyen à l’appui de son pourvoi, la Commission
+         soutient que, en admettant la validité de certains coûts de personnel déclarés par ANKO, par référence aux clauses contractuelles
+         et, en particulier, au point II.14, paragraphe 1, deuxième alinéa, de l’annexe II qui autorise une prise en compte des coûts
+         moyens de personnel du prestataire sous certaines conditions, le Tribunal a méconnu, aux points à de l’arrêt attaqué,
+         la portée de ces clauses contractuelles, en ce que si celles-ci permettent le recours à une méthode de calcul des dépenses
+         fondée sur une moyenne, c’est uniquement dans la mesure où le calcul de cette moyenne s’opère sur la base de coûts de personnel
+         réels et non pas fictifs. L’utilisation d’une «moyenne» en application des clauses en question ne saurait valider de tels
+         coûts fictifs, dès lors que cette moyenne doit être établie sur la base de coûts réels. En tout état de cause, ANKO aurait
+         en réalité produit devant le Tribunal des éléments de preuve fondés sur des coûts non pas «moyens», mais spécifiques et individualisés.
+         Par conséquent, l’arrêt attaqué serait, d’une part, entaché d’une erreur de droit quant à l’interprétation des clauses contractuelles
+         en cause et, d’autre part, d’une dénaturation, par le Tribunal, des éléments de preuve soumis par ANKO.
+      
+ANKO conteste le fait que les arguments développés par la Commission dans le cadre de la quatrième branche du moyen à l’appui
+         de son pourvoi révèlent l’existence d’un fumus boni juris. Selon elle, cette argumentation est manifestement non fondée en
+         ce qui concerne la dénaturation des preuves alléguée et irrecevable pour le surplus, dans la mesure où la Commission chercherait,
+         en réalité, à remettre en cause les appréciations de fait effectuées par le Tribunal.
+      
+Il y a lieu de constater que l’examen de cette quatrième branche du moyen soulevé par la Commission à l’appui de son pourvoi
+         met en exergue une controverse importante entre elle-même et le Tribunal quant au mode de calcul des coûts en question par
+         ANKO et, partant, à leur qualification au regard des dispositions des conventions de subvention et est susceptible de nécessiter
+         une analyse détaillée tant des clauses contractuelles sur la base desquelles le Tribunal a validé le mode de calcul retenu
+         par ANKO que des éléments de preuve qu’elle a produits dans ce contexte devant le Tribunal et que ce dernier aurait prétendument
+         dénaturés. Eu égard au caractère technique de la controverse susmentionnée, il convient de constater que le moyen de pourvoi,
+         en cette branche, soulève effectivement, au stade de la procédure en référé, des questions juridiques importantes dont la
+         solution ne s’impose pas d’emblée, notamment en ce qui concerne la prétendue dénaturation des éléments de preuve alléguée,
+         de sorte que, à première vue, le pourvoi n’est pas dépourvu de fondement sérieux, au sens de la jurisprudence citée au point
+         de la présente ordonnance.
+      
+Par ailleurs, à supposer que la quatrième branche de ce moyen soit jugée fondée dans l’arrêt à intervenir au fond, elle serait
+         susceptible de remettre en cause la conclusion retenue par le Tribunal, aux points et de l’arrêt attaqué, selon laquelle
+         les conditions requises pour l’application du point II.5, paragraphe 3, sous d), de l’annexe II n’étaient pas remplies et
+         que, par conséquent, la Commission a violé les conventions de subvention en procédant à la suspension des paiements sur ce
+         fondement, de même que la conclusion retenue aux points et de l’arrêt attaqué sur la base desdits points et 79, selon
+         laquelle les sommes dont le paiement avait été suspendu par la Commission devaient être versées à ANKO, majorées d’intérêts
+         moratoires. Le fumus boni juris constaté en ce qui concerne la quatrième branche du moyen est donc pertinent en l’espèce aux
+         fins de l’octroi du sursis à l’exécution sollicité par la Commission.
+      
+Eu égard à l’ensemble de ce qui précède, il y a lieu de conclure que la condition relative au fumus boni juris est établie
+         en l’espèce.
+      
+En ce qui concerne la condition relative à l’urgence, il appartient à la partie qui sollicite l’adoption de mesures provisoires
+         d’apporter la preuve qu’elle ne saurait attendre l’issue de la procédure relative au recours au fond sans subir un préjudice
+         grave et irréparable [voir, en ce sens, ordonnances du président de la Cour Matra/Commission, C‑225/R, EU:C:1991:460, point
+         19, ainsi que SCK et FNK/Commission, C‑268/P(R), EU:C:1996:point 30]. Pour établir l’existence d’un tel préjudice grave
+         et irréparable, il n’est pas nécessaire d’exiger que la survenance du préjudice soit établie avec une certitude absolue mais
+         que celui-ci soit prévisible avec un degré de probabilité suffisant [ordonnance du vice-président de la Cour EMA/InterMune
+         UK e.a., C‑390/P(R), EU:C:2013:795, point et jurisprudence citée].
+      
+La Commission s’appuie, à cet égard, sur le préjudice financier qu’elle subirait en cas d’exécution de l’arrêt attaqué. Pour
+         établir le caractère irréparable de celui-ci, elle s’appuie sur le fait que cet arrêt est exécutoire, conformément à l’article
+         TFUE, ainsi que sur le fait que ledit arrêt la condamne à verser à ANKO les «sommes dont le paiement a été suspendu sur
+         le fondement du point II.5, paragraphe 3, sous d), [de l’annexe II]», majorées d’intérêts moratoires. Elle soutient qu’elle
+         risque, partant, de se trouver à tout moment confrontée à des mesures d’exécution forcée de cette condamnation. Par ailleurs,
+         la Commission affirme que selon, notamment, les informations qu’ANKO lui a elle-même communiquées, cette société se trouve
+         «au bord de la faillite» et fait l’objet de procédures d’insolvabilité en Grèce, dont il ressortirait qu’elle n’a pas d’actifs
+         de nature à désintéresser ses créanciers.
+      
+ANKO conteste ces arguments. Les allégations de la Commission concernant son état financier seraient «totalement dépourvues
+         de fondement» et se baseraient sur des éléments de preuve caducs, inexacts et inopérants. ANKO avance d’autres éléments de
+         preuve à l’appui de sa propre thèse selon laquelle elle est parfaitement solvable et poursuit normalement ses activités commerciales.
+         Par ailleurs, l’article 1er du protocole sur les privilèges et immunités de l’Union européenne, annexé aux traités UE, FUE et CEEA, écarterait le risque
+         d’une exécution forcée à charge de la Commission sans qu’une autorisation de saisie des biens et des avoirs de l’Union n’ait
+         été délivrée par la Cour.
+      
+À cet égard, il résulte de la jurisprudence de la Cour que lorsque le préjudice invoqué est d’ordre financier, les mesures
+         provisoires sollicitées se justifient, en principe, s’il apparaît que, en l’absence de ces mesures, la partie requérante se
+         trouverait dans une situation susceptible de mettre en péril sa viabilité financière avant l’intervention de la décision mettant
+         fin à la procédure au fond ou que ses parts de marché seraient modifiées de manière importante [voir, en ce sens, ordonnances
+         du président de la Cour Camar/Commission et Conseil, C‑43/P(R), EU:C:1998:166, point 36, ainsi que du vice-président de
+         la Cour EDF/Commission, C‑551/P(R), EU:C:2013:157, point 54]. Or, le préjudice financier invoqué par la Commission en l’espèce
+         ne correspond à aucun de ces deux cas de figure.
+      
+Toutefois, il convient de constater que le préjudice financier qui serait subi par la Commission en cas d’exécution de l’arrêt
+         attaqué, bien que différent de celui décrit dans les ordonnances citées au point précédent, n’en serait pas moins irréparable
+         compte tenu des circonstances particulières de la présente affaire, à supposer qu’ANKO se trouve réellement dans une situation
+         financière proche de la faillite. En effet, dans ce cas, le versement à ANKO des sommes visées au dispositif de l’arrêt attaqué
+         risquerait d’entraîner la perte irréversible de celles-ci pour le budget de l’Union.
+      
+Or, nonobstant les réfutations d’ANKO à ce sujet, les éléments de preuve apportés par la Commission en ce qui concerne la
+         situation financière de cette société étayent sa thèse. À cet égard, la Commission relève, sans être contredite par ANKO,
+         qu’une procédure de conciliation avec les créanciers de cette société a été ouverte à la demande de celle-ci et que dans le
+         cadre de cette procédure, le Protodikeio Athinon (tribunal de première instance d’Athènes) a jugé que la situation financière
+         d’ANKO était à ce point obérée que son patrimoine était insuffisant pour couvrir les frais de procédure liés à une déclaration
+         de faillite. 
+      
+La Commission, sans être critiquée sur ce point par ANKO, fait en effet référence à la législation grecque en matière de faillite,
+         et plus particulièrement à l’article 6, paragraphe 2, de la loi 3588/2007, en vertu duquel le juge des faillites rejette une
+         demande qui lui est déférée s’il est démontré que, quoique les conditions d’une déclaration de faillite soient réunies, le
+         patrimoine du débiteur ne suffira pas à couvrir les frais de la procédure. En cas de rejet pour cette raison, le juge des
+         faillites ordonne l’enregistrement du nom ou de la dénomination, selon le cas, du débiteur au registre général du commerce
+         ainsi qu’aux registres des faillites aux fins de donner une publicité officielle à l’état financier du débiteur, cet enregistrement
+         étant radié après un délai de trois ans. Or, le certificat émis le janvier par le greffe du Protodikeio Athinon, annexé
+         à la demande de sursis à exécution, atteste que même si la procédure ouverte à la demande d’ANKO n’a pas abouti et que cette
+         dernière n’a pas été déclarée en faillite, une mention concernant cette société a néanmoins été inscrite sur le registre général
+         du commerce ainsi que sur les registres des faillites, au titre des articles 6, paragraphe 2, et 8, paragraphe 3, de la loi
+         3588/2007.
+      
+Il ressort par conséquent de manière univoque de ce certificat, valable jusqu’au janvier 2017, lu en combinaison avec l’article
+         6, paragraphe 2, de la loi 3588/2007, d’une part, qu’ANKO se trouve dans une situation financière manifestement proche de
+         la faillite, le juge des faillites ayant considéré que son patrimoine ne suffisait pas à couvrir fût-ce les frais de la procédure,
+         et d’autre part, corolairement, que l’argument de cette société selon lequel le certificat établi par le greffe du Protodikeio
+         Athinon ne fait que confirmer qu’elle n’a pas été déclarée en faillite ne saurait prospérer. D’ailleurs, il ressort de ce
+         certificat que l’inscription d’ANKO sur les registres en cause demeure d’actualité.
+      
+Par ailleurs, les éléments de preuve apportés par ANKO, attestant qu’elle n’accuse aucun défaut de paiement tant en matière
+         de cotisations de sécurité sociale que d’impôts et continue de signer certains accords commerciaux, ne suffisent pas à infirmer
+         la conclusion qui découle du certificat du greffe du Protodikeio Athinon, produit par la Commission.
+      
+En ce qui concerne l’argument d’ANKO fondé sur l’absence de risque immédiat d’une exécution forcée, compte tenu des termes
+         de l’article 1er du protocole sur les privilèges et immunités de l’Union européenne, l’existence de l’arrêt attaqué suffit, toutefois, pour
+         établir que la Commission ne saurait attendre l’issue de la procédure relative au recours au fond sans subir un préjudice
+         irréparable et que la survenance du préjudice invoqué est prévisible avec un degré de probabilité suffisant, au sens de la
+         jurisprudence citée au point de la présente ordonnance. En effet, de la même manière que l’adoption par un État membre
+         de mesures juridiquement contraignantes suffit pour rendre le risque du préjudice susceptible de découler de la récupération
+         d’une aide étatique prévisible avec un degré de probabilité suffisant pour satisfaire à la condition relative à l’urgence
+         [voir, en ce sens, ordonnance du vice-président de la Cour France/Commission, C‑574/P(R), EU:C:2014:36, points à 26],
+         le caractère exécutoire de l’arrêt attaqué emporte la même conséquence dans le cadre de la présente procédure.
+      
+Quant au caractère grave du préjudice invoqué par la Commission, il ressort de la demande en référé, lue dans son ensemble,
+         et notamment des points et de celle-ci, que ce préjudice, consiste dans le fait, pour cette institution, de devoir verser
+         à ANKO, conformément au point du dispositif de l’arrêt attaqué, les «sommes dont le paiement a été suspendu sur le fondement
+         du point II.5, paragraphe 3, sous d), [de l’annexe II]», majorées d’intérêts moratoires. Même si le point de ce dispositif
+         ne précise pas le montant exact devant être versé à ANKO par la Commission, le Tribunal a accueilli, en substance, le deuxième
+         chef de conclusions formulé par cette société, visant au versement de la somme de 117,euros, majorée d’intérêts moratoires,
+         ainsi que le relève la Commission dans sa demande en référé.
+      
+Il y a lieu de considérer que le fait pour la Commission et, partant, pour les finances publiques de l’Union de subir la perte
+         d’une somme d’argent de cet ordre, d’un montant objectivement non négligeable, doit être regardé comme constituant un préjudice
+         grave aux fins de la présente procédure de référé.
+      
+Il convient, par conséquent, de constater que la condition relative à l’urgence est également remplie.
+      
+Enfin, quant à la mise en balance des intérêts en présence, ANKO soutient que la Commission lui a causé un préjudice irréparable
+         en la privant de liquidités précieuses au cours d’une période cruciale pour sa viabilité alors qu’elle exécute avec succès
+         des contrats pour le compte de cette institution depuis plusieurs années. Elle insiste également sur le fait que la somme
+         d’argent qui lui est due est négligeable par rapport au budget pertinent de la Commission mais présente une importance beaucoup
+         plus grande pour son entreprise. En effet, la somme de 117,euros ne représenterait que 0,% du budget affecté par
+         la Commission aux seuls projets de développement technologique réalisés dans le cadre du septième programme-cadre pour des
+         actions de recherche, de développement technologique et de démonstration, lequel s’élèverait à 9,milliards d’euros pour
+         les années à 2013. En revanche, une telle somme représenterait 0,% du chiffre d’affaires d’ANKO pour les années à 2012, qui était de 051,euros.
+      
+À cet égard, le fait pour ANKO d’être privée de la possibilité d’obtenir l’exécution immédiate de l’arrêt attaqué, et donc
+         de percevoir sans délai les sommes en cause, n’est pas susceptible de la priver définitivement, ni même de priver ses créanciers,
+         le cas échéant, du bénéfice de ses droits dans l’hypothèse où le pourvoi serait rejeté ultérieurement. En outre, il découle
+         du dispositif de l’arrêt attaqué que des intérêts moratoires sont dus sur le montant en principal, de sorte que le versement
+         de ces intérêts est réputé compenser, le cas échéant, le préjudice lié à un retard dans l’exécution de cet arrêt.
+      
+En revanche, ainsi que cela a été constaté au point de la présente ordonnance, une exécution immédiate de l’arrêt attaqué,
+         avant même que l’arrêt mettant fin à la procédure sur pourvoi ne soit rendu, serait susceptible de porter préjudice de manière
+         irréparable aux intérêts financiers de l’Union défendus par la Commission. Le sursis à l’exécution sollicité est donc nécessaire
+         pour assurer l’effet utile de ce dernier arrêt s’il venait à annuler l’arrêt attaqué.
+      
+Cette conclusion n’est pas infirmée par l’argumentation avancée par ANKO, fondée sur une comparaison entre ses propres ressources
+         et celles mobilisées par la Commission dans le contexte du septième programme-cadre pour des actions de recherche, de développement
+         technologique et de démonstration. En effet, vu l’absence de risque qu’ANKO soit définitivement privée des montants en cause
+         en l’espèce, ce que cette dernière ne conteste pas, tandis que la Commission encourt, quant à elle, un risque non négligeable,
+         compte tenu de la situation financière de cette société, de n’être définitivement plus être en mesure de récupérer ces mêmes
+         montants dans l’hypothèse où la Cour annulerait l’arrêt attaqué, cette argumentation d’ANKO n’est pas de nature à faire pencher
+         la balance des intérêts en sa faveur.
+      
+Enfin, dans la mesure où ANKO affirme qu’elle risque de subir un préjudice irréparable en l’absence d’exécution immédiate
+         de l’arrêt attaqué dès lors qu’elle serait privée de liquidités précieuses au cours d’une période cruciale pour sa viabilité,
+         il ressort, certes, de l’examen de la condition relative à l’urgence, effectué aux points à de la présente ordonnance,
+         qu’ANKO est dans une situation proche de la faillite, de sorte que cette affirmation bénéficie d’une certaine crédibilité.
+         Toutefois, il ne saurait en être déduit que l’intérêt d’ANKO à l’exécution immédiate de l’arrêt attaqué, qui devrait lui permettre
+         de percevoir une somme ne représentant, selon ses propres affirmations, qu’environ % de son chiffre d’affaires réalisé pendant
+         la période en cause, devrait prévaloir sur l’intérêt lié à la protection des finances de l’Union défendu par la Commission.
+         En effet, précisément en raison de la situation financière obérée d’ANKO, telle que constatée dans la présente ordonnance,
+         l’intérêt de l’Union à ce que de l’argent public ne soit pas versé à une société qui présente un risque important d’être dans
+         l’incapacité de le rembourser avec intérêts moratoires, dans l’hypothèse où l’arrêt mettant fin à la procédure sur pourvoi,
+         voire un éventuel arrêt ultérieur du Tribunal, l’y contraindrait, doit l’emporter.
+      
+Dans ces conditions, il convient, dans l’intérêt d’une bonne administration de la justice, de surseoir à l’exécution de l’arrêt
+         attaqué jusqu’au prononcé de l’arrêt mettant fin à la procédure sur pourvoi.
+      
+Par ces motifs, le vice-président de la Cour ordonne:
+1)      Il est sursis à l’exécution de l’arrêt du Tribunal de l’Union européenne ANKO/Commission (T‑117/12) jusqu’au prononcé de l’arrêt
+            mettant fin à la procédure sur pourvoi dans l’affaire C-78/P.
+2)      Les dépens sont réservés.
+Signatures
+* Langue de procédure: le grec.
+      
+Top  

@@ -1,0 +1,86 @@
+
+JUDGMENT OF THE COURT (Third Chamber)
+July (
+*)
+(Reference for a preliminary ruling — Cooperation in civil and commercial matters — Regulation (EC) No 44/— Jurisdiction — Second indent of Article 5(1)(b) — Jurisdiction of the courts for the place of performance of the obligation — Place of provision of services — Contract for the carriage of goods between two Member States — Route consisting of several stages and involving a number of means of transport)
+In Case C‑88/17,
+REQUEST for a preliminary ruling under Article TFEU from the Korkein oikeus (Supreme Court, Finland), made by decision of February 2017, received at the Court on February 2017, in the proceedings
+Zurich Insurance plc,
+Metso Minerals Oy
+v
+Abnormal Load Services (International) Ltd,
+THE COURT (Third Chamber),
+composed of L. Bay Larsen, President of the Chamber, J. Malenovský, M. Safjan (Rapporteur), D. Šváby and M. Vilaras, Judges,
+Advocate General: E. Tanchev,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of:
+–
+Abnormal Load Services (International) Ltd, by M. Komonen, asianajaja,
+–
+the Finnish Government, by J. Heliskoski, acting as Agent,
+–
+the Portuguese Government, by L. Inez Fernandes, M. Figueiredo and P. Lacerda, acting as Agents,
+–
+the Swiss Government, by M. Schöll, acting as Agent,
+–
+the European Commission, by P. Aalto and M. Heller, acting as Agents,
+after hearing the Opinion of the Advocate General at the sitting on April 2018,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of the second indent of Article 5(1)(b) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 12, p. 1).
+The request has been made in proceedings brought by Zurich Insurance plc, an insurance company established in Ireland (‘Zurich’), and Metso Minerals Oy, a company incorporated under Finnish law (‘Metso’), against Abnormal Load Services (International) Ltd, a company established in the United Kingdom (‘ALS’), concerning the payment of damages for loss of cargo during its transport by ALS.
+Legal context
+Recitals and of Regulation No 44/state:
+‘(11)
+The rules of jurisdiction must be highly predictable and founded on the principle that jurisdiction is generally based on the defendant’s domicile and jurisdiction must always be available on this ground save in a few well-defined situations in which the subject matter of the litigation or the autonomy of the parties warrants a different linking factor. The domicile of a legal person must be defined autonomously so as to make the common rules more transparent and avoid conflicts of jurisdiction.
+(12)
+In addition to the defendant’s domicile, there should be alternative grounds of jurisdiction based on a close link between the court and the action or in order to facilitate the sound administration of justice.’
+Article 5(1) of that regulation, which is included in Section of Chapter II thereof, entitled ‘Special jurisdiction’, provides:
+‘A person domiciled in a Member State may, in another Member State, be sued:
+1.
+(a)
+in matters relating to a contract, in the courts for the place of performance of the obligation in question;
+(b)
+for the purpose of this provision and unless otherwise agreed, the place of performance of the obligation in question shall be:
+–
+in the case of the sale of goods, the place in a Member State where, under the contract, the goods were delivered or should have been delivered,
+–
+in the case of the provision of services, the place in a Member State where, under the contract, the services were provided or should have been provided,
+(c)
+if subparagraph (b) does not apply then subparagraph (a) applies.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+Metso as consignor and ALS as haulier concluded a contract for the carriage of a cylindroconical crusher (‘the crusher’) from Pori (Finland) to Sheffield (United Kingdom).
+The crusher was first transported on the chassis of a lorry from Pori to Rauma (Finland), where it was unloaded from the lorry and driven onto a ship under its own power. After being transported by sea to the port of Hull (United Kingdom), the crusher was driven off the ship, again under its own power, and then loaded onto another lorry. Finally, the crusher was dispatched from Hull by road, but it disappeared before being delivered to the consignee in Sheffield.
+Zurich reimbursed Metso the value of the crusher, less the excess provided for by the insurance contract.
+By their action brought before the Satakunnan käräjäoikeus (District Court, Satakunta, Finland) Zurich and Metso requested that ALS be ordered to pay them as damages a sum equivalent to the value of the crusher. ALS contended that the action was inadmissible because the court lacked jurisdiction.
+By order of April 2012, the Satakunnan käräjäoikeus (District Court, Satakunta) declared that it had jurisdiction to hear the dispute.
+By judgment of March 2013, that court ordered ALS to pay Zurich and Metso the sum claimed in the action.
+ALS brought an appeal against that judgment before the Vaasan hovioikeus (Court of Appeal, Vaasa, Finland). By judgment of March 2015, that court held that the Finnish courts lacked jurisdiction, under Article 5(1) of Regulation No 44/2001, to hear and determine the dispute and dismissed the action as inadmissible.
+Zurich and Metso appealed against the judgment of the Vaasan hovioikeus (Court of Appeal, Vaasa) to the Korkein oikeus (Supreme Court, Finland). That court considers that, in the present instance, in which the place of dispatch and the place of delivery of the crusher that are provided for in the contract for the carriage of goods are in two different Member States, it is necessary to examine whether the second indent of Article 5(1)(b) of Regulation No 44/must be interpreted as meaning that there is only one place where the transport services are provided, namely the place where the transport ends and the goods are delivered to the consignee, or whether the contract for carriage in question has the same characteristics as the contract which gave rise to the judgment of July 2009, Rehder (Case C‑204/08, EU:C:2009:439), with the consequence that the applicant would have the opportunity of choosing between at least two different courts.
+In those circumstances, the Korkein oikeus (Supreme Court) decided to stay proceedings and to refer the following question to the Court for a preliminary ruling:
+‘How are the place or places where the service is provided to be determined in accordance with the second indent of Article 5(1)(b) of Council Regulation (EC) No 44/in a case involving a contract for the carriage of goods between Member States in which the goods are conveyed in several stages and by different means of transport?’
+Consideration of the question referred
+By its question, the referring court seeks to ascertain, in essence, whether the second indent of Article 5(1)(b) of Regulation No 44/must be interpreted as meaning that, in the context of a contract for the carriage of goods between Member States in several stages and by a number of means of transport, such as that at issue in the main proceedings, both the place of dispatch and the place of delivery of the goods constitute places where transport services are provided, for the purposes of that indent.
+The rule of special jurisdiction in matters relating to the provision of services, laid down in the second indent of Article 5(1)(b) of Regulation No 44/2001, confers jurisdiction on the courts for ‘the place in a Member State where, under the contract, the services were provided or should have been provided’.
+As regards the determination of ‘the place in a Member State where, under the contract, the services were provided or should have been provided’, the Court has held that, where there are several places at which services are provided in different Member States, the place of performance must, in principle, be understood as the place with the closest linking factor between the contract and the court having jurisdiction, which, as a general rule, will be at the place of the main provision of services (see, to that effect, judgment of March 2010, Wood Floor Solutions Andreas Domberger, C‑19/09, EU:C:2010:137, paragraph 33).
+In respect of that provision, in relation to a direct flight operated by the party with whom the passenger concerned has entered into a contract, the Court has concluded, after carrying out an analysis of the services the provision of which corresponds to the performance of the obligations arising from a contract to transport passengers by air, that the only places which have a direct link to those services, provided in performance of obligations linked to the subject matter of the contract, are those of the departure and arrival of the aircraft (see, to that effect, judgment of July 2009, Rehder, C‑204/08, EU:C:2009:439, paragraphs and 41).
+The Court has inferred from this that the place of arrival and the place of departure of the aircraft must be regarded alike as the places of the main provision of the services which are the subject of that air transport contract, justifying the fact that jurisdiction to deal with a claim for compensation founded on that transport contract lies, at the applicant’s choice, with the court which has territorial jurisdiction over the place of departure or the place of arrival of the aircraft, as those places are agreed in that contract (see, to that effect, judgment of July 2009, Rehder, C‑204/08, EU:C:2009:439, paragraphs and 47).
+In the present case, it is necessary to examine whether, in the context of a contract for the carriage of goods, such as that at issue in the main proceedings, not only the place of delivery of the goods, but also the place of dispatch of the goods, is to be regarded as the place where the services are provided, for the purposes of the second indent of Article 5(1)(b) of Regulation No 44/2001, ensuring a close link between the contract for carriage and the court having jurisdiction.
+In that regard, as observed by the Advocate General in points to of his Opinion, it must be held that, in the context of a contract for carriage of goods, their place of dispatch is closely connected with the main part of the services resulting from that contract.
+When goods are carried, it is at the place of dispatch that the carrier has to perform a significant part of the agreed services, namely to receive the goods, to load them adequately and, generally, to protect them so that they are not damaged.
+The incorrect performance of the contractual obligations related to the place of dispatch of goods, such as, inter alia, the obligation to load goods adequately, may lead to incorrect performance of the contractual obligations at the place of destination of the carriage.
+It follows that not only the place of delivery, but also the place of dispatch of the goods, is to be regarded as a place where the services are provided, for the purposes of the second indent of Article 5(1)(b) of Regulation No 44/2001, ensuring a close link between the contract for carriage and the court having jurisdiction.
+That solution complies with the requirement of predictability, since it enables both the applicant and the defendant to identify the courts of the places, specified in the contract for carriage, of dispatch and delivery of the goods as the courts before which proceedings may be brought (see, to that effect, judgment of September 2014, Nickel & Goeldner Spedition, C‑157/13, EU:C:2014:2145, paragraph 41).
+In the light of the foregoing considerations, the second indent of Article 5(1)(b) of Regulation No 44/must be interpreted as meaning that, in the context of a contract for the carriage of goods between Member States in several stages, with stops, and by a number of means of transport, such as that at issue in the main proceedings, both the place of dispatch and the place of delivery of the goods constitute places where transport services are provided, for the purposes of that indent.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Third Chamber) hereby rules:
+ 
+The second indent of Article 5(1)(b) of Council Regulation (EC) No 44/of December on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters must be interpreted as meaning that, in the context of a contract for the carriage of goods between Member States in several stages, with stops, and by a number of means of transport, such as that at issue in the main proceedings, both the place of dispatch and the place of delivery of the goods constitute places where transport services are provided, for the purposes of that indent.
+ 
+[Signatures]
+(
+*)	Language of the case: Finnish.
+Top  

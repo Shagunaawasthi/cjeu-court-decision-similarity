@@ -1,0 +1,98 @@
+
+JUDGMENT OF THE COURT (Ninth Chamber)
+June (
+*)
+(Reference for a preliminary ruling — Judicial cooperation in civil matters — Insolvency proceedings — Regulation (EC) No 1346/— Article — Effects of insolvency proceedings on lawsuits pending concerning an asset or a right of which the debtor has been divested — Concept of ‘lawsuit pending’ — Substantive proceedings for the recognition of the existence of a debt)
+In Case C‑250/17,
+REQUEST for a preliminary ruling under Article TFEU by the Supremo Tribunal de Justiça (Supreme Court, Portugal), made by decision of April 2017, received at the Court on May 2017, in the proceedings
+Virgílio Tarragó da Silveira
+v
+Massa Insolvente da Espírito Santo Financial Group SA,
+THE COURT (Ninth Chamber),
+composed of C. Vajda, President of the Chamber, E. Juhász and K. Jürimäe (Rapporteur), Judges,
+Advocate General: M. Bobek,
+Registrar: A. Calot Escobar,
+having regard to the written procedure,
+after considering the observations submitted on behalf of
+–
+Tarragó da Silveira, by P. de Almeida, L. Mesquita and E. Viveiros, advogados,
+–
+Massa Insolvente da Espírito Santo Financial Group SA, by N. Líbano Monteiro, F. da Cunha Matos and S. Estima Martins, advogados,
+–
+the Portuguese Government, by L. Inez Fernandes, M. Figueiredo and P. Lacerda, acting as Agents,
+–
+the European Commission, by M. Afonso and M. Heller and by M. Wilderspin, acting as Agents,
+having decided, after hearing the Advocate General, to proceed to judgment without an Opinion,
+gives the following
+Judgment
+This request for a preliminary ruling concerns the interpretation of Article of Council Regulation (EC) No 1346/of May on insolvency proceedings (OJ L 160, p. 1).
+The request has been made in proceedings between Virgílio Tarragó da Silveira and Massa Insolvente da Espírito Santo Financial Group SA regarding the payment of a sum due by way of remuneration for services provided by Mr Tarragó da Silveira to Espírito Santo Financial Group SA before the latter was declared insolvent and regarding damages for the loss suffered due to the non-performance of a contract for the provision of services.
+Legal context
+European Union law
+Recitals 8, and of Regulation No 1346/state:
+‘(8)
+In order to achieve the aim of improving the efficiency and effectiveness of insolvency proceedings having cross-border effects, it is necessary, and appropriate, that the provisions on jurisdiction, recognition and applicable law in this area should be contained in a Community law measure which is binding and directly applicable in Member States.
+…
+(23)
+This Regulation should set out, for the matters covered by it, uniform rules on conflict of laws which replace, within their scope of application, national rules of private international law. Unless otherwise stated, the law of the Member State of the opening of the proceedings should be applicable (lex concursus). This rule on conflict of laws should be valid both for the main proceedings and for local proceedings. The lex concursus determines all the effects of the insolvency proceedings, both procedural and substantive, on the persons and legal relations concerned. It governs all the conditions for the opening, conduct and closure of the insolvency proceedings.
+(24)
+Automatic recognition of insolvency proceedings to which the law of the opening State normally applies may interfere with the rules under which transactions are carried out in other Member States. To protect legitimate expectations and the certainty of transactions in Member States other than that in which proceedings are opened, provisions should be made for a number of exceptions to the general rule.’
+Article 4(1) and (2)(f) of that regulation provides:
+‘1.   Save as otherwise provided in this Regulation, the law applicable to insolvency proceedings and their effects shall be that of the Member State within the territory of which such proceedings are opened, hereafter referred to as the “State of the opening of proceedings”.
+2.   The law of the State of the opening of proceedings shall determine the conditions for the opening of those proceedings, their conduct and their closure. It shall determine in particular:
+…
+(f)
+the effects of the insolvency proceedings on proceedings brought by individual creditors, with the exception of lawsuits pending;
+…’
+Article of that regulation provides:
+‘The effects of the insolvency proceedings on a lawsuit pending concerning an asset or a right of which the debtor has been divested shall be governed solely by the law of the Member State in which that lawsuit is pending.’
+The first subparagraph of Article 16(1) of that regulation provides:
+‘Any judgment opening insolvency proceedings handed down by a court of a Member State which has jurisdiction pursuant to Article shall be recognised in all the other Member States from the time that it becomes effective in the State of the opening of proceedings.’
+Portuguese law
+Article 277(e) of the Código do Processo Civil (Code of Civil Procedure) is worded as follows:
+‘There is no need to adjudicate in the event of:
+…
+(e)
+the action becoming devoid of purpose.’
+The dispute in the main proceedings and the question referred for a preliminary ruling
+On July 2008, Mr Tarragó da Silveira, residing in London (United Kingdom), brought before the Tribunal de Comarca de Lisboa (District Court of Lisbon, Portugal) a debt recovery action, based on a contract for the provision of services, against Espírito Santo Financial Group, with its seat in Luxembourg.
+During those proceedings, on October 2014, Espírito Santo Financial Group was declared insolvent by the tribunal d’arrondissement de Luxembourg (District Court, Luxembourg). From that date, it was therefore the insolvency estate of Espírito Santo Financial Group, represented by the Luxembourgish administrator appointed by that court, which became the defendant in the proceedings.
+By order of June 2015, the Tribunal de Comarca de Lisboa (District Court of Lisbon), on the basis of Article 277(e) of the Code of Civil Procedure and the judgment establishing case-law No 1/of May of the Supremo Tribunal de Justiça (Supreme Court, Portugal) ruled that there was no need to adjudicate, holding that Article of Regulation No 1346/applied in this case, in view of the opening of insolvency proceedings in Luxembourg.
+Mr Tarragó da Silveira lodged an appeal against that order before the Tribunal da Relação de Lisboa (Court of Appeal of Lisbon, Portugal) which, by judgment of July 2016, upheld the decision at first instance.
+Mr Tarragó da Silveira brought an appeal against that judgment before the Supremo Tribunal de Justiça (Supreme Court). In support of his appeal, he submits that Article of Regulation No 1346/only applies to lawsuits pending concerning a specific asset or right and that lawsuits concerning an obligation of a monetary nature do not fall within the scope of that regulation. Accordingly, in this case, the effects of the insolvency proceedings opened in Luxembourg on the ongoing proceedings before the Portuguese courts should be governed, in accordance with the general rule on conflict of laws under Article of that regulation, by the law of the Member State where those proceedings were initiated, in this case the Grand Duchy of Luxembourg. In contrast to Portuguese law, Luxembourgish law does not provide for the termination of lawsuits pending.
+The administrator of Espírito Santo Financial Group submits that Article of Regulation No 1346/applies to all ongoing proceedings before a court of a Member State other than that where insolvency proceedings were opened, concerning assets or rights, specific or non-specific, provided that the debtor has been divested of them.
+Given those different positions, the referring court expresses doubts as to the scope of Article of Regulation No 1346/2000.
+In those circumstances, the Supremo Tribunal de Justiça (Supreme Court) decided to stay the proceedings and to refer the following question to the Court of Justice for a preliminary ruling:
+‘Must Article [of Regulation No 1346/2000] be interpreted to the effect that its scope includes a lawsuit pending before a Member State seeking an order that a debtor pay a monetary sum due under a contract for the provision of services and pay monetary damages for failure to comply with that obligation, bearing in mind that: (i) the debtor was declared insolvent in proceedings opened in another Member State; and (ii) the declaration of insolvency applies to all of the debtor’s assets?’
+The question referred for a preliminary ruling
+By its question, the referring court asks, in essence, whether Article of Regulation No 1346/must be interpreted as applying to a lawsuit pending before a court of a Member State seeking an order that a debtor pay a sum of money due under a contract for the provision of services and pay monetary damages for failure to comply with that contractual obligation, in the event that (i) the debtor was declared insolvent in insolvency proceedings opened in another Member State; and (ii) the declaration of insolvency applies to all of the debtor’s assets.
+Under Article 4(1) of Regulation No 1346/2000, save as otherwise provided in the regulation, the law applicable to insolvency proceedings and their effects is that of the Member State within the territory of which the insolvency proceedings are opened. That article thus prescribes the general conflict-of-law rule applicable to cross-border insolvency proceedings and their effects.
+As an exception to that rule, Article of that regulation provides that the effects of insolvency proceedings on a lawsuit pending concerning an asset or a right of which the debtor has been divested shall be governed solely by the law of the Member State in which that lawsuit is pending.
+The referring court is asking whether, as Mr Tarragó da Silveira submits, the expression ‘an asset or a right of which the debtor has been divested’ limits the scope of application of Article of Regulation No 1346/to only lawsuits pending concerning a specific asset or right. In other words, it asks whether that article applies only to lawsuits pending concerning a specific right held by the debtor or to a specific asset that he holds. It states that this is not the case in a lawsuit concerning the payment of a sum of money on the basis of a contractual obligation.
+According to the Court’s settled case-law, the wording used in one language version of a provision of EU law cannot serve as the sole basis for the interpretation of that provision or be given priority over the other language versions. Provisions of EU law must be interpreted and applied uniformly in the light of the versions existing in all EU languages (see, to that effect, judgment of July 2016, JZ, C‑294/PPU, EU:C:2016:610, paragraph and the case-law cited).
+In that respect, it should be noted that the various language versions of that provision are not unambiguous. The respective versions in English, French and Italian, in particular, use the expressions ‘an asset or a right of which the debtor has been divested’, ‘un bien ou un droit dont le débiteur est dessaisi’ and ‘un bene o a un diritto del quale il debitore è spossessato’. However, the versions in Spanish, Czech, Danish and German, in particular, use the expressions ‘un bien o un derecho de la masa’, ‘majetku nebo práva náležejícího do majetkové podstaty’, ‘et aktiv eller en rettighed i massen’ and ‘einen Gegenstand oder ein Recht der Masse’.
+Having regard to the case-law cited at paragraph of this judgment and the differences emerging from the various language versions of Article of Regulation No 1346/2000, the interpretation of that article cannot be based only on its wording.
+Although the wording of that article is not without ambiguity, the context and the objectives of the article require an interpretation to the effect that its scope of application cannot be limited to ongoing proceedings concerning a specific asset or right of which the debtor has been divested.
+First, as regards the context, Article of Regulation No 1346/must (i) be read in conjunction with Article 4(2)(f) of the same regulation which distinguishes ‘lawsuits pending’ from other proceedings brought by individual creditors (judgment of November 2016, ENEFI, C‑212/15, EU:C:2016:841, paragraph 32). That provision does not in any way indicate that a lawsuit pending, such as that at issue in the main proceedings, must concern a specific asset or right. The use of the general expression ‘lawsuit pending’ confirms, on the contrary, that Article of Regulation No 1346/applies to lawsuits pending concerning not only a specific right or asset, but, more broadly, an asset or right that is part of the insolvency estate.
+It should be noted that assets or rights ‘of which the debtor has been divested’ within the meaning of Article of Regulation No 1346/2000, are those of which he has been divested due to the opening of insolvency proceedings. In accordance with Article 16(1) of that regulation, any judgment opening insolvency proceedings is to be recognised in all the other Member States from the time that it becomes effective in the State of the opening of proceedings. Therefore the concept of ‘assets or rights of which the debtor has been divested’ refers not only to the specific assets or rights of the debtor but rather covers the debtor’s insolvency estate as a result of the opening of insolvency proceedings.
+Second, as regards the objectives of Regulation No 1346/2000, it must be noted that it would be contrary to the objective pursued by that regulation, as emerges from recital 8, namely to improve the efficiency and effectiveness of insolvency proceedings having cross-border effects, to oblige the court hearing the case, in relation to judicial proceedings concerning a monetary obligation, to apply in the course of proceedings a foreign law with the sole aim of determining the effects that the opening of insolvency proceedings in another Member State would have on that case. That would risk delaying the judgment of that court relating to the determination and fixing the amount of any debt and, if applicable, would prevent the creditor from registering in due time his claim in the insolvency estate in those insolvency proceedings.
+Thus, in accordance with the objective mentioned in the preceding paragraph, the interpretation of Article of Regulation No 1346/in paragraph of this judgment enables the court, when hearing a lawsuit pending, to determine the effects of the opening of the insolvency proceedings on that lawsuit in accordance with its national law.
+It follows from the foregoing that the scope of Article of Regulation No 1346/cannot be limited to only ongoing proceedings concerning a specific asset or right of which the debtor has been divested.
+However, it should be made clear that that article cannot be applied without distinction to all lawsuits pending concerning an asset or a right that is part of the insolvency estate.
+As the Court has already stated, it would be contradictory to interpret Article of Regulation No 1346/as also covering enforcement proceedings, with the consequence that the effects of the opening of insolvency proceedings would thus come within the scope of the law of the Member State in which such enforcement proceedings are pending, while, in parallel, Article 20(1) of that regulation, by explicitly requiring the return to the liquidator of everything obtained ‘through enforcement’, would render Article ineffective (judgment of November 2016, ENEFI, C‑212/15, EU:C:2016:841, paragraph 34).
+Furthermore, Regulation No 1346/is guided by the principle that the requirement of equal treatment of creditors, which, mutatis mutandis, underpins all insolvency proceedings, precludes, in general, proceedings brought by individual creditors by means of enforcement proceedings, introduced and conducted while insolvency proceedings against the debtor are pending (judgment of November 2016, ENEFI, C‑212/15, EU:C:2016:841, paragraph 33).
+Consequently, it must be held that enforcement proceedings do not fall within the scope of application of Article of Regulation No 1346/(judgment of November 2016, ENEFI, C‑212/15, EU:C:2016:841, paragraph 35).
+However, actions for a declaration of monetary obligations which merely determine the rights and obligations of the debtor, without involving their realisation, and which therefore, unlike individual enforcement proceedings, do not risk undermining the principle of equal treatment of creditors and the collective resolution of insolvency proceedings, fall within the scope of application of Article 15.
+Accordingly, it is for the referring court to determine, before any application of Article of Regulation No 1346/2000, whether Mr Tarragó da Silveira’s action is an action on the merits of the case specifically claiming payment of a debt and whether, as such, it is distinguishable from the proceedings for enforced recovery of that debt.
+In light of the foregoing, the answer to the question referred is that Article of Regulation No 1346/must be interpreted as applying to a lawsuit pending before a court of a Member State seeking an order that a debtor pay a sum of money due under a contract for the provision of services and pay monetary damages for failure to comply with that contractual obligation, in the event that (i) the debtor was declared insolvent in insolvency proceedings opened in another Member State; and (ii) the declaration of insolvency applies to all of the debtor’s assets.
+Costs
+Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.
+ 
+On those grounds, the Court (Ninth Chamber) hereby rules:
+ 
+Article of Council Regulation (EC) No 1346/of May on insolvency proceedings must be interpreted as applying to a lawsuit pending before a court of a Member State seeking an order that a debtor pay a sum of money due under a contract for the provision of services and pay monetary damages for failure to comply with that contractual obligation, in the event that (i) the debtor was declared insolvent in insolvency proceedings opened in another Member State; and (ii) the declaration of insolvency applies to all of the debtor’s assets.
+ 
+[Signatures]
+(
+*)	Language of the case: Portuguese.
+Top  

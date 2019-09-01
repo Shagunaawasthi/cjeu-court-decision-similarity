@@ -1,0 +1,472 @@
+
+ARRÊT DE LA COUR (dixième chambre)
+janvier (*)
+      
+«Pourvoi – Réseau transeuropéen de transport – Concours financier – Clôture – Décision déclarant non éligibles certains coûts et établissant le décompte final – Article 263, quatrième alinéa, TFUE – Recours en annulation – Acte attaquable – Qualité pour agir – Personne autre que le bénéficiaire du concours»
+Dans l’affaire C‑281/P,
+ayant pour objet un pourvoi au titre de l’article du statut de la Cour de justice de l’Union européenne, introduit le juin 2014,
+      
+Società per l’aeroporto civile di Bergamo-Orio al Serio (SACBO) SpA, établie à Grassobbio (Italie), représentée par Mes G. Greco, M. Muscardini et G. Carullo, avvocati,
+      
+partie requérante,
+les autres parties à la procédure étant:
+Commission européenne, représentée par Mmes J. Hottiaux et E. Montaguti, en qualité d’agents, assistées de Me D. Gullo, avvocato, ayant élu domicile à Luxembourg,
+      
+Agence exécutive pour l’innovation et les réseaux (INEA), représentée par M. I. Ramallo ainsi que par Mmes D. Silhol et Z. Szilvássy, en qualité d’agents, assistés de Mes A. Lanzi et M. Bozzo, avvocati,
+      
+parties défenderesses en première instance,
+LA COUR (dixième chambre),
+composée de D. Šváby (rapporteur), président de la huitième chambre, faisant fonction de président de la dixième chambre,
+         MM. A. Rosas et C. Vajda, juges,
+      
+avocat général: M. P. Cruz Villalón,
+greffier: M. A. Calot Escobar,
+vu la procédure écrite,
+vu la décision prise, l’avocat général entendu, de juger l’affaire sans conclusions,
+rend le présent
+Arrêt
+Par son pourvoi, Società per l’aeroporto civile di Bergamo-Orio al Serio (SACBO) SpA (ci-après «SACBO») demande l’annulation
+         de l’ordonnance du Tribunal de l’Union européenne du mars 2014, SACBO/Commission et INEA (T‑270/13, EU:T:2014:185, ci-après
+         l’«ordonnance attaquée»), par laquelle ce dernier a déclaré irrecevable le recours de SACBO tendant à l’annulation de l’acte
+         du mars de l’Agence exécutive du réseau transeuropéen de transport (TEN‑T EA), devenue l’Agence exécutive pour l’innovation
+         et les réseaux (INEA) (ci-après l’«acte litigieux»), relatif à certains coûts exposés à l’occasion de la réalisation d’une
+         étude de faisabilité concernant le caractère intermodal de l’aéroport de Bergame-Orio al Serio (Italie) à la suite du concours
+         financier octroyé par la Commission européenne à l’Ente nazionale per l’aviazione civile (ENAC) (Autorité nationale de l’aviation
+         civile).
+      
+ Les antécédents du litige
+Les antécédents pertinents du litige, tels qu’ils ont été exposés dans l’ordonnance attaquée, peuvent être résumés comme suit.
+      
+SACBO est une société de droit privé, concessionnaire de la gestion et du développement de l’aéroport de Bergame-Orio al Serio
+         en vertu d’une convention aéroportuaire conclue avec l’ENAC, organisme public chargé de la régulation technique, de la certification,
+         de la surveillance et du contrôle du secteur de l’aviation civile en Italie. SACBO pourvoit également aux infrastructures
+         et aux installations nécessaires aux activités aéroportuaires.
+      
+La Commission des Communautés européennes, par la décision C (2007) final, du novembre 2007, portant délégation à l’Agence
+         exécutive du réseau transeuropéen de transport en vue de l’exécution de tâches liées à la mise en œuvre des programmes communautaires
+         de subventions dans le domaine du réseau transeuropéen de transport, comprenant notamment l’exécution de crédits inscrits
+         au budget communautaire, telle que modifiée par la décision C (2008) final, du octobre 2008, a délégué à la TEN‑T EA,
+         devenue l’INEA, le suivi du concours financier octroyé à des projets d’intérêt commun au titre du budget du réseau transeuropéen
+         de transport.
+      
+Au mois de mai 2009, l’ENAC a présenté, à l’initiative de SACBO, une demande de financement d’une étude de faisabilité relative
+         au caractère intermodal de l’aéroport de Bergame-Orio al Serio, à la suite de l’appel annuel à propositions lancé par la Commission
+         conformément au règlement (CE) n° 680/du Parlement européen et du Conseil, du juin 2007, déterminant les règles générales
+         pour l’octroi d’un concours financier communautaire dans le domaine des réseaux transeuropéens de transport et d’énergie (JO
+         L 162, p. 1).
+      
+Par la décision C (2010) 1108, du mars 2010, la Commission a inclus l’étude de faisabilité relative à l’aéroport de Bergame-Orio
+         al Serio dans la liste des projets sélectionnés, en prévoyant que le concours financier représenterait au maximum % du
+         coût total approuvé.
+      
+Par la décision C (2010) 4456, du juin 2010, concernant l’octroi d’une contribution financière de l’Union en faveur du
+         projet d’intérêt commun «Étude de faisabilité pour le développement du caractère intermodal de l’aéroport de Bergame-Orio
+         al Serio» – 2009‑IT-91407-S – dans le secteur du réseau transeuropéen de transport (RTE-T, ci-après la «décision d’octroi»),
+         la Commission a décidé l’attribution à l’ENAC d’un concours financier de l’Union européenne d’un montant de euros
+         pour la réalisation de l’étude de faisabilité en question.
+      
+Les relations juridiques entre l’ENAC et SACBO concernant les conséquences de l’octroi du concours ont été réglées dans le
+         cadre d’une convention conclue entre ces deux parties. Cette convention prévoyait notamment que SACBO cofinancerait l’étude
+         concernée et supporterait la charge des dépenses considérées comme non éligibles par la Commission.
+      
+Lorsque l’étude de faisabilité fut entièrement terminée, l’INEA a informé l’ENAC, par l’acte litigieux, que certains coûts
+         exposés à l’occasion de la réalisation du projet en cause ne pouvaient pas être considérés comme éligibles en raison, essentiellement,
+         du non-respect des règles applicables en matière de marchés publics et que, en conséquence, la somme de 517,euros devrait
+         être remboursée à titre de trop-perçu, tenant compte de la fixation du montant définitif du concours à 482,euros et
+         d’un montant de euros préalablement versé à titre d’avance. Cet acte invitait également l’ENAC à présenter ses observations
+         dans un délai d’un mois et lui précisait qu’une note de débit lui serait prochainement envoyée. C’est contre ledit acte que
+         SACBO a introduit le recours visé au point du présent arrêt, par requête déposée au greffe du Tribunal le mai 2013.
+      
+Par une lettre du juin 2013, l’ENAC a transmis à l’INEA ses observations sur le contenu de l’acte litigieux et a joint à
+         son courrier un nouveau rapport. L’INEA y a répondu par lettre datée du août 2013.
+      
+Il convient d’ajouter que, par une nouvelle lettre du octobre 2013, l’INEA a rejeté les observations formulées par l’ENAC
+         à la suite de l’acte litigieux. Par requête du décembre 2013, SACBO a également introduit un recours en annulation contre
+         cet acte du octobre (affaire T‑692/13).
+      
+Par ailleurs, par requête du décembre 2013, l’ENAC a lui-même introduit, devant le Tribunal, un recours en annulation contre
+         l’acte litigieux ainsi que contre l’acte de l’INEA du octobre mentionné au point précédent du présent arrêt (affaire
+         T‑695/13). Par des ordonnances du novembre 2014, la procédure dans ces deux affaires a été suspendue, en tant que les recours
+         étaient dirigés contre l’INEA, dans l’attente de la décision à intervenir dans le cadre du présent pourvoi.
+      
+ La procédure devant le Tribunal et l’ordonnance attaquée
+Par actes séparés, la Commission et l’INEA ont soulevé plusieurs exceptions d’irrecevabilité devant le Tribunal.
+      
+Parmi ces exceptions, l’une portait sur le fait que SACBO n’aurait pas qualité pour agir, n’étant ni directement ni individuellement
+         concernée par l’acte litigieux, et, une autre, sur le fait que cet acte ne serait pas susceptible de faire l’objet d’un recours
+         en annulation sur le fondement de l’article TFUE.
+      
+Le Tribunal a jugé que chacune de ces deux exceptions était fondée.
+      
+S’agissant, premièrement, du défaut de qualité pour agir, le Tribunal a considéré que SACBO n’était pas directement concernée
+         par l’acte litigieux.
+      
+À cet égard, il a jugé, en premier lieu, que l’ENAC était le titulaire du droit au concours financier et le seul bénéficiaire
+         de ce dernier, et que c’est en cette dernière qualité que l’acte litigieux lui a été adressé. Quant à l’intervention de SACBO
+         dans le cadre du projet auquel ce concours se rapporte, le Tribunal a relevé que la décision d’octroi n’interdisait pas à
+         l’ENAC de déléguer à SACBO la réalisation de ce projet, tout en restant responsable du respect des obligations auxquelles
+         l’octroi du concours était subordonné. En conséquence, le Tribunal a considéré que SACBO ne saurait se prévaloir ni de cette
+         délégation, ni du fait que l’acte litigieux soit fondé sur l’allégation selon laquelle SACBO a méconnu certaines obligations
+         prévues par la décision d’octroi, ni des actes qu’elle a posés et des relations directes qu’elle a eues avec l’INEA, en sa
+         qualité d’organisme chargé de la mise en œuvre du projet, pour établir qu’elle serait la véritable bénéficiaire du concours.
+         Le Tribunal s’est référé à cet égard, par analogie, à l’arrêt Regione Siciliana/Commission (C‑15/P, EU:C:2007:183, points
+         et 36).
+      
+En second lieu, le Tribunal a jugé que l’acte litigieux n’a pas entraîné d’effet de droit immédiat sur la situation juridique
+         de SACBO. Il a fondé cette décision sur la constatation selon laquelle cet acte ne fait pas référence à SACBO en ce qui concerne
+         la restitution, par cette dernière à l’ENAC, d’un montant équivalent au trop-perçu allégué, restitution que ledit acte n’impose
+         pas à l’ENAC d’exiger de SACBO. Le Tribunal en conclut que, si, en définitive, il devait y avoir récupération, par l’ENAC,
+         d’un trop‑perçu à la charge de SACBO, ce serait en application non pas de l’acte litigieux, mais de la convention conclue
+         entre elles.
+      
+S’agissant, deuxièmement, du caractère non attaquable de l’acte litigieux, le Tribunal a jugé que cet acte ne fixe pas de
+         façon définitive la position de la Commission, et donc qu’il ne produit pas d’effet juridique obligatoire de nature à affecter
+         les intérêts du débiteur.
+      
+À cet égard, le Tribunal a considéré que l’acte litigieux est un acte préparatoire, portant à la connaissance de l’ENAC le
+         montant final du concours et, en conséquence, le montant devant être restitué eu égard aux avances perçues, acte préalable
+         à la décision de la Commission de poursuivre ou non la procédure, le remboursement devant intervenir après l’émission d’une
+         note de débit. Ainsi, le fait que l’acte litigieux évoque une procédure de recouvrement démontrerait que cet acte a un caractère
+         provisoire dans le cadre d’une procédure globale devant se terminer éventuellement par le recouvrement d’un trop-perçu, et
+         non qu’il clôturerait la procédure de financement, comme le prétend SACBO. Quant au fait que, par l’acte litigieux, l’ENAC
+         était invité à présenter ses observations dans un certain délai, le Tribunal le relève, mais considère qu’il n’est pas déterminant
+         à lui seul.
+      
+Eu égard au constat ainsi opéré, le Tribunal a jugé qu’il est sans incidence que le contenu de l’acte litigieux soit normatif,
+         précis, complet et inconditionnel, et qu’il présente l’aspect d’un acte clôturant la procédure, ainsi que SACBO l’a soutenu.
+         Par ailleurs, selon le Tribunal, le fait que la décision d’octroi prévoit la faculté, pour le bénéficiaire, de demander des
+         informations sur la détermination du montant du concours financier final, selon une procédure détaillée dont il est précisé
+         qu’elle n’affecte pas le droit du bénéficiaire d’intenter un recours, ne peut pas déroger aux règles de recevabilité découlant
+         du traité FUE.
+      
+ Les conclusions des parties au pourvoi
+SACBO demande à la Cour:
+      
+–        d’annuler l’ordonnance attaquée, et
+–        en conséquence, pour autant que l’affaire soit en état d’être jugée, de faire intégralement droit aux conclusions de son recours
+         devant le Tribunal, y compris la condamnation de la Commission et de l’INEA aux dépens.
+      
+La Commission demande à la Cour:
+      
+–        de rejeter le pourvoi comme irrecevable ou non fondé et, partant, de confirmer l’ordonnance attaquée;
+–        à titre subsidiaire, de constater que le pourvoi, comme le recours en première instance, est irrecevable en tant qu’il est
+         dirigé contre la Commission, et
+      
+–        de condamner SACBO aux dépens du pourvoi.
+L’INEA demande à la Cour:
+      
+–        de rejeter le pourvoi comme irrecevable ou non fondé et, partant, de confirmer l’ordonnance attaquée;
+–        de condamner SACBO aux dépens du pourvoi, et
+–        à titre subsidiaire, dans l’hypothèse où il serait fait droit au pourvoi sans renvoi devant le Tribunal, de fixer un délai
+         adéquat pour lui permettre de présenter ses moyens au fond.
+      
+ Sur le pourvoi
+ Sur la recevabilité du pourvoi
+Pour autant que de besoin, la Commission soutient que le pourvoi est irrecevable en tant qu’il est dirigé contre elle. Elle
+         fait valoir à cet égard que l’acte litigieux a été adopté par l’INEA, qui est dotée de la personnalité juridique, dans le
+         cadre de compétences qui lui ont été déléguées et que cette délégation comporte l’entière responsabilité de ses actes, y compris
+         le pouvoir d’agir en justice et de se défendre dans le cadre de recours.
+      
+Cette exception ne saurait être accueillie. En effet, dès lors que la Commission était partie devant le Tribunal, la requérante
+         a pu régulièrement diriger son pourvoi contre elle, conformément aux articles 168, paragraphe 1, sous c), et 171, paragraphe
+         1, du règlement de procédure de la Cour lus en combinaison avec l’article 169, paragraphe 1, de ce règlement.
+      
+ Sur les moyens présentés à l’appui du pourvoi
+Le pourvoi est divisé en deux parties, visant, l’une, la décision du Tribunal déniant à SACBO la qualité pour introduire un
+         recours en annulation contre l’acte litigieux et, l’autre, la décision du Tribunal relative au caractère non attaquable de
+         cet acte.
+      
+ Quant à la décision du Tribunal selon laquelle SACBO n’a pas qualité pour introduire un recours en annulation contre l’acte
+         litigieux
+      
+Nonobstant le caractère peu structuré du raisonnement, cette partie du pourvoi peut être décomposée en six moyens distincts.
+      
+–       Quant au premier moyen
+Exposé du moyen
+Le premier moyen du pourvoi porte sur la décision implicite du Tribunal selon laquelle SACBO n’est pas destinataire de l’acte
+         litigieux.
+      
+Par la première branche de ce moyen, SACBO reproche au Tribunal d’avoir méconnu l’article 263, quatrième alinéa, premier membre
+         de phrase, TFUE en ce qu’il n’aurait pas tenu compte du fait qu’elle aurait été, premièrement, formellement codestinataire
+         de l’acte litigieux, qui lui a été transmis en copie, et, deuxièmement, matériellement destinataire de cet acte. Quant à ce
+         dernier grief, le Tribunal n’aurait pas déduit la conséquence nécessaire de la constatation effectuée au point de l’ordonnance
+         attaquée, selon laquelle les critiques figurant dans l’acte litigieux concernent SACBO. À cet égard, il se serait erronément
+         fondé sur la circonstance que l’ENAC avait délégué la réalisation du projet à SACBO tout en demeurant responsable des éventuels
+         manquements commis à cette occasion, négligeant ainsi de tenir compte du rôle officiel joué par SACBO, puisque toutes les
+         délégations de tâches opérées par l’ENAC avaient été acceptées par l’INEA.
+      
+La deuxième branche dudit moyen est prise d’une dénaturation de deux documents produits devant le Tribunal, à savoir la décision
+         d’octroi et le plan d’action stratégique, ce dernier étant un document établi par SACBO à la suite de cette décision et qui
+         décrit le projet concerné, ses diverses étapes et les moyens prévus pour le réaliser. Cette dénaturation résulterait de la
+         constatation selon laquelle l’ENAC est seul responsable envers l’INEA.
+      
+Par la troisième branche du premier moyen, SACBO soutient que l’ordonnance attaquée serait entachée d’un défaut de motivation
+         en raison de la contradiction qui existerait entre les considérations énoncées à son point 27, selon lesquelles l’ENAC aurait
+         délégué la réalisation du projet à SACBO tout en restant responsable des éventuels manquements, et la constatation, figurant
+         à son point 26, selon laquelle la décision d’octroi et l’acte litigieux présentent SACBO comme l’organisme chargé de la mise
+         en œuvre du projet.
+      
+Enfin, par la quatrième branche de ce moyen, SACBO fait grief au Tribunal d’avoir confondu les deux hypothèses relatives à
+         la qualité pour agir prévues à l’article 263, quatrième alinéa, premier et deuxième membres de phrase, TFUE, en ce qu’il aurait
+         considéré que, en l’espèce, le fait d’être bénéficiaire du concours financier constituerait une condition pour être habilité
+         à agir en ce qui concerne tant le destinataire de l’acte litigieux que les personnes autres que ledit destinataire.
+      
+Appréciation de la Cour
+Quant à la première branche, il suffit de constater, d’une part, s’agissant du premier grief, que le premier membre de phrase
+         de l’article 263, quatrième alinéa, TFUE investit de la qualité pour agir toute personne qui est destinataire de l’acte en
+         cause, et non pas toute personne destinataire d’une copie de cet acte, cette dernière personne ne pouvant disposer de la qualité
+         pour agir qu’au titre de l’une des autres hypothèses prévues à cette disposition. D’autre part, s’agissant du second grief,
+         la notion de destinataire de l’acte au sens de ladite disposition doit s’entendre au sens formel, comme visant la personne
+         désignée dans cet acte comme destinataire de celui-ci. La circonstance qu’une personne autre que le destinataire formel d’un
+         acte puisse être visée par le contenu de celui-ci peut, certes, investir cette personne de la qualité pour agir si elle démontre
+         notamment que, eu égard à ce contenu, cet acte la concerne directement, mais non pas en tant que destinataire dudit acte.
+      
+Quant aux deuxième et troisième branches, il y a lieu de constater que celles-ci reposent sur des considérations dénuées de
+         pertinence quant au point de savoir si SACBO était destinataire de l’acte litigieux.
+      
+Quant à la quatrième branche, elle repose, d’une part, sur une lecture erronée de l’ordonnance attaquée, car, contrairement
+         à ce qu’allègue la requérante, le Tribunal n’a énoncé à aucun endroit de celle-ci que seul le bénéficiaire d’un concours financier
+         disposerait de la qualité pour agir en vertu de l’article 263, quatrième alinéa, premier membre de phrase, TFUE contre un
+         acte tel que l’acte litigieux.
+      
+En effet, aux points et de cette ordonnance, le Tribunal s’est borné à constater que l’INEA avait adressé l’acte litigieux
+         non pas à SACBO, mais à l’ENAC, pour en déduire que SACBO ne saurait disposer d’un droit de recours contre cet acte que si
+         elle démontre qu’elle est directement et individuellement concernée par celui-ci. Le fait que l’ENAC est bénéficiaire du concours
+         financier n’a été mentionné, dans ce cadre, par le Tribunal que comme simple explication de l’envoi matériel dudit acte par
+         l’INEA à l’ENAC, sans rien inférer de ce fait quant à la qualité de destinataire au sens de l’article 263, quatrième alinéa,
+         TFUE.
+      
+D’autre part, au point de l’ordonnance attaquée, le Tribunal a énoncé, sans commettre d’erreur de droit, les deux critères
+         cumulatifs auxquels une personne doit satisfaire pour être considérée comme directement concernée par un acte faisant l’objet
+         d’un recours, au sens de l’article 263, quatrième alinéa, deuxième membre de phrase, TFUE, à savoir, en premier lieu, que
+         cet acte produise directement des effets sur la situation juridique de cette personne et, en second lieu, qu’il ne laisse
+         aucun pouvoir d’appréciation à ses destinataires qui sont chargés de sa mise en œuvre, celle-ci ayant un caractère purement
+         automatique et découlant de la seule réglementation de l’Union, sans application d’autres règles intermédiaires.
+      
+Le premier moyen doit donc être rejeté comme non fondé.
+      
+–       Quant au deuxième moyen
+Exposé du moyen
+Par son deuxième moyen, SACBO fait grief au Tribunal de n’avoir pas pris en considération l’incidence, quant à la recevabilité
+         de son recours, de l’atteinte à son image que lui infligerait l’acte litigieux en raison des reproches qu’il contient en ce
+         qui concerne les activités qu’elle a exercées dans le cadre de l’exécution du projet visé par le concours.
+      
+Elle soutient, en substance, que seul son recours en annulation contre l’acte litigieux est de nature à réparer le préjudice
+         consistant dans cette atteinte, de sorte que le Tribunal aurait dû lui reconnaître un droit d’action en vertu de l’article
+         263, quatrième alinéa, deuxième membre de phrase, TFUE, en tant que personne directement concernée, notion qui devrait être
+         examinée d’un point de vue matériel, et non formel (première branche), ainsi que du droit à une protection juridictionnelle
+         effective garanti par l’article de la charte des droits fondamentaux de l’Union européenne ainsi que par les articles et de la convention européenne de sauvegarde des droits de l’homme et des libertés fondamentales, signée à Rome le novembre
+         (deuxième branche). À cet égard, elle reproche au Tribunal d’avoir omis de statuer sur le moyen relatif aux conséquences,
+         en ce qui concerne la qualité pour agir de SACBO, de l’atteinte portée par l’acte litigieux à l’image de celle-ci, en faisant
+         référence à l’arrêt Abdulrahim/Conseil et Commission (C‑239/P, EU:C:2013:331) (troisième branche). En tout état de cause,
+         la motivation de l’ordonnance attaquée serait insuffisante, inappropriée ou contradictoire, dès lors que le Tribunal n’aurait
+         tiré aucune conséquence de la constatation selon laquelle les reproches formulés dans l’acte litigieux concernent SACBO, alors
+         qu’il aurait dû en déduire que celle-ci est directement visée par cet acte, indépendamment du fait qu’elle soit ou non la
+         bénéficiaire du concours litigieux (quatrième branche).
+      
+Appréciation de la Cour
+Il y a lieu de relever que, dans les observations écrites sur l’exception d’irrecevabilité qu’elle a soumises au Tribunal,
+         après avoir consacré certains développements à l’incidence directe qu’aurait l’acte litigieux sur sa situation, aux points
+         à de ces observations, SACBO a soutenu, aux points à de celles-ci, qu’elle avait un «intérêt individuel» à l’attaquer,
+         car cet acte la concernerait individuellement en raison de certaines qualités qui lui sont propres ou d’une situation de fait
+         qui la caractérise par rapport à toute autre personne et, de ce fait, l’individualise d’une manière analogue à celle dont
+         le destinataire dudit acte le serait. C’est dans ce cadre que, aux points et des mêmes observations, elle a évoqué l’atteinte
+         à son image et à sa réputation, qui lui conférerait un intérêt à agir devant les juridictions de l’Union en exerçant la seule
+         voie de recours qui serait de nature à anéantir les griefs qui lui sont adressés au travers de l’acte litigieux, la reconnaissance
+         de cet intérêt impliquant celle de sa qualité pour agir.
+      
+Dans ce contexte, eu égard à l’expression susmentionnée «intérêt individuel», il s’impose de considérer que, devant le Tribunal,
+         SACBO a fait état de la circonstance que l’acte litigieux porterait atteinte à son image dans des développements consacrés
+         soit à l’intérêt à agir, soit à la qualité pour agir en tant que personne individuellement concernée par cet acte, mais non
+         à la qualité pour agir en tant que personne directement concernée par ledit acte. Partant, l’argumentation sur laquelle repose
+         le deuxième moyen de pourvoi apparaît comme nouvelle et doit, en conséquence, être rejetée, la compétence de la Cour étant
+         limitée, dans le cadre d’un pourvoi, à l’appréciation de la solution légale qui a été donnée aux moyens débattus devant les
+         premiers juges (voir, en ce sens, arrêt ISD Polska e.a./Commission, C‑369/P, EU:C:2011:175, point et jurisprudence citée).
+      
+La circonstance que, incidemment, dans le cadre du passage concerné de ses observations devant le Tribunal, certains termes
+         pouvant être mis en relation avec la possibilité que SACBO soit directement concernée par l’acte litigieux ont été employés,
+         comme au point de ces observations, n’est pas de nature à modifier cette constatation. En effet, d’une part, ces termes
+         ont été employés en rapport avec la notion d’intérêt à agir. D’autre part, à supposer même qu’ils puissent avoir une portée
+         autonome et être également rattachés à la qualité pour agir en tant que personne directement concernée, il conviendrait de
+         constater, en toute hypothèse, qu’une telle portée autonome ne saurait être considérée comme suffisamment claire et précise.
+         Partant, de la même manière que, eu égard au manque de clarté et de précision d’une telle argumentation, le Tribunal n’aurait
+         pas été tenu d’y répondre dans le cadre de l’examen de la qualité pour agir de SACBO en tant que personne directement concernée
+         (voir, en ce sens, arrêt FIAMM e.a./Conseil et Commission, C‑120/P et C‑121/P, EU:C:2008:476, point et jurisprudence
+         citée), cette argumentation devrait, en toute hypothèse, être considérée comme nouvelle, au stade de la procédure de pourvoi,
+         en tant qu’elle se rapporte à cette qualité.
+      
+En conséquence, le deuxième moyen doit être considéré comme irrecevable en ses première, troisième et quatrième branches.
+      
+S’agissant de la deuxième branche, il y a lieu de rappeler que, si les conditions de recevabilité du recours prévues à l’article
+         263, quatrième alinéa, TFUE doivent être interprétées à la lumière du droit fondamental à une protection juridictionnelle
+         effective, cette interprétation ne saurait toutefois aboutir à écarter ces conditions (voir, en ce sens, arrêt T & L Sugars
+         et Sidul Açúcares/Commission, C‑456/P, EU:C:2015:284, point ainsi que jurisprudence citée).
+      
+Or, le droit de SACBO à un recours juridictionnel effectif en vue d’obtenir réparation du préjudice dont elle se prétend victime
+         est assuré par les possibilités d’introduire un recours en indemnité tel que prévu à l’article TFUE, qui est une voie
+         de recours autonome et dont les conditions d’exercice sont définies en raison de son objet spécifique, et sont dès lors distinctes
+         de celles du recours en annulation (voir, en ce sens, arrêt Ludwigshafener Walzmühle Erling e.a./Conseil et Commission, 197/à 200/80, 243/80, 245/et 247/80, EU:C:1981:311, point 4).
+      
+En conséquence, le deuxième moyen doit être rejeté comme partiellement irrecevable et partiellement non fondé.
+      
+–       Quant au troisième moyen
+Exposé du moyen
+Par son troisième moyen, SACBO soutient que l’ordonnance attaquée procède d’une dénaturation de la décision d’octroi. Cette
+         dénaturation découlerait du fait que le Tribunal a considéré, au point de cette ordonnance, que le cofinancement du projet
+         par SACBO et la prise en charge finale, par celle-ci, des coûts estimés non éligibles par la Commission résultent de la convention
+         conclue entre l’ENAC et SACBO, alors que la décision d’octroi reconnaîtrait expressément que le cofinancement de l’action
+         est assuré par SACBO. Partant, ce fait ne pourrait pas être considéré comme découlant uniquement de cette convention.
+      
+Appréciation de la Cour
+Il y a lieu de relever que la constatation opérée par le Tribunal audit point ne repose pas sur une lecture de la décision
+         d’octroi qui serait incompatible avec les termes de celle-ci. En effet, cette décision, qui porte exclusivement sur la partie
+         du financement du projet concerné à la charge de l’Union, se limite à prendre acte du fait que, pour le surplus, le financement
+         de ce projet est assuré par SACBO. Partant, dès lors que ladite décision ne constitue pas la source de l’obligation de SACBO
+         à cet égard, le Tribunal a pu, sans la dénaturer, constater que c’est la convention avenue entre l’ENAC et SACBO qui a prévu
+         que cette dernière cofinancerait l’étude en cause et que les sommes considérées comme non éligibles par la Commission resteraient
+         à la charge de SACBO.
+      
+En conséquence, le troisième moyen doit être rejeté comme non fondé.
+      
+–       Quant au quatrième moyen
+Exposé du moyen
+Le quatrième moyen est pris d’une omission de statuer et d’un défaut de motivation.
+      
+En effet, alors que SACBO aurait allégué que la réduction du concours entraîne pour elle, d’une part, l’obligation d’assumer
+         seule le financement de la part désengagée du concours, ce qui serait un effet automatique et direct de l’acte litigieux sur
+         sa situation juridique et patrimoniale, et, d’autre part, l’obligation de rembourser à l’ENAC l’équivalent du trop-perçu,
+         le Tribunal se serait limité, au point de l’ordonnance attaquée, à motiver son appréciation selon laquelle SACBO n’est
+         pas directement affectée par la décision litigieuse uniquement par l’affirmation selon laquelle l’obligation de remboursement
+         à charge de celle-ci ne serait pas automatique, puisqu’elle dépendrait de l’intervention discrétionnaire de l’ENAC.
+      
+Appréciation de la Cour
+Par ce moyen, SACBO reproche au Tribunal, en substance, de n’avoir pas répondu à son argumentation selon laquelle l’acte litigieux
+         l’affecterait directement en raison de deux conséquences que cet acte comporterait à son égard. En effet, il lui imposerait,
+         d’une part, de rembourser à l’ENAC les avances versées par l’Union et transmises par l’ENAC à SACBO pour la partie de celles-ci
+         qui dépasse le montant final du concours et, d’autre part, de supporter elle-même l’entièreté des dépenses mentionnées comme
+         inéligibles dans ledit acte. Or, le Tribunal n’aurait pas pris en considération cette dernière conséquence.
+      
+Force est toutefois de constater que ce moyen repose sur une lecture erronée du point de l’ordonnance attaquée.
+      
+En effet, le Tribunal y a également motivé son appréciation selon laquelle l’acte litigieux ne produit directement aucun effet
+         sur la situation juridique de SACBO par la constatation selon laquelle l’obligation de celle-ci portant sur le financement
+         du projet pour la partie du coût de celui-ci qui n’est pas couverte par le concours financier de l’Union et, partant, la prise
+         en charge par SACBO des coûts considérés comme non éligibles par la Commission découlent de la convention conclue entre l’ENAC
+         et SACBO.
+      
+Par ces constatations, le Tribunal a répondu à suffisance de droit à l’argumentation susmentionnée. En conséquence, ledit
+         moyen doit être rejeté comme non fondé.
+      
+–       Quant au cinquième moyen
+Exposé du moyen
+Par son cinquième moyen, SACBO vise l’appréciation énoncée par le Tribunal au point de l’ordonnance attaquée, lu en combinaison
+         avec le point de cette ordonnance, selon laquelle l’obligation, pour SACBO, de rembourser la somme correspondant au trop-perçu
+         visé dans l’acte litigieux ne serait pas un effet juridique immédiat de cet acte, mais résulterait de la convention conclue
+         entre l’ENAC et SACBO, et dépendrait, en définitive, d’une appréciation discrétionnaire de l’ENAC.
+      
+Dans la première branche de ce moyen, prise de la violation des articles 107, paragraphe 1, TFUE et 108, paragraphe 3, TFUE,
+         SACBO soutient que l’ENAC ne dispose d’aucune marge d’appréciation en ce qui concerne le remboursement par SACBO de la somme
+         correspondant au trop-perçu visé dans l’acte litigieux. En effet, en l’absence de remboursement de cette somme, il y aurait
+         un transfert indirect de fonds publics en faveur du gestionnaire d’un aéroport, ce qui, faute de déclaration préalable de
+         compatibilité avec le marché intérieur, constituerait une aide d’État illégale. Partant, la référence faite par le Tribunal
+         à l’arrêt Regione Siciliana/Commission (C‑15/P, EU:C:2007:183) serait erronée, car le refus de reconnaître qualité pour
+         agir à l’entité territoriale en cause dans cette affaire était fondé sur le constat que l’État membre concerné pouvait décider
+         de supporter lui‑même, notamment, la charge du remboursement du trop-perçu, faculté qui n’existerait pas en l’espèce dès lors
+         que SACBO est une entreprise.
+      
+Par la seconde branche dudit moyen, prise d’un défaut de motivation, SACBO reproche au Tribunal de n’avoir pas pris en considération
+         l’argumentation qu’elle avait développée à cet égard dans ses observations écrites en réponse aux exceptions d’irrecevabilité.
+      
+Appréciation de la Cour
+Il convient de rappeler que la condition selon laquelle la personne qui introduit un recours en annulation doit être directement
+         concernée par l’acte attaqué implique que celui-ci produise directement des effets sur la situation juridique de cette personne
+         et ne laisse aucun pouvoir d’appréciation à ses destinataires qui sont chargés de sa mise en œuvre, celle-ci ayant un caractère
+         purement automatique et découlant de la seule réglementation de l’Union, sans application d’autres règles intermédiaires (voir,
+         notamment, arrêt Regione Siciliana/Commission, C‑15/P, EU:C:2007:183, point 31).
+      
+Or, l’enchaînement logique sur lequel la requérante fonde la première branche du présent moyen ne présente pas l’automaticité
+         qu’elle y voit.
+      
+À cet égard, il convient de relever, en premier lieu, que, dans l’hypothèse où l’ENAC déciderait de ne pas réclamer à SACBO
+         la restitution de la somme concernée, le fait que la somme ainsi conservée par SACBO puisse être qualifiée d’aide d’État ne
+         signifie pas que cette aide serait nécessairement incompatible avec le marché intérieur et, donc, ne permet pas à lui seul
+         d’écarter la possibilité d’une renonciation de l’ENAC à en demander le remboursement.
+      
+Il en est d’autant plus ainsi que la somme concernée est inférieure au plafond de euros fixé par les règlements (CE)
+         n° 1998/de la Commission, du décembre 2006, concernant l’application des articles [TFUE] et [TFUE] aux aides
+         de minimis (JO L 379, p. 5), ou (UE) n° 1407/de la Commission, du décembre 2013, relatif à l’application des articles
+         et du traité sur le fonctionnement de l’Union européenne aux aides de minimis (JO L 352, p. 1), dont il n’est pas
+         soutenu ni, a fortiori, démontré par SACBO qu’il serait inapplicable dans l’hypothèse évoquée au point précédent du présent
+         arrêt.
+      
+En second lieu, et en toute occurrence, la restitution de cette somme ne serait pas inéluctable. En effet, la Cour a admis
+         dans sa jurisprudence que les juridictions nationales puissent ne pas ordonner la restitution d’une aide d’État illégalement
+         versée lorsque cette restitution serait inappropriée en raison de circonstances exceptionnelles (voir, en ce sens, arrêt SFEI
+         e.a., C‑39/94, EU:C:1996:285, points et 71).
+      
+Il s’ensuit que, contrairement à l’argumentation soutenue par SACBO, l’acte litigieux n’impose pas automatiquement à l’ENAC
+         d’exiger de SACBO le remboursement d’un montant équivalent au trop-perçu que l’ENAC devrait restituer à la Commission. Par
+         conséquent, le Tribunal a pu considérer, sans méconnaître les dispositions visées dans la première branche du présent moyen,
+         que, dans le cas où l’ENAC exigerait de SACBO la restitution d’une somme équivalente au trop-perçu mentionné dans l’acte litigieux,
+         cette restitution découlerait de la convention conclue entre ces deux parties, mais ne constituerait pas un effet juridique
+         immédiat de cet acte.
+      
+Le moyen, en cette branche, n’est dès lors pas fondé.
+      
+Quant à la seconde branche, il y a lieu de rappeler que l’obligation de motivation qui incombe au Tribunal n’impose pas à
+         celui-ci de fournir un exposé qui suivrait, de manière exhaustive et un par un, tous les raisonnements articulés par les parties
+         au litige. La motivation de la décision du Tribunal peut donc être implicite, à condition qu’elle permette aux intéressés
+         de connaître les raisons pour lesquelles le Tribunal n’a pas fait droit à leurs arguments et à la Cour de disposer des éléments
+         suffisants pour exercer son contrôle (voir, en ce sens, arrêt Edwin/OHMI, C‑263/P, EU:C:2011:452, point et jurisprudence
+         citée).
+      
+Partant, il convient de considérer que, par les énonciations figurant au point de l’ordonnance attaquée, le Tribunal a
+         répondu à suffisance de droit à l’argumentation de la requérante selon laquelle l’obligation, pour elle, de rembourser à l’ENAC
+         l’équivalent du trop-perçu mentionné dans l’acte litigieux constituerait un effet juridique immédiat de cet acte, de sorte
+         que la seconde branche du présent moyen est, elle aussi, non fondée.
+      
+En conséquence, ce moyen doit être rejeté dans son intégralité comme non fondé.
+      
+–       Quant au sixième moyen
+Exposé du moyen
+Par son sixième moyen, tiré d’un défaut de motivation, SACBO reproche au Tribunal de ne pas avoir pris en considération son
+         argumentation relative au rôle joué par elle dans le cadre de la procédure de financement et dans le cadre des échanges qui
+         ont conduit à l’adoption de l’acte litigieux, rôle qui lui aurait conféré une position propre, individuelle et différenciée,
+         dont découlent des effets immédiats sur sa situation juridique.
+      
+Appréciation de la Cour
+Ce moyen procède d’une lecture incorrecte de l’ordonnance attaquée. En effet, le Tribunal a expressément répondu à cette argumentation
+         au point de cette ordonnance, où il a mentionné l’ensemble des éléments mis en avant par SACBO pour écarter ensuite la
+         thèse selon laquelle il en résulterait que cette dernière serait directement affectée par l’acte litigieux. À cet égard, le
+         Tribunal a indiqué que, dès lors que cet acte et la décision d’octroi mentionnent que l’ENAC est le bénéficiaire du concours
+         et s’est engagé à réaliser le projet concerné sous sa propre responsabilité, les rapports ayant existé entre SACBO et l’INEA
+         n’ont pas pu avoir pour conséquence que SACBO ait qualité pour agir contre l’acte litigieux.
+      
+Ledit moyen doit dès lors être rejeté comme non fondé.
+      
+En conséquence, il résulte de l’ensemble des considérations qui précèdent que les moyens présentés contre la décision du Tribunal
+         selon laquelle SACBO n’est pas directement concernée par l’acte litigieux doivent être rejetés.
+      
+ Quant à la décision du Tribunal selon laquelle l’acte litigieux n’est pas un acte attaquable
+Étant donné que le pourvoi s’avère impuissant à remettre en cause la décision du Tribunal selon laquelle SACBO n’est pas directement
+         concernée par l’acte litigieux, il n’y a pas lieu d’examiner le septième moyen, qui vise l’appréciation du Tribunal selon
+         laquelle cet acte ne serait pas un acte attaquable. En effet, ce moyen doit être considéré comme inopérant, car, même à supposer
+         qu’il soit fondé, il ne pourrait pas entraîner l’annulation de l’ordonnance attaquée, puisque l’irrecevabilité du recours
+         introduit par SACBO resterait régulièrement motivée par la constatation que celle-ci n’a pas qualité pour agir.
+      
+Partant, le pourvoi doit être rejeté dans son ensemble.
+      
+ Sur les dépens
+L’article 184, paragraphe 2, du règlement de procédure prévoit que, lorsque le pourvoi n’est pas fondé, la Cour statue sur
+         les dépens. Aux termes de l’article 138, paragraphe 1, du même règlement, applicable à la procédure de pourvoi en vertu de
+         l’article 184, paragraphe 1, de celui-ci, toute partie qui succombe est condamnée aux dépens, s’il est conclu en ce sens.
+         La Commission et l’INEA ayant conclu à la condamnation de SACBO aux dépens et cette dernière ayant succombé en ses moyens,
+         il y a lieu de la condamner aux dépens.
+      
+Par ces motifs, la Cour (dixième chambre) déclare et arrête:
+1)      Le pourvoi est rejeté.
+2)      Società per l’aeroporto civile di Bergamo-Orio al Serio (SACBO) SpA est condamnée aux dépens.
+Signatures
+* Langue de procédure: l’italien.
+      
+Top  

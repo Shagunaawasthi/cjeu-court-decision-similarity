@@ -63,9 +63,8 @@ for r, d, f in os.walk(path):
                 index_to_celex[index] = file
                 index += 1
 
-datafortraining = datafortraining[1200:1250]
+#datafortraining = datafortraining[1200:1250]
 documents = [TaggedDocument(file, [i]) for i, file in enumerate(datafortraining)]
-
 
 # ### Step 2. Train Doc2Vec model on input case texts
 

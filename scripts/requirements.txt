@@ -2,3 +2,4 @@ gensim
 setuptools
 nltk
 pandas
+scikit-learn

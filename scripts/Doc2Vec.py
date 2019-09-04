@@ -51,10 +51,14 @@ def cleanfilename(name):
     result = result.replace(".txt","")
     return result
 
-def remove_stopwords(text):
-    global stopwords_full
-    for item in stopwords_full:
-        text = text.replace(str(item),'')
+def removeStopWords(text, stopwords_list):
+    text = text.lower()
+    for item in stopwords_list:
+        text = text.replace(" " + item.lower() + " "," ")
+        text = text.replace(" " + item.lower() + ","," ")
+        text = text.replace(" " + item.lower() + "."," ")
+        text = text.replace(" " + item.lower() + ";"," ")
+    text = text.replace("+","")
     return text
 
 # Import files and define mapping between case IDS and full texts   
@@ -67,9 +71,9 @@ for r, d, f in os.walk(path):
         if '.txt' in file:
             files.append(os.path.join(r, file))
             celexnum = cleanfilename(os.path.basename(file))
-            with open (path+file, "r", encoding="utf-8" ) as myfile:
+            with open (path+file, "r", encoding="utf-8") as myfile:
                 data = myfile.read().replace('\n', '')
-                data = remove_stopwords(data)
+                data = removeStopWords(data,stopwords_full)
                 datafortraining.append(data)
                 index_to_celex[index] = file
                 index += 1
@@ -90,37 +94,25 @@ from gensim.test.utils import get_tmpfile
 
 print("* Loading / training Doc2Vec models...")
 
-model_32 = None
 model_64 = None
 model_128 = None
 model_256 = None
 
-fname_32 = None
+model_64_10 = None
+model_128_10 = None
+model_256_10 = None
+
 fname_64 = None
 fname_128 = None
 fname_256 = None
 
-print()
-print("* Vector size 32")
-print()
+fname_64_10 = None
+fname_128_10 = None
+fname_256_10 = None
 
-if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_32.model")):
-    print(" loading model from file...")
-    fname_32 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_32.model"))
-    model_32 = Doc2Vec.load(fname_32)
-    print(" successfully loaded model!")
-else:
-    print(" training model...")
-    model_32 = Doc2Vec(documents, vector_size=32, window=5, min_count=1, workers=4)
-    model_32.train(documents, total_examples=model_32.corpus_count,epochs=20)
-    print(" successfully trained model!")
-    print(" saving model to file...")
-    fname_32 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_32.model"))
-    model_32.save(fname_32)
-    print(" successfully saved model!")
-    
 print()
-
+print("* Window size: 5")
+print()
 print("* Vector size 64")
 if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64.model")):
     print(" loading model from file...")
@@ -129,7 +121,7 @@ if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_reso
     print(" successfully loaded model!")
 else:
     print(" training model...")
-    model_64 = Doc2Vec(documents, vector_size=64, window=5, min_count=1, workers=4)
+    model_64 = Doc2Vec(documents, vector_size=64, window=5, min_count=1, workers=16)
     model_64.train(documents, total_examples=model_64.corpus_count,epochs=20)
     print(" successfully trained model!")
     print(" saving model to file...")
@@ -147,7 +139,7 @@ if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_reso
     print(" successfully loaded model!")
 else:
     print(" training model...")
-    model_128 = Doc2Vec(documents, vector_size=128, window=5, min_count=1, workers=4)
+    model_128 = Doc2Vec(documents, vector_size=128, window=5, min_count=1, workers=16)
     model_128.train(documents, total_examples=model_128.corpus_count,epochs=20)
     print(" successfully trained model!")
     print(" saving model to file...")
@@ -165,12 +157,69 @@ if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_reso
     print(" successfully loaded model!")
 else:
     print(" training model...")
-    model_256 = Doc2Vec(documents, vector_size=256, window=5, min_count=1, workers=4)
+    model_256 = Doc2Vec(documents, vector_size=256, window=5, min_count=1, workers=16)
     model_256.train(documents, total_examples=model_256.corpus_count,epochs=20)
     print(" successfully trained model!")
     print(" saving model to file...")
     fname_256 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256.model"))
     model_256.save(fname_256)
+    print(" successfully saved model!")
+print()
+
+
+print()
+print("* Window size: 10")
+print()
+print("* Vector size 64")
+if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64_10.model")):
+    print(" loading model from file...")
+    fname_64_10_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64_10.model"))
+    model_64_10_10 = Doc2Vec.load(fname_64_10)
+    print(" successfully loaded model!")
+else:
+    print(" training model...")
+    model_64_10 = Doc2Vec(documents, vector_size=64, window=10, min_count=1, workers=16)
+    model_64_10.train(documents, total_examples=model_64_10.corpus_count,epochs=20)
+    print(" successfully trained model!")
+    print(" saving model to file...")
+    fname_64_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64_10.model"))
+    model_64_10.save(fname_64_10)
+    print(" successfully saved model!")
+    
+print()
+
+print("* Vector size 128")
+if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_128_10.model")):
+    print(" loading model from file...")
+    fname_128_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_128_10.model"))
+    model_128_10 = Doc2Vec.load(fname_128_10)
+    print(" successfully loaded model!")
+else:
+    print(" training model...")
+    model_128_10 = Doc2Vec(documents, vector_size=128, window=10, min_count=1, workers=16)
+    model_128_10.train(documents, total_examples=model_128_10.corpus_count,epochs=20)
+    print(" successfully trained model!")
+    print(" saving model to file...")
+    fname_128_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_128_10.model"))
+    model_128_10.save(fname_128_10)
+    print(" successfully saved model!")
+
+print()
+    
+print("* Vector size 256")
+if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256_10.model")):
+    print(" loading model from file...")
+    fname_256_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256_10.model"))
+    model_256_10 = Doc2Vec.load(fname_256_10)
+    print(" successfully loaded model!")
+else:
+    print(" training model...")
+    model_256_10 = Doc2Vec(documents, vector_size=256, window=10, min_count=1, workers=16)
+    model_256_10.train(documents, total_examples=model_256_10.corpus_count,epochs=20)
+    print(" successfully trained model!")
+    print(" saving model to file...")
+    fname_256_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256_10.model"))
+    model_256_10.save(fname_256_10)
     print(" successfully saved model!")
 print()
 
@@ -210,20 +259,6 @@ def get_sample_cases(topic):
 publichealth = get_sample_cases('public health')
 socialpolicy = get_sample_cases('social policy')
 dataprotection = get_sample_cases('data protection')
-
-publichealth_indices = []
-socialpolicy_indices = []
-dataprotection_indices = []
-sample_cases_indices = []
-
-for item in publichealth:
-    sample_cases_indices.append(celex_to_index(item))
-
-for item in socialpolicy:
-    sample_cases_indices.append(celex_to_index(item))
-
-for item in dataprotection:
-    sample_cases_indices.append(celex_to_index(item))
 
 print(" Successfully imported sample cases!")
 print()
@@ -283,10 +318,11 @@ def lookup_similar_cases(sample_cases, n, topic, model, modelfilename):
         similar_cases = model.docvecs.most_similar(celex_to_index(item), topn=n)
         similar_cases_references = convert_to_case_references(similar_cases)
         for reference in similar_cases_references:
-            method = modelfilename[-17:]
+            path = str(os.path.join(os.path.realpath('..'), "script_resources"))
+            method = modelfilename.replace(path,"")
             method = method.replace(".model","")
             method = method.replace('\\',"")
-            method = method + str("_default")
+            method = method.replace('/',"")
             results.append([item,reference[0],reference[1],method,exists_citation_link_between(item,reference[0]),topic])
 
 
@@ -295,20 +331,26 @@ def lookup_similar_cases(sample_cases, n, topic, model, modelfilename):
 
 print("* Computing similar cases...")
 
-lookup_similar_cases(publichealth,20,'public health', model_32, fname_32)
 lookup_similar_cases(publichealth,20,'public health', model_64, fname_64)
 lookup_similar_cases(publichealth,20,'public health', model_128, fname_128)
 lookup_similar_cases(publichealth,20,'public health', model_256, fname_256)
+lookup_similar_cases(publichealth,20,'public health', model_64_10, fname_64_10)
+lookup_similar_cases(publichealth,20,'public health', model_128_10, fname_128_10)
+lookup_similar_cases(publichealth,20,'public health', model_256_10, fname_256_10)
 
-lookup_similar_cases(socialpolicy,20,'social policy', model_32, fname_32)
 lookup_similar_cases(socialpolicy,20,'social policy', model_64, fname_64)
 lookup_similar_cases(socialpolicy,20,'social policy', model_128, fname_128)
 lookup_similar_cases(socialpolicy,20,'social policy', model_256, fname_256)
+lookup_similar_cases(socialpolicy,20,'social policy', model_64_10, fname_64_10)
+lookup_similar_cases(socialpolicy,20,'social policy', model_128_10, fname_128_10)
+lookup_similar_cases(socialpolicy,20,'social policy', model_256_10, fname_256_10)
 
-lookup_similar_cases(dataprotection,20,'data protection', model_32, fname_32)
 lookup_similar_cases(dataprotection,20,'data protection', model_64, fname_64)
 lookup_similar_cases(dataprotection,20,'data protection', model_128, fname_128)
 lookup_similar_cases(dataprotection,20,'data protection', model_256, fname_256)
+lookup_similar_cases(dataprotection,20,'data protection', model_64_10, fname_64_10)
+lookup_similar_cases(dataprotection,20,'data protection', model_128_10, fname_128_10)
+lookup_similar_cases(dataprotection,20,'data protection', model_256_10, fname_256_10)
 
 print(" Successfully computed similar cases!")
 print()
@@ -332,7 +374,7 @@ with open('../outputdata/results.csv', 'a', newline='') as outfile:
     
 end = time.time()
 
-print(" Successfully wrote files to file!")
+print(" Successfully wrote results to file!")
 print()
 print(" Done!")
 print()

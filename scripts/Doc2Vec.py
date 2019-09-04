@@ -72,7 +72,17 @@ documents = [TaggedDocument(file, [i]) for i, file in enumerate(datafortraining)
 
 
 # This will take a while... a few hours
-model = Doc2Vec(documents, vector_size=32, window=5, min_count=1, workers=4)
+from gensim.test.utils import get_tmpfile
+fname_32 = get_tmpfile("../script_resources/doc2vec_model_32.model")
+fname_64 = get_tmpfile("../script_resources/doc2vec_model_64.model")
+fname_128 = get_tmpfile("../script_resources/doc2vec_model_128.model")
+fname_256 = get_tmpfile("../script_resources/doc2vec_model_256.model")
+
+model = Doc2Vec(documents, vector_size=128, window=5, min_count=1, workers=4)
+model.train(documents, total_examples=model.corpus_count,epochs=20)
+model = Doc2Vec(documents, vector_size=128, window=5, min_count=1, workers=4)
+model.train(documents, total_examples=model.corpus_count,epochs=20)
+model = Doc2Vec(documents, vector_size=128, window=5, min_count=1, workers=4)
 model.train(documents, total_examples=model.corpus_count,epochs=20)
 
 
@@ -165,7 +175,7 @@ def lookup_similar_cases(sample_cases, n, topic):
         similar_cases = model.docvecs.most_similar(celex_to_index(item), topn=n)
         similar_cases_references = convert_to_case_references(similar_cases)
         for reference in similar_cases_references:
-            results.append([item,reference[0],reference[1],'doc2vec',exists_citation_link_between(item,reference[0]),topic])
+            results.append([item,reference[0],reference[1],'doc2vec - 128',exists_citation_link_between(item,reference[0]),topic])
             
 # 1. Public Health
 lookup_similar_cases(publichealth,20,'public health')

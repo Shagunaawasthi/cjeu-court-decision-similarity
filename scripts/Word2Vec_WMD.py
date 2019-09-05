@@ -64,7 +64,9 @@ for r, d, f in os.walk(path):
             files.append(os.path.join(r, file))
             celexnum = cleanfilename(os.path.basename(file))
             with open (path+file, "r", encoding="utf-8") as myfile:
+
                 data = myfile.read().replace('\n', '')
+
                 data = removeStopWords(data,stopwords_full)
                 datafortraining.append(data)
                 index_to_celex[index] = file
@@ -74,7 +76,6 @@ for r, d, f in os.walk(path):
 
 print(" Index successfully built!")
 print()
-
 
 # In[3]:
 
@@ -166,8 +167,8 @@ print()
 print("* Vector size 64")
 if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_64_10.model")):
     print(" loading model from file...")
-    fname_64_10_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_64_10.model"))
-    model_64_10_10 = Word2Vec.load(fname_64_10)
+    fname_64_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_64_10.model"))
+    model_64_10 = Word2Vec.load(fname_64_10)
     print(" successfully loaded model!")
 else:
     print(" training model...")
@@ -307,9 +308,9 @@ def lookup_similar_cases(sample_cases, n, topic, model, modelfilename):
     global datafortraining
     
     count = 1
+    sim = WmdSimilarity(datafortraining, model, num_best=n)
     for item in sample_cases:
-        sim_instance = WmdSimilarity(datafortraining, model, num_best=n)
-        similar_cases = sim_instance[celex_to_value[item]]
+        similar_cases = sim[celex_to_value[item]]
         similar_cases_references = convert_to_case_references(similar_cases)
         for reference in similar_cases_references:
             path = str(os.path.join(os.path.realpath('..'), "script_resources"))
@@ -319,32 +320,48 @@ def lookup_similar_cases(sample_cases, n, topic, model, modelfilename):
             method = method.replace('/',"")
             results.append([item,reference[0],reference[1],method,exists_citation_link_between(item,reference[0]),topic])
 
-
 # In[17]:
-
 
 print("* Computing similar cases...")
 
 lookup_similar_cases(publichealth,20,'public health', model_64, fname_64)
+print(" 1 ")
 lookup_similar_cases(publichealth,20,'public health', model_128, fname_128)
+print(" 2 ")
 lookup_similar_cases(publichealth,20,'public health', model_256, fname_256)
+print(" 3 ")
 lookup_similar_cases(publichealth,20,'public health', model_64_10, fname_64_10)
+print(" 4 ")
 lookup_similar_cases(publichealth,20,'public health', model_128_10, fname_128_10)
+print(" 5 ")
 lookup_similar_cases(publichealth,20,'public health', model_256_10, fname_256_10)
+print(" 6 ")
 
 lookup_similar_cases(socialpolicy,20,'social policy', model_64, fname_64)
+print(" 7 ")
 lookup_similar_cases(socialpolicy,20,'social policy', model_128, fname_128)
+print(" 8 ")
 lookup_similar_cases(socialpolicy,20,'social policy', model_256, fname_256)
+print(" 9 ")
 lookup_similar_cases(socialpolicy,20,'social policy', model_64_10, fname_64_10)
+print(" 10 ")
 lookup_similar_cases(socialpolicy,20,'social policy', model_128_10, fname_128_10)
+print(" 11 ")
 lookup_similar_cases(socialpolicy,20,'social policy', model_256_10, fname_256_10)
+print(" 12 ")
 
 lookup_similar_cases(dataprotection,20,'data protection', model_64, fname_64)
+print(" 13 ")
 lookup_similar_cases(dataprotection,20,'data protection', model_128, fname_128)
+print(" 14 ")
 lookup_similar_cases(dataprotection,20,'data protection', model_256, fname_256)
+print(" 15 ")
 lookup_similar_cases(dataprotection,20,'data protection', model_64_10, fname_64_10)
+print(" 16 ")
 lookup_similar_cases(dataprotection,20,'data protection', model_128_10, fname_128_10)
+print(" 17 ")
 lookup_similar_cases(dataprotection,20,'data protection', model_256_10, fname_256_10)
+print(" 18 ")
 
 print(" Successfully computed similar cases!")
 print()

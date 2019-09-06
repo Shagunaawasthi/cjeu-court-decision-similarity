@@ -438,12 +438,6 @@ def lookup_similar_cases(sample_cases, n, topic, model, modelfilename):
 
 print("* Computing similar cases...")
 
-model_256_15 = None
-model_256_20 = None
-model_300_15 = None
-model_300_20 = None
-model_512_15 = None
-
 lookup_similar_cases(publichealth,20,'public health', model_256_15, fname_256_15)
 lookup_similar_cases(publichealth,20,'public health', model_256_20, fname_256_20)
 lookup_similar_cases(publichealth,20,'public health', model_300_15, fname_300_15)

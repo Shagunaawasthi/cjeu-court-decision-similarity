@@ -114,54 +114,54 @@ print()
 print("* Window size: 5")
 print()
 print("* Vector size 64")
-if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64_e5.model")):
+if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64_e10.model")):
     print(" loading model from file...")
-    fname_64 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64_e5.model"))
+    fname_64 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64_e10.model"))
     model_64 = Doc2Vec.load(fname_64)
     print(" successfully loaded model!")
 else:
     print(" training model...")
     model_64 = Doc2Vec(documents, vector_size=64, window=5, min_count=1, workers=4)
-    model_64.train(documents, total_examples=model_64.corpus_count,epochs=5)
+    model_64.train(documents, total_examples=model_64.corpus_count,epochs=10)
     print(" successfully trained model!")
     print(" saving model to file...")
-    fname_64 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64_e5.model"))
+    fname_64 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64_e10.model"))
     model_64.save(fname_64)
     print(" successfully saved model!")
     
 print()
 
 print("* Vector size 128")
-if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_128_e5.model")):
+if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_128_e10_e10.model")):
     print(" loading model from file...")
-    fname_128 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_128_e5.model"))
+    fname_128 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_128_e10_e10.model"))
     model_128 = Doc2Vec.load(fname_128)
     print(" successfully loaded model!")
 else:
     print(" training model...")
     model_128 = Doc2Vec(documents, vector_size=128, window=5, min_count=1, workers=4)
-    model_128.train(documents, total_examples=model_128.corpus_count,epochs=5)
+    model_128.train(documents, total_examples=model_128.corpus_count,epochs=10)
     print(" successfully trained model!")
     print(" saving model to file...")
-    fname_128 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_128_e5.model"))
+    fname_128 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_128_e10.model"))
     model_128.save(fname_128)
     print(" successfully saved model!")
 
 print()
     
 print("* Vector size 256")
-if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256_e5.model")):
+if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256_e10.model")):
     print(" loading model from file...")
-    fname_256 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256_e5.model"))
+    fname_256 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256_e10.model"))
     model_256 = Doc2Vec.load(fname_256)
     print(" successfully loaded model!")
 else:
     print(" training model...")
     model_256 = Doc2Vec(documents, vector_size=256, window=5, min_count=1, workers=4)
-    model_256.train(documents, total_examples=model_256.corpus_count,epochs=5)
+    model_256.train(documents, total_examples=model_256.corpus_count,epochs=10)
     print(" successfully trained model!")
     print(" saving model to file...")
-    fname_256 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256_e5.model"))
+    fname_256 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256_e10.model"))
     model_256.save(fname_256)
     print(" successfully saved model!")
 print()
@@ -171,54 +171,54 @@ print()
 print("* Window size: 10")
 print()
 print("* Vector size 64")
-if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64_10_e5.model")):
+if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64_10_e10.model")):
     print(" loading model from file...")
-    fname_64_10_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64_10_e5.model"))
+    fname_64_10_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64_10_e10.model"))
     model_64_10_10 = Doc2Vec.load(fname_64_10)
     print(" successfully loaded model!")
 else:
     print(" training model...")
     model_64_10 = Doc2Vec(documents, vector_size=64, window=10, min_count=1, workers=4)
-    model_64_10.train(documents, total_examples=model_64_10.corpus_count,epochs=5)
+    model_64_10.train(documents, total_examples=model_64_10.corpus_count,epochs=10)
     print(" successfully trained model!")
     print(" saving model to file...")
-    fname_64_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64_10_e5.model"))
+    fname_64_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_64_10_e10.model"))
     model_64_10.save(fname_64_10)
     print(" successfully saved model!")
     
 print()
 
 print("* Vector size 128")
-if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_128_10_e5.model")):
+if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_128_10_e10.model")):
     print(" loading model from file...")
-    fname_128_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_128_10_e5.model"))
+    fname_128_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_128_10_e10.model"))
     model_128_10 = Doc2Vec.load(fname_128_10)
     print(" successfully loaded model!")
 else:
     print(" training model...")
     model_128_10 = Doc2Vec(documents, vector_size=128, window=10, min_count=1, workers=4)
-    model_128_10.train(documents, total_examples=model_128_10.corpus_count,epochs=5)
+    model_128_10.train(documents, total_examples=model_128_10.corpus_count,epochs=10)
     print(" successfully trained model!")
     print(" saving model to file...")
-    fname_128_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_128_10_e5.model"))
+    fname_128_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_128_10_e10.model"))
     model_128_10.save(fname_128_10)
     print(" successfully saved model!")
 
 print()
     
 print("* Vector size 256")
-if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256_10_e5.model")):
+if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256_10_e10.model")):
     print(" loading model from file...")
-    fname_256_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256_10_e5.model"))
+    fname_256_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256_10_e10.model"))
     model_256_10 = Doc2Vec.load(fname_256_10)
     print(" successfully loaded model!")
 else:
     print(" training model...")
     model_256_10 = Doc2Vec(documents, vector_size=256, window=10, min_count=1, workers=4)
-    model_256_10.train(documents, total_examples=model_256_10.corpus_count,epochs=5)
+    model_256_10.train(documents, total_examples=model_256_10.corpus_count,epochs=10)
     print(" successfully trained model!")
     print(" saving model to file...")
-    fname_256_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256_10_e5.model"))
+    fname_256_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "doc2vec_256_10_e10.model"))
     model_256_10.save(fname_256_10)
     print(" successfully saved model!")
 print()

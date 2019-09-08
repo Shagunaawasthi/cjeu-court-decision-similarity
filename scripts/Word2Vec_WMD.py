@@ -329,7 +329,7 @@ def lookup_similar_cases(sample_cases, n, topic, model, modelfilename):
 print("* Computing similar cases...")
 
 print(" Building WMD document similarity matrix...")
-sim = WmdSimilarity(datafortraining, model_256, num_best=n)
+sim = WmdSimilarity(datafortraining, model_256, num_best=20)
 print(" Successfully built the WMD similarity matrix!")
 print()
 

@@ -3,7 +3,7 @@
 
 # In[2]:
 
-
+import gensim
 from gensim.models import Word2Vec
 import os
 import pickle

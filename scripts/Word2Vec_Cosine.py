@@ -325,7 +325,7 @@ def lookup_similar_cases(sample_cases, n, topic, model, modelfilename):
             results.append([item,reference[0],reference[1],method,exists_citation_link_between(item,reference[0]),topic])
 
 # In[17]:
-
+from gensim.similarities import MatrixSimilarity
 print("* Computing similar cases...")
 
 print(" Building WMD document similarity matrix...")

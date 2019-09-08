@@ -85,62 +85,62 @@ from gensim.test.utils import get_tmpfile
 
 print("* Loading / training Doc2Vec models...")
 
-model_64 = None
-model_128 = None
+# model_64 = None
+# model_128 = None
 model_256 = None
 
-model_64_10 = None
-model_128_10 = None
-model_256_10 = None
+# model_64_10 = None
+# model_128_10 = None
+# model_256_10 = None
 
-fname_64 = None
-fname_128 = None
+# fname_64 = None
+# fname_128 = None
 fname_256 = None
 
-fname_64_10 = None
-fname_128_10 = None
-fname_256_10 = None
+# fname_64_10 = None
+# fname_128_10 = None
+# fname_256_10 = None
 
-print()
-print("* Window size: 5")
-print()
-print("* Vector size 64")
-if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_64.model")):
-    print(" loading model from file...")
-    fname_64 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_64.model"))
-    model_64 = Word2Vec.load(fname_64)
-    print(" successfully loaded model!")
-else:
-    print(" training model...")
-    model_64 = Word2Vec(datafortraining, size=64, window=5, min_count=1, workers=16)
-    model_64.train(datafortraining, total_examples=model_64.corpus_count,epochs=20)
-    model_64.init_sims(replace=True)
-    print(" successfully trained model!")
-    print(" saving model to file...")
-    fname_64 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_64.model"))
-    model_64.save(fname_64)
-    print(" successfully saved model!")
+# print()
+# print("* Window size: 5")
+# print()
+# print("* Vector size 64")
+# if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_64.model")):
+#     print(" loading model from file...")
+#     fname_64 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_64.model"))
+#     model_64 = Word2Vec.load(fname_64)
+#     print(" successfully loaded model!")
+# else:
+#     print(" training model...")
+#     model_64 = Word2Vec(datafortraining, size=64, window=5, min_count=1, workers=16)
+#     model_64.train(datafortraining, total_examples=model_64.corpus_count,epochs=20)
+#     model_64.init_sims(replace=True)
+#     print(" successfully trained model!")
+#     print(" saving model to file...")
+#     fname_64 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_64.model"))
+#     model_64.save(fname_64)
+#     print(" successfully saved model!")
     
-print()
+# print()
 
-print("* Vector size 128")
-if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_128.model")):
-    print(" loading model from file...")
-    fname_128 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_128.model"))
-    model_128 = Word2Vec.load(fname_128)
-    print(" successfully loaded model!")
-else:
-    print(" training model...")
-    model_128 = Word2Vec(datafortraining, size=128, window=5, min_count=1, workers=16)
-    model_128.train(datafortraining, total_examples=model_128.corpus_count,epochs=20)
-    model_128.init_sims(replace=True)
-    print(" successfully trained model!")
-    print(" saving model to file...")
-    fname_128 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_128.model"))
-    model_128.save(fname_128)
-    print(" successfully saved model!")
+# print("* Vector size 128")
+# if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_128.model")):
+#     print(" loading model from file...")
+#     fname_128 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_128.model"))
+#     model_128 = Word2Vec.load(fname_128)
+#     print(" successfully loaded model!")
+# else:
+#     print(" training model...")
+#     model_128 = Word2Vec(datafortraining, size=128, window=5, min_count=1, workers=16)
+#     model_128.train(datafortraining, total_examples=model_128.corpus_count,epochs=20)
+#     model_128.init_sims(replace=True)
+#     print(" successfully trained model!")
+#     print(" saving model to file...")
+#     fname_128 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_128.model"))
+#     model_128.save(fname_128)
+#     print(" successfully saved model!")
 
-print()
+# print()
     
 print("* Vector size 256")
 if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_256.model")):
@@ -161,64 +161,64 @@ else:
 print()
 
 
-print()
-print("* Window size: 10")
-print()
-print("* Vector size 64")
-if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_64_10.model")):
-    print(" loading model from file...")
-    fname_64_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_64_10.model"))
-    model_64_10 = Word2Vec.load(fname_64_10)
-    print(" successfully loaded model!")
-else:
-    print(" training model...")
-    model_64_10 = Word2Vec(datafortraining, size=64, window=10, min_count=1, workers=16)
-    model_64_10.train(datafortraining, total_examples=model_64_10.corpus_count,epochs=20)
-    model_64_10.init_sims(replace=True)
-    print(" successfully trained model!")
-    print(" saving model to file...")
-    fname_64_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_64_10.model"))
-    model_64_10.save(fname_64_10)
-    print(" successfully saved model!")
+# print()
+# print("* Window size: 10")
+# print()
+# print("* Vector size 64")
+# if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_64_10.model")):
+#     print(" loading model from file...")
+#     fname_64_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_64_10.model"))
+#     model_64_10 = Word2Vec.load(fname_64_10)
+#     print(" successfully loaded model!")
+# else:
+#     print(" training model...")
+#     model_64_10 = Word2Vec(datafortraining, size=64, window=10, min_count=1, workers=16)
+#     model_64_10.train(datafortraining, total_examples=model_64_10.corpus_count,epochs=20)
+#     model_64_10.init_sims(replace=True)
+#     print(" successfully trained model!")
+#     print(" saving model to file...")
+#     fname_64_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_64_10.model"))
+#     model_64_10.save(fname_64_10)
+#     print(" successfully saved model!")
     
-print()
+# print()
 
-print("* Vector size 128")
-if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_128_10.model")):
-    print(" loading model from file...")
-    fname_128_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_128_10.model"))
-    model_128_10 = Word2Vec.load(fname_128_10)
-    print(" successfully loaded model!")
-else:
-    print(" training model...")
-    model_128_10 = Word2Vec(datafortraining, size=128, window=10, min_count=1, workers=16)
-    model_128_10.train(datafortraining, total_examples=model_128_10.corpus_count,epochs=20)
-    model_128_10.init_sims(replace=True)
-    print(" successfully trained model!")
-    print(" saving model to file...")
-    fname_128_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_128_10.model"))
-    model_128_10.save(fname_128_10)
-    print(" successfully saved model!")
+# print("* Vector size 128")
+# if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_128_10.model")):
+#     print(" loading model from file...")
+#     fname_128_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_128_10.model"))
+#     model_128_10 = Word2Vec.load(fname_128_10)
+#     print(" successfully loaded model!")
+# else:
+#     print(" training model...")
+#     model_128_10 = Word2Vec(datafortraining, size=128, window=10, min_count=1, workers=16)
+#     model_128_10.train(datafortraining, total_examples=model_128_10.corpus_count,epochs=20)
+#     model_128_10.init_sims(replace=True)
+#     print(" successfully trained model!")
+#     print(" saving model to file...")
+#     fname_128_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_128_10.model"))
+#     model_128_10.save(fname_128_10)
+#     print(" successfully saved model!")
 
-print()
+# print()
     
-print("* Vector size 256")
-if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_256_10.model")):
-    print(" loading model from file...")
-    fname_256_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_256_10.model"))
-    model_256_10 = Word2Vec.load(fname_256_10)
-    print(" successfully loaded model!")
-else:
-    print(" training model...")
-    model_256_10 = Word2Vec(datafortraining, size=256, window=10, min_count=1, workers=16)
-    model_256_10.train(datafortraining, total_examples=model_256_10.corpus_count,epochs=20)
-    model_256_10.init_sims(replace=True)
-    print(" successfully trained model!")
-    print(" saving model to file...")
-    fname_256_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_256_10.model"))
-    model_256_10.save(fname_256_10)
-    print(" successfully saved model!")
-print()
+# print("* Vector size 256")
+# if os.path.exists(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_256_10.model")):
+#     print(" loading model from file...")
+#     fname_256_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_256_10.model"))
+#     model_256_10 = Word2Vec.load(fname_256_10)
+#     print(" successfully loaded model!")
+# else:
+#     print(" training model...")
+#     model_256_10 = Word2Vec(datafortraining, size=256, window=10, min_count=1, workers=16)
+#     model_256_10.train(datafortraining, total_examples=model_256_10.corpus_count,epochs=20)
+#     model_256_10.init_sims(replace=True)
+#     print(" successfully trained model!")
+#     print(" saving model to file...")
+#     fname_256_10 = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "WMD_256_10.model"))
+#     model_256_10.save(fname_256_10)
+#     print(" successfully saved model!")
+# print()
 
 
 # In[4]:
@@ -306,10 +306,14 @@ def lookup_similar_cases(sample_cases, n, topic, model, modelfilename):
     global results
     global celex_to_value
     global datafortraining
-    
+    global sim
+
     count = 1
-    sim = WmdSimilarity(datafortraining, model, num_best=n)
+    
+    num_samples = len(sample_cases)
     for item in sample_cases:
+        print("(",count,"/",num_samples,")","-","computing similarity for",str(item),"...")
+        count += 1
         similar_cases = sim[celex_to_value[item]]
         similar_cases_references = convert_to_case_references(similar_cases)
         for reference in similar_cases_references:
@@ -324,44 +328,58 @@ def lookup_similar_cases(sample_cases, n, topic, model, modelfilename):
 
 print("* Computing similar cases...")
 
-lookup_similar_cases(publichealth,20,'public health', model_64, fname_64)
-print(" 1 ")
-lookup_similar_cases(publichealth,20,'public health', model_128, fname_128)
-print(" 2 ")
+print(" Building WMD document similarity matrix...")
+sim = WmdSimilarity(datafortraining, model_256, num_best=20)
+print(" Successfully built the WMD similarity matrix!")
+print()
+
+print(" Computing similar cases for PUBLIC HEALTH samples...")
+# lookup_similar_cases(publichealth,20,'public health', model_64, fname_64)
+# print(" 1 ")
+# lookup_similar_cases(publichealth,20,'public health', model_128, fname_128)
+# print(" 2 ")
 lookup_similar_cases(publichealth,20,'public health', model_256, fname_256)
-print(" 3 ")
-lookup_similar_cases(publichealth,20,'public health', model_64_10, fname_64_10)
-print(" 4 ")
-lookup_similar_cases(publichealth,20,'public health', model_128_10, fname_128_10)
-print(" 5 ")
-lookup_similar_cases(publichealth,20,'public health', model_256_10, fname_256_10)
-print(" 6 ")
+print(" Successfully computed similarities for PUBLIC HEALTH samples...")
+print()
+# print(" 3 ")
+# lookup_similar_cases(publichealth,20,'public health', model_64_10, fname_64_10)
+# print(" 4 ")
+# lookup_similar_cases(publichealth,20,'public health', model_128_10, fname_128_10)
+# print(" 5 ")
+# lookup_similar_cases(publichealth,20,'public health', model_256_10, fname_256_10)
+# print(" 6 ")
 
-lookup_similar_cases(socialpolicy,20,'social policy', model_64, fname_64)
-print(" 7 ")
-lookup_similar_cases(socialpolicy,20,'social policy', model_128, fname_128)
-print(" 8 ")
+# lookup_similar_cases(socialpolicy,20,'social policy', model_64, fname_64)
+# print(" 7 ")
+# lookup_similar_cases(socialpolicy,20,'social policy', model_128, fname_128)
+# print(" 8 ")
+print(" Computing similar cases for SOCIAL POLICY samples...")
 lookup_similar_cases(socialpolicy,20,'social policy', model_256, fname_256)
-print(" 9 ")
-lookup_similar_cases(socialpolicy,20,'social policy', model_64_10, fname_64_10)
-print(" 10 ")
-lookup_similar_cases(socialpolicy,20,'social policy', model_128_10, fname_128_10)
-print(" 11 ")
-lookup_similar_cases(socialpolicy,20,'social policy', model_256_10, fname_256_10)
-print(" 12 ")
+print(" Successfully computed similarities for SOCIAL POLICY samples...")
+print()
+# print(" 9 ")
+# lookup_similar_cases(socialpolicy,20,'social policy', model_64_10, fname_64_10)
+# print(" 10 ")
+# lookup_similar_cases(socialpolicy,20,'social policy', model_128_10, fname_128_10)
+# print(" 11 ")
+# lookup_similar_cases(socialpolicy,20,'social policy', model_256_10, fname_256_10)
+# print(" 12 ")
 
-lookup_similar_cases(dataprotection,20,'data protection', model_64, fname_64)
-print(" 13 ")
-lookup_similar_cases(dataprotection,20,'data protection', model_128, fname_128)
-print(" 14 ")
+# lookup_similar_cases(dataprotection,20,'data protection', model_64, fname_64)
+# print(" 13 ")
+# lookup_similar_cases(dataprotection,20,'data protection', model_128, fname_128)
+# print(" 14 ")
+print(" Computing similar cases for DATA PROTECTION samples...")
 lookup_similar_cases(dataprotection,20,'data protection', model_256, fname_256)
-print(" 15 ")
-lookup_similar_cases(dataprotection,20,'data protection', model_64_10, fname_64_10)
-print(" 16 ")
-lookup_similar_cases(dataprotection,20,'data protection', model_128_10, fname_128_10)
-print(" 17 ")
-lookup_similar_cases(dataprotection,20,'data protection', model_256_10, fname_256_10)
-print(" 18 ")
+print(" Successfully computed similarities for DATA PROTECTION samples...")
+print()
+# print(" 15 ")
+# lookup_similar_cases(dataprotection,20,'data protection', model_64_10, fname_64_10)
+# print(" 16 ")
+# lookup_similar_cases(dataprotection,20,'data protection', model_128_10, fname_128_10)
+# print(" 17 ")
+# lookup_similar_cases(dataprotection,20,'data protection', model_256_10, fname_256_10)
+# print(" 18 ")
 
 print(" Successfully computed similar cases!")
 print()

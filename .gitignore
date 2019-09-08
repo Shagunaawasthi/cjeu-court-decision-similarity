@@ -13,4 +13,7 @@ __pycache__/
 *$py.class
 
 # Generated text files
-.txt
+*.txt
+*.vec
+script_resources/*.txt
+script_resources/*.vec

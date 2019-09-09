@@ -64,9 +64,7 @@ for r, d, f in os.walk(path):
             files.append(os.path.join(r, file))
             celexnum = cleanfilename(os.path.basename(file))
             with open (path+file, "r", encoding="utf-8") as myfile:
-
                 data = myfile.read().replace('\n', '')
-
                 data = removeStopWords(data,stopwords_full)
                 datafortraining.append(data)
                 index_to_celex[index] = file

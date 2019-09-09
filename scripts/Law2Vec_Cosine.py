@@ -85,7 +85,7 @@ from gensim.test.utils import datapath, get_tmpfile
 from gensim.models import KeyedVectors
 
 fname = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "Law2Vec.200d.txt"))
-model = KeyedVectors.load_word2vec_format(fname)
+model = KeyedVectors.load_word2vec_format(fname, binary=False)
 
 # In[4]:
 

@@ -1,0 +1,25 @@
+Syntactic:
+TF-IDF
+
+Semantic:
+Word2Vec + Cosine Similarity (Doc2Vec) - vector size, window size, epochs
+Word2Vec + WMD
+Bert + Cosine
+Law2Vec + Cosine
+
+Plots:
+
+1. Money plot! (Overlap with citations and similarity networks)
+	- Split into one for each algorithm?
+
+2. All plots include outgoing and incoming edges
+
+3. Matrix plot showing overlap for subsets (topics, models etc. ) in percentage
+
+4. Citation network alone? 
+
+5. Similarity Network alone?
+
+6. Do we want to split either of the graphs by topics?
+
+7. Table for results for syntactic and semantic algorithms

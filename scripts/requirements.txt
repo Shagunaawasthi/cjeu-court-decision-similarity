@@ -3,5 +3,6 @@ setuptools
 nltk
 pandas
 scikit-learn
-nltk.download('stopwords')
-conda install -c conda-forge pyemd
+pyemd
+strsim
+scipy

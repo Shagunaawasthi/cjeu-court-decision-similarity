@@ -15,5 +15,7 @@ __pycache__/
 # Generated text files
 *.txt
 *.vec
+*.bin
 script_resources/*.txt
 script_resources/*.vec
+script_resources/*.bin

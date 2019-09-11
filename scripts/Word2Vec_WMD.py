@@ -64,9 +64,7 @@ for r, d, f in os.walk(path):
             files.append(os.path.join(r, file))
             celexnum = cleanfilename(os.path.basename(file))
             with open (path+file, "r", encoding="utf-8") as myfile:
-
                 data = myfile.read().replace('\n', '')
-
                 data = removeStopWords(data,stopwords_full)
                 datafortraining.append(data)
                 index_to_celex[index] = file
@@ -338,7 +336,7 @@ print(" Computing similar cases for PUBLIC HEALTH samples...")
 # print(" 1 ")
 # lookup_similar_cases(publichealth,20,'public health', model_128, fname_128)
 # print(" 2 ")
-lookup_similar_cases(publichealth,20,'public health', model_256, fname_256)
+lookup_similar_cases(publichealth[0:3],20,'public health', model_256, fname_256)
 print(" Successfully computed similarities for PUBLIC HEALTH samples...")
 print()
 # print(" 3 ")
@@ -354,7 +352,7 @@ print()
 # lookup_similar_cases(socialpolicy,20,'social policy', model_128, fname_128)
 # print(" 8 ")
 print(" Computing similar cases for SOCIAL POLICY samples...")
-lookup_similar_cases(socialpolicy,20,'social policy', model_256, fname_256)
+#lookup_similar_cases(socialpolicy,20,'social policy', model_256, fname_256)
 print(" Successfully computed similarities for SOCIAL POLICY samples...")
 print()
 # print(" 9 ")
@@ -370,7 +368,7 @@ print()
 # lookup_similar_cases(dataprotection,20,'data protection', model_128, fname_128)
 # print(" 14 ")
 print(" Computing similar cases for DATA PROTECTION samples...")
-lookup_similar_cases(dataprotection,20,'data protection', model_256, fname_256)
+#lookup_similar_cases(dataprotection,20,'data protection', model_256, fname_256)
 print(" Successfully computed similarities for DATA PROTECTION samples...")
 print()
 # print(" 15 ")
@@ -392,10 +390,10 @@ print("* Writing results to file...")
 import csv
 import os.path
 
-if os.path.exists('../outputdata/results.csv') == False:
+if os.path.exists('../outputdata/results_wmd.csv') == False:
     results.insert(0,['source_case','similar_case','similarity_score','method','citation_link','source_case_topic'])
     
-with open('../outputdata/results.csv', 'a', newline='') as outfile:
+with open('../outputdata/results_wmd.csv', 'a', newline='') as outfile:
     writer = csv.writer(outfile, delimiter=',')
     writer.writerows(results)
     

@@ -4,6 +4,8 @@
 # In[2]:
 
 import gensim
+from gensim.test.utils import common_texts
+from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 from gensim.models import Word2Vec
 import os
 import pickle
@@ -13,8 +15,8 @@ import time
 
 start = time.time()
 
-print("Law2Vec + WMD document similarity analyser")
-print("------------------------------------------")
+print("GoogleNews + Cosine document similarity analyser")
+print("----------------------------------------------")
 print()
 
 print("* Building index of documents...")
@@ -79,14 +81,50 @@ print()
 
 # In[3]:
 
+docs = [TaggedDocument(file, [i]) for i, file in enumerate(datafortraining)]
+
+print("* Loading / training GoogleNews model...")
 
 import os.path
-print("* Loading / training Law2Vec model...")
-from gensim.test.utils import datapath, get_tmpfile
-from gensim.models import KeyedVectors
+from gensim.test.utils import get_tmpfile
+import gensim.models as g
+import logging
 
-fname = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "Law2Vec.200d.txt"))
-model = KeyedVectors.load_word2vec_format(fname)
+#doc2vec parameters
+vector_size = 300
+window_size = 5
+min_count = 1
+sampling_threshold = 1e-5
+negative_size = 5
+train_epoch = 20
+dm = 0 #0 = dbow; 1 = dmpv
+worker_count = 4 #number of parallel processes
+#pretrained word embeddings
+pretrained_emb = os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "GoogleNews-vectors-negative300.bin")
+#"toy_data/pretrained_word_embeddings.txt" #None if use without pretrained embeddings
+#input corpus
+
+#output model
+fname = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "GoogleNews_300.model"))
+
+#enable logging
+#logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+print("training...")
+#train doc2vec model
+model = g.Doc2Vec(docs, size=vector_size, window=window_size, min_count=min_count, sample=sampling_threshold, workers=worker_count, hs=0, dm=dm, negative=negative_size, dbow_words=1, dm_concat=1, pretrained_emb=pretrained_emb, iter=train_epoch)
+print("training completed!")
+print("saving model to file...")
+#save model
+model.save(fname)
+print("model saved!")
+
+# import os.path
+
+# from gensim.test.utils import datapath, get_tmpfile
+# from gensim.models import KeyedVectors
+
+# fname = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "Law2Vec.200d.txt"))
+# model = KeyedVectors.load_word2vec_format(fname, binary=False)
 
 # In[4]:
 
@@ -170,46 +208,34 @@ results = []
 
 def lookup_similar_cases(sample_cases, n, topic, model, modelfilename):
     global results
-    global celex_to_value
-    global datafortraining
-    global sim
 
-    count = 1
-    
-    num_samples = len(sample_cases)
     for item in sample_cases:
-        print("(",count,"/",num_samples,")","-","computing similarity for",str(item),"...")
-        count += 1
-        similar_cases = sim[celex_to_value[item]]
+        similar_cases = model.docvecs.most_similar(celex_to_index(item), topn=n)
         similar_cases_references = convert_to_case_references(similar_cases)
         for reference in similar_cases_references:
             path = str(os.path.join(os.path.realpath('..'), "script_resources"))
             method = modelfilename.replace(path,"")
-            method = method.replace(".200d.txt","-200-WMD")
+            method = method.replace(".model","")
             method = method.replace('\\',"")
             method = method.replace('/',"")
             results.append([item,reference[0],reference[1],method,exists_citation_link_between(item,reference[0]),topic])
 
 # In[17]:
-
 print("* Computing similar cases...")
 
-print(" Building WMD document similarity matrix...")
-sim = WmdSimilarity(datafortraining, model, num_best=21)
-print(" Successfully built the WMD similarity matrix!")
-print()
 print(" Computing similar cases for PUBLIC HEALTH samples...")
-lookup_similar_cases(publichealth[0:2],21,'public health', model, fname)
+lookup_similar_cases(publichealth,20,'public health', model, fname)
 print(" Successfully computed similarities for PUBLIC HEALTH samples...")
 print()
 print(" Computing similar cases for SOCIAL POLICY samples...")
-#lookup_similar_cases(socialpolicy,21,'social policy', model, fname)
+lookup_similar_cases(socialpolicy,20,'social policy', model, fname)
 print(" Successfully computed similarities for SOCIAL POLICY samples...")
 print()
 print(" Computing similar cases for DATA PROTECTION samples...")
-#lookup_similar_cases(dataprotection,21,'data protection', model, fname)
+lookup_similar_cases(dataprotection,20,'data protection', model, fname)
 print(" Successfully computed similarities for DATA PROTECTION samples...")
 print()
+
 print(" Successfully computed similar cases!")
 print()
 
@@ -221,10 +247,10 @@ print("* Writing results to file...")
 import csv
 import os.path
 
-if os.path.exists('../outputdata/results_law2vec_wmd.csv') == False:
+if os.path.exists('../outputdata/results_googlenews_cosine.csv') == False:
     results.insert(0,['source_case','similar_case','similarity_score','method','citation_link','source_case_topic'])
     
-with open('../outputdata/results_law2vec_wmd.csv', 'a', newline='') as outfile:
+with open('../outputdata/results_googlenews_cosine.csv', 'a', newline='') as outfile:
     writer = csv.writer(outfile, delimiter=',')
     writer.writerows(results)
     

@@ -13,8 +13,8 @@ import time
 
 start = time.time()
 
-print("Law2Vec + WMD document similarity analyser")
-print("------------------------------------------")
+print("GoogleNews + WMD document similarity analyser")
+print("----------------------------------------------")
 print()
 
 print("* Building index of documents...")
@@ -81,12 +81,12 @@ print()
 
 
 import os.path
-print("* Loading / training Law2Vec model...")
+print("* Loading / training GoogleNews model...")
 from gensim.test.utils import datapath, get_tmpfile
 from gensim.models import KeyedVectors
 
-fname = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "Law2Vec.200d.txt"))
-model = KeyedVectors.load_word2vec_format(fname)
+fname = get_tmpfile(os.path.join(os.path.join(os.path.realpath('..'), "script_resources"), "GoogleNews-vectors-negative300.bin"))
+model = gensim.models.KeyedVectors.load_word2vec_format(fname, binary=True)
 
 # In[4]:
 
@@ -185,7 +185,7 @@ def lookup_similar_cases(sample_cases, n, topic, model, modelfilename):
         for reference in similar_cases_references:
             path = str(os.path.join(os.path.realpath('..'), "script_resources"))
             method = modelfilename.replace(path,"")
-            method = method.replace(".200d.txt","-200-WMD")
+            method = method.replace("-vectors-negative300.bin","-300-WMD")
             method = method.replace('\\',"")
             method = method.replace('/',"")
             results.append([item,reference[0],reference[1],method,exists_citation_link_between(item,reference[0]),topic])
@@ -221,10 +221,10 @@ print("* Writing results to file...")
 import csv
 import os.path
 
-if os.path.exists('../outputdata/results_law2vec_wmd.csv') == False:
+if os.path.exists('../outputdata/results_googlenews_wmd.csv') == False:
     results.insert(0,['source_case','similar_case','similarity_score','method','citation_link','source_case_topic'])
     
-with open('../outputdata/results_law2vec_wmd.csv', 'a', newline='') as outfile:
+with open('../outputdata/results_googlenews_wmd.csv', 'a', newline='') as outfile:
     writer = csv.writer(outfile, delimiter=',')
     writer.writerows(results)
     

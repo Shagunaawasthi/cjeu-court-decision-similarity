@@ -1,1039 +1,1121 @@
-source,target,method,source_case_topic
-61988CJ0070,61987CJ0302,tfidf,public health
-62009CJ0229,62012CJ0210,tfidf,public health
-62009CJ0229,61998CJ0306,tfidf,public health
-62003CJ0211,61988CJ0369,tfidf,public health
-62007CJ0270,61997CJ0374,tfidf,public health
-62007CJ0270,62000CJ0284,tfidf,public health
-62016CJ0078,62002CJ0140,tfidf,public health
-62005CJ0326,62009CJ0077,tfidf,public health
-62013CJ0528,62009CJ0421,tfidf,public health
-62006CO0459,61998CO0364,tfidf,public health
-62006CO0459,61998CO0043,tfidf,public health
-62015CJ0112,62007CJ0270,tfidf,public health
-62005CO0326(01),62004CO0105,tfidf,public health
-62003CJ0177,62001CJ0296,tfidf,public health
-62016CJ0384,62011CJ0583,tfidf,public health
-62013CJ0011,62009CJ0229,tfidf,public health
-62013CJ0011,62004CJ0431,tfidf,public health
-62008CO0517,62011CO0584,tfidf,public health
-61998CJ0219,62002CJ0140,tfidf,public health
-62002CO0258,62000CJ0050,tfidf,public health
-62001CJ0135,62001CJ0362,tfidf,public health
-62014CJ0442,62009CJ0266,tfidf,public health
-62014CJ0442,62009CJ0524,tfidf,public health
-62015CJ0282,62001CJ0236,tfidf,public health
-62015CJ0282,61982CJ0174,tfidf,public health
-62010CJ0014,62008CJ0425,tfidf,public health
-62017CJ0634,62005CJ0176,tfidf,public health
-62015CJ0629,62001CJ0106,tfidf,public health
-62015CJ0629,61996CJ0368,tfidf,public health
-62015CJ0629,62003CJ0036,tfidf,public health
-62008CJ0184,62008CJ0282,tfidf,public health
-62016CJ0557,62013CJ0104,tfidf,public health
-61990CJ0006,61987CJ0022,tfidf,social policy
-62007CJ0378,62004CJ0212,tfidf,social policy
-62007CJ0378,62011CJ0251,tfidf,social policy
-62007CJ0378,62008CO0519,tfidf,social policy
-62007CJ0378,62004CJ0053,tfidf,social policy
-62007CJ0378,62013CJ0362,tfidf,social policy
-62007CJ0378,62004CJ0180,tfidf,social policy
-62007CJ0378,62007CO0364,tfidf,social policy
-62007CJ0378,62009CJ0109,tfidf,social policy
-62007CJ0378,62013CJ0190,tfidf,social policy
-62007CJ0378,62006CJ0268,tfidf,social policy
-62007CJ0378,62010CO0272,tfidf,social policy
-62007CJ0378,62004CJ0144,tfidf,social policy
-61995CJ0261,61995CJ0094,tfidf,social policy
-61995CJ0261,61995CJ0373,tfidf,social policy
-62009CJ0447,62007CJ0388,tfidf,social policy
-62009CJ0447,62009CJ0045,tfidf,social policy
-62009CJ0447,62007CJ0555,tfidf,social policy
-62009CJ0447,62008CJ0088,tfidf,social policy
-62009CJ0447,62008CJ0229,tfidf,social policy
-61993CJ0007,62000CJ0351,tfidf,social policy
-61993CJ0007,61991CJ0110,tfidf,social policy
-61993CJ0007,61999CJ0366,tfidf,social policy
-61993CJ0007,62002CJ0004,tfidf,social policy
-61996CJ0416,61991CJ0237,tfidf,social policy
-61996CJ0416,61996CJ0036,tfidf,social policy
-61996CJ0416,61996CJ0098,tfidf,social policy
-61992CJ0410,61990CJ0031,tfidf,social policy
-61993CJ0057,61991CJ0110,tfidf,social policy
-61993CJ0057,61988CJ0262,tfidf,social policy
-61993CJ0057,62002CJ0004,tfidf,social policy
-62002CJ0055,61992CJ0383,tfidf,social policy
-61989CJ0033,61989CJ0184,tfidf,social policy
-61989CJ0033,61992CJ0399,tfidf,social policy
-62006CJ0267,62008CJ0147,tfidf,social policy
-62006CJ0267,61991CJ0109,tfidf,social policy
-62006CJ0267,61999CJ0050,tfidf,social policy
-62006CJ0267,61991CJ0200,tfidf,social policy
-62006CJ0267,61995CJ0147,tfidf,social policy
-62006CJ0267,61999CJ0379,tfidf,social policy
-62006CJ0267,62000CJ0351,tfidf,social policy
-62007CO0364,62008CO0519,tfidf,social policy
-62007CO0364,62010CO0272,tfidf,social policy
-62007CO0364,62007CJ0378,tfidf,social policy
-62007CO0364,62004CJ0212,tfidf,social policy
-62007CO0364,62004CJ0053,tfidf,social policy
-62007CO0364,62004CJ0180,tfidf,social policy
-62007CO0364,62006CJ0268,tfidf,social policy
-61986CJ0157,61975CJ0043,tfidf,social policy
-61995CJ0001,61989CJ0184,tfidf,social policy
-61995CJ0001,61980CJ0096,tfidf,social policy
-61995CJ0001,61993CJ0457,tfidf,social policy
-62011CJ0251,62007CJ0378,tfidf,social policy
-62011CJ0251,62004CJ0212,tfidf,social policy
-62011CJ0251,62013CJ0362,tfidf,social policy
-62011CJ0251,62011CJ0302,tfidf,social policy
-62011CJ0251,62004CJ0144,tfidf,social policy
-62011CJ0251,62006CJ0268,tfidf,social policy
-62006CJ0427,62007CJ0555,tfidf,social policy
-62010CJ0177,62011CJ0302,tfidf,social policy
-62010CJ0177,62009CJ0444,tfidf,social policy
-62010CJ0177,62006CJ0268,tfidf,social policy
-62010CJ0177,62005CJ0307,tfidf,social policy
-62012CJ0007,62010CJ0149,tfidf,social policy
-61992CJ0421,61996CJ0394,tfidf,social policy
-61992CJ0421,61988CJ0177,tfidf,social policy
-61987CJ0144,61986CJ0287,tfidf,social policy
-61987CJ0144,61986CJ0324,tfidf,social policy
-62010CJ0210,61990CJ0007,tfidf,social policy
-62010CJ0210,61988CJ0326,tfidf,social policy
-62008CJ0471,61996CJ0066,tfidf,social policy
-62008CJ0471,61996CJ0411,tfidf,social policy
-62014CJ0065,61996CJ0411,tfidf,social policy
-62014CJ0065,62006CJ0460,tfidf,social policy
-62014CJ0065,62012CJ0005,tfidf,social policy
-62013CJ0362,62007CJ0378,tfidf,social policy
-62013CJ0362,62011CJ0251,tfidf,social policy
-62013CJ0362,62004CJ0212,tfidf,social policy
-62013CJ0362,62004CJ0053,tfidf,social policy
-62013CJ0362,62009CJ0109,tfidf,social policy
-62013CJ0362,62004CJ0180,tfidf,social policy
-62013CJ0362,62013CJ0190,tfidf,social policy
-62013CJ0362,62012CJ0290,tfidf,social policy
-61988CJ0048,61992CJ0343,tfidf,social policy
-62013CJ0190,62004CJ0212,tfidf,social policy
-62013CJ0190,62007CJ0378,tfidf,social policy
-62013CJ0190,62013CJ0362,tfidf,social policy
-62013CJ0190,62012CJ0290,tfidf,social policy
-62011CJ0426,62004CJ0499,tfidf,social policy
-61989CJ0229,61985CJ0030,tfidf,social policy
-61996CJ0050,61993CJ0128,tfidf,social policy
-61996CJ0050,61993CJ0057,tfidf,social policy
-61996CJ0050,61993CJ0435,tfidf,social policy
-61996CJ0050,61996CJ0246,tfidf,social policy
-61996CJ0050,61993CJ0007,tfidf,social policy
-61998CJ0207,61993CJ0032,tfidf,social policy
-61998CJ0207,61988CJ0177,tfidf,social policy
-61996CJ0117,61995CJ0373,tfidf,social policy
-61996CJ0117,61995CJ0094,tfidf,social policy
-62009CJ0428,62004CJ0484,tfidf,social policy
-62009CJ0428,62002CJ0151,tfidf,social policy
-62009CJ0428,62001CJ0397,tfidf,social policy
-62009CJ0428,61999CJ0173,tfidf,social policy
-61988CJ0102,61985CJ0384,tfidf,social policy
-61998CJ0407,61997CJ0158,tfidf,social policy
-62002CJ0284,61993CJ0342,tfidf,social policy
-62002CJ0284,62002CJ0147,tfidf,social policy
-62002CJ0284,62001CJ0342,tfidf,social policy
-62002CJ0284,61995CJ0136,tfidf,social policy
-62003CJ0191,61996CJ0394,tfidf,social policy
-62003CJ0191,61988CJ0179,tfidf,social policy
-62003CJ0191,61996CJ0066,tfidf,social policy
-62003CJ0191,62006CJ0460,tfidf,social policy
-62003CJ0191,61993CJ0342,tfidf,social policy
-61993CJ0457,61992CJ0399,tfidf,social policy
-61983CJ0284,61992CJ0383,tfidf,social policy
-62016CJ0174,62014CJ0351,tfidf,social policy
-61997CJ0185,61984CJ0152,tfidf,social policy
-61984CJ0262,61981CJ0019,tfidf,social policy
-61984CJ0262,61991CJ0328,tfidf,social policy
-61990CJ0158,61996CJ0387,tfidf,social policy
-62012CO0194,62008CJ0277,tfidf,social policy
-62012CO0194,62011CJ0078,tfidf,social policy
-62012CO0194,62010CJ0214,tfidf,social policy
-62012CO0194,62010CJ0337,tfidf,social policy
-62000CJ0440,61999CJ0062,tfidf,social policy
-62006CJ0246,62005CO0177,tfidf,social policy
-62006CJ0246,62005CJ0081,tfidf,social policy
-62006CJ0246,62003CJ0520,tfidf,social policy
-62006CJ0246,62000CJ0442,tfidf,social policy
-62017CJ0068,62014CJ0441,tfidf,social policy
-62015CJ0341,62010CJ0214,tfidf,social policy
-62015CJ0341,62001CJ0342,tfidf,social policy
-62008CJ0405,62007CJ0306,tfidf,social policy
-62014CO0152,62011CO0393,tfidf,social policy
-62017CJ0396,62008CJ0088,tfidf,social policy
-62014CO0199,62012CO0614,tfidf,social policy
-62014CO0199,62012CO0488,tfidf,social policy
-62015CJ0335,62002CJ0147,tfidf,social policy
-62015CJ0335,62008CJ0471,tfidf,social policy
-61989CJ0051,61987CJ0242,tfidf,social policy
-62016CJ0200,62009CJ0151,tfidf,social policy
-62016CJ0200,61995CJ0013,tfidf,social policy
-62000CJ0465,62001CJ0101,tfidf,data protection
-62000CJ0465,62007CJ0073,tfidf,data protection
-62000CJ0465,62007CJ0518,tfidf,data protection
-62000CJ0465,62007CJ0553,tfidf,data protection
-62000CJ0465,62014CJ0362,tfidf,data protection
-62000CJ0465,62012CJ0342,tfidf,data protection
-62009CJ0092,62007CJ0073,tfidf,data protection
-62009CJ0092,62012CJ0473,tfidf,data protection
-62001CJ0101,62007CJ0073,tfidf,data protection
-62001CJ0101,62007CJ0553,tfidf,data protection
-62001CJ0101,62014CJ0362,tfidf,data protection
-62001CJ0101,62012CJ0473,tfidf,data protection
-62001CJ0101,62014CJ0582,tfidf,data protection
-62006CJ0524,62001CJ0101,tfidf,data protection
-62006CJ0524,62007CJ0553,tfidf,data protection
-62006CJ0524,62012CJ0473,tfidf,data protection
-62012CJ0131,62001CJ0101,tfidf,data protection
-62012CJ0131,62013CJ0212,tfidf,data protection
-62012CJ0131,62007CJ0553,tfidf,data protection
-62012CJ0131,62007CJ0073,tfidf,data protection
-62012CJ0131,62012CJ0473,tfidf,data protection
-62010CJ0070,62006CJ0275,tfidf,data protection
-62014CJ0362,62001CJ0101,tfidf,data protection
-62014CJ0362,62013CJ0212,tfidf,data protection
-62014CJ0362,62007CJ0553,tfidf,data protection
-62010CJ0360,62010CJ0070,tfidf,data protection
-62010CJ0360,62006CJ0275,tfidf,data protection
-62012CJ0288,62007CJ0518,tfidf,data protection
-62014CJ0582,62001CJ0101,tfidf,data protection
-62014CJ0582,62007CJ0073,tfidf,data protection
-62010CJ0614,62007CJ0518,tfidf,data protection
-62010CJ0614,62014CJ0362,tfidf,data protection
-62004CJ0317,62001CJ0101,tfidf,data protection
-62004CJ0317,62014CJ0362,tfidf,data protection
-62004CJ0317,62007CJ0073,tfidf,data protection
-62016CO0508,62012CO0368,tfidf,data protection
-62016CO0508,62014CO0282,tfidf,data protection
-62016CO0508,62015CO0299,tfidf,data protection
-62016CJ0210,62013CJ0212,tfidf,data protection
-62012CJ0293,62013CJ0212,tfidf,data protection
-62012CJ0293,62012CJ0473,tfidf,data protection
-62016CJ0013,62013CJ0212,tfidf,data protection
-62016CJ0013,62012CJ0473,tfidf,data protection
-62016CJ0013,62014CJ0582,tfidf,data protection
-62009CJ0543,62003CJ0109,tfidf,data protection
-62012CJ0119,62006CJ0275,tfidf,data protection
-62014CJ0230,62001CJ0101,tfidf,data protection
-62015CJ0398,62014CJ0362,tfidf,data protection
-62016CJ0434,62007CJ0553,tfidf,data protection
-62007CO0073,62004CO0318,tfidf,data protection
-62007CO0073,62004CO0317,tfidf,data protection
-62005CJ0326,62009CJ0077,law2vec_200,public health
-62013CJ0528,62014CJ0494,law2vec_200,public health
-62013CJ0011,62013CO0210,law2vec_200,public health
-62008CO0517,62011CO0584,law2vec_200,public health
-62008CO0517,62000CJ0298,law2vec_200,public health
-62015CJ0629,62014CJ0431,law2vec_200,public health
-62016CO0666,62013CJ0456,law2vec_200,public health
-62007CJ0378,62004CJ0212,law2vec_200,social policy
-61995CJ0261,61995CJ0094,law2vec_200,social policy
-62009CJ0447,62008CJ0088,law2vec_200,social policy
-61996CJ0416,61996CJ0162,law2vec_200,social policy
-62006CJ0267,62008CJ0147,law2vec_200,social policy
-62010CJ0177,62009CJ0444,law2vec_200,social policy
-62010CJ0177,62005CJ0307,law2vec_200,social policy
-61996CO0239,61996CO0180,law2vec_200,social policy
-62000CJ0440,61999CJ0062,law2vec_200,social policy
-62008CJ0405,62007CJ0306,law2vec_200,social policy
-62014CO0152,62011CO0393,law2vec_200,social policy
-62017CJ0060,62014CJ0509,law2vec_200,social policy
-62000CJ0465,62001CJ0101,law2vec_200,data protection
-62009CJ0092,62004CJ0466,law2vec_200,data protection
-62012CJ0131,62013CJ0212,law2vec_200,data protection
-62006CJ0301,62005CJ0440,law2vec_200,data protection
-62005CJ0326,62009CJ0077,GoogleNews_300,public health
-62013CJ0011,62013CO0210,GoogleNews_300,public health
-62008CO0517,62011CO0584,GoogleNews_300,public health
-62007CJ0378,62004CJ0212,GoogleNews_300,social policy
-61995CJ0261,61995CJ0094,GoogleNews_300,social policy
-61995CJ0261,61995CJ0373,GoogleNews_300,social policy
-62009CJ0447,62008CJ0088,GoogleNews_300,social policy
-62006CJ0267,62008CJ0147,GoogleNews_300,social policy
-62010CJ0177,62009CJ0444,GoogleNews_300,social policy
-62010CJ0177,62005CJ0307,GoogleNews_300,social policy
-61996CO0239,61996CO0180,GoogleNews_300,social policy
-62002CJ0284,62002CJ0147,GoogleNews_300,social policy
-62000CJ0440,61999CJ0062,GoogleNews_300,social policy
-62008CJ0405,62007CJ0306,GoogleNews_300,social policy
-62014CO0152,62011CO0393,GoogleNews_300,social policy
-62017CJ0060,62014CJ0509,GoogleNews_300,social policy
-62009CJ0092,62004CJ0466,GoogleNews_300,data protection
-62012CJ0131,62012CJ0473,GoogleNews_300,data protection
-62016CJ0013,62012CJ0473,GoogleNews_300,data protection
-62015CJ0398,62014CJ0362,GoogleNews_300,data protection
-62003CJ0453,62002CJ0434,jaccard,public health
-62003CJ0453,62008CJ0058,jaccard,public health
-62003CJ0453,62003CJ0210,jaccard,public health
-62003CJ0453,62001CJ0491,jaccard,public health
-62003CJ0453,62004CJ0154,jaccard,public health
-61988CJ0070,61987CJ0302,jaccard,public health
-61980CJ0272,61975CJ0104,jaccard,public health
-61980CJ0272,61982CJ0174,jaccard,public health
-62009CJ0229,62009CJ0221,jaccard,public health
-62009CJ0229,62007CJ0482,jaccard,public health
-62009CJ0229,61998CJ0306,jaccard,public health
-62009CJ0229,62012CJ0210,jaccard,public health
-62003CJ0211,61988CJ0369,jaccard,public health
-62003CJ0211,61999CJ0387,jaccard,public health
-62003CJ0211,62000CJ0150,jaccard,public health
-62007CJ0270,62004CJ0275,jaccard,public health
-62007CJ0270,61997CJ0374,jaccard,public health
-62016CJ0078,62004CJ0504,jaccard,public health
-62016CJ0078,62001CJ0189,jaccard,public health
-62016CJ0078,62009CJ0077,jaccard,public health
-62005CJ0326,62009CJ0077,jaccard,public health
-62013CJ0528,62009CJ0421,jaccard,public health
-62013CJ0528,62012CJ0356,jaccard,public health
-62015CJ0112,62007CJ0270,jaccard,public health
-62005CO0326(01),62004CO0105,jaccard,public health
-62003CJ0177,62001CJ0296,jaccard,public health
-62003CJ0177,62000CJ0233,jaccard,public health
-62016CJ0384,62011CJ0583,jaccard,public health
-62013CJ0011,62004CJ0431,jaccard,public health
-62013CJ0011,62013CO0210,jaccard,public health
-62013CJ0011,62009CJ0229,jaccard,public health
-62008CO0517,62005CJ0326,jaccard,public health
-62008CO0517,62011CO0584,jaccard,public health
-61998CJ0219,62002CJ0140,jaccard,public health
-62002CO0258,62000CJ0050,jaccard,public health
-62002CO0258,62000CJ0142,jaccard,public health
-62001CJ0135,62001CJ0362,jaccard,public health
-62014CJ0442,62009CJ0524,jaccard,public health
-62014CJ0442,62009CJ0266,jaccard,public health
-62015CJ0282,62001CJ0236,jaccard,public health
-62015CJ0282,62001CJ0192,jaccard,public health
-62013CO0199,62011CO0584,jaccard,public health
-62010CJ0014,62008CJ0425,jaccard,public health
-62004CJ0147,62000CJ0012,jaccard,public health
-62017CJ0634,62005CJ0176,jaccard,public health
-62015CJ0629,61996CJ0368,jaccard,public health
-62016CO0666,62012CO0248,jaccard,public health
-62008CJ0184,62008CJ0282,jaccard,public health
-62016CJ0557,62013CJ0104,jaccard,public health
-62017CJ0367,62009CJ0161,jaccard,public health
-61990CJ0006,61987CJ0022,jaccard,social policy
-62007CJ0378,62004CJ0180,jaccard,social policy
-62007CJ0378,62013CJ0190,jaccard,social policy
-62007CJ0378,62001CJ0397,jaccard,social policy
-62007CJ0378,62004CJ0144,jaccard,social policy
-62007CJ0378,62004CJ0053,jaccard,social policy
-62007CJ0378,62009CJ0109,jaccard,social policy
-62007CJ0378,62013CJ0362,jaccard,social policy
-62007CJ0378,62006CJ0268,jaccard,social policy
-62007CJ0378,62004CJ0212,jaccard,social policy
-61995CJ0261,61995CJ0094,jaccard,social policy
-61995CJ0261,61995CJ0373,jaccard,social policy
-62009CJ0447,62008CJ0088,jaccard,social policy
-62009CJ0447,62007CJ0388,jaccard,social policy
-62009CJ0447,62009CJ0045,jaccard,social policy
-62009CJ0447,62008CJ0341,jaccard,social policy
-62009CJ0447,62008CJ0499,jaccard,social policy
-62009CJ0447,62007CJ0555,jaccard,social policy
-62009CJ0447,62008CJ0229,jaccard,social policy
-61993CJ0007,61999CJ0366,jaccard,social policy
-61993CJ0007,62002CJ0004,jaccard,social policy
-61993CJ0007,62000CJ0351,jaccard,social policy
-61993CJ0007,61995CJ0147,jaccard,social policy
-61993CJ0007,61991CJ0110,jaccard,social policy
-61996CJ0416,61991CJ0237,jaccard,social policy
-61996CJ0416,61997CJ0001,jaccard,social policy
-61996CJ0416,61996CJ0098,jaccard,social policy
-61996CJ0416,61996CJ0036,jaccard,social policy
-61992CJ0410,61990CJ0031,jaccard,social policy
-61993CJ0057,61988CJ0262,jaccard,social policy
-61993CJ0057,61991CJ0110,jaccard,social policy
-62002CJ0055,61992CJ0383,jaccard,social policy
-61989CJ0033,61988CJ0262,jaccard,social policy
-61989CJ0033,61989CJ0184,jaccard,social policy
-62006CJ0267,62002CJ0004,jaccard,social policy
-62006CJ0267,62008CJ0147,jaccard,social policy
-62007CO0364,62004CJ0212,jaccard,social policy
-62007CO0364,62004CJ0053,jaccard,social policy
-62007CO0364,62004CJ0180,jaccard,social policy
-62007CO0364,62010CO0272,jaccard,social policy
-62007CO0364,62008CO0519,jaccard,social policy
-61995CJ0001,61993CJ0457,jaccard,social policy
-61995CJ0001,61996CJ0411,jaccard,social policy
-61995CJ0001,61989CJ0184,jaccard,social policy
-62011CJ0251,62004CJ0212,jaccard,social policy
-62011CJ0251,62013CJ0362,jaccard,social policy
-62011CJ0251,62011CJ0302,jaccard,social policy
-62006CJ0427,62008CJ0147,jaccard,social policy
-62006CJ0427,62004CJ0144,jaccard,social policy
-62006CJ0427,62007CJ0555,jaccard,social policy
-62010CJ0177,62006CJ0268,jaccard,social policy
-62010CJ0177,62005CJ0307,jaccard,social policy
-62010CJ0177,62011CJ0302,jaccard,social policy
-62010CJ0177,62009CJ0444,jaccard,social policy
-62012CJ0007,62010CJ0149,jaccard,social policy
-61992CJ0421,61996CJ0394,jaccard,social policy
-61987CJ0144,61986CJ0287,jaccard,social policy
-61987CJ0144,61986CJ0324,jaccard,social policy
-62008CJ0471,61996CJ0066,jaccard,social policy
-62008CJ0471,61996CJ0411,jaccard,social policy
-62014CJ0065,62012CJ0005,jaccard,social policy
-62014CJ0065,61996CJ0411,jaccard,social policy
-62014CJ0065,62006CJ0116,jaccard,social policy
-62013CJ0362,62009CJ0109,jaccard,social policy
-62013CJ0362,62011CJ0251,jaccard,social policy
-62013CJ0362,62006CJ0268,jaccard,social policy
-62013CJ0362,62004CJ0180,jaccard,social policy
-62013CJ0362,62012CJ0290,jaccard,social policy
-62013CJ0362,62013CJ0190,jaccard,social policy
-62013CJ0362,62007CJ0378,jaccard,social policy
-62013CJ0362,62004CJ0053,jaccard,social policy
-62013CJ0362,62004CJ0212,jaccard,social policy
-62005CJ0278,61990CJ0006,jaccard,social policy
-62013CJ0190,62004CJ0212,jaccard,social policy
-62013CJ0190,62012CJ0290,jaccard,social policy
-62013CJ0190,62013CJ0362,jaccard,social policy
-62013CJ0190,62010CJ0586,jaccard,social policy
-62011CJ0426,62004CJ0499,jaccard,social policy
-61989CJ0229,61985CJ0030,jaccard,social policy
-61996CJ0050,61993CJ0007,jaccard,social policy
-61996CJ0050,61993CJ0435,jaccard,social policy
-61996CJ0050,61993CJ0057,jaccard,social policy
-61996CJ0050,61993CJ0128,jaccard,social policy
-61996CJ0050,61996CJ0246,jaccard,social policy
-61998CJ0207,61988CJ0177,jaccard,social policy
-61998CJ0207,61993CJ0032,jaccard,social policy
-61996CJ0117,61995CJ0373,jaccard,social policy
-61996CJ0117,61995CJ0094,jaccard,social policy
-62009CJ0428,61999CJ0173,jaccard,social policy
-62009CJ0428,62004CJ0484,jaccard,social policy
-62009CJ0428,62001CJ0397,jaccard,social policy
-62009CJ0428,62002CJ0151,jaccard,social policy
-61988CJ0102,61985CJ0384,jaccard,social policy
-61988CJ0102,61988CJ0171,jaccard,social policy
-61998CJ0407,61997CJ0158,jaccard,social policy
-61996CO0239,61996CO0180,jaccard,social policy
-61996CO0239,61993CO0280,jaccard,social policy
-61996CO0239,61995CO0149,jaccard,social policy
-62002CJ0284,61993CJ0342,jaccard,social policy
-62002CJ0284,62002CJ0147,jaccard,social policy
-62002CJ0284,62001CJ0342,jaccard,social policy
-62003CJ0191,61993CJ0342,jaccard,social policy
-62003CJ0191,62006CJ0460,jaccard,social policy
-62003CJ0191,61996CJ0394,jaccard,social policy
-62003CJ0191,61996CJ0066,jaccard,social policy
-61993CJ0457,61988CJ0262,jaccard,social policy
-61993CJ0457,61992CJ0399,jaccard,social policy
-61984CJ0235,61983CJ0143,jaccard,social policy
-62003CJ0082,62001CJ0478,jaccard,social policy
-62016CJ0174,62014CJ0351,jaccard,social policy
-61997CJ0185,61994CJ0013,jaccard,social policy
-61984CJ0262,61981CJ0019,jaccard,social policy
-61990CJ0158,61996CJ0387,jaccard,social policy
-62012CO0194,62010CJ0337,jaccard,social policy
-62012CO0194,62010CJ0214,jaccard,social policy
-62012CO0194,62008CJ0277,jaccard,social policy
-62012CO0194,62011CJ0078,jaccard,social policy
-62000CJ0440,61999CJ0062,jaccard,social policy
-62006CJ0246,62000CJ0442,jaccard,social policy
-62006CJ0246,62003CJ0520,jaccard,social policy
-62006CJ0246,62005CJ0081,jaccard,social policy
-62006CJ0246,62005CO0177,jaccard,social policy
-62017CJ0068,62014CJ0441,jaccard,social policy
-62015CJ0341,62010CJ0214,jaccard,social policy
-62008CJ0405,62007CJ0306,jaccard,social policy
-62014CO0152,62011CO0393,jaccard,social policy
-62017CJ0060,62014CJ0509,jaccard,social policy
-62008CJ0577,62004CJ0423,jaccard,social policy
-62009CO0333,62008CO0287,jaccard,social policy
-62009CO0333,62006CO0302,jaccard,social policy
-61999CJ0193,61996CJ0387,jaccard,social policy
-62015CJ0098,62010CJ0123,jaccard,social policy
-62015CJ0098,62016CJ0354,jaccard,social policy
-62014CO0199,62012CO0488,jaccard,social policy
-62014CO0199,62012CO0614,jaccard,social policy
-62015CJ0335,62002CJ0147,jaccard,social policy
-62015CJ0335,62008CJ0471,jaccard,social policy
-61989CJ0051,61987CJ0242,jaccard,social policy
-62016CJ0200,61995CJ0013,jaccard,social policy
-62016CJ0200,62001CJ0340,jaccard,social policy
-62000CJ0465,62009CJ0092,jaccard,data protection
-62000CJ0465,62001CJ0491,jaccard,data protection
-62000CJ0465,62001CJ0101,jaccard,data protection
-62009CJ0092,62008CJ0028,jaccard,data protection
-62009CJ0092,62000CJ0465,jaccard,data protection
-62001CJ0101,62007CJ0073,jaccard,data protection
-62001CJ0101,62014CJ0362,jaccard,data protection
-62001CJ0101,62004CJ0317,jaccard,data protection
-62001CJ0101,62000CJ0465,jaccard,data protection
-62006CJ0524,62007CJ0033,jaccard,data protection
-62006CJ0524,62003CJ0209,jaccard,data protection
-62006CJ0524,62000CJ0465,jaccard,data protection
-62006CJ0524,62001CJ0101,jaccard,data protection
-62006CJ0524,62007CJ0553,jaccard,data protection
-62012CJ0131,62012CJ0473,jaccard,data protection
-62012CJ0131,62000CJ0465,jaccard,data protection
-62012CJ0131,62007CJ0073,jaccard,data protection
-62012CJ0131,62012CJ0342,jaccard,data protection
-62012CJ0131,62001CJ0101,jaccard,data protection
-62012CJ0131,62007CJ0553,jaccard,data protection
-62010CJ0070,62009CJ0324,jaccard,data protection
-62010CJ0070,62006CJ0275,jaccard,data protection
-62002CJ0350,61995CJ0096,jaccard,data protection
-62002CJ0350,62000CJ0287,jaccard,data protection
-62014CJ0362,62010CJ0584,jaccard,data protection
-62014CJ0362,62001CJ0101,jaccard,data protection
-62014CJ0362,62004CJ0317,jaccard,data protection
-62010CJ0360,62006CJ0275,jaccard,data protection
-62010CJ0360,62010CJ0070,jaccard,data protection
-62012CJ0288,62007CJ0518,jaccard,data protection
-62012CJ0288,62010CJ0614,jaccard,data protection
-62014CJ0582,62001CJ0101,jaccard,data protection
-62014CJ0582,62007CJ0073,jaccard,data protection
-62010CJ0614,62007CJ0518,jaccard,data protection
-62004CJ0317,62007CJ0073,jaccard,data protection
-62004CJ0317,62014CJ0362,jaccard,data protection
-62004CJ0317,62001CJ0101,jaccard,data protection
-62016CO0508,62012CO0368,jaccard,data protection
-62016CO0508,62015CO0526,jaccard,data protection
-62016CO0508,62014CO0282,jaccard,data protection
-62012CJ0293,62009CJ0092,jaccard,data protection
-62016CJ0013,62012CJ0473,jaccard,data protection
-62016CJ0013,62013CJ0212,jaccard,data protection
-62016CJ0013,62014CJ0582,jaccard,data protection
-62006CJ0301,62005CJ0091,jaccard,data protection
-62006CJ0301,62003CJ0380,jaccard,data protection
-62006CJ0301,62005CJ0440,jaccard,data protection
-62006CJ0301,62004CJ0317,jaccard,data protection
-62009CJ0543,62007CJ0424,jaccard,data protection
-62009CJ0543,62003CJ0109,jaccard,data protection
-62009CJ0543,62008CJ0522,jaccard,data protection
-62012CJ0119,62006CJ0275,jaccard,data protection
-62012CJ0119,62010CJ0016,jaccard,data protection
-62012CJ0119,62011CJ0049,jaccard,data protection
-62015CJ0398,62014CJ0362,jaccard,data protection
-62016CJ0434,62014CJ0582,jaccard,data protection
-62016CJ0434,62007CJ0553,jaccard,data protection
-62007CO0073,61964CO0006,jaccard,data protection
-62007CO0073,62004CO0317,jaccard,data protection
-62007CO0073,62004CO0318,jaccard,data protection
-62005CJ0326,62009CJ0077,doc2vec_256_e30,public health
-62013CJ0011,62013CO0210,doc2vec_256_e30,public health
-62008CO0517,62011CO0584,doc2vec_256_e30,public health
-62013CJ0673,62012CJ0279,doc2vec_256_e30,public health
-62017CJ0634,62017CJ0477,doc2vec_256_e30,public health
-62017CJ0527,62012CJ0210,doc2vec_256_e30,public health
-62007CJ0378,62006CJ0268,doc2vec_256_e30,social policy
-62007CJ0378,62013CJ0190,doc2vec_256_e30,social policy
-61995CJ0261,61995CJ0094,doc2vec_256_e30,social policy
-62006CJ0267,62008CJ0147,doc2vec_256_e30,social policy
-62007CO0364,62008CO0519,doc2vec_256_e30,social policy
-62011CJ0251,62011CJ0302,doc2vec_256_e30,social policy
-62006CJ0427,62007CJ0555,doc2vec_256_e30,social policy
-62010CJ0177,62009CJ0444,doc2vec_256_e30,social policy
-62010CJ0177,62005CJ0307,doc2vec_256_e30,social policy
-62010CJ0177,62006CJ0268,doc2vec_256_e30,social policy
-62013CJ0362,62004CJ0212,doc2vec_256_e30,social policy
-62013CJ0190,62007CJ0378,doc2vec_256_e30,social policy
-61988CJ0102,61988CJ0171,doc2vec_256_e30,social policy
-61996CO0239,61996CO0180,doc2vec_256_e30,social policy
-61993CJ0457,61992CJ0399,doc2vec_256_e30,social policy
-62012CO0194,62010CJ0337,doc2vec_256_e30,social policy
-62012CO0194,62011CJ0078,doc2vec_256_e30,social policy
-62000CJ0440,61999CJ0062,doc2vec_256_e30,social policy
-62017CJ0060,62014CJ0509,doc2vec_256_e30,social policy
-62000CJ0465,62001CJ0101,doc2vec_256_e30,data protection
-62009CJ0092,62008CJ0028,doc2vec_256_e30,data protection
-62001CJ0101,62000CJ0465,doc2vec_256_e30,data protection
-62008CJ0028,62009CJ0092,doc2vec_256_e30,data protection
-62012CJ0293,62010CJ0539,doc2vec_256_e30,data protection
-62012CJ0119,62011CJ0049,doc2vec_256_e30,data protection
-62007CO0073,62004CO0317,doc2vec_256_e30,data protection
-62003CJ0453,61993CJ0465,tfidf-quintgram,public health
-62003CJ0453,61988CJ0143,tfidf-quintgram,public health
-62003CJ0453,62004CJ0154,tfidf-quintgram,public health
-62003CJ0453,61997CJ0269,tfidf-quintgram,public health
-62003CJ0453,62003CJ0210,tfidf-quintgram,public health
-62003CJ0453,62001CJ0491,tfidf-quintgram,public health
-62003CJ0453,62002CJ0434,tfidf-quintgram,public health
-62003CJ0453,61995CJ0068,tfidf-quintgram,public health
-61988CJ0070,61987CJ0302,tfidf-quintgram,public health
-61980CJ0272,61982CJ0174,tfidf-quintgram,public health
-62009CJ0229,62012CJ0210,tfidf-quintgram,public health
-62009CJ0229,61998CJ0306,tfidf-quintgram,public health
-62009CJ0229,62007CJ0482,tfidf-quintgram,public health
-62003CJ0211,61997CJ0120,tfidf-quintgram,public health
-62003CJ0211,61982CJ0227,tfidf-quintgram,public health
-62007CJ0270,62004CJ0275,tfidf-quintgram,public health
-62007CJ0270,62000CJ0363,tfidf-quintgram,public health
-62007CJ0270,61997CJ0374,tfidf-quintgram,public health
-62007CJ0270,62000CJ0284,tfidf-quintgram,public health
-62016CJ0078,62004CJ0504,tfidf-quintgram,public health
-62016CJ0078,62002CJ0140,tfidf-quintgram,public health
-62016CJ0078,62009CJ0077,tfidf-quintgram,public health
-62005CJ0326,62009CJ0077,tfidf-quintgram,public health
-62013CJ0528,62009CJ0421,tfidf-quintgram,public health
-62013CJ0528,62014CJ0494,tfidf-quintgram,public health
-62013CJ0528,62013CJ0307,tfidf-quintgram,public health
-62006CO0459,61998CO0364,tfidf-quintgram,public health
-62006CO0459,61998CO0043,tfidf-quintgram,public health
-62015CJ0112,62007CJ0270,tfidf-quintgram,public health
-62015CJ0112,62014CJ0494,tfidf-quintgram,public health
-62005CO0326(01),62004CO0105,tfidf-quintgram,public health
-62015CJ0270,62008CJ0399,tfidf-quintgram,public health
-62013CJ0269,62000CJ0041,tfidf-quintgram,public health
-62016CJ0384,62011CJ0583,tfidf-quintgram,public health
-62013CJ0011,62009CJ0229,tfidf-quintgram,public health
-62013CJ0011,62004CJ0431,tfidf-quintgram,public health
-62013CJ0011,62013CO0210,tfidf-quintgram,public health
-62008CO0517,62005CJ0326,tfidf-quintgram,public health
-62008CO0517,62011CO0584,tfidf-quintgram,public health
-61998CJ0219,62002CJ0140,tfidf-quintgram,public health
-62002CO0258,62000CJ0050,tfidf-quintgram,public health
-62002CO0258,62000CJ0142,tfidf-quintgram,public health
-62002CO0258,61998CJ0451,tfidf-quintgram,public health
-62001CJ0135,62001CJ0362,tfidf-quintgram,public health
-62014CJ0442,62009CJ0266,tfidf-quintgram,public health
-62014CJ0442,62009CJ0524,tfidf-quintgram,public health
-62015CJ0282,62001CJ0192,tfidf-quintgram,public health
-62013CO0199,62010CJ0015,tfidf-quintgram,public health
-62010CJ0014,62008CJ0425,tfidf-quintgram,public health
-62004CJ0147,62000CJ0012,tfidf-quintgram,public health
-62017CJ0634,62005CJ0176,tfidf-quintgram,public health
-62015CJ0629,62003CJ0036,tfidf-quintgram,public health
-62015CJ0629,61996CJ0368,tfidf-quintgram,public health
-62016CO0666,62012CO0248,tfidf-quintgram,public health
-62008CJ0184,62008CJ0282,tfidf-quintgram,public health
-62016CJ0557,62013CJ0104,tfidf-quintgram,public health
-62017CJ0367,62009CJ0161,tfidf-quintgram,public health
-61990CJ0006,61987CJ0022,tfidf-quintgram,social policy
-62007CJ0378,62004CJ0212,tfidf-quintgram,social policy
-62007CJ0378,62008CO0519,tfidf-quintgram,social policy
-62007CJ0378,62013CJ0362,tfidf-quintgram,social policy
-62007CJ0378,62004CJ0053,tfidf-quintgram,social policy
-62007CJ0378,62004CJ0180,tfidf-quintgram,social policy
-62007CJ0378,62013CJ0190,tfidf-quintgram,social policy
-62007CJ0378,62010CJ0586,tfidf-quintgram,social policy
-62007CJ0378,62009CJ0109,tfidf-quintgram,social policy
-62007CJ0378,62011CJ0251,tfidf-quintgram,social policy
-62007CJ0378,62007CO0364,tfidf-quintgram,social policy
-62007CJ0378,62006CJ0268,tfidf-quintgram,social policy
-62007CJ0378,62010CO0272,tfidf-quintgram,social policy
-61995CJ0261,61995CJ0094,tfidf-quintgram,social policy
-61995CJ0261,61995CJ0373,tfidf-quintgram,social policy
-62009CJ0447,62008CJ0229,tfidf-quintgram,social policy
-62009CJ0447,62007CJ0388,tfidf-quintgram,social policy
-62009CJ0447,62007CJ0555,tfidf-quintgram,social policy
-62009CJ0447,62008CJ0088,tfidf-quintgram,social policy
-62009CJ0447,62008CJ0499,tfidf-quintgram,social policy
-62009CJ0447,62008CJ0341,tfidf-quintgram,social policy
-62009CJ0447,62009CJ0045,tfidf-quintgram,social policy
-61993CJ0007,62000CJ0351,tfidf-quintgram,social policy
-61993CJ0007,61991CJ0110,tfidf-quintgram,social policy
-61993CJ0007,61995CJ0147,tfidf-quintgram,social policy
-61993CJ0007,61999CJ0366,tfidf-quintgram,social policy
-61993CJ0007,62002CJ0004,tfidf-quintgram,social policy
-61993CJ0007,61990CJ0087,tfidf-quintgram,social policy
-61996CJ0416,61997CJ0001,tfidf-quintgram,social policy
-61992CJ0410,61990CJ0031,tfidf-quintgram,social policy
-61993CJ0057,61991CJ0110,tfidf-quintgram,social policy
-61993CJ0057,62002CJ0004,tfidf-quintgram,social policy
-61993CJ0057,61988CJ0262,tfidf-quintgram,social policy
-62002CJ0055,61992CJ0383,tfidf-quintgram,social policy
-61989CJ0033,61989CJ0184,tfidf-quintgram,social policy
-61989CJ0033,61992CJ0399,tfidf-quintgram,social policy
-61989CJ0033,61988CJ0262,tfidf-quintgram,social policy
-61989CJ0033,61992CJ0127,tfidf-quintgram,social policy
-61989CJ0033,61993CJ0342,tfidf-quintgram,social policy
-62006CJ0267,62008CJ0147,tfidf-quintgram,social policy
-62007CO0364,62004CJ0212,tfidf-quintgram,social policy
-62007CO0364,62008CO0519,tfidf-quintgram,social policy
-62007CO0364,62007CJ0378,tfidf-quintgram,social policy
-62007CO0364,62010CO0272,tfidf-quintgram,social policy
-62007CO0364,62004CJ0180,tfidf-quintgram,social policy
-62007CO0364,62004CJ0053,tfidf-quintgram,social policy
-62007CO0364,62006CJ0268,tfidf-quintgram,social policy
-62011CJ0251,62013CJ0362,tfidf-quintgram,social policy
-62011CJ0251,62007CJ0378,tfidf-quintgram,social policy
-62011CJ0251,62004CJ0212,tfidf-quintgram,social policy
-62011CJ0251,62006CJ0268,tfidf-quintgram,social policy
-62011CJ0251,62011CJ0302,tfidf-quintgram,social policy
-62006CJ0427,62004CJ0144,tfidf-quintgram,social policy
-62006CJ0427,62007CJ0555,tfidf-quintgram,social policy
-62010CJ0177,62011CJ0302,tfidf-quintgram,social policy
-62010CJ0177,62010CO0273,tfidf-quintgram,social policy
-62010CJ0177,62005CJ0307,tfidf-quintgram,social policy
-62010CJ0177,62009CJ0444,tfidf-quintgram,social policy
-62010CJ0177,62010CO0272,tfidf-quintgram,social policy
-62010CJ0177,62006CJ0268,tfidf-quintgram,social policy
-62012CJ0007,62010CJ0149,tfidf-quintgram,social policy
-61992CJ0421,61988CJ0177,tfidf-quintgram,social policy
-61992CJ0421,61996CJ0394,tfidf-quintgram,social policy
-61987CJ0144,61986CJ0324,tfidf-quintgram,social policy
-61987CJ0144,61986CJ0287,tfidf-quintgram,social policy
-62008CJ0471,61996CJ0411,tfidf-quintgram,social policy
-62008CJ0471,61996CJ0066,tfidf-quintgram,social policy
-62014CJ0065,61996CJ0411,tfidf-quintgram,social policy
-62014CJ0065,62006CJ0116,tfidf-quintgram,social policy
-62014CJ0065,62009CJ0232,tfidf-quintgram,social policy
-62014CJ0065,62006CJ0460,tfidf-quintgram,social policy
-62014CJ0065,62012CJ0005,tfidf-quintgram,social policy
-62013CJ0362,62007CJ0378,tfidf-quintgram,social policy
-62013CJ0362,62011CJ0251,tfidf-quintgram,social policy
-62013CJ0362,62004CJ0212,tfidf-quintgram,social policy
-62013CJ0362,62004CJ0053,tfidf-quintgram,social policy
-62013CJ0362,62013CJ0190,tfidf-quintgram,social policy
-62013CJ0362,62004CJ0180,tfidf-quintgram,social policy
-62013CJ0362,62012CJ0290,tfidf-quintgram,social policy
-62013CJ0362,62010CJ0586,tfidf-quintgram,social policy
-62013CJ0362,62009CJ0109,tfidf-quintgram,social policy
-61988CJ0048,61993CJ0444,tfidf-quintgram,social policy
-62013CJ0190,62007CJ0378,tfidf-quintgram,social policy
-62013CJ0190,62004CJ0212,tfidf-quintgram,social policy
-62013CJ0190,62013CJ0362,tfidf-quintgram,social policy
-62013CJ0190,62010CJ0586,tfidf-quintgram,social policy
-62013CJ0190,62012CJ0290,tfidf-quintgram,social policy
-62011CJ0426,62004CJ0499,tfidf-quintgram,social policy
-61989CJ0229,61985CJ0030,tfidf-quintgram,social policy
-61989CJ0229,61993CJ0444,tfidf-quintgram,social policy
-61996CJ0050,61993CJ0435,tfidf-quintgram,social policy
-61996CJ0050,61996CJ0246,tfidf-quintgram,social policy
-61996CJ0050,61993CJ0057,tfidf-quintgram,social policy
-61996CJ0050,61991CJ0109,tfidf-quintgram,social policy
-61996CJ0050,61993CJ0128,tfidf-quintgram,social policy
-61996CJ0050,61975CJ0043,tfidf-quintgram,social policy
-61996CJ0050,61997CJ0167,tfidf-quintgram,social policy
-61996CJ0050,61979CJ0066,tfidf-quintgram,social policy
-61998CJ0207,61993CJ0032,tfidf-quintgram,social policy
-61998CJ0207,61988CJ0177,tfidf-quintgram,social policy
-61996CJ0117,61995CJ0094,tfidf-quintgram,social policy
-61996CJ0117,61995CJ0373,tfidf-quintgram,social policy
-62009CJ0428,62002CJ0151,tfidf-quintgram,social policy
-62009CJ0428,62001CJ0397,tfidf-quintgram,social policy
-62009CJ0428,62004CJ0484,tfidf-quintgram,social policy
-62009CJ0428,61999CJ0173,tfidf-quintgram,social policy
-61988CJ0102,61985CJ0384,tfidf-quintgram,social policy
-61988CJ0102,61985CJ0071,tfidf-quintgram,social policy
-61998CJ0407,61997CJ0158,tfidf-quintgram,social policy
-61996CO0239,61996CO0180,tfidf-quintgram,social policy
-61996CO0239,61991CO0117,tfidf-quintgram,social policy
-61996CO0239,61988CO0160,tfidf-quintgram,social policy
-61996CO0239,61995CO0149,tfidf-quintgram,social policy
-61996CO0239,61993CO0280,tfidf-quintgram,social policy
-62002CJ0284,62001CJ0342,tfidf-quintgram,social policy
-62002CJ0284,61995CJ0136,tfidf-quintgram,social policy
-62003CJ0191,61996CJ0394,tfidf-quintgram,social policy
-62003CJ0191,61996CJ0066,tfidf-quintgram,social policy
-62003CJ0191,61993CJ0342,tfidf-quintgram,social policy
-62003CJ0191,62006CJ0460,tfidf-quintgram,social policy
-62003CJ0191,61988CJ0179,tfidf-quintgram,social policy
-61993CJ0457,61992CJ0399,tfidf-quintgram,social policy
-61983CJ0284,61992CJ0383,tfidf-quintgram,social policy
-62003CJ0082,62001CJ0478,tfidf-quintgram,social policy
-62016CJ0174,62014CJ0351,tfidf-quintgram,social policy
-61997CJ0185,61994CJ0013,tfidf-quintgram,social policy
-61984CJ0262,61981CJ0019,tfidf-quintgram,social policy
-61990CJ0158,61996CJ0387,tfidf-quintgram,social policy
-62012CO0194,62008CJ0277,tfidf-quintgram,social policy
-62012CO0194,62011CJ0078,tfidf-quintgram,social policy
-62012CO0194,62010CJ0214,tfidf-quintgram,social policy
-62012CO0194,62010CJ0337,tfidf-quintgram,social policy
-62000CJ0440,61999CJ0062,tfidf-quintgram,social policy
-62006CJ0246,62005CO0177,tfidf-quintgram,social policy
-62006CJ0246,62003CJ0520,tfidf-quintgram,social policy
-62006CJ0246,62005CJ0081,tfidf-quintgram,social policy
-62006CJ0246,62000CJ0442,tfidf-quintgram,social policy
-62017CJ0068,62014CJ0441,tfidf-quintgram,social policy
-62015CJ0341,62010CJ0214,tfidf-quintgram,social policy
-62008CJ0405,62007CJ0306,tfidf-quintgram,social policy
-62014CO0152,62011CO0393,tfidf-quintgram,social policy
-62017CJ0060,62014CJ0509,tfidf-quintgram,social policy
-62008CJ0577,62004CJ0423,tfidf-quintgram,social policy
-62009CO0333,62004CO0328,tfidf-quintgram,social policy
-62009CO0333,62006CO0302,tfidf-quintgram,social policy
-62009CO0333,61995CJ0299,tfidf-quintgram,social policy
-62009CO0333,62008CO0287,tfidf-quintgram,social policy
-61999CJ0193,61996CJ0387,tfidf-quintgram,social policy
-62015CJ0098,62016CJ0354,tfidf-quintgram,social policy
-62017CJ0396,62008CJ0088,tfidf-quintgram,social policy
-62014CO0199,62012CO0614,tfidf-quintgram,social policy
-62014CO0199,62012CO0488,tfidf-quintgram,social policy
-62015CJ0335,62008CJ0471,tfidf-quintgram,social policy
-62015CJ0335,62002CJ0147,tfidf-quintgram,social policy
-61989CJ0051,61987CJ0242,tfidf-quintgram,social policy
-62016CJ0200,62001CJ0340,tfidf-quintgram,social policy
-62016CJ0200,62009CJ0151,tfidf-quintgram,social policy
-62016CJ0200,61995CJ0013,tfidf-quintgram,social policy
-62000CJ0465,62007CJ0518,tfidf-quintgram,data protection
-62000CJ0465,62001CJ0101,tfidf-quintgram,data protection
-62000CJ0465,62012CJ0342,tfidf-quintgram,data protection
-62000CJ0465,62007CJ0073,tfidf-quintgram,data protection
-62000CJ0465,62007CJ0553,tfidf-quintgram,data protection
-62009CJ0092,62000CJ0465,tfidf-quintgram,data protection
-62009CJ0092,62007CJ0073,tfidf-quintgram,data protection
-62009CJ0092,62012CJ0473,tfidf-quintgram,data protection
-62001CJ0101,62004CJ0317,tfidf-quintgram,data protection
-62001CJ0101,62014CJ0362,tfidf-quintgram,data protection
-62001CJ0101,62007CJ0073,tfidf-quintgram,data protection
-62001CJ0101,62000CJ0465,tfidf-quintgram,data protection
-62001CJ0101,62014CJ0582,tfidf-quintgram,data protection
-62001CJ0101,62012CJ0473,tfidf-quintgram,data protection
-62001CJ0101,62007CJ0553,tfidf-quintgram,data protection
-62006CJ0524,62012CJ0342,tfidf-quintgram,data protection
-62006CJ0524,62001CJ0101,tfidf-quintgram,data protection
-62006CJ0524,62000CJ0465,tfidf-quintgram,data protection
-62006CJ0524,62007CJ0033,tfidf-quintgram,data protection
-62012CJ0131,62013CJ0212,tfidf-quintgram,data protection
-62012CJ0131,62007CJ0553,tfidf-quintgram,data protection
-62012CJ0131,62000CJ0465,tfidf-quintgram,data protection
-62012CJ0131,62007CJ0073,tfidf-quintgram,data protection
-62010CJ0070,62006CJ0275,tfidf-quintgram,data protection
-62010CJ0070,62009CJ0324,tfidf-quintgram,data protection
-62002CJ0350,62000CJ0287,tfidf-quintgram,data protection
-62002CJ0350,61998CJ0152,tfidf-quintgram,data protection
-62002CJ0350,61995CJ0096,tfidf-quintgram,data protection
-62014CJ0362,62004CJ0317,tfidf-quintgram,data protection
-62014CJ0362,62001CJ0101,tfidf-quintgram,data protection
-62014CJ0362,62013CJ0212,tfidf-quintgram,data protection
-62014CJ0362,62000CJ0465,tfidf-quintgram,data protection
-62010CJ0360,62010CJ0070,tfidf-quintgram,data protection
-62010CJ0360,62006CJ0275,tfidf-quintgram,data protection
-62012CJ0288,62007CJ0518,tfidf-quintgram,data protection
-62012CJ0288,62010CJ0614,tfidf-quintgram,data protection
-62014CJ0582,62007CJ0073,tfidf-quintgram,data protection
-62014CJ0582,62001CJ0101,tfidf-quintgram,data protection
-62010CJ0614,62007CJ0518,tfidf-quintgram,data protection
-62010CJ0614,62014CJ0362,tfidf-quintgram,data protection
-62004CJ0317,62014CJ0362,tfidf-quintgram,data protection
-62004CJ0317,62001CJ0101,tfidf-quintgram,data protection
-62004CJ0317,62007CJ0073,tfidf-quintgram,data protection
-62016CO0508,62014CO0282,tfidf-quintgram,data protection
-62016CJ0210,62013CJ0212,tfidf-quintgram,data protection
-62012CJ0293,62012CJ0473,tfidf-quintgram,data protection
-62012CJ0293,62009CJ0092,tfidf-quintgram,data protection
-62016CJ0013,62014CJ0582,tfidf-quintgram,data protection
-62016CJ0013,62013CJ0212,tfidf-quintgram,data protection
-62006CJ0301,62004CJ0317,tfidf-quintgram,data protection
-62009CJ0543,62008CJ0522,tfidf-quintgram,data protection
-62009CJ0543,62003CJ0109,tfidf-quintgram,data protection
-62012CJ0119,62006CJ0275,tfidf-quintgram,data protection
-62015CJ0398,61974CJ0032,tfidf-quintgram,data protection
-62016CJ0434,62014CJ0582,tfidf-quintgram,data protection
-62016CJ0434,62007CJ0553,tfidf-quintgram,data protection
-62007CO0073,62004CO0318,tfidf-quintgram,data protection
-62007CO0073,62004CO0317,tfidf-quintgram,data protection
-62007CO0073,61964CO0006,tfidf-quintgram,data protection
-62003CJ0453,62004CJ0154,GoogleNews-300-WMD,public health
-61988CJ0070,61987CJ0302,GoogleNews-300-WMD,public health
-62009CJ0229,62012CJ0210,GoogleNews-300-WMD,public health
-62009CJ0229,61998CJ0306,GoogleNews-300-WMD,public health
-62009CJ0229,62007CJ0482,GoogleNews-300-WMD,public health
-62013CJ0528,62005CJ0305,GoogleNews-300-WMD,public health
-62015CJ0112,62014CJ0494,GoogleNews-300-WMD,public health
-62013CJ0011,62009CJ0229,GoogleNews-300-WMD,public health
-62013CJ0011,62013CO0210,GoogleNews-300-WMD,public health
-62013CJ0011,62004CJ0431,GoogleNews-300-WMD,public health
-62008CO0517,62011CO0584,GoogleNews-300-WMD,public health
-62013CJ0673,62012CJ0279,GoogleNews-300-WMD,public health
-61998CJ0219,62002CJ0140,GoogleNews-300-WMD,public health
-62014CJ0442,62009CJ0266,GoogleNews-300-WMD,public health
-62016CJ0557,62013CJ0104,GoogleNews-300-WMD,public health
-62007CJ0378,62004CJ0212,GoogleNews-300-WMD,social policy
-62007CJ0378,62013CJ0362,GoogleNews-300-WMD,social policy
-62007CJ0378,62011CJ0251,GoogleNews-300-WMD,social policy
-62007CJ0378,62005CJ0307,GoogleNews-300-WMD,social policy
-62007CJ0378,62010CJ0586,GoogleNews-300-WMD,social policy
-62007CJ0378,62009CJ0109,GoogleNews-300-WMD,social policy
-62007CJ0378,62004CJ0053,GoogleNews-300-WMD,social policy
-62007CJ0378,62013CJ0190,GoogleNews-300-WMD,social policy
-62007CJ0378,62006CJ0268,GoogleNews-300-WMD,social policy
-62007CJ0378,62008CO0519,GoogleNews-300-WMD,social policy
-62007CJ0378,62004CJ0180,GoogleNews-300-WMD,social policy
-62009CJ0447,62007CJ0388,GoogleNews-300-WMD,social policy
-61993CJ0007,62000CJ0351,GoogleNews-300-WMD,social policy
-61993CJ0007,61991CJ0110,GoogleNews-300-WMD,social policy
-61993CJ0007,61999CJ0366,GoogleNews-300-WMD,social policy
-61993CJ0007,62002CJ0004,GoogleNews-300-WMD,social policy
-61996CJ0416,61986CJ0012,GoogleNews-300-WMD,social policy
-61996CJ0416,61991CJ0312,GoogleNews-300-WMD,social policy
-61993CJ0057,62002CJ0004,GoogleNews-300-WMD,social policy
-61989CJ0033,61989CJ0184,GoogleNews-300-WMD,social policy
-61989CJ0033,61988CJ0262,GoogleNews-300-WMD,social policy
-62006CJ0267,62008CJ0147,GoogleNews-300-WMD,social policy
-62006CJ0267,61991CJ0109,GoogleNews-300-WMD,social policy
-62007CO0364,62008CO0519,GoogleNews-300-WMD,social policy
-62007CO0364,62007CJ0378,GoogleNews-300-WMD,social policy
-62007CO0364,62004CJ0212,GoogleNews-300-WMD,social policy
-62007CO0364,62004CJ0053,GoogleNews-300-WMD,social policy
-62007CO0364,62006CJ0268,GoogleNews-300-WMD,social policy
-61995CJ0001,61989CJ0184,GoogleNews-300-WMD,social policy
-62011CJ0251,62004CJ0212,GoogleNews-300-WMD,social policy
-62011CJ0251,62007CJ0378,GoogleNews-300-WMD,social policy
-62011CJ0251,62011CJ0302,GoogleNews-300-WMD,social policy
-62011CJ0251,62006CJ0268,GoogleNews-300-WMD,social policy
-62010CJ0177,62006CJ0268,GoogleNews-300-WMD,social policy
-62010CJ0177,62011CJ0302,GoogleNews-300-WMD,social policy
-61992CJ0421,61996CJ0394,GoogleNews-300-WMD,social policy
-61987CJ0144,61986CJ0287,GoogleNews-300-WMD,social policy
-61987CJ0144,61986CJ0324,GoogleNews-300-WMD,social policy
-62008CJ0471,61996CJ0066,GoogleNews-300-WMD,social policy
-62014CJ0065,62012CJ0005,GoogleNews-300-WMD,social policy
-62013CJ0362,62007CJ0378,GoogleNews-300-WMD,social policy
-62013CJ0362,62004CJ0212,GoogleNews-300-WMD,social policy
-62013CJ0362,62005CJ0307,GoogleNews-300-WMD,social policy
-62013CJ0362,62006CJ0268,GoogleNews-300-WMD,social policy
-62013CJ0362,62004CJ0053,GoogleNews-300-WMD,social policy
-62013CJ0362,62013CJ0190,GoogleNews-300-WMD,social policy
-62013CJ0362,62009CJ0109,GoogleNews-300-WMD,social policy
-62013CJ0362,62009CJ0444,GoogleNews-300-WMD,social policy
-62013CJ0362,62012CJ0290,GoogleNews-300-WMD,social policy
-62013CJ0190,62004CJ0212,GoogleNews-300-WMD,social policy
-62013CJ0190,62007CJ0378,GoogleNews-300-WMD,social policy
-62013CJ0190,62010CJ0586,GoogleNews-300-WMD,social policy
-62013CJ0190,62013CJ0362,GoogleNews-300-WMD,social policy
-62011CJ0426,62004CJ0499,GoogleNews-300-WMD,social policy
-61996CJ0050,61996CJ0246,GoogleNews-300-WMD,social policy
-61996CJ0050,61993CJ0128,GoogleNews-300-WMD,social policy
-61996CJ0050,61993CJ0057,GoogleNews-300-WMD,social policy
-61998CJ0207,61993CJ0032,GoogleNews-300-WMD,social policy
-61996CJ0117,61995CJ0373,GoogleNews-300-WMD,social policy
-61998CJ0407,61997CJ0158,GoogleNews-300-WMD,social policy
-62003CJ0191,61996CJ0394,GoogleNews-300-WMD,social policy
-62016CJ0174,62014CJ0351,GoogleNews-300-WMD,social policy
-62012CO0194,62008CJ0277,GoogleNews-300-WMD,social policy
-62012CO0194,62011CJ0078,GoogleNews-300-WMD,social policy
-62012CO0194,62010CJ0214,GoogleNews-300-WMD,social policy
-62000CJ0440,61999CJ0062,GoogleNews-300-WMD,social policy
-62006CJ0246,62003CJ0520,GoogleNews-300-WMD,social policy
-62006CJ0246,62005CO0177,GoogleNews-300-WMD,social policy
-62015CJ0341,62001CJ0342,GoogleNews-300-WMD,social policy
-62015CJ0341,62010CJ0214,GoogleNews-300-WMD,social policy
-62008CJ0405,62007CJ0306,GoogleNews-300-WMD,social policy
-62014CO0152,62011CO0393,GoogleNews-300-WMD,social policy
-62017CJ0060,62014CJ0509,GoogleNews-300-WMD,social policy
-62014CO0199,62012CO0614,GoogleNews-300-WMD,social policy
-62014CO0199,62012CO0488,GoogleNews-300-WMD,social policy
-62015CJ0335,62002CJ0147,GoogleNews-300-WMD,social policy
-61989CJ0051,61987CJ0242,GoogleNews-300-WMD,social policy
-62009CJ0092,62008CJ0028,GoogleNews-300-WMD,data protection
-62001CJ0101,62014CJ0362,GoogleNews-300-WMD,data protection
-62012CJ0131,62001CJ0101,GoogleNews-300-WMD,data protection
-62010CJ0070,62006CJ0275,GoogleNews-300-WMD,data protection
-62014CJ0362,62001CJ0101,GoogleNews-300-WMD,data protection
-62010CJ0360,62010CJ0070,GoogleNews-300-WMD,data protection
-62010CJ0360,62006CJ0275,GoogleNews-300-WMD,data protection
-62012CJ0288,62007CJ0518,GoogleNews-300-WMD,data protection
-62010CJ0614,62014CJ0362,GoogleNews-300-WMD,data protection
-62004CJ0317,62014CJ0362,GoogleNews-300-WMD,data protection
-62016CO0508,62014CO0282,GoogleNews-300-WMD,data protection
-62012CJ0119,62003CJ0336,GoogleNews-300-WMD,data protection
-62012CJ0119,62006CJ0275,GoogleNews-300-WMD,data protection
-62007CO0073,62004CO0318,GoogleNews-300-WMD,data protection
-62007CO0073,62004CO0317,GoogleNews-300-WMD,data protection
-62003CJ0453,62004CJ0504,Law2Vec-200-WMD,public health
-62003CJ0453,62004CJ0154,Law2Vec-200-WMD,public health
-61988CJ0070,61987CJ0302,Law2Vec-200-WMD,public health
-62009CJ0229,62012CJ0210,Law2Vec-200-WMD,public health
-62009CJ0229,62007CJ0482,Law2Vec-200-WMD,public health
-62009CJ0229,61998CJ0306,Law2Vec-200-WMD,public health
-62015CJ0112,62014CJ0494,Law2Vec-200-WMD,public health
-62005CO0326(01),62004CO0105,Law2Vec-200-WMD,public health
-62013CJ0011,62009CJ0229,Law2Vec-200-WMD,public health
-62013CJ0011,62013CO0210,Law2Vec-200-WMD,public health
-62013CJ0011,62004CJ0431,Law2Vec-200-WMD,public health
-62008CO0517,62011CO0584,Law2Vec-200-WMD,public health
-62013CJ0673,62012CJ0279,Law2Vec-200-WMD,public health
-61998CJ0219,62002CJ0140,Law2Vec-200-WMD,public health
-62001CJ0135,62000CJ0001,Law2Vec-200-WMD,public health
-62014CJ0442,62009CJ0266,Law2Vec-200-WMD,public health
-62016CJ0557,62013CJ0104,Law2Vec-200-WMD,public health
-62007CJ0378,62004CJ0212,Law2Vec-200-WMD,social policy
-62007CJ0378,62009CJ0109,Law2Vec-200-WMD,social policy
-62007CJ0378,62010CJ0586,Law2Vec-200-WMD,social policy
-62007CJ0378,62011CJ0251,Law2Vec-200-WMD,social policy
-62007CJ0378,62004CJ0053,Law2Vec-200-WMD,social policy
-62007CJ0378,62005CJ0307,Law2Vec-200-WMD,social policy
-62007CJ0378,62006CJ0268,Law2Vec-200-WMD,social policy
-62007CJ0378,62013CJ0190,Law2Vec-200-WMD,social policy
-62007CJ0378,62013CJ0362,Law2Vec-200-WMD,social policy
-62007CJ0378,62004CJ0180,Law2Vec-200-WMD,social policy
-62007CJ0378,62004CJ0144,Law2Vec-200-WMD,social policy
-62009CJ0447,62007CJ0388,Law2Vec-200-WMD,social policy
-62009CJ0447,62008CJ0229,Law2Vec-200-WMD,social policy
-61993CJ0007,62000CJ0351,Law2Vec-200-WMD,social policy
-61993CJ0007,61999CJ0366,Law2Vec-200-WMD,social policy
-61993CJ0007,61991CJ0110,Law2Vec-200-WMD,social policy
-61993CJ0007,62002CJ0004,Law2Vec-200-WMD,social policy
-61996CJ0416,61986CJ0012,Law2Vec-200-WMD,social policy
-61993CJ0057,62002CJ0004,Law2Vec-200-WMD,social policy
-61989CJ0033,61989CJ0184,Law2Vec-200-WMD,social policy
-61989CJ0033,61988CJ0262,Law2Vec-200-WMD,social policy
-62007CO0364,62008CO0519,Law2Vec-200-WMD,social policy
-62007CO0364,62007CJ0378,Law2Vec-200-WMD,social policy
-62007CO0364,62004CJ0212,Law2Vec-200-WMD,social policy
-62007CO0364,62004CJ0053,Law2Vec-200-WMD,social policy
-62007CO0364,62004CJ0180,Law2Vec-200-WMD,social policy
-62007CO0364,62010CO0272,Law2Vec-200-WMD,social policy
-61995CJ0001,61989CJ0184,Law2Vec-200-WMD,social policy
-62011CJ0251,62007CJ0378,Law2Vec-200-WMD,social policy
-62011CJ0251,62011CJ0302,Law2Vec-200-WMD,social policy
-62011CJ0251,62004CJ0212,Law2Vec-200-WMD,social policy
-62011CJ0251,62006CJ0268,Law2Vec-200-WMD,social policy
-62011CJ0251,62004CJ0144,Law2Vec-200-WMD,social policy
-62010CJ0177,62006CJ0268,Law2Vec-200-WMD,social policy
-62010CJ0177,62011CJ0302,Law2Vec-200-WMD,social policy
-61992CJ0421,61996CJ0394,Law2Vec-200-WMD,social policy
-61987CJ0144,61986CJ0287,Law2Vec-200-WMD,social policy
-61987CJ0144,61986CJ0324,Law2Vec-200-WMD,social policy
-62008CJ0471,61996CJ0066,Law2Vec-200-WMD,social policy
-62014CJ0065,62012CJ0005,Law2Vec-200-WMD,social policy
-62013CJ0362,62007CJ0378,Law2Vec-200-WMD,social policy
-62013CJ0362,62013CJ0190,Law2Vec-200-WMD,social policy
-62013CJ0362,62010CJ0586,Law2Vec-200-WMD,social policy
-62013CJ0362,62004CJ0212,Law2Vec-200-WMD,social policy
-62013CJ0362,62005CJ0307,Law2Vec-200-WMD,social policy
-62013CJ0362,62006CJ0268,Law2Vec-200-WMD,social policy
-62013CJ0190,62004CJ0212,Law2Vec-200-WMD,social policy
-62013CJ0190,62007CJ0378,Law2Vec-200-WMD,social policy
-62013CJ0190,62013CJ0362,Law2Vec-200-WMD,social policy
-62013CJ0190,62010CJ0586,Law2Vec-200-WMD,social policy
-62011CJ0426,62004CJ0499,Law2Vec-200-WMD,social policy
-61996CJ0050,61996CJ0246,Law2Vec-200-WMD,social policy
-61996CJ0050,61993CJ0128,Law2Vec-200-WMD,social policy
-61996CJ0050,61993CJ0057,Law2Vec-200-WMD,social policy
-61996CJ0050,61975CJ0043,Law2Vec-200-WMD,social policy
-61998CJ0207,61993CJ0032,Law2Vec-200-WMD,social policy
-61996CJ0117,61995CJ0373,Law2Vec-200-WMD,social policy
-61998CJ0407,61997CJ0158,Law2Vec-200-WMD,social policy
-62002CJ0284,62002CJ0147,Law2Vec-200-WMD,social policy
-62016CJ0174,62014CJ0351,Law2Vec-200-WMD,social policy
-62012CO0194,62008CJ0277,Law2Vec-200-WMD,social policy
-62012CO0194,62010CJ0214,Law2Vec-200-WMD,social policy
-62012CO0194,62011CJ0078,Law2Vec-200-WMD,social policy
-62012CO0194,62010CJ0337,Law2Vec-200-WMD,social policy
-62000CJ0440,61999CJ0062,Law2Vec-200-WMD,social policy
-62006CJ0246,62003CJ0520,Law2Vec-200-WMD,social policy
-62006CJ0246,62005CO0177,Law2Vec-200-WMD,social policy
-62015CJ0341,62010CJ0214,Law2Vec-200-WMD,social policy
-62015CJ0341,62001CJ0342,Law2Vec-200-WMD,social policy
-62008CJ0405,62007CJ0306,Law2Vec-200-WMD,social policy
-62014CO0152,62011CO0393,Law2Vec-200-WMD,social policy
-62017CJ0060,62014CJ0509,Law2Vec-200-WMD,social policy
-62009CO0333,62008CO0287,Law2Vec-200-WMD,social policy
-62014CO0199,62012CO0614,Law2Vec-200-WMD,social policy
-62014CO0199,62012CO0488,Law2Vec-200-WMD,social policy
-62015CJ0335,62002CJ0147,Law2Vec-200-WMD,social policy
-61989CJ0051,61987CJ0242,Law2Vec-200-WMD,social policy
-62009CJ0092,62008CJ0028,Law2Vec-200-WMD,data protection
-62001CJ0101,62014CJ0362,Law2Vec-200-WMD,data protection
-62010CJ0070,62006CJ0275,Law2Vec-200-WMD,data protection
-62010CJ0360,62010CJ0070,Law2Vec-200-WMD,data protection
-62010CJ0360,62006CJ0275,Law2Vec-200-WMD,data protection
-62012CJ0288,62007CJ0518,Law2Vec-200-WMD,data protection
-62004CJ0317,62014CJ0362,Law2Vec-200-WMD,data protection
-62016CO0508,62014CO0282,Law2Vec-200-WMD,data protection
-62012CJ0119,62006CJ0275,Law2Vec-200-WMD,data protection
-62016CJ0434,62007CJ0553,Law2Vec-200-WMD,data protection
-62007CO0073,62004CO0318,Law2Vec-200-WMD,data protection
-62007CO0073,62004CO0317,Law2Vec-200-WMD,data protection
+source,target,method,source_case_topic,Similarity Type,Similarity Method,Model
+62005CJ0326,62009CJ0077,law2vec_200,public health,Semantic,Cosine Similarity,Law2Vec Embeddings
+62013CJ0528,62014CJ0494,law2vec_200,public health,Semantic,Cosine Similarity,Law2Vec Embeddings
+62013CJ0011,62013CO0210,law2vec_200,public health,Semantic,Cosine Similarity,Law2Vec Embeddings
+62008CO0517,62011CO0584,law2vec_200,public health,Semantic,Cosine Similarity,Law2Vec Embeddings
+62008CO0517,62000CJ0298,law2vec_200,public health,Semantic,Cosine Similarity,Law2Vec Embeddings
+62015CJ0629,62014CJ0431,law2vec_200,public health,Semantic,Cosine Similarity,Law2Vec Embeddings
+62016CO0666,62013CJ0456,law2vec_200,public health,Semantic,Cosine Similarity,Law2Vec Embeddings
+62007CJ0378,62004CJ0212,law2vec_200,social policy,Semantic,Cosine Similarity,Law2Vec Embeddings
+61995CJ0261,61995CJ0094,law2vec_200,social policy,Semantic,Cosine Similarity,Law2Vec Embeddings
+62009CJ0447,62008CJ0088,law2vec_200,social policy,Semantic,Cosine Similarity,Law2Vec Embeddings
+61996CJ0416,61996CJ0162,law2vec_200,social policy,Semantic,Cosine Similarity,Law2Vec Embeddings
+62006CJ0267,62008CJ0147,law2vec_200,social policy,Semantic,Cosine Similarity,Law2Vec Embeddings
+62010CJ0177,62009CJ0444,law2vec_200,social policy,Semantic,Cosine Similarity,Law2Vec Embeddings
+62010CJ0177,62005CJ0307,law2vec_200,social policy,Semantic,Cosine Similarity,Law2Vec Embeddings
+61996CO0239,61996CO0180,law2vec_200,social policy,Semantic,Cosine Similarity,Law2Vec Embeddings
+62000CJ0440,61999CJ0062,law2vec_200,social policy,Semantic,Cosine Similarity,Law2Vec Embeddings
+62008CJ0405,62007CJ0306,law2vec_200,social policy,Semantic,Cosine Similarity,Law2Vec Embeddings
+62014CO0152,62011CO0393,law2vec_200,social policy,Semantic,Cosine Similarity,Law2Vec Embeddings
+62017CJ0060,62014CJ0509,law2vec_200,social policy,Semantic,Cosine Similarity,Law2Vec Embeddings
+62000CJ0465,62001CJ0101,law2vec_200,data protection,Semantic,Cosine Similarity,Law2Vec Embeddings
+62009CJ0092,62004CJ0466,law2vec_200,data protection,Semantic,Cosine Similarity,Law2Vec Embeddings
+62012CJ0131,62013CJ0212,law2vec_200,data protection,Semantic,Cosine Similarity,Law2Vec Embeddings
+62006CJ0301,62005CJ0440,law2vec_200,data protection,Semantic,Cosine Similarity,Law2Vec Embeddings
+62005CJ0326,62009CJ0077,GoogleNews_300,public health,Semantic,Cosine Similarity,GoogleNews Embeddings
+62013CJ0011,62013CO0210,GoogleNews_300,public health,Semantic,Cosine Similarity,GoogleNews Embeddings
+62008CO0517,62011CO0584,GoogleNews_300,public health,Semantic,Cosine Similarity,GoogleNews Embeddings
+62007CJ0378,62004CJ0212,GoogleNews_300,social policy,Semantic,Cosine Similarity,GoogleNews Embeddings
+61995CJ0261,61995CJ0094,GoogleNews_300,social policy,Semantic,Cosine Similarity,GoogleNews Embeddings
+61995CJ0261,61995CJ0373,GoogleNews_300,social policy,Semantic,Cosine Similarity,GoogleNews Embeddings
+62009CJ0447,62008CJ0088,GoogleNews_300,social policy,Semantic,Cosine Similarity,GoogleNews Embeddings
+62006CJ0267,62008CJ0147,GoogleNews_300,social policy,Semantic,Cosine Similarity,GoogleNews Embeddings
+62010CJ0177,62009CJ0444,GoogleNews_300,social policy,Semantic,Cosine Similarity,GoogleNews Embeddings
+62010CJ0177,62005CJ0307,GoogleNews_300,social policy,Semantic,Cosine Similarity,GoogleNews Embeddings
+61996CO0239,61996CO0180,GoogleNews_300,social policy,Semantic,Cosine Similarity,GoogleNews Embeddings
+62002CJ0284,62002CJ0147,GoogleNews_300,social policy,Semantic,Cosine Similarity,GoogleNews Embeddings
+62000CJ0440,61999CJ0062,GoogleNews_300,social policy,Semantic,Cosine Similarity,GoogleNews Embeddings
+62008CJ0405,62007CJ0306,GoogleNews_300,social policy,Semantic,Cosine Similarity,GoogleNews Embeddings
+62014CO0152,62011CO0393,GoogleNews_300,social policy,Semantic,Cosine Similarity,GoogleNews Embeddings
+62017CJ0060,62014CJ0509,GoogleNews_300,social policy,Semantic,Cosine Similarity,GoogleNews Embeddings
+62009CJ0092,62004CJ0466,GoogleNews_300,data protection,Semantic,Cosine Similarity,GoogleNews Embeddings
+62012CJ0131,62012CJ0473,GoogleNews_300,data protection,Semantic,Cosine Similarity,GoogleNews Embeddings
+62016CJ0013,62012CJ0473,GoogleNews_300,data protection,Semantic,Cosine Similarity,GoogleNews Embeddings
+62015CJ0398,62014CJ0362,GoogleNews_300,data protection,Semantic,Cosine Similarity,GoogleNews Embeddings
+62003CJ0453,62002CJ0434,jaccard,public health,Syntactic,Index,Jaccard Distance
+62003CJ0453,62008CJ0058,jaccard,public health,Syntactic,Index,Jaccard Distance
+62003CJ0453,62003CJ0210,jaccard,public health,Syntactic,Index,Jaccard Distance
+62003CJ0453,62001CJ0491,jaccard,public health,Syntactic,Index,Jaccard Distance
+62003CJ0453,62004CJ0154,jaccard,public health,Syntactic,Index,Jaccard Distance
+61988CJ0070,61987CJ0302,jaccard,public health,Syntactic,Index,Jaccard Distance
+61980CJ0272,61975CJ0104,jaccard,public health,Syntactic,Index,Jaccard Distance
+61980CJ0272,61982CJ0174,jaccard,public health,Syntactic,Index,Jaccard Distance
+62009CJ0229,62009CJ0221,jaccard,public health,Syntactic,Index,Jaccard Distance
+62009CJ0229,62007CJ0482,jaccard,public health,Syntactic,Index,Jaccard Distance
+62009CJ0229,61998CJ0306,jaccard,public health,Syntactic,Index,Jaccard Distance
+62009CJ0229,62012CJ0210,jaccard,public health,Syntactic,Index,Jaccard Distance
+62003CJ0211,61988CJ0369,jaccard,public health,Syntactic,Index,Jaccard Distance
+62003CJ0211,61999CJ0387,jaccard,public health,Syntactic,Index,Jaccard Distance
+62003CJ0211,62000CJ0150,jaccard,public health,Syntactic,Index,Jaccard Distance
+62007CJ0270,62004CJ0275,jaccard,public health,Syntactic,Index,Jaccard Distance
+62007CJ0270,61997CJ0374,jaccard,public health,Syntactic,Index,Jaccard Distance
+62016CJ0078,62004CJ0504,jaccard,public health,Syntactic,Index,Jaccard Distance
+62016CJ0078,62001CJ0189,jaccard,public health,Syntactic,Index,Jaccard Distance
+62016CJ0078,62009CJ0077,jaccard,public health,Syntactic,Index,Jaccard Distance
+62005CJ0326,62009CJ0077,jaccard,public health,Syntactic,Index,Jaccard Distance
+62013CJ0528,62009CJ0421,jaccard,public health,Syntactic,Index,Jaccard Distance
+62013CJ0528,62012CJ0356,jaccard,public health,Syntactic,Index,Jaccard Distance
+62015CJ0112,62007CJ0270,jaccard,public health,Syntactic,Index,Jaccard Distance
+62005CO0326(01),62004CO0105,jaccard,public health,Syntactic,Index,Jaccard Distance
+62003CJ0177,62001CJ0296,jaccard,public health,Syntactic,Index,Jaccard Distance
+62003CJ0177,62000CJ0233,jaccard,public health,Syntactic,Index,Jaccard Distance
+62016CJ0384,62011CJ0583,jaccard,public health,Syntactic,Index,Jaccard Distance
+62013CJ0011,62004CJ0431,jaccard,public health,Syntactic,Index,Jaccard Distance
+62013CJ0011,62013CO0210,jaccard,public health,Syntactic,Index,Jaccard Distance
+62013CJ0011,62009CJ0229,jaccard,public health,Syntactic,Index,Jaccard Distance
+62008CO0517,62005CJ0326,jaccard,public health,Syntactic,Index,Jaccard Distance
+62008CO0517,62011CO0584,jaccard,public health,Syntactic,Index,Jaccard Distance
+61998CJ0219,62002CJ0140,jaccard,public health,Syntactic,Index,Jaccard Distance
+62002CO0258,62000CJ0050,jaccard,public health,Syntactic,Index,Jaccard Distance
+62002CO0258,62000CJ0142,jaccard,public health,Syntactic,Index,Jaccard Distance
+62001CJ0135,62001CJ0362,jaccard,public health,Syntactic,Index,Jaccard Distance
+62014CJ0442,62009CJ0524,jaccard,public health,Syntactic,Index,Jaccard Distance
+62014CJ0442,62009CJ0266,jaccard,public health,Syntactic,Index,Jaccard Distance
+62015CJ0282,62001CJ0236,jaccard,public health,Syntactic,Index,Jaccard Distance
+62015CJ0282,62001CJ0192,jaccard,public health,Syntactic,Index,Jaccard Distance
+62013CO0199,62011CO0584,jaccard,public health,Syntactic,Index,Jaccard Distance
+62010CJ0014,62008CJ0425,jaccard,public health,Syntactic,Index,Jaccard Distance
+62004CJ0147,62000CJ0012,jaccard,public health,Syntactic,Index,Jaccard Distance
+62017CJ0634,62005CJ0176,jaccard,public health,Syntactic,Index,Jaccard Distance
+62015CJ0629,61996CJ0368,jaccard,public health,Syntactic,Index,Jaccard Distance
+62016CO0666,62012CO0248,jaccard,public health,Syntactic,Index,Jaccard Distance
+62008CJ0184,62008CJ0282,jaccard,public health,Syntactic,Index,Jaccard Distance
+62016CJ0557,62013CJ0104,jaccard,public health,Syntactic,Index,Jaccard Distance
+62017CJ0367,62009CJ0161,jaccard,public health,Syntactic,Index,Jaccard Distance
+61990CJ0006,61987CJ0022,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62007CJ0378,62004CJ0180,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62007CJ0378,62013CJ0190,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62007CJ0378,62001CJ0397,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62007CJ0378,62004CJ0144,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62007CJ0378,62004CJ0053,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62007CJ0378,62009CJ0109,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62007CJ0378,62013CJ0362,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62007CJ0378,62006CJ0268,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62007CJ0378,62004CJ0212,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61995CJ0261,61995CJ0094,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61995CJ0261,61995CJ0373,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62009CJ0447,62008CJ0088,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62009CJ0447,62007CJ0388,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62009CJ0447,62009CJ0045,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62009CJ0447,62008CJ0341,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62009CJ0447,62008CJ0499,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62009CJ0447,62007CJ0555,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62009CJ0447,62008CJ0229,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61993CJ0007,61999CJ0366,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61993CJ0007,62002CJ0004,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61993CJ0007,62000CJ0351,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61993CJ0007,61995CJ0147,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61993CJ0007,61991CJ0110,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61996CJ0416,61991CJ0237,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61996CJ0416,61997CJ0001,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61996CJ0416,61996CJ0098,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61996CJ0416,61996CJ0036,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61992CJ0410,61990CJ0031,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61993CJ0057,61988CJ0262,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61993CJ0057,61991CJ0110,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62002CJ0055,61992CJ0383,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61989CJ0033,61988CJ0262,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61989CJ0033,61989CJ0184,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62006CJ0267,62002CJ0004,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62006CJ0267,62008CJ0147,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62007CO0364,62004CJ0212,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62007CO0364,62004CJ0053,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62007CO0364,62004CJ0180,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62007CO0364,62010CO0272,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62007CO0364,62008CO0519,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61995CJ0001,61993CJ0457,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61995CJ0001,61996CJ0411,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61995CJ0001,61989CJ0184,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62011CJ0251,62004CJ0212,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62011CJ0251,62013CJ0362,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62011CJ0251,62011CJ0302,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62006CJ0427,62008CJ0147,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62006CJ0427,62004CJ0144,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62006CJ0427,62007CJ0555,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62010CJ0177,62006CJ0268,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62010CJ0177,62005CJ0307,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62010CJ0177,62011CJ0302,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62010CJ0177,62009CJ0444,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62012CJ0007,62010CJ0149,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61992CJ0421,61996CJ0394,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61987CJ0144,61986CJ0287,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61987CJ0144,61986CJ0324,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62008CJ0471,61996CJ0066,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62008CJ0471,61996CJ0411,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62014CJ0065,62012CJ0005,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62014CJ0065,61996CJ0411,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62014CJ0065,62006CJ0116,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62013CJ0362,62009CJ0109,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62013CJ0362,62011CJ0251,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62013CJ0362,62006CJ0268,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62013CJ0362,62004CJ0180,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62013CJ0362,62012CJ0290,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62013CJ0362,62013CJ0190,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62013CJ0362,62007CJ0378,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62013CJ0362,62004CJ0053,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62013CJ0362,62004CJ0212,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62005CJ0278,61990CJ0006,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62013CJ0190,62004CJ0212,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62013CJ0190,62012CJ0290,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62013CJ0190,62013CJ0362,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62013CJ0190,62010CJ0586,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62011CJ0426,62004CJ0499,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61989CJ0229,61985CJ0030,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61996CJ0050,61993CJ0007,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61996CJ0050,61993CJ0435,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61996CJ0050,61993CJ0057,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61996CJ0050,61993CJ0128,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61996CJ0050,61996CJ0246,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61998CJ0207,61988CJ0177,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61998CJ0207,61993CJ0032,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61996CJ0117,61995CJ0373,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61996CJ0117,61995CJ0094,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62009CJ0428,61999CJ0173,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62009CJ0428,62004CJ0484,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62009CJ0428,62001CJ0397,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62009CJ0428,62002CJ0151,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61988CJ0102,61985CJ0384,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61988CJ0102,61988CJ0171,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61998CJ0407,61997CJ0158,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61996CO0239,61996CO0180,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61996CO0239,61993CO0280,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61996CO0239,61995CO0149,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62002CJ0284,61993CJ0342,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62002CJ0284,62002CJ0147,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62002CJ0284,62001CJ0342,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62003CJ0191,61993CJ0342,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62003CJ0191,62006CJ0460,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62003CJ0191,61996CJ0394,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62003CJ0191,61996CJ0066,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61993CJ0457,61988CJ0262,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61993CJ0457,61992CJ0399,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61984CJ0235,61983CJ0143,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62003CJ0082,62001CJ0478,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62016CJ0174,62014CJ0351,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61997CJ0185,61994CJ0013,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61984CJ0262,61981CJ0019,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61990CJ0158,61996CJ0387,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62012CO0194,62010CJ0337,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62012CO0194,62010CJ0214,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62012CO0194,62008CJ0277,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62012CO0194,62011CJ0078,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62000CJ0440,61999CJ0062,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62006CJ0246,62000CJ0442,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62006CJ0246,62003CJ0520,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62006CJ0246,62005CJ0081,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62006CJ0246,62005CO0177,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62017CJ0068,62014CJ0441,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62015CJ0341,62010CJ0214,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62008CJ0405,62007CJ0306,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62014CO0152,62011CO0393,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62017CJ0060,62014CJ0509,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62008CJ0577,62004CJ0423,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62009CO0333,62008CO0287,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62009CO0333,62006CO0302,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61999CJ0193,61996CJ0387,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62015CJ0098,62010CJ0123,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62015CJ0098,62016CJ0354,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62014CO0199,62012CO0488,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62014CO0199,62012CO0614,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62015CJ0335,62002CJ0147,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62015CJ0335,62008CJ0471,jaccard,social policy,Syntactic,Index,Jaccard Distance
+61989CJ0051,61987CJ0242,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62016CJ0200,61995CJ0013,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62016CJ0200,62001CJ0340,jaccard,social policy,Syntactic,Index,Jaccard Distance
+62000CJ0465,62009CJ0092,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62000CJ0465,62001CJ0491,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62000CJ0465,62001CJ0101,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62009CJ0092,62008CJ0028,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62009CJ0092,62000CJ0465,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62001CJ0101,62007CJ0073,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62001CJ0101,62014CJ0362,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62001CJ0101,62004CJ0317,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62001CJ0101,62000CJ0465,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62006CJ0524,62007CJ0033,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62006CJ0524,62003CJ0209,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62006CJ0524,62000CJ0465,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62006CJ0524,62001CJ0101,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62006CJ0524,62007CJ0553,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62012CJ0131,62012CJ0473,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62012CJ0131,62000CJ0465,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62012CJ0131,62007CJ0073,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62012CJ0131,62012CJ0342,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62012CJ0131,62001CJ0101,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62012CJ0131,62007CJ0553,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62010CJ0070,62009CJ0324,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62010CJ0070,62006CJ0275,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62002CJ0350,61995CJ0096,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62002CJ0350,62000CJ0287,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62014CJ0362,62010CJ0584,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62014CJ0362,62001CJ0101,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62014CJ0362,62004CJ0317,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62010CJ0360,62006CJ0275,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62010CJ0360,62010CJ0070,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62012CJ0288,62007CJ0518,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62012CJ0288,62010CJ0614,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62014CJ0582,62001CJ0101,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62014CJ0582,62007CJ0073,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62010CJ0614,62007CJ0518,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62004CJ0317,62007CJ0073,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62004CJ0317,62014CJ0362,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62004CJ0317,62001CJ0101,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62016CO0508,62012CO0368,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62016CO0508,62015CO0526,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62016CO0508,62014CO0282,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62012CJ0293,62009CJ0092,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62016CJ0013,62012CJ0473,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62016CJ0013,62013CJ0212,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62016CJ0013,62014CJ0582,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62006CJ0301,62005CJ0091,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62006CJ0301,62003CJ0380,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62006CJ0301,62005CJ0440,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62006CJ0301,62004CJ0317,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62009CJ0543,62007CJ0424,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62009CJ0543,62003CJ0109,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62009CJ0543,62008CJ0522,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62012CJ0119,62006CJ0275,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62012CJ0119,62010CJ0016,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62012CJ0119,62011CJ0049,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62015CJ0398,62014CJ0362,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62016CJ0434,62014CJ0582,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62016CJ0434,62007CJ0553,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62007CO0073,61964CO0006,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62007CO0073,62004CO0317,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62007CO0073,62004CO0318,jaccard,data protection,Syntactic,Index,Jaccard Distance
+62005CJ0326,62009CJ0077,doc2vec_256_e30,public health,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62013CJ0011,62013CO0210,doc2vec_256_e30,public health,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62008CO0517,62011CO0584,doc2vec_256_e30,public health,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62013CJ0673,62012CJ0279,doc2vec_256_e30,public health,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62017CJ0634,62017CJ0477,doc2vec_256_e30,public health,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62017CJ0527,62012CJ0210,doc2vec_256_e30,public health,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62007CJ0378,62006CJ0268,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62007CJ0378,62013CJ0190,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+61995CJ0261,61995CJ0094,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62006CJ0267,62008CJ0147,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62007CO0364,62008CO0519,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62011CJ0251,62011CJ0302,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62006CJ0427,62007CJ0555,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62010CJ0177,62009CJ0444,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62010CJ0177,62005CJ0307,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62010CJ0177,62006CJ0268,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62013CJ0362,62004CJ0212,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62013CJ0190,62007CJ0378,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+61988CJ0102,61988CJ0171,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+61996CO0239,61996CO0180,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+61993CJ0457,61992CJ0399,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62012CO0194,62010CJ0337,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62012CO0194,62011CJ0078,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62000CJ0440,61999CJ0062,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62017CJ0060,62014CJ0509,doc2vec_256_e30,social policy,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62000CJ0465,62001CJ0101,doc2vec_256_e30,data protection,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62009CJ0092,62008CJ0028,doc2vec_256_e30,data protection,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62001CJ0101,62000CJ0465,doc2vec_256_e30,data protection,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62008CJ0028,62009CJ0092,doc2vec_256_e30,data protection,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62012CJ0293,62010CJ0539,doc2vec_256_e30,data protection,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62012CJ0119,62011CJ0049,doc2vec_256_e30,data protection,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62007CO0073,62004CO0317,doc2vec_256_e30,data protection,Semantic,Cosine Similarity,Doc2Vec Embeddings
+62003CJ0453,62004CJ0154,GoogleNews-300-WMD,public health,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61988CJ0070,61987CJ0302,GoogleNews-300-WMD,public health,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62009CJ0229,62012CJ0210,GoogleNews-300-WMD,public health,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62009CJ0229,61998CJ0306,GoogleNews-300-WMD,public health,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62009CJ0229,62007CJ0482,GoogleNews-300-WMD,public health,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0528,62005CJ0305,GoogleNews-300-WMD,public health,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62015CJ0112,62014CJ0494,GoogleNews-300-WMD,public health,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0011,62009CJ0229,GoogleNews-300-WMD,public health,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0011,62013CO0210,GoogleNews-300-WMD,public health,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0011,62004CJ0431,GoogleNews-300-WMD,public health,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62008CO0517,62011CO0584,GoogleNews-300-WMD,public health,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0673,62012CJ0279,GoogleNews-300-WMD,public health,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61998CJ0219,62002CJ0140,GoogleNews-300-WMD,public health,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62014CJ0442,62009CJ0266,GoogleNews-300-WMD,public health,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62016CJ0557,62013CJ0104,GoogleNews-300-WMD,public health,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CJ0378,62004CJ0212,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CJ0378,62013CJ0362,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CJ0378,62011CJ0251,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CJ0378,62005CJ0307,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CJ0378,62010CJ0586,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CJ0378,62009CJ0109,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CJ0378,62004CJ0053,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CJ0378,62013CJ0190,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CJ0378,62006CJ0268,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CJ0378,62008CO0519,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CJ0378,62004CJ0180,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62009CJ0447,62007CJ0388,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61993CJ0007,62000CJ0351,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61993CJ0007,61991CJ0110,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61993CJ0007,61999CJ0366,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61993CJ0007,62002CJ0004,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61996CJ0416,61986CJ0012,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61996CJ0416,61991CJ0312,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61993CJ0057,62002CJ0004,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61989CJ0033,61989CJ0184,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61989CJ0033,61988CJ0262,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62006CJ0267,62008CJ0147,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62006CJ0267,61991CJ0109,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CO0364,62008CO0519,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CO0364,62007CJ0378,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CO0364,62004CJ0212,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CO0364,62004CJ0053,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CO0364,62006CJ0268,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61995CJ0001,61989CJ0184,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62011CJ0251,62004CJ0212,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62011CJ0251,62007CJ0378,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62011CJ0251,62011CJ0302,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62011CJ0251,62006CJ0268,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62010CJ0177,62006CJ0268,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62010CJ0177,62011CJ0302,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61992CJ0421,61996CJ0394,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61987CJ0144,61986CJ0287,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61987CJ0144,61986CJ0324,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62008CJ0471,61996CJ0066,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62014CJ0065,62012CJ0005,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0362,62007CJ0378,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0362,62004CJ0212,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0362,62005CJ0307,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0362,62006CJ0268,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0362,62004CJ0053,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0362,62013CJ0190,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0362,62009CJ0109,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0362,62009CJ0444,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0362,62012CJ0290,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0190,62004CJ0212,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0190,62007CJ0378,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0190,62010CJ0586,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62013CJ0190,62013CJ0362,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62011CJ0426,62004CJ0499,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61996CJ0050,61996CJ0246,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61996CJ0050,61993CJ0128,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61996CJ0050,61993CJ0057,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61998CJ0207,61993CJ0032,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61996CJ0117,61995CJ0373,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61998CJ0407,61997CJ0158,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62003CJ0191,61996CJ0394,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62016CJ0174,62014CJ0351,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62012CO0194,62008CJ0277,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62012CO0194,62011CJ0078,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62012CO0194,62010CJ0214,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62000CJ0440,61999CJ0062,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62006CJ0246,62003CJ0520,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62006CJ0246,62005CO0177,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62015CJ0341,62001CJ0342,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62015CJ0341,62010CJ0214,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62008CJ0405,62007CJ0306,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62014CO0152,62011CO0393,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62017CJ0060,62014CJ0509,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62014CO0199,62012CO0614,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62014CO0199,62012CO0488,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62015CJ0335,62002CJ0147,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+61989CJ0051,61987CJ0242,GoogleNews-300-WMD,social policy,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62009CJ0092,62008CJ0028,GoogleNews-300-WMD,data protection,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62001CJ0101,62014CJ0362,GoogleNews-300-WMD,data protection,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62012CJ0131,62001CJ0101,GoogleNews-300-WMD,data protection,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62010CJ0070,62006CJ0275,GoogleNews-300-WMD,data protection,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62014CJ0362,62001CJ0101,GoogleNews-300-WMD,data protection,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62010CJ0360,62010CJ0070,GoogleNews-300-WMD,data protection,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62010CJ0360,62006CJ0275,GoogleNews-300-WMD,data protection,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62012CJ0288,62007CJ0518,GoogleNews-300-WMD,data protection,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62010CJ0614,62014CJ0362,GoogleNews-300-WMD,data protection,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62004CJ0317,62014CJ0362,GoogleNews-300-WMD,data protection,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62016CO0508,62014CO0282,GoogleNews-300-WMD,data protection,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62012CJ0119,62003CJ0336,GoogleNews-300-WMD,data protection,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62012CJ0119,62006CJ0275,GoogleNews-300-WMD,data protection,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CO0073,62004CO0318,GoogleNews-300-WMD,data protection,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62007CO0073,62004CO0317,GoogleNews-300-WMD,data protection,Semantic,Word Mover's Distance,GoogleNews Embeddings
+62003CJ0453,62004CJ0504,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62003CJ0453,62004CJ0154,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61988CJ0070,61987CJ0302,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62009CJ0229,62012CJ0210,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62009CJ0229,62007CJ0482,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62009CJ0229,61998CJ0306,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62015CJ0112,62014CJ0494,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62005CO0326(01),62004CO0105,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62013CJ0011,62009CJ0229,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62013CJ0011,62013CO0210,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62013CJ0011,62004CJ0431,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62008CO0517,62011CO0584,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62013CJ0673,62012CJ0279,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61998CJ0219,62002CJ0140,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62001CJ0135,62000CJ0001,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62014CJ0442,62009CJ0266,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62016CJ0557,62013CJ0104,Law2Vec-200-WMD,public health,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CJ0378,62004CJ0212,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CJ0378,62009CJ0109,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CJ0378,62010CJ0586,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CJ0378,62011CJ0251,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CJ0378,62004CJ0053,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CJ0378,62005CJ0307,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CJ0378,62006CJ0268,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CJ0378,62013CJ0190,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CJ0378,62013CJ0362,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CJ0378,62004CJ0180,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CJ0378,62004CJ0144,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62009CJ0447,62007CJ0388,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62009CJ0447,62008CJ0229,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61993CJ0007,62000CJ0351,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61993CJ0007,61999CJ0366,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61993CJ0007,61991CJ0110,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61993CJ0007,62002CJ0004,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61996CJ0416,61986CJ0012,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61993CJ0057,62002CJ0004,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61989CJ0033,61989CJ0184,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61989CJ0033,61988CJ0262,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CO0364,62008CO0519,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CO0364,62007CJ0378,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CO0364,62004CJ0212,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CO0364,62004CJ0053,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CO0364,62004CJ0180,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CO0364,62010CO0272,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61995CJ0001,61989CJ0184,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62011CJ0251,62007CJ0378,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62011CJ0251,62011CJ0302,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62011CJ0251,62004CJ0212,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62011CJ0251,62006CJ0268,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62011CJ0251,62004CJ0144,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62010CJ0177,62006CJ0268,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62010CJ0177,62011CJ0302,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61992CJ0421,61996CJ0394,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61987CJ0144,61986CJ0287,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61987CJ0144,61986CJ0324,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62008CJ0471,61996CJ0066,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62014CJ0065,62012CJ0005,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62013CJ0362,62007CJ0378,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62013CJ0362,62013CJ0190,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62013CJ0362,62010CJ0586,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62013CJ0362,62004CJ0212,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62013CJ0362,62005CJ0307,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62013CJ0362,62006CJ0268,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62013CJ0190,62004CJ0212,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62013CJ0190,62007CJ0378,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62013CJ0190,62013CJ0362,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62013CJ0190,62010CJ0586,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62011CJ0426,62004CJ0499,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61996CJ0050,61996CJ0246,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61996CJ0050,61993CJ0128,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61996CJ0050,61993CJ0057,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61996CJ0050,61975CJ0043,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61998CJ0207,61993CJ0032,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61996CJ0117,61995CJ0373,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61998CJ0407,61997CJ0158,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62002CJ0284,62002CJ0147,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62016CJ0174,62014CJ0351,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62012CO0194,62008CJ0277,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62012CO0194,62010CJ0214,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62012CO0194,62011CJ0078,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62012CO0194,62010CJ0337,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62000CJ0440,61999CJ0062,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62006CJ0246,62003CJ0520,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62006CJ0246,62005CO0177,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62015CJ0341,62010CJ0214,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62015CJ0341,62001CJ0342,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62008CJ0405,62007CJ0306,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62014CO0152,62011CO0393,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62017CJ0060,62014CJ0509,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62009CO0333,62008CO0287,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62014CO0199,62012CO0614,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62014CO0199,62012CO0488,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62015CJ0335,62002CJ0147,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+61989CJ0051,61987CJ0242,Law2Vec-200-WMD,social policy,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62009CJ0092,62008CJ0028,Law2Vec-200-WMD,data protection,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62001CJ0101,62014CJ0362,Law2Vec-200-WMD,data protection,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62010CJ0070,62006CJ0275,Law2Vec-200-WMD,data protection,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62010CJ0360,62010CJ0070,Law2Vec-200-WMD,data protection,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62010CJ0360,62006CJ0275,Law2Vec-200-WMD,data protection,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62012CJ0288,62007CJ0518,Law2Vec-200-WMD,data protection,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62004CJ0317,62014CJ0362,Law2Vec-200-WMD,data protection,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62016CO0508,62014CO0282,Law2Vec-200-WMD,data protection,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62012CJ0119,62006CJ0275,Law2Vec-200-WMD,data protection,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62016CJ0434,62007CJ0553,Law2Vec-200-WMD,data protection,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CO0073,62004CO0318,Law2Vec-200-WMD,data protection,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62007CO0073,62004CO0317,Law2Vec-200-WMD,data protection,Semantic,Word Mover's Distance,Law2Vec Embeddings
+62003CJ0453,62004CJ0154,WMD_256_e30,public health,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62003CJ0453,62004CJ0504,WMD_256_e30,public health,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61988CJ0070,61987CJ0302,WMD_256_e30,public health,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62009CJ0229,62007CJ0482,WMD_256_e30,public health,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62015CJ0112,62014CJ0494,WMD_256_e30,public health,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62005CO0326(01),62004CO0105,WMD_256_e30,public health,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62003CJ0177,62001CJ0296,WMD_256_e30,public health,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62013CJ0011,62013CO0210,WMD_256_e30,public health,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62008CO0517,62011CO0584,WMD_256_e30,public health,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62008CO0517,62006CJ0362,WMD_256_e30,public health,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62001CJ0135,62001CJ0362,WMD_256_e30,public health,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62016CJ0557,62013CJ0104,WMD_256_e30,public health,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62007CJ0378,62004CJ0212,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62007CJ0378,62009CJ0109,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62007CJ0378,62006CJ0268,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62007CJ0378,62004CJ0053,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62007CJ0378,62005CJ0307,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62007CJ0378,62004CJ0180,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62007CJ0378,62004CJ0144,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62007CJ0378,62013CJ0362,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61995CJ0261,61995CJ0094,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62009CJ0447,62007CJ0388,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62009CJ0447,62008CJ0229,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61993CJ0007,61991CJ0110,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61993CJ0007,61999CJ0366,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61993CJ0007,62000CJ0351,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61996CJ0416,61986CJ0012,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61992CJ0410,61990CJ0031,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61989CJ0033,61989CJ0184,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61989CJ0033,61988CJ0262,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62006CJ0267,62008CJ0147,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62007CO0364,62008CO0519,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62007CO0364,62010CO0272,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62007CO0364,62001CJ0397,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61995CJ0001,61989CJ0184,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62011CJ0251,62011CJ0302,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62010CJ0177,62006CJ0268,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61992CJ0421,61996CJ0394,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61987CJ0144,61986CJ0287,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61987CJ0144,61986CJ0324,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62014CJ0065,62012CJ0005,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62013CJ0362,62005CJ0307,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62013CJ0362,62007CJ0378,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62013CJ0362,62006CJ0268,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62013CJ0362,62009CJ0444,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62013CJ0362,62004CJ0053,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62013CJ0362,62004CJ0212,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62013CJ0362,62009CJ0109,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62013CJ0362,62004CJ0180,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62013CJ0190,62010CJ0586,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61996CJ0050,61996CJ0246,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61996CJ0050,61993CJ0128,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61996CJ0050,61993CJ0057,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61998CJ0207,61993CJ0032,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61996CJ0117,61995CJ0373,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61996CJ0117,61995CJ0094,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61998CJ0407,61997CJ0158,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62002CJ0284,62002CJ0147,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62016CJ0174,62014CJ0351,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61984CJ0262,61981CJ0019,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62012CO0194,62011CJ0078,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62012CO0194,62010CJ0337,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62008CJ0405,62007CJ0306,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62014CO0152,62011CO0393,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62017CJ0060,62014CJ0509,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61999CJ0193,61996CJ0387,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62014CO0199,62012CO0614,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62014CO0199,62012CO0488,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+61989CJ0051,61987CJ0242,WMD_256_e30,social policy,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62009CJ0092,62008CJ0028,WMD_256_e30,data protection,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62008CJ0028,62009CJ0092,WMD_256_e30,data protection,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62010CJ0070,62006CJ0275,WMD_256_e30,data protection,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62012CJ0288,62010CJ0614,WMD_256_e30,data protection,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62010CJ0614,62014CJ0362,WMD_256_e30,data protection,Semantic,Word Mover's Distance,Doc2Vec Embeddings
+62003CJ0453,62004CJ0154,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+61988CJ0070,61987CJ0302,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62009CJ0229,62012CJ0210,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62009CJ0229,61998CJ0306,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62009CJ0229,62007CJ0482,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62003CJ0211,61988CJ0369,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62003CJ0211,61999CJ0387,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62003CJ0211,61991CJ0219,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62007CJ0270,62000CJ0284,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62007CJ0270,61997CJ0374,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62016CJ0078,62002CJ0140,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62005CJ0326,62009CJ0077,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62013CJ0528,62009CJ0421,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62006CO0459,61998CO0364,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62006CO0459,61998CO0043,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62015CJ0112,62007CJ0270,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62005CO0326(01),62004CO0105,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62013CJ0011,62009CJ0229,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62013CJ0011,62004CJ0431,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62008CO0517,62011CO0584,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+61998CJ0219,62002CJ0140,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62002CO0258,62000CJ0050,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62001CJ0135,62001CJ0362,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62014CJ0442,62009CJ0266,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62014CJ0442,62014CJ0191,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62015CJ0282,62001CJ0236,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62015CJ0282,62001CJ0192,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62017CJ0634,62005CJ0176,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62015CJ0629,62001CJ0106,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62015CJ0629,62003CJ0036,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62015CJ0629,61996CJ0368,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62008CJ0184,62008CJ0282,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+62016CJ0557,62013CJ0104,tfidf-nostem,public health,Syntactic,Index,TF-IDF
+61990CJ0006,61987CJ0022,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CJ0378,62004CJ0212,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CJ0378,62008CO0519,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CJ0378,62013CJ0362,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CJ0378,62011CJ0251,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CJ0378,62004CJ0053,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CJ0378,62007CO0364,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CJ0378,62004CJ0180,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CJ0378,62009CJ0109,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CJ0378,62013CJ0190,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CJ0378,62006CJ0268,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CJ0378,62010CO0272,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CJ0378,62004CJ0144,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61995CJ0261,61995CJ0094,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61995CJ0261,61995CJ0373,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62009CJ0447,62009CJ0045,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62009CJ0447,62007CJ0388,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62009CJ0447,62007CJ0555,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62009CJ0447,62008CJ0088,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62009CJ0447,62008CJ0229,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62009CJ0447,62008CJ0499,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61993CJ0007,62000CJ0351,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61993CJ0007,61991CJ0110,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61993CJ0007,62002CJ0004,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61993CJ0007,61999CJ0366,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61996CJ0416,61991CJ0237,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61996CJ0416,61996CJ0098,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61996CJ0416,61996CJ0036,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61992CJ0410,61990CJ0031,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61993CJ0057,61991CJ0110,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61993CJ0057,61988CJ0262,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61993CJ0057,62002CJ0004,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62002CJ0055,61992CJ0383,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61989CJ0033,61989CJ0184,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61989CJ0033,61992CJ0399,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62006CJ0267,62008CJ0147,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62006CJ0267,61991CJ0109,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62006CJ0267,61999CJ0050,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62006CJ0267,61991CJ0200,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62006CJ0267,61999CJ0379,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62006CJ0267,62000CJ0351,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62006CJ0267,61995CJ0147,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62006CJ0267,61988CJ0262,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CO0364,62008CO0519,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CO0364,62004CJ0212,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CO0364,62007CJ0378,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CO0364,62010CO0272,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CO0364,62004CJ0053,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CO0364,62004CJ0180,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CO0364,62006CJ0268,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62007CO0364,62004CJ0144,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61986CJ0157,61975CJ0043,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61995CJ0001,61989CJ0184,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61995CJ0001,61993CJ0457,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61995CJ0001,61983CJ0248,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61995CJ0001,61980CJ0096,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61995CJ0001,61977CJ0149,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62011CJ0251,62007CJ0378,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62011CJ0251,62004CJ0212,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62011CJ0251,62013CJ0362,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62011CJ0251,62004CJ0144,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62011CJ0251,62011CJ0302,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62006CJ0427,62007CJ0555,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62006CJ0427,62004CJ0144,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62010CJ0177,62011CJ0302,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62010CJ0177,62009CJ0444,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62010CJ0177,62006CJ0268,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62010CJ0177,62005CJ0307,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62012CJ0007,62010CJ0149,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61992CJ0421,61996CJ0394,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61992CJ0421,61988CJ0177,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61987CJ0144,61986CJ0287,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61987CJ0144,61986CJ0324,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62010CJ0210,61990CJ0007,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62008CJ0471,61996CJ0066,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62008CJ0471,61996CJ0411,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62014CJ0065,61996CJ0411,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62014CJ0065,62012CJ0005,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62014CJ0065,62006CJ0460,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62014CJ0065,62006CJ0116,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62013CJ0362,62007CJ0378,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62013CJ0362,62004CJ0212,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62013CJ0362,62011CJ0251,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62013CJ0362,62004CJ0053,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62013CJ0362,62009CJ0109,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62013CJ0362,62004CJ0180,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62013CJ0362,62013CJ0190,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62013CJ0362,62012CJ0290,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61988CJ0048,61992CJ0343,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62005CJ0278,61990CJ0006,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62013CJ0190,62004CJ0212,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62013CJ0190,62007CJ0378,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62013CJ0190,62013CJ0362,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62013CJ0190,62012CJ0290,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62011CJ0426,62004CJ0499,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61989CJ0229,61985CJ0030,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61996CJ0050,61993CJ0057,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61996CJ0050,61993CJ0128,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61996CJ0050,61993CJ0435,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61996CJ0050,61996CJ0246,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61996CJ0050,61993CJ0007,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61996CJ0050,61991CJ0109,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61998CJ0207,61993CJ0032,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61998CJ0207,61988CJ0177,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61996CJ0117,61995CJ0373,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61996CJ0117,61995CJ0094,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62009CJ0428,62004CJ0484,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62009CJ0428,62002CJ0151,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62009CJ0428,62001CJ0397,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62009CJ0428,61999CJ0173,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61988CJ0102,61985CJ0384,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61988CJ0102,61985CJ0071,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61998CJ0407,61997CJ0158,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62002CJ0284,61993CJ0342,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62002CJ0284,62001CJ0342,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62002CJ0284,62002CJ0147,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62002CJ0284,61995CJ0136,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62003CJ0191,61996CJ0394,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62003CJ0191,61988CJ0179,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62003CJ0191,61996CJ0066,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62003CJ0191,62006CJ0460,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62003CJ0191,61993CJ0342,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61993CJ0457,61992CJ0399,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61983CJ0284,61992CJ0383,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62016CJ0174,62014CJ0351,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61997CJ0185,61984CJ0152,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61984CJ0262,61981CJ0019,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61984CJ0262,61991CJ0328,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61990CJ0158,61996CJ0387,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62012CO0194,62008CJ0277,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62012CO0194,62011CJ0078,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62012CO0194,62010CJ0214,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62012CO0194,62010CJ0337,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62000CJ0440,61999CJ0062,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62006CJ0246,62005CO0177,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62006CJ0246,62005CJ0081,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62006CJ0246,62003CJ0520,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62006CJ0246,62000CJ0442,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62017CJ0068,62014CJ0441,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62015CJ0341,62010CJ0214,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62008CJ0405,62007CJ0306,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62014CO0152,62011CO0393,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62017CJ0060,62014CJ0509,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62008CJ0577,62004CJ0423,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62009CO0333,61995CJ0299,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62017CJ0396,62008CJ0088,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62014CO0199,62012CO0614,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62014CO0199,62012CO0488,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62015CJ0335,62002CJ0147,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62015CJ0335,62008CJ0471,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+61989CJ0051,61987CJ0242,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62016CJ0200,62009CJ0151,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62016CJ0200,61995CJ0013,tfidf-nostem,social policy,Syntactic,Index,TF-IDF
+62000CJ0465,62001CJ0101,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62000CJ0465,62007CJ0073,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62000CJ0465,62007CJ0518,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62000CJ0465,62007CJ0553,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62000CJ0465,62014CJ0362,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62000CJ0465,62012CJ0342,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62009CJ0092,62007CJ0073,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62009CJ0092,62012CJ0473,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62001CJ0101,62007CJ0073,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62001CJ0101,62007CJ0553,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62001CJ0101,62014CJ0362,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62001CJ0101,62012CJ0473,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62001CJ0101,62014CJ0582,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62006CJ0524,62001CJ0101,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62006CJ0524,62007CJ0553,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62006CJ0524,62012CJ0473,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62006CJ0524,62012CJ0342,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62012CJ0131,62001CJ0101,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62012CJ0131,62013CJ0212,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62012CJ0131,62007CJ0553,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62012CJ0131,62007CJ0073,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62012CJ0131,62012CJ0473,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62010CJ0070,62006CJ0275,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62014CJ0362,62001CJ0101,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62014CJ0362,62013CJ0212,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62014CJ0362,62007CJ0553,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62010CJ0360,62010CJ0070,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62010CJ0360,62006CJ0275,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62012CJ0288,62007CJ0518,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62014CJ0582,62001CJ0101,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62014CJ0582,62007CJ0073,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62010CJ0614,62007CJ0518,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62010CJ0614,62014CJ0362,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62004CJ0317,62001CJ0101,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62004CJ0317,62014CJ0362,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62004CJ0317,62007CJ0073,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62016CO0508,62014CO0282,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62016CO0508,62012CO0368,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62016CO0508,62015CO0526,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62016CJ0210,62013CJ0212,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62012CJ0293,62013CJ0212,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62016CJ0013,62013CJ0212,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62016CJ0013,62012CJ0473,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62016CJ0013,62014CJ0582,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62009CJ0543,62003CJ0109,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62012CJ0119,62006CJ0275,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62014CJ0230,62001CJ0101,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62015CJ0398,62014CJ0362,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62016CJ0434,62007CJ0553,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62007CO0073,62004CO0318,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62007CO0073,62004CO0317,tfidf-nostem,data protection,Syntactic,Index,TF-IDF
+62003CJ0453,61993CJ0465,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0453,61988CJ0143,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0453,61997CJ0269,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0453,62004CJ0154,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0453,62003CJ0210,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0453,62001CJ0491,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0453,62002CJ0434,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0453,61995CJ0068,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+61988CJ0070,61987CJ0302,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+61980CJ0272,61982CJ0174,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0229,62012CJ0210,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0229,61998CJ0306,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0229,62007CJ0482,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0211,61997CJ0120,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0211,61982CJ0227,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62007CJ0270,62004CJ0275,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62007CJ0270,62000CJ0363,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62007CJ0270,61997CJ0374,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62007CJ0270,62000CJ0284,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62016CJ0078,62004CJ0504,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62016CJ0078,62002CJ0140,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62016CJ0078,62009CJ0077,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62005CJ0326,62009CJ0077,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62005CJ0326,62005CJ0229,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0528,62009CJ0421,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0528,62013CJ0307,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0528,62014CJ0494,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62006CO0459,61998CO0364,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62015CJ0112,62007CJ0270,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62015CJ0112,62014CJ0494,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62016CJ0519,62016CJ0638,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62005CO0326(01),62004CO0105,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0177,62001CJ0296,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62015CJ0270,62008CJ0399,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0269,62000CJ0041,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62016CJ0384,62011CJ0583,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0011,62009CJ0229,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0011,62004CJ0431,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0011,62013CO0210,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62008CO0517,62005CJ0326,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62008CO0517,62011CO0584,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+61998CJ0219,62002CJ0140,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62002CO0258,62000CJ0050,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62002CO0258,62000CJ0142,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62002CO0258,61998CJ0451,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62001CJ0135,62001CJ0362,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62014CJ0442,62009CJ0266,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62014CJ0442,62009CJ0524,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62015CJ0282,62001CJ0192,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62013CO0199,62010CJ0015,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62013CO0199,62011CO0584,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62010CJ0014,62008CJ0425,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62004CJ0147,62000CJ0012,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62017CJ0634,62005CJ0176,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62015CJ0629,62003CJ0036,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62015CJ0629,61996CJ0368,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62016CO0666,62012CO0248,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62008CJ0184,62008CJ0282,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62016CJ0557,62013CJ0104,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+62017CJ0367,62009CJ0161,tfidf-quintgram-nostem,public health,Syntactic,Index,TF-IDF Quintgrams
+61990CJ0006,61987CJ0022,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CJ0378,62004CJ0212,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CJ0378,62008CO0519,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CJ0378,62013CJ0362,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CJ0378,62004CJ0053,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CJ0378,62013CJ0190,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CJ0378,62004CJ0180,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CJ0378,62009CJ0109,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CJ0378,62010CJ0586,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CJ0378,62011CJ0251,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CJ0378,62007CO0364,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CJ0378,62006CJ0268,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61995CJ0261,61995CJ0094,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61995CJ0261,61995CJ0373,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0447,62008CJ0229,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0447,62007CJ0388,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0447,62007CJ0555,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0447,62008CJ0088,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0447,62008CJ0499,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0447,62008CJ0341,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0447,62009CJ0045,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61993CJ0007,62000CJ0351,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61993CJ0007,61991CJ0110,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61993CJ0007,61999CJ0366,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61993CJ0007,61995CJ0147,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61993CJ0007,62002CJ0004,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61996CJ0416,61997CJ0001,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61992CJ0410,61990CJ0031,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61993CJ0057,61991CJ0110,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61993CJ0057,62002CJ0004,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61993CJ0057,61988CJ0262,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62002CJ0055,61992CJ0383,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61989CJ0033,61989CJ0184,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61989CJ0033,61992CJ0399,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61989CJ0033,61988CJ0262,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61989CJ0033,61993CJ0342,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61989CJ0033,61992CJ0127,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62006CJ0267,62008CJ0147,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CO0364,62004CJ0212,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CO0364,62008CO0519,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CO0364,62007CJ0378,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CO0364,62010CO0272,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CO0364,62004CJ0180,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CO0364,62004CJ0053,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62007CO0364,62006CJ0268,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62011CJ0251,62013CJ0362,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62011CJ0251,62007CJ0378,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62011CJ0251,62004CJ0212,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62011CJ0251,62006CJ0268,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62006CJ0427,62007CJ0555,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62006CJ0427,62004CJ0144,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62010CJ0177,62011CJ0302,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62010CJ0177,62010CO0273,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62010CJ0177,62005CJ0307,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62010CJ0177,62009CJ0444,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62010CJ0177,62010CO0272,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62010CJ0177,62006CJ0268,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62012CJ0007,62010CJ0149,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61992CJ0421,61988CJ0177,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61992CJ0421,61996CJ0394,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61987CJ0144,61986CJ0324,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61987CJ0144,61986CJ0287,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62008CJ0471,61996CJ0411,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62008CJ0471,61996CJ0066,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62014CJ0065,61996CJ0411,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62014CJ0065,62006CJ0116,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62014CJ0065,62009CJ0232,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62014CJ0065,62012CJ0005,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62014CJ0065,62006CJ0460,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0362,62007CJ0378,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0362,62011CJ0251,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0362,62004CJ0053,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0362,62004CJ0212,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0362,62013CJ0190,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0362,62004CJ0180,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0362,62012CJ0290,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0362,62010CJ0586,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61988CJ0048,61993CJ0444,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0190,62007CJ0378,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0190,62010CJ0586,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0190,62013CJ0362,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0190,62004CJ0212,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62013CJ0190,62012CJ0290,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62011CJ0426,62004CJ0499,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61989CJ0229,61985CJ0030,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61989CJ0229,61993CJ0444,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61996CJ0050,61993CJ0435,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61996CJ0050,61996CJ0246,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61996CJ0050,61993CJ0057,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61996CJ0050,61991CJ0109,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61996CJ0050,61993CJ0128,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61996CJ0050,61975CJ0043,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61996CJ0050,61997CJ0167,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61998CJ0207,61993CJ0032,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61998CJ0207,61988CJ0177,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61996CJ0117,61995CJ0373,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61996CJ0117,61995CJ0094,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0428,62002CJ0151,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0428,62001CJ0397,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0428,62004CJ0484,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0428,61999CJ0173,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61988CJ0102,61985CJ0384,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61998CJ0407,61997CJ0158,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61996CO0239,61996CO0180,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61996CO0239,61991CO0117,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61996CO0239,61988CO0160,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61996CO0239,61993CO0280,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61996CO0239,61995CO0149,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62002CJ0284,62001CJ0342,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62002CJ0284,61995CJ0136,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0191,61996CJ0394,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0191,61996CJ0066,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0191,61993CJ0342,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0191,62006CJ0460,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0191,61988CJ0179,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61993CJ0457,61992CJ0399,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61983CJ0284,61992CJ0383,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62003CJ0082,62001CJ0478,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62016CJ0174,62014CJ0351,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61997CJ0185,61994CJ0013,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61984CJ0262,61981CJ0019,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61990CJ0158,61996CJ0387,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62012CO0194,62008CJ0277,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62012CO0194,62011CJ0078,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62012CO0194,62010CJ0214,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62012CO0194,62010CJ0337,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62000CJ0440,61999CJ0062,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62006CJ0246,62005CO0177,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62006CJ0246,62003CJ0520,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62006CJ0246,62005CJ0081,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62006CJ0246,62000CJ0442,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62017CJ0068,62014CJ0441,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62015CJ0341,62010CJ0214,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62008CJ0405,62007CJ0306,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62014CO0152,62011CO0393,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62017CJ0060,62014CJ0509,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62008CJ0577,62004CJ0423,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62009CO0333,62006CO0302,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62009CO0333,62004CO0328,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62009CO0333,61995CJ0299,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62009CO0333,62008CO0287,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61999CJ0193,61996CJ0387,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62015CJ0098,62016CJ0354,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62017CJ0396,62008CJ0088,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62014CO0199,62012CO0614,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62014CO0199,62012CO0488,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62015CJ0335,62008CJ0471,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62015CJ0335,62002CJ0147,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+61989CJ0051,61987CJ0242,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62016CJ0200,62001CJ0340,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62016CJ0200,61995CJ0013,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62016CJ0200,62009CJ0151,tfidf-quintgram-nostem,social policy,Syntactic,Index,TF-IDF Quintgrams
+62000CJ0465,62007CJ0518,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62000CJ0465,62001CJ0101,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62000CJ0465,62012CJ0342,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62000CJ0465,62007CJ0073,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62000CJ0465,62007CJ0553,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0092,62000CJ0465,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0092,62007CJ0073,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0092,62012CJ0473,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62001CJ0101,62004CJ0317,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62001CJ0101,62007CJ0073,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62001CJ0101,62000CJ0465,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62001CJ0101,62014CJ0362,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62001CJ0101,62014CJ0582,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62001CJ0101,62012CJ0473,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62001CJ0101,62007CJ0553,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62006CJ0524,62012CJ0342,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62006CJ0524,62001CJ0101,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62006CJ0524,62000CJ0465,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62006CJ0524,62007CJ0033,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62012CJ0131,62013CJ0212,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62012CJ0131,62007CJ0553,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62012CJ0131,62000CJ0465,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62012CJ0131,62007CJ0073,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62012CJ0131,62012CJ0473,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62010CJ0070,62006CJ0275,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62010CJ0070,62009CJ0324,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62002CJ0350,62000CJ0287,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62002CJ0350,61998CJ0152,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62014CJ0362,62004CJ0317,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62014CJ0362,62001CJ0101,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62014CJ0362,62013CJ0212,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62014CJ0362,62000CJ0465,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62010CJ0360,62010CJ0070,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62010CJ0360,62006CJ0275,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62012CJ0288,62007CJ0518,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62012CJ0288,62010CJ0614,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62014CJ0582,62007CJ0073,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62014CJ0582,62001CJ0101,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62010CJ0614,62007CJ0518,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62010CJ0614,62014CJ0362,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62004CJ0317,62014CJ0362,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62004CJ0317,62001CJ0101,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62004CJ0317,62007CJ0073,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62016CO0508,62014CO0282,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62016CJ0210,62013CJ0212,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62012CJ0293,62012CJ0473,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62012CJ0293,62009CJ0092,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62016CJ0013,62014CJ0582,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62016CJ0013,62013CJ0212,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62006CJ0301,62004CJ0317,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0543,62008CJ0522,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62009CJ0543,62003CJ0109,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62012CJ0119,62006CJ0275,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62015CJ0398,61974CJ0032,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62016CJ0434,62014CJ0582,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62016CJ0434,62007CJ0553,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62007CO0073,61964CO0006,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62007CO0073,62004CO0318,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams
+62007CO0073,62004CO0317,tfidf-quintgram-nostem,data protection,Syntactic,Index,TF-IDF Quintgrams

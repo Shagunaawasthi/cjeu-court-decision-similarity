@@ -1,10 +1,11 @@
 Similarity Type,Similarity Method,Model,method
-Syntactic,Index,TF-IDF Quintgrams,tfidf-quintgram-nostem
+Syntactic,Index,N-grams (N=5),tfidf-quintgram-nostem
 Syntactic,Index,Jaccard Distance,jaccard
 Syntactic,Index,TF-IDF,tfidf-nostem
-Semantic,Cosine Similarity,Doc2Vec Embeddings,doc2vec_256_e30
+Semantic,Word Mover's Distance,GoogleNews Embeddings,GoogleNews-300-WMD
+Semantic,Word Mover's Distance,Law2Vec Embeddings,Law2Vec-200-WMD
+Semantic,Word Mover's Distance,EJC Embeddings,WMD_256_e30
+Semantic,Cosine Similarity,EJC Embeddings,doc2vec_256_e30
 Semantic,Cosine Similarity,Law2Vec Embeddings,law2vec_200
 Semantic,Cosine Similarity,GoogleNews Embeddings,GoogleNews_300
-Semantic,Word Mover's Distance,Doc2Vec Embeddings,WMD_256_e30
-Semantic,Word Mover's Distance,Law2Vec Embeddings,Law2Vec-200-WMD
-Semantic,Word Mover's Distance,GoogleNews Embeddings,GoogleNews-300-WMD
+NoMethod,NoMethod,NoMethod,NoMethod

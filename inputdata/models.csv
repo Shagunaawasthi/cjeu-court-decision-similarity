@@ -4,8 +4,8 @@ Syntactic,Jaccard Distance,N/A,jaccard
 Syntactic,Cosine Similarity,TF-IDF,tfidf-nostem
 Semantic,Word Mover's Distance,GoogleNews Embeddings,GoogleNews-300-WMD
 Semantic,Word Mover's Distance,Law2Vec Embeddings,Law2Vec-200-WMD
-Semantic,Word Mover's Distance,EJC Embeddings,WMD_256_e30
-Semantic,Cosine Similarity,EJC Embeddings,doc2vec_256_e30
+Semantic,Word Mover's Distance,CJEU Embeddings,WMD_256_e30
+Semantic,Cosine Similarity,CJEU Embeddings,doc2vec_256_e30
 Semantic,Cosine Similarity,Law2Vec Embeddings,law2vec_200
 Semantic,Cosine Similarity,GoogleNews Embeddings,GoogleNews_300
 NoMethod,NoMethod,NoMethod,NoMethod
